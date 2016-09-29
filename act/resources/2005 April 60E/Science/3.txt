@@ -1,0 +1,51 @@
+<div class = "para">Passage III</div>
+<div class = "para">As a living cell’s surface area-to-volume ratio (S/V) increases. so does the cell’s ability to exchange substances with its environment.</div>
+<div class = "para">To model this exchange process different-sized cubes of gelatin were immersed in a dye for 1 minute. Table 1 lists the edge length, surface area, volume, S/V, and percent volume of gelatin that was dyed.</div>
+<div class = "para"><table>###5</table></div>
+<div class = "para">Figure 1 shows the S/V of certain rectangular solids and spheres.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 April 60E\imgs\224.png' width = '29.5px'height = '20px'/></div>
+<div class = "para">Figure 2 shows the volume of certain rectangular solids and spheres as a function of surface area.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 April 60E\imgs\225.png' width = '29.5px'height = '18px'/></div>
+<div class = "para">Table 2 lists the diameter and surface area of 5 types of spherical ova (egg cells).</div>
+<div class = "para"><table>###6</table></div>
+<div class = "para">Table 2 adapted from Norman K. Wessells and Janet L. Hopson.</div>
+<div class = "para">Biology. ©1988 by Random House, Inc.</div>
+###################
+<div class = "quiz">14. Ova with very large volumes rend to contain large amounts of nutrients that are used for growth by the embryo. Based on the information in Table 2 and Figure 2, which of the following ova most likely contain the greatest amount of nutrients?
+
+<div class = "choice">F.Sea urchin ova</div>
+<div class = "choice">G.Hu:nan ova</div>
+<div class = "choice">H.Humminobird ova</div>
+<div class = "choice">J.Hen ova</div>
+</div>
+###################
+<div class = "quiz">15. Based on the information in Table l, a cube-shaped with which of the following edge lengths will have the greatest S/V?
+
+<div class = "choice">A.20 mm</div>
+<div class = "choice">B.40 mm</div>
+<div class = "choice">C.60 mm</div>
+<div class = "choice">D.80 mm</div>
+</div>
+###################
+<div class = "quiz">16. Which of the following best describes why the units for the S/V in Figure l are mm-1?
+
+<div class = "choice">F.The .units for volume are mm and the units for surface area are mm2.</div>
+<div class = "choice">G.The units for volume are mm2 and .the units for surface area are mm3.</div>
+<div class = "choice">H.The units for surface area are mm and the units for volume are mm2.</div>
+<div class = "choice">J.The units for surface area are mm2 and the units for volume are mm3.</div>
+</div>
+###################
+<div class = "quiz">17. Based on the information in Figure l, a spherical cell with a diameter of 6 mm will have an S/V closest to which of the following values?
+
+<div class = "choice">A.0.1 mm-l</div>
+<div class = "choice">B.1 mm-l</div>
+<div class = "choice">C.2 mm-l l</div>
+<div class = "choice">D.10 mm-l</div>
+</div>
+###################
+<div class = "quiz">18. Based on the plant cell had an edge length of 0.5 mm, it would have an S/V of:
+
+<div class = "choice">F.3 mm-l</div>
+<div class = "choice">G.6 mm-l</div>
+<div class = "choice">H.12 mm-l</div>
+<div class = "choice">J.18 mm-l</div></div>

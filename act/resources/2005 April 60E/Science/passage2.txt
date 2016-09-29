@@ -1,0 +1,32 @@
+
+Passage II
+The rate of a chemical reaction can be measured as the change in the concentration of its products over a period of time. The following experiments were performed to investigate factors that influence the rate at which potassium permanganate (KMnO<sub>4</sub>) reacts with oxalic acid (H<sub>2</sub>C<sub>2</sub>C<sub>4</sub>) to form Mn2+ and other products.
+Experiment l
+A. 4.0 mL sample of 0.1 M (moles/liter) aqueous KMnO<sub>4</sub>. which was purple in color, was measured with a clean graduated cylinder and poured into a test tube. A 4.0 mL sample of l.0 M aqueous H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> was then measured with a clean graduated cylinder and poured into a second test tube. The 2 test tubes were placed in a 25℃ water bath. After 5 minutes the H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> solution was mixed with the KMnO<sub>4</sub> solution and placed back in the water bath. The time until the purple color disappeared was recorded. This procedure was repeated at 3 other temperatures. The results are shown in Table l.
+<table>###2</table>
+Experiment 2
+The procedure from Experiment l was repeated in every way except that 0.1 mg of manganous sulfate (MnSO<sub>4</sub>), a catalyst, was added to each test tube containing KMnO<sub>4</sub> before the H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> was added. Catalysts are substances that increase the rate of reactions without being used up. The results are shown in Table 2.
+<table>###3</table>
+Experiment 3
+The procedure from Experiment 1 was repeated at a constant temperature of 25℃ and various concentrations of H<sub>2</sub>C<sub>2</sub>C<sub>4</sub>. The results are shown in Table 3.
+<table>###4</table>
+8. In Experiment l, as the reaction temperature increased, the time until the purple color disappeared:
+F. remained the same.   G. decreased only.   H. increased only.   J. increased, then decreased.
+9. If the procedure described in Experiment 2 was repeated and a reaction time of 6 sec was .measured, the temperature of the reaction was most likely:
+A. less than 25℃.               B. greater than 25℃ and less than 40℃.
+C. greater than 40℃ and less than 55℃.             D. greater than 55℃.
+10. How is the experimental design of Experiment l different from that of Experiment 2? In Experiment 1:
+F. MnSO<sub>4</sub> was not added to the reaction; in Experiment 2 MnSO<sub>4</sub> was added.
+G. the concentration of KMnO<sub>4</sub> was less than that used in Experiment 2.
+H. reaction temperatures were varied; in Experiment 2 they remained constant.
+J. the concentration of H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> was varied; in Experiment 2 it remained constant.
+11. Each of the following factors was investigated in the experiments EXCEPT:
+A. adding a catalyst to the reaction mixture.         B. changing the reaction solvent.
+C. varying the reaction temperature.               D. changing the concentration of a reactant.
+12. A. student performed the procedure described in Experiment 1, mixing an H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> solution at 45℃ with a KMnO<sub>4</sub> solution at 40℃. Based on the results of Experiment l, the reaction time was most likely:
+F. less than 25 sec.                          G. greater than 25 sec and less than 48 sec.
+H. greater than 48 sec and less than 105 sec.          J. greater than 105 sec.
+13. A student repeating Trial 9 unknowingly used a graduated cylinder that already contained l.0 mL of H<sub>2</sub>O to measure the H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> solution. Based on the results of Experiment 3, the reaction time that she measured was most likely:
+A. less than 415 sec.                B. greater than 415 sec and less than or .equal to 625 sec.
+C. greater than 625 sec and less than or equal to 837 sec.              D. greater than 837 sec.
+
