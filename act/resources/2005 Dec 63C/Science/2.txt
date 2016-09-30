@@ -1,0 +1,48 @@
+<div class = "para">Passage II</div>
+<div class = "para">How big a star looks at a given distance defines the star’s angular size, θ (see Figure l).</div>
+<div class = "para">Table 1 gives θ of the Sun if it were observed from various distance. Table 2 gives θ of stars 8 light years away from Earth that have various diameter.</div>
+<div class = "para">For a star to be seen as a disk through a telescope, the telescope’s resolution, R, must be less than or equal to θ of the star. Table 3 shows R using yellow light for telescopes of various diameters. Table 4 gives R for a 10m (diameter) telescope using light of different colors.</div>
+<div class = "para"><table>###7</table></div>
+<div class = "para"></div>
+<div class = "para"><table>###8</table></div>
+<div class = "para"></div>
+<div class = "para"><table>###9</table></div>
+###################
+<div class = "quiz">7. Based on Table 4, which of. the following graphs best illustrates the relationship between R and the wave-length of light?
+
+<div class = "choice">A.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\172.png' width = '31.4px'height = '28.6px'/></div>
+<div class = "choice">B.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\173.png' width = '32px'height = '29.7px'/></div>
+<div class = "choice">C.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\174.png' width = '32px'height = '29.7px'/></div>
+<div class = "choice">D.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\175.png' width = '31.4px'height = '30.3px'/></div>
+</div>
+###################
+<div class = "quiz">8. According to Table 3, at. a given wavelength, as the diameter of a telescope increases, the smallest angular size that an object can have and still be seen as a disk through the telescope:
+
+<div class = "choice">F.increases only.</div>
+<div class = "choice">G.decreases only.</div>
+<div class = "choice">H.remains constant.</div>
+<div class = "choice">J.varies, but with no general trend.</div>
+</div>
+###################
+<div class = "quiz">9. The Sun’s diameter is l.4×106 km. How does the Sun’s diameter compare with the diameters of the 4 stars listed in Table 2? The Sun’s diameter is:
+
+<div class = "choice">A.greater than the diameters of all 4 stars.</div>
+<div class = "choice">B.less than the diameters of all 4 stars.</div>
+<div class = "choice">C.the same as the diameter of the 4 stars.</div>
+<div class = "choice">D.greater than the diameters of 2 0f the stars and less than the diameters of the other 2 stars.</div>
+</div>
+###################
+<div class = "quiz">10. Table l gives the angular size of the Sun if it were observed from a distance of 8 light years. How would I this angular size compare with the angular sizes of the 4 stars listed in Table 2? The Sun’s angular size would be:
+
+<div class = "choice">F.greater than the angular sizes of all 4 stars.</div>
+<div class = "choice">G.less than the angular sizes of all 4 stars.</div>
+<div class = "choice">H.greater than the angular size of l of the stars arid less than the angular sizes of 3 of the stars.</div>
+<div class = "choice">J.the same as the angular size of the 4 stars.</div>
+</div>
+###################
+<div class = "quiz">11. A hypothetical yellow star at a given distance from Earth has a θ of 2.0×10-2 arcsecond. Based on information in the passage, the star will be seen as a disk through Earth-based telescopes having which of the diameters listed in Table 3?
+
+<div class = "choice">A.2m only.</div>
+<div class = "choice">B.2m, 4m, and 6m only.</div>
+<div class = "choice">C.8m and 10m only.</div>
+<div class = "choice">D.Any of the diameters listed in Table 3</div></div>

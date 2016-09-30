@@ -1,0 +1,26 @@
+
+Passage II
+How big a star looks at a given distance defines the star’s angular size, θ (see Figure l).
+Table 1 gives θ of the Sun if it were observed from various distance. Table 2 gives θ of stars 8 light years away from Earth that have various diameter.
+For a star to be seen as a disk through a telescope, the telescope’s resolution, R, must be less than or equal to θ of the star. Table 3 shows R using yellow light for telescopes of various diameters. Table 4 gives R for a 10m (diameter) telescope using light of different colors.
+<table>###7</table>
+
+<table>###8</table>
+
+<table>###9</table>
+7. Based on Table 4, which of. the following graphs best illustrates the relationship between R and the wave-length of light?
+A.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\172.png' width = '31.4px'height = '28.6px'/>      B.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\173.png' width = '32px'height = '29.7px'/>         C.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\174.png' width = '32px'height = '29.7px'/>          D. <img src='file:\$$$\resourses\2005 Dec 63C\imgs\175.png' width = '31.4px'height = '30.3px'/>
+8. According to Table 3, at. a given wavelength, as the diameter of a telescope increases, the smallest angular size that an object can have and still be seen as a disk through the telescope:
+F. increases only.  G. decreases only.  H. remains constant.  J. varies, but with no general trend.
+9. The Sun’s diameter is l.4×106 km. How does the Sun’s diameter compare with the diameters of the 4 stars listed in Table 2? The Sun’s diameter is:
+A. greater than the diameters of all 4 stars.      B. less than the diameters of all 4 stars.
+C. the same as the diameter of the 4 stars.
+D. greater than the diameters of 2 0f the stars and less than the diameters of the other 2 stars.
+10. Table l gives the angular size of the Sun if it were observed from a distance of 8 light years. How would I this angular size compare with the angular sizes of the 4 stars listed in Table 2? The Sun’s angular size would be:
+F. greater than the angular sizes of all 4 stars.     G. less than the angular sizes of all 4 stars.
+H. greater than the angular size of l of the stars arid less than the angular sizes of 3 of the stars.
+J. the same as the angular size of the 4 stars.
+11. A hypothetical yellow star at a given distance from Earth has a θ of 2.0×10-2 arcsecond. Based on information in the passage, the star will be seen as a disk through Earth-based telescopes having which of the diameters listed in Table 3?
+A. 2m only.       B. 2m, 4m, and 6m only.         C. 8m and 10m only.
+D. Any of the diameters listed in Table 3
+
