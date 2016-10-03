@@ -1,0 +1,40 @@
+
+Passage I
+In certain solutions, beet cells undergo membrane disruption, causing the cells to release betacyanin (a red pigment). As membrane disruption increases, more betacyanin is released. To determine the amount of betacyanin released, the amount of light absorbed (at a specific wave-length) by the solution is measured. As the concentration of betacyanin in the solution in creases; the amount of light absorbed increases.
+To determine the amount of light absorbed by a solution, light is directed through a sample of the solution onto a detector (see Figure 1).
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\171.png' width = '52px'height = '20.6px'/>
+By measuring the amount of light that hits the detector, the amount of light absorbed by the sample can be determined.
+Experiment 1
+For each of 9 trials, a student placed a beet section (2cm × 2cm × lcm) in 100mL of water at a specific temperature for 10, 20, or 30 min. The student then removed a sample of the solution and determined its absorbance (see Table l).
+<table>###4</table>
+Experiment 2
+Experiment l was repeated, except that in each trial an acetone/water solution was used instead of water and the temperature was kept constant at 250℃ (see Table 2).
+<table>###5</table>
+Experiment 3
+Experiment 2 was repeated, except that in each trial a methanol/water solution was used instead  of an acetone/water solution (see Table 3).
+<table>###6</table>
+The student then determined the absorbance of water, of acetone, and of methanol. Each had an absorbance of 0.00.
+1. Suppose that in Experiment 3 a beet section had been placed in a solution that was 40% methanol by volume for 20 min. The absorbance of the sample from the resulting solution would most likely have been closest to which of the following?
+A. 0.15        B. 0.30         C. 0.45 .         D. 0.60
+2. Based on the results of Experiment 2, which of the following additional trials would have resulted in an absorbance closest to 0.80?
+F. 10% acetone for 15 min      G. l0% acetone for 25 min      H. 30% acetone for 25 min
+J. 30% acetone for 35 min
+3. The results of Experiment l are most consistent with which of the following conclusions about the effects of temperature on membrane disruption and absorbance? Higher temperatures resulted in:
+A. greater membrane disruption and higher absorbances.
+B. greater membrane disruption and lower absorbances.
+C. less membrane disruption and higher absorbances.
+D. less membrane disruption and lower absorbances.
+4. The student concluded that at a given concentration, acetone causes more membrane disruption than does methanol. Is this conclusion supported by the results of Experiments 2 and 3?
+F. No, because at each concentration tested, more betacyanin was released in the acetone solution than was released in the methanol solution.
+G. No, because at each concentration tested,1ess betacyanin was released in the acetone solution than was released in the methanol solution.
+H. Yes, because at each concentration tested, more betacyanin was released in the acetone solution than was released in the methanol solution.
+J. Yes, because at each concentration tested, less betacyanin was released in the acetone solution than was released in the methanol solution.
+5. Suppose that in Experiment l, betacyanin concentration was directly proportional to absorbance. Accordingly; the betacyanin concentration in the sample in Trial 7 was most likely twice as great as the betacyanin concentration in the sample in:
+A. Trial 3.     B. Trial 4.       C. Trial 5.       D. Trial 6.
+6. In Experiment l, the student directly varied 2 independent variables and measured how these changes affected the value of the dependent variable. Which of the following lists an independent variable and the dependent variable in Experiment l ?
+<u>Independent variable</u>               <u>Dependent variable</u>
+F. absorbance                     water concentration
+G. water concentration              methanol concentration
+H. methanol-concentration           temperature
+J. temperature                     absorbance
+

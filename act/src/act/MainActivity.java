@@ -13,7 +13,7 @@ import act.View.*;
 
 public class MainActivity extends JFrame{
 	/**
-	 This is the main activity. where main method in. 
+	 This dsdsa is the main activity. where main method in. 
 	 */
 	private static final long serialVersionUID = 1L;
 	//private MainController mainController = new MainController();
@@ -68,8 +68,6 @@ public class MainActivity extends JFrame{
 		this.revalidate();
 	}
 	public static void main(String[] args){
-		
-		
 		MainActivity mainActivity = new MainActivity();
 		mainActivity.addWindowListener(new WindowAdapter(){
 			@Override
@@ -77,6 +75,7 @@ public class MainActivity extends JFrame{
 				System.exit(0);
 			}
 		});
+
 	}
 
 	

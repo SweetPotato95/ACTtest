@@ -86,6 +86,8 @@ public class readText {
 	}
 	public static String readPassage(String filename){
 		String passage = "";
+		String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);
 		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
@@ -94,8 +96,10 @@ public class readText {
 			String tmpstring = null;
 			int line = 1;
 			while((tmpstring = reader.readLine()) != null){
+
+				tmpstring = tmpstring.replace("resourses", "resources");
 				//System.out.println("reading...line "+line);
-				line ++;
+				//line ++;
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
@@ -115,6 +119,7 @@ public class readText {
 				}
 			}
 		}
+		passage = passage.replace("$$$", path);
 		return passage;
 	}
 	public static String readDirection(String filename){
@@ -150,6 +155,8 @@ public class readText {
 		choice tmpresult = new choice(type);
 		File file = new File(filename);
 		BufferedReader reader = null;
+		String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
@@ -162,8 +169,11 @@ public class readText {
 			String ques = "";
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
+				tmpstring = tmpstring.replace("resourses", "resources");
+				tmpstring = tmpstring.replace("$$$", path);
 				//System.out.println("reading...line "+line);
-				line ++;
+				//line ++;
+				
 				if (tmpstring.startsWith("####")){
 					mark = 1;
 					ques = "";
