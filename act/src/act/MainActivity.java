@@ -9,7 +9,7 @@ import act.View.*;
 
 public class MainActivity extends JFrame{
 	/**
-	 This is the main activity. where main method in. 
+	 This dsdsa is the main activity. where main method in. 
 	 */
 	private static final long serialVersionUID = 1L;
 	//private MainController mainController = new MainController();
