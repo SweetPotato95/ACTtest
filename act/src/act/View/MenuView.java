@@ -23,10 +23,13 @@ import act.MainActivity;
 public class MenuView extends JPanel{
 	private JTable table = null;
 	private MyTableModel model = null;
-	private MainActivity mainActivity ;
+	private MainActivity mainActivity;
+	
+	
 	public MenuView(){
 		init();
 	}
+	
 	private void init(){
 		this.setSize(ViewConstants.MAINPANEL_WIDTH,ViewConstants.MAINPANEL_HEIGHT);
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH,ViewConstants.MAINPANEL_HEIGHT));
@@ -34,7 +37,7 @@ public class MenuView extends JPanel{
 		
 		model = new MyTableModel();
 		table = new JTable(model);
-		System.out.println(table.getHeight()+","+table.getWidth());
+		
 		ButtonColumn buttonColumn1 = new ButtonColumn(table,1);
 		ButtonColumn buttonColumn2 = new ButtonColumn(table,2);
 		
@@ -181,7 +184,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		if(column == 2)return;
-		System.out.println(row +" "+column);
+		//System.out.println(row +" "+column);
 		menuView.enterTest(row);
 		
 	}
@@ -199,7 +202,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 		if (column == 2)eb.setText(text2);
         this.row=row;
         return eb;
-	} 
+	}
 	public void setMenuView(MenuView m){
 		menuView = m;
 	}

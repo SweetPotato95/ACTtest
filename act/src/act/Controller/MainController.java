@@ -42,11 +42,11 @@ public class MainController{
 	private static void calSplitIndex(){
 		for(int i=0;i<ModelConstants.SPLITNUM_TOTAL;i++){
 			splitInPart[i] = basicInfo.splitIndexinPart(i);
-			System.out.println(i+","+splitInPart[i]);
+			//System.out.println(i+","+splitInPart[i]);
 		}
 	}
 	public static void handleNext(){
-		System.out.println(questionIndex+","+splitIndex+","+partIndex);
+		//System.out.println(questionIndex+","+splitIndex+","+partIndex);
 		if(partIndex > basicInfo.getTotalPartNum()){
 			return;
 		}
@@ -108,10 +108,14 @@ public class MainController{
 		
 	}
 	public static void handleScore(){
+		mainView.setCountingStatus(false);
+		ans.judgeScore();
 		mainView.showScoreView();	
 	}
 	public static void handleReturn(){
 		mainActivity.showMenuView();
+		ans.resetAll();
+		
 	}
 	
 	public static void setMainContent(MainView v){
@@ -119,6 +123,7 @@ public class MainController{
 	}
 	public static void setBasicInfo(TestBasicInfo t){
 		basicInfo = t;
+		ans.setBasicInfo(t);
 	}
 	public static void setAnswerModel(AnswerModel a){
 		ans = a;
@@ -143,7 +148,7 @@ public class MainController{
 	}
 	public static void UpdateBrains(int splitIndex,int partIndex,int testIndex){
 		mathBrain.updateMath(testIndex);
-		readingBrain.updateReading(testIndex, splitIndex, partIndex);
+		readingBrain.updateReading(testIndex, splitInPart[splitIndex], partIndex);
 	}
 	public static void setMainActivity(MainActivity m){
 		mainActivity = m;
@@ -167,15 +172,23 @@ public class MainController{
 		return questionIndex;
 	}
 	public static void timeIsUp(){
-		submitThisPart();
+		if(partIndex + 1 == ModelConstants.PARTNUM_TOTAL){
+			handleScore();
+		}
+		else {
+			submitThisPart();
+		}
 	}
 	public static void submitThisPart(){
+		
 		mainView.showInstructionView(++partIndex);
 		mainView.startTimer(partIndex);
 		splitIndex = basicInfo.firstSplitInPart(partIndex);
 		questionIndex = basicInfo.firstQuestionIndexInSplit(splitIndex);
 		UpdateBrains(splitIndex,partIndex,testIndex);
-		System.out.println(questionIndex+","+splitIndex);
+		//System.out.println(questionIndex+","+splitIndex);
 		isInstructionShowing = true;
+		
 	}
+	
 };

@@ -50,9 +50,9 @@ public class TestBasicInfo{
 			}
 		}
 		
-		for(int i=0; i<ModelConstants.QUESTIONNUM_TOTAL;i++){
+		/*for(int i=0; i<ModelConstants.QUESTIONNUM_TOTAL;i++){
 			System.out.println(questions[i].partIndex+","+questions[i].splitIndex+","+questions[i].questionIndex);
-		}
+		}*/
 	}
 	
 	public boolean isLastInPart(int i){

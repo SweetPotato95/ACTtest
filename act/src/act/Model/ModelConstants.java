@@ -5,8 +5,9 @@ public class ModelConstants{
 	public static final int PARTNUM_TOTAL = 5;
 	public static final int[] SPLITNUM_PER_PART = {5,1,4,7,1};
 	public static final int SPLITNUM_TOTAL = 18;
-	public static final int[] QUESTIONNUM_PER_SPLIT={15,15,15,15,15,60,10,10,10,10,7,6,5,6,6,5,5,1};
-	public static final int QUESTIONNUM_TOTAL = 216;
+	public static final int[] QUESTIONNUM_PER_SPLIT={15,15,15,15,15,60,10,10,10,10,7,6,5,6,6,5,5,0};
+	public static final int QUESTIONNUM_TOTAL = 215;
+	public static final int[] QUESTIONNUM_PER_PART={75,60,40,40,0};
 	public static int ENGLISH = 0;
 	public static int MATH = 1;
 	public static int READING = 2;
@@ -14,6 +15,7 @@ public class ModelConstants{
 	public static int WRITING = 4;
 	
 	public static String[] PARTNAME= {"English","Math","Reading","Science","Writing"};
+	public static String[] TESTNAME = {"resources\\2005 April 60E\\",""};
 	public ModelConstants(){
 		
 	}

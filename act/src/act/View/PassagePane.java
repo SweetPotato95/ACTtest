@@ -31,17 +31,6 @@ public class PassagePane extends JPanel{
 		passagepane.setOpaque(false);
 		HTMLEditorKit kit = (HTMLEditorKit)passagepane.getEditorKit();
         kit.setAutoFormSubmission(false);
-        passagepane.addHyperlinkListener(new HyperlinkListener()
-        {                           
-            @Override
-            public void hyperlinkUpdate(HyperlinkEvent e)
-            {
-                if (e instanceof FormSubmitEvent)
-                {
-                    System.out.println(((FormSubmitEvent)e).getData());
-                }
-            }
-        });
 		passageFile = new File("D://test.html"); 
 			//passagepane.setPage(passageFile.toURI().toURL());
 			passagepane.setText("<html><body><h1>haha</h1><p>fuckfuck</p></body></html>");

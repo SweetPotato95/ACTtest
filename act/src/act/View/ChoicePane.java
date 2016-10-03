@@ -28,7 +28,7 @@ public class ChoicePane extends JPanel{
 	
 	public void init(int type){
 		for(int i=0;i<choiceSize;i++){
-			System.out.println(i);
+			//System.out.println(i);
 			choicelist[i] = new SingleChoicePane();
 			//choicelist.add(new SingleChoicePane());
 		}

@@ -33,19 +33,20 @@ public class reading {
 	}
 	public String readDirection(int partIndex){
 		String res = readText.readDirection("resources\\2005 April 60E\\"+ModelConstants.PARTNAME[partIndex]+"\\Direction.txt");
-		System.out.println(res);
+		//System.out.println(res);
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
 		if(partIndex == ModelConstants.MATH){
-			System.out.println("Miss request from Math to Reading");
+			//System.out.println("Miss request from Math to Reading");
 			return;
 		}
 		if(testIndex == this.testIndex && splitIndex == this.splitIndexinPart && partIndex == this.partIndex){
-			System.out.println("Already newest");
+			//System.out.println("Already newest");
 			return;
 		}
-		System.out.println("Update in");
+		//System.out.println("Update in");
+		
 		this.testIndex = testIndex;
 		this.partIndex = partIndex;
 		this.splitIndexinPart = splitIndex;

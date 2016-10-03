@@ -29,13 +29,16 @@ public class TimerView extends JPanel{
 	private JLabel jl2;
 	private JLabel jl3;
 	private JTextPane jtp;
+	private boolean inCountingMode = true;
 
 	/* 倒计时的主要代码块 */
 	public void startCount(int hour,int minute,int seconds) {
 		int totalTime = hour*3600 + minute*60 + seconds;
 		startCount(totalTime);
 	}
-	
+	public void setCountingStatus(boolean c){
+		inCountingMode = c;
+	}
 	public void startCount(int totalTime) {
 
 		new Thread(){
@@ -45,12 +48,12 @@ public class TimerView extends JPanel{
 				long minute = 0;
 				long seconds = 0;
 
-				while (time >= 0) {
+				while (time >= 0 && inCountingMode) {
 					hour = time / 3600;
 					minute = (time - hour * 3600) / 60;
 					seconds = time - hour * 3600 - minute * 60;
 					
-					System.out.println(hour+","+minute+","+seconds);
+					//System.out.println(hour+","+minute+","+seconds);
 					jl1.setText(hour + "时");
 					jl2.setText(minute + "分");
 					jl3.setText(seconds + "秒");
@@ -61,9 +64,14 @@ public class TimerView extends JPanel{
 					}
 					time--;
 				}
-				
-					System.out.println("In");
+				if(inCountingMode){
+					//System.out.println("In");
 					MainController.timeIsUp();
+				}
+				else{
+					//System.out.println("Exit");
+				}
+				
 				
 			}
 		}.start();

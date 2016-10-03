@@ -96,5 +96,8 @@ public class ControlPane extends JPanel{
 		int totalTime = hour*3600 + minute*60 + seconds;
 		startTimer(totalTime);
 	}
+	public void setCountingStatus(boolean c){
+		timerView.setCountingStatus(c);
+	}
 	
 };

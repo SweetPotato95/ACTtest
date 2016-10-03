@@ -1,5 +1,9 @@
 package act;
 
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
+
 import javax.swing.*;
 import act.Model.*;
 import act.Controller.*;
@@ -31,8 +35,9 @@ public class MainActivity extends JFrame{
 	public void initMainController(int testIndex){
 		MainController.setMainActivity(this);
 		MainController.setTestIndex(testIndex);
-		MainController.setBasicInfo(basicInfo);
 		MainController.setAnswerModel(ans);
+		
+		MainController.setBasicInfo(basicInfo);
 		
 		MainController.setReading(readingBrain);
 		MainController.setMath(mathBrain);
@@ -42,6 +47,7 @@ public class MainActivity extends JFrame{
 	public void initMainView(int testIndex){
 		initMainController(testIndex);
 		mainView = new MainView();
+		
 		mainView.setReadingBrain(readingBrain);
 		readingBrain.updateReading(testIndex, 0, 0);
 		
@@ -65,8 +71,13 @@ public class MainActivity extends JFrame{
 		
 		
 		MainActivity mainActivity = new MainActivity();
-		
+		mainActivity.addWindowListener(new WindowAdapter(){
+			@Override
+			public void windowClosing(WindowEvent we){
+				System.exit(0);
+			}
+		});
 	}
-	
+
 	
 }

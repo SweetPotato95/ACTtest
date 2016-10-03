@@ -6,6 +6,9 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
+import act.Model.AnswerModel;
+import act.Model.ModelConstants;
+
 public class ScoreListViewCellDetail extends JDialog{
  /**
 	 * 
@@ -25,10 +28,23 @@ String[] colunmNames = {"QuestionId","CorrectAnswer","YourAnswer","Score"};
  JPanel centerPanel = new JPanel();
  public ScoreListViewCellDetail(int x,int y){
   setBounds(x,y,ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH,ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT);
-  detailScoreTable = new JTable(model);
-  scrollPane = new JScrollPane(detailScoreTable);
-  scrollPane.setSize((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),(int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
-  add(scrollPane,BorderLayout.CENTER);
-  
+  this.setVisible(true);
+ }
+ 
+ public void init(){
+	 model = new DefaultTableModel(values,colunmNames);
+	 detailScoreTable = new JTable(model);
+	 scrollPane = new JScrollPane(detailScoreTable);
+	 scrollPane.setSize((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),(int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
+	 //this.remove(scrollPane);
+	 scrollPane.setVisible(true);
+	 add(scrollPane,BorderLayout.CENTER); 
+ }
+ 
+ public void setModel(int i){
+	 values = AnswerModel.getAnsModel(i);
+	 
  }
 }
+
+

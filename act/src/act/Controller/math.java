@@ -21,7 +21,7 @@ public class math {
 	public void updateMath(int testNum){
 		
 		if(testNum == this.testnum){
-			System.out.println("Already Newest");
+			//System.out.println("Already Newest");
 			return;
 		}
 		this.testnum = testNum;

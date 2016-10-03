@@ -57,7 +57,7 @@ public class MainView extends JPanel{
               if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED){  
                   switch (((KeyEvent)event).getKeyCode()) {  
                   case KeyEvent.VK_ENTER:  
-                       System.out.println("fuckyou");
+                       //System.out.println("fuckyou");
                       break;  
                   case KeyEvent.VK_RIGHT:
                 	  MainController.handleNext();
@@ -108,7 +108,7 @@ public class MainView extends JPanel{
 		mainContent.moveToFront(writingView);
 	}
 	public void showInstructionView(int partIndexToShow){
-		System.out.println("IN");
+		//System.out.println("IN");
 		choiceView.setVisible(false);
 		passageView.setVisible(false);
 		writingView.setVisible(false);
@@ -123,6 +123,7 @@ public class MainView extends JPanel{
 		mainContent.removeAll();
 		mainContent.add(scoreListView,0);
 		navBar.scoreMode();
+		scoreListView.init();
 		scoreListView.setVisible(true);
 	}
 	public void requestUpdate(){
@@ -159,5 +160,8 @@ public class MainView extends JPanel{
 	}
 	public void startTimer(int partIndex){
 		navBar.startTimer(ViewConstants.TIME_LIMIT_PER_PART[partIndex]);
+	}
+	public void setCountingStatus(boolean c){
+		navBar.setCountingStatus(c);
 	}
 };
