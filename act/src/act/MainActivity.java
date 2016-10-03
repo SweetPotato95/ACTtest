@@ -63,9 +63,11 @@ public class MainActivity extends JFrame{
 	}
 	public static void main(String[] args){
 		
-		
-		MainActivity mainActivity = new MainActivity();
-		
+		centerShow cs = new centerShow(new MainActivity());
+//		MainActivity mainActivity = new MainActivity();
+		String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);
+		System.out.println(path);
 	}
 	
 	

@@ -1,9 +1,13 @@
 package act.View;
 
+import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Container;
 import java.awt.Dimension;
+import java.awt.FlowLayout;
 import java.awt.Font;
+import java.awt.GridBagConstraints;
+import java.awt.GridBagLayout;
 import java.awt.Insets;
 import java.awt.event.*;
 
@@ -12,9 +16,11 @@ import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.JTextArea;
 import javax.swing.SwingConstants;
 import javax.swing.table.*;
 
@@ -24,13 +30,24 @@ public class MenuView extends JPanel{
 	private JTable table = null;
 	private MyTableModel model = null;
 	private MainActivity mainActivity ;
+	private JPanel Title = null;
+	private JLabel content = null;
 	public MenuView(){
 		init();
 	}
 	private void init(){
 		this.setSize(ViewConstants.MAINPANEL_WIDTH,ViewConstants.MAINPANEL_HEIGHT);
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH,ViewConstants.MAINPANEL_HEIGHT));
+		this.setLayout(new GridBagLayout());
 		
+		content = new JLabel("ACT模考");
+		content.setFont(new Font("微软雅黑",Font.PLAIN,25));
+		content.setSize(100,100);
+		Title = new JPanel();
+		Title.add(content);
+		this.add(content);
+		this.add(Title, new GBC(0,0,1,1).  
+                setFill(GBC.BOTH).setIpad(ViewConstants.MAINPANEL_WIDTH, 50).setWeight(100, 0));
 		
 		model = new MyTableModel();
 		table = new JTable(model);
@@ -55,7 +72,9 @@ public class MenuView extends JPanel{
 	    
 		JScrollPane scroll = new JScrollPane(table);
 		scroll.setBorder(BorderFactory.createEtchedBorder());
-		this.add(scroll);
+//		this.add(scroll);
+		this.add(scroll, new GBC(0,1,10,1).  
+                setFill(GBC.BOTH).setIpad(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT-content.getHeight()));//.setWeight(100, 0));
 		this.setVisible(true);
 	}
 	
@@ -203,4 +222,66 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 	public void setMenuView(MenuView m){
 		menuView = m;
 	}
+}
+class GBC extends GridBagConstraints
+{
+   //初始化左上角位置
+   public GBC(int gridx, int gridy)
+   {
+      this.gridx = gridx;
+      this.gridy = gridy;
+   }
+
+   //初始化左上角位置和所占行数和列数
+   public GBC(int gridx, int gridy, int gridwidth, int gridheight)
+   {
+      this.gridx = gridx;
+      this.gridy = gridy;
+      this.gridwidth = gridwidth;
+      this.gridheight = gridheight;
+   }
+
+   //对齐方式
+   public GBC setAnchor(int anchor)
+   {
+      this.anchor = anchor;
+      return this;
+   }
+
+   //是否拉伸及拉伸方向
+   public GBC setFill(int fill)
+   {
+      this.fill = fill;
+      return this;
+   }
+
+   //x和y方向上的增量
+   public GBC setWeight(double weightx, double weighty)
+   {
+      this.weightx = weightx;
+      this.weighty = weighty;
+      return this;
+   }
+
+   //外部填充
+   public GBC setInsets(int distance)
+   {
+      this.insets = new Insets(distance, distance, distance, distance);
+      return this;
+   }
+
+   //外填充
+   public GBC setInsets(int top, int left, int bottom, int right)
+   {
+      this.insets = new Insets(top, left, bottom, right);
+      return this;
+   }
+
+   //内填充
+   public GBC setIpad(int ipadx, int ipady)
+   {
+      this.ipadx = ipadx;
+      this.ipady = ipady;
+      return this;
+   }
 }
