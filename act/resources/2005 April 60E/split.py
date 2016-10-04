@@ -141,7 +141,7 @@ def lens(src):
 	f.close()
 
 def readTable(src):
-	f = open(src, 'r',encoding= 'utf-8')
+	f = open(src, 'r',encoding= 'gbk')
 	lines = f.readlines()
 	f.close()
 	tmpt = ""
