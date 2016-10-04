@@ -34,10 +34,10 @@
 <div class = "quiz">39. Which of. the following tables represents the assumptions about temperature and pH that would have to be made to properly interpret the data in Figures l-3?
 
 <div class = "choice">A.<div class = "para"></div></div>
-<table>###11</table>B. <div class = "para"></div>
-<table>###12</table>C. <div class = "para"></div>
-<table>###13</table>D. <div class = "para"></div>
-<table>###14</table>
+B. <div class = "para"></div>
+C. <div class = "para"></div>
+D. <div class = "para"></div>
+
 </div>
 ###################
 <div class = "quiz">40. Based on the data in Figure 2, which of the following statements best explains why PCO<sub>2</sub> affects the pH of blood? When CO<sub>2</sub> dissolves in blood, it:

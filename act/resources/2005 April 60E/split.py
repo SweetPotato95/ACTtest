@@ -79,7 +79,7 @@ def split_math(src, dst):
 
 				f.write(tb)
 				f.write('</div>\n')
-				continue
+			continue
 		if re.search(pattern,row):
 			if index == 0:
 				row = '<div class = \"quiz\">' + row
@@ -111,7 +111,7 @@ def split_science(src, dst):
 				tb = tables[int(n)-1]
 				f.write(tb)
 				f.write('</div>\n')
-				continue
+			continue
 
 		if re.search(pattern,row):
 			if index == 0:
