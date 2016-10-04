@@ -76,4 +76,4 @@
 <div class = "choice">G.500</div>
 <div class = "choice">H.3,000</div>
 <div class = "choice">J.3,200</div>
-</div>
+</div>###################

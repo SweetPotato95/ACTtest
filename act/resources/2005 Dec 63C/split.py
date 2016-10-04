@@ -1,5 +1,7 @@
 import re
 
+tables = []
+
 def spilt_choice(filename):
 	f = open(filename,'r',encoding= 'utf-8')
 	lines = f.readlines()
@@ -29,6 +31,7 @@ def spilt_choice(filename):
 			f.write(row.replace('&','\n'))
 		else:
 			f.write(line.replace('&','\n'))
+	f.write("###################\n")
 	f.close()
 
 def split_english(src, dst):
@@ -42,6 +45,7 @@ def split_english(src, dst):
 	index = 0
 	for i in range(2, len(lines)):
 		row = lines[i]
+		row =  row.replace('“','"').replace('”','"')
 		if re.search(pattern,row):
 			if index == 0:
 				row = '<div class = \"quiz\">' + row
@@ -62,9 +66,20 @@ def split_math(src, dst):
 	f.close()
 	f = open(dst,'w',encoding= 'utf-8')
 	pattern = r'^[0-9]+\.'
+	pptable = r'<table>###(\d+)</table>'
+	p = re.compile(pptable)
 	index = 0
 	for i in range(1,len(lines)):
 		row = lines[i]
+		if re.search(pptable, row):
+			for n in p.findall(row):
+				f.write('<div class = \"para\">')
+				tb = tables[int(n)-1]
+				#row.replace("<table>###"+n+"</table>",tb)
+
+				f.write(tb)
+				f.write('</div>\n')
+				continue
 		if re.search(pattern,row):
 			if index == 0:
 				row = '<div class = \"quiz\">' + row
@@ -85,9 +100,19 @@ def split_science(src, dst):
 	f.close()
 	f = open(dst,'w',encoding= 'utf-8')
 	pattern = r'^([0-9])+\. '
+	pptable = r'<table>###(\d+)</table>'
+	p = re.compile(pptable)
 	index = 0
 	for i in range(1,len(lines)):
 		row = lines[i]
+		if re.search(pptable, row):
+			for n in p.findall(row):
+				f.write('<div class = \"para\">')
+				tb = tables[int(n)-1]
+				f.write(tb)
+				f.write('</div>\n')
+				continue
+
 		if re.search(pattern,row):
 			if index == 0:
 				row = '<div class = \"quiz\">' + row
@@ -115,10 +140,21 @@ def lens(src):
 	f.write(str(num) + " ")
 	f.close()
 
+def readTable(src):
+	f = open(src, 'r',encoding= 'utf-8')
+	lines = f.readlines()
+	f.close()
+	tmpt = ""
+	for line in lines:
+		if not line.startswith("****"):
+			tmpt += line[:-1]
+		else:
+			tables.append(tmpt)
+			tmpt = ""
+
 if __name__ == '__main__':
-	# split_english()
-	# spilt_choice()
-	# split_math('math.txt','1.txt')
+
+	readTable("table.txt")
 	for i in range(1,6):
 		split_english('./English/passage'+str(i)+'.txt','./English/'+str(i)+'.txt')
 		spilt_choice('./English/'+str(i)+'.txt')

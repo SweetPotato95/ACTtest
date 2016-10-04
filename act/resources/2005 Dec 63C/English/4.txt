@@ -60,7 +60,7 @@
 <div class = "choice">J.OMIT the underlined portion.</div>
 </div>
 ###################
-<div class = "quiz">53. If the writer were to delete the phrase “focusing on the fight for fair housing” from the preceding sentence, the paragraph would primarily lose:
+<div class = "quiz">53. If the writer were to delete the phrase "focusing on the fight for fair housing" from the preceding sentence, the paragraph would primarily lose:
 <div class = "choice">A.an indication of the political support for Woods in</div>
 <div class = "choice">B.an explanation of the nature of Woods’s job at the television station.</div>
 <div class = "choice">C.an elaboration on the statement in the first part of the sentence.</div>
@@ -114,4 +114,4 @@
 <div class = "choice">G.2.</div>
 <div class = "choice">H.3.</div>
 <div class = "choice">J.4.</div>
-</div>
+</div>###################
