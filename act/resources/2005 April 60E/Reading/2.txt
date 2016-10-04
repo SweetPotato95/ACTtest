@@ -1,7 +1,7 @@
 <h1>Passage II</h1>
 <div class = "para">SOCIAL SCIENCE: This passage is adapted from Michael J.</div>
-<div class = "para">Sandel’s article “America’s Search for a New Public Philosophy.” (©1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
-<div class = "para">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, 5 for to do so would be to “legislate morality.” Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
+<div class = "para">Sandel’s article "America’s Search for a New Public Philosophy." (©1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
+<div class = "para">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, 5 for to do so would be to "legislate morality." Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
 <div class = "para">10 The aspiration to neutrality finds prominent expression in our politics and law. Although it derives from the liberal tradition of political thought, its province is not limited to those known as liberals, rather than conservatives, in American politics; it can 15 be found across the political spectrum; Liberals invoke the ideal of neutrality when opposing school prayer or restrictions on abortion or attempts by certain groups to bring their morality into the public square. Conservatives appeal to neutrality when opposing attempts 20 by government to impose certain moral restraints-for the sake of workers’ safety or environmental protection or distributive justice-on the operation of the market economy.</div>
 <div class = "para">The ideal of free choice also figures on both sides 25 0f the debate over the welfare state. Republicans have long complained that taxing the rich to pay for welfare programs for the poor is a form of coerced charity that violates people’s freedom to choose what to do with their own money. Democrats have long replied that 30 government must assure all citizens a decent level of income; housing, education, and health care, on the grounds that those who are crushed by economic necessity are not truly free to exercise choice in other domains. Despite their disagreement about how gov-35 ernment should act to respect individual choice, both sides assume that freedom consists in the capacity of people to choose their own ends.</div>
 <div class = "para">So familiar is this vision of freedom that it might seem a permanent feature of the American political tra-40 dition. But as a reigning public philosophy, it is a recent arrival, a development of the past half century. Its distinctive character can best be seen by comparison with a. rival public philosophy that it gradually displaced: a version of republican political theory.</div>
@@ -15,7 +15,7 @@
 <div class = "choice">D.Citizens must understand that choosing their own values is inconsistent with liberal freedom.</div>
 </div>
 ###################
-<div class = "quiz">12. According to the passage, in order for citizens to “deliberate well about the common good” (line 54) citizens must possess all of the following EXCEPT:
+<div class = "quiz">12. According to the passage, in order for citizens to "deliberate well about the common good" (line 54) citizens must possess all of the following EXCEPT:
 <div class = "choice">F.knowledge of public affairs.</div>
 <div class = "choice">G.a neutral framework of. rights.</div>
 <div class = "choice">H.concern for fellow citizens.</div>
@@ -64,7 +64,7 @@
 <div class = "choice">J.the liberal tradition in American politics is some-what limited in its theoretical background.</div>
 </div>
 ###################
-<div class = "quiz">19. The last paragraph most strongly suggests that a “procedural republic” is a republic:
+<div class = "quiz">19. The last paragraph most strongly suggests that a "procedural republic" is a republic:
 <div class = "choice">A.known for having good political procedures.</div>
 <div class = "choice">B.that has developed a formative politics.</div>
 <div class = "choice">C.based upon many rules and regulations.</div>
@@ -75,4 +75,4 @@
 <div class = "choice">G.does not teach citizens to care about community.</div>
 <div class = "choice">H.inspires moral neutrality, which is antigovernment.</div>
 <div class = "choice">J.depends too heavily on the concept of legislating morality.</div>
-</div>
+</div>###################
