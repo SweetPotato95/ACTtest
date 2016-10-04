@@ -21,11 +21,11 @@
 ###################
 <div class = "quiz">3. (2x - 3)(3x - 4) is equivalent to:
 
-<div class = "choice">A.<img src='file:\$$$\resourses\2005 April 60E\imgs\1.png' width = '11.4px'height = '13.4px'/></div>
-<div class = "choice">B.<img src='file:\$$$\resourses\2005 April 60E\imgs\2.png' width = '53.9px'height = '13.4px'/></div>
-<div class = "choice">C.<img src='file:\$$$\resourses\2005 April 60E\imgs\3.png' width = '34.5px'height = '13.4px'/></div>
-<div class = "choice">D.<img src='file:\$$$\resourses\2005 April 60E\imgs\4.png' width = '57.6px'height = '13.4px'/></div>
-<div class = "choice">E.<img src='file:\$$$\resourses\2005 April 60E\imgs\5.png' width = '34.5px'height = '13.4px'/>
+<div class = "choice">A.<img src='file:\$$$\resourses\2005 April 60E\imgs\1.png' width = '33' height = '39'/></div>
+<div class = "choice">B.<img src='file:\$$$\resourses\2005 April 60E\imgs\2.png' width = '162' height = '39'/></div>
+<div class = "choice">C.<img src='file:\$$$\resourses\2005 April 60E\imgs\3.png' width = '102' height = '39'/></div>
+<div class = "choice">D.<img src='file:\$$$\resourses\2005 April 60E\imgs\4.png' width = '171' height = '39'/></div>
+<div class = "choice">E.<img src='file:\$$$\resourses\2005 April 60E\imgs\5.png' width = '102' height = '39'/>
 </div>
 </div>
 ###################

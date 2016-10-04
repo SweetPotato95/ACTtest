@@ -16,7 +16,6 @@ public class readText {
 		File file = new File(testname+name);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+testname+name);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
 			tmpstring = reader.readLine();
@@ -40,24 +39,22 @@ public class readText {
 		return lens;
 	}
 	public static int[] readAnswer(int testIndex){
-		String testname = ModelConstants.TESTNAME[testIndex];
-		int[]ans = new int[75+60+40+40];
+		String testname = ModelConstants.TESTPATH[testIndex];
+		int[] ans = new int[75+60+40+40];
 		int[] lens = {0,75,60,40,40};
 		int[] adds = {0,75,135,175,215};
+		
 		String[] names = {"","english.txt","math.txt","reading.txt","science.txt"};
 		for(int i = 1; i <= 4; i++){
 			File file = new File(testname+names[i]);
 			BufferedReader reader = null;
 			try{
-				//System.out.println("reading..."+testname+names[i]);
 				reader = new BufferedReader(new FileReader(file));
 				String tmpstring = null;
-//				int line = 1;
 				for(int j = 0; j < lens[i]; j++)
 				{
 					tmpstring = reader.readLine();
 					tmpstring = tmpstring.split(" ")[1];
-//					//System.out.println( tmpstring.substring(0,tmpstring.length()-1));
 					if(tmpstring.equals("A") || tmpstring.equals("F"))
 						ans[adds[i-1] + j] = 0;
 					if(tmpstring.equals("B") || tmpstring.equals("G"))
@@ -91,15 +88,11 @@ public class readText {
 		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+filename);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
 			while((tmpstring = reader.readLine()) != null){
 
 				tmpstring = tmpstring.replace("resourses", "resources");
-				//System.out.println("reading...line "+line);
-				//line ++;
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
@@ -171,9 +164,6 @@ public class readText {
 			while((tmpstring = reader.readLine()) != null){
 				tmpstring = tmpstring.replace("resourses", "resources");
 				tmpstring = tmpstring.replace("$$$", path);
-				//System.out.println("reading...line "+line);
-				//line ++;
-				
 				if (tmpstring.startsWith("####")){
 					mark = 1;
 					ques = "";

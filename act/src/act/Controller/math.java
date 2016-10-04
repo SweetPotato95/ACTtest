@@ -9,10 +9,9 @@ public class math {
 	private int testnum;
 	private String path = null;
 	private ArrayList<choice> quizs;
-	private String[] tests = {"resources\\2005 April 60E\\Math\\",""};
 	public math(int tn){
 		this.testnum = tn;
-		this.path = tests[tn]+"math.txt";
+		this.path = ModelConstants.TESTPATH[tn]+"\\Math\\math.txt";
 		this.quizs = readText.readChoice(ModelConstants.MATH, path);
 	}
 	public int getQuizLength(){
@@ -25,7 +24,7 @@ public class math {
 			return;
 		}
 		this.testnum = testNum;
-		this.path = tests[testNum] +"math.txt";
+		this.path = ModelConstants.TESTPATH[testNum] +"math.txt";
 		this.quizs = readText.readChoice(ModelConstants.MATH, path);
 	}
 	public choice getChoice(int index){

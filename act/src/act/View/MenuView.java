@@ -25,6 +25,7 @@ import javax.swing.SwingConstants;
 import javax.swing.table.*;
 
 import act.MainActivity;
+import act.Model.ModelConstants;
 
 public class MenuView extends JPanel{
 	private JTable table = null;
@@ -92,7 +93,7 @@ class MyTableModel extends AbstractTableModel{
 	//单元格元素类型
 	private Class[] cellType={String.class,JButton.class,JButton.class};
 	//表头
-	private String[] tests = {"2005 April 60E","2006 May 70F"};
+	
 	private String[] colNames = {"Test","Complete","Report"};
 	//模拟数据
 	private Object[][] obj = null;
@@ -102,7 +103,7 @@ class MyTableModel extends AbstractTableModel{
 			for (int j = 0; j < 3; j++){
 				switch(j){
 				case 0:
-					obj[i][j] = tests[i];
+					obj[i][j] = ModelConstants.TESTNAME[i];
 					break;
 				case 1:
 					obj[i][j] = new JButton();
