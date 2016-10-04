@@ -39,10 +39,11 @@ public class readText {
 		return lens;
 	}
 	public static int[] readAnswer(int testIndex){
-		String testname = ModelConstants.TESTNAME[testIndex];
-		int[]ans = new int[75+60+40+40];
+		String testname = ModelConstants.TESTPATH[testIndex];
+		int[] ans = new int[75+60+40+40];
 		int[] lens = {0,75,60,40,40};
 		int[] adds = {0,75,135,175,215};
+		
 		String[] names = {"","english.txt","math.txt","reading.txt","science.txt"};
 		for(int i = 1; i <= 4; i++){
 			File file = new File(testname+names[i]);
@@ -91,6 +92,7 @@ public class readText {
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
 			while((tmpstring = reader.readLine()) != null){
+
 				tmpstring = tmpstring.replace("resourses", "resources");
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
