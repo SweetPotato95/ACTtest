@@ -1,7 +1,6 @@
-﻿
 <h1>Passage IV</h1>
 <div class = "para">NATURAL SCIENCE: This passage is adapted from the book</div>
-<div class = "para">Eggs: Nature's Perfect Package by Robert Burton (©1987 by Robert Burton).</div>
+<div class = "para">Eggs: Nature’s Perfect Package by Robert Burton (©1987 by Robert Burton).</div>
 <div class = "para">Birds are ‘glorified reptiles’ and some biologists believe that they are indeed no more than reptiles with feathers. It is not surprising, therefore, that birds’ eggs are similar to those of reptiles. The main interest in 5 birds’ eggs from an evolutionary point of view is the adaptation of the eggs of different species to particular lifestyles.</div>
 <div class = "para">In both reptile and bird eggs, there is a large yolk which not only supplies the needs of the embryo but 10 will also sustain the newly hatched animal until it can feed. In birds’ eggs, after the egg cell-consisting mainly of a ball of yolk-has been fertilized, it moves down the oviduct where it collects the albumen or ‘egg white’ and takes on its shell. The albumen is mainly a is filler for protecting the embryo, but it also supplements the yolk as a valuable source of protein and a reservoir of water. Between the albumen and the shell are two parchment-like shell membranes. When they are first formed they fit quite loosely, but during the next stage, 20 known as ‘plumping’, water and salts fill out the albumen until the membranes are taut. The shell is then attached firmly onto the outer membrane, as can be seen when peeling a hard-boiled egg.</div>
 <div class = "para">The innermost layer of albumen is thick and forms 25 a hammock slung between the ends of the shell to keep the yolk suspended in the centre. Within it are two twisted cords called chalazae, which act as bearings to allow the yolk and embryo to rotate freely when the egg is turned by the parent bird in the nest. Chalazae are 30 presumably unnecessary in reptile eggs because they are never turned, and some such as those of tortoises, will not hatch if they are turned accidentally.</div>
@@ -78,4 +77,4 @@
 <div class = "choice">G.The shape allows the egg to be positioned efficiently along with other eggs underneath the nesting adult wader.</div>
 <div class = "choice">H.The shape provides the embryo the space it needs to extend and thereby strengthen its developing wings.</div>
 <div class = "choice">J.The passage does not indicate what advantage the shape of these eggs provides.</div>
-</div>
+</div>###################

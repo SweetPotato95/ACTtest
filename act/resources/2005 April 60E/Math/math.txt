@@ -9,7 +9,7 @@
 </div>
 </div>
 ###################
-<div class = "quiz">2. Tyrone wants to score 80% or better on today°Øs 40-point biology test. What is the least number of points that Tyrone must score to achieve 80%?
+<div class = "quiz">2. Tyrone wants to score 80% or better on today‚Äôs 40-point biology test. What is the least number of points that Tyrone must score to achieve 80%?
 
 <div class = "choice">F.4</div>
 <div class = "choice">G.8</div>
@@ -59,14 +59,14 @@
 </div>
 </div>
 ###################
-<div class = "quiz">7. In <img src='file:\$$$\resourses\2005 April 60E\imgs\18.png' width = '27.6px'height = '11.7px'/> below, <img src='file:\$$$\resourses\2005 April 60E\imgs\19.png' width = '39.5px'height = '11.7px'/>, and <img src='file:\$$$\resourses\2005 April 60E\imgs\20.png' width = '29.5px'height = '11.7px'/> measures 70°„. What is the measure of<img src='file:\$$$\resourses\2005 April 60E\imgs\21.png' width = '29.5px'height = '11.7px'/>?
+<div class = "quiz">7. In <img src='file:\$$$\resourses\2005 April 60E\imgs\18.png' width = '27.6px'height = '11.7px'/> below, <img src='file:\$$$\resourses\2005 April 60E\imgs\19.png' width = '39.5px'height = '11.7px'/>, and <img src='file:\$$$\resourses\2005 April 60E\imgs\20.png' width = '29.5px'height = '11.7px'/> measures 70¬∞. What is the measure of<img src='file:\$$$\resourses\2005 April 60E\imgs\21.png' width = '29.5px'height = '11.7px'/>?
 <img src='file:\$$$\resourses\2005 April 60E\imgs\22.png' width = '37px'height = '28.8px'/>
 
-<div class = "choice">A.35°„</div>
-<div class = "choice">B.50°„</div>
-<div class = "choice">C.55°„</div>
-<div class = "choice">D.70°„</div>
-<div class = "choice">E.110°„
+<div class = "choice">A.35¬∞</div>
+<div class = "choice">B.50¬∞</div>
+<div class = "choice">C.55¬∞</div>
+<div class = "choice">D.70¬∞</div>
+<div class = "choice">E.110¬∞
 </div>
 </div>
 ###################
@@ -80,13 +80,13 @@
 </div>
 </div>
 ###################
-<div class = "quiz">9. A function that is defined by the set of ordered pairs£˚(2,1), (4,2), (6,3)£˝has domain£˚2, 4, 6£˝. What is the domain of the function defined by the set of ordered pairs£˚(0,2), (2,2), (3,-2)£˝?
+<div class = "quiz">9. A function that is defined by the set of ordered pairsÔΩõ(2,1), (4,2), (6,3)ÔΩùhas domainÔΩõ2, 4, 6ÔΩù. What is the domain of the function defined by the set of ordered pairsÔΩõ(0,2), (2,2), (3,-2)ÔΩù?
 
-<div class = "choice">A.£˚2£˝</div>
-<div class = "choice">B.£˚-2, 2£˝</div>
-<div class = "choice">C.£˚-2, 0, 3£˝</div>
-<div class = "choice">D.£˚0, 2, 3£˝</div>
-<div class = "choice">E.£˚-2, 0, 2, 3£˝
+<div class = "choice">A.ÔΩõ2ÔΩù</div>
+<div class = "choice">B.ÔΩõ-2, 2ÔΩù</div>
+<div class = "choice">C.ÔΩõ-2, 0, 3ÔΩù</div>
+<div class = "choice">D.ÔΩõ0, 2, 3ÔΩù</div>
+<div class = "choice">E.ÔΩõ-2, 0, 2, 3ÔΩù
 </div>
 </div>
 ###################
@@ -95,7 +95,7 @@ Statement S:               If p, then q.
 Converse of S:             If q, then p.
 Inverse of S:               If not p, then not q.
 Contrapositive of S:         If not q, then not p.
-One of the following statements is the converse of the statement °∞If the lights are on, then the store is open.°± Which one is it?
+One of the following statements is the converse of the statement ‚ÄúIf the lights are on, then the store is open.‚Äù Which one is it?
 
 <div class = "choice">F.If the store is open, then the lights are on.
 </div>
@@ -130,13 +130,13 @@ One of the following statements is the converse of the statement °∞If the lights
 </div>
 </div>
 ###################
-<div class = "quiz">13. A 5-pound bag of potatoes costs °Á1.99 at Grocery Garden. A 5-pund bag of the same type of potatoes costs °Á2.19 at Food Fair. How much cheaper, per pound, are the Grocery Garden potatoes than the Food Fair potatoes?
+<div class = "quiz">13. A 5-pound bag of potatoes costs ÔºÑ1.99 at Grocery Garden. A 5-pund bag of the same type of potatoes costs ÔºÑ2.19 at Food Fair. How much cheaper, per pound, are the Grocery Garden potatoes than the Food Fair potatoes?
 
-<div class = "choice">A.°Á0.02</div>
-<div class = "choice">B.°Á0.04</div>
-<div class = "choice">C.°Á0.20</div>
-<div class = "choice">D.°Á1.00</div>
-<div class = "choice">E.°Á2.00
+<div class = "choice">A.ÔºÑ0.02</div>
+<div class = "choice">B.ÔºÑ0.04</div>
+<div class = "choice">C.ÔºÑ0.20</div>
+<div class = "choice">D.ÔºÑ1.00</div>
+<div class = "choice">E.ÔºÑ2.00
 </div>
 </div>
 ###################
@@ -150,13 +150,13 @@ One of the following statements is the converse of the statement °∞If the lights
 </div>
 </div>
 ###################
-<div class = "quiz">15. The °Á414 price a store charges for a small refrigerator consists of the refrigerator°Øs original cost to the store plus a profit of 15%. What was the refrigerator°Øs original cost to the store?
+<div class = "quiz">15. The ÔºÑ414 price a store charges for a small refrigerator consists of the refrigerator‚Äôs original cost to the store plus a profit of 15%. What was the refrigerator‚Äôs original cost to the store?
 
-<div class = "choice">A.°Á54</div>
-<div class = "choice">B.°Á360</div>
-<div class = "choice">C.°Á399</div>
-<div class = "choice">D.°Á429</div>
-<div class = "choice">E.°Á478
+<div class = "choice">A.ÔºÑ54</div>
+<div class = "choice">B.ÔºÑ360</div>
+<div class = "choice">C.ÔºÑ399</div>
+<div class = "choice">D.ÔºÑ429</div>
+<div class = "choice">E.ÔºÑ478
 </div>
 </div>
 ###################
@@ -197,7 +197,7 @@ One of the following statements is the converse of the statement °∞If the lights
 </div>
 </div>
 ###################
-<div class = "quiz">19. A dinner combination at Nassif°Øs Family Restaurant contains exactly 1 appetizer, 1 main course, and 1 dessert. How many different dinner combinations are possible when choosing from 5 appetizers, 4 main courses, and 5 desserts?
+<div class = "quiz">19. A dinner combination at Nassif‚Äôs Family Restaurant contains exactly 1 appetizer, 1 main course, and 1 dessert. How many different dinner combinations are possible when choosing from 5 appetizers, 4 main courses, and 5 desserts?
 
 <div class = "choice">A.14</div>
 <div class = "choice">B.40</div>
@@ -262,11 +262,11 @@ One of the following statements is the converse of the statement °∞If the lights
 ###################
 <div class = "quiz">25. What is the solution set of the equation<img src='file:\$$$\resourses\2005 April 60E\imgs\107.png' width = '45.2px'height = '13.4px'/>?
 
-<div class = "choice">A.£˚<img src='file:\$$$\resourses\2005 April 60E\imgs\108.png' width = '21.4px'height = '14.3px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\109.png' width = '21.4px'height = '14.3px'/>£˝</div>
-<div class = "choice">B.£˚<img src='file:\$$$\resourses\2005 April 60E\imgs\110.png' width = '16.4px'height = '25.9px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\111.png' width = '9.5px'height = '25.9px'/>£˝</div>
-<div class = "choice">C.£˚<img src='file:\$$$\resourses\2005 April 60E\imgs\112.png' width = '20.1px'height = '15.1px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\113.png' width = '14.5px'height = '15.1px'/>£˝</div>
-<div class = "choice">D.£˚-2, 2£˝</div>
-<div class = "choice">E.£˚<img src='file:\$$$\resourses\2005 April 60E\imgs\114.png' width = '9.5px'height = '25.9px'/>£˝
+<div class = "choice">A.ÔΩõ<img src='file:\$$$\resourses\2005 April 60E\imgs\108.png' width = '21.4px'height = '14.3px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\109.png' width = '21.4px'height = '14.3px'/>ÔΩù</div>
+<div class = "choice">B.ÔΩõ<img src='file:\$$$\resourses\2005 April 60E\imgs\110.png' width = '16.4px'height = '25.9px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\111.png' width = '9.5px'height = '25.9px'/>ÔΩù</div>
+<div class = "choice">C.ÔΩõ<img src='file:\$$$\resourses\2005 April 60E\imgs\112.png' width = '20.1px'height = '15.1px'/>,<img src='file:\$$$\resourses\2005 April 60E\imgs\113.png' width = '14.5px'height = '15.1px'/>ÔΩù</div>
+<div class = "choice">D.ÔΩõ-2, 2ÔΩù</div>
+<div class = "choice">E.ÔΩõ<img src='file:\$$$\resourses\2005 April 60E\imgs\114.png' width = '9.5px'height = '25.9px'/>ÔΩù
 </div>
 </div>
 ###################
@@ -281,7 +281,7 @@ One of the following statements is the converse of the statement °∞If the lights
 </div>
 </div>
 ###################
-<div class = "quiz">27. Pilar obtained estimates for cleaning her furnace from 2 heating companies. Lehman Heating°Øs estimate was °Á30 for a service call plus °Á22 per hour for cleaning the furnace/ A-1 Heating°Øs estimate was °Á35 for a service call plus °Á20 per hour for cleaning the furnace. If the estimates were the same in both the total amount and number of hours for cleaning Pilar°Øs furnace, how many hours for cleaning the furnace were reflected in the estimates?
+<div class = "quiz">27. Pilar obtained estimates for cleaning her furnace from 2 heating companies. Lehman Heating‚Äôs estimate was ÔºÑ30 for a service call plus ÔºÑ22 per hour for cleaning the furnace/ A-1 Heating‚Äôs estimate was ÔºÑ35 for a service call plus ÔºÑ20 per hour for cleaning the furnace. If the estimates were the same in both the total amount and number of hours for cleaning Pilar‚Äôs furnace, how many hours for cleaning the furnace were reflected in the estimates?
 
 <div class = "choice">A.2</div>
 <div class = "choice">B.<img src='file:\$$$\resourses\2005 April 60E\imgs\118.png' width = '15.1px'height = '25.9px'/></div>
@@ -332,7 +332,7 @@ One of the following statements is the converse of the statement °∞If the lights
 </div>
 </div>
 ###################
-<div class = "quiz">32. As part of one day°Øs training workout, 5 members of track team ran for exactly 3 minutes each. The 5 runners ran the 5 distances given below, in miles. Which distance corresponds to the fastest speed?
+<div class = "quiz">32. As part of one day‚Äôs training workout, 5 members of track team ran for exactly 3 minutes each. The 5 runners ran the 5 distances given below, in miles. Which distance corresponds to the fastest speed?
 
 <div class = "choice">F.<img src='file:\$$$\resourses\2005 April 60E\imgs\127.png' width = '8.9px'height = '25.9px'/></div>
 <div class = "choice">G.<img src='file:\$$$\resourses\2005 April 60E\imgs\128.png' width = '8.9px'height = '25.9px'/></div>
@@ -386,7 +386,7 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">37. Two historical landmarks are 24 miles apart. One land-mark is at D-3; the second landmark is due northeast of the first one. Which one of the following is closest to the second landmark°Øs location?
+<div class = "quiz">37. Two historical landmarks are 24 miles apart. One land-mark is at D-3; the second landmark is due northeast of the first one. Which one of the following is closest to the second landmark‚Äôs location?
 
 <div class = "choice">A.E-8</div>
 <div class = "choice">B.F-6</div>
@@ -396,7 +396,7 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">38. A square park measures <img src='file:\$$$\resourses\2005 April 60E\imgs\149.png' width = '9.5px'height = '25.9px'/> mile on each side. What should be the park°Øs area, in square centimeters, on the map?
+<div class = "quiz">38. A square park measures <img src='file:\$$$\resourses\2005 April 60E\imgs\149.png' width = '9.5px'height = '25.9px'/> mile on each side. What should be the park‚Äôs area, in square centimeters, on the map?
 
 <div class = "choice">F.<img src='file:\$$$\resourses\2005 April 60E\imgs\150.png' width = '13.9px'height = '25.9px'/></div>
 <div class = "choice">G.<img src='file:\$$$\resourses\2005 April 60E\imgs\151.png' width = '12.6px'height = '25.9px'/></div>
@@ -428,14 +428,10 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 ###################
 <div class = "quiz">41. The table below contains information about the 1996 season baseball standings for the American League Eastern Division. Which team won the most games away from home in 1996?
-<table>###1</table>
+<div class = "para"><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:85.2pt;border:solid windowtext 1.0pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Team<o:p></o:p></span></p></td><td style="width:85.2pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Wins<o:p></o:p></span></p></td><td style="width:85.2pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Losses<o:p></o:p></span></p></td><td style="width:85.25pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Winning  rate<o:p></o:p></span></p></td><td style="width:85.25pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Home  win-loss record<o:p></o:p></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:85.2pt;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>New  York<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Baltimore<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Boston<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Toronto<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Detroit<o:p></o:p></span></p></td><td style="width:85.2pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>92<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>88<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>85<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>74<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>53<o:p></o:p></span></p></td><td style="width:85.2pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>70<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>74<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>77<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>88<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>109<o:p></o:p></span></p></td><td style="width:85.25pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.568<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.543<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.525<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.457<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.327<o:p></o:p></span></p></td><td style="width:85.25pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114"><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>49-31<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>43-38<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>47-34<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>35-46<o:p></o:p></span></p><p align="center" class="MsoNormal" style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>27-54<o:p></o:p></span></p></td></tr></table></div>
 
-<div class = "choice">A.New York</div>
-<div class = "choice">B.Baltimore</div>
-<div class = "choice">C.Boston</div>
-<div class = "choice">D.Toronto</div>
-<div class = "choice">E.Detroit
-</div>
+A. New York      B. Baltimore       C. Boston       D. Toronto        E. Detroit
+
 </div>
 ###################
 <div class = "quiz">42. If 1 is a solution of the equation<img src='file:\$$$\resourses\2005 April 60E\imgs\153.png' width = '63.9px'height = '13.4px'/>, what does h equal?
@@ -448,7 +444,7 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">43. Benjamin is flying a kite using 130 feet of string, as shown in the figure below. His string makes an angle of 40°„ with the level ground. About how many feet above the ground is the kite when the string is taut?
+<div class = "quiz">43. Benjamin is flying a kite using 130 feet of string, as shown in the figure below. His string makes an angle of 40¬∞ with the level ground. About how many feet above the ground is the kite when the string is taut?
 (Note:<img src='file:\$$$\resourses\2005 April 60E\imgs\156.png' width = '63.9px'height = '13.4px'/><img src='file:\$$$\resourses\2005 April 60E\imgs\155.png' width = '62px'height = '13.4px'/><img src='file:\$$$\resourses\2005 April 60E\imgs\154.png' width = '65.1px'height = '13.4px'/>)
 <img src='file:\$$$\resourses\2005 April 60E\imgs\157.png' width = '29.5px'height = '27.1px'/>
 
@@ -460,14 +456,14 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">44. The 5 congruent circles shown in the diagram below have their centers lying on the same diameter of the larger circle. Each circle is tangent to 2 other circles. If the area of each small circle is 4¶–square units, what is the area, in square units, of the larger circle?
+<div class = "quiz">44. The 5 congruent circles shown in the diagram below have their centers lying on the same diameter of the larger circle. Each circle is tangent to 2 other circles. If the area of each small circle is 4œÄsquare units, what is the area, in square units, of the larger circle?
 <img src='file:\$$$\resourses\2005 April 60E\imgs\158.png' width = '29.5px'height = '28.1px'/>
 
-<div class = "choice">F.100¶–</div>
-<div class = "choice">G.50¶–</div>
-<div class = "choice">H.40¶–</div>
-<div class = "choice">J.30.5¶–</div>
-<div class = "choice">K.20¶–
+<div class = "choice">F.100œÄ</div>
+<div class = "choice">G.50œÄ</div>
+<div class = "choice">H.40œÄ</div>
+<div class = "choice">J.30.5œÄ</div>
+<div class = "choice">K.20œÄ
 </div>
 </div>
 ###################
@@ -513,7 +509,7 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 </div>
 ###################
-<div class = "quiz">49. From the top of a 120-foot lighthouse, a small sailboat is sighted on the water 500 feet the base of the lighthouse, as shown below. The angle of depression, ¶», can be found using which of the following equations?
+<div class = "quiz">49. From the top of a 120-foot lighthouse, a small sailboat is sighted on the water 500 feet the base of the lighthouse, as shown below. The angle of depression, Œ∏, can be found using which of the following equations?
 <img src='file:\$$$\resourses\2005 April 60E\imgs\176.png' width = '74.5px'height = '23.6px'/>
 
 <div class = "choice">A.<img src='file:\$$$\resourses\2005 April 60E\imgs\177.png' width = '49.5px'height = '25.9px'/></div>
@@ -579,15 +575,15 @@ Which of the following is an expression for the sum of the cubes of the first c 
 ###################
 <div class = "quiz">55. The interior angles of a quadrilateral are in the ratio 1:2:3:4. What is the measure of the largest interior angle?
 
-<div class = "choice">A.100°„</div>
-<div class = "choice">B.108°„</div>
-<div class = "choice">C.120°„</div>
-<div class = "choice">D.144°„</div>
-<div class = "choice">E.160°„
+<div class = "choice">A.100¬∞</div>
+<div class = "choice">B.108¬∞</div>
+<div class = "choice">C.120¬∞</div>
+<div class = "choice">D.144¬∞</div>
+<div class = "choice">E.160¬∞
 </div>
 </div>
 ###################
-<div class = "quiz">56. The 2 legs of a right triangle measure 37 inches and 45 inches, respectively. What is the cosine of the triangle°Øs smallest interior angle?
+<div class = "quiz">56. The 2 legs of a right triangle measure 37 inches and 45 inches, respectively. What is the cosine of the triangle‚Äôs smallest interior angle?
 
 <div class = "choice">F.<img src='file:\$$$\resourses\2005 April 60E\imgs\206.png' width = '13.9px'height = '25.9px'/></div>
 <div class = "choice">G.<img src='file:\$$$\resourses\2005 April 60E\imgs\207.png' width = '13.9px'height = '25.9px'/></div>
@@ -613,26 +609,26 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 ###################
 <div class = "quiz">58. The horizontal line in the graph below shows the distance between a fixed point and an object as a function of elapsed time. The object could be doing which of the following?
-¢Ò. Moving in a circle around the fixed point.
-¢Ú. Moving in a straight line away from the fixed point.
-¢Û. Standing still.
+‚Ö†. Moving in a circle around the fixed point.
+‚Ö°. Moving in a straight line away from the fixed point.
+‚Ö¢. Standing still.
 <img src='file:\$$$\resourses\2005 April 60E\imgs\212.png' width = '37px'height = '25.3px'/>
 
-<div class = "choice">F.¢Ò only.</div>
-<div class = "choice">G.¢Ú only</div>
-<div class = "choice">H.¢Û only</div>
-<div class = "choice">J.¢Ò and ¢Ú only</div>
-<div class = "choice">K.¢Ò and ¢Û only
+<div class = "choice">F.‚Ö† only.</div>
+<div class = "choice">G.‚Ö° only</div>
+<div class = "choice">H.‚Ö¢ only</div>
+<div class = "choice">J.‚Ö† and ‚Ö° only</div>
+<div class = "choice">K.‚Ö† and ‚Ö¢ only
 </div>
 </div>
 ###################
 <div class = "quiz">59. In trigonometry, an angle of <img src='file:\$$$\resourses\2005 April 60E\imgs\213.png' width = '22.6px'height = '25.9px'/> radians has the same sine and cosine as an angle that has which of the following degree measures?
 
-<div class = "choice">A.30°„</div>
-<div class = "choice">B.60°„</div>
-<div class = "choice">C.120°„</div>
-<div class = "choice">D.150°„</div>
-<div class = "choice">E.210°„
+<div class = "choice">A.30¬∞</div>
+<div class = "choice">B.60¬∞</div>
+<div class = "choice">C.120¬∞</div>
+<div class = "choice">D.150¬∞</div>
+<div class = "choice">E.210¬∞
 </div>
 </div>
 ###################
@@ -646,3 +642,4 @@ Which of the following is an expression for the sum of the cubes of the first c 
 <div class = "choice">K.<img src='file:\$$$\resourses\2005 April 60E\imgs\218.png' width = '89.5px'height = '15.1px'/>
 
 </div></div>
+###################

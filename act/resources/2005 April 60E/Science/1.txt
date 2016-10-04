@@ -65,3 +65,4 @@
 <div class = "choice">B.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\221.png' width = '17px'height = '27.5px'/></div>
 <div class = "choice">C.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\222.png' width = '29.5px'height = '20.9px'/></div>
 <div class = "choice">D.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\223.png' width = '23.3px'height = '26.4px'/></div></div>
+###################

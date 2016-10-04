@@ -1,11 +1,11 @@
 <h1>Passage II</h1>
 <div class = "para">Harmonica Blues</div>
-<div class = "para">For as long as I can remember, <u>16 it is true that</u> I have wanted to play the harmonica. My father played a few tunes marginally well. I often asked him to teach me to play, but I quickly grew <u>17 impatient, with the wheezing, tinny notes</u> that I produced. After two weeks¡¯ effort, <u>18 which</u> I would always set the harmonica aside and <u>19 had went</u> back to the baseball field.</div>
+<div class = "para">For as long as I can remember, <u>16 it is true that</u> I have wanted to play the harmonica. My father played a few tunes marginally well. I often asked him to teach me to play, but I quickly grew <u>17 impatient, with the wheezing, tinny notes</u> that I produced. After two weeksâ€™ effort, <u>18 which</u> I would always set the harmonica aside and <u>19 had went</u> back to the baseball field.</div>
 <div class = "para">My father was able to teach me a few things about the harmonica. For instance, he told me that it originated in southern China a round 1100 B.C., this early version, the sheng, consisted of long reeds placed on water in a wooden bowl. At one time the </div>
-<div class = "para"><u>21 harmonica, which has its origins in ancient China,</u> was often confused with the armonica, a musical instrument invented by Benjamin Franklin that consisted of glasses played by rubbing the rims with a wet finger. 22 While the harmonica was marketed <u>23 originally</u> as a child¡¯s <u>24 toy</u>, it eventually became a valued portable instrument for folk and blues musicians.</div>
-<div class = "para">25 Then, at age fifteen, I decided to enroll in a blues harmonica class. On the first night, the instructor, <u>26 whom had</u> performed in local rock bands for years guided the class through a tortured version of ¡°Mary Had a Little Lamb.¡±</div>
-<div class = "para">[1] Then he played the same <u>27 melody, but with such a pure, sad wail that,</u> the entire class sat in stunned silence when he¡¯d finished. [2] When we had finished, he said, ¡°That was Mary Had a Little Lamb.¡± [3] He picked up his own harmonica. [4] ¡°This, however, is ¡®Mary Had the Blues.¡¯¡± [5] He lifted the instrument to his lips. 28</div>
-<div class = "para">I returned home determined to learn to play well I worked to find the right mouth holes <u>29 and if I could</u> bend the right notes. All week I wheezed through versions of ¡°Jingle Bells¡± and ¡°Oh, Susanna.¡± Finally, on the night before our next class, <u>30 which I believe was a Wednesday,</u> in the middle of an attempt at ¡°Old Folks at Home,¡± I pursed my lips and blew a sweet, piercing note that filled the room with lovely sound. I had finally played a proper note on the harmonica, and maybe I¡¯ll someday play the blues.</div>
+<div class = "para"><u>21 harmonica, which has its origins in ancient China,</u> was often confused with the armonica, a musical instrument invented by Benjamin Franklin that consisted of glasses played by rubbing the rims with a wet finger. 22 While the harmonica was marketed <u>23 originally</u> as a childâ€™s <u>24 toy</u>, it eventually became a valued portable instrument for folk and blues musicians.</div>
+<div class = "para">25 Then, at age fifteen, I decided to enroll in a blues harmonica class. On the first night, the instructor, <u>26 whom had</u> performed in local rock bands for years guided the class through a tortured version of "Mary Had a Little Lamb."</div>
+<div class = "para">[1] Then he played the same <u>27 melody, but with such a pure, sad wail that,</u> the entire class sat in stunned silence when heâ€™d finished. [2] When we had finished, he said, "That was Mary Had a Little Lamb." [3] He picked up his own harmonica. [4] "This, however, is â€˜Mary Had the Blues.â€™" [5] He lifted the instrument to his lips. 28</div>
+<div class = "para">I returned home determined to learn to play well I worked to find the right mouth holes <u>29 and if I could</u> bend the right notes. All week I wheezed through versions of "Jingle Bells" and "Oh, Susanna." Finally, on the night before our next class, <u>30 which I believe was a Wednesday,</u> in the middle of an attempt at "Old Folks at Home," I pursed my lips and blew a sweet, piercing note that filled the room with lovely sound. I had finally played a proper note on the harmonica, and maybe Iâ€™ll someday play the blues.</div>
 ###################
 <div class = "quiz">16. 
 <div class = "choice">F.NO CHANGE</div>
@@ -77,10 +77,10 @@
 </div>
 ###################
 <div class = "quiz">25. Which of the following sentences would best provide a logical transition from the preceding paragraph to the new subject in this paragraph?
-<div class = "choice">A.Despite this accumulation of harmonica lore, I still couldn¡¯t play.</div>
+<div class = "choice">A.Despite this accumulation of harmonica lore, I still couldnâ€™t play.</div>
 <div class = "choice">B.There you have some of the history of the harmonica.</div>
 <div class = "choice">C.As can be seen, I had always been interested in the harmonica.</div>
-<div class = "choice">D.As the reader can see, the harmonica isn¡¯t the simple children¡¯s toy we so often think it is.</div>
+<div class = "choice">D.As the reader can see, the harmonica isnâ€™t the simple childrenâ€™s toy we so often think it is.</div>
 </div>
 ###################
 <div class = "quiz">26. 
@@ -116,4 +116,4 @@
 <div class = "choice">G.which as I recall was a Wednesday,</div>
 <div class = "choice">H.on a Wednesday,</div>
 <div class = "choice">J.OMIT the underlined portion.</div>
-</div>
+</div>###################
