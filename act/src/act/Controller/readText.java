@@ -2,8 +2,10 @@ package act.Controller;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 import act.Model.ModelConstants;
@@ -86,10 +88,11 @@ public class readText {
 		String passage = "";
 		String path = System.getProperty("java.class.path");
 		path = path.substring(0,path.length()-4);
-		File file = new File(filename);
+		//File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			reader = new BufferedReader(new FileReader(file));
+			//reader = new BufferedReader(new FileReader(file));
+			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
 			String tmpstring = null;
 			while((tmpstring = reader.readLine()) != null){
 
@@ -118,11 +121,9 @@ public class readText {
 	}
 	public static String readDirection(String filename){
 		String passage = "";
-		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-
-			reader = new BufferedReader(new FileReader(file));
+			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
 			String tmpstring = null;
 
 			while((tmpstring = reader.readLine()) != null){
@@ -145,14 +146,13 @@ public class readText {
 	public static ArrayList<choice> readChoice(int type, String filename){
 		ArrayList<choice> result = new ArrayList<choice>();
 		choice tmpresult = new choice(type);
-		File file = new File(filename);
 		BufferedReader reader = null;
 		String path = System.getProperty("java.class.path");
 		path = path.substring(0,path.length()-4);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
-			reader = new BufferedReader(new FileReader(file));
+			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
 			String tmpstring = null;
 			int quizNum;
 			int mark = 1;
