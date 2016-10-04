@@ -23,9 +23,14 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
  private ChangeEvent changeEvent = new ChangeEvent(this); 
  JButton edit_btn;
  JTextField edit_txf;
+ 
+ private int row;
+ 
+ 
  public ScoreListViewCellEditor(){ 
   super();
   setLayout(new BorderLayout());
+
   edit_btn = new JButton("...");
   edit_txf = new JTextField();
   edit_txf.setOpaque(false);
@@ -71,6 +76,7 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
    boolean isSelected, int row, int column) { 
   if(value != null)
    edit_txf.setText(value.toString());
+  this.row = row;
   return this; 
  } 
   
@@ -86,7 +92,11 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
   return edit_txf.getText(); 
  } 
  public void actionPerformed(ActionEvent e){
-  new ScoreListViewCellDetail(ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_LEFT,
-		  ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_UP).setVisible(true);
+  ScoreListViewCellDetail detailDialog = new ScoreListViewCellDetail(ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_LEFT,
+		  ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_UP);
+  detailDialog.setVisible(true);
+  detailDialog.setModel(row);
+  detailDialog.init();
  }
+ 
 }
