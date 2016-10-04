@@ -31,7 +31,7 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_LEFT ;
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
-	public static int[] TIME_LIMIT_PER_PART = {5,5,5,5,5};
+	public static int[] TIME_LIMIT_PER_PART = {25,25,25,25,25};
 	static{
 		
 		NAV_WIDTH = MAINPANEL_WIDTH;

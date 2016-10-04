@@ -8,7 +8,7 @@
 <div class = "para">I’ve thought many times of the instinctive way our bodies respond to the beat of music by wanting to get up and dance, <u>12 or how</u> a parent quiets a crying baby by walking back and forth. I think that at some deep level we humans need <u>13 steady rhythmic,</u> movement to feel centered and content.</div>
 <div class = "para">So now when I want to escape the busyness of my life, I take a walk. No matter how far I go, I know that I will return <u>14 refreshed in</u> both body and mind.</div>
 ###################
-<div class = "quiz">1. The writer is considering deleting the phrase “and how boring they were” from the preceding sentence (placing a period after the word well). Should the writer make this deletion?
+<div class = "quiz">1. The writer is considering deleting the phrase "and how boring they were" from the preceding sentence (placing a period after the word well). Should the writer make this deletion?
 <div class = "choice">A.Yes, because the phrase unnecessarily repeats a point made earlier in the sentence.</div>
 <div class = "choice">B.Yes, because the sentence is more detailed without the phrase.</div>
 <div class = "choice">C.No, because the phrase describes one. of the challenges of exercise.</div>
@@ -111,4 +111,4 @@
 <div class = "choice">B.Yes, because the essay encourages readers to get out and walk.</div>
 <div class = "choice">C.No, because the essay presents reasons for walking, rather than the rewards.</div>
 <div class = "choice">D.No, because the essay is limited to the physical benefits of walking.</div>
-</div>
+</div>###################
