@@ -49,6 +49,7 @@ public class readText {
 			File file = new File(testname+names[i]);
 			BufferedReader reader = null;
 			try{
+
 				reader = new BufferedReader(new FileReader(file));
 				String tmpstring = null;
 				for(int j = 0; j < lens[i]; j++)
@@ -120,13 +121,11 @@ public class readText {
 		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+filename);
+
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
+
 			while((tmpstring = reader.readLine()) != null){
-				//System.out.println("reading...line "+line);
-				line ++;
 				passage += tmpstring;
 			}
 			reader.close();
@@ -153,10 +152,8 @@ public class readText {
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
-			//System.out.println("reading..."+filename);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
 			int quizNum;
 			int mark = 1;
 			String ques = "";

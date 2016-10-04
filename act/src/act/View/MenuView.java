@@ -31,6 +31,9 @@ public class MenuView extends JPanel{
 	private JTable table = null;
 	private MyTableModel model = null;
 
+
+
+
 	private MainActivity mainActivity ;
 	private JPanel Title = null;
 	private JLabel content = null;

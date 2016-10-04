@@ -15,7 +15,7 @@ import act.View.*;
 
 public class MainActivity extends JFrame{
 	/**
-	 This dsdsa is the main activity. where main method in. 
+	 This is the main activity. where main method in. 
 	 */
 	
 
@@ -72,21 +72,14 @@ public class MainActivity extends JFrame{
 		this.revalidate();
 	}
 	public static void main(String[] args){
-		
-		
-		
-		
-		
-		
-		MainActivity mainActivity = new MainActivity();
-		mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
-		mainActivity.addWindowListener(new WindowAdapter(){
+	MainActivity mainActivity = new MainActivity();
+	mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+	mainActivity.addWindowListener(new WindowAdapter(){
 			@Override
 			public void windowClosing(WindowEvent we){
 				System.exit(0);
 			}
 		});
-
 	}
 
 	
