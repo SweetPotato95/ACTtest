@@ -1,0 +1,52 @@
+<div class = "para">Passage III</div>
+<div class = "para">A solid cylinder is mounted on frictionless bearings. A thin string of negligible mass is wrapped around the cylinder and pulled with a constant force, as shown in Figure l.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\176.png' width = '29.5px'height = '27.2px'/></div>
+<div class = "para">The force results in a torque, τ, on the cylinder that causes the cylinder to spin. The angular acceleration, α of the cylinder is the change of the cylinder’s rotational speed over time.</div>
+<div class = "para">Tables l, 2, and 3 give τ and a for various cylinder masses, cylinder radii, and forces, respectively Table 4 shows the rotational speed of a particular cylinder at different times.</div>
+<div class = "para">(Note: A11 0f the cylinders described in Tables l-4 have the same length.) </div>
+<div class = "para"><table>###10</table></div>
+<div class = "para"></div>
+<div class = "para"><table>###11</table></div>
+<div class = "para"></div>
+<div class = "para"><table>###12</table></div>
+<div class = "para"></div>
+<div class = "para"><table>###13</table></div>
+###################
+<div class = "quiz">12. Was the cylinder described in Table 4 accelerating (speeding up) or decelerating (slowing down) between 1.0 and 4.0 sec?
+
+<div class = "choice">F.Accelerating, because the rotation al speed was decreasing.</div>
+<div class = "choice">G.Accelerating, because the rotational speed was increasing.</div>
+<div class = "choice">H.Decelerating, because the rotational speed was decreasing.</div>
+<div class = "choice">J.Decelerating, because the rotational speed was increasing.</div>
+</div>
+###################
+<div class = "quiz">13. Based on Table l, how is the torque τ related to the force pulling the string and the radius of the cylinder?
+
+<div class = "choice">A.Torque equals radius plus force.</div>
+<div class = "choice">B.Torque equals radius minus force.</div>
+<div class = "choice">C.Torque equals radius times force.</div>
+<div class = "choice">D.Torque equals radius divided by force.</div>
+</div>
+###################
+<div class = "quiz">14. Based-on Table l, if a 2.0N force were exerted upon a 5.0kg cylinder with a radius of 0.050m, α would be;
+
+<div class = "choice">F.less than 10 rad/sec2. .</div>
+<div class = "choice">G.between 10 rad/sec2 and 13 rad/sec2.</div>
+<div class = "choice">H.between 13 rad/sec2 and 20 rad/sec2.</div>
+<div class = "choice">J.greater than 20 rad/sec2.</div>
+</div>
+###################
+<div class = "quiz">15. Suppose we define the frequency of rotation of the cylinder as the number of rotations the cylinder completes in a second. Based on Table 2, 1 second after starting from rest, the cylinder having the highest frequency of rotation will be the one with a radius of:
+
+<div class = "choice">A.0.050 m.</div>
+<div class = "choice">B.0.075 m.</div>
+<div class = "choice">C.0.100 m.</div>
+<div class = "choice">D.0.125 m.</div>
+</div>
+###################
+<div class = "quiz">16. Based on Table 4, rotational speed is proportional to:
+
+<div class = "choice">F.time.</div>
+<div class = "choice">G.time2.</div>
+<div class = "choice">H.time3.</div>
+<div class = "choice">J.time4.</div></div>

@@ -16,7 +16,6 @@ public class readText {
 		File file = new File(testname+name);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+testname+name);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
 			tmpstring = reader.readLine();
@@ -49,15 +48,13 @@ public class readText {
 			File file = new File(testname+names[i]);
 			BufferedReader reader = null;
 			try{
-				//System.out.println("reading..."+testname+names[i]);
+
 				reader = new BufferedReader(new FileReader(file));
 				String tmpstring = null;
-//				int line = 1;
 				for(int j = 0; j < lens[i]; j++)
 				{
 					tmpstring = reader.readLine();
 					tmpstring = tmpstring.split(" ")[1];
-//					//System.out.println( tmpstring.substring(0,tmpstring.length()-1));
 					if(tmpstring.equals("A") || tmpstring.equals("F"))
 						ans[adds[i-1] + j] = 0;
 					if(tmpstring.equals("B") || tmpstring.equals("G"))
@@ -86,16 +83,15 @@ public class readText {
 	}
 	public static String readPassage(String filename){
 		String passage = "";
+		String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);
 		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+filename);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
 			while((tmpstring = reader.readLine()) != null){
-				//System.out.println("reading...line "+line);
-				line ++;
+				tmpstring = tmpstring.replace("resourses", "resources");
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
@@ -115,6 +111,7 @@ public class readText {
 				}
 			}
 		}
+		passage = passage.replace("$$$", path);
 		return passage;
 	}
 	public static String readDirection(String filename){
@@ -122,13 +119,11 @@ public class readText {
 		File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			//System.out.println("reading..."+filename);
+
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
+
 			while((tmpstring = reader.readLine()) != null){
-				//System.out.println("reading...line "+line);
-				line ++;
 				passage += tmpstring;
 			}
 			reader.close();
@@ -150,20 +145,20 @@ public class readText {
 		choice tmpresult = new choice(type);
 		File file = new File(filename);
 		BufferedReader reader = null;
+		String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
-			//System.out.println("reading..."+filename);
 			reader = new BufferedReader(new FileReader(file));
 			String tmpstring = null;
-			int line = 1;
 			int quizNum;
 			int mark = 1;
 			String ques = "";
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
-				//System.out.println("reading...line "+line);
-				line ++;
+				tmpstring = tmpstring.replace("resourses", "resources");
+				tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){
 					mark = 1;
 					ques = "";

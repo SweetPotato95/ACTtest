@@ -1,0 +1,70 @@
+<div class = "para">Passage VI</div>
+<div class = "para">A student performed 4 computer simulation studies to model the change at a gene in a population. For each study, the following rules applied:</div>
+<div class = "para">The gene has 2 alleles (possible forms): A and a.</div>
+<div class = "para">Each organism has 2 copies of the gene.</div>
+<div class = "para">Thus, there ate 3 possible genotypes (allele combinations for the gene): AA, Aa, and aa.</div>
+<div class = "para">Different genotypes may have different fitnesses (the relative number of alleles per individual a genotype contributes to the next generation).</div>
+<div class = "para">The fitnesses of Genotypes AA, Aa, and aa are represented by W(AA), W(Aa), and W(aa), respectively.</div>
+<div class = "para">p = the proportion of the alleles that are in Form A.</div>
+<div class = "para">Changes in p are due to differences in the fitnesses of the genotypes.</div>
+<div class = "para">Time is measured in generations.</div>
+<div class = "para">Study l</div>
+<div class = "para">Three simulations were done. In each, W(AA) = W(Aa)>W(aa), and the initial p = 0.1. See Figure l.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\195.png' width = '44.5px'height = '15px'/></div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\196.png' width = '37px'height = '27.5px'/></div>
+<div class = "para">Study 2</div>
+<div class = "para">Three simulations were done. In each, W(AA) = W(Aa)< W(aa), and the initial p = 0.9. See Figure 2.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\197.png' width = '37px'height = '36.3px'/></div>
+<div class = "para">Study 3</div>
+<div class = "para">Five simulations were performed. In each, W(AA) = 0.8; W(Aa) = 1.0; and W(aa) = 0.6. The initial p varied. See Figure 3.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\198.png' width = '37px'height = '34.5px'/></div>
+<div class = "para">Study 4  .</div>
+<div class = "para">Five simulations were performed. In each, W(AA) = 0.625; W(Aa) = 0.5; and W(aa) = 1.0. The initial p varied. See Figure 4.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\199.png' width = '37px'height = '28.3px'/></div>
+###################
+<div class = "quiz">28. In Study 4, the initial values of p were:
+
+<div class = "choice">F.0.1, 0.25, 0.5, 0.75, and l.0.</div>
+<div class = "choice">G.0.4, 0.45, 0.5; 0.95, and l.0.</div>
+<div class = "choice">H.0.7, 0.75, 0.8, 0.85, and 0.9.</div>
+<div class = "choice">J.0.8, 0.85, 0.9, 0.95, and l.0.</div>
+</div>
+###################
+<div class = "quiz">29. For the simulation in Study 1 in which W(aa) = 0.4, the greatest change in p occurred during which of the following time frames?
+
+<div class = "choice">A.Between Generation 0 and Generation 10</div>
+<div class = "choice">B.Between Generation 10 and Generation 20</div>
+<div class = "choice">C.Between Generation 20 and Generation 30</div>
+<div class = "choice">D.Between Generation 30 and Generation 40</div>
+</div>
+###################
+<div class = "quiz">30. Based on the information provided, which of the following shows the possible range for p?
+
+<div class = "choice">F.0-0.5</div>
+<div class = "choice">G.0-1.0</div>
+<div class = "choice">H.0.5-1.0</div>
+<div class = "choice">J.0.5-2.0</div>
+</div>
+###################
+<div class = "quiz">31. In all 3 simulations in Study l, W(Aa) equaled:
+
+<div class = "choice">A.0.8.</div>
+<div class = "choice">B.1.0.</div>
+<div class = "choice">C.1.2.</div>
+<div class = "choice">D.2.0.</div>
+</div>
+###################
+<div class = "quiz">32. Which studies included at least l simulation in which the fitness of Genotype AA was greater than the fitness of Genotype aa?
+
+<div class = "choice">F.Studies l and 3</div>
+<div class = "choice">G.Studies l and 4</div>
+<div class = "choice">H.Studies 2 and 3</div>
+<div class = "choice">J.Studies 2 and 4</div>
+</div>
+###################
+<div class = "quiz">33. If the student wanted to run an additional simulation in Study l in which the initial p = 0.1 and p at Generation 10 was between 0.7 and 0.8, the student should set W(AA) = 1.0; W(Aa) = 1.0; and:
+
+<div class = "choice">A.W(aa)=0.3.</div>
+<div class = "choice">B.W(aa)=0.5.</div>
+<div class = "choice">C.W(aa)=0.7.</div>
+<div class = "choice">D.W(aa)=0.9.</div></div>

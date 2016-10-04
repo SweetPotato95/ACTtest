@@ -1,0 +1,62 @@
+<div class = "para">Passage I</div>
+<div class = "para">In certain solutions, beet cells undergo membrane disruption, causing the cells to release betacyanin (a red pigment). As membrane disruption increases, more betacyanin is released. To determine the amount of betacyanin released, the amount of light absorbed (at a specific wave-length) by the solution is measured. As the concentration of betacyanin in the solution in creases; the amount of light absorbed increases.</div>
+<div class = "para">To determine the amount of light absorbed by a solution, light is directed through a sample of the solution onto a detector (see Figure 1).</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 Dec 63C\imgs\171.png' width = '52px'height = '20.6px'/></div>
+<div class = "para">By measuring the amount of light that hits the detector, the amount of light absorbed by the sample can be determined.</div>
+<div class = "para">Experiment 1</div>
+<div class = "para">For each of 9 trials, a student placed a beet section (2cm × 2cm × lcm) in 100mL of water at a specific temperature for 10, 20, or 30 min. The student then removed a sample of the solution and determined its absorbance (see Table l).</div>
+<div class = "para"><table>###4</table></div>
+<div class = "para">Experiment 2</div>
+<div class = "para">Experiment l was repeated, except that in each trial an acetone/water solution was used instead of water and the temperature was kept constant at 250℃ (see Table 2).</div>
+<div class = "para"><table>###5</table></div>
+<div class = "para">Experiment 3</div>
+<div class = "para">Experiment 2 was repeated, except that in each trial a methanol/water solution was used instead  of an acetone/water solution (see Table 3).</div>
+<div class = "para"><table>###6</table></div>
+<div class = "para">The student then determined the absorbance of water, of acetone, and of methanol. Each had an absorbance of 0.00.</div>
+###################
+<div class = "quiz">1. Suppose that in Experiment 3 a beet section had been placed in a solution that was 40% methanol by volume for 20 min. The absorbance of the sample from the resulting solution would most likely have been closest to which of the following?
+
+<div class = "choice">A.0.15</div>
+<div class = "choice">B.0.30</div>
+<div class = "choice">C.0.45 .</div>
+<div class = "choice">D.0.60</div>
+</div>
+###################
+<div class = "quiz">2. Based on the results of Experiment 2, which of the following additional trials would have resulted in an absorbance closest to 0.80?
+
+<div class = "choice">F.10% acetone for 15 min</div>
+<div class = "choice">G.l0% acetone for 25 min</div>
+<div class = "choice">H.30% acetone for 25 min</div>
+<div class = "choice">J.30% acetone for 35 min</div>
+</div>
+###################
+<div class = "quiz">3. The results of Experiment l are most consistent with which of the following conclusions about the effects of temperature on membrane disruption and absorbance? Higher temperatures resulted in:
+
+<div class = "choice">A.greater membrane disruption and higher absorbances.</div>
+<div class = "choice">B.greater membrane disruption and lower absorbances.</div>
+<div class = "choice">C.less membrane disruption and higher absorbances.</div>
+<div class = "choice">D.less membrane disruption and lower absorbances.</div>
+</div>
+###################
+<div class = "quiz">4. The student concluded that at a given concentration, acetone causes more membrane disruption than does methanol. Is this conclusion supported by the results of Experiments 2 and 3?
+
+<div class = "choice">F.No, because at each concentration tested, more betacyanin was released in the acetone solution than was released in the methanol solution.</div>
+<div class = "choice">G.No, because at each concentration tested,1ess betacyanin was released in the acetone solution than was released in the methanol solution.</div>
+<div class = "choice">H.Yes, because at each concentration tested, more betacyanin was released in the acetone solution than was released in the methanol solution.</div>
+<div class = "choice">J.Yes, because at each concentration tested, less betacyanin was released in the acetone solution than was released in the methanol solution.</div>
+</div>
+###################
+<div class = "quiz">5. Suppose that in Experiment l, betacyanin concentration was directly proportional to absorbance. Accordingly; the betacyanin concentration in the sample in Trial 7 was most likely twice as great as the betacyanin concentration in the sample in:
+
+<div class = "choice">A.Trial 3.</div>
+<div class = "choice">B.Trial 4.</div>
+<div class = "choice">C.Trial 5.</div>
+<div class = "choice">D.Trial 6.</div>
+</div>
+###################
+<div class = "quiz">6. In Experiment l, the student directly varied 2 independent variables and measured how these changes affected the value of the dependent variable. Which of the following lists an independent variable and the dependent variable in Experiment l ?
+<u>Independent variable</u>               <u>Dependent variable</u>
+<div class = "choice">F.absorbance                     water concentration</div>
+<div class = "choice">G.water concentration              methanol concentration</div>
+<div class = "choice">H.methanol-concentration           temperature</div>
+<div class = "choice">J.temperature                     absorbance</div></div>

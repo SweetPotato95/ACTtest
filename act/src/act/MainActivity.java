@@ -69,8 +69,9 @@ public class MainActivity extends JFrame{
 	}
 	public static void main(String[] args){
 		
-		
 		MainActivity mainActivity = new MainActivity();
+		/*String path = System.getProperty("java.class.path");
+		path = path.substring(0,path.length()-4);*/
 		mainActivity.addWindowListener(new WindowAdapter(){
 			@Override
 			public void windowClosing(WindowEvent we){

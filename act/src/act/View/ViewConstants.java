@@ -2,7 +2,7 @@ package act.View;
 
 public class ViewConstants{
 	public static int MAINPANEL_WIDTH = 1024;
-	public static int MAINPANEL_HEIGHT = 700;
+	public static int MAINPANEL_HEIGHT = 800;
 	public static int NAV_WIDTH;
 	public static int NAV_HEIGHT = 50;
 	public static int CHOICEPANE_PART_WIDTH;
