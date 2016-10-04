@@ -72,7 +72,7 @@ public class MainController{
 			return;
 		}
 		if(basicInfo.isLastInPart(questionIndex)){
-			mainView.showInstructionView(++partIndex);
+			mainView.showInstructionView(testIndex,++partIndex);
 			isInstructionShowing = true;
 			questionIndex++;
 			splitIndex++;
@@ -108,7 +108,10 @@ public class MainController{
 		
 	}
 	public static void handleScore(){
+		
 		mainView.setCountingStatus(false);
+		
+		
 		ans.judgeScore();
 		mainView.showScoreView();	
 	}
@@ -168,11 +171,14 @@ public class MainController{
 	public static int getSplitIndex(){
 		return splitIndex;
 	}
+	public static int getTestIndex(){
+		return testIndex;
+	}
 	public static int getQuestionIndex(){
 		return questionIndex;
 	}
 	public static void timeIsUp(){
-		if(partIndex + 1 == ModelConstants.PARTNUM_TOTAL){
+		if(partIndex + 1 >= ModelConstants.PARTNUM_TOTAL){
 			handleScore();
 		}
 		else {
@@ -181,7 +187,7 @@ public class MainController{
 	}
 	public static void submitThisPart(){
 		
-		mainView.showInstructionView(++partIndex);
+		mainView.showInstructionView(testIndex,++partIndex);
 		mainView.startTimer(partIndex);
 		splitIndex = basicInfo.firstSplitInPart(partIndex);
 		questionIndex = basicInfo.firstQuestionIndexInSplit(splitIndex);

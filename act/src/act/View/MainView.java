@@ -28,7 +28,7 @@ public class MainView extends JPanel{
 	private math mathBrain ;
 	public MainView()
 	{
-		
+		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT));
 	}
 	
 	public void init(){
@@ -69,7 +69,7 @@ public class MainView extends JPanel{
               }  
           }  
       }, AWTEvent.KEY_EVENT_MASK);
-        showInstructionView(ModelConstants.ENGLISH);
+        showInstructionView(MainController.getTestIndex(),ModelConstants.ENGLISH);
         //showPassageView();
         
 	}
@@ -107,12 +107,12 @@ public class MainView extends JPanel{
 		instructionView.setVisible(false);
 		mainContent.moveToFront(writingView);
 	}
-	public void showInstructionView(int partIndexToShow){
+	public void showInstructionView(int testIndex,int partIndexToShow){
 		//System.out.println("IN");
 		choiceView.setVisible(false);
 		passageView.setVisible(false);
 		writingView.setVisible(false);
-		instructionView.requestUpdate(partIndexToShow);
+		instructionView.requestUpdate(testIndex,partIndexToShow);
 		mainContent.remove(instructionView);
 		mainContent.add(instructionView, ViewConstants.INSTRUCTIONVIEW_LAYER);
 		instructionView.setVisible(true);
@@ -125,6 +125,8 @@ public class MainView extends JPanel{
 		navBar.scoreMode();
 		scoreListView.init();
 		scoreListView.setVisible(true);
+		
+		mainContent.revalidate();
 	}
 	public void requestUpdate(){
 		requestUpdate(MainController.getQuestionIndex(),MainController.getSplitIndex(),MainController.getPartIndex());

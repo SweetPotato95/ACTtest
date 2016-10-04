@@ -1,5 +1,7 @@
 package act;
 
+import java.awt.Dimension;
+import java.awt.Toolkit;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
@@ -15,6 +17,8 @@ public class MainActivity extends JFrame{
 	/**
 	 This is the main activity. where main method in. 
 	 */
+	
+
 	private static final long serialVersionUID = 1L;
 	//private MainController mainController = new MainController();
 	private MainView mainView = new MainView();
@@ -68,11 +72,9 @@ public class MainActivity extends JFrame{
 		this.revalidate();
 	}
 	public static void main(String[] args){
-		
-		MainActivity mainActivity = new MainActivity();
-		/*String path = System.getProperty("java.class.path");
-		path = path.substring(0,path.length()-4);*/
-		mainActivity.addWindowListener(new WindowAdapter(){
+	MainActivity mainActivity = new MainActivity();
+	mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+	mainActivity.addWindowListener(new WindowAdapter(){
 			@Override
 			public void windowClosing(WindowEvent we){
 				System.exit(0);

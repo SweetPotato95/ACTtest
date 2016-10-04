@@ -37,7 +37,7 @@ public class InstructionView extends JPanel{
 	public void setReadingBrain(reading r){
 		readingBrain = r;
 	}
-	public void requestUpdate(int partIndex){
-		textPane.setText(readingBrain.readDirection(partIndex));
+	public void requestUpdate(int testIndex,int partIndex){
+		textPane.setText(readingBrain.readDirection(testIndex,partIndex));
 	}
 }

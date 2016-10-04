@@ -12,13 +12,12 @@ public class reading {
 	private String path = null;
 	private static String passage;
 	private ArrayList<choice> quizs;
-	private String[] paths = {"resources\\2005 April 60E\\",""};
 	private String[] tests = {"English\\","Math\\","Reading\\","Science\\","Writing\\"};
 	public reading(int t, int tn, int index){
 		this.testIndex = t;
 		this.partIndex = tn;
 		this.splitIndexinPart = index;
-		this.path = paths[t]+tests[tn]+(splitIndexinPart+1)+".txt";
+		this.path = ModelConstants.TESTPATH[t]+tests[tn]+(splitIndexinPart+1)+".txt";
 		this.passage = readText.readPassage(path);
 		this.quizs = readText.readChoice(t, path);
 	}
@@ -31,9 +30,9 @@ public class reading {
 	public choice getChoice(int index){
 		return quizs.get(index);
 	}
-	public String readDirection(int partIndex){
-		String res = readText.readDirection("resources\\2005 April 60E\\"+ModelConstants.PARTNAME[partIndex]+"\\Direction.txt");
-		//System.out.println(res);
+	public String readDirection(int testIndex, int partIndex){
+		String res = readText.readDirection( ModelConstants.TESTPATH[testIndex]
+				+ModelConstants.PARTNAME[partIndex]+"\\Direction.txt");
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
@@ -50,7 +49,8 @@ public class reading {
 		this.testIndex = testIndex;
 		this.partIndex = partIndex;
 		this.splitIndexinPart = splitIndex;
-		this.path = paths[this.testIndex]+tests[partIndex]+(splitIndexinPart+1)+".txt";
+		this.path = ModelConstants.TESTPATH[this.testIndex]
+				+tests[partIndex]+(splitIndexinPart+1)+".txt";
 		this.passage = readText.readPassage(path);
 		this.quizs = readText.readChoice(this.testIndex, path);
 	}

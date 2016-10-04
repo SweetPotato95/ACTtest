@@ -1,5 +1,8 @@
 package act.View;
 
+import java.awt.Dimension;
+import java.awt.Toolkit;
+
 public class ViewConstants{
 	public static int MAINPANEL_WIDTH = 1024;
 	public static int MAINPANEL_HEIGHT = 800;
@@ -31,9 +34,12 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_LEFT ;
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
-	public static int[] TIME_LIMIT_PER_PART = {25,25,25,25,25};
+	public static int[] TIME_LIMIT_PER_PART = {1,5000,5,5,5};
+
 	static{
-		
+		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();
+		MAINPANEL_WIDTH = (int) Math.ceil(sc.getWidth());
+		MAINPANEL_HEIGHT = (int)Math.ceil(sc.getHeight());
 		NAV_WIDTH = MAINPANEL_WIDTH;
 		MAINCONTENT_WIDTH = (int) Math.floor(0.98*MAINPANEL_WIDTH);
 		MAINCONTENT_HEIGHT = MAINPANEL_HEIGHT - NAV_HEIGHT-50;
