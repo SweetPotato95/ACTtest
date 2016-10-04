@@ -1,11 +1,11 @@
 <h1>Passage III</h1>
 <div class = "para">Shaking Up the Language</div>
-<div class = "para">It¡¯s usually hard to determine who first uttered out loud a given word and almost as hard to know who first wrote it down <u>32 originally.</u> It is known, however, that William Shakespeare¡¯s plays immortalized many of the words and expressions popular in his day. Have <u>33 you ever said you were</u> tongue-tied? <u>34 Do you suspect</u> foul play, bid good riddance or felt like a laughingstock? If so, you were using words and phrases that Shakespeare¡¯s plays have made enduringly popular.</div>
-<div class = "para">Shakespeare¡¯s Hamlet, one of his most widely read and performed plays, contains many expressions that are frequently used today, though often in new ways. Hamlet¡¯s regard for humanity is evident in his line ¡°What a piece of work is a man!¡± <u>35 Nonetheless, we</u> still use the expression piece of work, though now it¡¯s used to describe someone who is hard to understand or deal with. 36</div>
-<div class = "para">Iago, the villain of the <u>37 tragedy, Othello</u> strives to undo Othello, a respected general. Iago falsely hints that Desdemona, the wife of Othello, is in love with <u>38 one of Othellos¡¯</u> officers. To further confuse Othello, Iago warns him against being consumed by doubts about his wife, calling jealousy a ¡°green-eyed monster,¡± a now-common term for that emotion.</div>
-<div class = "para">The Globe audience heard hundreds of other expressions that are now household words. In Henry V, Shakespeare used this very term to describe how the names of King Henry¡¯s war heroes <u>39 became</u> as well known to English people as simple .words used in any household.</div>
+<div class = "para">Itâ€™s usually hard to determine who first uttered out loud a given word and almost as hard to know who first wrote it down <u>32 originally.</u> It is known, however, that William Shakespeareâ€™s plays immortalized many of the words and expressions popular in his day. Have <u>33 you ever said you were</u> tongue-tied? <u>34 Do you suspect</u> foul play, bid good riddance or felt like a laughingstock? If so, you were using words and phrases that Shakespeareâ€™s plays have made enduringly popular.</div>
+<div class = "para">Shakespeareâ€™s Hamlet, one of his most widely read and performed plays, contains many expressions that are frequently used today, though often in new ways. Hamletâ€™s regard for humanity is evident in his line "What a piece of work is a man!" <u>35 Nonetheless, we</u> still use the expression piece of work, though now itâ€™s used to describe someone who is hard to understand or deal with. 36</div>
+<div class = "para">Iago, the villain of the <u>37 tragedy, Othello</u> strives to undo Othello, a respected general. Iago falsely hints that Desdemona, the wife of Othello, is in love with <u>38 one of Othellosâ€™</u> officers. To further confuse Othello, Iago warns him against being consumed by doubts about his wife, calling jealousy a "green-eyed monster," a now-common term for that emotion.</div>
+<div class = "para">The Globe audience heard hundreds of other expressions that are now household words. In Henry V, Shakespeare used this very term to describe how the names of King Henryâ€™s war heroes <u>39 became</u> as well known to English people as simple .words used in any household.</div>
 <div class = "para"><u>40 A recent film version of Henry V was quite popular.</u> Still other terms that his plays have preserved <u>41 are including</u> birthplace, downstairs, eyeball, and love letter.</div>
-<div class = "para">We also find <u>42 illusions of</u> Shakespeare¡¯s words in film. For instance, one of the Star Trek <u>43 movies are</u> subtitled ¡°The Undiscovered Country,¡± a phrase from one of Hamlet¡¯s speeches. Given Shakespeare¡¯s strong <u>44 presence, in speech and popular culture</u> it seems likely that, eyen in the future, <u>45 he will continue to be a popular author.</u></div>
+<div class = "para">We also find <u>42 illusions of</u> Shakespeareâ€™s words in film. For instance, one of the Star Trek <u>43 movies are</u> subtitled "The Undiscovered Country," a phrase from one of Hamletâ€™s speeches. Given Shakespeareâ€™s strong <u>44 presence, in speech and popular culture</u> it seems likely that, eyen in the future, <u>45 he will continue to be a popular author.</u></div>
 ###################
 <div class = "quiz">31. 
 <div class = "choice">A.NO CHANGE</div>
@@ -44,7 +44,7 @@
 ###################
 <div class = "quiz">36. The writer is considering deleting the second clause in the preceding sentence, ending the sentence with a period after the word work. If the writer did this, the paragraph would primarily lose:
 <div class = "choice">F.an example of how an expression changes in meaning over time.</div>
-<div class = "choice">G.an irrelevant digression that undermines the paragraph¡¯s logic.</div>
+<div class = "choice">G.an irrelevant digression that undermines the paragraphâ€™s logic.</div>
 <div class = "choice">H.information providing a key transition to the next paragraph.</div>
 <div class = "choice">J.a detail that contradicts the statement in the first part of his sentence.</div>
 </div>
@@ -59,8 +59,8 @@
 <div class = "quiz">38. 
 <div class = "choice">F.NO CHANGE</div>
 <div class = "choice">G.one of Othellos</div>
-<div class = "choice">H.one, of Othellos¡¯</div>
-<div class = "choice">J.one of Othello¡¯s</div>
+<div class = "choice">H.one, of Othellosâ€™</div>
+<div class = "choice">J.one of Othelloâ€™s</div>
 </div>
 ###################
 <div class = "quiz">39. 
@@ -110,4 +110,4 @@
 <div class = "choice">B.readers will still be discussing and debating his fascinating ideas.</div>
 <div class = "choice">C.there will be no escaping his influence on the English language.</div>
 <div class = "choice">D.films will continue to borrow plot ideas from his plays.</div>
-</div>
+</div>###################
