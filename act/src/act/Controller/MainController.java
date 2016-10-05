@@ -47,7 +47,7 @@ public class MainController{
 	}
 	public static void handleNext(){
 		//System.out.println(questionIndex+","+splitIndex+","+partIndex);
-		if(partIndex > basicInfo.getTotalPartNum()){
+		if(partIndex >= basicInfo.getTotalPartNum()){
 			return;
 		}
 		if(isInstructionShowing){

@@ -36,7 +36,7 @@ public class reading {
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
-		if(partIndex == ModelConstants.MATH){
+		if(partIndex == ModelConstants.MATH || partIndex == ModelConstants.WRITING){
 			//System.out.println("Miss request from Math to Reading");
 			return;
 		}
