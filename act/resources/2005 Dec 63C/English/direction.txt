@@ -1,7 +1,6 @@
-
-ENGLISH TEST
-45 Minutes—75 Questions
-DIRECTIONS: In the five passages that follow, certain words and phrases are underlined and numbered. In the right-hand column, you will find alternatives for the underlined part. In most cases, you are to choose the one that best expresses the idea, makes the statement appropriate for standard written English, or is worded most consistently with the style and tone of the passage as a whole. If you think the original version is best, choose “NO CHANGE.” In some cases, you will find in the right-hand column a question about the underlined part. You are to choose the best answer to the question.
-You will also find questions about a section of the pas-sage, or about the passage as a whole. These questions do not refer to an underlined portion of the passage, but rather are identified by a number or numbers in a box.
-For each question, choose the alternative you consider best and fill in the corresponding oval on your answer document. Read each passage through once before you begin to answer the questions that accompany it. For many of the questions, you must read several sentences beyond the question to determine the answer. Be sure that you have read far enough ahead each time you choose an alternative.
-
+<h1>ENGLISH TEST</h1>
+<div>45 Minutes—75 Questions</div>
+<div>DIRECTIONS: In the five passages that follow, certain words and phrases are underlined and numbered. In the right-hand column, you will find alternatives for the underlined part. In most cases, you are to choose the one that best expresses the idea, makes the statement appropriate for standard written English, or is worded most consistently with the style and tone of the passage as a whole. If you think the original version is best, choose “NO CHANGE.” In some cases, you will find in the right-hand column a question about the underlined part. You are to choose the best answer to the question.</div>
+<div>You will also find questions about a section of the pas-sage, or about the passage as a whole. These questions do not refer to an underlined portion of the passage, but rather are identified by a number or numbers in a box.</div>
+<div>For each question, choose the alternative you consider best and fill in the corresponding oval on your answer document. Read each passage through once before you begin to answer the questions that accompany it. For many of the questions, you must read several sentences beyond the question to determine the answer. Be sure that you have read far enough ahead each time you choose an alternative.</div>
+<div></div>

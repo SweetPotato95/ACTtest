@@ -71,6 +71,7 @@ public class MenuView extends JPanel{
 		DefaultTableCellRenderer render = new DefaultTableCellRenderer();
 	    render.setHorizontalAlignment(SwingConstants.CENTER);
 	    table.setDefaultRenderer(table.getColumnClass(0), render);
+	    table.setRowHeight(30);
 	    // ±ÌÕ∑æ”÷–
 	    JTableHeader header = table.getTableHeader();
 	    header.setFont(new Font("Œ¢»Ì—≈∫⁄", Font.PLAIN, 16));
@@ -162,7 +163,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
     private JTable table;
     private String text1="Start";
     private String text2="Report";
-    private ImageIcon icon = new ImageIcon("ACT resources\\lib\\button.gif");
+    private ImageIcon icon = new ImageIcon("resources\\lib\\button.gif");
     private MenuView menuView;
     
     public ButtonColumn(){}
