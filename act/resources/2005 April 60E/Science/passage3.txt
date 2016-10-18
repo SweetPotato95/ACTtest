@@ -1,18 +1,18 @@
-﻿
+
 Passage III
 As a living cell’s surface area-to-volume ratio (S/V) increases. so does the cell’s ability to exchange substances with its environment.
 To model this exchange process different-sized cubes of gelatin were immersed in a dye for 1 minute. Table 1 lists the edge length, surface area, volume, S/V, and percent volume of gelatin that was dyed.
-<table>###5</table>
+#####5
 Figure 1 shows the S/V of certain rectangular solids and spheres.
-<img src='file:\$$$\resourses\2005 April 60E\imgs\224.png' width = '29.5px'height = '20px'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\224.png' width = '88'height = '60'/>
 Figure 2 shows the volume of certain rectangular solids and spheres as a function of surface area.
-<img src='file:\$$$\resourses\2005 April 60E\imgs\225.png' width = '29.5px'height = '18px'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\225.png' width = '88'height = '54'/>
 Table 2 lists the diameter and surface area of 5 types of spherical ova (egg cells).
-<table>###6</table>
+#####6
 Table 2 adapted from Norman K. Wessells and Janet L. Hopson.
 Biology. ©1988 by Random House, Inc.
 14. Ova with very large volumes rend to contain large amounts of nutrients that are used for growth by the embryo. Based on the information in Table 2 and Figure 2, which of the following ova most likely contain the greatest amount of nutrients?
-F. Sea urchin ova        G. Hu:nan ova     H. Humminobird ova      J. Hen ova
+F. Sea urchin ova        G Hu:nan ova     H. Humminobird ova      J. Hen ova
 15. Based on the information in Table l, a cube-shaped with which of the following edge lengths will have the greatest S/V?
 A. 20 mm         B. 40 mm       C. 60 mm        D. 80 mm
 16. Which of the following best describes why the units for the S/V in Figure l are mm-1?

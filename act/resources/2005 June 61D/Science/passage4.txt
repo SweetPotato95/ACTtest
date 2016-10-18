@@ -1,0 +1,35 @@
+
+Passage IV
+Burning household waste in metal barrels can release harmful emissions (airborne gases and particulates), including<img src='file:\$$$\resources\2005 June 61D\imgs\161.png' width = '60'height = '50'/>, CO, <img src='file:\$$$\resources\2005 June 61D\imgs\162.png' width = '68'height = '50'/>, dioxin, lead, and mercury. The remaining ash also may contain toxic substances. Two studies examined these emissions and ash.
+Study 1
+Two hundred pounds of household waste designated for burning was collected from 12 households. The waste was placed in a metal barrel located under a hood that collected emissions (see Figure 1). The waste was burned for 2 hours at 400℉ to 500℉. The average reduction in the weight and the volume of the original waste after burning was 58% and 70%, respectively.
+<img src='file:\$$$\resources\2005 June 61D\imgs\163.png' width = '317'height = '504'/>
+The concentrations of emissions, in parts per million (ppm), were measured. Table 1 shows the results and the established maximum allowed concentrations in emissions from incinerators (facilities that burn large quantities of household waste).
+#####6
+Study 2
+The ash from the burned waste in Study 1 was analyzed for the presence of several substances, including mercury and lead. Table 2 shows the measured concentrations in the ash and the established limit that, if exceeded for any one of the substances, means the sample of ash would be considered hazardous.
+#####7
+Figure and tables adapted from Chris Burger, “Emission Characteristics of Burn Barrels.” © 1994 by Patrick Engineering, Inc.
+19. Mercury is a liquid at room temperature. Based on the results for mercury in Study 1 and the design of that study one would conclude which of the following about the properties of mercury? The temperatures of 400℉ to 500℉ that were reached in the metal barrel were sufficient to change some of the mercury from a:
+A. liquid to a gas.  B. solid to a liquid.  C. liquid to a solid.  D. gas to a liquid.
+20. The more toxic a substance, the smaller the concentration at which it is considered hazardous. According to this information and Study 1, which of the listed gases is considered the most toxic?
+F. SO<img src='file:\$$$\resources\2005 June 61D\imgs\164.png' width = '19'height = '50'/>  G. co  H. NO<img src='file:\$$$\resources\2005 June 61D\imgs\165.png' width = '19'height = '50'/>  J. Dioxin
+21. If Study 2 had been repeated using the waste from 15 households instead of 12 households, the resulting measured concentration for each substance in the repeated Study 2 would most likely have been:
+A. much higher than the respective concentration in the original study.
+B. similar to the respective concentration in the original study.
+C. much lower than the respective concentration in the original study.
+D. approximately zero for all substances.
+22. According to the results of Study 1, which of the following gases emitted from burning waste in metal barrels exceeded the maximum allowed emission concentration set for incinerators?
+F. SO<img src='file:\$$$\resources\2005 June 61D\imgs\166.png' width = '19'height = '50'/>  G. CO  H. NO<img src='file:\$$$\resources\2005 June 61D\imgs\167.png' width = '19'height = '50'/>  J. Dioxin
+23. Which of the following statements about the concentrations of substances in the ash from burning waste in metal barrels is supported by the results of Study 2?
+The ash left after burning waste in metal barrels:
+A. contained hazardous concentrations of all the tested substances.
+B. contained hazardous concentrations of mercury and lead only.
+C. did not contain hazardous concentrations of any of the tested substances.
+D. did not contain measurable concentrations of mercury or lead.
+24. It was hypothesized that burning waste in metal barrels in these studies would produce lower concentrations of particulates than does burning waste in incinerators that comply with established maximum concentrations. Is this hypothesis supported by the results of Study 1?
+F. Yes; the average concentration of particulates from burning waste in the metal barrels was lower than the maximum allowed particulate concentration from burning waste in incinerators.
+G. Yes; the average concentration of particulates from burning waste in the metal barrels was higher than the maximum allowed particulate concentration from burning waste in incinerators.
+H. No; the average concentration of particulates from burning waste in the metal barrels was lower than the maximum allowed particulate concentration from burning waste in incinerators.
+J. No; the average concentration of particulates from burning waste in the metal barrels was higher than the maximum allowed particulate concentration from burning waste in incinerators.
+
