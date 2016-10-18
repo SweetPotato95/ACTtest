@@ -46,13 +46,7 @@ public class PassagePane extends JPanel{
 	
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 		passagepane.setText("<html><body>"+readingBrain.getPassage()+"</body></html>");
-		javax.swing.SwingUtilities.invokeLater(new Runnable() {
-			   public void run() { 
-			       scrollPane.getVerticalScrollBar().setValue(0);
-			       scrollPane.revalidate();
-			   }
-			});
-		
-		
+		scrollPane.getVerticalScrollBar().setValue(0);
+		scrollPane.revalidate();
 	}
 };
