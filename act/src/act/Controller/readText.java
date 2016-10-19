@@ -194,6 +194,22 @@ public class readText {
 					tmpstring = tmpstring.replace("</div>", "");
 					tmpoptions.add(tmpstring);
 				}
+				if(tmpstring.startsWith("<div class = \"para\">")){					
+					if (mark == 2){
+						//System.out.println(ques);
+						int tmpl = ques.length();
+
+						tmpresult.setQuestion(ques.substring(0, tmpl-1));
+						int pos = ques.indexOf(".");
+						quizNum = Integer.parseInt(ques.substring(0, pos));
+//						//System.out.println(quizNum);
+						tmpresult.setQuizNum(quizNum);
+					}
+					mark = 3;
+					tmpstring = tmpstring.replace("<div class = \"para\">", "");
+					tmpstring = tmpstring.replace("</div>", "");
+					tmpoptions.add(tmpstring);
+				}
 			}
 			reader.close();
 		}catch(IOException e){

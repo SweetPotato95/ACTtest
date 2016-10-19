@@ -82,7 +82,7 @@ def split_math(src, dst):
 				#row.replace("<table>###"+n+"</table>",tb)
 
 				f.write(tb)
-				f.write('</div>\n')
+				f.write('</div>&')
 			continue
 		if re.search(pattern,row):
 			if index == 0:
@@ -114,7 +114,7 @@ def split_science(src, dst):
 				f.write('<div class = \"para\" >')
 				tb = tables[int(n)-1]
 				f.write(tb)
-				f.write('</div>\n')
+				f.write('</div>&')
 			continue
 
 		if re.search(pattern,row):
