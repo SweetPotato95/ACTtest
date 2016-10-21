@@ -5,7 +5,6 @@ import javax.swing.*;
 import act.Controller.reading;
 import act.Model.*;
 import java.awt.Dimension;
-import java.awt.Font;
 import java.io.*;
 import javax.swing.event.*;
 import javax.swing.text.html.*;
@@ -30,11 +29,7 @@ public class PassagePane extends JPanel{
 		passagepane.setVisible(true);
 		passagepane.setContentType("text/html");
 		passagepane.setOpaque(false);
-		Font font = new Font("Segoe UI",Font.BOLD,100);
 		HTMLEditorKit kit = (HTMLEditorKit)passagepane.getEditorKit();
-		String bodyRule = "body { font-family: " + font.getFamily() + "; " +
-	            "font-size: " + font.getSize() + "pt; }";
-		((HTMLDocument)passagepane.getDocument()).getStyleSheet().addRule(bodyRule);
         kit.setAutoFormSubmission(false);
 		passageFile = new File("D://test.html"); 
 			//passagepane.setPage(passageFile.toURI().toURL());
@@ -51,13 +46,5 @@ public class PassagePane extends JPanel{
 	
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 		passagepane.setText("<html><body>"+readingBrain.getPassage()+"</body></html>");
-		javax.swing.SwingUtilities.invokeLater(new Runnable() {
-			   public void run() { 
-			       scrollPane.getVerticalScrollBar().setValue(0);
-			       scrollPane.revalidate();
-			   }
-			});
-		
-		
 	}
 };

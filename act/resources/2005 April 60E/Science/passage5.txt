@@ -4,12 +4,12 @@ Heat conduction is a process by which heat is transferred from a region at a hig
 A student studied the relationship between the length and diameter of a copper wire connecting 2 metallic blocks and the rate of heat conduction between the blocks.
 Experiment 1
 A small aluminum block, A, was heated to 100℃ in boiling water, and an identical aluminum block, B, was cooled to 0℃ in ice water. Both blocks were immediately placed on an insulating surface (a surface that does not conduct heat well) and connected by a given length of 1 mm diameter copper wire initially at room temperature so that the wire would conduct heat from Block A to Block B (see Figure l).
-<img src='file:\$$$\resources\2005 April 60E\imgs\228.png' width = '178'height = '68'/>
+<img src='file:\$$$\resourses\2005 April 60E\imgs\228.png' width = '59.5px'height = '22.5px'/>
 The temperature of each block was measured at regular time intervals for 3 minutes. The same procedure was done with different lengths of 1 mm diameter copper wire. The results are shown in Table 1.
-#####8
+<table>###8</table>
 Experiment 2
 The procedure described in Experiment l was repeated using a copper wire with a diameter of l.4 mm. The results are shown in Table 2.
-#####9
+<table>###9</table>
 25. The best way to test the hypothesis that the rate of heat conduction depends on the type of wire material used in the experiments would be to repeat the experiments using:
 A. silver wires and aluminum from the copper wires.
 B. silver wires and aluminum sizes as the copper wipes.
@@ -21,7 +21,7 @@ G. The 30 cm long, 1 mm diameter wire
 H. The 10 cm long, 1.4 mm diameter wire
 J. The 30 cm long, 1.4 mm diameter wire
 27. Based on Experiments l and 2, which of the following graphs best represents the relationship between the length of a copper wire of a given diameter arid the temperature of Block A at a given time?
-A.<img src='file:\$$$\resources\2005 April 60E\imgs\229.png' width = '94'height = '83'/>     B.<img src='file:\$$$\resources\2005 April 60E\imgs\230.png' width = '96'height = '82'/>     C.<img src='file:\$$$\resources\2005 April 60E\imgs\231.png' width = '96'height = '86'/>     D. <img src='file:\$$$\resources\2005 April 60E\imgs\232.png' width = '94'height = '79'/>
+A.<img src='file:\$$$\resourses\2005 April 60E\imgs\229.png' width = '31.4px'height = '27.6px'/>     B.<img src='file:\$$$\resourses\2005 April 60E\imgs\230.png' width = '32px'height = '27.2px'/>     C.<img src='file:\$$$\resourses\2005 April 60E\imgs\231.png' width = '32px'height = '28.5px'/>     D. <img src='file:\$$$\resourses\2005 April 60E\imgs\232.png' width = '31.4px'height = '26.3px'/>
 28. As thermal conductivity decreases, the ability to conduct heat decreases. Brass has a thermal conductivity one-third that of copper. If, in any of the experiments, a copper wire were replaced with a brass wire of the same length and diameter, which of the following outcomes would be most likely?
 F. Block A would lose heat more slowly than when a copper wire was used.
 G. Block A would lose heat at the same rate as when a copper wire was used.

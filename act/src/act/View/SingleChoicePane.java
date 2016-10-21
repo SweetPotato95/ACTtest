@@ -1,6 +1,5 @@
 package act.View;
 
-import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -22,7 +21,6 @@ public class SingleChoicePane extends JPanel{
 	
 	public void init(String givenText,int i){
 		button = new JRadioButton("<html><body>"+givenText+"</body></html>");
-		button.setFont(ViewConstants.choiceFont);
 		button.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e){

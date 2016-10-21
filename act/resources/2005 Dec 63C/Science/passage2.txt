@@ -3,13 +3,13 @@ Passage II
 How big a star looks at a given distance defines the star’s angular size, θ (see Figure l).
 Table 1 gives θ of the Sun if it were observed from various distance. Table 2 gives θ of stars 8 light years away from Earth that have various diameter.
 For a star to be seen as a disk through a telescope, the telescope’s resolution, R, must be less than or equal to θ of the star. Table 3 shows R using yellow light for telescopes of various diameters. Table 4 gives R for a 10m (diameter) telescope using light of different colors.
-#####7
+<table>###7</table>
 
-#####8
+<table>###8</table>
 
-#####9
+<table>###9</table>
 7. Based on Table 4, which of. the following graphs best illustrates the relationship between R and the wave-length of light?
-A.<img src='file:\$$$\resources\2005 Dec 63C\imgs\172.png' width = '94'height = '86'/>      B.<img src='file:\$$$\resources\2005 Dec 63C\imgs\173.png' width = '96'height = '89'/>         C.<img src='file:\$$$\resources\2005 Dec 63C\imgs\174.png' width = '96'height = '89'/>          D. <img src='file:\$$$\resources\2005 Dec 63C\imgs\175.png' width = '94'height = '91'/>
+A.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\172.png' width = '31.4px'height = '28.6px'/>      B.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\173.png' width = '32px'height = '29.7px'/>         C.<img src='file:\$$$\resourses\2005 Dec 63C\imgs\174.png' width = '32px'height = '29.7px'/>          D. <img src='file:\$$$\resourses\2005 Dec 63C\imgs\175.png' width = '31.4px'height = '30.3px'/>
 8. According to Table 3, at. a given wavelength, as the diameter of a telescope increases, the smallest angular size that an object can have and still be seen as a disk through the telescope:
 F. increases only.  G. decreases only.  H. remains constant.  J. varies, but with no general trend.
 9. The Sun’s diameter is l.4×106 km. How does the Sun’s diameter compare with the diameters of the 4 stars listed in Table 2? The Sun’s diameter is:

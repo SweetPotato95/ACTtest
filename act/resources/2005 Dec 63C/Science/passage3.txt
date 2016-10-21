@@ -1,17 +1,17 @@
 
 Passage III
 A solid cylinder is mounted on frictionless bearings. A thin string of negligible mass is wrapped around the cylinder and pulled with a constant force, as shown in Figure l.
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\176.png' width = '88'height = '82'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\176.png' width = '29.5px'height = '27.2px'/>
 The force results in a torque, τ, on the cylinder that causes the cylinder to spin. The angular acceleration, α of the cylinder is the change of the cylinder’s rotational speed over time.
 Tables l, 2, and 3 give τ and a for various cylinder masses, cylinder radii, and forces, respectively Table 4 shows the rotational speed of a particular cylinder at different times.
 (Note: A11 0f the cylinders described in Tables l-4 have the same length.) 
-#####10
+<table>###10</table>
 
-#####11
+<table>###11</table>
 
-#####12
+<table>###12</table>
 
-#####13
+<table>###13</table>
 12. Was the cylinder described in Table 4 accelerating (speeding up) or decelerating (slowing down) between 1.0 and 4.0 sec?
 F. Accelerating, because the rotation al speed was decreasing.
 G. Accelerating, because the rotational speed was increasing.

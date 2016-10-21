@@ -47,7 +47,7 @@ public class MainController{
 	}
 	public static void handleNext(){
 		//System.out.println(questionIndex+","+splitIndex+","+partIndex);
-		if(partIndex > basicInfo.getTotalPartNum()){
+		if(partIndex >= basicInfo.getTotalPartNum()){
 			return;
 		}
 		if(isInstructionShowing){
@@ -69,12 +69,13 @@ public class MainController{
 				mainView.showWritingView();
 			}
 			mainView.requestUpdate(questionIndex, splitIndex, partIndex);
-			mainView.startTimer(partIndex);
 			return;
 		}
 		if(basicInfo.isLastInPart(questionIndex)){
-			submitThisPart();
+			mainView.showInstructionView(testIndex,++partIndex);
 			isInstructionShowing = true;
+			questionIndex++;
+			splitIndex++;
 			
 			return;
 		}
@@ -187,8 +188,7 @@ public class MainController{
 	public static void submitThisPart(){
 		
 		mainView.showInstructionView(testIndex,++partIndex);
-		mainView.setCountingStatus(false);
-		mainView.initTimer(partIndex);
+		mainView.startTimer(partIndex);
 		splitIndex = basicInfo.firstSplitInPart(partIndex);
 		questionIndex = basicInfo.firstQuestionIndexInSplit(splitIndex);
 		UpdateBrains(splitIndex,partIndex,testIndex);

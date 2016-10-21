@@ -3,13 +3,13 @@ Passage II
 The rate of a chemical reaction can be measured as the change in the concentration of its products over a period of time. The following experiments were performed to investigate factors that influence the rate at which potassium permanganate (KMnO<sub>4</sub>) reacts with oxalic acid (H<sub>2</sub>C<sub>2</sub>C<sub>4</sub>) to form Mn2+ and other products.
 Experiment l
 A. 4.0 mL sample of 0.1 M (moles/liter) aqueous KMnO<sub>4</sub>. which was purple in color, was measured with a clean graduated cylinder and poured into a test tube. A 4.0 mL sample of l.0 M aqueous H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> was then measured with a clean graduated cylinder and poured into a second test tube. The 2 test tubes were placed in a 25℃ water bath. After 5 minutes the H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> solution was mixed with the KMnO<sub>4</sub> solution and placed back in the water bath. The time until the purple color disappeared was recorded. This procedure was repeated at 3 other temperatures. The results are shown in Table l.
-#####2
+<table>###2</table>
 Experiment 2
 The procedure from Experiment l was repeated in every way except that 0.1 mg of manganous sulfate (MnSO<sub>4</sub>), a catalyst, was added to each test tube containing KMnO<sub>4</sub> before the H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> was added. Catalysts are substances that increase the rate of reactions without being used up. The results are shown in Table 2.
-#####3
+<table>###3</table>
 Experiment 3
 The procedure from Experiment 1 was repeated at a constant temperature of 25℃ and various concentrations of H<sub>2</sub>C<sub>2</sub>C<sub>4</sub>. The results are shown in Table 3.
-#####4
+<table>###4</table>
 8. In Experiment l, as the reaction temperature increased, the time until the purple color disappeared:
 F. remained the same.   G. decreased only.   H. increased only.   J. increased, then decreased.
 9. If the procedure described in Experiment 2 was repeated and a reaction time of 6 sec was .measured, the temperature of the reaction was most likely:

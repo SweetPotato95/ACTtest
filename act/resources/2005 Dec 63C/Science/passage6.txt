@@ -11,17 +11,17 @@ Changes in p are due to differences in the fitnesses of the genotypes.
 Time is measured in generations.
 Study l
 Three simulations were done. In each, W(AA) = W(Aa)>W(aa), and the initial p = 0.1. See Figure l.
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\195.png' width = '134'height = '45'/>
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\196.png' width = '111'height = '82'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\195.png' width = '44.5px'height = '15px'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\196.png' width = '37px'height = '27.5px'/>
 Study 2
 Three simulations were done. In each, W(AA) = W(Aa)< W(aa), and the initial p = 0.9. See Figure 2.
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\197.png' width = '111'height = '109'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\197.png' width = '37px'height = '36.3px'/>
 Study 3
 Five simulations were performed. In each, W(AA) = 0.8; W(Aa) = 1.0; and W(aa) = 0.6. The initial p varied. See Figure 3.
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\198.png' width = '111'height = '104'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\198.png' width = '37px'height = '34.5px'/>
 Study 4  .
 Five simulations were performed. In each, W(AA) = 0.625; W(Aa) = 0.5; and W(aa) = 1.0. The initial p varied. See Figure 4.
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\199.png' width = '111'height = '85'/>
+<img src='file:\$$$\resourses\2005 Dec 63C\imgs\199.png' width = '37px'height = '28.3px'/>
 28. In Study 4, the initial values of p were:
 F. 0.1, 0.25, 0.5, 0.75, and l.0.         G. 0.4, 0.45, 0.5; 0.95, and l.0.
 H. 0.7, 0.75, 0.8, 0.85, and 0.9.        J. 0.8, 0.85, 0.9, 0.95, and l.0.

@@ -39,7 +39,6 @@ public class MainView extends JPanel{
 	    writingView.init();
 	    instructionView.init();
 	    navBar.init();
-	    initTimer(0);
 		mainContentInit();
 		MainController.setMainContent(this);
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
@@ -162,12 +161,7 @@ public class MainView extends JPanel{
 		instructionView.setMathBrain(m);
 	}
 	public void startTimer(int partIndex){
-		setCountingStatus(true);
-		System.out.println("Timer part"+partIndex+",time:"+ViewConstants.TIME_LIMIT_PER_PART[partIndex]);
 		navBar.startTimer(ViewConstants.TIME_LIMIT_PER_PART[partIndex]);
-	}
-	public void initTimer(int partIndex){
-		navBar.initTimer(ViewConstants.TIME_LIMIT_PER_PART[partIndex]);
 	}
 	public void setCountingStatus(boolean c){
 		navBar.setCountingStatus(c);

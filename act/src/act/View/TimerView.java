@@ -1,9 +1,7 @@
 package act.View;
 import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Container;
 import java.awt.Dimension;
-import java.awt.Font;
 import java.awt.GridLayout;
 import java.io.FileInputStream;
 
@@ -56,12 +54,9 @@ public class TimerView extends JPanel{
 					seconds = time - hour * 3600 - minute * 60;
 					
 					//System.out.println(hour+","+minute+","+seconds);
-					jl1.setFont(new Font("Microsoft YAHEI",0,18));
-					jl2.setFont(new Font("Microsoft YAHEI",0,18));
-					jl3.setFont(new Font("Microsoft YAHEI",0,18));
-					jl1.setText(hour + " : ");
-					jl2.setText(minute + " : ");
-					jl3.setText(seconds + "");
+					jl1.setText(hour + " ±");
+					jl2.setText(minute + "∑÷");
+					jl3.setText(seconds + "√Î");
 					try {
 						Thread.sleep(1000);
 					} catch (InterruptedException e) {
@@ -102,31 +97,16 @@ public class TimerView extends JPanel{
 		jp.add(jl1);
 		jp.add(jl2);
 		jp.add(jl3);
-//		jp.setForeground(Color.WHITE);
-		jp.setBackground(Color.gray);
-		
-		this.setBackground(Color.gray);
+
 		jp.setVisible(true);
 		//this.setLayout(new GridLayout(3,1));
 		this.add(Box.createVerticalGlue());
 		this.add(jp);
 		this.add(Box.createVerticalGlue());
 		this.setVisible(true);
-//		this.setSize(80, 100);
-		this.setPreferredSize(new Dimension(130,ViewConstants.NAV_HEIGHT));
+		this.setSize(300, 100);
+		this.setPreferredSize(new Dimension(300,ViewConstants.NAV_HEIGHT));
 		
-	}
-	
-	public void initTimer(int time){
-		long hour = 0;
-		long minute = 0;
-		long seconds = 0;
-		hour = time / 3600;
-		minute = (time - hour * 3600) / 60;
-		seconds = time - hour * 3600 - minute * 60;
-		jl1.setText(hour + " : ");
-		jl2.setText(minute + " : ");
-		jl3.setText(seconds + "");
 	}
 	
 

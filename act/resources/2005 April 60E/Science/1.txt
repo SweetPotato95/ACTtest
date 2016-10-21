@@ -1,15 +1,15 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage I</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '88'height = '74'/></div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist l</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sail helped regulate body temperature. Dimetrodon needed to warm its body to the activity temperature, the temperature at which it was active enough to hunt. This could be achieved most rapidly by turning the broad side of the sail toward the morning sun. A mathematical model shows that a reptile with a sail would reach the activity temperature 3 times faster than a reptile without a sail. Rapid warming gave Dimetrodon a distinct advantage catching cold-blood.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Grooves on the sail's spines held 1arge blood vessels.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Regulating the blood flow through these vessels during the heat of the day allowed the reptile to radiate heat away from its body and prevent overheating.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four other cold-blooded reptile species from this same time and climate also had bony projections or sails on their back. Today, elephants regulate their body temperature by flapping their large ears.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sail was used for display. First, the sail made the reptile appear larger, thereby discouraging attacks from predators. Second, sails were smaller in female Dimetrodons than in males, indicating the sails were used by the males for attracting mates. Modern lizards change their skin color and pattern to attract a mate. Similarly, Dimetrodons controlled the appearance of the skin on the sail by regulating the blood supply to the sail.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sphenacodon is a cold-blooded reptile that lived at the same time and in the same climate as Dimetrodon. Sphenacodon is a close relative of Dimetrodon and is identical in all details of its anatomy, except that it did not have a sail or any other projections on its back. If sails were needed for temperature regulation, Sphenacodon would have had one also.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mathematical calculations show that as a Dimetrodon sail absorbed heat on the side facing the sun, it may have lost nearly as much beat from the side facing away from the sun.</div>
+<div class = "para">Passage I</div>
+<div class = "para">Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
+<div class = "para"><img src='file:\$$$\resourses\2005 April 60E\imgs\219.png' width = '29.5px'height = '24.8px'/></div>
+<div class = "para">Scientist l</div>
+<div class = "para">The sail helped regulate body temperature. Dimetrodon needed to warm its body to the activity temperature, the temperature at which it was active enough to hunt. This could be achieved most rapidly by turning the broad side of the sail toward the morning sun. A mathematical model shows that a reptile with a sail would reach the activity temperature 3 times faster than a reptile without a sail. Rapid warming gave Dimetrodon a distinct advantage catching cold-blood.</div>
+<div class = "para">Grooves on the sail's spines held 1arge blood vessels.</div>
+<div class = "para">Regulating the blood flow through these vessels during the heat of the day allowed the reptile to radiate heat away from its body and prevent overheating.</div>
+<div class = "para">Four other cold-blooded reptile species from this same time and climate also had bony projections or sails on their back. Today, elephants regulate their body temperature by flapping their large ears.</div>
+<div class = "para">Scientist 2</div>
+<div class = "para">The sail was used for display. First, the sail made the reptile appear larger, thereby discouraging attacks from predators. Second, sails were smaller in female Dimetrodons than in males, indicating the sails were used by the males for attracting mates. Modern lizards change their skin color and pattern to attract a mate. Similarly, Dimetrodons controlled the appearance of the skin on the sail by regulating the blood supply to the sail.</div>
+<div class = "para">Sphenacodon is a cold-blooded reptile that lived at the same time and in the same climate as Dimetrodon. Sphenacodon is a close relative of Dimetrodon and is identical in all details of its anatomy, except that it did not have a sail or any other projections on its back. If sails were needed for temperature regulation, Sphenacodon would have had one also.</div>
+<div class = "para">Mathematical calculations show that as a Dimetrodon sail absorbed heat on the side facing the sun, it may have lost nearly as much beat from the side facing away from the sun.</div>
 ###################
 <div class = "quiz">1. According to the mathematical calculations mentioned by Scientist 2, a Dimetrodon that turned its sail toward the morning sun would experience:
 
@@ -61,8 +61,8 @@
 ###################
 <div class = "quiz">7. Based on the information in Scientist 1’s viewpoint, which of the following figures best represents how a Dimetrodon would orient its sail with respect to the sun in order to minimize heating during late afternoon?
 
-<div class = "choice">A.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\220.png' width = '49'height = '75'/></div>
-<div class = "choice">B.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '51'height = '82'/></div>
-<div class = "choice">C.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\222.png' width = '88'height = '63'/></div>
-<div class = "choice">D.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '70'height = '79'/></div></div>
+<div class = "choice">A.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\220.png' width = '16.4px'height = '24.9px'/></div>
+<div class = "choice">B.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\221.png' width = '17px'height = '27.5px'/></div>
+<div class = "choice">C.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\222.png' width = '29.5px'height = '20.9px'/></div>
+<div class = "choice">D.direction of late afternoon sun <img src='file:\$$$\resourses\2005 April 60E\imgs\223.png' width = '23.3px'height = '26.4px'/></div></div>
 ###################

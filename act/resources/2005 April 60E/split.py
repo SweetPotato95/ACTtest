@@ -1,4 +1,4 @@
-import re,os
+import re
 
 tables = []
 
@@ -54,7 +54,7 @@ def split_english(src, dst):
 			index += 1
 			
 		elif index == 0:
-			row = '<div class = \"para\" style = \"font-size: 16;font-family:Microsoft YAHEI;\">' + row[:-1] + '</div>\n\n'
+			row = '<div class = \"para\">' + row[:-1] + '</div>\n\n'
 
 		f.write(row[:-1])
 	f.write('\n</div>')
@@ -64,20 +64,16 @@ def split_math(src, dst):
 	f = open(src,'r', encoding= 'utf-8')
 	lines = f.readlines()
 	f.close()
-	f = open(src,'w',encoding= 'utf-8')
-	for i in range(0,11):
-		f.write(lines[i])
-	f.close()
 	f = open(dst,'w',encoding= 'utf-8')
 	pattern = r'^[0-9]+\.'
-	pptable = r'^#####(\d+)'
+	pptable = r'<table>###(\d+)</table>'
 	p = re.compile(pptable)
 	index = 0
-	for i in range(11,len(lines)):
+	for i in range(1,len(lines)):
 		row = lines[i]
 		if re.search(pptable, row):
 			for n in p.findall(row):
-				f.write('<div class = \"para\"">')
+				f.write('<div class = \"para\">')
 				tb = tables[int(n)-1]
 				#row.replace("<table>###"+n+"</table>",tb)
 
@@ -92,7 +88,7 @@ def split_math(src, dst):
 			index += 1
 			
 		elif index == 0:
-			row = '<div class = \"para\" style = \"font-size: 16;font-family:Microsoft YAHEI;\">' + row[:-1] + '</div>\n'
+			row = '<div class = \"para\">' + row[:-1] + '</div>\n'
 
 		f.write(row[:-1]+'&')
 	f.write('</div>')
@@ -104,14 +100,14 @@ def split_science(src, dst):
 	f.close()
 	f = open(dst,'w',encoding= 'utf-8')
 	pattern = r'^([0-9])+\. '
-	pptable = r'^#####(\d+)'
+	pptable = r'<table>###(\d+)</table>'
 	p = re.compile(pptable)
 	index = 0
 	for i in range(1,len(lines)):
 		row = lines[i]
 		if re.search(pptable, row):
 			for n in p.findall(row):
-				f.write('<div class = \"para\" >')
+				f.write('<div class = \"para\">')
 				tb = tables[int(n)-1]
 				f.write(tb)
 				f.write('</div>\n')
@@ -125,7 +121,7 @@ def split_science(src, dst):
 			index += 1
 			f.write(row[:-1] + '&')
 		elif index == 0:
-			row = '<div class = \"para\" style = \"font-size: 16;font-family:Microsoft YAHEI;\">' + row[:-1] + '</div>\n'
+			row = '<div class = \"para\">' + row[:-1] + '</div>\n'
 			f.write(row)
 		else:
 			f.write(row[:-1])
@@ -145,7 +141,7 @@ def lens(src):
 	f.close()
 
 def readTable(src):
-	f = open(src, 'r',encoding= 'utf-8')
+	f = open(src, 'r',encoding= 'gbk')
 	lines = f.readlines()
 	f.close()
 	tmpt = ""
@@ -155,20 +151,8 @@ def readTable(src):
 		else:
 			tables.append(tmpt)
 			tmpt = ""
-def processDirection(src):
-	print (src)
-	f = open(src,'r',encoding= 'utf-8')
-	lines = f.readlines()
-	f.close()
-	f = open(src,'w',encoding= 'utf-8')
-	f.write('<h1>'+lines[1][:-1]+'</h1>\n')
-	for i in range(2, len(lines)):
-		f.write('<div>'+lines[i][:-1]+'</div>\n')
-	f.close()
 
 if __name__ == '__main__':
-	if os.path.exists('lens.txt'):
-		os.remove('lens.txt')
 
 	readTable("table.txt")
 	for i in range(1,6):
@@ -177,7 +161,7 @@ if __name__ == '__main__':
 		lens('./English/'+str(i)+'.txt')
 
 
-	split_math('./Math/Direction.txt','./Math/math.txt')
+	split_math('./Math/math test.txt','./Math/math.txt')
 	spilt_choice('./Math/math.txt')
 	lens('./Math/math.txt')
 
@@ -190,8 +174,3 @@ if __name__ == '__main__':
 		split_science('./Science/passage'+str(i)+'.txt','./Science/'+str(i)+'.txt')
 		spilt_choice('./Science/'+str(i)+'.txt')
 		lens('./Science/'+str(i)+'.txt')
-
-	processDirection('./English/Direction.txt')
-	processDirection('./Math/Direction.txt')
-	processDirection('./Reading/Direction.txt')
-	processDirection('./Science/Direction.txt')
