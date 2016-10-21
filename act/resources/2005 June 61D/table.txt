@@ -1,0 +1,1042 @@
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="4" style="width:316.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="423">
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Student:
+  Baldwin, Richard</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Task</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Possible</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">points</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Student</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">score</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Class</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">average</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Homework #1</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">96</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">86.7</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Homework #2</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">85</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">81.2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Homework #3</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">89</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">87.4</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:5;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Quiz #1</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">85</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">77.9</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:6;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Quiz #2</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">93</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">89.1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:7;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Quiz #3</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">89</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">85.1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:8;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Quiz #4</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"> </span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"> </span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:9;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Test #1</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">88</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">81.5</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:10;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Test #2</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">68</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">81.0</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:11;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Pretest</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">69</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">76.6</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:79.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Posttest</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"> </span></p>
+</td>
+<td style="width:79.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="106">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"> </span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:312.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="417">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:104.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fraction</span></p>
+</td>
+<td style="width:104.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Typical number</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">of carbon atoms</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">per molecule</span></p>
+</td>
+<td style="width:104.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Approximate</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">boiling range</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(℃)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;height:15.75pt">
+<td style="width:104.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Natural
+  gas</span></p>
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gasoline</span></p>
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Kerosene</span></p>
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fuel
+  oil</span></p>
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Lubricating
+  oil</span></p>
+</td>
+<td style="width:104.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">4*</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">12</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">12</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">16</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">15</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">18</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">16</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">24</span></p>
+</td>
+<td style="width:104.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="139">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">&lt;20</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">40</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">200</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">200</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">300</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">250</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">350</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">300</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>－</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt">400</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:15.75pt">
+<td colspan="3" style="width:312.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="417">
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">*This
+  range indicates that natural gas typically contains a mixture of different
+  hydrocarbon molecules ranging in size from 1 to 4 carbon atoms.</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:295.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="395">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Frequency</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(Hz)</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across 1 μf</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">capacitor</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1,000 Ω resistor</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1176"
+   type="#_x0000_t75" style='width:15.75pt;height:15.75pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image243.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="21" src="2005%20June%2061D.files/image244.gif" v:shapes="_x0000_i1176" width="21"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1176"
+    DrawAspect="Content" ObjectID="_1537271303">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1177"
+   type="#_x0000_t75" style='width:17.25pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image245.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image246.gif" v:shapes="_x0000_i1177" width="23"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1177"
+    DrawAspect="Content" ObjectID="_1537271305">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1178"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image247.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image248.gif" v:shapes="_x0000_i1178" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1178"
+    DrawAspect="Content" ObjectID="_1537271306">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1179"
+   type="#_x0000_t75" style='width:16.5pt;height:16.5pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image249.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="22" src="2005%20June%2061D.files/image250.gif" v:shapes="_x0000_i1179" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1179"
+    DrawAspect="Content" ObjectID="_1537271307">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1180"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image251.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image252.gif" v:shapes="_x0000_i1180" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1180"
+    DrawAspect="Content" ObjectID="_1537271308">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.85</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.16</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.02</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.06</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.53</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.99</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:295.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="395">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Frequency</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(Hz)</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across 1 μf</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">capacitor</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1,000 Ω resistor</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1181"
+   type="#_x0000_t75" style='width:15.75pt;height:15.75pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image243.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="21" src="2005%20June%2061D.files/image253.gif" v:shapes="_x0000_i1181" width="21"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1181"
+    DrawAspect="Content" ObjectID="_1537271309">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1182"
+   type="#_x0000_t75" style='width:17.25pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image245.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image254.gif" v:shapes="_x0000_i1182" width="23"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1182"
+    DrawAspect="Content" ObjectID="_1537271310">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1183"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image247.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image255.gif" v:shapes="_x0000_i1183" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1183"
+    DrawAspect="Content" ObjectID="_1537271311">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1184"
+   type="#_x0000_t75" style='width:16.5pt;height:16.5pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image249.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="22" src="2005%20June%2061D.files/image256.gif" v:shapes="_x0000_i1184" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1184"
+    DrawAspect="Content" ObjectID="_1537271312">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1185"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image251.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image257.gif" v:shapes="_x0000_i1185" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1185"
+    DrawAspect="Content" ObjectID="_1537271313">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.85</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.16</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.02</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.53</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.99</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:295.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="395">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 3</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Frequency</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(Hz)</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across 10 μf</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">capacitor</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Gain across</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1,000 Ω resistor</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1186"
+   type="#_x0000_t75" style='width:15.75pt;height:15.75pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image243.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="21" src="2005%20June%2061D.files/image258.gif" v:shapes="_x0000_i1186" width="21"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1186"
+    DrawAspect="Content" ObjectID="_1537271314">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1187"
+   type="#_x0000_t75" style='width:17.25pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image245.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image259.gif" v:shapes="_x0000_i1187" width="23"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1187"
+    DrawAspect="Content" ObjectID="_1537271315">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1188"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image247.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image260.gif" v:shapes="_x0000_i1188" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1188"
+    DrawAspect="Content" ObjectID="_1537271316">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1189"
+   type="#_x0000_t75" style='width:16.5pt;height:16.5pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image249.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="22" src="2005%20June%2061D.files/image261.gif" v:shapes="_x0000_i1189" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1189"
+    DrawAspect="Content" ObjectID="_1537271317">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1190"
+   type="#_x0000_t75" style='width:16.5pt;height:18pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image251.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="24" src="2005%20June%2061D.files/image262.gif" v:shapes="_x0000_i1190" width="22"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1190"
+    DrawAspect="Content" ObjectID="_1537271318">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.16</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.02</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.00</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:295.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="395">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Emission</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Measured</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Concentration in</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Barrel emissions</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(ppm)</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Maximum allowed</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Incinerator emission</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Concentration</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(ppm)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Ⅰ. Particulates</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">343,000</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">232,000</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Ⅱ. Gases</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1204"
+   type="#_x0000_t75" style='width:24.75pt;height:20.25pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image287.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="27" src="2005%20June%2061D.files/image288.gif" v:shapes="_x0000_i1204" width="33"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1204"
+    DrawAspect="Content" ObjectID="_1537271331">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">CO</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt"><sub><!--[if gte vml 1]><v:shape id="_x0000_i1205"
+   type="#_x0000_t75" style='width:27.75pt;height:20.25pt' o:ole="">
+   <v:imagedata src="2005%20June%2061D.files/image289.wmz" o:title=""/>
+  </v:shape><![endif]--><?if !vml?><img height="27" src="2005%20June%2061D.files/image284.gif" v:shapes="_x0000_i1205" width="37"><?endif?></img></sub><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1205"
+    DrawAspect="Content" ObjectID="_1537271332">
+   </o:OLEObject>
+  </xml><![endif]--></span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Dioxin</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Lead</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Mercury</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">4.90</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">149.20</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">3.20</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.0000006</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.004</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.002</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="bottom" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">30</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">500</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.000025</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.41</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.82</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt">
+<td colspan="3" style="width:295.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="395">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Substance</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Measured</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Concentration</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(mg/L)</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Established</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">concentration limit</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(mg/L)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:15.75pt">
+<td style="width:98.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="131">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Arsenic</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Barium</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Cadmium</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Chromium</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Lead</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Mercury</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Selenium</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.005</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.35</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.004</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.04</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.01</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.0004</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.04</span></p>
+</td>
+<td style="width:98.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt" valign="top" width="132">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5.0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">100</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5.0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5.0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.2</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5.0</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="2" style="width:224.85pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="300">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:112.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Wavelength</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(cm)</span></p>
+</td>
+<td style="width:112.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Average θ</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(arcsec)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:112.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00005</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">3.1</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">11.6</span></p>
+</td>
+<td style="width:112.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.72±0.15</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.77±0.20</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.87±0.30</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="2" style="width:258.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="345">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:129.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="172">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Water temperature</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(℃)</span></p>
+</td>
+<td style="width:129.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="172">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">DO concentration</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(ppm) at saturation*</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:129.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="172">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">15</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">20</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">25</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">30</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">35</span></p>
+</td>
+<td style="width:129.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="172">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">14.6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">12.8</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">11.3</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10.2</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">9.2</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">8.4</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">7.7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">7.0</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+<td colspan="2" style="width:258.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="345">
+<p ><span lang="EN-US" style="mso-bidi-font-size:10.5pt">*Saturation
+  means the water contains the maximum amount of oxygen it can contain at that
+  temperature under standard conditions.</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="2" style="width:285.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="381">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:90.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="120">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">DO</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">concentration</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(ppm)</span></p>
+</td>
+<td style="width:195.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="261">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fish response</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:90.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="120">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">6-10</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">4-5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1-3</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">&lt;1</span></p>
+</td>
+<td style="width:195.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="261">
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fish of most species thrive.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fish of many species stop feeding.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fish of most species must come to</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">the water surface for oxygen.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Fish die.</span></p>
+</td>
+</tr>
+</table>
+***********************

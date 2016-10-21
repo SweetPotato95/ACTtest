@@ -1,0 +1,34 @@
+
+Passage III
+An RC circuit contains a resistor, a capacitor, and an input voltage source. Some students studied RC circuits containing a source of AC (alternating current) voltage. Frequency, in hertz (Hz), is related to the number of times/sec the highest voltage is attained. The measured input voltage from the AC source was the same in Studies 1-3.
+Study 1
+A circuit was assembled using a 1,000 Ω (ohm) resistor, a 1 microfarad capacitor (microfarad [μF] is a unit of capacitance), 2 voltmeters for measuring output voltages, and an AC input voltage source (see Figure 1).
+<img src='file:\$$$\resources\2005 June 61D\imgs\150.png' width = '593'height = '581'/>
+The students varied the frequency of the input voltage and measured the output voltage, the voltage across the resistor or the capacitor. At each frequency, they calculated the gain, the ratio of the measured output voltage to the measured input voltage. The results are shown in Table 1.
+#####3
+Study 2
+The students replaced the 1,000 Ω resistor with a 10,000 Ω resistor and repeated the procedure used in Study 1. The results are shown in Table 2.
+#####4
+Study 3
+The students used a 10 μF capacitor and the 10,000 Ω resistor and repeated the procedure used in Study 1. The results are shown in Table 3.
+#####5
+13. In Study 1, the same gain was obtained across the resistor and the capacitor at which, if any, of the frequencies tested?
+A. 10<img src='file:\$$$\resources\2005 June 61D\imgs\151.png' width = '19'height = '50'/> Hz  B. 10<img src='file:\$$$\resources\2005 June 61D\imgs\152.png' width = '19'height = '50'/> Hz  C. 10<img src='file:\$$$\resources\2005 June 61D\imgs\153.png' width = '19'height = '50'/> Hz  D. None of the frequencies
+14. Based on Studies 1 and 2 at 10<img src='file:\$$$\resources\2005 June 61D\imgs\154.png' width = '19'height = '50'/> Hz, replacing the 1,000 Ω resistor with the 10,000 Ω resistor changed the measured output voltage across:
+F. the resistor only.  G. the capacitor only.
+H. both the resistor and the capacitor.  J. neither the resistor nor the capacitor.
+15. In Study 3, compared to the gain across the capacitor, the gain across the resistor was:
+A. always greater.  B. always smaller.
+C. greater at high frequencies and less at low frequencies.
+D. less at high frequencies and greater at low frequencies.
+16. An amplifier produces a measured output voltage that is greater than the measured input voltage. Did the RC circuits used in the 3 studies amplify the input voltage at any of the frequencies tested?
+F. Yes, because all of the circuits produced a gain that was greater than 1.0 at one or more frequencies.
+G. Yes, because all of the circuits produced a gain that was less than 1.0 at one or more frequencies.
+H. No, because none of the circuits produced a gain that was greater than 1.0 at any frequency.
+J. No, because none of the circuits produced a gain that was less than 1.0 at any frequency.
+17. In Study 2 at 10<img src='file:\$$$\resources\2005 June 61D\imgs\155.png' width = '19'height = '50'/> Hz, if the measured input voltage was 1.00 V (volt), the measured output voltage across the resistor was:
+A. 1.00 V.  B. 0.53 V.  C. 0.16 V.  D. 0.00 V.
+18. In Study 1 with the output voltage measured across the resistor, a gain of 0.05 would most likely have been obtained at a frequency between:
+F. 1 Hz and 10 Hz.  G. 10 Hz and 10<img src='file:\$$$\resources\2005 June 61D\imgs\156.png' width = '19'height = '50'/> Hz.
+H. 10<img src='file:\$$$\resources\2005 June 61D\imgs\157.png' width = '19'height = '50'/> Hz and 10<img src='file:\$$$\resources\2005 June 61D\imgs\158.png' width = '19'height = '50'/> Hz.  J. 10<img src='file:\$$$\resources\2005 June 61D\imgs\159.png' width = '19'height = '50'/> Hz and 10<img src='file:\$$$\resources\2005 June 61D\imgs\160.png' width = '19'height = '50'/> Hz.
+

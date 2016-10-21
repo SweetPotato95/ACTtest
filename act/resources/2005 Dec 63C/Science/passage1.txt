@@ -2,17 +2,17 @@
 Passage I
 In certain solutions, beet cells undergo membrane disruption, causing the cells to release betacyanin (a red pigment). As membrane disruption increases, more betacyanin is released. To determine the amount of betacyanin released, the amount of light absorbed (at a specific wave-length) by the solution is measured. As the concentration of betacyanin in the solution in creases; the amount of light absorbed increases.
 To determine the amount of light absorbed by a solution, light is directed through a sample of the solution onto a detector (see Figure 1).
-<img src='file:\$$$\resourses\2005 Dec 63C\imgs\171.png' width = '52px'height = '20.6px'/>
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\171.png' width = '156'height = '62'/>
 By measuring the amount of light that hits the detector, the amount of light absorbed by the sample can be determined.
 Experiment 1
 For each of 9 trials, a student placed a beet section (2cm × 2cm × lcm) in 100mL of water at a specific temperature for 10, 20, or 30 min. The student then removed a sample of the solution and determined its absorbance (see Table l).
-<table>###4</table>
+#####4
 Experiment 2
 Experiment l was repeated, except that in each trial an acetone/water solution was used instead of water and the temperature was kept constant at 250℃ (see Table 2).
-<table>###5</table>
+#####5
 Experiment 3
 Experiment 2 was repeated, except that in each trial a methanol/water solution was used instead  of an acetone/water solution (see Table 3).
-<table>###6</table>
+#####6
 The student then determined the absorbance of water, of acetone, and of methanol. Each had an absorbance of 0.00.
 1. Suppose that in Experiment 3 a beet section had been placed in a solution that was 40% methanol by volume for 20 min. The absorbance of the sample from the resulting solution would most likely have been closest to which of the following?
 A. 0.15        B. 0.30         C. 0.45 .         D. 0.60
