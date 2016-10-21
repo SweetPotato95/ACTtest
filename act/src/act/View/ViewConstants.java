@@ -34,7 +34,7 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_LEFT ;
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
-	public static int[] TIME_LIMIT_PER_PART = {5,5,5,5,5};
+	public static int[] TIME_LIMIT_PER_PART = {5,25,5,5,5};
 
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();
