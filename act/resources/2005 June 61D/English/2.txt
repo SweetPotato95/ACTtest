@@ -1,0 +1,116 @@
+<h1>Passage II</h1>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A Tree’s Change in Status</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1] For almost two millennia, the <u>16 yew an evergreen tree with a poisonous fruit</u> and a twisted trunk, was scorned or feared by many people, particularly Europeans. [2] In the first century A.D., the Greek biographer Plutarch <u>17 warned of</u> sleeping in the shade of a yew was a deadly practice. [3] About the same time, the Roman author Pliny pronounced the yew "unpleasant and fearful to look upon." [4] The old British practice of planting yews in cemeteries did nothing <u>18 in changing or altering that</u> reputation. [5] Recently, however, the discovery of taxol, a substance found in the bark of the yew, has given the tree new status. </div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the 1960s, scientists discovered <u>20 that it was a</u> promising anticancer drug.  Although pharmaceutical companies <u>22 that begun to produce</u> the drug learned that taxol could be extracted from the bark of all species of yew, <u>23 its attention was soon focused</u> on the Pacific yew. </div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><u>25 To produce enough taxol to provide</u> for the needs of all patients, chemists estimated that they would need the bark <u>26 from about</u> 40,000 Pacific yews each year. Since the yew is slow growing and sparsely distributed among other trees in the forest, <u>27 it is scattered throughout the area.</u> To save the trees and still provide for the <u>28 patient’s needs,</u> scientists began to produce taxol synthetically in the laboratory from the tree’s leaves. <u>29 This process</u> is more costly than harvesting the bark, growing the foliage in a nursery provides a renewable resource.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Recent studies have shown that Pacific yews can be successfully propagated at a minimal cost. <u>30 Whether</u> the young plants are kept under conditions with high humidity, their survival rate is about 70 percent. These studies indicate that chemists will be able to secure an adequate supply of taxol and also save the Pacific yew from possible extinction.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5]</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">With the discovery of taxol, the tree that was once associated with death has now become a tree of life.</div>
+###################
+<div class = "quiz">16. 
+<div class = "choice">F.NO CHANGE</div>
+<div class = "choice">G.yew, an evergreen tree, with a poisonous fruit</div>
+<div class = "choice">H.yew, an evergreen tree with a poisonous fruit</div>
+<div class = "choice">J.yew an evergreen tree with a poisonous fruit,</div>
+</div>
+###################
+<div class = "quiz">17. 
+<div class = "choice">A.NO CHANGE</div>
+<div class = "choice">B.warned people about</div>
+<div class = "choice">C.having warned that</div>
+<div class = "choice">D.warned that</div>
+</div>
+###################
+<div class = "quiz">18. 
+<div class = "choice">F.NO CHANGE</div>
+<div class = "choice">G.to alter that acquired</div>
+<div class = "choice">H.in the way of changing that</div>
+<div class = "choice">J.to alter that</div>
+</div>
+###################
+<div class = "quiz">19. For the sake of the logic and coherence of this paragraph, Sentence 2 should be placed:
+<div class = "choice">A.where it is now.</div>
+<div class = "choice">B.before Sentence 1.</div>
+<div class = "choice">C.after Sentence 3.</div>
+<div class = "choice">D.after Sentence 4.</div>
+</div>
+###################
+<div class = "quiz">20. 
+<div class = "choice">F.NO CHANGE</div>
+<div class = "choice">G.that taxol was</div>
+<div class = "choice">H.it as</div>
+<div class = "choice">J.this was</div>
+</div>
+###################
+<div class = "quiz">21. At this point, the writer is considering adding the following true statement:There were many medical breakthroughs during the 1960s, and this was only one of them.Would this be a relevant addition to make here?
+<div class = "choice">A.Yes, because it provides an important link to the rest of the paragraph.</div>
+<div class = "choice">B.Yes, because it informs the reader that taxol is not the only such drug available.</div>
+<div class = "choice">C.No, because it strays from the main focus of the essay.</div>
+<div class = "choice">D.No, because it implies that scientists did not understand why taxol was important.</div>
+</div>
+###################
+<div class = "quiz">22. 
+<div class = "choice">F.NO CHANGE</div>
+<div class = "choice">G.who’d began producing</div>
+<div class = "choice">H.who begun producing</div>
+<div class = "choice">J.that began to produce</div>
+</div>
+###################
+<div class = "quiz">23. 
+<div class = "choice">A.NO CHANGE</div>
+<div class = "choice">B.it soon focused its attention</div>
+<div class = "choice">C.they soon focused their attention</div>
+<div class = "choice">D.it was soon focused</div>
+</div>
+###################
+<div class = "quiz">24. Given that all of the following are true, which one, if added here, would most effectively conclude Paragraph 2 and provide a link to Paragraph 3?
+<div class = "choice">F.Natural stands in the Pacific Northwest represented the largest available source of yew bark.</div>
+<div class = "choice">G.In western North America, the yew grows in cool, moist climates.</div>
+<div class = "choice">H.The Pacific yew is very shade-tolerant and prefers upland sites or riversides.</div>
+<div class = "choice">J.The yew tree, Taxus brevefolia, will grow to fifty feet in height and reach a diameter of two feet.</div>
+</div>
+###################
+<div class = "quiz">25. 
+<div class = "choice">A.NO CHANGE</div>
+<div class = "choice">B.Enough taxol production to provide</div>
+<div class = "choice">C.Producing enough taxol in providing</div>
+<div class = "choice">D.They wanted to produce enough taxol to provide</div>
+</div>
+###################
+<div class = "quiz">26. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F.of about</div>
+<div class = "choice">G.for approximately</div>
+<div class = "choice">H.of around</div>
+<div class = "choice">J.from approximately</div>
+</div>
+###################
+<div class = "quiz">27. Given that all of the choices are ture, which one would provide an essential link to the sentence that follows?
+<div class = "choice">A.NO CHANGE</div>
+<div class = "choice">B.its reproduction is through birds, which scatter the seeds in many different places.</div>
+<div class = "choice">C.American conservationists began to fear that the species would be irreparably depleted.</div>
+<div class = "choice">D.this does not diminish the fact that the wood is tough and has other uses.</div>
+</div>
+###################
+<div class = "quiz">28. F NO CHANGE  
+<div class = "choice">G.needs’ of the patients,</div>
+<div class = "choice">H.patients’ needs,</div>
+<div class = "choice">J.patients needs,</div>
+</div>
+###################
+<div class = "quiz">29. 
+<div class = "choice">A.NO CHANGE</div>
+<div class = "choice">B.This</div>
+<div class = "choice">C.As this process</div>
+<div class = "choice">D.Although this process</div>
+</div>
+###################
+<div class = "quiz">30. 
+<div class = "choice">F.NO CHANGE</div>
+<div class = "choice">G.That</div>
+<div class = "choice">H.Seeing</div>
+<div class = "choice">J.If</div>
+</div>###################

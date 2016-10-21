@@ -96,11 +96,11 @@ public class readText {
 			String tmpstring = null;
 			while((tmpstring = reader.readLine()) != null){
 
-				tmpstring = tmpstring.replace("resourses", "resources");
+//				tmpstring = tmpstring.replace("resourses", "resources");
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
-				if (tmpstring.startsWith("<div class = \"para\">")){
+				if (tmpstring.startsWith("<div class = \"para\"")){
 					passage += tmpstring;
 				}
 			}
@@ -159,7 +159,6 @@ public class readText {
 			String ques = "";
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
-				tmpstring = tmpstring.replace("resourses", "resources");
 				tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){
 					mark = 1;
@@ -173,15 +172,17 @@ public class readText {
 					}
 				}
 				
-				if((mark == 2&&!tmpstring.startsWith("<div class = \"choice\">"))||tmpstring.startsWith("<div class = \"quiz\">")){
+				if((mark == 2&&!tmpstring.startsWith("<div class = \"choice\""))||tmpstring.startsWith("<div class = \"quiz\"")){
 					mark = 2;
 					ques += tmpstring.replace("<div class = \"quiz\">", "").replace("</div>", "");
-					ques += "\n";
+					ques += "<br>";
+					ques = ques.replace("  ","&nbsp;&nbsp;");
 				}
 				if(tmpstring.startsWith("<div class = \"choice\">")){					
 					if (mark == 2){
-//						//System.out.println(ques);
+						//System.out.println(ques);
 						int tmpl = ques.length();
+
 						tmpresult.setQuestion(ques.substring(0, tmpl-1));
 						int pos = ques.indexOf(".");
 						quizNum = Integer.parseInt(ques.substring(0, pos));

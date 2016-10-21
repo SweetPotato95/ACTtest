@@ -67,7 +67,6 @@ public class ControlPane extends JPanel{
 		this.add(Box.createHorizontalGlue());
 		this.add(timerView);
 		this.add(Box.createHorizontalGlue());
-		timerView.startCount(5);
 		this.add(befButton);
 		this.add(nextButton);
 		this.add(submitButton);
@@ -99,5 +98,7 @@ public class ControlPane extends JPanel{
 	public void setCountingStatus(boolean c){
 		timerView.setCountingStatus(c);
 	}
-	
+	public void initTimer(int totalTime){
+		timerView.initTimer(totalTime);
+	}
 };
