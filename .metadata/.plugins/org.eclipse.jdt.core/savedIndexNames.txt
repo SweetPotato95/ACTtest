@@ -16,6 +16,5 @@ INDEX VERSION 1.129+E:\gitrepo\ACTtest\.metadata\.plugins\org.eclipse.jdt.core
 4020602821.index
 452330869.index
 1923297441.index
-4029825872.index
 2899965704.index
 2292250293.index

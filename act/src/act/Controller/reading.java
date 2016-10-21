@@ -31,13 +31,24 @@ public class reading {
 		return quizs.get(index);
 	}
 	public String readDirection(int testIndex, int partIndex){
+		if(partIndex >= ModelConstants.WRITING){
+			return "";//This is temporary because there weren't any writing info now/
+		}
 		String res = readText.readDirection( ModelConstants.TESTPATH[testIndex]
 				+ModelConstants.PARTNAME[partIndex]+"\\Direction.txt");
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
-		if(partIndex == ModelConstants.MATH){
+		if(partIndex == ModelConstants.MATH || partIndex == ModelConstants.WRITING){
 			//System.out.println("Miss request from Math to Reading");
+			return;
+		}
+		if(partIndex >= ModelConstants.WRITING){
+			this.partIndex = partIndex;
+			this.splitIndexinPart = 0;
+			this.path = "";
+			this.passage = null;
+			this.quizs = null;
 			return;
 		}
 		if(testIndex == this.testIndex && splitIndex == this.splitIndexinPart && partIndex == this.partIndex){

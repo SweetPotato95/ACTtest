@@ -117,5 +117,17 @@ public class TimerView extends JPanel{
 		
 	}
 	
+	public void initTimer(int time){
+		long hour = 0;
+		long minute = 0;
+		long seconds = 0;
+		hour = time / 3600;
+		minute = (time - hour * 3600) / 60;
+		seconds = time - hour * 3600 - minute * 60;
+		jl1.setText(hour + " : ");
+		jl2.setText(minute + " : ");
+		jl3.setText(seconds + "");
+	}
+	
 
 }
