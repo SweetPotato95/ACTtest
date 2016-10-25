@@ -1,6 +1,6 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage III</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A solid cylinder is mounted on frictionless bearings. A thin string of negligible mass is wrapped around the cylinder and pulled with a constant force, as shown in Figure l.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\176.png' width = '88'height = '82'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\176.png' width = '118'height = '109'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The force results in a torque, τ, on the cylinder that causes the cylinder to spin. The angular acceleration, α of the cylinder is the change of the cylinder’s rotational speed over time.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Tables l, 2, and 3 give τ and a for various cylinder masses, cylinder radii, and forces, respectively Table 4 shows the rotational speed of a particular cylinder at different times.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(Note: A11 0f the cylinders described in Tables l-4 have the same length.) </div>

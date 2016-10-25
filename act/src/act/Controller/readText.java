@@ -45,7 +45,7 @@ public class readText {
 		int[] ans = new int[75+60+40+40];
 		int[] lens = {0,75,60,40,40};
 		int[] adds = {0,75,135,175,215};
-		
+//		System.out.println(testname);
 		String[] names = {"","english.txt","math.txt","reading.txt","science.txt"};
 		for(int i = 1; i <= 4; i++){
 			File file = new File(testname+names[i]);
@@ -58,6 +58,7 @@ public class readText {
 				{
 					tmpstring = reader.readLine();
 					tmpstring = tmpstring.split(" ")[1];
+//					System.out.println(tmpstring);
 					if(tmpstring.equals("A") || tmpstring.equals("F"))
 						ans[adds[i-1] + j] = 0;
 					if(tmpstring.equals("B") || tmpstring.equals("G"))
@@ -82,6 +83,7 @@ public class readText {
 				}
 			}
 		}
+//		System.out.println(ans[1]);
 		return ans;
 	}
 	public static String readPassage(String filename){

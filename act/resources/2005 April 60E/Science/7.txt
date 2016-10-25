@@ -1,10 +1,10 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The amount of O<sub>2</sub> present in blood and tissues can be measured, in mrn Hg, as the partial pressure of O<sub>2</sub> (PO<sub>2</sub>). The percent saturation of Hb is the percent of hemoglobin in the blood that is bound with O<sub>2</sub>. Figure l shows the relationship between percent saturation of Hb and PO<sub>2</sub> at normal body conditions.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\237.png' width = '81'height = '90'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\237.png' width = '108'height = '120'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows the relationship between percent saturation of Hb and PO<sub>2</sub> at different pHs. The pH of blood is affected by the partial pressure of CO<sub>2</sub> (PCO<sub>2</sub>).</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\238.png' width = '79'height = '89'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\238.png' width = '106'height = '119'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows the relationship between percent saturation of Hb and PO<sub>2</sub><sub> </sub>at different blood temperatures.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\239.png' width = '74'height = '84'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\239.png' width = '98'height = '112'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Robert Carola, John P. Harley, and Charles R. Noback, Human Anatomy and Physiology. ©1990 by McGraw-Hill, Inc.</div>
 ###################
 <div class = "quiz">36. According to Figure l, the greatest change in the percent saturation of Hb occurs within which of the following partial pressure ranges ?

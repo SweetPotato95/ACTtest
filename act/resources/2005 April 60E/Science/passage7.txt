@@ -1,11 +1,11 @@
 
 Passage VII
 The amount of O<sub>2</sub> present in blood and tissues can be measured, in mrn Hg, as the partial pressure of O<sub>2</sub> (PO<sub>2</sub>). The percent saturation of Hb is the percent of hemoglobin in the blood that is bound with O<sub>2</sub>. Figure l shows the relationship between percent saturation of Hb and PO<sub>2</sub> at normal body conditions.
-<img src='file:\$$$\resources\2005 April 60E\imgs\237.png' width = '81'height = '90'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\237.png' width = '108'height = '120'/>
 Figure 2 shows the relationship between percent saturation of Hb and PO<sub>2</sub> at different pHs. The pH of blood is affected by the partial pressure of CO<sub>2</sub> (PCO<sub>2</sub>).
-<img src='file:\$$$\resources\2005 April 60E\imgs\238.png' width = '79'height = '89'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\238.png' width = '106'height = '119'/>
 Figure 3 shows the relationship between percent saturation of Hb and PO<sub>2</sub><sub> </sub>at different blood temperatures.
-<img src='file:\$$$\resources\2005 April 60E\imgs\239.png' width = '74'height = '84'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\239.png' width = '98'height = '112'/>
 Figures adapted from Robert Carola, John P. Harley, and Charles R. Noback, Human Anatomy and Physiology. ©1990 by McGraw-Hill, Inc.
 36. According to Figure l, the greatest change in the percent saturation of Hb occurs within which of the following partial pressure ranges ?
 F. 0 mm Hg to 10 mm Hg             G. 20 mm Hg to 30 mm Hg

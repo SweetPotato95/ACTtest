@@ -147,7 +147,9 @@ class MyTableModel extends AbstractTableModel{
 	  //重写isCellEditable方法
     public boolean isCellEditable(int r,int c)
     {
+    	if (c != 0)
         return true;
+    	return false;
     }
     //重写setValueAt方法
     public void setValueAt(Object value,int r,int c)

@@ -4,9 +4,9 @@ As a living cell’s surface area-to-volume ratio (S/V) increases. so does the c
 To model this exchange process different-sized cubes of gelatin were immersed in a dye for 1 minute. Table 1 lists the edge length, surface area, volume, S/V, and percent volume of gelatin that was dyed.
 #####5
 Figure 1 shows the S/V of certain rectangular solids and spheres.
-<img src='file:\$$$\resources\2005 April 60E\imgs\224.png' width = '88'height = '60'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\224.png' width = '118'height = '80'/>
 Figure 2 shows the volume of certain rectangular solids and spheres as a function of surface area.
-<img src='file:\$$$\resources\2005 April 60E\imgs\225.png' width = '88'height = '54'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\225.png' width = '118'height = '72'/>
 Table 2 lists the diameter and surface area of 5 types of spherical ova (egg cells).
 #####6
 Table 2 adapted from Norman K. Wessells and Janet L. Hopson.

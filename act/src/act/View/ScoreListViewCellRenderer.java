@@ -11,14 +11,14 @@ public class ScoreListViewCellRenderer extends JPanel implements TableCellRender
         public ScoreListViewCellRenderer(){ 
               super();
              setLayout(new BorderLayout());
-             edit_btn = new JButton("...");
+             edit_btn = new JButton("More details");
              edit_txf = new JTextField();
              edit_txf.setOpaque(false);
              edit_txf.setBorder(null);
              add(edit_txf);
              add(edit_btn,BorderLayout.EAST);
              edit_btn.setBackground(Color.lightGray);
-             edit_btn.setPreferredSize(new Dimension(30,getHeight()));
+             edit_btn.setPreferredSize(new Dimension(130,getHeight()));
        } 
  
      public Component getTableCellRendererComponent(JTable table, Object value, 
