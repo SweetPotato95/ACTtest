@@ -184,7 +184,7 @@ public class readText {
 					if (mark == 2){
 						//System.out.println(ques);
 						int tmpl = ques.length();
-
+						tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 						tmpresult.setQuestion(ques.substring(0, tmpl-1));
 						int pos = ques.indexOf(".");
 						quizNum = Integer.parseInt(ques.substring(0, pos));
@@ -192,6 +192,7 @@ public class readText {
 						tmpresult.setQuizNum(quizNum);
 					}
 					mark = 3;
+					tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 					tmpstring = tmpstring.replace("<div class = \"choice\">", "");
 					tmpstring = tmpstring.replace("</div>", "");
 					tmpoptions.add(tmpstring);

@@ -1,4 +1,4 @@
-###################
+﻿###################
 <div class = "quiz">1. A formula that gives m, the recommended maximum heart rate, in beats per minute, while exercising, for a person a years old is m = 0.8(220 - a); What is the recommended maximum heart rate, in beats per minute, while exercising for a person 20 years old?
 
 <div class = "choice">A.156</div>
@@ -103,7 +103,7 @@
 </div>
 </div>
 ###################
-<div class = "quiz">11. When <img src='file:\$$$\resources\2005 Dec 63C\imgs\22.png' width = '558'height = '67'/> is multiplied out and all like terms are combined, the resulting expression is written so that powers of x are ordered from greatest to least. What are the first term and the last term of the expression?
+<div class = "quiz">11. When <img src='file:\$$$\resources\2005 Dec 63C\imgs\22.png' width = '349'height = '42'/> is multiplied out and all like terms are combined, the resulting expression is written so that powers of x are ordered from greatest to least. What are the first term and the last term of the expression?
 <u>first term</u>       <u>last term</u>
 
 <div class = "choice">A.5x             -720</div>
@@ -155,7 +155,7 @@
 </div>
 </div>
 ###################
-<div class = "quiz">16. If<img src='file:\$$$\resources\2005 Dec 63C\imgs\26.png' width = '290'height = '124'/>, then<img src='file:\$$$\resources\2005 Dec 63C\imgs\27.png' width = '38'height = '24'/>?
+<div class = "quiz">16. If<img src='file:\$$$\resources\2005 Dec 63C\imgs\26.png' width = '182'height = '77'/>, then<img src='file:\$$$\resources\2005 Dec 63C\imgs\27.png' width = '38'height = '24'/>?
 
 <div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\28.png' width = '49'height = '65'/></div>
 <div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\29.png' width = '32'height = '65'/></div>
@@ -166,32 +166,30 @@
 </div>
 ###################
 <div class = "quiz">17. In quadrilateral ABCD shown below, <img src='file:\$$$\resources\2005 Dec 63C\imgs\33.png' width = '41'height = '34'/>is parallel to<img src='file:\$$$\resources\2005 Dec 63C\imgs\34.png' width = '41'height = '36'/>, and <img src='file:\$$$\resources\2005 Dec 63C\imgs\35.png' width = '38'height = '36'/> is perpendicular to<img src='file:\$$$\resources\2005 Dec 63C\imgs\36.png' width = '41'height = '34'/>. What is the measure of<img src='file:\$$$\resources\2005 Dec 63C\imgs\37.png' width = '44'height = '27'/>?
-
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\38.png' width = '178'height = '90'/>
 <div class = "choice">A.80°</div>
 <div class = "choice">B.90°</div>
 <div class = "choice">C.100°</div>
 <div class = "choice">D.120°</div>
 <div class = "choice">E.130°
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\38.png' width = '178'height = '90'/>
 </div>
 </div>
 ###################
-<div class = "quiz">18. The figure below shows 2 similar right triangles such that A corresponds to 
-<div class = "choice">D.The given dimensions are in feet. What is the length, in feet, of<img src='file:\$$$\resources\2005 Dec 63C\imgs\39.png' width = '41'height = '34'/>?
-</div>
+<div class = "quiz">18. The figure below shows 2 similar right triangles such that A corresponds to D.The given dimensions are in feet. What is the length, in feet, of<img src='file:\$$$\resources\2005 Dec 63C\imgs\39.png' width = '41'height = '34'/>?
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\40.png' width = '148'height = '93'/>
 <div class = "choice">E.8</div>
 <div class = "choice">G.12</div>
 <div class = "choice">H.15</div>
 <div class = "choice">J.16</div>
 <div class = "choice">K.18
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\40.png' width = '148'height = '93'/>
+</div>
+###################
+<div class = "quiz">
 Use the following information to answer questions 19-21.
 In the baseball World Series, the American League champions play the National League champions. The first team to win 4 games wins the Series. The table below gives the year of the Series, the winning team’s league (A for American and N for National), and the number of games that Series lasted. For example, the 1980 World Series was won by the National League team and lasted 6 games. The table includes the World Series from 1980 through 2000, except for 1994. In 1994, the World Series was not played due to a players’ strike.
 <div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:40.8pt;border:solid windowtext 1.0pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="54"><p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p></td><td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">Winner</span></p></td><td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">Number  of games</span></p></td><td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p></td><td style="width:71.05pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">Winner</span></p></td><td style="width:71.05pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">Number  of games</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:40.8pt;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="54"><p align="center"  style="text-align:center"><span lang="EN-US">1980</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1981</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1982</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1983</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1984</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1985</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1986</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1987</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1988</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1989</span></p></td><td style="width:71.0pt;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p></td><td style="width:71.0pt;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p></td><td style="width:71.0pt;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">1990</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1991</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1992</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1993</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1995</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1996</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1997</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1998</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1999</span></p><p align="center"  style="text-align:center"><span lang="EN-US">2000</span></p></td><td style="width:71.05pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">N</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US">A</span></p></td><td style="width:71.05pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p></td></tr></table></div>
-</div>
-</div>
-###################
-<div class = "quiz">19. The National League won about what percent of the 20 World Series listed in the table?
+
+19. The National League won about what percent of the 20 World Series listed in the table?
 
 <div class = "choice">A.8%</div>
 <div class = "choice">B.25%</div>
@@ -563,24 +561,24 @@ Given the trigonometric approximations in the tables below, which of the followi
 ###################
 <div class = "quiz">52. Which of the following number line graphs shows the solution set for x of<img src='file:\$$$\resources\2005 Dec 63C\imgs\137.png' width = '80'height = '34'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\138.png' width = '256'height = '52'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\139.png' width = '320'height = '55'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\140.png' width = '298'height = '53'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\138.png' width = '160'height = '33'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\139.png' width = '200'height = '34'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\140.png' width = '186'height = '33'/>
 </div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 Dec 63C\imgs\141.png' width = '288'height = '51'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 Dec 63C\imgs\142.png' width = '290'height = '52'/>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 Dec 63C\imgs\141.png' width = '180'height = '32'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 Dec 63C\imgs\142.png' width = '182'height = '33'/>
 </div>
 </div>
 ###################
 <div class = "quiz">53. Rectangle ABCD, shown below, is reflected over <img src='file:\$$$\resources\2005 Dec 63C\imgs\143.png' width = '44'height = '36'/> and then rotated 180° clockwise around 
 <div class = "choice">C.Which of the following shows the final orientation of ABCD?
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\144.png' width = '106'height = '121'/>
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\144.png' width = '66'height = '76'/>
 </div>
-<div class = "choice">A.<img src='file:\$$$\resources\2005 Dec 63C\imgs\145.png' width = '96'height = '122'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 Dec 63C\imgs\146.png' width = '98'height = '124'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 Dec 63C\imgs\147.png' width = '106'height = '130'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 Dec 63C\imgs\148.png' width = '131'height = '96'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 Dec 63C\imgs\149.png' width = '118'height = '86'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 Dec 63C\imgs\145.png' width = '60'height = '76'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 Dec 63C\imgs\146.png' width = '61'height = '78'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 Dec 63C\imgs\147.png' width = '66'height = '82'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 Dec 63C\imgs\148.png' width = '82'height = '60'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 Dec 63C\imgs\149.png' width = '74'height = '54'/>
 </div>
 </div>
 ###################
