@@ -109,4 +109,5 @@
 <div class = "choice">G.Yes, because the essay shows how the narrator learned to operate a Linotype machine as a child and later went into a job at a printing press.</div>
 <div class = "choice">H.No, because the essay indicates that the narrator chose a different career from that of her father, even though she admired his Linotype skills.</div>
 <div class = "choice">J.No, because the essay focuses on how a Linotype machine operates, not on how the narrator chose her line of work.</div>
-</div>###################
+</div>
+###################

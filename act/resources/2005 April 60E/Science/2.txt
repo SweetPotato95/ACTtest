@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage II</div>
+<h1>Passage II</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The rate of a chemical reaction can be measured as the change in the concentration of its products over a period of time. The following experiments were performed to investigate factors that influence the rate at which potassium permanganate (KMnO<sub>4</sub>) reacts with oxalic acid (H<sub>2</sub>C<sub>2</sub>C<sub>4</sub>) to form Mn2+ and other products.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment l</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A. 4.0 mL sample of 0.1 M (moles/liter) aqueous KMnO<sub>4</sub>. which was purple in color, was measured with a clean graduated cylinder and poured into a test tube. A 4.0 mL sample of l.0 M aqueous H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> was then measured with a clean graduated cylinder and poured into a second test tube. The 2 test tubes were placed in a 25℃ water bath. After 5 minutes the H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> solution was mixed with the KMnO<sub>4</sub> solution and placed back in the water bath. The time until the purple color disappeared was recorded. This procedure was repeated at 3 other temperatures. The results are shown in Table l.</div>
@@ -52,4 +52,5 @@ F. remained the same.   G. decreased only.   H. increased only.   J. increased, 
 <div class = "choice">B.greater than 415 sec and less than or .equal to 625 sec.</div>
 <div class = "choice">C.greater than 625 sec and less than or equal to 837 sec.</div>
 <div class = "choice">D.greater than 837 sec.</div></div>
+
 ###################

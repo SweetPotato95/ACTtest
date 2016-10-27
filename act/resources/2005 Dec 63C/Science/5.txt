@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage V</div>
+<h1>Passage V</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When DNA is heated to its melting temperature (T<sub>m</sub>) it denatures (breaks apart) into 2 strands. When cooled, the strands can relink to form. Less stable DNA, indicated by a lower T<sub>m</sub> (see Figure l).</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\183.png' width = '178'height = '110'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how the absorbance of light by a solution of DNA molecules, each initially composed of 2 completely linked strands, varied as it was heated and then cooled. When the DNA began to denature, the absorbance increased sharply. When the DNA began to renature, the absorbance decreased sharply.</div>
@@ -45,4 +45,5 @@
 <div class = "choice">B.2 completely linked strands only; after heating and cooling, only single strands of DNA remained.</div>
 <div class = "choice">C.more than 2 linked strands; after heating and cooling, each DNA molecule was composed of 2 completely linked strands only.</div>
 <div class = "choice">D.more than 2 linked strands; after heating and cooling, only single strands of DNA remained.</div></div>
+
 ###################

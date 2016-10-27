@@ -106,4 +106,5 @@
 <div class = "choice">G.Yes, because the author clearly avoids limiting the essay to a view of the monument based on first-hand experience.</div>
 <div class = "choice">H.No, because the essay describes the monument as part of a broader concern with its creator, who has produced numerous public structures.</div>
 <div class = "choice">J.No, because public reaction to the monument is downplayed in the essay in favor of objective information.</div>
-</div>###################
+</div>
+###################

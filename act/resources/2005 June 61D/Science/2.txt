@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage II</div>
+<h1>Passage II</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Crude oil contains thousands of chemical compounds. To obtain commercially useful compounds, crude oil is distilled in a fractionating tower (see Figure 1). The crude oil is first heated to 400℃ in a furnace, then pumped into the fractionating tower. As vapors from the oil rise, they cool and condense. Fractions are collected at different heights in the tower. Each fraction contains a mixture of hydrocarbon molecules with similar boiling points. Table 1 shows information about some of the fractions that can be collected. Figure 2 shows the composition of crude oils obtained in 6 different geographic locations.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\148.png' width = '851'height = '834'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from American Chemical Society, Chemcom: Chemistry in the Community, 2nd ed. © 1993 by American Chemical Society.</div>
@@ -48,4 +48,5 @@ lt;20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" 
 <div class = "choice">F.</div>
 <div class = "choice">J.No; gasoline and middle distillates make up more than 70% of Crude Oil Sample</div>
 <div class = "choice">A.</div></div>
+
 ###################

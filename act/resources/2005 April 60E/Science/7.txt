@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
+<h1>Passage VII</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The amount of O<sub>2</sub> present in blood and tissues can be measured, in mrn Hg, as the partial pressure of O<sub>2</sub> (PO<sub>2</sub>). The percent saturation of Hb is the percent of hemoglobin in the blood that is bound with O<sub>2</sub>. Figure l shows the relationship between percent saturation of Hb and PO<sub>2</sub> at normal body conditions.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\237.png' width = '108'height = '120'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows the relationship between percent saturation of Hb and PO<sub>2</sub> at different pHs. The pH of blood is affected by the partial pressure of CO<sub>2</sub> (PCO<sub>2</sub>).</div>
@@ -49,4 +49,5 @@
 <div class = "choice">G.absorbs acids.</div>
 <div class = "choice">H.breaks clown to form O<sub>2</sub>.</div>
 <div class = "choice">J.reacts with O<sub>2</sub> to form Hb.</div></div>
+
 ###################

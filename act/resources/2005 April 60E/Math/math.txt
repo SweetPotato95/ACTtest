@@ -1,4 +1,4 @@
-﻿###################
+###################
 <div class = "quiz">1. What is the value of the expression (x - 2y)(x + 2y) when x = 4 and y =<img src='file:\$$$\resources\2005 April 60E\imgs\0.png' width = '24'height = '65'/>?
 
 <div class = "choice">A.8</div>
@@ -416,7 +416,9 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">40. Mary takes 2 medications throughout the day and night. One medication is to be taken every 6 hours and the other is to be taken every 4 hours. If Mary begins taking both medications at 7:00 A.M. and takes both medications on schedule, how many hours later will it be when she next takes both medications at the same time?
+<div class = "quiz">40. Mary takes 2 medications throughout the day and night. One medication is to be taken every 6 hours and the other is to be taken every 4 hours. If Mary begins taking both medications at 7:00 
+<div class = "choice">A.M. and takes both medications on schedule, how many hours later will it be when she next takes both medications at the same time?
+</div>
 <div class = "choice">F.6</div>
 <div class = "choice">G.9</div>
 <div class = "choice">H.10</div>
@@ -536,11 +538,11 @@ Which of the following is an expression for the sum of the cubes of the first c 
 <div class = "quiz">51. In the figure below, A, B, and C are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\182.png' width = '72'height = '34'/>, and M, N, and O are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\183.png' width = '69'height = '29'/>. The interiors of<img src='file:\$$$\resources\2005 April 60E\imgs\184.png' width = '68'height = '27'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\185.png' width = '74'height = '34'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\186.png' width = '69'height = '29'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\187.png' width = '78'height = '29'/> are shaded. What fraction of the interior of <img src='file:\$$$\resources\2005 April 60E\imgs\188.png' width = '72'height = '34'/> is shaded?
 <img src='file:\$$$\resources\2005 April 60E\imgs\189.png' width = '178'height = '96'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\190.png' width = '24'height = '55'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\191.png' width = '24'height = '55'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\192.png' width = '22'height = '55'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\193.png' width = '28'height = '55'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\194.png' width = '32'height = '55'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\190.png' width = '24'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\191.png' width = '24'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\192.png' width = '22'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\193.png' width = '28'height = '65'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\194.png' width = '32'height = '65'/>
 </div>
 </div>
 ###################
@@ -644,4 +646,5 @@ Which of the following is an expression for the sum of the cubes of the first c 
 <div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\218.png' width = '224'height = '38'/>
 
 </div></div>
+
 ###################

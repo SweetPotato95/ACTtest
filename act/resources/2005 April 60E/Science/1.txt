@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage I</div>
+<h1>Passage I</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '118'height = '99'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist l</div>
@@ -65,4 +65,5 @@
 <div class = "choice">B.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '68'height = '110'/></div>
 <div class = "choice">C.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\222.png' width = '118'height = '84'/></div>
 <div class = "choice">D.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '93'height = '106'/></div></div>
+
 ###################

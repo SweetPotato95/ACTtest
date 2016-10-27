@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VI</div>
+<h1>Passage VI</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A student performed 4 computer simulation studies to model the change at a gene in a population. For each study, the following rules applied:</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The gene has 2 alleles (possible forms): A and a.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each organism has 2 copies of the gene.</div>
@@ -68,4 +68,5 @@
 <div class = "choice">B.W(aa)=0.5.</div>
 <div class = "choice">C.W(aa)=0.7.</div>
 <div class = "choice">D.W(aa)=0.9.</div></div>
+
 ###################

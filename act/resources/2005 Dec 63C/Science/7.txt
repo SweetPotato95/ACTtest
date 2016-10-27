@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
+<h1>Passage VII</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students dissolved ammonium chloride (NH4CI) and silver cyanate (AgOCN) together in water. A solid, Product I (P1), formed and was isolated. Product 2 (P2) was then recovered from the water in the solution. Samples of the products had the properties listed below:</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1: Melting point > 400℃; hard and brittle; not soluble in water; not flammable; formula unknown</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P2: Melting point = 132℃; soft and nonbrittle; soluble in water; flammable; formula is CH<sub>4</sub>N<sub>2</sub>O Two students discuss the identity of these products.</div>
@@ -69,4 +69,5 @@
 <div class = "choice">G.Urea</div>
 <div class = "choice">H.AgCI</div>
 <div class = "choice">J.CH<sub>4</sub>N<sub>2</sub>O</div></div>
+
 ###################

@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage I</div>
+<h1>Passage I</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since 1880, Earth’s average surface temperature has increased by 0.5℃. This global warming has caused ocean surface temperature increases and the melting of parts of the polar ice caps. Two scientists discuss the cause of these events.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Global warming is caused by human activities that have significantly increased the atmospheric concentration of <img src='file:\$$$\resources\2005 June 61D\imgs\133.png' width = '55'height = '42'/> above the concentration prior to 1880. <img src='file:\$$$\resources\2005 June 61D\imgs\134.png' width = '55'height = '42'/>is one of several greenhouse gases (gases that trap heat emitted from Earth’s surface). Human activities, primarily the burning of fossil fuels, have added significant additional <img src='file:\$$$\resources\2005 June 61D\imgs\135.png' width = '55'height = '42'/> to the air (6 billion tons per year at present). This has increased the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\136.png' width = '55'height = '42'/> concentration by 30% since 1880. The higher the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\137.png' width = '55'height = '42'/> concentration, the warmer Earth’s average surface temperature. While atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\138.png' width = '55'height = '42'/> concentrations have been steadily increasing over the past 18,000 years, the annual rate of increase over the past 100 years has been 10 to 100 times faster than the rate of increase prior to 1880. Eight of the warmest years on record have occurred since 1979.</div>
@@ -53,4 +53,5 @@ Key┉┉Earth’s average surface temperature____solar energy output<img src='f
 <div class = "choice">B.10 times greater</div>
 <div class = "choice">C.20 times greater</div>
 <div class = "choice">D.30 times greater</div></div>
+
 ###################

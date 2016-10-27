@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
+<h1>Passage VII</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The male-to-female body mass ratio (MFMR) of a species can be calculated as follows:</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">MFMR=<img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '106'height = '42'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In this equation, <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '49'height = '42'/>is the average body mass of adult males and <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '35'height = '42'/> is the average body mass of adult females.</div>
@@ -44,4 +44,5 @@
 <div class = "choice">G.The numerator is in units of mass and the denominator is in units of mass, so the ratio is in units of mass.</div>
 <div class = "choice">H.The numerator is in units of volume and the denominator is in units of volume, so the ratio has no units.</div>
 <div class = "choice">J.The numerator is in units of volume and the denominator is in units of volume, so the ratio is in units of volume.</div></div>
+
 ###################

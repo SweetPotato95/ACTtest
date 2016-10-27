@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage II</div>
+<h1>Passage II</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">How big a star looks at a given distance defines the star’s angular size, θ (see Figure l).</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table 1 gives θ of the Sun if it were observed from various distance. Table 2 gives θ of stars 8 light years away from Earth that have various diameter.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For a star to be seen as a disk through a telescope, the telescope’s resolution, R, must be less than or equal to θ of the star. Table 3 shows R using yellow light for telescopes of various diameters. Table 4 gives R for a 10m (diameter) telescope using light of different colors.</div>
@@ -41,4 +41,5 @@ A.<img src='file:\$$$\resources\2005 Dec 63C\imgs\172.png' width = '126'height =
 <div class = "choice">B.2m, 4m, and 6m only.</div>
 <div class = "choice">C.8m and 10m only.</div>
 <div class = "choice">D.Any of the diameters listed in Table 3</div></div>
+
 ###################
