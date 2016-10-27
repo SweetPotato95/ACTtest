@@ -10,6 +10,8 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
 import java.awt.event.*;
+import java.io.File;
+import java.io.IOException;
 
 import javax.swing.AbstractCellEditor;
 import javax.swing.BorderFactory;
@@ -208,7 +210,15 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 	//¼àÌýÆ÷·½·¨
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-		if(column == 2)return;
+		if(column == 2){
+			try {
+				Runtime.getRuntime().exec("cmd /c start D:");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return;
+		}
 		//System.out.println(row +" "+column);
 		menuView.enterTest(row);
 		
