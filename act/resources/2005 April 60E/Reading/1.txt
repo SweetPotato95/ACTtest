@@ -1,4 +1,4 @@
-<h1>Passage I</h1>
+﻿<h1>Passage I</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel Night Water by Helen Elaine Lee (©1996 by Helen Elaine Lee).</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There had been no words for naming when she was born. She was "Girl Owens" on the stamped paper that certified her birth, and at home, she had just been "Sister," that was all. When asked to decide, at six, 5 what she would be called, she had chosen "Sunday," the time of voices, lifted in praise.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">That was one piece of the story, but other parts had gone unspoken, and some had been buried, but were not at rest. She was headed back to claim them, as 10 she bad taken her name.</div>
@@ -77,7 +77,8 @@
 </div>
 ###################
 <div class = "quiz">10. In the context of lines 79-85, the word smallness (line 84) most nearly means:
-<div class = "choice">F.pettiness.     G willfulness.</div>
+<div class = "choice">F.pettiness.</div> 
+<div class = "choice">G.willfulness.</div>
 <div class = "choice">H.diminutive size.</div>
 <div class = "choice">J.lack of artistic talent.</div>
 </div>

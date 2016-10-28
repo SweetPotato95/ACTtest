@@ -1,4 +1,4 @@
-<h1>Passage VI</h1>
+﻿<h1>Passage VI</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air at its dew point temperature (or dew point) is saturated with water vapor. Air temperature usually decreases with increasing altitude. When air cools to its dew point, the water vapor in the air can begin to condense and form clouds.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air temperatures and dew points were measured every 600 m from the surface (0 m) to an altitude of 3,000 m at 4 cities (A-D). Data, including the altitude of the cloud base over each city, were taken at 2 P.M. on every summer day that clouds were present. Figures l-4 show the average air temperatures, the average dew points, and the average cloud-base altitudes at each city.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\233.png' width = '103'height = '115'/>         <img src='file:\$$$\resources\2005 April 60E\imgs\234.png' width = '148'height = '106'/>           <img src='file:\$$$\resources\2005 April 60E\imgs\235.png' width = '118'height = '86'/>            <img src='file:\$$$\resources\2005 April 60E\imgs\236.png' width = '148'height = '111'/></div>
@@ -36,11 +36,8 @@ Based on this information and the data in Figures 1-4, which of these 2 cities, 
 <div class = "choice">J.Miami, because the difference between the average air temperature and the average dew point is smaller than in Phoenix.</div>
 </div>
 ###################
-<div class = "quiz">35. A certain city reported that the air temperature and the dew point at o m altitude measured at 8 
-<div class = "choice">A.M. on a given day were both 40°</div>
-<div class = "choice">F.Given this information and the data provided, one could be most certain that clouds were present at which of the following altitudes at that city at 8</div>
-<div class = "choice">A.M. on that day?
-</div>
+<div class = "quiz">35. A certain city reported that the air temperature and the dew point at o m altitude measured at 8 A.M. on a given day were both 40°F.Given this information and the data provided, one could be most certain that clouds were present at which of the following altitudes at that city at 8 A.M. on that day?
+
 <div class = "choice">A.0 m</div>
 <div class = "choice">B.600 m</div>
 <div class = "choice">C.1,200m</div>
