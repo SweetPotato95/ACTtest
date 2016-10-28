@@ -122,7 +122,7 @@ public class MainView extends JPanel{
 	}
 	public void showScoreView(){
 		mainContent.removeAll();
-		mainContent.add(scoreListView,0);
+		mainContent.add(scoreListView);
 		navBar.scoreMode();
 		scoreListView.init();
 		scoreListView.setVisible(true);

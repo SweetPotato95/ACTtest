@@ -45,7 +45,7 @@ public class readText {
 		int[] ans = new int[75+60+40+40];
 		int[] lens = {0,75,60,40,40};
 		int[] adds = {0,75,135,175,215};
-		
+//		System.out.println(testname);
 		String[] names = {"","english.txt","math.txt","reading.txt","science.txt"};
 		for(int i = 1; i <= 4; i++){
 			File file = new File(testname+names[i]);
@@ -58,6 +58,7 @@ public class readText {
 				{
 					tmpstring = reader.readLine();
 					tmpstring = tmpstring.split(" ")[1];
+//					System.out.println(tmpstring);
 					if(tmpstring.equals("A") || tmpstring.equals("F"))
 						ans[adds[i-1] + j] = 0;
 					if(tmpstring.equals("B") || tmpstring.equals("G"))
@@ -82,12 +83,14 @@ public class readText {
 				}
 			}
 		}
+//		System.out.println(ans[1]);
 		return ans;
 	}
 	public static String readPassage(String filename){
 		String passage = "";
-		String path = System.getProperty("java.class.path");
-		path = path.substring(0,path.length()-4);
+		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
+//		System.out.println(path);
+		path = path.substring(0,path.length()-1);
 		//File file = new File(filename);
 		BufferedReader reader = null;
 		try{
@@ -147,8 +150,9 @@ public class readText {
 		ArrayList<choice> result = new ArrayList<choice>();
 		choice tmpresult = new choice(type);
 		BufferedReader reader = null;
-		String path = System.getProperty("java.class.path");
-		path = path.substring(0,path.length()-4);
+		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
+//		System.out.println(path);
+		path = path.substring(0,path.length()-1);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
@@ -182,7 +186,7 @@ public class readText {
 					if (mark == 2){
 						//System.out.println(ques);
 						int tmpl = ques.length();
-
+						tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 						tmpresult.setQuestion(ques.substring(0, tmpl-1));
 						int pos = ques.indexOf(".");
 						quizNum = Integer.parseInt(ques.substring(0, pos));
@@ -190,6 +194,7 @@ public class readText {
 						tmpresult.setQuizNum(quizNum);
 					}
 					mark = 3;
+					tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 					tmpstring = tmpstring.replace("<div class = \"choice\">", "");
 					tmpstring = tmpstring.replace("</div>", "");
 					tmpoptions.add(tmpstring);

@@ -1,7 +1,7 @@
 
 Passage V
 Albert Einstein predicted that light passing by a massive object would be deflected of motion (Angle θ in Figure 1).
-<img src='file:\$$$\resources\2005 June 61D\imgs\168.png' width = '616'height = '291'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\168.png' width = '821'height = '388'/>
 Einstein also predicted that light’s travel time between certain planets would be increased by the Sun’s gravity. Experiments 1 and 2 tested Einstein’s predictions.
 Experiment 1
 Einstein predicted that for light of any wavelength skimming the visible edge of the Sun, θ=1.75 arcsec. To measure θ in visible light (wavelength=0.00005 cm), scientists observed the stars appearing at the Sun’s edge during a total solar eclipse, and they plotted the stars’ positions in the sky. Next, they plotted the positions of the same stars when the stars did not appear close to the Sun; θ equaled the angle between the 2 positions of each star. An average of θ was found for all the stars tested. Then, scientists measured and found average values of θ for light at radio wavelengths (3.1 cm and 11.6 cm) skimming the Sun’s visible edge.
@@ -9,20 +9,20 @@ The results are given in Table 1. (Note: ±signifies the uncertainty in a measur
 #####8
 Experiment 2
 Scientists bounced radio waves off the surface of Venus as Venus moved around the Sun. Figure 2 shows the approximate positions of Venus (V) relative to the Sun (S) and Earth (E) on Days 0, 150, 300, and 450.
-<img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '526'height = '334'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '701'height = '446'/>
 The delay measured by the scientists equaled the extra time the radio waves took to make the round trip between Earth and Venus because of the Sun’s gravity (see Figure 3).
-<img src='file:\$$$\resources\2005 June 61D\imgs\170.png' width = '407'height = '466'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\170.png' width = '543'height = '621'/>
 25. In Experiment 2 on Day 600, the relative positions of the Sun, Earth, and Venus were closest to those shown in which of the following diagrams?
-<img src='file:\$$$\resources\2005 June 61D\imgs\171.png' width = '496'height = '511'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\171.png' width = '661'height = '681'/>
 26. According to the uncertainty in the measurement of θ at a wavelength of 3.1 cm, the true value of θ was most likely between:
 F. 0.00 arcsec and 0.20 arcsec.  G. 0.20 arcsec and 0.40 arcsec.
 H. 1.57 arcsec and 1.97 arcsec.  J. 1.97 arcsec and 2.17 arcsec.
 27. Suppose a spacecraft carrying a radio transmitter landed on Venus. Angle θ was measured on the same days as in Experiment 2 for the radio waves transmited from the spacecraft to Earth. Based on Experiment 1, θ would most likely have been greatest on or about Day:
 A. 150.  B. 300.  C. 450.  D. 600.
 28. Suppose, on Day 0 in Experiment 2, the relative positions of the Sun, Earth, and Venus were as shown in the diagram below.
-<img src='file:\$$$\resources\2005 June 61D\imgs\172.png' width = '60'height = '200'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\172.png' width = '80'height = '267'/>
 The graph of the delay versus Day would have looked most like which of the following graphs?
-<img src='file:\$$$\resources\2005 June 61D\imgs\173.png' width = '593'height = '494'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\173.png' width = '791'height = '659'/>
 29. During Experiment 2, the largest delay in the radio waves was produced when the radio waves passed:
 A. farthest from the edge of the Moon both on their way to the Sun and on their return to Earth.
 B. closest to the edge of the Moon both on their way to the Sun and on their return to Earth.

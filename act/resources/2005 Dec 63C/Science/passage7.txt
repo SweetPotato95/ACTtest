@@ -13,7 +13,7 @@ P1 is AgCl: AgCl is insoluble in water, and salts tend to be hard and brittle, t
 This sample of NH<sub>4</sub>OCN is absorbed water from the air caused the melting point to salt.
 Student 2
 P1 is AgCl, but P2 is not a salt. Ammonium ions do react with cyanate ions to form NH<sub>4</sub>OCN, but this compound is unstable. To isolate P2, the solution was heated at 70℃ to remove the water. This caused the salt .to rearrange and form a more stable covalent compound. In a. covalent compound, the atoms are held together by bonds, not by their opposite charges. P2 is urea, which has the following structure:
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '88'height = '61'/>
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '74'height = '51'/>
 Covalent compounds are generally not as brittle as salts and tend to have lower melting points. Also, covalent compounds are much more likely to be flammable than are salts. Urea is also a compound that is found in mammalian urine, so it must be soluble in water.
 34. A compound is hygroscopic if it absorbs water from the air. According to Student l’s hypothesis, which of the following compounds is hygroscopic?
 F. Urea      G. AgCl        H. NH<sub>4</sub>Cl         J. NH<sub>4</sub>OCN
@@ -21,7 +21,7 @@ F. Urea      G. AgCl        H. NH<sub>4</sub>Cl         J. NH<sub>4</sub>OCN
 A. Student l’s only         B. Student 2’s only
 C. Both Student l’s and Student 2’s         D. Neither Student l’s nor Student 2’s
 36. Based on the data collected for P2, which of the following compounds represents a possible structure for P2?
-F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '102'height = '82'/>       G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '120'height = '81'/>       H. [NH<sub>4</sub>+][CN-]        J. [N<sub>2</sub>H<sub>5</sub>+][OCN-]
+F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '85'height = '68'/>       G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '100'height = '67'/>       H. [NH<sub>4</sub>+][CN-]        J. [N<sub>2</sub>H<sub>5</sub>+][OCN-]
 37. In arguing that urea is soluble in water, Student 2 makes which of the following assumptions?
 A. Mammalian urine is a water-based solution.
 B. Mammalian urine contains many dissolved salts.

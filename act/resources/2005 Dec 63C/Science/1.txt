@@ -1,7 +1,7 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage I</div>
+<h1>Passage I</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In certain solutions, beet cells undergo membrane disruption, causing the cells to release betacyanin (a red pigment). As membrane disruption increases, more betacyanin is released. To determine the amount of betacyanin released, the amount of light absorbed (at a specific wave-length) by the solution is measured. As the concentration of betacyanin in the solution in creases; the amount of light absorbed increases.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To determine the amount of light absorbed by a solution, light is directed through a sample of the solution onto a detector (see Figure 1).</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\171.png' width = '156'height = '62'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\171.png' width = '208'height = '82'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">By measuring the amount of light that hits the detector, the amount of light absorbed by the sample can be determined.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For each of 9 trials, a student placed a beet section (2cm × 2cm × lcm) in 100mL of water at a specific temperature for 10, 20, or 30 min. The student then removed a sample of the solution and determined its absorbance (see Table l).</div>
@@ -60,4 +60,5 @@
 <div class = "choice">G.water concentration              methanol concentration</div>
 <div class = "choice">H.methanol-concentration           temperature</div>
 <div class = "choice">J.temperature                     absorbance</div></div>
+
 ###################

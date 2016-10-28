@@ -1,6 +1,6 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage V</div>
+<h1>Passage V</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Albert Einstein predicted that light passing by a massive object would be deflected of motion (Angle θ in Figure 1).</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\168.png' width = '616'height = '291'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\168.png' width = '821'height = '388'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Einstein also predicted that light’s travel time between certain planets would be increased by the Sun’s gravity. Experiments 1 and 2 tested Einstein’s predictions.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Einstein predicted that for light of any wavelength skimming the visible edge of the Sun, θ=1.75 arcsec. To measure θ in visible light (wavelength=0.00005 cm), scientists observed the stars appearing at the Sun’s edge during a total solar eclipse, and they plotted the stars’ positions in the sky. Next, they plotted the positions of the same stars when the stars did not appear close to the Sun; θ equaled the angle between the 2 positions of each star. An average of θ was found for all the stars tested. Then, scientists measured and found average values of θ for light at radio wavelengths (3.1 cm and 11.6 cm) skimming the Sun’s visible edge.</div>
@@ -8,12 +8,12 @@
 <div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:224.85pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="300"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:112.4pt;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Wavelength</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(cm)</span></p></td><td style="width:112.45pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Average θ</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">(arcsec)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:112.4pt;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">0.00005</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">3.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">11.6</span></p></td><td style="width:112.45pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.72±0.15</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.77±0.20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">1.87±0.30</span></p></td></tr></table></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists bounced radio waves off the surface of Venus as Venus moved around the Sun. Figure 2 shows the approximate positions of Venus (V) relative to the Sun (S) and Earth (E) on Days 0, 150, 300, and 450.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '526'height = '334'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '701'height = '446'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The delay measured by the scientists equaled the extra time the radio waves took to make the round trip between Earth and Venus because of the Sun’s gravity (see Figure 3).</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\170.png' width = '407'height = '466'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\170.png' width = '543'height = '621'/></div>
 ###################
 <div class = "quiz">25. In Experiment 2 on Day 600, the relative positions of the Sun, Earth, and Venus were closest to those shown in which of the following diagrams?
-<img src='file:\$$$\resources\2005 June 61D\imgs\171.png' width = '496'height = '511'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\171.png' width = '661'height = '681'/>
 
 </div>
 ###################
@@ -34,7 +34,7 @@
 </div>
 ###################
 <div class = "quiz">28. Suppose, on Day 0 in Experiment 2, the relative positions of the Sun, Earth, and Venus were as shown in the diagram below.
-<img src='file:\$$$\resources\2005 June 61D\imgs\172.png' width = '60'height = '200'/>The graph of the delay versus Day would have looked most like which of the following graphs?<img src='file:\$$$\resources\2005 June 61D\imgs\173.png' width = '593'height = '494'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\172.png' width = '80'height = '267'/>The graph of the delay versus Day would have looked most like which of the following graphs?<img src='file:\$$$\resources\2005 June 61D\imgs\173.png' width = '791'height = '659'/>
 
 </div>
 ###################
@@ -52,4 +52,5 @@
 <div class = "choice">G.emits both visible light and radio waves.</div>
 <div class = "choice">H.is the most massive body in the solar system.</div>
 <div class = "choice">J.is easily viewed during a solar eclipse.</div></div>
+
 ###################

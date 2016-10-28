@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
+<h1>Passage VII</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students dissolved ammonium chloride (NH4CI) and silver cyanate (AgOCN) together in water. A solid, Product I (P1), formed and was isolated. Product 2 (P2) was then recovered from the water in the solution. Samples of the products had the properties listed below:</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1: Melting point > 400℃; hard and brittle; not soluble in water; not flammable; formula unknown</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P2: Melting point = 132℃; soft and nonbrittle; soluble in water; flammable; formula is CH<sub>4</sub>N<sub>2</sub>O Two students discuss the identity of these products.</div>
@@ -12,7 +12,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This sample of NH<sub>4</sub>OCN is absorbed water from the air caused the melting point to salt.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1 is AgCl, but P2 is not a salt. Ammonium ions do react with cyanate ions to form NH<sub>4</sub>OCN, but this compound is unstable. To isolate P2, the solution was heated at 70℃ to remove the water. This caused the salt .to rearrange and form a more stable covalent compound. In a. covalent compound, the atoms are held together by bonds, not by their opposite charges. P2 is urea, which has the following structure:</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '88'height = '61'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '74'height = '51'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Covalent compounds are generally not as brittle as salts and tend to have lower melting points. Also, covalent compounds are much more likely to be flammable than are salts. Urea is also a compound that is found in mammalian urine, so it must be soluble in water.</div>
 ###################
 <div class = "quiz">34. A compound is hygroscopic if it absorbs water from the air. According to Student l’s hypothesis, which of the following compounds is hygroscopic?
@@ -33,8 +33,8 @@
 ###################
 <div class = "quiz">36. Based on the data collected for P2, which of the following compounds represents a possible structure for P2?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '102'height = '82'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '120'height = '81'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '85'height = '68'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '100'height = '67'/></div>
 <div class = "choice">H.[NH<sub>4</sub>+][CN-]</div>
 <div class = "choice">J.[N<sub>2</sub>H<sub>5</sub>+][OCN-]</div>
 </div>
@@ -69,4 +69,5 @@
 <div class = "choice">G.Urea</div>
 <div class = "choice">H.AgCI</div>
 <div class = "choice">J.CH<sub>4</sub>N<sub>2</sub>O</div></div>
+
 ###################

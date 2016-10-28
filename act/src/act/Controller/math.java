@@ -24,6 +24,7 @@ public class math {
 			return;
 		}
 		this.testnum = testNum;
+//		System.out.println("--------"+this.testnum);
 		this.path = ModelConstants.TESTPATH[testNum] +"\\Math\\math.txt";
 		this.quizs = readText.readChoice(ModelConstants.MATH, path);
 	}

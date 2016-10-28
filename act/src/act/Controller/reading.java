@@ -28,6 +28,7 @@ public class reading {
 		return quizs.size();
 	}
 	public choice getChoice(int index){
+		System.out.println("-----------"+index);
 		return quizs.get(index);
 	}
 	public String readDirection(int testIndex, int partIndex){

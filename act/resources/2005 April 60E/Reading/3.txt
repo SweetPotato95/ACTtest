@@ -85,4 +85,5 @@
 <div class = "choice">G.describe the type of work that the narrator’s grandparents often had to do.</div>
 <div class = "choice">H.establish that the narrator and his grandfather would often exchange small but meaningful gifts.</div>
 <div class = "choice">J.portray the reverence with which the grandfather treated the object he had unearthed.</div>
-</div>###################
+</div>
+###################

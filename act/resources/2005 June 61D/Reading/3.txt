@@ -79,4 +79,5 @@
 <div class = "choice">G.acted unconcerned about what others thought of them.</div>
 <div class = "choice">H.relied on their parents and siblings for advice.</div>
 <div class = "choice">J.used their imagination to make themselves feel better.</div>
-</div>###################
+</div>
+###################

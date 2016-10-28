@@ -11,7 +11,7 @@
 ###################
 <div class = "quiz">2. In the figure below, ∠A≌∠D, ∠B≌∠E, and △ABC≌△DE
 <div class = "choice">F.The measure of ∠A is 20°. The measure of ∠F is 75°. What is the measure of ∠B?
-<img src='file:\$$$\resources\2005 June 61D\imgs\0.png' width = '632'height = '131'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\0.png' width = '843'height = '175'/>
 </div>
 <div class = "choice">F.20°</div>
 <div class = "choice">G.75°</div>
@@ -23,11 +23,11 @@
 ###################
 <div class = "quiz">3. Shanika has a bag containing 50 pieces of candy: 6 strawberry, 12 orange, 10 lime, and 22 lemon. If Shanika randomly takes a piece of candy from the bag, what is the probability that the piece she takes is strawberry or lime?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\1.png' width = '44'height = '85'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\2.png' width = '44'height = '85'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\3.png' width = '44'height = '85'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\4.png' width = '44'height = '85'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\5.png' width = '45'height = '85'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\1.png' width = '36'height = '71'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\2.png' width = '36'height = '71'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\3.png' width = '36'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\4.png' width = '36'height = '71'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\5.png' width = '38'height = '71'/>
 </div>
 </div>
 ###################
@@ -64,11 +64,11 @@
 <div class = "quiz">7. According to the U.S. Energy Information Administration, in 1989 the U.S. population consumed a total of 81,342 trillion British thermal units (Btu) of energy, including 5,677 trillion Btu of nuclear electric power and 2,884 trillion Btu of hydroelectric power. In scientific notation, how many more Btu of nuclear electric power were consumed than Btu of hydroelectric power？
 （Note: 1trillion=1,000,000,000,000）
 
-<div class = "choice">A.2.457×10<img src='file:\$$$\resources\2005 June 61D\imgs\6.png' width = '28'height = '50'/></div>
-<div class = "choice">B.2.793×10<img src='file:\$$$\resources\2005 June 61D\imgs\7.png' width = '28'height = '50'/></div>
-<div class = "choice">C.5.250×10<img src='file:\$$$\resources\2005 June 61D\imgs\8.png' width = '28'height = '50'/></div>
-<div class = "choice">D.7.567×10<img src='file:\$$$\resources\2005 June 61D\imgs\9.png' width = '28'height = '50'/></div>
-<div class = "choice">E.7.846×10<img src='file:\$$$\resources\2005 June 61D\imgs\10.png' width = '28'height = '50'/>
+<div class = "choice">A.2.457×10<img src='file:\$$$\resources\2005 June 61D\imgs\6.png' width = '24'height = '42'/></div>
+<div class = "choice">B.2.793×10<img src='file:\$$$\resources\2005 June 61D\imgs\7.png' width = '24'height = '42'/></div>
+<div class = "choice">C.5.250×10<img src='file:\$$$\resources\2005 June 61D\imgs\8.png' width = '24'height = '42'/></div>
+<div class = "choice">D.7.567×10<img src='file:\$$$\resources\2005 June 61D\imgs\9.png' width = '24'height = '42'/></div>
+<div class = "choice">E.7.846×10<img src='file:\$$$\resources\2005 June 61D\imgs\10.png' width = '24'height = '42'/>
 </div>
 </div>
 ###################
@@ -76,7 +76,7 @@
 
 <div class = "choice">F.－18</div>
 <div class = "choice">G.－6</div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\11.png' width = '28'height = '85'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\11.png' width = '24'height = '71'/></div>
 <div class = "choice">J.4</div>
 <div class = "choice">K.10
 </div>
@@ -96,9 +96,9 @@
 
 <div class = "choice">F.5x＋1</div>
 <div class = "choice">G.5x－1</div>
-<div class = "choice">H.6x<img src='file:\$$$\resources\2005 June 61D\imgs\12.png' width = '19'height = '50'/>－6</div>
-<div class = "choice">J.6x<img src='file:\$$$\resources\2005 June 61D\imgs\13.png' width = '19'height = '50'/>－5x－6</div>
-<div class = "choice">K.6x<img src='file:\$$$\resources\2005 June 61D\imgs\14.png' width = '19'height = '50'/>＋5x－6
+<div class = "choice">H.6x<img src='file:\$$$\resources\2005 June 61D\imgs\12.png' width = '16'height = '42'/>－6</div>
+<div class = "choice">J.6x<img src='file:\$$$\resources\2005 June 61D\imgs\13.png' width = '16'height = '42'/>－5x－6</div>
+<div class = "choice">K.6x<img src='file:\$$$\resources\2005 June 61D\imgs\14.png' width = '16'height = '42'/>＋5x－6
 </div>
 </div>
 ###################
@@ -113,7 +113,7 @@
 </div>
 ###################
 <div class = "quiz">12. What is the value of h(1.5) when
-h(x)=－4x<img src='file:\$$$\resources\2005 June 61D\imgs\15.png' width = '19'height = '50'/>＋20x＋32?
+h(x)=－4x<img src='file:\$$$\resources\2005 June 61D\imgs\15.png' width = '16'height = '42'/>＋20x＋32?
 
 <div class = "choice">F.26</div>
 <div class = "choice">G.50</div>
@@ -124,7 +124,7 @@ h(x)=－4x<img src='file:\$$$\resources\2005 June 61D\imgs\15.png' width = '19'h
 </div>
 ###################
 <div class = "quiz">13. What is the area, in square inches, of △ABC below?
-<img src='file:\$$$\resources\2005 June 61D\imgs\16.png' width = '300'height = '233'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\16.png' width = '400'height = '311'/>
 
 <div class = "choice">A.10</div>
 <div class = "choice">B.12</div>
@@ -144,18 +144,18 @@ h(x)=－4x<img src='file:\$$$\resources\2005 June 61D\imgs\15.png' width = '19'h
 </div>
 </div>
 ###################
-<div class = "quiz">15. Which of the following is equivalent to<img src='file:\$$$\resources\2005 June 61D\imgs\17.png' width = '120'height = '85'/>?
+<div class = "quiz">15. Which of the following is equivalent to<img src='file:\$$$\resources\2005 June 61D\imgs\17.png' width = '100'height = '71'/>?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\18.png' width = '66'height = '85'/></div>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\18.png' width = '55'height = '71'/></div>
 <div class = "choice">B.7a</div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\19.png' width = '64'height = '85'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\20.png' width = '66'height = '85'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\21.png' width = '79'height = '85'/>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\19.png' width = '54'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\20.png' width = '55'height = '71'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\21.png' width = '66'height = '71'/>
 </div>
 </div>
 ###################
 <div class = "quiz">16. Suppose that w, y, and z each stand for a digit from 0 through 9 and
-<img src='file:\$$$\resources\2005 June 61D\imgs\22.png' width = '90'height = '143'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\22.png' width = '75'height = '119'/>
 What is the value of the product w·y·z?
 
 <div class = "choice">F.19</div>
@@ -178,7 +178,7 @@ What is the value of the product w·y·z?
 </div>
 ###################
 <div class = "quiz">18. The figure below shows a circle with a radius of 5 cm and a chord of the circle. The chord is 3 cm from the center of the circle. What is the length, in centimeters, of the chord?
-<img src='file:\$$$\resources\2005 June 61D\imgs\23.png' width = '210'height = '205'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\23.png' width = '280'height = '273'/>
 
 <div class = "choice">F.3</div>
 <div class = "choice">G.4</div>
@@ -188,7 +188,7 @@ What is the value of the product w·y·z?
 </div>
 </div>
 ###################
-<div class = "quiz">19. What is the sum of the 2 solutions of the equation<img src='file:\$$$\resources\2005 June 61D\imgs\24.png' width = '224'height = '53'/>?
+<div class = "quiz">19. What is the sum of the 2 solutions of the equation<img src='file:\$$$\resources\2005 June 61D\imgs\24.png' width = '186'height = '44'/>?
 
 <div class = "choice">A.－28</div>
 <div class = "choice">B.－7</div>
@@ -198,7 +198,7 @@ What is the value of the product w·y·z?
 </div>
 </div>
 ###################
-<div class = "quiz">20. The time, t seconds, required for a simple pendulum x feet long to make 1 complete swing can be modeled by t=<img src='file:\$$$\resources\2005 June 61D\imgs\25.png' width = '105'height = '95'/>. How many seconds are required for 1 complete swing of a simple pendulum that is 8 feet long?
+<div class = "quiz">20. The time, t seconds, required for a simple pendulum x feet long to make 1 complete swing can be modeled by t=<img src='file:\$$$\resources\2005 June 61D\imgs\25.png' width = '88'height = '80'/>. How many seconds are required for 1 complete swing of a simple pendulum that is 8 feet long?
 
 <div class = "choice">F.Less than 1</div>
 <div class = "choice">G.Between 1 and 2</div>
@@ -221,17 +221,17 @@ What is the value of the product w·y·z?
 </div>
 ###################
 <div class = "quiz">22. In the right triangle below, the side lengths given are in inches. Which of the following expressions equals the sine of ∠R?
-<img src='file:\$$$\resources\2005 June 61D\imgs\26.png' width = '278'height = '187'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\26.png' width = '371'height = '249'/>
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\27.png' width = '30'height = '85'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\28.png' width = '30'height = '93'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\29.png' width = '28'height = '85'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\30.png' width = '30'height = '93'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\31.png' width = '28'height = '85'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\27.png' width = '25'height = '71'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\28.png' width = '25'height = '77'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\29.png' width = '24'height = '71'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\30.png' width = '25'height = '77'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\31.png' width = '24'height = '71'/>
 </div>
 </div>
 ###################
-<div class = "quiz">23. A regular pentagon, <img src='file:\$$$\resources\2005 June 61D\imgs\32.png' width = '30'height = '50'/>, has a perimeter of 25 inches, while another regular pentagon, <img src='file:\$$$\resources\2005 June 61D\imgs\33.png' width = '36'height = '50'/>, has a perimeter that is 15 inches greater than the perimeter of<img src='file:\$$$\resources\2005 June 61D\imgs\34.png' width = '30'height = '50'/>. The length of each side of <img src='file:\$$$\resources\2005 June 61D\imgs\35.png' width = '36'height = '50'/> exceeds the length of each side of <img src='file:\$$$\resources\2005 June 61D\imgs\36.png' width = '30'height = '50'/> by how many inches?
+<div class = "quiz">23. A regular pentagon, <img src='file:\$$$\resources\2005 June 61D\imgs\32.png' width = '25'height = '42'/>, has a perimeter of 25 inches, while another regular pentagon, <img src='file:\$$$\resources\2005 June 61D\imgs\33.png' width = '30'height = '42'/>, has a perimeter that is 15 inches greater than the perimeter of<img src='file:\$$$\resources\2005 June 61D\imgs\34.png' width = '25'height = '42'/>. The length of each side of <img src='file:\$$$\resources\2005 June 61D\imgs\35.png' width = '30'height = '42'/> exceeds the length of each side of <img src='file:\$$$\resources\2005 June 61D\imgs\36.png' width = '25'height = '42'/> by how many inches?
 
 <div class = "choice">A.3</div>
 <div class = "choice">B.5</div>
@@ -263,26 +263,26 @@ What is the value of the product w·y·z?
 ###################
 <div class = "quiz">26. What is the fourth term in the geometric sequence 36, －12, 4, …?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\37.png' width = '53'height = '85'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\37.png' width = '44'height = '71'/></div>
 <div class = "choice">G.－1</div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\38.png' width = '53'height = '85'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\39.png' width = '28'height = '85'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\40.png' width = '28'height = '85'/>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\38.png' width = '44'height = '71'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\39.png' width = '24'height = '71'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\40.png' width = '24'height = '71'/>
 </div>
 </div>
 ###################
-<div class = "quiz">27. <img src='file:\$$$\resources\2005 June 61D\imgs\41.png' width = '156'height = '58'/>is equivalent to:
+<div class = "quiz">27. <img src='file:\$$$\resources\2005 June 61D\imgs\41.png' width = '130'height = '48'/>is equivalent to:
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\42.png' width = '44'height = '53'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\43.png' width = '44'height = '53'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\44.png' width = '45'height = '53'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\45.png' width = '45'height = '53'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\46.png' width = '45'height = '53'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\42.png' width = '36'height = '44'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\43.png' width = '36'height = '44'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\44.png' width = '38'height = '44'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\45.png' width = '38'height = '44'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\46.png' width = '38'height = '44'/>
 </div>
 </div>
 ###################
 <div class = "quiz">28. Joe wants to put a border all the way around his bedroom walls 1 inch below the ceiling, as shown below. The border is sold only in whole rolls, and each roll is 5 yards long. Joe’s bedroom is rectangular, 12 feet wide and 14 feet long. What is the minimum number of rolls of border Joe must buy?
-<img src='file:\$$$\resources\2005 June 61D\imgs\47.png' width = '327'height = '233'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\47.png' width = '436'height = '311'/>
 
 <div class = "choice">F.2</div>
 <div class = "choice">G.3</div>
@@ -293,7 +293,7 @@ What is the value of the product w·y·z?
 </div>
 ###################
 <div class = "quiz">29. What is the area, in square coordinate units, of the parallelogram with vertices as shown in the standard (x, y) coordinate plane below?
-<img src='file:\$$$\resources\2005 June 61D\imgs\48.png' width = '436'height = '267'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\48.png' width = '581'height = '356'/>
 
 <div class = "choice">A.16</div>
 <div class = "choice">B.18</div>
@@ -305,12 +305,12 @@ What is the value of the product w·y·z?
 ###################
 <div class = "quiz">30. Suppose that the measure of the larger of 2 supplementary angles is 5 times the measure of the smaller angle. What is the measure of the larger angle?
 (Note: In the figure below, ∠ABD and ∠DBC are supplementary. The sum of their measures is 180°.)
-<img src='file:\$$$\resources\2005 June 61D\imgs\49.png' width = '345'height = '157'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\49.png' width = '460'height = '209'/>
 
 <div class = "choice">F.30°</div>
 <div class = "choice">G.36°</div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\50.png' width = '64'height = '85'/>°</div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\51.png' width = '64'height = '85'/>°</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\50.png' width = '54'height = '71'/>°</div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\51.png' width = '54'height = '71'/>°</div>
 <div class = "choice">K.150°
 </div>
 </div>
@@ -319,9 +319,9 @@ What is the value of the product w·y·z?
 
 <div class = "choice">A.－3</div>
 <div class = "choice">B.3</div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\52.png' width = '53'height = '85'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\53.png' width = '53'height = '85'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\54.png' width = '28'height = '85'/>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\52.png' width = '44'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\53.png' width = '44'height = '71'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\54.png' width = '24'height = '71'/>
 </div>
 </div>
 ###################
@@ -338,14 +338,14 @@ What is the value of the product w·y·z?
 <div class = "quiz">33. A line in the standard (x, y) coordinate plane passes through the origin and the point (－12, 6). An equation of this line is:
 
 <div class = "choice">A.y=－x－6</div>
-<div class = "choice">B.y=<img src='file:\$$$\resources\2005 June 61D\imgs\55.png' width = '75'height = '85'/></div>
-<div class = "choice">C.y=<img src='file:\$$$\resources\2005 June 61D\imgs\56.png' width = '51'height = '85'/></div>
+<div class = "choice">B.y=<img src='file:\$$$\resources\2005 June 61D\imgs\55.png' width = '63'height = '71'/></div>
+<div class = "choice">C.y=<img src='file:\$$$\resources\2005 June 61D\imgs\56.png' width = '42'height = '71'/></div>
 <div class = "choice">D.y=x＋18</div>
 <div class = "choice">E.y=2x
 </div>
 </div>
 ###################
-<div class = "quiz">34. Which of the following lists the real values of x that make the expression <img src='file:\$$$\resources\2005 June 61D\imgs\57.png' width = '158'height = '93'/> undefined?
+<div class = "quiz">34. Which of the following lists the real values of x that make the expression <img src='file:\$$$\resources\2005 June 61D\imgs\57.png' width = '132'height = '77'/> undefined?
 
 <div class = "choice">F.0 only</div>
 <div class = "choice">G.3 only</div>
@@ -367,10 +367,10 @@ What is the value of the product w·y·z?
 ###################
 <div class = "quiz">36. What is the distance, in coordinate units, between the points (－4, 8) and (2, 2) in the standard (x, y) coordinate plane?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\58.png' width = '66'height = '50'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\59.png' width = '64'height = '50'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\60.png' width = '79'height = '50'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\61.png' width = '79'height = '50'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\58.png' width = '55'height = '42'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\59.png' width = '54'height = '42'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\60.png' width = '66'height = '42'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\61.png' width = '66'height = '42'/></div>
 <div class = "choice">K.12
 </div>
 </div>
@@ -385,7 +385,7 @@ What is the value of the product w·y·z?
 </div>
 </div>
 ###################
-<div class = "quiz">38. Which of the following ratios is equivalent to the ratio of 2<img src='file:\$$$\resources\2005 June 61D\imgs\62.png' width = '19'height = '50'/> to 4<img src='file:\$$$\resources\2005 June 61D\imgs\63.png' width = '19'height = '50'/>?
+<div class = "quiz">38. Which of the following ratios is equivalent to the ratio of 2<img src='file:\$$$\resources\2005 June 61D\imgs\62.png' width = '16'height = '42'/> to 4<img src='file:\$$$\resources\2005 June 61D\imgs\63.png' width = '16'height = '42'/>?
 
 <div class = "choice">F.1 to 2</div>
 <div class = "choice">G.1 to 4</div>
@@ -400,13 +400,13 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 ###################
 <div class = "quiz">39. The solution of which of the following inequalities would tell Richard the minimum score (represented by x) he needs to earn on Quiz #4 in order to have a quiz average of at least 90?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\64.png' width = '289'height = '85'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\65.png' width = '308'height = '85'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\64.png' width = '241'height = '71'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\65.png' width = '257'height = '71'/>
 </div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\66.png' width = '289'height = '85'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\67.png' width = '289'height = '85'/>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\66.png' width = '241'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\67.png' width = '241'height = '71'/>
 </div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\68.png' width = '293'height = '123'/>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\68.png' width = '244'height = '102'/>
 </div>
 </div>
 ###################
@@ -440,50 +440,50 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 </div>
 </div>
 ###################
-<div class = "quiz">43. Which of the following gives the fractions<img src='file:\$$$\resources\2005 June 61D\imgs\69.png' width = '53'height = '85'/>, <img src='file:\$$$\resources\2005 June 61D\imgs\70.png' width = '53'height = '85'/>, and <img src='file:\$$$\resources\2005 June 61D\imgs\71.png' width = '53'height = '85'/> in order from least to greatest?
+<div class = "quiz">43. Which of the following gives the fractions<img src='file:\$$$\resources\2005 June 61D\imgs\69.png' width = '44'height = '71'/>, <img src='file:\$$$\resources\2005 June 61D\imgs\70.png' width = '44'height = '71'/>, and <img src='file:\$$$\resources\2005 June 61D\imgs\71.png' width = '44'height = '71'/> in order from least to greatest?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\72.png' width = '214'height = '85'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\73.png' width = '214'height = '85'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\74.png' width = '214'height = '85'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\72.png' width = '178'height = '71'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\73.png' width = '178'height = '71'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\74.png' width = '178'height = '71'/>
 </div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\75.png' width = '214'height = '85'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\76.png' width = '214'height = '85'/>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\75.png' width = '178'height = '71'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\76.png' width = '178'height = '71'/>
 </div>
 </div>
 ###################
 <div class = "quiz">44. What is the midpoint of the line segment with endpoints (3, 6) and (10, －24) in the standard (x, y) coordinate plane?
 
-<div class = "choice">F.(<img src='file:\$$$\resources\2005 June 61D\imgs\77.png' width = '53'height = '85'/>, 15)</div>
-<div class = "choice">G.(<img src='file:\$$$\resources\2005 June 61D\imgs\78.png' width = '28'height = '85'/>, －15)</div>
+<div class = "choice">F.(<img src='file:\$$$\resources\2005 June 61D\imgs\77.png' width = '44'height = '71'/>, 15)</div>
+<div class = "choice">G.(<img src='file:\$$$\resources\2005 June 61D\imgs\78.png' width = '24'height = '71'/>, －15)</div>
 <div class = "choice">H.(5, －12)</div>
-<div class = "choice">J.(<img src='file:\$$$\resources\2005 June 61D\imgs\79.png' width = '42'height = '85'/>, －9)</div>
+<div class = "choice">J.(<img src='file:\$$$\resources\2005 June 61D\imgs\79.png' width = '35'height = '71'/>, －9)</div>
 <div class = "choice">K.(13, －18)
 </div>
 </div>
 ###################
 <div class = "quiz">45. A circle in the standard (x, y) coordinate plane has center (3, 8) and is tangent to the x-axis. The point (x, y) is on the circle if and only if x and y satisfy which of the following equations?
 
-<div class = "choice">A.(x－3)<img src='file:\$$$\resources\2005 June 61D\imgs\80.png' width = '19'height = '50'/>＋(y－8)<img src='file:\$$$\resources\2005 June 61D\imgs\81.png' width = '19'height = '50'/> =64</div>
-<div class = "choice">B.(x－3)<img src='file:\$$$\resources\2005 June 61D\imgs\82.png' width = '19'height = '50'/>＋(y－8)<img src='file:\$$$\resources\2005 June 61D\imgs\83.png' width = '19'height = '50'/> =9</div>
-<div class = "choice">C.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\84.png' width = '19'height = '50'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\85.png' width = '19'height = '50'/> =64
+<div class = "choice">A.(x－3)<img src='file:\$$$\resources\2005 June 61D\imgs\80.png' width = '16'height = '42'/>＋(y－8)<img src='file:\$$$\resources\2005 June 61D\imgs\81.png' width = '16'height = '42'/> =64</div>
+<div class = "choice">B.(x－3)<img src='file:\$$$\resources\2005 June 61D\imgs\82.png' width = '16'height = '42'/>＋(y－8)<img src='file:\$$$\resources\2005 June 61D\imgs\83.png' width = '16'height = '42'/> =9</div>
+<div class = "choice">C.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\84.png' width = '16'height = '42'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\85.png' width = '16'height = '42'/> =64
 </div>
-<div class = "choice">D.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\86.png' width = '19'height = '50'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\87.png' width = '19'height = '50'/> =9</div>
-<div class = "choice">E.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\88.png' width = '19'height = '50'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\89.png' width = '19'height = '50'/> =8
+<div class = "choice">D.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\86.png' width = '16'height = '42'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\87.png' width = '16'height = '42'/> =9</div>
+<div class = "choice">E.(x＋3)<img src='file:\$$$\resources\2005 June 61D\imgs\88.png' width = '16'height = '42'/>＋(y＋8)<img src='file:\$$$\resources\2005 June 61D\imgs\89.png' width = '16'height = '42'/> =8
 </div>
 </div>
 ###################
 <div class = "quiz">46. The circle in the figure below has a radius of 8 centimeters. What is the length, in centimeters, of the arc that is intercepted by a central angle of 60°?
-<img src='file:\$$$\resources\2005 June 61D\imgs\90.png' width = '188'height = '171'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\90.png' width = '251'height = '228'/>
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\91.png' width = '51'height = '85'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\92.png' width = '49'height = '85'/></div>
-<div class = "choice">H.4<img src='file:\$$$\resources\2005 June 61D\imgs\93.png' width = '28'height = '29'/></div>
-<div class = "choice">J.8<img src='file:\$$$\resources\2005 June 61D\imgs\94.png' width = '28'height = '29'/></div>
-<div class = "choice">K.10<img src='file:\$$$\resources\2005 June 61D\imgs\95.png' width = '28'height = '29'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\91.png' width = '42'height = '71'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\92.png' width = '41'height = '71'/></div>
+<div class = "choice">H.4<img src='file:\$$$\resources\2005 June 61D\imgs\93.png' width = '24'height = '24'/></div>
+<div class = "choice">J.8<img src='file:\$$$\resources\2005 June 61D\imgs\94.png' width = '24'height = '24'/></div>
+<div class = "choice">K.10<img src='file:\$$$\resources\2005 June 61D\imgs\95.png' width = '24'height = '24'/>
 </div>
 </div>
 ###################
-<div class = "quiz">47. If <img src='file:\$$$\resources\2005 June 61D\imgs\96.png' width = '177'height = '53'/> and y=6, then what is the real number value of x?
+<div class = "quiz">47. If <img src='file:\$$$\resources\2005 June 61D\imgs\96.png' width = '147'height = '44'/> and y=6, then what is the real number value of x?
 
 <div class = "choice">A.－3</div>
 <div class = "choice">B.－2</div>
@@ -493,25 +493,25 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 </div>
 </div>
 ###################
-<div class = "quiz">48. The diagram below show a quarter of each of 2 circles both having point C as their center. Point B lies on <img src='file:\$$$\resources\2005 June 61D\imgs\97.png' width = '57'height = '45'/> and point D lies on<img src='file:\$$$\resources\2005 June 61D\imgs\98.png' width = '49'height = '45'/>. The length of <img src='file:\$$$\resources\2005 June 61D\imgs\99.png' width = '53'height = '45'/> is 5 inches and the length of <img src='file:\$$$\resources\2005 June 61D\imgs\100.png' width = '53'height = '43'/> is 3 inches. What is the area, in square inches, of the shaded portion?
-<img src='file:\$$$\resources\2005 June 61D\imgs\101.png' width = '165'height = '164'/>
+<div class = "quiz">48. The diagram below show a quarter of each of 2 circles both having point C as their center. Point B lies on <img src='file:\$$$\resources\2005 June 61D\imgs\97.png' width = '47'height = '38'/> and point D lies on<img src='file:\$$$\resources\2005 June 61D\imgs\98.png' width = '41'height = '38'/>. The length of <img src='file:\$$$\resources\2005 June 61D\imgs\99.png' width = '44'height = '38'/> is 5 inches and the length of <img src='file:\$$$\resources\2005 June 61D\imgs\100.png' width = '44'height = '36'/> is 3 inches. What is the area, in square inches, of the shaded portion?
+<img src='file:\$$$\resources\2005 June 61D\imgs\101.png' width = '220'height = '219'/>
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\102.png' width = '45'height = '35'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\103.png' width = '68'height = '85'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\104.png' width = '68'height = '85'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\105.png' width = '68'height = '85'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\106.png' width = '58'height = '35'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\102.png' width = '38'height = '29'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\103.png' width = '56'height = '71'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\104.png' width = '56'height = '71'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\105.png' width = '56'height = '71'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\106.png' width = '49'height = '29'/>
 </div>
 </div>
 ###################
 <div class = "quiz">49. From a blimp 1,130 feet above the ground, the angle of depression to a marker on the ground is 52°, as shown in the figure below. Which of the following expressions gives the distance along the ground, in feet, from the marker to point P directly below the blimp?
-<img src='file:\$$$\resources\2005 June 61D\imgs\107.png' width = '203'height = '212'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\107.png' width = '270'height = '282'/>
 
 <div class = "choice">A.1,130 tan 38°</div>
 <div class = "choice">B.1,130 sin 38°</div>
 <div class = "choice">C.1,130 cos 38°</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\108.png' width = '105'height = '95'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\109.png' width = '109'height = '95'/>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\108.png' width = '88'height = '80'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 June 61D\imgs\109.png' width = '91'height = '80'/>
 </div>
 </div>
 ###################
@@ -521,16 +521,16 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 <div class = "choice">G.n=0</div>
 <div class = "choice">H.n=－n</div>
 <div class = "choice">J.n>|－n|</div>
-<div class = "choice">K.n><img src='file:\$$$\resources\2005 June 61D\imgs\110.png' width = '51'height = '50'/>
+<div class = "choice">K.n><img src='file:\$$$\resources\2005 June 61D\imgs\110.png' width = '42'height = '42'/>
 </div>
 </div>
 ###################
-<div class = "quiz">51. For all figure in which point O is the intersection of <img src='file:\$$$\resources\2005 June 61D\imgs\111.png' width = '57'height = '43'/> and<img src='file:\$$$\resources\2005 June 61D\imgs\112.png' width = '53'height = '45'/>, and m∠CDO>m∠BAD (the measure of ∠CDO is greater than the measure of ∠BAD), such as the figure shown below, which of the following statements is always FALSE?
-<img src='file:\$$$\resources\2005 June 61D\imgs\113.png' width = '233'height = '182'/>
+<div class = "quiz">51. For all figure in which point O is the intersection of <img src='file:\$$$\resources\2005 June 61D\imgs\111.png' width = '47'height = '36'/> and<img src='file:\$$$\resources\2005 June 61D\imgs\112.png' width = '44'height = '38'/>, and m∠CDO>m∠BAD (the measure of ∠CDO is greater than the measure of ∠BAD), such as the figure shown below, which of the following statements is always FALSE?
+<img src='file:\$$$\resources\2005 June 61D\imgs\113.png' width = '311'height = '242'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\114.png' width = '124'height = '50'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\115.png' width = '136'height = '45'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\116.png' width = '139'height = '45'/></div>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 June 61D\imgs\114.png' width = '104'height = '42'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 June 61D\imgs\115.png' width = '113'height = '38'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 June 61D\imgs\116.png' width = '116'height = '38'/></div>
 <div class = "choice">D.m∠BCD>m∠BAD</div>
 <div class = "choice">E.∠AOB≌∠COD
 </div>
@@ -557,7 +557,7 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 </div>
 ###################
 <div class = "quiz">54. The radius of a right circular cone is doubled and its height is tripled to form a new right circular cone. What is the ratio of the volume of the original cone to the volume of the new cone?
-(Note: <img src='file:\$$$\resources\2005 June 61D\imgs\117.png' width = '201'height = '85'/>for radius r and height h.)
+(Note: <img src='file:\$$$\resources\2005 June 61D\imgs\117.png' width = '168'height = '71'/>for radius r and height h.)
 
 <div class = "choice">F.1:6</div>
 <div class = "choice">G.1:12</div>
@@ -567,7 +567,7 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 </div>
 </div>
 ###################
-<div class = "quiz">55. Two integer values of x solve the equation<img src='file:\$$$\resources\2005 June 61D\imgs\118.png' width = '147'height = '53'/>. One of these is positive, and the other is negative. Which of the following could be the value of b?
+<div class = "quiz">55. Two integer values of x solve the equation<img src='file:\$$$\resources\2005 June 61D\imgs\118.png' width = '122'height = '44'/>. One of these is positive, and the other is negative. Which of the following could be the value of b?
 
 <div class = "choice">A.－20</div>
 <div class = "choice">B.－1</div>
@@ -591,36 +591,36 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 
 <div class = "choice">A.6abc</div>
 <div class = "choice">B.4ab＋2bc</div>
-<div class = "choice">C.(a＋b＋c)<img src='file:\$$$\resources\2005 June 61D\imgs\119.png' width = '19'height = '50'/></div>
+<div class = "choice">C.(a＋b＋c)<img src='file:\$$$\resources\2005 June 61D\imgs\119.png' width = '16'height = '42'/></div>
 <div class = "choice">D.2a＋2b＋2c</div>
 <div class = "choice">E.2(ab＋ac＋bc)
 </div>
 </div>
 ###################
-<div class = "quiz">58. The quadrants of the standard (x, y) coordinate plane are shown in the figure below. Given that the vertex of ∠<img src='file:\$$$\resources\2005 June 61D\imgs\120.png' width = '28'height = '30'/>is the origin, the positive x-axis is one side of ∠<img src='file:\$$$\resources\2005 June 61D\imgs\121.png' width = '28'height = '30'/>, its other side lies in Quadrant Ⅱ, and sin<img src='file:\$$$\resources\2005 June 61D\imgs\122.png' width = '109'height = '93'/>, what is cos 2<img src='file:\$$$\resources\2005 June 61D\imgs\123.png' width = '28'height = '30'/>?
-<img src='file:\$$$\resources\2005 June 61D\imgs\124.png' width = '436'height = '265'/>
+<div class = "quiz">58. The quadrants of the standard (x, y) coordinate plane are shown in the figure below. Given that the vertex of ∠<img src='file:\$$$\resources\2005 June 61D\imgs\120.png' width = '24'height = '25'/>is the origin, the positive x-axis is one side of ∠<img src='file:\$$$\resources\2005 June 61D\imgs\121.png' width = '24'height = '25'/>, its other side lies in Quadrant Ⅱ, and sin<img src='file:\$$$\resources\2005 June 61D\imgs\122.png' width = '91'height = '77'/>, what is cos 2<img src='file:\$$$\resources\2005 June 61D\imgs\123.png' width = '24'height = '25'/>?
+<img src='file:\$$$\resources\2005 June 61D\imgs\124.png' width = '581'height = '353'/>
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\125.png' width = '75'height = '93'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\126.png' width = '53'height = '85'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\127.png' width = '28'height = '85'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\128.png' width = '28'height = '85'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\129.png' width = '51'height = '93'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 June 61D\imgs\125.png' width = '63'height = '77'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 June 61D\imgs\126.png' width = '44'height = '71'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 June 61D\imgs\127.png' width = '24'height = '71'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 June 61D\imgs\128.png' width = '24'height = '71'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 June 61D\imgs\129.png' width = '42'height = '77'/>
 </div>
 </div>
 ###################
-<div class = "quiz">59. For a specific nonzero value of b, the graph of y=sin bx in the standard (x, y) coordinate plane intersects the x-axis at k values of x in the interval 0≤x＜2<img src='file:\$$$\resources\2005 June 61D\imgs\130.png' width = '28'height = '29'/>. At how many valnes of x in this interval does the graph of y=2 sin bx intersect the x-axis?
+<div class = "quiz">59. For a specific nonzero value of b, the graph of y=sin bx in the standard (x, y) coordinate plane intersects the x-axis at k values of x in the interval 0≤x＜2<img src='file:\$$$\resources\2005 June 61D\imgs\130.png' width = '24'height = '24'/>. At how many valnes of x in this interval does the graph of y=2 sin bx intersect the x-axis?
 
 <div class = "choice">A.k</div>
 <div class = "choice">B.k－2</div>
 <div class = "choice">C.k＋2</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\131.png' width = '34'height = '85'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 June 61D\imgs\131.png' width = '28'height = '71'/></div>
 <div class = "choice">E.2k
 </div>
 </div>
 ###################
 <div class = "quiz">60. In the standard (x, y) coordinate plane below, the coordinates of D are (d, k), and the coordinates of E are (e, k). When D is rotated 180° about E, the result is 
 <div class = "choice">F.In terms of d, e, and k, what are the coordinates of F?
-<img src='file:\$$$\resources\2005 June 61D\imgs\132.png' width = '390'height = '210'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\132.png' width = '520'height = '280'/>
 </div>
 <div class = "choice">F.(e＋d, 2k)</div>
 <div class = "choice">G.(e－d, 0)</div>
@@ -629,4 +629,5 @@ Ms. Martin uses a computer program to produce periodic progress reports for the 
 <div class = "choice">K.(2d－e, k)
 
 </div></div>
+
 ###################
