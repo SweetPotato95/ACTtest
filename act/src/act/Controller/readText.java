@@ -88,8 +88,9 @@ public class readText {
 	}
 	public static String readPassage(String filename){
 		String passage = "";
-		String path = System.getProperty("java.class.path");
-		path = path.substring(0,path.length()-4);
+		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
+//		System.out.println(path);
+		path = path.substring(0,path.length()-1);
 		//File file = new File(filename);
 		BufferedReader reader = null;
 		try{
@@ -149,8 +150,9 @@ public class readText {
 		ArrayList<choice> result = new ArrayList<choice>();
 		choice tmpresult = new choice(type);
 		BufferedReader reader = null;
-		String path = System.getProperty("java.class.path");
-		path = path.substring(0,path.length()-4);
+		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
+//		System.out.println(path);
+		path = path.substring(0,path.length()-1);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
