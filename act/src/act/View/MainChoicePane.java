@@ -4,8 +4,6 @@ import javax.swing.*;
 import javax.swing.text.html.HTMLDocument;
 
 import act.Controller.MainController;
-import act.Controller.math;
-import act.Controller.reading;
 import act.Model.*;
 import java.awt.*;
 

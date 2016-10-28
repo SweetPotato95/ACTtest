@@ -56,7 +56,7 @@ public class MainActivity extends JFrame{
 		readingBrain.updateReading(testIndex, 0, 0);
 		
 		mainView.setMathBrain(mathBrain);
-//		mathBrain.updateMath(testIndex);
+		mathBrain.updateMath(testIndex);
 		mainView.init();
 	
 		this.remove(menuView);
