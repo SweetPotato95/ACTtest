@@ -1,7 +1,5 @@
 package act.Model;
 
-import act.Controller.readText;
-
 public class AnswerModel{
 	private static int[] ans = new int[ModelConstants.QUESTIONNUM_TOTAL+1];
 	private static int[] correct_ans = new int[ModelConstants.QUESTIONNUM_TOTAL+1];

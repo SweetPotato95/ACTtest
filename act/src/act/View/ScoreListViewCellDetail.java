@@ -14,7 +14,7 @@ public class ScoreListViewCellDetail extends JDialog{
 	 * 
 	 */
 	private static final long serialVersionUID = -6275845889135880243L;
-String[] colunmNames = {"QuestionId","CorrectAnswer","YourAnswer","Score"};
+String[] colunmNames = {"QuestionId","YourAnswer","CorrectAnswer","Score"};
  public Object[][] values = { 
             {"1","A","A","1"}, 
             {"2","B","B","1"}, 

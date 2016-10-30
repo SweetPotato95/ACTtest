@@ -91,6 +91,7 @@ public class MenuView extends JPanel{
 		mainActivity = m;
 	}
 	public void enterTest(int i){
+		System.out.println(i);
 		mainActivity.initMainView(i);
 	}
 }

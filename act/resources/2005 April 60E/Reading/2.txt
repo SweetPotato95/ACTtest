@@ -1,4 +1,4 @@
-<h1>Passage II</h1>
+﻿<h1>Passage II</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from Michael J.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sandel’s article "America’s Search for a New Public Philosophy." (©1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, 5 for to do so would be to "legislate morality." Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
@@ -71,7 +71,8 @@
 <div class = "choice">D.with a neutral framework of rights.</div>
 </div>
 ###################
-<div class = "quiz">20. The author of the passage claims that the liberal vision of freedom cannot provide liberty because that vision:F: gives citizens too many choices to consider.   
+<div class = "quiz">20. The author of the passage claims that the liberal vision of freedom cannot provide liberty because that vision:
+<div class = "choice">F.gives citizens too many choices to consider.</div>
 <div class = "choice">G.does not teach citizens to care about community.</div>
 <div class = "choice">H.inspires moral neutrality, which is antigovernment.</div>
 <div class = "choice">J.depends too heavily on the concept of legislating morality.</div>

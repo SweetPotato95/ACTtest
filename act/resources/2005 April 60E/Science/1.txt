@@ -1,69 +1,82 @@
-<h1>Passage I</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '118'height = '99'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '177'height = '149'/></div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist l</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sail helped regulate body temperature. Dimetrodon needed to warm its body to the activity temperature, the temperature at which it was active enough to hunt. This could be achieved most rapidly by turning the broad side of the sail toward the morning sun. A mathematical model shows that a reptile with a sail would reach the activity temperature 3 times faster than a reptile without a sail. Rapid warming gave Dimetrodon a distinct advantage catching cold-blood.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Grooves on the sail's spines held 1arge blood vessels.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Regulating the blood flow through these vessels during the heat of the day allowed the reptile to radiate heat away from its body and prevent overheating.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four other cold-blooded reptile species from this same time and climate also had bony projections or sails on their back. Today, elephants regulate their body temperature by flapping their large ears.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sail was used for display. First, the sail made the reptile appear larger, thereby discouraging attacks from predators. Second, sails were smaller in female Dimetrodons than in males, indicating the sails were used by the males for attracting mates. Modern lizards change their skin color and pattern to attract a mate. Similarly, Dimetrodons controlled the appearance of the skin on the sail by regulating the blood supply to the sail.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sphenacodon is a cold-blooded reptile that lived at the same time and in the same climate as Dimetrodon. Sphenacodon is a close relative of Dimetrodon and is identical in all details of its anatomy, except that it did not have a sail or any other projections on its back. If sails were needed for temperature regulation, Sphenacodon would have had one also.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mathematical calculations show that as a Dimetrodon sail absorbed heat on the side facing the sun, it may have lost nearly as much beat from the side facing away from the sun.</div>
+
+<br>
 ###################
 <div class = "quiz">1. According to the mathematical calculations mentioned by Scientist 2, a Dimetrodon that turned its sail toward the morning sun would experience:
-
-<div class = "choice">A.rapid overheating and death.</div>
-<div class = "choice">B.little or no increase in body temperature.</div>
-<div class = "choice">C.an increase in the length of the sail spines.</div>
-<div class = "choice">D.a decrease in the blood supply to the sail.</div>
+<div class = "choice">A. rapid overheating and death.</div>
+<div class = "choice">B. little or no increase in body temperature.</div>
+<div class = "choice">C. an increase in the length of the sail spines.</div>
+<div class = "choice">D. a decrease in the blood supply to the sail.</div>
 </div>
 ###################
-<div class = "quiz">2. If Scientist l is correct, exposing its sail to a strong wind would have which of the following effects on a Dimetrodon’s body temperature? Exposing its sail to a wind at a temperature less than the body temperature of Dimetrodon would:
-
-<div class = "choice">F.warm the sail and lower the body temperature.</div>
-<div class = "choice">G.warm the sail and raise the body temperature.</div>
-<div class = "choice">H.remove heat from the sail and lower the body temperature.</div>
-<div class = "choice">J.remove heat from the sail and raise the body temperature.</div>
+<div class = "quiz">2. If Scientist l is correct, exposing its sail to a strong wind would have which of the following effects on a Dimetrodon's body temperature? Exposing its sail to a wind at a temperature less than the body temperature of Dimetrodon would:
+<div class = "choice">F. warm the sail and lower the body temperature.</div>
+<div class = "choice">G. warm the sail and raise the body temperature.</div>
+<div class = "choice">H. remove heat from the sail and lower the body temperature.</div>
+<div class = "choice">J. remove heat from the sail and raise the body temperature.</div>
 </div>
 ###################
 <div class = "quiz">3. According to Scientist 2, male Dimetrodons would control the blood supply to their sails in order to:
-
-<div class = "choice">A.increase or decrease the spines’ width.</div>
-<div class = "choice">B.reduce their body temperature.</div>
-<div class = "choice">C.change the sails’ color or pattern.</div>
-<div class = "choice">D.raise or lower their sails.</div>
+<div class = "choice">A. increase or decrease the spines' width.</div>
+<div class = "choice">B. reduce their body temperature.</div>
+<div class = "choice">C. change the sails' color or pattern.</div>
+<div class = "choice">D. raise or lower their sails.</div>
 </div>
 ###################
 <div class = "quiz">4. Both scientists would most the following statements modern animals?
-
-<div class = "choice">F.There are similarities between Dimetrodons and some modern animals.</div>
-<div class = "choice">G.There are no similarities between Dimetrodons and any modern animals.</div>
-<div class = "choice">H.There are no modern animals that are direct or indirect descendants of Dimetrodons.</div>
-<div class = "choice">J.There are many modern animals that look exactly like Dimetrodons.</div>
+<div class = "choice">F. There are similarities between Dimetrodons and some modern animals.</div>
+<div class = "choice">G. There are no similarities between Dimetrodons and any modern animals.</div>
+<div class = "choice">H. There are no modern animals that are direct or indirect descendants of Dimetrodons.</div>
+<div class = "choice">J. There are many modern animals that look exactly like Dimetrodons.</div>
 </div>
 ###################
 <div class = "quiz">5. According to Scientist l, a cold-blooded, carnivorous reptile without a sail would have compared to a Dimetrodon of the same size in which of the following Ways? This reptile without a sail would have:
-
-<div class = "choice">A.reached the activity temperature more slowly than did Dimetrodon.</div>
-<div class = "choice">B.reached the activity temperature more quickly than did Dimetrodon.</div>
-<div class = "choice">C.been much easier to see than was Dimetrodon.</div>
-<div class = "choice">D.been less easily preyed upon than was Dimerrodon.</div>
+<div class = "choice">A. reached the activity temperature more slowly than did Dimetrodon.</div>
+<div class = "choice">B. reached the activity temperature more quickly than did Dimetrodon.</div>
+<div class = "choice">C. been much easier to see than was Dimetrodon.</div>
+<div class = "choice">D. been less easily preyed upon than was Dimerrodon.</div>
 </div>
 ###################
 <div class = "quiz">6. Both scientists would most likely agree with which of the following statements about Dimetrodons and their sails? Dimetrodons were able to:
-
-<div class = "choice">F.raise and lower their sails at will.</div>
-<div class = "choice">G.shed and regrow their sails periodically.</div>
-<div class = "choice">H.control the blood supply to their sails.</div>
-<div class = "choice">J.regulate body temperature without their sails.</div>
+<div class = "choice">F. raise and lower their sails at will.</div>
+<div class = "choice">G. shed and regrow their sails periodically.</div>
+<div class = "choice">H. control the blood supply to their sails.</div>
+<div class = "choice">J. regulate body temperature without their sails.</div>
 </div>
 ###################
-<div class = "quiz">7. Based on the information in Scientist 1’s viewpoint, which of the following figures best represents how a Dimetrodon would orient its sail with respect to the sun in order to minimize heating during late afternoon?
-
-<div class = "choice">A.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\220.png' width = '66'height = '100'/></div>
-<div class = "choice">B.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '68'height = '110'/></div>
-<div class = "choice">C.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\222.png' width = '118'height = '84'/></div>
-<div class = "choice">D.direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '93'height = '106'/></div></div>
-
+<div class = "quiz">7. Based on the information in Scientist 1's viewpoint, which of the following figures best represents how a Dimetrodon would orient its sail with respect to the sun in order to minimize heating during late afternoon?
+<div class = "choice">A. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\220.png' width = '66'height = '100'/></div>
+<div class = "choice">B. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '68'height = '110'/></div>
+<div class = "choice">C. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\222.png' width = '118'height = '84'/></div>
+<div class = "choice">D. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '93'height = '106'/></div>
+</div>
 ###################
