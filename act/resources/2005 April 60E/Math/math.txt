@@ -1,93 +1,76 @@
+﻿
 ###################
-<div class = "quiz">1. What is the value of the expression (x - 2y)(x + 2y) when x = 4 and y =<img src='file:\$$$\resources\2005 April 60E\imgs\0.png' width = '24'height = '65'/>?
-
-<div class = "choice">A.8</div>
-<div class = "choice">B.9</div>
-<div class = "choice">C.14</div>
-<div class = "choice">D.15</div>
-<div class = "choice">E.25
-</div>
+<div class = "quiz">1. What is the value of the expression (x - 2y)(x + 2y) when x = 4 and y = 1/2?
+<div class = "choice">A. 8</div>
+<div class = "choice">B. 9</div>
+<div class = "choice">C. 14</div>
+<div class = "choice">D. 15</div>
+<div class = "choice">E. 25</div>
 </div>
 ###################
-<div class = "quiz">2. Tyrone wants to score 80% or better on today’s 40-point biology test. What is the least number of points that Tyrone must score to achieve 80%?
-
-<div class = "choice">F.4</div>
-<div class = "choice">G.8</div>
-<div class = "choice">H.20</div>
-<div class = "choice">J.32</div>
-<div class = "choice">K.36
-</div>
+<div class = "quiz">2. Tyrone wants to score 80% or better on today's 40-point biology test. What is the least number of points that Tyrone must score to achieve 80%?
+<div class = "choice">F. 4</div>
+<div class = "choice">G. 8</div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 32</div>
+<div class = "choice">K. 36</div>
 </div>
 ###################
 <div class = "quiz">3. (2x - 3)(3x - 4) is equivalent to:
-
 <div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\1.png' width = '28'height = '34'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\2.png' width = '135'height = '34'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\3.png' width = '86'height = '34'/></div>
 <div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\4.png' width = '144'height = '34'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\5.png' width = '86'height = '34'/>
-</div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\5.png' width = '86'height = '34'/></div>
 </div>
 ###################
-<div class = "quiz">4. The probability that an event happens is<img src='file:\$$$\resources\2005 April 60E\imgs\6.png' width = '24'height = '65'/>. What is the probability that the event does NOT happen?
-
-<div class = "choice">F.0</div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\7.png' width = '22'height = '65'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\8.png' width = '24'height = '65'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\9.png' width = '24'height = '65'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\10.png' width = '24'height = '65'/>
-</div>
+<div class = "quiz">4. The probability that an event happens is 2/9. What is the probability that the event does NOT happen?
+<div class = "choice">F. 0</div>
+<div class = "choice">G. 1/9</div>
+<div class = "choice">H. 2/9</div>
+<div class = "choice">J. 7/9</div>
+<div class = "choice">K. 9/2</div>
 </div>
 ###################
 <div class = "quiz">5. A recipe for 150 servings requires 4.5 liters of sauce. About how many liters of sauce are required for 80 servings?
-
-<div class = "choice">A.2.1</div>
-<div class = "choice">B.2.4</div>
-<div class = "choice">C.3.0</div>
-<div class = "choice">D.8.4</div>
-<div class = "choice">E.15.5
-</div>
+<div class = "choice">A. 2.1</div>
+<div class = "choice">B. 2.4</div>
+<div class = "choice">C. 3.0</div>
+<div class = "choice">D. 8.4</div>
+<div class = "choice">E. 15.5</div>
 </div>
 ###################
-<div class = "quiz">6. Pei bought a 36-inch-long candle. It burns at a steady rate of 0.48 inches every hour. Which of the following is a relationship between the length, <img src='file:\$$$\resources\2005 April 60E\imgs\11.png' width = '13'height = '29'/>, in inches, of the candle and the time, <img src='file:\$$$\resources\2005 April 60E\imgs\12.png' width = '13'height = '26'/>, in hours, the candle has burned?
-
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\13.png' width = '136'height = '29'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\14.png' width = '136'height = '29'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\15.png' width = '91'height = '29'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\16.png' width = '104'height = '29'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\17.png' width = '72'height = '29'/>
-</div>
+<div class = "quiz">6. Pei bought a 36-inch-long candle. It burns at a steady rate of 0.48 inches every hour. Which of the following is a relationship between the length, "l", in inches, of the candle and the time, "t", in hours, the candle has burned?
+<div class = "choice">F. l = 36 - 0.48t</div>
+<div class = "choice">G. l = 36 + 0.48t</div>
+<div class = "choice">H. l = 0.48t</div>
+<div class = "choice">J. l = 35.52t</div>
+<div class = "choice">K. l = 75t</div>
 </div>
 ###################
 <div class = "quiz">7. In <img src='file:\$$$\resources\2005 April 60E\imgs\18.png' width = '69'height = '29'/> below, <img src='file:\$$$\resources\2005 April 60E\imgs\19.png' width = '99'height = '29'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\20.png' width = '74'height = '29'/> measures 70°. What is the measure of<img src='file:\$$$\resources\2005 April 60E\imgs\21.png' width = '74'height = '29'/>?
-<img src='file:\$$$\resources\2005 April 60E\imgs\22.png' width = '148'height = '115'/>
-
-<div class = "choice">A.35°</div>
-<div class = "choice">B.50°</div>
-<div class = "choice">C.55°</div>
-<div class = "choice">D.70°</div>
-<div class = "choice">E.110°
-</div>
+<img src='file:\$$$\resources\2005 April 60E\imgs\22.png' width = '296'height = '230'/>
+<div class = "choice">A. 35°</div>
+<div class = "choice">B. 50°</div>
+<div class = "choice">C. 55°</div>
+<div class = "choice">D. 70°</div>
+<div class = "choice">E. 110°</div>
 </div>
 ###################
 <div class = "quiz">8. You have 4 rectangular regions that you want to cover with cedar chips. One region is 2 feet by 8 feet; another is 1 foot by 4 feet; another is 2 feet by 20 feet; and the last one is 1 foot by 5 feet. If a bag of cedar chips covers 10 square feet, how many bags of cedar chips will you need?
-
-<div class = "choice">F.5</div>
-<div class = "choice">G.6</div>
-<div class = "choice">H.7</div>
-<div class = "choice">J.9</div>
-<div class = "choice">K.12
-</div>
+<div class = "choice">F. 5</div>
+<div class = "choice">G. 6</div>
+<div class = "choice">H. 7</div>
+<div class = "choice">J. 9</div>
+<div class = "choice">K. 12</div>
 </div>
 ###################
 <div class = "quiz">9. A function that is defined by the set of ordered pairs｛(2,1), (4,2), (6,3)｝has domain｛2, 4, 6｝. What is the domain of the function defined by the set of ordered pairs｛(0,2), (2,2), (3,-2)｝?
-
 <div class = "choice">A.｛2｝</div>
 <div class = "choice">B.｛-2, 2｝</div>
 <div class = "choice">C.｛-2, 0, 3｝</div>
 <div class = "choice">D.｛0, 2, 3｝</div>
-<div class = "choice">E.｛-2, 0, 2, 3｝
-</div>
+<div class = "choice">E.｛-2, 0, 2, 3｝</div>
 </div>
 ###################
 <div class = "quiz">10. Let p and q be statements.
@@ -95,28 +78,21 @@ Statement S:               If p, then q.
 Converse of S:             If q, then p.
 Inverse of S:               If not p, then not q.
 Contrapositive of S:         If not q, then not p.
-One of the following statements is the converse of the statement “If the lights are on, then the store is open.” Which one is it?
-
-<div class = "choice">F.If the store is open, then the lights are on.
-</div>
-<div class = "choice">G.If the lights are not on, then the store is not open.
-</div>
-<div class = "choice">H.If the store is not open, then the lights are not on. 
-</div>
-<div class = "choice">J.The lights are not on.</div>
-<div class = "choice">K.The store is not open.
-</div>
+One of the following statements is the converse of the statement "If the lights are on, then the store is open." Which one is it?
+<div class = "choice">F. If the store is open, then the lights are on.</div>
+<div class = "choice">G. If the lights are not on, then the store is not open.</div>
+<div class = "choice">H. If the store is not open, then the lights are not on.</div>
+<div class = "choice">J. The lights are not on.</div>
+<div class = "choice">K. The store is not open.</div>
 </div>
 ###################
-<div class = "quiz">11. A point with coordinates <img src='file:\$$$\resources\2005 April 60E\imgs\23.png' width = '60'height = '42'/> is plotted in the standard <img src='file:\$$$\resources\2005 April 60E\imgs\24.png' width = '61'height = '42'/> coordinate plane as shown below. The point is then reflected across the y-axis. Which of the following are the coordinates for the point after the reflection?
+<div class = "quiz">11. A point with coordinates (a,b) is plotted in the standard (x,y) coordinate plane as shown below. The point is then reflected across the y-axis. Which of the following are the coordinates for the point after the reflection?
 <img src='file:\$$$\resources\2005 April 60E\imgs\25.png' width = '106'height = '110'/>
-
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\26.png' width = '74'height = '42'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\27.png' width = '74'height = '42'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\28.png' width = '60'height = '42'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\29.png' width = '74'height = '42'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\30.png' width = '74'height = '42'/>
-</div>
+<div class = "choice">A. (-a,b)</div>
+<div class = "choice">B. (a,-b)</div>
+<div class = "choice">C. (b,a)</div>
+<div class = "choice">D. (-b,a)</div>
+<div class = "choice">E. (b,-a)</div>
 </div>
 ###################
 <div class = "quiz">12. What quantity must be added to <img src='file:\$$$\resources\2005 April 60E\imgs\31.png' width = '111'height = '34'/> to obtain<img src='file:\$$$\resources\2005 April 60E\imgs\32.png' width = '106'height = '34'/>?

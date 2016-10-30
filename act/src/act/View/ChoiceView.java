@@ -26,6 +26,7 @@ public class ChoiceView extends JPanel{
 	}
 
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
+		System.out.println("DEBUG INFO: ChoiceView requestUpdate " +questionIndex);
 		mainchoicepane.requestUpdate(questionIndex, splitIndex, partIndex);
 	}
 	public void setReadingBrain(reading r){

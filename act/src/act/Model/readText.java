@@ -85,22 +85,20 @@ public class readText {
 	}
 	public static String readPassage(String filename){
 		String passage = "";
-		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
-//		System.out.println(path);
+		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
-		//File file = new File(filename);
 		BufferedReader reader = null;
 		try{
-			//reader = new BufferedReader(new FileReader(file));
 			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
 			String tmpstring = null;
 			while((tmpstring = reader.readLine()) != null){
-
-//				tmpstring = tmpstring.replace("resourses", "resources");
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
 				if (tmpstring.startsWith("<div class = \"para\"")){
+					passage += tmpstring;
+				}
+				if (tmpstring.startsWith("<br>")){
 					passage += tmpstring;
 				}
 			}
@@ -147,19 +145,19 @@ public class readText {
 		ArrayList<choice> result = new ArrayList<choice>();
 		choice tmpresult = new choice(type);
 		BufferedReader reader = null;
-		String path = new File(".").getAbsolutePath();//System.getProperty("java.class.path");
-//		System.out.println(path);
+		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
 			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
-			String tmpstring = null;
+			String tmpstring = "";
 			int quizNum;
 			int mark = 1;
 			String ques = "";
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
+				tmpstring = tmpstring.trim();
 				tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){
 					mark = 1;
@@ -187,7 +185,6 @@ public class readText {
 						tmpresult.setQuestion(ques.substring(0, tmpl-1));
 						int pos = ques.indexOf(".");
 						quizNum = Integer.parseInt(ques.substring(0, pos));
-//						//System.out.println(quizNum);
 						tmpresult.setQuizNum(quizNum);
 					}
 					mark = 3;
