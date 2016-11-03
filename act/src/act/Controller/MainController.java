@@ -1,6 +1,11 @@
 package act.Controller;
 
 import act.View.*;
+
+import java.io.File;
+
+import javax.swing.JOptionPane;
+
 import act.MainActivity;
 import act.Model.*;
 
@@ -124,12 +129,27 @@ public class MainController{
 		ans.resetAll();	
 	}
 	public static void handleSave(){
+		String name = ModelConstants.TESTNAME[testIndex];
+		name += " " + JOptionPane.showInputDialog("Please input file name: \n Eg: daxiang", "report");
+		if (name == "" || name == null) name = "report";
+		String path = new File(".").getAbsolutePath();
+		path = path.substring(0,path.length()-1) + "reports\\";
+		path += name + ".pdf";
+		File file = new File(path);
+		Object[] options = { "OK", "CANCEL" }; 
+		
+		if (file.exists()){
+			int i = JOptionPane.showOptionDialog(null, "The file already exists. Overwrite existing file?", "Warning", 
+					JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, 
+					null, options, options[0]); 
+			if (i == 1) return;
+		}
 		Object[][][] values = new Object[5][][];
 		for (int i = 0; i < 4; i ++){
 			values[i] = AnswerModel.getAnsModel(i);
 		}
 		Object[][] totalScore = AnswerModel.getTotalScore();
-		ps.writePDF(values,totalScore);
+		ps.writePDF(ModelConstants.TESTNAME[testIndex], name, values,totalScore);
 	}
 	
 	public static void setMainContent(MainView v){
