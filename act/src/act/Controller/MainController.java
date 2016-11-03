@@ -21,6 +21,7 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
+	private static PrintScore ps = new PrintScore();
 	
 	public MainController()
 	{
@@ -107,17 +108,28 @@ public class MainController{
 		
 	}
 	public static void handleScore(){
-		
 		mainView.setCountingStatus(false);
-		
-		
 		ans.judgeScore();
 		mainView.showScoreView();	
 	}
+	
+	public static void handleResume(){
+		mainView.resumeTimer();
+	}
+	public static void handlePause(){
+		mainView.pauseTimer();
+	}
 	public static void handleReturn(){
 		mainActivity.showMenuView();
-		ans.resetAll();
-		
+		ans.resetAll();	
+	}
+	public static void handleSave(){
+		Object[][][] values = new Object[5][][];
+		for (int i = 0; i < 4; i ++){
+			values[i] = AnswerModel.getAnsModel(i);
+		}
+		Object[][] totalScore = AnswerModel.getTotalScore();
+		ps.writePDF(values,totalScore);
 	}
 	
 	public static void setMainContent(MainView v){

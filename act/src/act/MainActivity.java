@@ -64,6 +64,23 @@ public class MainActivity extends JFrame{
 		this.add(mainView);
 		this.revalidate();
 	}
+	// 直接进入part
+	public void initMainView(int testIndex, int splitIndex){
+		initMainController(testIndex);
+		mainView = new MainView();
+		
+		mainView.setReadingBrain(readingBrain);
+		readingBrain.updateReading(testIndex, splitIndex, 0);
+		
+		mainView.setMathBrain(mathBrain);
+		mathBrain.updateMath(testIndex);
+		mainView.init();
+	
+		this.remove(menuView);
+		this.revalidate();
+		this.add(mainView);
+		this.revalidate();
+	}
 	
 	public void showMenuView(){
 		this.remove(mainView);

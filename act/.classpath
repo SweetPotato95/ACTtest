@@ -7,5 +7,7 @@
 			<accessrule kind="accessible" pattern="PlatformImpl/**"/>
 		</accessrules>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/itext-xtra-5.5.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
