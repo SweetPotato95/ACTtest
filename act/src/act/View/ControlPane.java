@@ -117,6 +117,9 @@ public class ControlPane extends JPanel{
 		this.remove(befButton);
 		this.remove(submitButton);
 		this.add(resumeButton);
+		this.add(befButton);
+		this.add(nextButton);
+		this.add(submitButton);
 		this.revalidate();
 		this.repaint();
 	}
