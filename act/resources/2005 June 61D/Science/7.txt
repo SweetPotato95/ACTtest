@@ -1,9 +1,9 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage VII</div>
+<h1>Passage VII</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The male-to-female body mass ratio (MFMR) of a species can be calculated as follows:</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">MFMR=<img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '128'height = '50'/></div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In this equation, <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '58'height = '50'/>is the average body mass of adult males and <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '42'height = '50'/> is the average body mass of adult females.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">MFMR=<img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '106'height = '42'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In this equation, <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '49'height = '42'/>is the average body mass of adult males and <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '35'height = '42'/> is the average body mass of adult females.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure shows the MFMR of some species within 4 primate groups: apes and humans; Old World monkeys; New World monkeys; and prosimians. A species with an MFMR of 1 is monomorphic with respect to body mass. A species with an MFMR different than 1 is dimorphic with respect to body mass. (Note: In the figure, MFMR values are calculated to the nearest tenth.)</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '1036'height = '656'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '1381'height = '875'/></div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Steve Jones, Robert Martin, and David Pilbeam, eds. The Cambridge Encyclopedia of Human Evolution. © 1992 by Cambridge University Press.</div>
 ###################
 <div class = "quiz">36. According to the figure, the body mass of the average adult male orangutan is how many times greater than the body mass of the average adult female orangutan?
@@ -44,4 +44,5 @@
 <div class = "choice">G.The numerator is in units of mass and the denominator is in units of mass, so the ratio is in units of mass.</div>
 <div class = "choice">H.The numerator is in units of volume and the denominator is in units of volume, so the ratio has no units.</div>
 <div class = "choice">J.The numerator is in units of volume and the denominator is in units of volume, so the ratio is in units of volume.</div></div>
+
 ###################

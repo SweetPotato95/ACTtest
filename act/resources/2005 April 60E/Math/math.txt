@@ -1,5 +1,5 @@
 ###################
-<div class = "quiz">1. What is the value of the expression (x - 2y)(x + 2y) when x = 4 and y =<img src='file:\$$$\resources\2005 April 60E\imgs\0.png' width = '28'height = '78'/>?
+<div class = "quiz">1. What is the value of the expression (x - 2y)(x + 2y) when x = 4 and y =<img src='file:\$$$\resources\2005 April 60E\imgs\0.png' width = '24'height = '65'/>?
 
 <div class = "choice">A.8</div>
 <div class = "choice">B.9</div>
@@ -21,21 +21,21 @@
 ###################
 <div class = "quiz">3. (2x - 3)(3x - 4) is equivalent to:
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\1.png' width = '34'height = '40'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\2.png' width = '162'height = '40'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\3.png' width = '104'height = '40'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\4.png' width = '173'height = '40'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\5.png' width = '104'height = '40'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\1.png' width = '28'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\2.png' width = '135'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\3.png' width = '86'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\4.png' width = '144'height = '34'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\5.png' width = '86'height = '34'/>
 </div>
 </div>
 ###################
-<div class = "quiz">4. The probability that an event happens is<img src='file:\$$$\resources\2005 April 60E\imgs\6.png' width = '28'height = '78'/>. What is the probability that the event does NOT happen?
+<div class = "quiz">4. The probability that an event happens is<img src='file:\$$$\resources\2005 April 60E\imgs\6.png' width = '24'height = '65'/>. What is the probability that the event does NOT happen?
 
 <div class = "choice">F.0</div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\7.png' width = '27'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\8.png' width = '28'height = '78'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\9.png' width = '28'height = '78'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\10.png' width = '28'height = '78'/>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\7.png' width = '22'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\8.png' width = '24'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\9.png' width = '24'height = '65'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\10.png' width = '24'height = '65'/>
 </div>
 </div>
 ###################
@@ -49,18 +49,18 @@
 </div>
 </div>
 ###################
-<div class = "quiz">6. Pei bought a 36-inch-long candle. It burns at a steady rate of 0.48 inches every hour. Which of the following is a relationship between the length, <img src='file:\$$$\resources\2005 April 60E\imgs\11.png' width = '15'height = '35'/>, in inches, of the candle and the time, <img src='file:\$$$\resources\2005 April 60E\imgs\12.png' width = '15'height = '31'/>, in hours, the candle has burned?
+<div class = "quiz">6. Pei bought a 36-inch-long candle. It burns at a steady rate of 0.48 inches every hour. Which of the following is a relationship between the length, <img src='file:\$$$\resources\2005 April 60E\imgs\11.png' width = '13'height = '29'/>, in inches, of the candle and the time, <img src='file:\$$$\resources\2005 April 60E\imgs\12.png' width = '13'height = '26'/>, in hours, the candle has burned?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\13.png' width = '164'height = '35'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\14.png' width = '164'height = '35'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\15.png' width = '109'height = '35'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\16.png' width = '124'height = '35'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\17.png' width = '87'height = '35'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\13.png' width = '136'height = '29'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\14.png' width = '136'height = '29'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\15.png' width = '91'height = '29'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\16.png' width = '104'height = '29'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\17.png' width = '72'height = '29'/>
 </div>
 </div>
 ###################
-<div class = "quiz">7. In <img src='file:\$$$\resources\2005 April 60E\imgs\18.png' width = '83'height = '35'/> below, <img src='file:\$$$\resources\2005 April 60E\imgs\19.png' width = '118'height = '35'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\20.png' width = '88'height = '35'/> measures 70°. What is the measure of<img src='file:\$$$\resources\2005 April 60E\imgs\21.png' width = '88'height = '35'/>?
-<img src='file:\$$$\resources\2005 April 60E\imgs\22.png' width = '111'height = '86'/>
+<div class = "quiz">7. In <img src='file:\$$$\resources\2005 April 60E\imgs\18.png' width = '69'height = '29'/> below, <img src='file:\$$$\resources\2005 April 60E\imgs\19.png' width = '99'height = '29'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\20.png' width = '74'height = '29'/> measures 70°. What is the measure of<img src='file:\$$$\resources\2005 April 60E\imgs\21.png' width = '74'height = '29'/>?
+<img src='file:\$$$\resources\2005 April 60E\imgs\22.png' width = '148'height = '115'/>
 
 <div class = "choice">A.35°</div>
 <div class = "choice">B.50°</div>
@@ -108,25 +108,25 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">11. A point with coordinates <img src='file:\$$$\resources\2005 April 60E\imgs\23.png' width = '72'height = '50'/> is plotted in the standard <img src='file:\$$$\resources\2005 April 60E\imgs\24.png' width = '74'height = '50'/> coordinate plane as shown below. The point is then reflected across the y-axis. Which of the following are the coordinates for the point after the reflection?
-<img src='file:\$$$\resources\2005 April 60E\imgs\25.png' width = '79'height = '83'/>
+<div class = "quiz">11. A point with coordinates <img src='file:\$$$\resources\2005 April 60E\imgs\23.png' width = '60'height = '42'/> is plotted in the standard <img src='file:\$$$\resources\2005 April 60E\imgs\24.png' width = '61'height = '42'/> coordinate plane as shown below. The point is then reflected across the y-axis. Which of the following are the coordinates for the point after the reflection?
+<img src='file:\$$$\resources\2005 April 60E\imgs\25.png' width = '106'height = '110'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\26.png' width = '88'height = '50'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\27.png' width = '88'height = '50'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\28.png' width = '72'height = '50'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\29.png' width = '88'height = '50'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\30.png' width = '88'height = '50'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\26.png' width = '74'height = '42'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\27.png' width = '74'height = '42'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\28.png' width = '60'height = '42'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\29.png' width = '74'height = '42'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\30.png' width = '74'height = '42'/>
 </div>
 </div>
 ###################
-<div class = "quiz">12. What quantity must be added to <img src='file:\$$$\resources\2005 April 60E\imgs\31.png' width = '134'height = '40'/> to obtain<img src='file:\$$$\resources\2005 April 60E\imgs\32.png' width = '128'height = '40'/>?
+<div class = "quiz">12. What quantity must be added to <img src='file:\$$$\resources\2005 April 60E\imgs\31.png' width = '111'height = '34'/> to obtain<img src='file:\$$$\resources\2005 April 60E\imgs\32.png' width = '106'height = '34'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\33.png' width = '148'height = '40'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\34.png' width = '148'height = '40'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\35.png' width = '165'height = '40'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\36.png' width = '165'height = '40'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\33.png' width = '124'height = '34'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\34.png' width = '124'height = '34'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\35.png' width = '138'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\36.png' width = '138'height = '34'/>
 </div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\37.png' width = '165'height = '40'/>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\37.png' width = '138'height = '34'/>
 </div>
 </div>
 ###################
@@ -140,13 +140,13 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">14. What is the solution of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\38.png' width = '207'height = '50'/>?
+<div class = "quiz">14. What is the solution of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\38.png' width = '172'height = '42'/>?
 
 <div class = "choice">F.-20</div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\39.png' width = '74'height = '78'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\39.png' width = '61'height = '65'/></div>
 <div class = "choice">H.-4</div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\40.png' width = '38'height = '78'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\41.png' width = '74'height = '78'/>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\40.png' width = '32'height = '65'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\41.png' width = '61'height = '65'/>
 </div>
 </div>
 ###################
@@ -160,20 +160,20 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">16. In the figure below, <img src='file:\$$$\resources\2005 April 60E\imgs\42.png' width = '88'height = '35'/>is a square with side length 10 centimeters. The midpoint of <img src='file:\$$$\resources\2005 April 60E\imgs\43.png' width = '49'height = '40'/> is<img src='file:\$$$\resources\2005 April 60E\imgs\44.png' width = '28'height = '33'/>. What is the area, in square centimeters, of the shaded region?
-<img src='file:\$$$\resources\2005 April 60E\imgs\45.png' width = '75'height = '83'/>
+<div class = "quiz">16. In the figure below, <img src='file:\$$$\resources\2005 April 60E\imgs\42.png' width = '74'height = '29'/>is a square with side length 10 centimeters. The midpoint of <img src='file:\$$$\resources\2005 April 60E\imgs\43.png' width = '41'height = '34'/> is<img src='file:\$$$\resources\2005 April 60E\imgs\44.png' width = '24'height = '27'/>. What is the area, in square centimeters, of the shaded region?
+<img src='file:\$$$\resources\2005 April 60E\imgs\45.png' width = '100'height = '110'/>
 
 <div class = "choice">F.25</div>
 <div class = "choice">G.50</div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\46.png' width = '74'height = '45'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\46.png' width = '61'height = '38'/></div>
 <div class = "choice">J.75</div>
 <div class = "choice">K.100
 </div>
 </div>
 ###################
 <div class = "quiz">17. What is the solution to the following system of equations?
-<img src='file:\$$$\resources\2005 April 60E\imgs\47.png' width = '139'height = '40'/>        <img src='file:\$$$\resources\2005 April 60E\imgs\48.png' width = '111'height = '40'/>
-<img src='file:\$$$\resources\2005 April 60E\imgs\49.png' width = '23'height = '34'/>     <img src='file:\$$$\resources\2005 April 60E\imgs\50.png' width = '27'height = '38'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\47.png' width = '116'height = '34'/>        <img src='file:\$$$\resources\2005 April 60E\imgs\48.png' width = '92'height = '34'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\49.png' width = '19'height = '28'/>     <img src='file:\$$$\resources\2005 April 60E\imgs\50.png' width = '22'height = '32'/>
 
 <div class = "choice">A.-6      9
 </div>
@@ -187,7 +187,7 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">18. If <img src='file:\$$$\resources\2005 April 60E\imgs\51.png' width = '132'height = '50'/> and<img src='file:\$$$\resources\2005 April 60E\imgs\52.png' width = '124'height = '50'/>, what is<img src='file:\$$$\resources\2005 April 60E\imgs\53.png' width = '113'height = '50'/>?
+<div class = "quiz">18. If <img src='file:\$$$\resources\2005 April 60E\imgs\51.png' width = '110'height = '42'/> and<img src='file:\$$$\resources\2005 April 60E\imgs\52.png' width = '104'height = '42'/>, what is<img src='file:\$$$\resources\2005 April 60E\imgs\53.png' width = '94'height = '42'/>?
 
 <div class = "choice">F.6</div>
 <div class = "choice">G.12</div>
@@ -207,74 +207,74 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">20. Which of the following is equivalent to the inequality<img src='file:\$$$\resources\2005 April 60E\imgs\54.png' width = '214'height = '35'/>?
+<div class = "quiz">20. Which of the following is equivalent to the inequality<img src='file:\$$$\resources\2005 April 60E\imgs\54.png' width = '178'height = '29'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\55.png' width = '90'height = '35'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\56.png' width = '90'height = '35'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\57.png' width = '88'height = '35'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\58.png' width = '98'height = '78'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\59.png' width = '74'height = '35'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\55.png' width = '75'height = '29'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\56.png' width = '75'height = '29'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\57.png' width = '74'height = '29'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\58.png' width = '82'height = '65'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\59.png' width = '61'height = '29'/>
 </div>
 </div>
 ###################
-<div class = "quiz">21. Which of the following lists orders<img src='file:\$$$\resources\2005 April 60E\imgs\60.png' width = '27'height = '78'/>, 0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\61.png' width = '28'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\62.png' width = '27'height = '78'/>, 0.37, and <img src='file:\$$$\resources\2005 April 60E\imgs\63.png' width = '38'height = '78'/> from least to greatest?
+<div class = "quiz">21. Which of the following lists orders<img src='file:\$$$\resources\2005 April 60E\imgs\60.png' width = '22'height = '65'/>, 0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\61.png' width = '24'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\62.png' width = '22'height = '65'/>, 0.37, and <img src='file:\$$$\resources\2005 April 60E\imgs\63.png' width = '32'height = '65'/> from least to greatest?
 
-<div class = "choice">A.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\64.png' width = '38'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\65.png' width = '27'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\66.png' width = '27'height = '78'/>, 0.37,<img src='file:\$$$\resources\2005 April 60E\imgs\67.png' width = '28'height = '78'/></div>
-<div class = "choice">B.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\68.png' width = '38'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\69.png' width = '27'height = '78'/>, 0.37, <img src='file:\$$$\resources\2005 April 60E\imgs\70.png' width = '27'height = '78'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\71.png' width = '28'height = '78'/>  
+<div class = "choice">A.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\64.png' width = '32'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\65.png' width = '22'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\66.png' width = '22'height = '65'/>, 0.37,<img src='file:\$$$\resources\2005 April 60E\imgs\67.png' width = '24'height = '65'/></div>
+<div class = "choice">B.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\68.png' width = '32'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\69.png' width = '22'height = '65'/>, 0.37, <img src='file:\$$$\resources\2005 April 60E\imgs\70.png' width = '22'height = '65'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\71.png' width = '24'height = '65'/>  
 </div>
-<div class = "choice">C.0.28, 0.37, <img src='file:\$$$\resources\2005 April 60E\imgs\72.png' width = '38'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\73.png' width = '27'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\74.png' width = '27'height = '78'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\75.png' width = '28'height = '78'/></div>
-<div class = "choice">D.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\76.png' width = '38'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\77.png' width = '27'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\78.png' width = '28'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\79.png' width = '27'height = '78'/>, 0.37
+<div class = "choice">C.0.28, 0.37, <img src='file:\$$$\resources\2005 April 60E\imgs\72.png' width = '32'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\73.png' width = '22'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\74.png' width = '22'height = '65'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\75.png' width = '24'height = '65'/></div>
+<div class = "choice">D.0.28, <img src='file:\$$$\resources\2005 April 60E\imgs\76.png' width = '32'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\77.png' width = '22'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\78.png' width = '24'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\79.png' width = '22'height = '65'/>, 0.37
 </div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\80.png' width = '27'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\81.png' width = '28'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\82.png' width = '27'height = '78'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\83.png' width = '38'height = '78'/>, 0.28, 0.37
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\80.png' width = '22'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\81.png' width = '24'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\82.png' width = '22'height = '65'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\83.png' width = '32'height = '65'/>, 0.28, 0.37
 </div>
 </div>
 ###################
-<div class = "quiz">22. Which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\84.png' width = '90'height = '60'/>?
+<div class = "quiz">22. Which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\84.png' width = '75'height = '50'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\85.png' width = '57'height = '78'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\86.png' width = '53'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\87.png' width = '42'height = '78'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\88.png' width = '64'height = '40'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\89.png' width = '66'height = '40'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\85.png' width = '47'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\86.png' width = '44'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\87.png' width = '35'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\88.png' width = '54'height = '34'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\89.png' width = '55'height = '34'/>
 </div>
 </div>
 ###################
 <div class = "quiz">23. In the figure below, line a is parallel to line b. The 2 transversals intersect at a point on line a. Which of the following pairs of angles is NOT necessarily congruent?
-<img src='file:\$$$\resources\2005 April 60E\imgs\90.png' width = '88'height = '73'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\90.png' width = '118'height = '98'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\91.png' width = '42'height = '33'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\92.png' width = '45'height = '33'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\93.png' width = '42'height = '33'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\94.png' width = '44'height = '35'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\95.png' width = '45'height = '33'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\96.png' width = '44'height = '35'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\97.png' width = '45'height = '33'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\98.png' width = '45'height = '33'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\91.png' width = '35'height = '27'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\92.png' width = '38'height = '27'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\93.png' width = '35'height = '27'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\94.png' width = '36'height = '29'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\95.png' width = '38'height = '27'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\96.png' width = '36'height = '29'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\97.png' width = '38'height = '27'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\98.png' width = '38'height = '27'/>
 </div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\99.png' width = '45'height = '33'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\100.png' width = '44'height = '35'/>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\99.png' width = '38'height = '27'/>and <img src='file:\$$$\resources\2005 April 60E\imgs\100.png' width = '36'height = '29'/>
 </div>
 </div>
 ###################
-<div class = "quiz">24. If<img src='file:\$$$\resources\2005 April 60E\imgs\101.png' width = '120'height = '40'/>, what is<img src='file:\$$$\resources\2005 April 60E\imgs\102.png' width = '88'height = '45'/>?
+<div class = "quiz">24. If<img src='file:\$$$\resources\2005 April 60E\imgs\101.png' width = '100'height = '34'/>, what is<img src='file:\$$$\resources\2005 April 60E\imgs\102.png' width = '74'height = '38'/>?
 
 <div class = "choice">F.B</div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\103.png' width = '75'height = '35'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\104.png' width = '49'height = '40'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\105.png' width = '117'height = '40'/>     k. <img src='file:\$$$\resources\2005 April 60E\imgs\106.png' width = '72'height = '40'/>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\103.png' width = '63'height = '29'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\104.png' width = '41'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\105.png' width = '97'height = '34'/>     k. <img src='file:\$$$\resources\2005 April 60E\imgs\106.png' width = '60'height = '34'/>
 </div>
 </div>
 ###################
-<div class = "quiz">25. What is the solution set of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\107.png' width = '136'height = '40'/>?
+<div class = "quiz">25. What is the solution set of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\107.png' width = '113'height = '34'/>?
 
-<div class = "choice">A.｛<img src='file:\$$$\resources\2005 April 60E\imgs\108.png' width = '64'height = '43'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\109.png' width = '64'height = '43'/>｝</div>
-<div class = "choice">B.｛<img src='file:\$$$\resources\2005 April 60E\imgs\110.png' width = '49'height = '78'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\111.png' width = '28'height = '78'/>｝</div>
-<div class = "choice">C.｛<img src='file:\$$$\resources\2005 April 60E\imgs\112.png' width = '60'height = '45'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\113.png' width = '44'height = '45'/>｝</div>
+<div class = "choice">A.｛<img src='file:\$$$\resources\2005 April 60E\imgs\108.png' width = '54'height = '36'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\109.png' width = '54'height = '36'/>｝</div>
+<div class = "choice">B.｛<img src='file:\$$$\resources\2005 April 60E\imgs\110.png' width = '41'height = '65'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\111.png' width = '24'height = '65'/>｝</div>
+<div class = "choice">C.｛<img src='file:\$$$\resources\2005 April 60E\imgs\112.png' width = '50'height = '38'/>,<img src='file:\$$$\resources\2005 April 60E\imgs\113.png' width = '36'height = '38'/>｝</div>
 <div class = "choice">D.｛-2, 2｝</div>
-<div class = "choice">E.｛<img src='file:\$$$\resources\2005 April 60E\imgs\114.png' width = '28'height = '78'/>｝
+<div class = "choice">E.｛<img src='file:\$$$\resources\2005 April 60E\imgs\114.png' width = '24'height = '65'/>｝
 </div>
 </div>
 ###################
 <div class = "quiz">26. The given dimensions of the right triangle shown below are in inches. What is the length, in inches, of the hypotenuse of the triangle?
-<img src='file:\$$$\resources\2005 April 60E\imgs\115.png' width = '51'height = '93'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\115.png' width = '68'height = '124'/>
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\116.png' width = '44'height = '45'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\117.png' width = '44'height = '45'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\116.png' width = '36'height = '38'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\117.png' width = '36'height = '38'/></div>
 <div class = "choice">H.2</div>
 <div class = "choice">J.3</div>
 <div class = "choice">K.5
@@ -284,9 +284,9 @@ One of the following statements is the converse of the statement “If the light
 <div class = "quiz">27. Pilar obtained estimates for cleaning her furnace from 2 heating companies. Lehman Heating’s estimate was ＄30 for a service call plus ＄22 per hour for cleaning the furnace/ A-1 Heating’s estimate was ＄35 for a service call plus ＄20 per hour for cleaning the furnace. If the estimates were the same in both the total amount and number of hours for cleaning Pilar’s furnace, how many hours for cleaning the furnace were reflected in the estimates?
 
 <div class = "choice">A.2</div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\118.png' width = '45'height = '78'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\118.png' width = '38'height = '65'/></div>
 <div class = "choice">C.3</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\119.png' width = '44'height = '78'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\119.png' width = '36'height = '65'/></div>
 <div class = "choice">E.4
 </div>
 </div>
@@ -295,8 +295,8 @@ One of the following statements is the converse of the statement “If the light
 
 <div class = "choice">F.-5</div>
 <div class = "choice">G.-2</div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\120.png' width = '45'height = '78'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\121.png' width = '28'height = '78'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\120.png' width = '38'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\121.png' width = '24'height = '65'/></div>
 <div class = "choice">K.2
 </div>
 </div>
@@ -312,7 +312,7 @@ One of the following statements is the converse of the statement “If the light
 </div>
 ###################
 <div class = "quiz">30. The legs of the right triangle below are double in length to become the legs of a new right triangle. What is the length, in feet, of the longest side of the new triangle?
-<img src='file:\$$$\resources\2005 April 60E\imgs\122.png' width = '156'height = '73'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\122.png' width = '208'height = '98'/>
 
 <div class = "choice">F.5</div>
 <div class = "choice">G.12</div>
@@ -322,37 +322,37 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">31. If<img src='file:\$$$\resources\2005 April 60E\imgs\123.png' width = '124'height = '35'/>, then, in terms of a, x = ?
+<div class = "quiz">31. If<img src='file:\$$$\resources\2005 April 60E\imgs\123.png' width = '104'height = '29'/>, then, in terms of a, x = ?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\124.png' width = '28'height = '78'/></div>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\124.png' width = '24'height = '65'/></div>
 <div class = "choice">B.3a</div>
 <div class = "choice">C.3-a</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\125.png' width = '68'height = '78'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\126.png' width = '68'height = '78'/>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\125.png' width = '56'height = '65'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\126.png' width = '56'height = '65'/>
 </div>
 </div>
 ###################
 <div class = "quiz">32. As part of one day’s training workout, 5 members of track team ran for exactly 3 minutes each. The 5 runners ran the 5 distances given below, in miles. Which distance corresponds to the fastest speed?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\127.png' width = '27'height = '78'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\128.png' width = '27'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\129.png' width = '27'height = '78'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\130.png' width = '28'height = '78'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\131.png' width = '38'height = '78'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\127.png' width = '22'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\128.png' width = '22'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\129.png' width = '22'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\130.png' width = '24'height = '65'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\131.png' width = '32'height = '65'/>
 </div>
 </div>
 ###################
 <div class = "quiz">33. Which of the following is an equation for the line passing through (0, 0) and (4, 3) in the standard (x, y) coordinate plane?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\132.png' width = '105'height = '40'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\133.png' width = '113'height = '40'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\134.png' width = '141'height = '40'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\135.png' width = '156'height = '40'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\136.png' width = '156'height = '40'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\132.png' width = '88'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\133.png' width = '94'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\134.png' width = '118'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\135.png' width = '130'height = '34'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\136.png' width = '130'height = '34'/>
 </div>
 </div>
 ###################
-<div class = "quiz">34. Point P, Q. R, and S lie on a line in the order given. Point R is the midpoint of<img src='file:\$$$\resources\2005 April 60E\imgs\137.png' width = '45'height = '48'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\138.png' width = '45'height = '40'/>is 5 cm long, and <img src='file:\$$$\resources\2005 April 60E\imgs\139.png' width = '45'height = '43'/> is 7 cm long. How many centimeters long is<img src='file:\$$$\resources\2005 April 60E\imgs\140.png' width = '45'height = '48'/>?
+<div class = "quiz">34. Point P, Q. R, and S lie on a line in the order given. Point R is the midpoint of<img src='file:\$$$\resources\2005 April 60E\imgs\137.png' width = '38'height = '40'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\138.png' width = '38'height = '34'/>is 5 cm long, and <img src='file:\$$$\resources\2005 April 60E\imgs\139.png' width = '38'height = '36'/> is 7 cm long. How many centimeters long is<img src='file:\$$$\resources\2005 April 60E\imgs\140.png' width = '38'height = '40'/>?
 
 <div class = "choice">F.2</div>
 <div class = "choice">G.3</div>
@@ -362,21 +362,21 @@ One of the following statements is the converse of the statement “If the light
 </div>
 </div>
 ###################
-<div class = "quiz">35. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\141.png' width = '177'height = '40'/>?
+<div class = "quiz">35. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\141.png' width = '147'height = '34'/>?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\142.png' width = '194'height = '55'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\143.png' width = '218'height = '55'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\144.png' width = '201'height = '55'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\142.png' width = '161'height = '46'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\143.png' width = '182'height = '46'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\144.png' width = '168'height = '46'/>
 </div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\145.png' width = '210'height = '55'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\146.png' width = '210'height = '55'/>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\145.png' width = '175'height = '46'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\146.png' width = '175'height = '46'/>
 Use the following information to answer question 36-38.
 A student is working on a social studies project with her partner. They are drawing local points of interest on a map that is laid out in a coordinate plane, as shown below, where the distance between adjacent grid lines is 1 cm and represents 4 miles.
-<img src='file:\$$$\resources\2005 April 60E\imgs\147.png' width = '111'height = '83'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\147.png' width = '148'height = '111'/>
 </div>
 </div>
 ###################
-<div class = "quiz">36. The student tells her partner that 2 high schools are to be <img src='file:\$$$\resources\2005 April 60E\imgs\148.png' width = '45'height = '78'/> cm apart on the map. About how many miles apart are these high schools?
+<div class = "quiz">36. The student tells her partner that 2 high schools are to be <img src='file:\$$$\resources\2005 April 60E\imgs\148.png' width = '38'height = '65'/> cm apart on the map. About how many miles apart are these high schools?
 
 <div class = "choice">F.12</div>
 <div class = "choice">G.10</div>
@@ -396,11 +396,11 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">38. A square park measures <img src='file:\$$$\resources\2005 April 60E\imgs\149.png' width = '28'height = '78'/> mile on each side. What should be the park’s area, in square centimeters, on the map?
+<div class = "quiz">38. A square park measures <img src='file:\$$$\resources\2005 April 60E\imgs\149.png' width = '24'height = '65'/> mile on each side. What should be the park’s area, in square centimeters, on the map?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\150.png' width = '42'height = '78'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\151.png' width = '38'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\152.png' width = '27'height = '78'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\150.png' width = '35'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\151.png' width = '32'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\152.png' width = '22'height = '65'/></div>
 <div class = "choice">J.1</div>
 <div class = "choice">K.2
 </div>
@@ -438,7 +438,7 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">42. If 1 is a solution of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\153.png' width = '192'height = '40'/>, what does h equal?
+<div class = "quiz">42. If 1 is a solution of the equation<img src='file:\$$$\resources\2005 April 60E\imgs\153.png' width = '160'height = '34'/>, what does h equal?
 
 <div class = "choice">F.-11</div>
 <div class = "choice">G.-10</div>
@@ -449,8 +449,8 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 ###################
 <div class = "quiz">43. Benjamin is flying a kite using 130 feet of string, as shown in the figure below. His string makes an angle of 40° with the level ground. About how many feet above the ground is the kite when the string is taut?
-(Note:<img src='file:\$$$\resources\2005 April 60E\imgs\156.png' width = '192'height = '40'/><img src='file:\$$$\resources\2005 April 60E\imgs\155.png' width = '186'height = '40'/><img src='file:\$$$\resources\2005 April 60E\imgs\154.png' width = '195'height = '40'/>)
-<img src='file:\$$$\resources\2005 April 60E\imgs\157.png' width = '88'height = '81'/>
+(Note:<img src='file:\$$$\resources\2005 April 60E\imgs\156.png' width = '160'height = '34'/><img src='file:\$$$\resources\2005 April 60E\imgs\155.png' width = '155'height = '34'/><img src='file:\$$$\resources\2005 April 60E\imgs\154.png' width = '163'height = '34'/>)
+<img src='file:\$$$\resources\2005 April 60E\imgs\157.png' width = '118'height = '108'/>
 
 <div class = "choice">A.80</div>
 <div class = "choice">B.100</div>
@@ -461,7 +461,7 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 ###################
 <div class = "quiz">44. The 5 congruent circles shown in the diagram below have their centers lying on the same diameter of the larger circle. Each circle is tangent to 2 other circles. If the area of each small circle is 4πsquare units, what is the area, in square units, of the larger circle?
-<img src='file:\$$$\resources\2005 April 60E\imgs\158.png' width = '88'height = '84'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\158.png' width = '118'height = '112'/>
 
 <div class = "choice">F.100π</div>
 <div class = "choice">G.50π</div>
@@ -471,29 +471,29 @@ A student is working on a social studies project with her partner. They are draw
 </div>
 </div>
 ###################
-<div class = "quiz">45. Which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\159.png' width = '88'height = '50'/>?
+<div class = "quiz">45. Which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\159.png' width = '74'height = '42'/>?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\160.png' width = '45'height = '40'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\161.png' width = '44'height = '40'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\162.png' width = '45'height = '40'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\163.png' width = '45'height = '40'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\164.png' width = '75'height = '40'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\160.png' width = '38'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\161.png' width = '36'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\162.png' width = '38'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\163.png' width = '38'height = '34'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\164.png' width = '63'height = '34'/>
 </div>
 </div>
 ###################
 <div class = "quiz">46. There is a pattern when adding the cubes of the first c consecutive counting numbers, as illustrated below.
-<img src='file:\$$$\resources\2005 April 60E\imgs\165.png' width = '240'height = '55'/>           <img src='file:\$$$\resources\2005 April 60E\imgs\166.png' width = '345'height = '55'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\165.png' width = '200'height = '46'/>           <img src='file:\$$$\resources\2005 April 60E\imgs\166.png' width = '288'height = '46'/>
 Which of the following is an expression for the sum of the cubes of the first c consecutive counting numbers?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\167.png' width = '88'height = '55'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\168.png' width = '90'height = '55'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\169.png' width = '184'height = '55'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\170.png' width = '184'height = '55'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\171.png' width = '184'height = '55'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\167.png' width = '74'height = '46'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\168.png' width = '75'height = '46'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\169.png' width = '154'height = '46'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\170.png' width = '154'height = '46'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\171.png' width = '154'height = '46'/>
 </div>
 </div>
 ###################
-<div class = "quiz">47. The volume of a sphere is<img src='file:\$$$\resources\2005 April 60E\imgs\172.png' width = '74'height = '78'/>, where r is the radius of the sphere. The shapes of the planets Uranus and Earth are approximately spheres. The radius of Uranus is about 4 times that of Earth. About how many times the volume of Earth is the volume of Uranus?
+<div class = "quiz">47. The volume of a sphere is<img src='file:\$$$\resources\2005 April 60E\imgs\172.png' width = '61'height = '65'/>, where r is the radius of the sphere. The shapes of the planets Uranus and Earth are approximately spheres. The radius of Uranus is about 4 times that of Earth. About how many times the volume of Earth is the volume of Uranus?
 
 <div class = "choice">A.81</div>
 <div class = "choice">B.64</div>
@@ -503,10 +503,10 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 </div>
 ###################
-<div class = "quiz">48. The 5 positive integers a, a, a, b, and c have an average of a. What is the value of<img src='file:\$$$\resources\2005 April 60E\imgs\173.png' width = '68'height = '78'/>?
+<div class = "quiz">48. The 5 positive integers a, a, a, b, and c have an average of a. What is the value of<img src='file:\$$$\resources\2005 April 60E\imgs\173.png' width = '56'height = '65'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\174.png' width = '28'height = '78'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\175.png' width = '28'height = '78'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\174.png' width = '24'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\175.png' width = '24'height = '65'/></div>
 <div class = "choice">H.a</div>
 <div class = "choice">J.2a</div>
 <div class = "choice">K.3a
@@ -514,13 +514,13 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 ###################
 <div class = "quiz">49. From the top of a 120-foot lighthouse, a small sailboat is sighted on the water 500 feet the base of the lighthouse, as shown below. The angle of depression, θ, can be found using which of the following equations?
-<img src='file:\$$$\resources\2005 April 60E\imgs\176.png' width = '224'height = '71'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\176.png' width = '298'height = '94'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\177.png' width = '148'height = '78'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\178.png' width = '143'height = '78'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\179.png' width = '143'height = '78'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\180.png' width = '147'height = '78'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\181.png' width = '147'height = '78'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\177.png' width = '124'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\178.png' width = '119'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\179.png' width = '119'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\180.png' width = '122'height = '65'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\181.png' width = '122'height = '65'/>
 </div>
 </div>
 ###################
@@ -535,19 +535,19 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 </div>
 ###################
-<div class = "quiz">51. In the figure below, A, B, and C are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\182.png' width = '87'height = '40'/>, and M, N, and O are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\183.png' width = '83'height = '35'/>. The interiors of<img src='file:\$$$\resources\2005 April 60E\imgs\184.png' width = '81'height = '33'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\185.png' width = '88'height = '40'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\186.png' width = '83'height = '35'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\187.png' width = '94'height = '35'/> are shaded. What fraction of the interior of <img src='file:\$$$\resources\2005 April 60E\imgs\188.png' width = '87'height = '40'/> is shaded?
-<img src='file:\$$$\resources\2005 April 60E\imgs\189.png' width = '134'height = '72'/>
+<div class = "quiz">51. In the figure below, A, B, and C are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\182.png' width = '72'height = '34'/>, and M, N, and O are the midpoints of the sides of<img src='file:\$$$\resources\2005 April 60E\imgs\183.png' width = '69'height = '29'/>. The interiors of<img src='file:\$$$\resources\2005 April 60E\imgs\184.png' width = '68'height = '27'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\185.png' width = '74'height = '34'/>, <img src='file:\$$$\resources\2005 April 60E\imgs\186.png' width = '69'height = '29'/>, and <img src='file:\$$$\resources\2005 April 60E\imgs\187.png' width = '78'height = '29'/> are shaded. What fraction of the interior of <img src='file:\$$$\resources\2005 April 60E\imgs\188.png' width = '72'height = '34'/> is shaded?
+<img src='file:\$$$\resources\2005 April 60E\imgs\189.png' width = '178'height = '96'/>
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\190.png' width = '28'height = '78'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\191.png' width = '28'height = '78'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\192.png' width = '27'height = '78'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\193.png' width = '34'height = '78'/></div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\194.png' width = '38'height = '78'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\190.png' width = '24'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2005 April 60E\imgs\191.png' width = '24'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\192.png' width = '22'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2005 April 60E\imgs\193.png' width = '28'height = '65'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\194.png' width = '32'height = '65'/>
 </div>
 </div>
 ###################
 <div class = "quiz">52. The Malcolm X High School Student Council is planning a spring outdoor carnival. In the figure below, the locations for several planned activities are represented as points X, Y, Z, P, and Q on the standard (x, y) coordinate plane, where each coordinate unit represents 1 yard. The ticket booth is to be placed exactly midway between X and Z. About how many yards will the ticket booth be from Y?
-<img src='file:\$$$\resources\2005 April 60E\imgs\195.png' width = '111'height = '83'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\195.png' width = '148'height = '110'/>
 
 <div class = "choice">F.30</div>
 <div class = "choice">G.35</div>
@@ -557,23 +557,23 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 </div>
 ###################
-<div class = "quiz">53. For what value of t does the equation <img src='file:\$$$\resources\2005 April 60E\imgs\196.png' width = '120'height = '40'/> have its maximum value for h?
+<div class = "quiz">53. For what value of t does the equation <img src='file:\$$$\resources\2005 April 60E\imgs\196.png' width = '100'height = '34'/> have its maximum value for h?
 
-<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\197.png' width = '28'height = '78'/></div>
+<div class = "choice">A.<img src='file:\$$$\resources\2005 April 60E\imgs\197.png' width = '24'height = '65'/></div>
 <div class = "choice">B.2</div>
-<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\198.png' width = '28'height = '78'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2005 April 60E\imgs\198.png' width = '24'height = '65'/></div>
 <div class = "choice">D.3</div>
-<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\199.png' width = '28'height = '78'/>
+<div class = "choice">E.<img src='file:\$$$\resources\2005 April 60E\imgs\199.png' width = '24'height = '65'/>
 </div>
 </div>
 ###################
-<div class = "quiz">54. For all x > 0, which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\200.png' width = '111'height = '78'/>?
+<div class = "quiz">54. For all x > 0, which of the following is equivalent to<img src='file:\$$$\resources\2005 April 60E\imgs\200.png' width = '92'height = '65'/>?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\201.png' width = '105'height = '88'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\202.png' width = '79'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\203.png' width = '105'height = '88'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\204.png' width = '64'height = '78'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\205.png' width = '105'height = '88'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\201.png' width = '88'height = '73'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\202.png' width = '66'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\203.png' width = '88'height = '73'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\204.png' width = '54'height = '65'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\205.png' width = '88'height = '73'/>
 </div>
 </div>
 ###################
@@ -589,16 +589,16 @@ Which of the following is an expression for the sum of the cubes of the first c 
 ###################
 <div class = "quiz">56. The 2 legs of a right triangle measure 37 inches and 45 inches, respectively. What is the cosine of the triangle’s smallest interior angle?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\206.png' width = '42'height = '78'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\207.png' width = '42'height = '78'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\208.png' width = '120'height = '83'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\209.png' width = '147'height = '85'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\210.png' width = '147'height = '85'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\206.png' width = '35'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\207.png' width = '35'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\208.png' width = '100'height = '69'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\209.png' width = '122'height = '71'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\210.png' width = '122'height = '71'/>
 </div>
 </div>
 ###################
 <div class = "quiz">57. In creating a business plan for a cycle shop that sells both tricycles and bicycles, a business analyst graphed the inventory constraints set by the shop owner, and then shaded the region, shown below, where all of the constraints were met. Which of the following statements defines the shaded region?
-<img src='file:\$$$\resources\2005 April 60E\imgs\211.png' width = '88'height = '71'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\211.png' width = '118'height = '95'/>
 
 <div class = "choice">A.The number of tricycles exceeds 30, and the number of bicycles exceeds 30.
 </div>
@@ -616,7 +616,7 @@ Which of the following is an expression for the sum of the cubes of the first c 
 Ⅰ. Moving in a circle around the fixed point.
 Ⅱ. Moving in a straight line away from the fixed point.
 Ⅲ. Standing still.
-<img src='file:\$$$\resources\2005 April 60E\imgs\212.png' width = '111'height = '76'/>
+<img src='file:\$$$\resources\2005 April 60E\imgs\212.png' width = '148'height = '101'/>
 
 <div class = "choice">F.Ⅰ only.</div>
 <div class = "choice">G.Ⅱ only</div>
@@ -626,7 +626,7 @@ Which of the following is an expression for the sum of the cubes of the first c 
 </div>
 </div>
 ###################
-<div class = "quiz">59. In trigonometry, an angle of <img src='file:\$$$\resources\2005 April 60E\imgs\213.png' width = '68'height = '78'/> radians has the same sine and cosine as an angle that has which of the following degree measures?
+<div class = "quiz">59. In trigonometry, an angle of <img src='file:\$$$\resources\2005 April 60E\imgs\213.png' width = '56'height = '65'/> radians has the same sine and cosine as an angle that has which of the following degree measures?
 
 <div class = "choice">A.30°</div>
 <div class = "choice">B.60°</div>
@@ -638,12 +638,13 @@ Which of the following is an expression for the sum of the cubes of the first c 
 ###################
 <div class = "quiz">60. Which of the following is an equation of the circle with center at (-2, 3) and a radius of 5 coordinate units in the standard (x, y) coordinate plane?
 
-<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\214.png' width = '254'height = '45'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\215.png' width = '267'height = '45'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\216.png' width = '268'height = '45'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 April 60E\imgs\214.png' width = '211'height = '38'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 April 60E\imgs\215.png' width = '222'height = '38'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 April 60E\imgs\216.png' width = '224'height = '38'/>
 </div>
-<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\217.png' width = '267'height = '45'/></div>
-<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\218.png' width = '268'height = '45'/>
+<div class = "choice">J.<img src='file:\$$$\resources\2005 April 60E\imgs\217.png' width = '222'height = '38'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2005 April 60E\imgs\218.png' width = '224'height = '38'/>
 
 </div></div>
+
 ###################

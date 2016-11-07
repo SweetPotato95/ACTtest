@@ -10,6 +10,8 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
 import java.awt.event.*;
+import java.io.File;
+import java.io.IOException;
 
 import javax.swing.AbstractCellEditor;
 import javax.swing.BorderFactory;
@@ -89,6 +91,7 @@ public class MenuView extends JPanel{
 		mainActivity = m;
 	}
 	public void enterTest(int i){
+		System.out.println(i);
 		mainActivity.initMainView(i);
 	}
 }
@@ -147,7 +150,9 @@ class MyTableModel extends AbstractTableModel{
 	  //重写isCellEditable方法
     public boolean isCellEditable(int r,int c)
     {
+    	if (c != 0)
         return true;
+    	return false;
     }
     //重写setValueAt方法
     public void setValueAt(Object value,int r,int c)
@@ -206,7 +211,15 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 	//监听器方法
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-		if(column == 2)return;
+		if(column == 2){
+			try {
+				Runtime.getRuntime().exec("cmd /c start D:");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return;
+		}
 		//System.out.println(row +" "+column);
 		menuView.enterTest(row);
 		

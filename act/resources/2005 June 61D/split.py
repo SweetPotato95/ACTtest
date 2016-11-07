@@ -31,7 +31,7 @@ def spilt_choice(filename):
 			f.write(row.replace('&','\n'))
 		else:
 			f.write(line.replace('&','\n'))
-	f.write("###################\n")
+	f.write("\n###################\n")
 	f.close()
 
 def split_english(src, dst):
@@ -103,11 +103,13 @@ def split_science(src, dst):
 	lines = f.readlines()
 	f.close()
 	f = open(dst,'w',encoding= 'utf-8')
+	head = '<h1>' + lines[1][:-1] + '</h1>\n'
+	f.write(head)
 	pattern = r'^([0-9])+\. '
 	pptable = r'^#####(\d+)'
 	p = re.compile(pptable)
 	index = 0
-	for i in range(1,len(lines)):
+	for i in range(2,len(lines)):
 		row = lines[i]
 		if re.search(pptable, row):
 			for n in p.findall(row):

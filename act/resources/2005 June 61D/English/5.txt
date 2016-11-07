@@ -109,4 +109,5 @@
 <div class = "choice">B.Yes, because the sentence clarifies what the essay is about.</div>
 <div class = "choice">C.No, because the sentence does not add anything significant to the essay.</div>
 <div class = "choice">D.No, because the sentence contradicts information contained in the essay.</div>
-</div>###################
+</div>
+###################

@@ -2,8 +2,6 @@ package act.View;
 
 import javax.swing.*;
 import act.Controller.MainController;
-import act.Controller.math;
-import act.Controller.reading;
 import act.Model.*;
 import java.awt.*;
 import java.awt.event.AWTEventListener;
@@ -122,7 +120,7 @@ public class MainView extends JPanel{
 	}
 	public void showScoreView(){
 		mainContent.removeAll();
-		mainContent.add(scoreListView,0);
+		mainContent.add(scoreListView);
 		navBar.scoreMode();
 		scoreListView.init();
 		scoreListView.setVisible(true);

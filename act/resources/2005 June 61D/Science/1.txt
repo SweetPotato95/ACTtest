@@ -1,9 +1,9 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Passage I</div>
+<h1>Passage I</h1>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since 1880, Earth’s average surface temperature has increased by 0.5℃. This global warming has caused ocean surface temperature increases and the melting of parts of the polar ice caps. Two scientists discuss the cause of these events.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Global warming is caused by human activities that have significantly increased the atmospheric concentration of <img src='file:\$$$\resources\2005 June 61D\imgs\133.png' width = '66'height = '50'/> above the concentration prior to 1880. <img src='file:\$$$\resources\2005 June 61D\imgs\134.png' width = '66'height = '50'/>is one of several greenhouse gases (gases that trap heat emitted from Earth’s surface). Human activities, primarily the burning of fossil fuels, have added significant additional <img src='file:\$$$\resources\2005 June 61D\imgs\135.png' width = '66'height = '50'/> to the air (6 billion tons per year at present). This has increased the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\136.png' width = '66'height = '50'/> concentration by 30% since 1880. The higher the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\137.png' width = '66'height = '50'/> concentration, the warmer Earth’s average surface temperature. While atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\138.png' width = '66'height = '50'/> concentrations have been steadily increasing over the past 18,000 years, the annual rate of increase over the past 100 years has been 10 to 100 times faster than the rate of increase prior to 1880. Eight of the warmest years on record have occurred since 1979.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Global warming is caused by human activities that have significantly increased the atmospheric concentration of <img src='file:\$$$\resources\2005 June 61D\imgs\133.png' width = '55'height = '42'/> above the concentration prior to 1880. <img src='file:\$$$\resources\2005 June 61D\imgs\134.png' width = '55'height = '42'/>is one of several greenhouse gases (gases that trap heat emitted from Earth’s surface). Human activities, primarily the burning of fossil fuels, have added significant additional <img src='file:\$$$\resources\2005 June 61D\imgs\135.png' width = '55'height = '42'/> to the air (6 billion tons per year at present). This has increased the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\136.png' width = '55'height = '42'/> concentration by 30% since 1880. The higher the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\137.png' width = '55'height = '42'/> concentration, the warmer Earth’s average surface temperature. While atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\138.png' width = '55'height = '42'/> concentrations have been steadily increasing over the past 18,000 years, the annual rate of increase over the past 100 years has been 10 to 100 times faster than the rate of increase prior to 1880. Eight of the warmest years on record have occurred since 1979.</div>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Changes in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\139.png' width = '66'height = '50'/> concentration have little or no effect on average surface temperature. Global warming is caused by an increase in the energy output of the Sun and by regular changes in the shape of Earth’s orbit. A less elliptical orbit corresponds to a warmer climate. These 2 factors explain at least 80% of the observed surface temperature increase. The rest can be explained by decreases in the amount of atmospheric sulfate aerosols and increases in the stratospheric ozone content. The 6 billion tons/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\140.png' width = '66'height = '50'/> from human activities is a very small proportion of the total 186 billion ton/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\141.png' width = '66'height = '50'/> that enter the atmosphere. Studies of climate records over hundreds of thousands of year show that average surface temperature has increased and decreased in regular cycles that coincide with increases and decreases in solar energy output. This parallel relationship is particularly evident in the steady warming of average surface temperature since the end of the last ice age 18,000 years ago.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Changes in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\139.png' width = '55'height = '42'/> concentration have little or no effect on average surface temperature. Global warming is caused by an increase in the energy output of the Sun and by regular changes in the shape of Earth’s orbit. A less elliptical orbit corresponds to a warmer climate. These 2 factors explain at least 80% of the observed surface temperature increase. The rest can be explained by decreases in the amount of atmospheric sulfate aerosols and increases in the stratospheric ozone content. The 6 billion tons/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\140.png' width = '55'height = '42'/> from human activities is a very small proportion of the total 186 billion ton/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\141.png' width = '55'height = '42'/> that enter the atmosphere. Studies of climate records over hundreds of thousands of year show that average surface temperature has increased and decreased in regular cycles that coincide with increases and decreases in solar energy output. This parallel relationship is particularly evident in the steady warming of average surface temperature since the end of the last ice age 18,000 years ago.</div>
 ###################
 <div class = "quiz">1. If Earth’s average surface temperature continues to increase, both Scientist 1 and Scientist 2 would most likely agree that which of the following environmental changes would occur?
 
@@ -13,7 +13,7 @@
 <div class = "choice">D.Average ocean temperatures would remain constant.</div>
 </div>
 ###################
-<div class = "quiz">2. If the <img src='file:\$$$\resources\2005 June 61D\imgs\142.png' width = '66'height = '50'/> input from human activities could be reduced to zero, Scientist 2 would most likely state that this change would have which of the following resulting effects, if any, on global climate? This change would:
+<div class = "quiz">2. If the <img src='file:\$$$\resources\2005 June 61D\imgs\142.png' width = '55'height = '42'/> input from human activities could be reduced to zero, Scientist 2 would most likely state that this change would have which of the following resulting effects, if any, on global climate? This change would:
 
 <div class = "choice">F.cause an immediate increase in global temperature.</div>
 <div class = "choice">G.cause an immediate decrease in global temperature.</div>
@@ -22,12 +22,12 @@
 </div>
 ###################
 <div class = "quiz">3. If Scientist 2 is correct, which of the following graphs would best represent the relationship between solar energy output and Earth’s average surface temperature trends over the past 18,000 years?
-Key┉┉Earth’s average surface temperature____solar energy output<img src='file:\$$$\resources\2005 June 61D\imgs\143.png' width = '432'height = '1051'/>
+Key┉┉Earth’s average surface temperature____solar energy output<img src='file:\$$$\resources\2005 June 61D\imgs\143.png' width = '576'height = '1401'/>
 
 </div>
 ###################
-<div class = "quiz">4. According to the viewpoint of Scientist 1, which of the following graphs best represent the increase in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\144.png' width = '66'height = '50'/> concentration over the past 200 years?
-<img src='file:\$$$\resources\2005 June 61D\imgs\145.png' width = '503'height = '448'/>
+<div class = "quiz">4. According to the viewpoint of Scientist 1, which of the following graphs best represent the increase in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\144.png' width = '55'height = '42'/> concentration over the past 200 years?
+<img src='file:\$$$\resources\2005 June 61D\imgs\145.png' width = '671'height = '597'/>
 
 </div>
 ###################
@@ -44,13 +44,14 @@ Key┉┉Earth’s average surface temperature____solar energy output<img src='f
 <div class = "choice">F.can be changed to oxygen through chemical reactions in the atmosphere.</div>
 <div class = "choice">G.has the ability to trap heat that would otherwise be lost to space.</div>
 <div class = "choice">H.is the major gaseous component of Earth’s atmosphere.</div>
-<div class = "choice">J.has a molecular mass much lower than the molecular mass of<img src='file:\$$$\resources\2005 June 61D\imgs\146.png' width = '66'height = '50'/>.</div>
+<div class = "choice">J.has a molecular mass much lower than the molecular mass of<img src='file:\$$$\resources\2005 June 61D\imgs\146.png' width = '55'height = '42'/>.</div>
 </div>
 ###################
-<div class = "quiz">7. Scientist 2 would most likely agree that, compared to the amount of <img src='file:\$$$\resources\2005 June 61D\imgs\147.png' width = '66'height = '50'/> that human activities put into the atmosphere each year, the amount put into the atmosphere each year from sources other than human activities is how many times greater?
+<div class = "quiz">7. Scientist 2 would most likely agree that, compared to the amount of <img src='file:\$$$\resources\2005 June 61D\imgs\147.png' width = '55'height = '42'/> that human activities put into the atmosphere each year, the amount put into the atmosphere each year from sources other than human activities is how many times greater?
 
 <div class = "choice">A.5 times greater</div>
 <div class = "choice">B.10 times greater</div>
 <div class = "choice">C.20 times greater</div>
 <div class = "choice">D.30 times greater</div></div>
+
 ###################

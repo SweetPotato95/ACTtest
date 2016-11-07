@@ -3,7 +3,6 @@ package act.View;
 import javax.swing.*;
 import java.awt.*;
 
-import act.Controller.reading;
 import act.Model.*;
 
 public class PassageView extends JPanel{

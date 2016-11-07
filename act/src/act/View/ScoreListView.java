@@ -17,7 +17,7 @@ import javax.swing.table.*;
 public class ScoreListView extends JPanel{
 	private boolean DEBUG = true;
 	private JTable table;
-	private String[] columnNames = {"Passage(Part)Name","Score(Details Touch the ... Button)"};
+	private String[] columnNames = {"Passage(Part)Name","Score"};
 	private Object[][] values;
 	DefaultTableModel model;
 	public ScoreListView(){
@@ -30,7 +30,16 @@ public class ScoreListView extends JPanel{
 		values = AnswerModel.getTotalScore();
 		 model = new DefaultTableModel(values,columnNames);
 		 
-		 table = new JTable(model);
+		 table = new JTable(model){
+			private static final long serialVersionUID = 1L;
+			public boolean isCellEditable(int row,int column)
+			 {
+				if (column == 1) return true;
+				return false;
+			 }
+		 };
+		 table.setPreferredScrollableViewportSize(new Dimension(400,80));
+		 table.setRowHeight(25);
 		 table.setBackground(Color.YELLOW);
 		 //table.setPreferredScrollableViewportSize(new Dimension(500, 0));
 		 JScrollPane scrollPane = new JScrollPane(table);

@@ -2,10 +2,10 @@
 Passage VI
 The concentration of dissolved oxygen (DO) in river water affects the fish in the river. Many freshwater fish species, including crappie, perch, and bass, require a minimum average DO concentration of 5 parts per million (ppm) to thrive. Other fish, such as carp and gar, can tolerate average DO concentrations as low as 3 ppm. Table 1 shows the DO concentration at saturation for water at various temperatures. Figures 1 and 2 show the measured changes in a river’s water temperature and DO concentration, respectively, over a 24-hour period in midsummer. Table 2 shows how the DO concentration affects fish species in a river.
 #####9
-<img src='file:\$$$\resources\2005 June 61D\imgs\174.png' width = '571'height = '378'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\174.png' width = '761'height = '504'/>
 Note: This river is located in a temperate region (cold winters, warm summers).
 Figure 1
-<img src='file:\$$$\resources\2005 June 61D\imgs\175.png' width = '571'height = '329'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\175.png' width = '761'height = '439'/>
 #####10
 Table 1 and Figures 1 and 2 adapted from American Chemical Society, ChmeCom: Chemistry in the Community, 2nd ed. © 1993 by American Chemical Society.
 31. River water is often used in industrial processed and is then returned to the river much warmer than when it was removed. Based only on the information in Table 1, why would this warmed water be a potential danger to fish populations? The warmed river water most likely has:
@@ -23,7 +23,7 @@ J. Remains the same   Steadily increases
 A. Less than 25℃  B. Between 25℃ and 30℃
 C. Between 30℃ and 35℃  D. Greater than 35℃
 34. Which of the following graphs best represents the relationship between water temperature and DO concentration at saturation shown in Table 1?
-<img src='file:\$$$\resources\2005 June 61D\imgs\176.png' width = '390'height = '1088'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\176.png' width = '520'height = '1450'/>
 35. According to Figure 1 and Figure 2, what were the measured water temperature and DO concentration of the river water at 10 P.M.?
 A. 21℃ and 9.3 ppm  B. 22℃ and 9.3 ppm  C. 22℃ and 9.2 ppm  D. 23℃ and 9.1 ppm
 

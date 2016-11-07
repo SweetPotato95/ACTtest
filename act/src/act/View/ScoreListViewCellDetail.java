@@ -14,7 +14,7 @@ public class ScoreListViewCellDetail extends JDialog{
 	 * 
 	 */
 	private static final long serialVersionUID = -6275845889135880243L;
-String[] colunmNames = {"QuestionId","CorrectAnswer","YourAnswer","Score"};
+String[] colunmNames = {"QuestionId","YourAnswer","CorrectAnswer","Score"};
  public Object[][] values = { 
             {"1","A","A","1"}, 
             {"2","B","B","1"}, 
@@ -34,6 +34,7 @@ String[] colunmNames = {"QuestionId","CorrectAnswer","YourAnswer","Score"};
  public void init(){
 	 model = new DefaultTableModel(values,colunmNames);
 	 detailScoreTable = new JTable(model);
+//	 detailScoreTable.setRowHeight(30);
 	 scrollPane = new JScrollPane(detailScoreTable);
 	 scrollPane.setSize((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),(int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
 	 //this.remove(scrollPane);

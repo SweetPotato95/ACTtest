@@ -4,6 +4,9 @@ import javax.swing.text.html.HTMLDocument;
 import javax.swing.text.html.HTMLEditorKit;
 
 import act.Controller.*;
+import act.Model.math;
+import act.Model.reading;
+
 import java.awt.*;
 
 public class InstructionView extends JPanel{

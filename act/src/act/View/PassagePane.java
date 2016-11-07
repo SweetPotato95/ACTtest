@@ -2,7 +2,6 @@ package act.View;
 
 import javax.swing.*;
 
-import act.Controller.reading;
 import act.Model.*;
 import java.awt.Dimension;
 import java.awt.Font;
