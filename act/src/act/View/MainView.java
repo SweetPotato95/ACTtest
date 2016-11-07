@@ -55,7 +55,7 @@ public class MainView extends JPanel{
           @Override  
           public void eventDispatched(AWTEvent event) {  
               // TODO Auto-generated method stub  
-              if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED){  
+              if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED && MainController.notThisPartWriting()){  
                   switch (((KeyEvent)event).getKeyCode()) {  
                   case KeyEvent.VK_ENTER:  
                        //System.out.println("fuckyou");

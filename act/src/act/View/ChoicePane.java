@@ -36,14 +36,21 @@ public class ChoicePane extends JPanel{
 			this.add(choicelist[i]);
 		}
 		this.setLayout(new BoxLayout(this,BoxLayout.Y_AXIS));
+		int height = this.getHeight();
 		if(type == ViewConstants.DISPALY_CHOICE_PANE_PART){
+			//this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,height));
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
-			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+			//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,10000));
+			//this.setMinimumSize(new Dimension(0, ViewConstants.CHOICEPANE_HEIGHT));
 			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
 		}
 		else if(type == ViewConstants.DISPALY_CHOICE_PANE_WHOLE){
+			
+			//
+			//this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,height));
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
-			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+			//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,10000));
+			//this.setMinimumSize(new Dimension(0, ViewConstants.CHOICEPANE_HEIGHT));
 			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
 			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
 		}
@@ -97,4 +104,5 @@ public void init(int questionIndex,int splitIndex,int partIndex){
 	public void resetChecked(){
 		checkOption(MainController.getAnswer(curIndex));
 	}
+	
 }
