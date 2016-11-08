@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledDocument"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyAdapter"/>
+<fullyQualifiedTypeName name="javax.swing.event.DocumentListener"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.Border"/>
+<fullyQualifiedTypeName name="javax.swing.border.LineBorder"/>
+<fullyQualifiedTypeName name="java.awt.Dimension"/>
 </qualifiedTypeNameHistroy>

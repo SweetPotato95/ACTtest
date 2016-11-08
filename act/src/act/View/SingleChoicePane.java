@@ -1,5 +1,6 @@
 package act.View;
 
+import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -29,6 +30,8 @@ public class SingleChoicePane extends JPanel{
 				choicePane.checkOption(index);
 			}
 		});
+		
+		//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,1000));
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
 		this.add(button);
 		index = i;

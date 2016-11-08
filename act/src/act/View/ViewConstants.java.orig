@@ -25,6 +25,8 @@ public class ViewConstants{
 
 	public static int WRITING_INPUTPANE_WIDTH;
 	public static int WRITING_INPUTPANE_HEIGHT;
+	public static int WRITING_CONTROLPANE_HEIGHT;
+	public static int WRITING_EDITORPANE_HEIGHT;
 	public static int WRITING_PASSAGEPANE_WIDTH;
 	public static int WRITING_PASSAGEPANE_HEIGHT;
 	
@@ -35,18 +37,16 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_LEFT ;
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
-<<<<<<< HEAD
-	public static int[] TIME_LIMIT_PER_PART = {5,25,5,5,5};
-=======
 	public static Font choiceFont = new Font("Microsoft Yahei",Font.PLAIN,15);
 	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,18);
 	public static Font instructionTitleFont = new Font("Microsoft Yahei",Font.BOLD,30);
 	public static Font instructionBodyFont = new Font("Microsoft Yahei",Font.PLAIN,20);
-	
-	
-	public static int[] TIME_LIMIT_PER_PART = {5,500,1000,5,5};
+<<<<<<< HEAD
+	public static int[] TIME_LIMIT_PER_PART = {1,1,1,1,1000};	
+=======
+	public static int[] TIME_LIMIT_PER_PART = {5,80,10,10,10};
 >>>>>>> zehuatest
-
+	
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();
 		MAINPANEL_WIDTH = (int) Math.ceil(sc.getWidth());
@@ -62,6 +62,8 @@ public class ViewConstants{
 		
 		WRITING_INPUTPANE_WIDTH = (int)Math.floor(0.55*MAINCONTENT_WIDTH);
 		WRITING_INPUTPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);
+		WRITING_EDITORPANE_HEIGHT = (int) Math.floor(0.9*WRITING_INPUTPANE_HEIGHT);
+		WRITING_CONTROLPANE_HEIGHT = (int) Math.floor(0.1*WRITING_INPUTPANE_HEIGHT);
 		WRITING_PASSAGEPANE_WIDTH = (int)Math.floor(0.4*MAINCONTENT_WIDTH);
 		WRITING_PASSAGEPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);
 		SCORE_LIST_VIEW_DETAIL_PADDING_LEFT = (MAINCONTENT_WIDTH-SCORE_LIST_VIEW_DETAIL_WIDTH)/2;

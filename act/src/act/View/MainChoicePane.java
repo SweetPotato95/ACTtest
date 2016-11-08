@@ -14,6 +14,7 @@ public class MainChoicePane extends JPanel{
 	private static final long serialVersionUID = 6L;
 	private ChoicePane choicepane = new ChoicePane();	//the choice panel
 	private JTextPane titlePane = new JTextPane();
+	private JScrollPane scrollPane = new JScrollPane();
 	private reading readingBrain;
 	private math mathBrain;
 	public MainChoicePane()
@@ -23,7 +24,17 @@ public class MainChoicePane extends JPanel{
 	
 	public void init(int type){
 		choicepane.init(type);
-		
+		if(type == ViewConstants.DISPALY_CHOICE_PANE_PART){
+			scrollPane.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
+			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+		}
+		else if(type == ViewConstants.DISPALY_CHOICE_PANE_WHOLE){
+			scrollPane.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
+			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+			//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
+		}
 		titlePane.setText("<html><body>afsdddd<img src=\"7.gif\">fuck you son of<><table style=\"border: 1px solid black\"><tr><td>1</td><td>2</td></tr></table> bitchasd asd asdsadhsa kjdhks ahdksahdjk sahd jksahdkj ahsdkjashdkl sjadla sdhk asd</body></html>");
 		titlePane.setOpaque(false);
 		titlePane.setFont(ViewConstants.choiceTitleFont);
@@ -35,7 +46,11 @@ public class MainChoicePane extends JPanel{
 		
 		this.setLayout(new BorderLayout());
 		this.add(titlePane,BorderLayout.PAGE_START);
-		this.add(choicepane,BorderLayout.CENTER);
+		
+		//scrollPane = new JScrollPane(choicepane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+		//scrollPane.add(choicepane);
+		//this.add(scrollPane,BorderLayout.CENTER);
+		this.add(choicepane, BorderLayout.CENTER);
         if(type == ViewConstants.DISPALY_CHOICE_PANE_PART){
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
         	//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));

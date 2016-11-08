@@ -229,4 +229,8 @@ public class MainController{
 		
 	}
 	
+	public static boolean notThisPartWriting(){
+		return (partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing);
+	}
+	
 };
