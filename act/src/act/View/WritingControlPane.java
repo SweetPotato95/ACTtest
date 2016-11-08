@@ -74,7 +74,7 @@ public class WritingControlPane extends JPanel{
 	
 	public void handleCopy(){
 		currentCopyText = writingInputPane.getSelectedText();
-		System.out.println(currentCopyText);
+//		System.out.println(currentCopyText);
 	}
 	public void handlePaste(){
 		writingInputPane.appendCopyText(currentCopyText);

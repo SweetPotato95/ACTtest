@@ -145,6 +145,9 @@ public class MainView extends JPanel{
 			showPassageView();
 		}
 		else{
+			writingView.requestUpdate(questionIndex, splitIndex, partIndex);
+			mainContent.remove(writingView);
+			mainContent.add(writingView, ViewConstants.WRITINGVIEW_LAYER);
 			showWritingView();
 		}
 	}

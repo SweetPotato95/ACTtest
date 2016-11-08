@@ -38,10 +38,10 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
 	public static Font choiceFont = new Font("Microsoft Yahei",Font.PLAIN,15);
-	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,20);
+	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,18);
 	public static Font instructionTitleFont = new Font("Microsoft Yahei",Font.BOLD,30);
 	public static Font instructionBodyFont = new Font("Microsoft Yahei",Font.PLAIN,20);
-	public static int[] TIME_LIMIT_PER_PART = {1,1,1,1,1000};	
+	public static int[] TIME_LIMIT_PER_PART = {20,20,20,20,20};	
 
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();

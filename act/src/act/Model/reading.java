@@ -37,15 +37,16 @@ public class reading {
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
-		if(partIndex == ModelConstants.MATH || partIndex == ModelConstants.WRITING){
+		if(partIndex == ModelConstants.MATH ){
 			//System.out.println("Miss request from Math to Reading");
 			return;
 		}
 		if(partIndex >= ModelConstants.WRITING){
 			this.partIndex = partIndex;
 			this.splitIndexinPart = 0;
-			this.path = "";
-			this.passage = null;
+			this.path = ModelConstants.TESTPATH[this.testIndex]
+					+tests[partIndex]+"1.txt";
+			this.passage = readText.readPassage(path);
 			this.quizs = null;
 			return;
 		}

@@ -50,21 +50,33 @@ public class PassagePane extends JPanel{
 	
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 //		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ questionIndex);
-		int questionId = basicInfo.questionIndexinSplit(questionIndex);
-		String passagetext = readingBrain.getPassage();
-		questionId += 1;
-		String substring = "<font id="+questionId+">";
-		passagetext = passagetext.replace(substring, "<font style=\"background-color:yellow;\">");
-//		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ passagetext);
-		passagepane.setText("<html><body>"+passagetext+"</body></html>");
-		int height = scrollPane.getVerticalScrollBar().getValue();
-		javax.swing.SwingUtilities.invokeLater(new Runnable() {
-			   public void run() {
-			       scrollPane.getVerticalScrollBar().setValue(height);
-			       scrollPane.revalidate();
-			   }
-			});
-		
+		if(partIndex != ModelConstants.WRITING){
+			int questionId = basicInfo.questionIndexinSplit(questionIndex);
+			String passagetext = readingBrain.getPassage();
+			questionId += 1;
+			String substring = "<font id="+questionId+">";
+			passagetext = passagetext.replace(substring, "<font style=\"background-color:yellow;\">");
+	//		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ passagetext);
+			passagepane.setText("<html><body>"+passagetext+"</body></html>");
+			int height = scrollPane.getVerticalScrollBar().getValue();
+			javax.swing.SwingUtilities.invokeLater(new Runnable() {
+				   public void run() {
+				       scrollPane.getVerticalScrollBar().setValue(height);
+				       scrollPane.revalidate();
+				   }
+				});
+		}
+		else {
+			String passagetext = readingBrain.getPassage();
+			passagepane.setText("<html><body>"+passagetext+"</body></html>");
+			int height = scrollPane.getVerticalScrollBar().getValue();
+			javax.swing.SwingUtilities.invokeLater(new Runnable() {
+				   public void run() {
+				       scrollPane.getVerticalScrollBar().setValue(height);
+				       scrollPane.revalidate();
+				   }
+				});
+		}
 		
 	}
 };

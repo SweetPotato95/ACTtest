@@ -34,7 +34,9 @@ public class PassageView extends JPanel{
    	}
    	
    	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
-   		mainchoicepane.requestUpdate(questionIndex, splitIndex, partIndex);
-   		passagepane.requestUpdate(questionIndex, splitIndex, partIndex);
+   		if(partIndex != ModelConstants.WRITING){
+   			mainchoicepane.requestUpdate(questionIndex, splitIndex, partIndex);
+   			passagepane.requestUpdate(questionIndex, splitIndex, partIndex);
+   		}
    	}
 };

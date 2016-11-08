@@ -149,7 +149,8 @@ public class MainController{
 			values[i] = AnswerModel.getAnsModel(i);
 		}
 		Object[][] totalScore = AnswerModel.getTotalScore();
-		ps.writePDF(ModelConstants.TESTNAME[testIndex], name, values,totalScore);
+		String text = AnswerModel.getText();
+		ps.writePDF(ModelConstants.TESTNAME[testIndex], name, values,totalScore, text);
 	}
 	
 	public static void setMainContent(MainView v){
@@ -164,6 +165,12 @@ public class MainController{
 	}
 	public static void setAnswer(int questionIndex,int answer){
 		ans.setAns(questionIndex, answer);
+	}
+	public static void setText(String text){
+		ans.setText(text);
+	}
+	public static String getText(){
+		return ans.getText();
 	}
 	public static int getAnswer(int questionIndex){
 		return ans.getAnswer(questionIndex);

@@ -36,23 +36,26 @@ public class WritingInputPane extends JPanel{
 	public void init(){
 	
 		editorPane.getDocument().addDocumentListener(new DocumentListener(){
-
+			
 			@Override
 			public void changedUpdate(DocumentEvent arg0) {
 				// TODO Auto-generated method stub
 				getCount();
+				MainController.setText(getText());
 			}
 
 			@Override
 			public void insertUpdate(DocumentEvent arg0) {
 				// TODO Auto-generated method stub
 				getCount();
+				MainController.setText(getText());
 			}
 
 			@Override
 			public void removeUpdate(DocumentEvent arg0) {
 				// TODO Auto-generated method stub
 				getCount();
+				MainController.setText(getText());
 			}
 			
 		});
@@ -108,14 +111,16 @@ public class WritingInputPane extends JPanel{
 		for(int i=0;i<sp.length;i++){
 			
 			if(!sp[i].contentEquals("") && !sp[i].contentEquals(" ")){// empty string
-				System.out.println("--"+sp[i]+"--");
+//				System.out.println("--"+sp[i]+"--");
 				count++;
 			}
 		}
 		
 		
-		System.out.println(count);
+//		System.out.println(count);
 	    writingControlPane.setCountLable("Word Count: "+Integer.toString(count));
 	}
-	
+	public String getText(){
+		return editorPane.getText();
+	}
 };

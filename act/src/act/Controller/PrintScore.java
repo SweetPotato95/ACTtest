@@ -24,7 +24,7 @@ public class PrintScore {
 //            {"4","B","A","1"}, 
 //            {"5","A","A","0"} 
 //	};
-	public void writePDF(String testname, String name, Object[][][] values, Object[][] totalScore){
+	public void writePDF(String testname, String name, Object[][][] values, Object[][] totalScore, String text){
 		doc = new Document(PageSize.A4);
 		Calendar c = Calendar.getInstance();
 		System.out.println(c.getTime());
@@ -66,6 +66,11 @@ public class PrintScore {
 				pr.setIndentationLeft(12); 
 				doc.add(pr);
 			}
+			pr = new Paragraph("Your writing: ");
+			pr.setSpacingAfter(5);
+			doc.add(pr);
+			pr = new Paragraph(text);
+			doc.add(pr);
 			doc.close();
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block

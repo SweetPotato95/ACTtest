@@ -1,6 +1,9 @@
 package act.View;
 
 import javax.swing.*;
+
+import act.Model.ModelConstants;
+
 import java.awt.*;
 
 
@@ -31,8 +34,12 @@ public class WritingView extends JPanel{
 		this.setVisible(true);
 		
 	}
-	
-	
+	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
+   		passagePane.requestUpdate(questionIndex, splitIndex, partIndex);
+   	}
+	public String getText(){
+		return writingInputPane.getText();
+	}
 	
 //
 //   	public void init(){
