@@ -16,6 +16,7 @@ public class ScoreListViewCellRenderer extends JPanel implements TableCellRender
              edit_txf.setOpaque(false);
              edit_txf.setBorder(null);
              add(edit_txf);
+             edit_txf.setEditable(false);
              add(edit_btn,BorderLayout.EAST);
              edit_btn.setBackground(Color.lightGray);
              edit_btn.setPreferredSize(new Dimension(130,getHeight()));

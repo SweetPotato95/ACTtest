@@ -5,6 +5,7 @@ public class AnswerModel{
 	private static int[] correct_ans = new int[ModelConstants.QUESTIONNUM_TOTAL+1];
 	private static TestBasicInfo testBasicInfo;
 	private static Object[][][] ansForPart = new Object[5][][];
+	private static String writingText = "";
 	private static Object[][] totalScore = new Object[5][2];
 	public AnswerModel(){
 		for(int i=0;i<ModelConstants.QUESTIONNUM_TOTAL;i++){
@@ -16,6 +17,12 @@ public class AnswerModel{
 	}
 	public void setAns(int questionIndex,int answer){
 		ans[questionIndex] = answer;
+	}
+	public void setText(String text){
+		writingText = text;
+	}
+	public static String getText(){
+		return writingText;
 	}
 	public int getAnswer(int questionIndex){
 		return ans[questionIndex];

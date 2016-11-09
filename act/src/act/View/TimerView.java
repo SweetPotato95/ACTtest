@@ -31,7 +31,10 @@ public class TimerView extends JPanel{
 	private JLabel jl2;
 	private JLabel jl3;
 	private JTextPane jtp;
+	private Thread t;
 	private boolean inCountingMode = true;
+	private boolean suspended = false;
+	private String count = "";
 
 	/* 倒计时的主要代码块 */
 	public void startCount(int hour,int minute,int seconds) {
@@ -43,7 +46,7 @@ public class TimerView extends JPanel{
 	}
 	public void startCount(int totalTime) {
 
-		new Thread(){
+		t = new Thread(){
 			public void run(){
 				long time = totalTime; // 自定义倒计时时间
 				long hour = 0;
@@ -64,6 +67,12 @@ public class TimerView extends JPanel{
 					jl3.setText(seconds + "");
 					try {
 						Thread.sleep(1000);
+						synchronized(this){
+							while(suspended){
+								Thread.sleep(1000);
+//								wait();
+							}
+						}
 					} catch (InterruptedException e) {
 						e.printStackTrace();
 					}
@@ -79,9 +88,8 @@ public class TimerView extends JPanel{
 				
 				
 			}
-		}.start();
-		
-
+		};
+		t.start();
 	}
 
 	/* 构造 实现界面的开发 GUI */
@@ -99,6 +107,9 @@ public class TimerView extends JPanel{
 		JPanel jp = new JPanel();
 		jp.setLayout(new BoxLayout(jp,BoxLayout.X_AXIS));
 		this.setLayout(new BoxLayout(this,BoxLayout.Y_AXIS));
+		jl1.setFont(new Font("Microsoft YAHEI",0,18));
+		jl2.setFont(new Font("Microsoft YAHEI",0,18));
+		jl3.setFont(new Font("Microsoft YAHEI",0,18));
 		jp.add(jl1);
 		jp.add(jl2);
 		jp.add(jl3);
@@ -128,6 +139,13 @@ public class TimerView extends JPanel{
 		jl2.setText(minute + " : ");
 		jl3.setText(seconds + "");
 	}
-	
-
+	public void suspend(){
+		suspended = true;
+	}
+	public synchronized void resume(){
+		suspended = false;
+	}
+	public Boolean isAlive(){
+		return t.isAlive();
+	}
 }

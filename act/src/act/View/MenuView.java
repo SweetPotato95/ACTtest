@@ -1,6 +1,7 @@
 package act.View;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
 import java.awt.Dimension;
@@ -15,6 +16,7 @@ import java.io.IOException;
 
 import javax.swing.AbstractCellEditor;
 import javax.swing.BorderFactory;
+import javax.swing.Box;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -32,10 +34,6 @@ import act.Model.ModelConstants;
 public class MenuView extends JPanel{
 	private JTable table = null;
 	private MyTableModel model = null;
-
-
-
-
 	private MainActivity mainActivity ;
 	private JPanel Title = null;
 	private JLabel content = null;
@@ -48,25 +46,35 @@ public class MenuView extends JPanel{
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH,ViewConstants.MAINPANEL_HEIGHT));
 		this.setLayout(new GridBagLayout());
 		
-		content = new JLabel("ACT模考");
+		content = new JLabel("ACT TEST");
 		content.setFont(new Font("微软雅黑",Font.PLAIN,25));
+		
 		content.setSize(100,100);
 		Title = new JPanel();
 		Title.add(content);
-		this.add(content);
+		
+//		this.add(content);
 		this.add(Title, new GBC(0,0,1,1).  
-                setFill(GBC.BOTH).setIpad(ViewConstants.MAINPANEL_WIDTH, 50).setWeight(100, 0));
+                setFill(GBC.BOTH).setIpad(ViewConstants.MAINPANEL_WIDTH, 10).setWeight(100, 0));
 		
 		model = new MyTableModel();
 		table = new JTable(model);
 		
 		ButtonColumn buttonColumn1 = new ButtonColumn(table,1);
 		ButtonColumn buttonColumn2 = new ButtonColumn(table,2);
+		ButtonColumn buttonColumn3 = new ButtonColumn(table,3);
+		ButtonColumn buttonColumn4 = new ButtonColumn(table,4);
+		ButtonColumn buttonColumn5 = new ButtonColumn(table,5);
+		ButtonColumn buttonColumn6 = new ButtonColumn(table,6);
+		ButtonColumn buttonColumn7 = new ButtonColumn(table,7);
 		
 		buttonColumn1.setMenuView(this);
 		buttonColumn2.setMenuView(this);
 //		table.setEnabled(false);
 		table.setShowVerticalLines(false);
+		table.getColumn("Test").setPreferredWidth(300);
+		table.getColumn("Complete").setPreferredWidth(180);
+		table.getColumn("Report").setPreferredWidth(180);
 		//table.setRowHeight(28);
 		table.setFont(new Font("微软雅黑",Font.PLAIN,14));
 		// 字居中
@@ -94,28 +102,28 @@ public class MenuView extends JPanel{
 		System.out.println(i);
 		mainActivity.initMainView(i);
 	}
+	public void enterSplit(int i, int j){
+		System.out.println(i+ "," +j);
+	}
 }
 
 class MyTableModel extends AbstractTableModel{
 	//单元格元素类型
-	private Class[] cellType={String.class,JButton.class,JButton.class};
+	private Class[] cellType={String.class,JButton.class,JButton.class,JButton.class,JButton.class,JButton.class,JButton.class,JButton.class};
 	//表头
 	
-	private String[] colNames = {"Test","Complete","Report"};
+	private String[] colNames = {"Test","Complete","English","Math","Reading","Science","Writing","Report"};
 	//模拟数据
 	private Object[][] obj = null;
 	public MyTableModel(){
-		obj = new Object[2][3];
+		obj = new Object[2][8];
 		for (int i = 0; i < 2; i++){
-			for (int j = 0; j < 3; j++){
+			for (int j = 0; j < 8; j++){
 				switch(j){
 				case 0:
 					obj[i][j] = ModelConstants.TESTNAME[i];
 					break;
-				case 1:
-					obj[i][j] = new JButton();
-					break;
-				case 2:
+				default:
 					obj[i][j] = new JButton();
 					break;
 				}
@@ -177,11 +185,11 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
         super();
         this.table = table;
         this.column = column;
-        if (column == 1){
+        if (column != 7){
         	rb = new JButton(text1,icon);
         	eb = new JButton(text1,icon);
         }
-        if (column == 2){
+        if (column == 7){
         	rb = new JButton(text2,icon);
         	eb = new JButton(text2,icon);
         }
@@ -211,9 +219,12 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 	//监听器方法
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-		if(column == 2){
+		if(column == 7){
 			try {
-				Runtime.getRuntime().exec("cmd /c start D:");
+//				System.out.println(new File(".").getAbsolutePath());
+				String path = new File(".").getAbsolutePath();
+				path = path.substring(0,path.length()-1) + "reports";
+				Runtime.getRuntime().exec("cmd /c start " + path);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -221,21 +232,22 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 			return;
 		}
 		//System.out.println(row +" "+column);
-		menuView.enterTest(row);
+		if (column == 1)menuView.enterTest(row);
+		else menuView.enterSplit(row, column);
 		
 	}
 	@Override
 	public Component getTableCellRendererComponent(JTable arg0, Object value,
 			boolean arg2, boolean arg3, int arg4, int arg5) {
-		if (column == 1)rb.setText(text1);
-		if (column == 2)rb.setText(text2);
+		if (column != 7)rb.setText(text1);
+		if (column == 7)rb.setText(text2);
         return rb;
 	}
 	@Override
 	public Component getTableCellEditorComponent(JTable table, Object value,
 			boolean isSelected, int row, int column) {
-		if (column == 1)eb.setText(text1);
-		if (column == 2)eb.setText(text2);
+		if (column != 7)eb.setText(text1);
+		if (column == 7)eb.setText(text2);
         this.row=row;
         return eb;
 	}

@@ -28,39 +28,40 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
  
  
  public ScoreListViewCellEditor(){ 
-  super();
-  setLayout(new BorderLayout());
-
-  edit_btn = new JButton("More details");
-  edit_txf = new JTextField();
-  edit_txf.setOpaque(false);
-  edit_txf.setBorder(null);
-  add(edit_txf);
-  add(edit_btn,BorderLayout.EAST);
-  edit_btn.setBackground(Color.lightGray);
-  edit_btn.setPreferredSize(new Dimension(130,getHeight()));
-  edit_btn.addActionListener(this);    //给单元格的JButton添加ActionListener，以便于弹出JDialog
- } 
+	  super();
+	  setLayout(new BorderLayout());
+	
+	  edit_btn = new JButton("More details");
+	  edit_txf = new JTextField();
+	  edit_txf.setOpaque(false);
+	  edit_txf.setBorder(null);
+	  edit_txf.setEditable(false);
+	  add(edit_txf);
+	  add(edit_btn,BorderLayout.EAST);
+	  edit_btn.setBackground(Color.lightGray);
+	  edit_btn.setPreferredSize(new Dimension(130,getHeight()));
+	  edit_btn.addActionListener(this);    //给单元格的JButton添加ActionListener，以便于弹出JDialog
+ }
  public void addCellEditorListener(CellEditorListener l) { 
-  listenerList.add(CellEditorListener.class,l); 
+	 listenerList.add(CellEditorListener.class,l); 
  } 
  public void removeCellEditorListener(CellEditorListener l) { 
-  listenerList.remove(CellEditorListener.class,l); 
+	 listenerList.remove(CellEditorListener.class,l); 
  } 
  private void fireEditingStopped(){ 
-  CellEditorListener listener; 
-  Object[]listeners = listenerList.getListenerList(); 
-  for(int i = 0; i < listeners.length; i++){ 
-   if(listeners[i]== CellEditorListener.class){ 
-    //之所以是i+1，是因为一个为CellEditorListener.class（Class对象）， 
-    //接着的是一个CellEditorListener的实例 
-    listener= (CellEditorListener)listeners[i+1]; 
-    //让changeEvent去通知编辑器已经结束编辑 
-    //          //在editingStopped方法中，JTable调用getCellEditorValue()取回单元格的值， 
-    //并且把这个值传递给TableValues(TableModel)的setValueAt() 
-    listener.editingStopped(changeEvent); 
-   } 
-  } 
+	  CellEditorListener listener; 
+	  Object[]listeners = listenerList.getListenerList(); 
+	  for(int i = 0; i < listeners.length; i++){ 
+		   if(listeners[i]== CellEditorListener.class){ 
+		    //之所以是i+1，是因为一个为CellEditorListener.class（Class对象）， 
+		    //接着的是一个CellEditorListener的实例 
+		    listener= (CellEditorListener)listeners[i+1]; 
+		    //让changeEvent去通知编辑器已经结束编辑 
+		    //          //在editingStopped方法中，JTable调用getCellEditorValue()取回单元格的值， 
+		    //并且把这个值传递给TableValues(TableModel)的setValueAt() 
+		    listener.editingStopped(changeEvent); 
+		   } 
+	  } 
  } 
  public void cancelCellEditing() {          
  } 

@@ -1,6 +1,11 @@
 package act.Controller;
 
 import act.View.*;
+
+import java.io.File;
+
+import javax.swing.JOptionPane;
+
 import act.MainActivity;
 import act.Model.*;
 
@@ -21,6 +26,7 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
+	private static PrintScore ps = new PrintScore();
 	
 	public MainController()
 	{
@@ -73,6 +79,7 @@ public class MainController{
 			return;
 		}
 		if(basicInfo.isLastInPart(questionIndex)){
+			if (mainView.isTimeAlive()) return;
 			submitThisPart();
 			isInstructionShowing = true;
 			
@@ -107,17 +114,44 @@ public class MainController{
 		
 	}
 	public static void handleScore(){
-		
 		mainView.setCountingStatus(false);
-		
-		
 		ans.judgeScore();
 		mainView.showScoreView();	
 	}
+	
+	public static void handleResume(){
+		mainView.resumeTimer();
+	}
+	public static void handlePause(){
+		mainView.pauseTimer();
+	}
 	public static void handleReturn(){
 		mainActivity.showMenuView();
-		ans.resetAll();
+		ans.resetAll();	
+	}
+	public static void handleSave(){
+		String name = ModelConstants.TESTNAME[testIndex];
+		name += " " + JOptionPane.showInputDialog("Please input file name: \n Eg: daxiang", "report");
+		if (name == "" || name == null) name = "report";
+		String path = new File(".").getAbsolutePath();
+		path = path.substring(0,path.length()-1) + "reports\\";
+		path += name + ".pdf";
+		File file = new File(path);
+		Object[] options = { "OK", "CANCEL" }; 
 		
+		if (file.exists()){
+			int i = JOptionPane.showOptionDialog(null, "The file already exists. Overwrite existing file?", "Warning", 
+					JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, 
+					null, options, options[0]); 
+			if (i == 1) return;
+		}
+		Object[][][] values = new Object[5][][];
+		for (int i = 0; i < 4; i ++){
+			values[i] = AnswerModel.getAnsModel(i);
+		}
+		Object[][] totalScore = AnswerModel.getTotalScore();
+		String text = AnswerModel.getText();
+		ps.writePDF(ModelConstants.TESTNAME[testIndex], name, values,totalScore, text);
 	}
 	
 	public static void setMainContent(MainView v){
@@ -132,6 +166,12 @@ public class MainController{
 	}
 	public static void setAnswer(int questionIndex,int answer){
 		ans.setAns(questionIndex, answer);
+	}
+	public static void setText(String text){
+		ans.setText(text);
+	}
+	public static String getText(){
+		return ans.getText();
 	}
 	public static int getAnswer(int questionIndex){
 		return ans.getAnswer(questionIndex);
@@ -195,6 +235,10 @@ public class MainController{
 		//System.out.println(questionIndex+","+splitIndex);
 		isInstructionShowing = true;
 		
+	}
+	
+	public static boolean notThisPartWriting(){
+		return (partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing);
 	}
 	
 };

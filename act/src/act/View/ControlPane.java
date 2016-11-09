@@ -15,10 +15,14 @@ public class ControlPane extends JPanel{
 	 */
 	private static final long serialVersionUID = 4L;
 	private JTextPane title = new JTextPane();
+	private JPanel buttons = new JPanel();
+	private JButton pauseButton = new JButton("Pause");
+	private JButton resumeButton = new JButton("Resume");
 	private JButton nextButton = new JButton("Next");	//test button
 	private JButton befButton = new JButton("Back");
 	private JButton submitButton = new JButton("Submit");
-	private JButton finishButton = new JButton("return");
+	private JButton finishButton = new JButton("Return");
+	private JButton saveButton = new JButton("Save as PDF");
 	private TimerView timerView = new TimerView();
 	public ControlPane()
 	{
@@ -59,14 +63,34 @@ public class ControlPane extends JPanel{
 			}
 		});
 		
+		pauseButton.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e){
+				MainController.handlePause();
+			}
+		});
+		resumeButton.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e){
+				MainController.handleResume();
+			}
+		});
+		saveButton.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e){
+				MainController.handleSave();
+			}
+		});
+		
 		this.removeAll();
 		this.revalidate();
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
-		//this.add(Box.createHorizontalGlue());
+		this.add(Box.createHorizontalGlue());
 		this.add(title);
 		this.add(Box.createHorizontalGlue());
 		this.add(timerView);
-		this.add(Box.createHorizontalGlue());
+//		this.add(Box.createHorizontalGlue());
+		this.add(pauseButton);
 		this.add(befButton);
 		this.add(nextButton);
 		this.add(submitButton);
@@ -75,7 +99,6 @@ public class ControlPane extends JPanel{
 		this.revalidate();
 		
 	}
-	
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 		title.setText("Test1:PART "+partIndex+" SPLIT "+splitIndex+" QUESTION "+questionIndex);
 	}
@@ -83,11 +106,32 @@ public class ControlPane extends JPanel{
 	public void scoreMode(){
 		this.removeAll();
 		this.add(Box.createHorizontalGlue());
+		this.add(saveButton);
 		this.add(finishButton);
 		this.revalidate();
 		this.repaint();
 	}
-	
+	public void pauseMode(){
+		this.remove(pauseButton);
+		this.remove(nextButton);
+		this.remove(befButton);
+		this.remove(submitButton);
+		this.add(resumeButton);
+		this.add(befButton);
+		this.add(nextButton);
+		this.add(submitButton);
+		this.revalidate();
+		this.repaint();
+	}
+	public void normalMode(){
+		this.remove(resumeButton);
+		this.add(pauseButton);
+		this.add(befButton);
+		this.add(nextButton);
+		this.add(submitButton);
+		this.revalidate();
+		this.repaint();
+	}
 	public void startTimer(int totalTime){
 		timerView.startCount(totalTime);
 	}
@@ -100,5 +144,14 @@ public class ControlPane extends JPanel{
 	}
 	public void initTimer(int totalTime){
 		timerView.initTimer(totalTime);
+	}
+	public void pauseTimer(){
+		timerView.suspend();
+	}
+	public void resumeTimer(){
+		timerView.resume();
+	}
+	public Boolean isTimeAlive(){
+		return timerView.isAlive();
 	}
 };

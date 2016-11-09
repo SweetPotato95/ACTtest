@@ -53,7 +53,7 @@ public class MainView extends JPanel{
           @Override  
           public void eventDispatched(AWTEvent event) {  
               // TODO Auto-generated method stub  
-              if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED){  
+              if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED && MainController.notThisPartWriting()){  
                   switch (((KeyEvent)event).getKeyCode()) {  
                   case KeyEvent.VK_ENTER:  
                        //System.out.println("fuckyou");
@@ -145,6 +145,9 @@ public class MainView extends JPanel{
 			showPassageView();
 		}
 		else{
+			writingView.requestUpdate(questionIndex, splitIndex, partIndex);
+			mainContent.remove(writingView);
+			mainContent.add(writingView, ViewConstants.WRITINGVIEW_LAYER);
 			showWritingView();
 		}
 	}
@@ -169,5 +172,16 @@ public class MainView extends JPanel{
 	}
 	public void setCountingStatus(boolean c){
 		navBar.setCountingStatus(c);
+	}
+	public void pauseTimer(){
+		navBar.pauseMode();
+		navBar.pauseTimer();
+	}
+	public void resumeTimer(){
+		navBar.normalMode();
+		navBar.resumeTimer();
+	}
+	public Boolean isTimeAlive(){
+		return navBar.isTimeAlive();
 	}
 };
