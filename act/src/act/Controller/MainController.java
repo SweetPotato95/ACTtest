@@ -21,7 +21,7 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
-	
+	private static boolean isDuringTest = true;
 	public MainController()
 	{
 		
@@ -48,6 +48,7 @@ public class MainController{
 	public static void handleNext(){
 //		System.out.println(questionIndex+","+splitIndex+","+partIndex);
 		if(partIndex >= basicInfo.getTotalPartNum()){
+			handleScore();
 			return;
 		}
 		if(isInstructionShowing){
@@ -107,10 +108,8 @@ public class MainController{
 		
 	}
 	public static void handleScore(){
-		
+		isDuringTest = false;
 		mainView.setCountingStatus(false);
-		
-		
 		ans.judgeScore();
 		mainView.showScoreView();	
 	}
@@ -162,7 +161,7 @@ public class MainController{
 		questionIndex = 0;
 		splitIndex = 0;
 		partIndex = 0;
-		
+		isDuringTest = true;
 	}
 	public static int getPartIndex(){
 		return partIndex;
@@ -185,7 +184,10 @@ public class MainController{
 		}
 	}
 	public static void submitThisPart(){
-		
+		if(partIndex == ModelConstants.WRITING){
+			handleScore();
+			return;
+		}
 		mainView.showInstructionView(testIndex,++partIndex);
 		mainView.setCountingStatus(false);
 		mainView.initTimer(partIndex);
@@ -198,7 +200,7 @@ public class MainController{
 	}
 	
 	public static boolean notThisPartWriting(){
-		return (partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing);
+		return isDuringTest &&((partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing));
 	}
 	
 };

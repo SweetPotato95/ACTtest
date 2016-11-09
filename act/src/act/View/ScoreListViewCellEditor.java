@@ -92,6 +92,14 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
   return edit_txf.getText(); 
  } 
  public void actionPerformed(ActionEvent e){
+	 if(row == 4){
+		 System.out.print("haha");
+		 ScoreListViewCellDetailWriting detailDialog = new ScoreListViewCellDetailWriting(ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_LEFT,
+				  ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_UP);
+		 detailDialog.setVisible(true);
+		  detailDialog.init();
+		 return;
+	 }
   ScoreListViewCellDetail detailDialog = new ScoreListViewCellDetail(ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_LEFT,
 		  ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_UP);
   detailDialog.setVisible(true);
