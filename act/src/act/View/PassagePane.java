@@ -37,13 +37,17 @@ public class PassagePane extends JPanel{
 		((HTMLDocument)passagepane.getDocument()).getStyleSheet().addRule(bodyRule);
         kit.setAutoFormSubmission(false);
 		passageFile = new File("D://test.html"); 
+			//passagepane.setPage(passageFile.toURI().toURL());
 		passagepane.setText("<html><body><h1>haha</h1><p>fuckfuck</p></body></html>");
 		
 		scrollPane.setPreferredSize(new Dimension(w,h));
 		this.setPreferredSize(new Dimension(w,h));
         this.add(scrollPane);		
 	}
-	
+	public void setText(String s){
+		passagepane.setText("<html><body>"+s+"</body></html>");
+		return;
+	}
 	public void setReadingBrain(reading r){
 		readingBrain = r;
 	}

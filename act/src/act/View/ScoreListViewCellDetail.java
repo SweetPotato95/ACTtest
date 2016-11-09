@@ -44,8 +44,9 @@ String[] colunmNames = {"QuestionId","YourAnswer","CorrectAnswer","Score"};
  
  public void setModel(int i){
 	 values = AnswerModel.getAnsModel(i);
-	 
  }
+ 
+ 
 }
 
 
