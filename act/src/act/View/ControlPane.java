@@ -151,4 +151,7 @@ public class ControlPane extends JPanel{
 	public void resumeTimer(){
 		timerView.resume();
 	}
+	public Boolean isTimeAlive(){
+		return timerView.isAlive();
+	}
 };

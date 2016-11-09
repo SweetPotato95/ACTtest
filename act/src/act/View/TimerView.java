@@ -145,5 +145,7 @@ public class TimerView extends JPanel{
 	public synchronized void resume(){
 		suspended = false;
 	}
-
+	public Boolean isAlive(){
+		return t.isAlive();
+	}
 }

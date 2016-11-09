@@ -79,6 +79,7 @@ public class MainController{
 			return;
 		}
 		if(basicInfo.isLastInPart(questionIndex)){
+			if (mainView.isTimeAlive()) return;
 			submitThisPart();
 			isInstructionShowing = true;
 			

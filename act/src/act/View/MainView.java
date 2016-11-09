@@ -181,4 +181,7 @@ public class MainView extends JPanel{
 		navBar.normalMode();
 		navBar.resumeTimer();
 	}
+	public Boolean isTimeAlive(){
+		return navBar.isTimeAlive();
+	}
 };
