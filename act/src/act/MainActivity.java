@@ -87,16 +87,16 @@ public class MainActivity extends JFrame{
 		this.add(menuView);
 		this.revalidate();
 	}
-	public static void main(String[] args){
-	MainActivity mainActivity = new MainActivity();
-	mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
-	mainActivity.addWindowListener(new WindowAdapter(){
-			@Override
-			public void windowClosing(WindowEvent we){
-				System.exit(0);
-			}
-		});
-	}
+//	public static void main(String[] args){
+//	MainActivity mainActivity = new MainActivity();
+//	mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+//	mainActivity.addWindowListener(new WindowAdapter(){
+//			@Override
+//			public void windowClosing(WindowEvent we){
+//				System.exit(0);
+//			}
+//		});
+//	}
 
 	
 }
