@@ -9,6 +9,34 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 public class readText {
+	public static String readWriting(){
+		String path = new File(".").getAbsolutePath();
+		path = path.substring(0,path.length()-1);
+		String name = "\\resources\\lib\\writing.txt";
+		File file = new File(path + name);
+		String res = "";
+		BufferedReader reader = null;
+		try{
+			reader = new BufferedReader(new FileReader(file));
+			String tmpstring = null;
+			while((tmpstring = reader.readLine()) != null){
+				res += tmpstring;
+			}
+			reader.close();
+		}catch(IOException e){
+			e.printStackTrace();
+		}finally{
+			if (reader != null){
+				try{
+					reader.close();
+				}catch(IOException e1){
+					e1.printStackTrace();
+				}
+			}
+		}
+		
+		return res;
+	}
 	public static int[] readLens(String testname){
 		int[] lens = new int[5+1+4+7];
 		String name = "lens.txt";
@@ -36,6 +64,54 @@ public class readText {
 		}
 		
 		return lens;
+	}
+	public static int[][] readScore(){
+		int[][] s = new int[4][];
+		for (int i = 0; i < 4; i++)
+			s[i] = new int[ModelConstants.QUESTIONNUM_PER_PART[i] + 1];
+		String path = new File(".").getAbsolutePath();
+		path = path.substring(0,path.length()-1);
+		String name = "\\resources\\lib\\score.txt";
+		File file = new File(path + name);
+		BufferedReader reader = null;
+		try{
+			reader = new BufferedReader(new FileReader(file));
+			String tmpstring = null;
+			int num = 36;
+			while((tmpstring = reader.readLine()) != null){
+				String[] strs = tmpstring.split(" ");
+				int score = Integer.parseInt(strs[0]);
+				for (int i = 0; i < 4; i++){
+					if (strs[i+1].contains("--")) continue;
+					if (strs[i+1].contains("-")){
+						String[] x = strs[i+1].split("-");
+						int p1 = Integer.parseInt(x[0]);
+						int p2 = Integer.parseInt(x[1]);
+						for (int j = p1; j <= p2; j++){
+							s[i][j] = num;
+						}
+					}
+					else{
+						int p1 = Integer.parseInt(strs[i+1]);
+						s[i][p1] = num;
+					}
+				}
+				num --;
+			}
+			reader.close();
+		}catch(IOException e){
+			e.printStackTrace();
+		}finally{
+			if (reader != null){
+				try{
+					reader.close();
+				}catch(IOException e1){
+					e1.printStackTrace();
+				}
+			}
+		}
+		
+		return s;
 	}
 	public static int[] readAnswer(int testIndex){
 		String testname = ModelConstants.TESTPATH[testIndex];
@@ -115,6 +191,9 @@ public class readText {
 			}
 		}
 		passage = passage.replace("$$$", path);
+		passage = passage.replace("¡°", "\"").replace("¡±", "\"");
+		passage = passage.replace("¡®", "\'").replace("¡®", "\'");
+		passage = passage.replace("£¬", ", ");
 		return passage;
 	}
 	public static String readDirection(String filename){

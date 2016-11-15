@@ -15,8 +15,8 @@ public class ModelConstants{
 	public static int WRITING = 4;
 	
 	public static String[] PARTNAME= {"English","Math","Reading","Science","Writing"};
-	public static String[] TESTPATH = {"resources\\2005 April 60E\\","resources\\2005 Dec 63C\\"};
-	public static String[] TESTNAME = {"2005 April 60E","2005 Dec 63C"};
+	public static String[] TESTPATH = {"resources\\2005 April 60E\\","resources\\2005 Dec 63C\\","resources\\2005 Dec 63C\\"};
+	public static String[] TESTNAME = {"2005 April 60E","2005 Dec 63C", "2005 June 61D"};
 	public ModelConstants(){
 		
 	}

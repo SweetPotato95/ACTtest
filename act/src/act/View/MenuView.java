@@ -37,6 +37,7 @@ public class MenuView extends JPanel{
 	private MainActivity mainActivity ;
 	private JPanel Title = null;
 	private JLabel content = null;
+	private JScrollPane scrollPane;
 	public MenuView(){
 		init();
 	}
@@ -59,7 +60,6 @@ public class MenuView extends JPanel{
 		
 		model = new MyTableModel();
 		table = new JTable(model);
-		
 		ButtonColumn buttonColumn1 = new ButtonColumn(table,1);
 		ButtonColumn buttonColumn2 = new ButtonColumn(table,2);
 		ButtonColumn buttonColumn3 = new ButtonColumn(table,3);
@@ -116,8 +116,8 @@ class MyTableModel extends AbstractTableModel{
 	//Ä£ÄâÊý¾Ý
 	private Object[][] obj = null;
 	public MyTableModel(){
-		obj = new Object[2][8];
-		for (int i = 0; i < 2; i++){
+		obj = new Object[3][8];
+		for (int i = 0; i < 3; i++){
 			for (int j = 0; j < 8; j++){
 				switch(j){
 				case 0:
@@ -223,7 +223,8 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 			try {
 //				System.out.println(new File(".").getAbsolutePath());
 				String path = new File(".").getAbsolutePath();
-				path = path.substring(0,path.length()-1) + "reports";
+//				path = path.substring(0,path.length()-1) + "reports";
+				path = "reports";
 				Runtime.getRuntime().exec("cmd /c start " + path);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block

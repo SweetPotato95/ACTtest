@@ -36,7 +36,8 @@ public class MainChoicePane extends JPanel{
 			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_WHOLE_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
 		}
 		titlePane.setText("<html><body>afsdddd<img src=\"7.gif\">fuck you son of<><table style=\"border: 1px solid black\"><tr><td>1</td><td>2</td></tr></table> bitchasd asd asdsadhsa kjdhks ahdksahdjk sahd jksahdkj ahsdkjashdkl sjadla sdhk asd</body></html>");
-		titlePane.setOpaque(false);
+//		titlePane.setOpaque(false);
+		titlePane.setBackground(Color.WHITE);
 		titlePane.setFont(ViewConstants.choiceTitleFont);
 		String bodyRule = "body {padding:10; font-family: " +  ViewConstants.choiceTitleFont.getFamily() + "; " +
 	            "font-size: " + ViewConstants.choiceTitleFont.getSize() + "pt; }";

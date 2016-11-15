@@ -74,6 +74,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 				mainView.showWritingView();
 			}
 			mainView.requestUpdate(questionIndex, splitIndex, partIndex);
+			mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 			mainView.startTimer(partIndex);
 			return;
 		}
@@ -94,6 +95,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 		}
 		readingBrain.updateReading(testIndex,splitInPart[splitIndex], partIndex);
 		mainView.requestUpdate(questionIndex, splitIndex, partIndex);
+		mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 	}
 	
 	public static void handleBef(){
@@ -110,7 +112,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 		}
 		readingBrain.updateReading(testIndex,splitInPart[splitIndex], partIndex);
 		mainView.requestUpdate(questionIndex, splitIndex, partIndex);
-		
+		mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 	}
 	public static void handleScore(){
 		isDuringTest = false;

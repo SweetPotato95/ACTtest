@@ -24,9 +24,11 @@ public class MainView extends JPanel{
 	private ScoreListView scoreListView = new ScoreListView();
 	private reading readingBrain ;
 	private math mathBrain ;
+	private static TestBasicInfo basicInfo;
 	public MainView()
 	{
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT));
+		this.setBackground(Color.WHITE);
 	}
 	
 	public void init(){
@@ -39,6 +41,7 @@ public class MainView extends JPanel{
 	    navBar.init();
 	    initTimer(0);
 		mainContentInit();
+		mainContent.setBackground(Color.WHITE);
 		MainController.setMainContent(this);
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT));
@@ -131,7 +134,6 @@ public class MainView extends JPanel{
 		requestUpdate(MainController.getQuestionIndex(),MainController.getSplitIndex(),MainController.getPartIndex());
 	}
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
-		navBar.requestUpdate(questionIndex, splitIndex, partIndex);
 		if(partIndex == ModelConstants.MATH){
 			choiceView.requestUpdate(questionIndex, splitIndex, partIndex);
 			mainContent.remove(choiceView);
@@ -150,6 +152,9 @@ public class MainView extends JPanel{
 			mainContent.add(writingView, ViewConstants.WRITINGVIEW_LAYER);
 			showWritingView();
 		}
+	}
+	public void updateNavBar(int splitIndex,int partIndex){
+		navBar.requestUpdate(splitIndex, partIndex);
 	}
 	public void setReadingBrain(reading r){
 		readingBrain = r;

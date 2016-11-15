@@ -3,6 +3,8 @@ package act.View;
 import javax.swing.*;
 
 import act.Model.*;
+
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.io.*;
@@ -24,12 +26,14 @@ public class PassagePane extends JPanel{
 		basicInfo = new TestBasicInfo();
 		scrollPane = new JScrollPane(passagepane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 	    scrollPane.setVisible(true);
+	    passagepane.setBackground(Color.WHITE);
 	}
 	
 	public void init(int w,int h){
+		this.setBackground(Color.WHITE);
 		passagepane.setVisible(true);
 		passagepane.setContentType("text/html");
-		passagepane.setOpaque(false);
+//		passagepane.setOpaque(false);
 		Font font = new Font("Segoe UI",Font.BOLD,19);
 		HTMLEditorKit kit = (HTMLEditorKit)passagepane.getEditorKit();
 		String bodyRule = "body { font-family: " + font.getFamily() + "; " +
@@ -39,7 +43,7 @@ public class PassagePane extends JPanel{
 		passageFile = new File("D://test.html"); 
 			//passagepane.setPage(passageFile.toURI().toURL());
 		passagepane.setText("<html><body><h1>haha</h1><p>fuckfuck</p></body></html>");
-		
+		passagepane.setBackground(Color.WHITE);
 		scrollPane.setPreferredSize(new Dimension(w,h));
 		this.setPreferredSize(new Dimension(w,h));
         this.add(scrollPane);		
@@ -81,6 +85,6 @@ public class PassagePane extends JPanel{
 				   }
 				});
 		}
-		
+		passagepane.setBackground(Color.WHITE);
 	}
 };

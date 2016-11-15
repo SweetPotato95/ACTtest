@@ -30,6 +30,7 @@ public class ChoicePane extends JPanel{
 			choicelist[i] = new SingleChoicePane();
 			//choicelist.add(new SingleChoicePane());
 		}
+		this.setBackground(Color.WHITE);
 		for(int i=0;i<choiceSize;i++){
 			this.add(choicelist[i]);
 		}

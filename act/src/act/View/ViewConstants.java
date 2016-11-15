@@ -41,7 +41,8 @@ public class ViewConstants{
 	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,18);
 	public static Font instructionTitleFont = new Font("Microsoft Yahei",Font.BOLD,30);
 	public static Font instructionBodyFont = new Font("Microsoft Yahei",Font.PLAIN,20);
-	public static int[] TIME_LIMIT_PER_PART = {20,20,20,20,20};	
+	public static Font controlPane_labelFont = new Font("Microsoft Yahei",Font.PLAIN,18);
+	public static int[] TIME_LIMIT_PER_PART = {20,20,20,20,30};	
 
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();
@@ -50,11 +51,11 @@ public class ViewConstants{
 		NAV_WIDTH = MAINPANEL_WIDTH;
 		MAINCONTENT_WIDTH = (int) Math.floor(0.99*MAINPANEL_WIDTH);
 		MAINCONTENT_HEIGHT = MAINPANEL_HEIGHT - NAV_HEIGHT-50;
-		CHOICEPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);
+		CHOICEPANE_HEIGHT = (int) Math.floor(0.95*MAINCONTENT_HEIGHT);
 		CHOICEPANE_PART_WIDTH = (int) Math.floor(0.45*MAINCONTENT_WIDTH);
 		CHOICEPANE_WHOLE_WIDTH = MAINCONTENT_WIDTH;
 		PASSAGEPANE_WIDTH = (int) Math.floor(0.55*MAINCONTENT_WIDTH);
-		PASSAGEPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);
+		PASSAGEPANE_HEIGHT = (int) Math.floor(0.98*MAINCONTENT_HEIGHT);
 		
 		WRITING_INPUTPANE_WIDTH = (int)Math.floor(0.55*MAINCONTENT_WIDTH);
 		WRITING_INPUTPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);

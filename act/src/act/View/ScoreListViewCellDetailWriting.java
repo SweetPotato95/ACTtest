@@ -17,6 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 import act.Model.AnswerModel;
 import act.Model.ModelConstants;
+import act.Model.readText;
 
 public class ScoreListViewCellDetailWriting extends JDialog{
  /**
@@ -49,11 +50,12 @@ public class ScoreListViewCellDetailWriting extends JDialog{
  }
  
  public void init(){
-	pa.init((int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
-			 (int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
-	spane.init("hjasdhashdisuahgfuyegauyhgidshuiahdiushiduhasiudhiusagfuiagsuidhgisuahdiusagduiga");
+//	pa.init((int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+//			 (int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
+	String s = readText.readWriting();
+	spane.init(s);
+	spane.setEnabled(false);
  }
-  
  
 }
 

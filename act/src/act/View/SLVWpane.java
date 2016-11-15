@@ -33,12 +33,20 @@ public class SLVWpane extends JPanel{
 	}
 	
 	public void init(String s){
-
+		editorPane.setContentType("text/html");
 		editorPane.setPreferredSize(new Dimension(w,h));
 		editorPane.setText(s);
+		editorPane.setEditable(false);
+			
 		scrollPane.setPreferredSize(new Dimension(w,h));
 		scrollPane.setBorder(BorderFactory.createLineBorder(Color.black));
-		
+//		scrollPane.getVerticalScrollBar().setValue(scrollPane.getVerticalScrollBar().getMaximum());
+		javax.swing.SwingUtilities.invokeLater(new Runnable() {
+			   public void run() {
+			       scrollPane.getVerticalScrollBar().setValue(0);
+			       scrollPane.revalidate();
+			   }
+			});
 		//this.setPreferredSize(new Dimension (MyConstants.WRITING_INPUTPANE_WIDTH,MyConstants.WRITING_INPUTPANE_HEIGHT));
 		this.setPreferredSize(new Dimension(w,h));
 		this.setOpaque(false);
@@ -46,8 +54,8 @@ public class SLVWpane extends JPanel{
 		this.setLayout(thislayout);
 		this.setVisible(true);
 		//this.add(Box.createVerticalGlue());
-		scoreLabel.setText("Writing Score:0.you stupid!");
-		 scoreLabel.setPreferredSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+		scoreLabel.setText("ACT-Writing-Test-Scoring-Rubric");
+		scoreLabel.setPreferredSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
 				 (int)Math.floor(0.1*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
 		this.add(scoreLabel);
 		this.add(scrollPane);

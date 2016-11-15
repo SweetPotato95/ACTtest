@@ -27,12 +27,10 @@ public class MainActivity extends JFrame{
 	private math mathBrain = new math(0);
 	private AnswerModel ans = new AnswerModel();
 	private MenuView menuView = new MenuView();
-	
 	public MainActivity(){
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
 		menuView.setMainActivity(this);
 		this.add(menuView);
-		//this.add(mainView);
         this.setVisible(true);
         }
 

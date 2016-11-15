@@ -1,5 +1,6 @@
 package act.Model;
 
+import java.io.File;
 import java.util.ArrayList;
 
 public class reading {
@@ -44,8 +45,11 @@ public class reading {
 		if(partIndex >= ModelConstants.WRITING){
 			this.partIndex = partIndex;
 			this.splitIndexinPart = 0;
-			this.path = ModelConstants.TESTPATH[this.testIndex]
-					+tests[partIndex]+"1.txt";
+			String pox = new File(".").getAbsolutePath();
+			int num = (int)(1+Math.random()*(10-1+1));
+			System.out.println(num);
+			this.path = pox.substring(0,pox.length()-1)+"resources\\lib\\writing_test\\"+7+".txt";
+			System.out.println(path);
 			this.passage = readText.readPassage(path);
 			this.quizs = null;
 			return;

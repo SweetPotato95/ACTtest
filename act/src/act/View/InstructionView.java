@@ -26,7 +26,9 @@ public class InstructionView extends JPanel{
 	
 	
 	public void init(){
-		textPane.setOpaque(false);
+//		textPane.setOpaque(false);
+//		textPane.setOpaque(true);
+		textPane.setBackground(Color.WHITE);
 		textPane.setContentType("text/html");
 		textPane.setPreferredSize(new Dimension(ViewConstants.MAINCONTENT_WIDTH,ViewConstants.MAINCONTENT_HEIGHT));
 		textPane.setText("<html><body><h1>Instruction</h1><p>This is the fuck you instruction for this fucking stupid test. I really hope you can enjoy that but I'm pretty sure you won't. So , pretending enjoy it. GOOD LUCK!</p></body></html>");
