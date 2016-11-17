@@ -26,7 +26,7 @@ public class Login extends JFrame implements ActionListener
 	
 	public Login(){
 		init();
-		System.out.println(getMACAddress());
+//		System.out.println(getMACAddress());
 	}
 	private String getOsName() {  
         String os = "";  
@@ -43,14 +43,20 @@ public class Login extends JFrame implements ActionListener
                 String command = "cmd.exe /c ipconfig /all";  
                 Process p = Runtime.getRuntime().exec(command);  
                 BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));  
-                String line;  
-                while ((line = br.readLine()) != null) {  
-                    if (line.indexOf("Physical Address") > 0) {  
+                String line; 
+                Boolean mark = false;
+                while ((line = br.readLine()) != null) {
+//                	System.out.println(line);
+                	if (line.contains("以太网适配器")) {  
+                        mark = true; 
+                    }
+                    if (mark && line.indexOf("Physical Address") > 0) {  
                         int index = line.indexOf(":");  
                         index += 2;  
                         address = line.substring(index);  
                         break;  
-                    }else  if (line.indexOf("物理地址") > 0) {  
+                    }else  if (mark && line.indexOf("物理地址") > 0) { 
+                    	System.out.println("ddd");
                         int index = line.indexOf(":");  
                         index += 2;  
                         address = line.substring(index);  
@@ -134,19 +140,27 @@ public class Login extends JFrame implements ActionListener
 		if (e.getSource() == login_bt){
 			passwd = password.getText();
 			System.out.println(check(userName));
-			System.out.println(passwd);
 			if (!passwd.equals(check(userName))){
 				return;
 			}
 			this.dispose();
-			MainActivity mainActivity = new MainActivity();
-			mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
-			mainActivity.addWindowListener(new WindowAdapter(){
-					@Override
-					public void windowClosing(WindowEvent we){
-						System.exit(0);
-					}
+			welcome wl = new welcome("resources\\lib\\7.gif",3000);
+			new centerShow(wl);
+			wl.setVisible(true);
+			wl.addWindowListener(new WindowAdapter(){
+				@Override
+				public void windowClosing(WindowEvent we){
+					System.exit(0);
+				}
 			});
+//			MainActivity mainActivity = new MainActivity();
+//			mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+//			mainActivity.addWindowListener(new WindowAdapter(){
+//					@Override
+//					public void windowClosing(WindowEvent we){
+//						System.exit(0);
+//					}
+//			});
 		}
 	}
 	private String check(String before){
