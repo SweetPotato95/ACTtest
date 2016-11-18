@@ -1,0 +1,71 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polarity is a measure of the separation of charge in a molecule. Molecules are attracted to other molecules based on polarity. In liquid column chromatography, a .mixture is carried by the flow of solvent through a glass column containing an adsorbent material. If the components of the mixture have different polarities, they will interact differently with the solvent and adsorbent, causing the mixture to separate into its components, When the components elute (exit) from the column, they pass through a detector (see Figure l).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\160.png' width = '1074'height = '1692'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following experiments were done to study how using solvents and adsorbents of differing polarities affects the separation of a mixture. A component's elution time is the time it takes (from the start of the flow) for l00% of the component to be eluted. Table. 1 shows the relative polarities (0 being nonpolar and 10 being extremely polar) of the components of the mixture and of the solvents used.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:348.2pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="232"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Substance</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Polarity</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Component</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">B</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">C</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">D</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Solvent</span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅰ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅱ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅲ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">5.6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4.2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0.4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">8.2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0.2</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A glass column 50 cm tall and 7 cm in diameter was packed with 3 kg of a normal-phase (highly polar) adsorbent. A mixture containing 0.2 g each of Components A-D was dissolved and then added to the top layer of the adsorbent. Solvent I was then allowed to flow through the column at a constant rate. The % eluted of each component was measured for 50 min. The procedure was repeated using Solvents Ⅱ and Ⅲ (see Figure 2)</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\161.png' width = '2100'height = '2364'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment l was repeated but it a reverse-phase (nonpolar) adsorbent was used trial (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\162.png' width = '2004'height = '2292'/></div>
+
+<br>
+###################
+<div class = "quiz">28. In Experiment l, when Solvent Ⅲ was used, exactly half the amount of Component B had eluted from the column at a time closest to:
+<div class = "choice">F. 10 min.</div>
+<div class = "choice">G. 15 min.</div>
+<div class = "choice">H. 35 min.</div>
+<div class = "choice">J. 40 min.</div>
+</div>
+###################
+<div class = "quiz">29. Component X has to polarity of 3.9. The results of Experiments l and 2 would have been most similar to those shown in Figures 2 and 3 if, in each trial, Component X had been substituted in the mixture for:
+<div class = "choice">A. Component A.</div>
+<div class = "choice">B. Component B.</div>
+<div class = "choice">C. Component C.</div>
+<div class = "choice">D. Component D.</div>
+</div>
+###################
+<div class = "quiz">30. Suppose that Experiment l will be repeated using Solvent I, but 0.2 g of Component Z (polarity = 0.7) will be part of the mixture. Which of the following best predicts the order of the elution times of the 5 components, from shortest to longest?
+<div class = "choice">F. A, B, C, Z, D</div>
+<div class = "choice">G. A, Z, B, C, D</div>
+<div class = "choice">H. D, Z, C, B, A</div>
+<div class = "choice">J. D, C, B, Z, A</div>
+</div>
+###################
+<div class = "quiz">31. The resolution of a chromatographic separation increases as the amount of time between the elutions of each of the components increases. Based on the results of Experiments l and 2, which of the following sets of conditions had the greatest resolution for the separation of the mixture?
+<div class = "choice">A. Normal-phase Solvent Ⅰ      Reverse-phase Solvent Ⅱ</div>
+<div class = "choice">B. Normal-phase Solvent Ⅰ      Reverse-phase Solvent Ⅲ</div>
+<div class = "choice">C. Normal-phase Solvent Ⅱ      Reverse-phase Solvent Ⅰ</div>
+<div class = "choice">D. Normal-phase Solvent Ⅲ      Reverse-phase Solvent Ⅰ</div>
+</div>
+###################
+<div class = "quiz">32. In Experiment l, for Solvent I, at the time when exactly 50% of the amount of Component B had eluted from the column, the percent of Component D that had eluted from the column was closest to:
+<div class = "choice">F. 10%</div>
+<div class = "choice">G. 20%.</div>
+<div class = "choice">H. 90%</div>
+<div class = "choice">J. 100%.</div>
+</div>
+###################
+<div class = "quiz">33. Suppose that Experiment 2 was repeated using a solvent with a polarity of 9.3. The elution time of Component D would roost likely be:
+<div class = "choice">A. less than 20 min</div>
+<div class = "choice">B. between 20 min and 40 min.</div>
+<div class = "choice">C. between 40 min and 50 min.</div>
+<div class = "choice">D. greater than 50 min.</div>
+<br>
+</div>
+###################

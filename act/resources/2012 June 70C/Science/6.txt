@@ -1,0 +1,90 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a hydrothermal vent, anaerobic oxidation of methane (AOM) occurs in the top 20 cm of ocean-floor sediment (see Figure 1). This reaction begins when hot fluid containing methane (<img src='file:\$$$\resources\2012 June 70C\imgs\213.png' width = '51'height = '38'/>) rises from a source deep beneath the ocean-floor surface and mixes with seawater containing sulfate (<img src='file:\$$$\resources\2012 June 70C\imgs\214.png' width = '55'height = '40'/>).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\215.png' width = '1686'height = '960'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">AOM is represented by the following equation:</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\216.png' width = '356'height = '40'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the 3 direct products of this reaction, <img src='file:\$$$\resources\2012 June 70C\imgs\217.png' width = '70'height = '40'/>, can then combine with calcium (<img src='file:\$$$\resources\2012 June 70C\imgs\218.png' width = '54'height = '34'/>) in the seawater in a second reaction to produce solid calcium carbonate (<img src='file:\$$$\resources\2012 June 70C\imgs\219.png' width = '75'height = '38'/>). This <img src='file:\$$$\resources\2012 June 70C\imgs\220.png' width = '75'height = '38'/> exists as calcite crystals and/or aragonite crystals. Over time, the crystals fill in the pores in the sediment.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At each of 10 locations in a hydrothermal vent, 2 vertical cylindrical cores of the top 20 cm of ocean-floor sediment were collected.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the 2 cores from each of the 10 locations was cut every 0.5 cm along its length. Each piece of core was squeezed to extract all of the pore water (water present in the sediment's pores). The 10 pore water samples from the pieces at the same depth interval in each core were combined and then analyzed for <img src='file:\$$$\resources\2012 June 70C\imgs\221.png' width = '55'height = '40'/> and<img src='file:\$$$\resources\2012 June 70C\imgs\222.png' width = '51'height = '38'/>. The average <img src='file:\$$$\resources\2012 June 70C\imgs\223.png' width = '55'height = '40'/> and <img src='file:\$$$\resources\2012 June 70C\imgs\224.png' width = '51'height = '38'/> concentrations, in millimoles per liter (mmol/L), from 0 cm to 20 cm depth are shown in Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\225.png' width = '1506'height = '1809'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sediment in the other core from each of the 10 locations was sampled at the top of the core (0 cm depth), then every 0.5 cm along the core's length. The 10 samples from the same depth in each core were combined and then analyzed to determine the average percent by mass of calcite and the average percent by mass of aragonite in the sediment from o cm to 20 cm depth (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\226.png' width = '1380'height = '1995'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from Roger Luff et al., "Simulation of Long-Term Feedbacks from Authigenic Carbonate Crust Formation at Cold Vent Sites. ⓒ2004 by Elsevier B.V.</div>
+
+<br>
+###################
+<div class = "quiz">29. According to the results of Study 2, there was NO calcite found at which of the following depths?
+<div class = "choice">A. 2 cm</div>
+<div class = "choice">B. 5 cm</div>
+<div class = "choice">C. 8 cm</div>
+<div class = "choice">D. 11 cm</div>
+</div>
+###################
+<div class = "quiz">30. Suppose that in Study 1, at the same locations, samples of ocean-floor sediment from 20 cm to 20.5 cm below the ocean-floor surface had been collected and combined. The pore water extracted from those combined samples would most likely have had an average <img src='file:\$$$\resources\2012 June 70C\imgs\227.png' width = '55'height = '40'/> concentration and an average <img src='file:\$$$\resources\2012 June 70C\imgs\228.png' width = '51'height = '38'/> concentration, respectively, closest to which of the following?
+<img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L)  <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L)
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 0   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 0</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 0   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 65</div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 20   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 0</div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 20   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 65</div>
+</div>
+###################
+<div class = "quiz">31. Is the statement "Some <img src='file:\$$$\resources\2012 June 70C\imgs\231.png' width = '55'height = '40'/> was found in the pore water from each depth interval in the cores" supported by Figure 2 ?
+<div class = "choice">A. Yes, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\232.png' width = '55'height = '40'/> concentration was zero at depths of 4 cm or greater.</div>
+<div class = "choice">B. Yes, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\233.png' width = '55'height = '40'/> concentration was greater than zero at all depths.</div>
+<div class = "choice">C. No. because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\234.png' width = '55'height = '40'/> concentration was zero at depths of 4 cm or greater.</div>
+<div class = "choice">D. No, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\235.png' width = '55'height = '40'/> concentration was greater than zero at all depths.</div>
+</div>
+###################
+<div class = "quiz">32. According to the results of Study 2, over the top 20 cm of sediment, how did the average percent by mass of calcite compare to the average percent by mass of aragonite? The average percent by mass of calcite was:
+<div class = "choice">F. greater at each depth.</div>
+<div class = "choice">G. less at each depth.</div>
+<div class = "choice">H. greater at some depths but less at all other depths.</div>
+<div class = "choice">J. greater at some depths but the same at all other depths.</div>
+</div>
+###################
+<div class = "quiz">33. Consider the average percent by mass of aragonite at a depth of 10 cm shown in Figure 3. On average, the mass in grams of aragonite present in a 50 g sample of sediment taken from that depth would be closest to which of the following?
+<div class = "choice">A. 2.5 g</div>
+<div class = "choice">B. 5 g</div>
+<div class = "choice">C. 25 g</div>
+<div class = "choice">D. 50 g</div>
+</div>
+###################
+<div class = "quiz">34. The procedures of Studies 1 and 2 differed in which of the following ways? In Study 1, samples were:
+<div class = "choice">F. analyzed for the reactants of AOM, whereas in Study 2, samples were not analyzed for the reactants of AOM.</div>
+<div class = "choice">G. not analyzed for the reactants of AOM, whereas in Study 2, samples were analyzed for the reactants of AOM.</div>
+<div class = "choice">H. analyzed for the direct products of AOM, whereas in Study 2, samples were not analyzed for the direct products of AOM.</div>
+<div class = "choice">J. not analyzed for the direct products of AOM, whereas in Study 2, samples were analyzed for the direct products of AOM.</div>
+<br>
+</div>
+###################

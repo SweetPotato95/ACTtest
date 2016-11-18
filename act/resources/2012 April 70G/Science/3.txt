@@ -1,0 +1,85 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a chemistry class, the teacher placed a beaker containing a clear green liquid on a' heat source. Over the next 12 min, the volume of the liquid steadily decreased and the liquid darkened in color. At 12 min, a white solid appeared that floated on top of the remaining liquid. At 16 min, all of the liquid was gone and only the white solid remained.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The teacher asked 4 students to provide explanationsfor what occurred over the 16 min.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The beaker initially contained a solution' made by dissolving a white solid in a pure, green solvent. Over the first 12 min, the solvent evaporated, causing the concentration of the dissolved solid to increase. At 12 min, the volume of solvent had decreased to a point at which the solid was no longer soluble, so it started to exit the solution. At 16 min, all of the solvent had evaporated.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The beaker initially contained a solution made by dissolving a white solid in a pure, colorless solvent. Each molecule of the dissolved solid paired with (but did not react with) a solvent molecule to form a green-colored solute-solvent complex (SSC). Over the first 12 min, the solvent evaporated, causing the concentration of the SSC to increase. At 12 min, the volume of solvent had decreased to a point at which the solid was no longer soluble, so it started to exit the solution. At 16 min, all of the solvent had evaporated.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The beaker initially contained a solution made by dissolving a green solid in a pure, colorless solvent. Over the first 12 min, the solvent evaporated, causing the concentration of the dissolved solid to increase. At 12 min, the high concentration and heat caused all of the dissolved solid to instantly react with some of the solvent to form an insoluble white solid. At 16 min, all of the remaining solvent had evaporated.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 4</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The beaker initially contained a pure, green liquid. Over the first 12 min, the liquid slowly decomposed, but did not evaporate. At 12 min, the volume of liquid had decreased to a point at which the product of the decomposition was no longer soluble, so it started to exit the solution: At 16 min, all of the green liquid had decomposed.</div>
+
+<br>
+###################
+<div class = "quiz">11. Which of the students would agree that, before heating, the liquid in the beaker was a mixture of substances?
+<div class = "choice">A. Student l only</div>
+<div class = "choice">B. Student 4 only</div>
+<div class = "choice">C. Students l, 2, and 3 only</div>
+<div class = "choice">D. Students l, 2, and 4 only</div>
+</div>
+###################
+<div class = "quiz">12. Based on Student Is explanation: why did the volume of the liquid decrease over the first 12 min of heating?
+<div class = "choice">F. Heat caused an SSC to form.</div>
+<div class = "choice">G. Heat caused a liquid to decompose into a solid.</div>
+<div class = "choice">H. Heat caused a solid to be converted to a liquid.</div>
+<div class = "choice">J. Heat caused a liquid to .be converted to a gas.</div>
+</div>
+###################
+<div class = "quiz">13. Based on the description of the teacher's demonstration, was the density of the white solid that formed at 12 min less than or greater than the density of the remaining green liquid?
+<div class = "choice">A. Less, because the solid did not sink in the liquid.</div>
+<div class = "choice">B. Less, because the solid sank in the liquid.</div>
+<div class = "choice">C. Greater, because the solid did not sink in the liquid.</div>
+<div class = "choice">D. Greater, because the solid sank in the liquid.</div>
+</div>
+###################
+<div class = "quiz">14. A chemist claimed that, in absence oi a solute, NONE of the known liquids are green in color. This claim is inconsistent with the explanation(s) given by which of the students?
+<div class = "choice">F. Student 4 only</div>
+<div class = "choice">G. Students I and 4 only</div>
+<div class = "choice">H. Students 2 and 3 only</div>
+<div class = "choice">J. Students l, 2, and 3 only</div>
+</div>
+###################
+<div class = "quiz">15. Do Students l and 3 differ in their explanations of the source of the liquid's green color?
+<div class = "choice">A. No; both students claim that the source is a dissolved solid.</div>
+<div class = "choice">B. No; both students claim that the source is a solvent.</div>
+<div class = "choice">C. Yes; Student I claims that the source is a dissolved solid, whereas Student 3 claims that the source is a solvent.</div>
+<div class = "choice">D. Yes: Student I claims that the source is a solvent, whereas Student 3 claims that the source is a dissolved solid.</div>
+</div>
+###################
+<div class = "quiz">16. Suppose the total mass of the beaker and contents was monitored from time=2 min to time=10 min during the heating and that the results were plotted in the graph shown below.
+<img src='file:\$$$\resources\2012 April 70G\imgs\157.png' width = '1530'height = '1509'/>
+These results would have been most consistent with the explanation given by which student?
+<div class = "choice">F. Student I</div>
+<div class = "choice">G. Student 2</div>
+<div class = "choice">H. Student 3</div>
+<div class = "choice">J. Student 4</div>
+</div>
+###################
+<div class = "quiz">17. Suppose that after the demonstration, a colorless liquid had been mixed with the solid remaining in the beaker and the liquid then turned green. This observation would have been most consistent with the explanation given by which student?
+<div class = "choice">A. Student 1</div>
+<div class = "choice">B. Student 2</div>
+<div class = "choice">C. Student 3</div>
+<div class = "choice">D. Student 4</div>
+<br>
+</div>
+###################

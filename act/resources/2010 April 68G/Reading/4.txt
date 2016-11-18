@@ -1,0 +1,89 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from The Variety of Life by Colin Tudge (○c2000 by Oxford University Press).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Through all classification systems, whether devised by songbirds, professors of botany, or fishmongers, two separate sets of considerations run in parallel. The first is operational: how do you actually go about classifying? What criteria do you adopt to decide whether item A belongs in category X or category Y? A songbird weighing up a bird of prey perhaps looks for curvature of beak or length of claw-or, more probably, relies on overall impression or gestalt; and by such means it distinguishes a falcon from a cluck. For chefs, succulence on the inside and a crunchy carapace on the outside are the marks of shellfish.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=32>If the criteria are made explicit, and can be repeated by other people simply by following the instructions-if, for example, they depend on qualities that can be measured, and are not judged simply according to personal taste-then those criteria can be called 'objective', But objective criteria may also be arbitrary. I might, for example, decree that all insects with legs over 2 centimetres long should be placed in a new grouping called 'mega-insects'. The criterion would be perfectly objective, in the sense that it is explicit and repeatable, Which would not be the case if I simply decreed that there should be a special category marked 'beautiful'. But although the grouping of mega-insects would be objectively defined it would also be arbitrary. Nothing very special distinguishes insects that just happen to be large, except their largeness.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Behind all classifications, too, there is inevitably a philosophy. All classifications impose some view of the world: they all make a statement. Thus a chef regards the Universe as a market: the things within it are divided up according to edibility and wholesomeness. A songbird is concerned with food, too, but also with enemies and potential mates. The many classifications devised by scientists, historically, have pursued various philosophies.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Whatever criteria we adopt, however, and whatever we are classifying and for whatever purpose, all classifications tend to follow a common pattern. The items in question are first divided into big categories, and then each big category is divided into smaller categories, and so on. The result is a series of nesting groups called a hierarchy: little ones grouped within bigger ones within bigger ones still. Classifications, in short, tend to be hierarchical.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=33>Ad hoc ways of categorizing living things are useful. Long may they persist. Practical people doing practical things need to <font id=37>carve up</font> the world in their own lays, and it is not for outsiders to cavil. The flesh of abalones (ear shells) and of lobsters are comparably tender even if those creatures are less closely related to each other than eagles are to sea squirts; so why not call them both 'shellfish'? A 'weed' is a useful category, as any farmer will attest. Each system of classification casts its own light upon the world; lay different classifications side by side and you <font id=38>illuminate from different angles</font>, and truly begin to see in three dimensions.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But it is one thing simply to manipulate aspects of nature for our own convenience, and another to seek understanding. Of course, deeper understanding can lead to more subtle exploitation-and thus it is, for example, that increasing knowledge of microbes on the one hand and of the operation of DNA on the other, is currently bringing us the mixed but in general momentous benefits of biotechnology. But for true biologists, the real pleasure comes simply from knowing, and from the sense of coming closer to other living things. I am defining 'biologists' broadly: to include naturalists, in the old-fashioned sense, who like simply to observe nature, and scientists, who seek to explain its workings by proposing hypotheses and then testing them out. True biologists seek something more in nature than mere utility. They feel in their bones, and all their senses proclaim that there is an order among living things; and it is this 'natural' order that they seek to reflect in their classifications. They feel, too, that there should be criteria for classification that are not simply arbitrary, but reflect some real and important affiliations. Thus, what is often called 'natural classification is based on what biologists construe as the underlying order of nature; or that is the intention. Biologists (broadly defined) have been seeking to devise such a classification at least since the time of the Greek philosopher Aristotle.</div>
+
+<br>
+###################
+<div class = "quiz">31. The primary purpose of the passage is to:
+<div class = "choice">A. examine the hierarchical pattern for classifying items.</div>
+<div class = "choice">B. delineate between classifications that impose a view of the world and those that reflect a natural order.</div>
+<div class = "choice">C. examine the similarities and differences between how naturalists and biologists classify items.</div>
+<div class = "choice">D. describe the process of establishing, and the limitations and usefulness of, a system of classification.</div>
+</div>
+###################
+<div class = "quiz">32.The main function of the second paragraph (lines 13-28) in relation to the passage as a whole is to:
+<div class = "choice">F. describe the characteristics and a potential weakness of objective criteria.</div>
+<div class = "choice">G. introduce a new scientific concept that the remainder of the passage explores.</div>
+<div class = "choice">H. argue the need for subjective criteria, such as beauty, when classifying items.</div>
+<div class = "choice">J. restate a surprising fact about 'the origin of classification systems.</div>
+33 The author mentions abalones and lobsters in the fifth paragraph (lines 47-58) primarily to:
+<div class = "choice">A. explain the dissimilarity between the two types of sea creatures .</div>
+<div class = "choice">B. criticize the impractical classification systems developed by laypeople.</div>
+<div class = "choice">C. convince the reader that "shellfish" is a useless classification.</div>
+<div class = "choice">D. show that people's everyday categorizations are useful in meeting their particular needs.</div>
+</div>
+###################
+<div class = "quiz">34. According to the passage, a true biologist seeks all of the following EXCEPT:
+<div class = "choice">F. a sense of coming closer to other living things.</div>
+<div class = "choice">G. classifications that are mainly utilitarian.</div>
+<div class = "choice">H. classification criteria that are both genuine and important.</div>
+<div class = "choice">J. a natural order among living things.</div>
+</div>
+###################
+<div class = "quiz">35. According to the passage, what is the primary problem with the grouping "mega-insects"?
+<div class = "choice">A. It is arbitrary and based on a relatively unimportant quality.</div>
+<div class = "choice">B. It is subjective and based on one person's, practical needs.</div>
+<div class = "choice">C. It is established by a criterion that is not explicit or repeatable.</div>
+<div class = "choice">D. It is not considered by biologists to be objectively defined.</div>
+</div>
+###################
+<div class = "quiz">36. According to the passage, the second step in establishing a series of nesting groups is to:
+<div class = "choice">F. divide each big category into smaller categories.</div>
+<div class = "choice">G. place the subcategories into one large group.</div>
+<div class = "choice">H. separate the items in question into equal groups.</div>
+<div class = "choice">J. review subgroups for overlapping characteristics.</div>
+</div>
+###################
+<div class = "quiz">37. As it is used in line 49, the phrase carve up most nearly means:
+<div class = "choice">A. gouge.</div>
+<div class = "choice">B. minimize.</div>
+<div class = "choice">C. analyze.</div>
+<div class = "choice">D. inscribe.</div>
+</div>
+###################
+<div class = "quiz">38. In the context of the passage, the phrase "illuminate from different angles" (lines 57-58) most nearly suggests that different classification systems:
+<div class = "choice">F. convey contradictory information that is confusing to people.</div>
+<div class = "choice">G. tend to spotlight categories that are less important than others.</div>
+<div class = "choice">H. provide an array of viewpoints that broadens people's understanding.</div>
+<div class = "choice">J. can be positioned side by side to pinpoint an item's most important feature.</div>
+</div>
+###################
+<div class = "quiz">39. The passage indicates that old-fashioned naturalists differ from scientists in that naturalists:
+<div class = "choice">A. like to observe nature rather than test hypotheses about it.</div>
+<div class = "choice">B. seem to care more deeply about nature than scientists do.</div>
+<div class = "choice">C. are more interested in manipulating aspects of nature than understanding it.</div>
+<div class = "choice">D. seek to explain the intricate workings of nature through scientific tests.</div>
+</div>
+###################
+<div class = "quiz">40. Suppose a dog trainer typically divides her clients' dogs into two groups, "easy to train" and "difficult to train," based on her initial impressions of each dog on the first clay of training. Based on the passage, the author would most likely describe this classification system as:
+<div class = "choice">F. objective and easily repeated by others.</div>
+<div class = "choice">G. arbitrary and not useful to the trainer.</div>
+<div class = "choice">H. informal and inappropriately unscientific.</div>
+<div class = "choice">J. practical and meaningful to the trainer.</div>
+
+###################

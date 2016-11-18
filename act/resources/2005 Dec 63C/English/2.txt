@@ -1,113 +1,118 @@
-<h1>Passage II</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A Family Craft</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The printshops where my father worked, whether in a publishing house in Vermont or in a small-town newspaper office in Idaho, always presented the same vivid experience. The tap dance of Linotype <u>16 keys</u> the pungent scents of printing ink and cleaning chemicals, and the slapping sound of the rollers dripping with ink-<u>17 every job has its hazards.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was a special occasion <u>18 for which</u> I could visit my father at work. <u>19 However, he</u> was a Linotype <u>20 operator and, the Linotype machine</u> seemed formidable.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My father’s hands flew across an enormous keyboard that was <u>21 unlike any I saw in other places.</u> As he typed, the machine melted chinks of metal and then formed the molten mass into lines of metal <u>22 type, bright</u> and burning hot, these lines of type—headlines, sentences, phrases—slid out of the machine. Once cooled, these slugs (as the lines of type are called)were taken to a table where the typesetter fit them together by hand into a wooden frame the size of a newspaper page. The frame was set into 'the printing press, inked, and used to print pages. Afterward, the type was cleaned in various chemicals and <u>23 were put</u> back into the <u>24 Linotype to be recreated</u> as tomorrow’s headlines and stories.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the early seventies, the Linotype process was phased out, and my father went to work in the business office. His company had switched to offset printing, a method that relies on photographic images rather than metal type. Since then, computers have further revolutionized the printing industry. When I process text at my computer, <u>25 in my job,</u> I remember my father at his Linotype machine. <u>26 When comparing his workplace to</u> <u>26 mine, it is quiet and clean.</u> The air smells of coffee, <u>27 not tea.</u> Instead of stained and scuffed wooden tables, I’m surrounded by sleek vinyl office furniture. But <u>28 in essence,</u> my father’s work and mine are the most alike. From him, I inherited faithfulness to the written word and care in sending it out into the world.</div>
+<h1>A Family Craft</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The printshops where my father worked, whether in a publishing house in Vermont or in a small-town newspaper office in Idaho, always presented the same vivid experience. The tap dance of Linotype <font id=16>keys</font> the pungent scents of printing ink and cleaning chemicals, and the slapping sound of the rollers dripping with ink-<font id=17>every job has its hazards. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was a special occasion <font id=18>for which</font> I could visit my father at work. <font id=19>However, he</font> was a Linotype <font id=20>operator and, the Linotype machine</font> seemed formidable. My father's hands flew across an enormous keyboard that was <font id=21>unlike any I saw in other places. </font> As he typed, the machine melted chinks of metal and then formed the molten mass into lines of metal <font id=22>type, bright</font> and burning hot, these lines of type—headlines, sentences, phrases—slid out of the machine. Once cooled, these slugs (as the lines of type are called) were taken to a table where the typesetter fit them together by hand into a wooden frame the size of a newspaper page. The frame was set into 'the printing press, inked, and used to print pages. Afterward, the type was cleaned in various chemicals and <font id=23>were put</font> back into the <font id=24>Linotype to be recreated</font> as tomorrow's headlines and stories.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the early seventies, the Linotype process was phased out, and my father went to work in the business office. His company had switched to offset printing, a method that relies on photographic images rather than metal type. Since then, computers have further revolutionized the printing industry. When I process text at my computer, <font id=25>in my job, </font> I remember my father at his Linotype machine. <font id=26>When comparing his workplace to mine, it is quiet and clean. </font> The air smells of coffee, <font id=27>not tea. </font> Instead of stained and scuffed wooden tables, I'm surrounded by sleek vinyl office furniture. But <font id=28>in essence, </font> my father's work and mine are <font id=29>the most alike. </font> From him, I inherited faithfulness to the written word and care in sending it out into the world.</div>
+
+<br>
 ###################
-<div class = "quiz">16. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.keys;</div>
-<div class = "choice">H.keys,</div>
-<div class = "choice">J.keys-</div>
+<div class = "quiz">16.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. keys;</div>
+<div class = "choice">H. keys,</div>
+<div class = "choice">J. keys-</div>
 </div>
 ###################
 <div class = "quiz">17. Given that all the choices helps establish this essay as are true, which one best a nostalgic tribute?
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.these machines are very expensive.</div>
-<div class = "choice">C.ink stains are hard to remove.</div>
-<div class = "choice">D.many such details remain with me.</div>
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. these machines are very expensive.</div>
+<div class = "choice">C. ink stains are hard to remove.</div>
+<div class = "choice">D. many such details remain with me.</div>
 </div>
 ###################
-<div class = "quiz">18. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.which</div>
-<div class = "choice">H.when</div>
-<div class = "choice">J.where</div>
+<div class = "quiz">18.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. which</div>
+<div class = "choice">H. when</div>
+<div class = "choice">J. where</div>
 </div>
 ###################
-<div class = "quiz">19. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.He, on the other hand,</div>
-<div class = "choice">C.Gradually, he</div>
-<div class = "choice">D.He</div>
+<div class = "quiz">19.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. He, on the other hand,</div>
+<div class = "choice">C. Gradually, he</div>
+<div class = "choice">D. He</div>
 </div>
 ###################
-<div class = "quiz">20. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.operator and the Linotype machine,</div>
-<div class = "choice">H.operator, and the Linotype machine,</div>
-<div class = "choice">J.operator, and the Linotype machine</div>
+<div class = "quiz">20.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. operator and the Linotype machine,</div>
+<div class = "choice">H. operator, and the Linotype machine,</div>
+<div class = "choice">J. operator, and the Linotype machine</div>
 </div>
 ###################
 <div class = "quiz">21. Given that all the choices are true, which one provides details that best help the reader visualize the keyboard?
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.something amazing to behold.</div>
-<div class = "choice">C.like several typewriter keyboards spliced together.</div>
-<div class = "choice">D.like the alphabet right there just waiting to be turned into words.</div>
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. something amazing to behold.</div>
+<div class = "choice">C. like several typewriter keyboards spliced together.</div>
+<div class = "choice">D. like the alphabet right there just waiting to be turned into words.</div>
 </div>
 ###################
-<div class = "quiz">22. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.type, then bright</div>
-<div class = "choice">H.type, they were bright</div>
-<div class = "choice">J.type. Bright</div>
+<div class = "quiz">22.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. type, then bright</div>
+<div class = "choice">H. type, they were bright</div>
+<div class = "choice">J. type. Bright</div>
 </div>
 ###################
-<div class = "quiz">23. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.put</div>
-<div class = "choice">C.they were put</div>
-<div class = "choice">D.OMIT the underlined portion.</div>
+<div class = "quiz">23.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. put</div>
+<div class = "choice">C. they were put</div>
+<div class = "choice">D. OMIT the underlined portion.</div>
 </div>
 ###################
-<div class = "quiz">24. 
-<div class = "choice">F.NO</div>
-<div class = "choice">C.HANGE</div>
-<div class = "choice">G.Linotype. To be recreated</div>
-<div class = "choice">H.Linotype. Then recreated</div>
-<div class = "choice">J.Linotype. His job to recreate</div>
+<div class = "quiz">24.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Linotype. To be recreated</div>
+<div class = "choice">H. Linotype. Then recreated</div>
+<div class = "choice">J. Linotype. His job to recreate</div>
 </div>
 ###################
-<div class = "quiz">25. Given that all the choices are true, which one provides information that is most relevant to the contrast being established between the father’s profession and the narrator’s?
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.as the-editor of an Internet magazine,</div>
-<div class = "choice">C.now that I have a career of my own,</div>
-<div class = "choice">D.in my professional capacity,</div>
+<div class = "quiz">25. Given that all the choices are true, which one provides information that is most relevant to the contrast being established between the father's profession and the narrator's?
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. as the-editor of an Internet magazine,</div>
+<div class = "choice">C. now that I have a career of my own,</div>
+<div class = "choice">D. in my professional capacity,</div>
 </div>
 ###################
-<div class = "quiz">26. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.Making a comparison between his workplace and mine, it is quiet and clean.</div>
-<div class = "choice">H.Compared to his workplace, my office is quiet and clean.</div>
-<div class = "choice">J.Quiet and clean compared to his workplace, which isn’t.</div>
+<div class = "quiz">26.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Making a comparison between his workplace and mine, it is quiet and clean.</div>
+<div class = "choice">H. Compared to his workplace, my office is quiet and clean.</div>
+<div class = "choice">J. Quiet and clean compared to his workplace, which isn't.</div>
 </div>
 ###################
 <div class = "quiz">27. Which choice is most consistent with the subject of the
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.an aroma that I like.</div>
-<div class = "choice">C.not ink.</div>
-<div class = "choice">D.all day.</div>
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. an aroma that I like.</div>
+<div class = "choice">C. not ink.</div>
+<div class = "choice">D. all day.</div>
 </div>
 ###################
-<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?     
-<div class = "choice">F.essentially,</div>
-<div class = "choice">G.in essentially,</div>
-<div class = "choice">H.fundamentally,</div>
-<div class = "choice">J.for the most part,</div>
+<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?     F. essentially,
+<div class = "choice">G. in essentially,</div>
+<div class = "choice">H. fundamentally,</div>
+<div class = "choice">J. for the most part,</div>
 </div>
 ###################
-<div class = "quiz">29. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.the same.</div>
-<div class = "choice">C.more of the same.</div>
-<div class = "choice">D.like the same.Question 30 asks about the preceding passage as a whole.</div>
+<div class = "quiz">29.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. the same.</div>
+<div class = "choice">C. more of the same.</div>
+<div class = "choice">D. like the same.</div>
 </div>
 ###################
-<div class = "quiz">30. Suppose one of the writer’s goals had been to write an essay that reveals a connection between her profession and her father’s. Would this essay fulfill that goal?
-<div class = "choice">F.Yes, because the essay indicates that the narrator sees a similarity between her work with the written word and her father’s.</div>
-<div class = "choice">G.Yes, because the essay shows how the narrator learned to operate a Linotype machine as a child and later went into a job at a printing press.</div>
-<div class = "choice">H.No, because the essay indicates that the narrator chose a different career from that of her father, even though she admired his Linotype skills.</div>
-<div class = "choice">J.No, because the essay focuses on how a Linotype machine operates, not on how the narrator chose her line of work.</div>
+<div class = "quiz">30. Suppose one of the writer's goals had been to write an essay that reveals a connection between her profession and her father's. Would this essay fulfill that goal?
+Question 30 asks about the preceding passage as a whole.
+<div class = "choice">F. Yes, because the essay indicates that the narrator sees a similarity between her work with the written word and her father's.</div>
+<div class = "choice">G. Yes, because the essay shows how the narrator learned to operate a Linotype machine as a child and later went into a job at a printing press.</div>
+<div class = "choice">H. No, because the essay indicates that the narrator chose a different career from that of her father, even though she admired his Linotype skills.</div>
+<div class = "choice">J. No, because the essay focuses on how a Linotype machine operates, not on how the narrator chose her line of work.</div>
+<br>
 </div>
 ###################

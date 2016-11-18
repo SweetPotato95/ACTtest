@@ -3,19 +3,19 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">You do what you are told. You have had plenty of training. You strap on the equipment and squeeze on the helmet. You follow your instructor and the other two first-time jumpers into the big twin-propeller plane and take your assigned place in front of them all. You will be the first one to go.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The plane has been stripped of all its seats, so everyone is kneeling on the bare metal floor <font id=1>on their knees</font>. The gigantic <font id=2>engines, which</font> on either side catch and roar into action. <font id=3>You now</font> can entertain any second thoughts, the plane has taxied and <font id=4>taken</font> off and is circling upward into the huge cobalt sky. <font id=5>Its</font> beaded to <font id=6>an altitude of three thousand feet</font>. It is impossible to talk-or protest-over the engines' <font id=7>roar; and the</font> noise of the wind that blasts through the-open doorways on either side of the narrow fuselage. <font id=8> 8 </font> But your instructor smiles confidently. She gives you the thumbs-up sign.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The plane has been stripped of all its seats, so everyone is kneeling on the bare metal floor <font id=1>on their knees. </font> The gigantic <font id=2>engines, which</font> on either side catch and roar into action. <font id=3>You now</font> can entertain any second thoughts, the plane has taxied and <font id=4>taken</font> off and is circling upward into the huge cobalt sky. <font id=5>Its</font> beaded to <font id=6>an altitude of three thousand feet. </font></div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=9>[1] Despite your instincts, you fly chest first out the door of the plane. [2] When the proper altitude is *reached and the signal is given, you crawl to the door. [3] As taught, you climb into the open doorway and stand so that your body is half in and half out. of the plane, the wind slamming against you, the sweat soaking the rented jumpsuit you're wearing. [4] The instructor signals. [5] Despite your instincts, you nod.</font></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It is impossible to talk-or protest-over the engines' <font id=7>roar; and the</font> noise of the wind that blasts through the-open doorways on either side of the narrow fuselage. <font id=8>8</font> But your instructor smiles confidently. She gives you the thumbs-up sign.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">You panic. You scream, though no one can hear you. You <font id=10>think, you</font> might become ill.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=9> [1] Despite your instincts, you fly chest first out the door of the plane. [2] When the proper altitude is *reached and the signal is given, you crawl to the door. [3] As taught, you climb into the open doorway and stand so that your body is half in and half out. of the plane, the wind slamming against you, the sweat soaking the rented jumpsuit you're wearing. [4] The instructor signals. [5] Despite your instincts, you nod. </font></div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=11>Furthermore,</font> only seconds pass before the static line, which is a rope attached to you and to the floor of the plane, <font id=12>becomes tight and opens</font> your chute automatically. You feel like you are soaring upward, though actually you have <font id=13>only slowed down.</font></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">You panic. You scream, though no one can hear you. You <font id=10>think, you</font> might become ill. <font id=11>Furthermore, </font> only seconds pass before the static line, which is a rope attached to you and to the floor of the plane, <font id=12>becomes tight and opens</font> your chute automatically. You feel like you are soaring upward, though actually you have <font id=13>only slowed down. </font></div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">You are sitting in a snug little harness. All is quiet as you begin to drift gently in the great blue sky and to appreciate your accomplishment. <font id=14>Thus you</font> are dangling half a mile above the earth! <font id=15>15<font></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">You are sitting in a snug little harness. All is quiet as you begin to drift gently in the great blue sky and to appreciate your accomplishment. <font id=14>Thus you</font> are dangling half a mile above the earth! <font id=15>15</font></div>
 
 <br>
 ###################
@@ -27,7 +27,7 @@
 </div>
 ###################
 <div class = "quiz">2.
-<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">F. NO CH ANGE</div>
 <div class = "choice">G. engines, where</div>
 <div class = "choice">H. engines</div>
 <div class = "choice">J. engines that</div>
@@ -122,5 +122,6 @@
 <div class = "choice">B. You are relieved that the jump went well, but you still worry about landing.</div>
 <div class = "choice">C. Well, you jumped.</div>
 <div class = "choice">D. You are fine until the next time you have to jump from a plane.</div>
+<br>
 </div>
 ###################

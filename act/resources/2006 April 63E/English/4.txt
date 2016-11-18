@@ -1,0 +1,125 @@
+<h1>A Problem Solver and an Inventor</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dr. George Franklin Grant was a brilliant, innovative dentist and a professor at Harvard University. But the achievement <font id=46>that he is most widely remembered for</font> today is his <font id=47>invention and creation</font> of the wooden golf tee.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An avid golfer, Dr. Grant invented and patented the tee in 1899. Before <font id=48>his</font> invention, golfers preparing to tee off (hit their first shot) had to shape a mound of moist dirt or sand to raise the golf ball off the turf in order <font id=49>to hit</font> it cleanly. Unfortunately, the ball would often roll off the handmade mound before the golfer could complete his or her swing. By both raising and stabilizing the ball, Grant's invention <font id=50>remedied</font> this problem.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=51>The tee Dr. Grant invented was not marketed for commercial use. </font> After earning his doctor of dental surgery degree from Harvard University in 1870, Grant became one of Harvard's first African American professors. An internationally recognized expert in mechanical dentistry, he designed a new style of dental bridge, a device that provides support for individuals who have lost or broken teeth. Those constructed according to <font id=52>Grants design</font> fit so well and so comfortably that the general health of his patients <font id=53>have been</font> measurably improved.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dr. Grant's <font id=54>invention of the golf tee</font> and his innovative dental bridge may seem to be an unlikely pairing. However, each accomplishment exemplifies a characteristic common to innovators: the ability to identify and solve a problem. In both of these cases, Grant recognized <font id=55>a need</font> and focused his skills, imagination, and intelligence <font id=56>to</font> devising a way to fill that need.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=57>Instead, </font> Dr. George Franklin Grant made a lasting impression on the world as an innovative engineer in both of the fields he loved. A brilliant professor of <font id=58>dentistry: </font> he is best remembered for making it possible for generations of golfers <font id=59>concentrated</font> on their swings without worrying about whether their golf balls would remain in place as they swung.</div>
+
+<br>
+###################
+<div class = "quiz">46. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. in which he is most widely remembered for</div>
+<div class = "choice">G. that he is remembered most widely for</div>
+<div class = "choice">H. for which he is most widely remembered</div>
+<div class = "choice">J. he is most widely remembered for</div>
+</div>
+###################
+<div class = "quiz">47.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. invention, which was the creation</div>
+<div class = "choice">C. invention, that is, the creation</div>
+<div class = "choice">D. invention</div>
+</div>
+###################
+<div class = "quiz">48.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. their</div>
+<div class = "choice">H. its'</div>
+<div class = "choice">J. it's</div>
+</div>
+###################
+<div class = "quiz">49.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. for hitting</div>
+<div class = "choice">C. to hitting</div>
+<div class = "choice">D. that hit</div>
+</div>
+###################
+<div class = "quiz">50. Which of the following alternatives to the underlined portion would be LEAST acceptable?
+<div class = "choice">F. corrected</div>
+<div class = "choice">G. alleviated</div>
+<div class = "choice">H. fixed</div>
+<div class = "choice">J. rescued</div>
+</div>
+###################
+<div class = "quiz">51. Given that all the choices are true, which one would best introduce the new subject of this paragraph?
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Dr. Grant's achievements in the world of dentistry are equally impressive.</div>
+<div class = "choice">C. Dr. Grant believed that golf helped build discipline and friendships.</div>
+<div class = "choice">D. friends of Dr. Grant were the happy recipients of his invention.</div>
+</div>
+###################
+<div class = "quiz">52.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Grant's design</div>
+<div class = "choice">H. Grant's design,</div>
+<div class = "choice">J. Grants design,</div>
+</div>
+###################
+<div class = "quiz">53.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. was</div>
+<div class = "choice">C. are</div>
+<div class = "choice">D. were</div>
+</div>
+###################
+<div class = "quiz">54.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. invention, of the golf tee,</div>
+<div class = "choice">H. invention, of the golf tee</div>
+<div class = "choice">J. invention of the golf tee,</div>
+</div>
+###################
+<div class = "quiz">55.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. a lack of something that was needed</div>
+<div class = "choice">C. that a need was in existence</div>
+<div class = "choice">D. a need that was out there</div>
+</div>
+###################
+<div class = "quiz">56.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. at</div>
+<div class = "choice">H. on</div>
+<div class = "choice">J. for</div>
+</div>
+###################
+<div class = "quiz">57.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. In addition,</div>
+<div class = "choice">C. In contrast,</div>
+<div class = "choice">D. OMIT the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">58.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. dentistry;</div>
+<div class = "choice">H. dentistry,</div>
+<div class = "choice">J. dentistry</div>
+</div>
+###################
+<div class = "quiz">59.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. concentrating</div>
+<div class = "choice">C. concentrate</div>
+<div class = "choice">D. to concentrate</div>
+</div>
+###################
+<div class = "quiz">60. Suppose the writer's goal had been to write a brief essay documenting key innovations in golf equipment. Would this essay successfully fulfill that goal?
+Question 60 asks about the preceding passage as a whole.
+<div class = "choice">F. Yes, because it highlights an important invention that changed the way golf is played.</div>
+<div class = "choice">G. Yes, because it tells readers how and when a key innovation was introduced to the game of golf.</div>
+<div class = "choice">H. No, because it fails to mention any improvements to golf equipment other than the tee.</div>
+<div class = "choice">J. No, because it does not include information about tees made of plastic or metal.</div>
+<br>
+</div>
+###################

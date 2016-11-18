@@ -1,0 +1,91 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the book Wind by Jan DeBlieu (?1998 by Jan DeBlieu) Convection currents in the atmosphere which are responsible for breezes, begin when air is heated over warm land masses or seas and then expands and rises. Thermals are columns of rising warm air.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">No other class of animals lives so starkly at the mercy of wind as the insects. In its benign convective form wind plucks up bugs by the millions, the trillions, every day and scatters them widely. <font id=34> (This is not to say they are dispersed at random. Biologists have often seen insects choose a precise moment to set out—say, just before the onset of a light rainstorm with west-bearing winds—presumably so that they are most likely to arrive in protected, food-rich habitat.) </font>Once aloft they depend on horizontal currents to ferry them onward. Often they drift all night. In the atmosphere's upper strata they encounter waves of turbulence and layers of different densities that sort and compress them into compact swarms. They may drift as a unit through honeycombs of thermals and land lightly in a rogue's paradise—a flower garden a newly cultivated field of vegetables. Or they may be accosted by a freshening gale, tossed out to sea, and slammed rudely into the water.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many insects are wingless, at least in their larval forms, and must depend entirely on wind for transit. Those that can fly have neither the mass nor the strength to fight headwinds. So they ride the breeze, perhaps passively, perhaps with some precise collective plan. In certain species, individuals bunch together like flocks of buds, turning as one organism. In studies conducted during the 1950s, aphids carried by west winds from the irrigated oasis of southern California into the arid basin of the Colorado desert showed an uncanny knack for finding potted alfalfa plants left out for them. Some investigators speculate that spiders and other balloon-riding creatures may control their altitude by trimming the lengths of silk that lift them. At present, however, scientists do not know whether insect wayfarers have anything but the crudest ability to navigate from one habitat to another.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=36>Until the 1920s researchers were unaware that insects can survive well up into the troposphere (the lowest part of Earth's atmosphere). It had been known for a century that the smallest insects could be easily transported by wind. In 1827 and again in 1924 British Arctic explorers discovered live spruce aphids and syrphid flies on the Norwegian island of Spitsbergen. Apparently they had been carried by wind from Russia, 800 miles away. Monarch butterflies had been observed 500 miles from land over the South Pacific, and once a swarm of migratory locusts was seen over the North Atlantic, 1,500 miles from land. With the spread of tree-destroying European gypsy moth larvae through the eastern United States during the early 1920s, research into the dispersal of insects took on special urgency. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 1926 Perry Glick, an entomologist in Louisiana, made a series of flights in which he sampled the fauna of the air with traps made of wire screen mounted on the wings of a small biplane. Few scientists had tried to examine life at such heights, and Glick's study is regarded as a pioneering work. At 200 feet he found a great number and diversity of insects. He caught by far the most when wind velocities were between five and eight miles an hour. Lesser winds seemed to discourage insect flight; greater winds made it nearly impossible.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Above 300 feet the in sect population rapidly thinned Nevertheless, Glick found a few spiders and flies as high as 5,000 feet. He never devised an accurate means of measuring the flow of convection currents in the atmosphere. But on days when the plane encountered turbulent air, he <font id=38>caught many more bugs at 1,000 feet</font>, as if strong thermals had tossed them to unusual heights. Over five years Glick trapped 700 identifiable species. <font id=33>In the end he calculated that on any midsummer day the air above each square mile of Louisiana contained more than 14 million insects. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many insects travel at night, presumably to avoid the upper-air turbulence caused by convection Most individuals migrate no more than five miles over the course of their lives. Only a few species embark on lengthy seasonal movements, and then largely because of their proximity to favorable avenues of wind. Monarch butterflies, migrating from the eastern United States to their overwintering grounds in Mexico, follow routes that parallel the major flyways used by birds. In the North American interior and in northern China and Japan (all regions where winters tend to be particularly severe), certain butterfly species ride jets of warm air north with the coming of spring.</div>
+
+<br>
+###################
+<div class = "quiz">31. The main purpose of the passage is to:
+A, document insects' reliance on wind for transport.
+<div class = "choice">B. discuss the dangers wind can pose for insects.</div>
+<div class = "choice">C. provide data on the seasonal migrations of windborne insects.</div>
+<div class = "choice">D. describe the research techniques of scientists studying insects.</div>
+</div>
+###################
+<div class = "quiz">32. It can reasonably be inferred that the most important and intense research into insects and insect dispersal occurred in which of the following decades?
+<div class = "choice">F. 1820s</div>
+<div class = "choice">G. 1870s</div>
+<div class = "choice">H. 1920s</div>
+<div class = "choice">J. 1950s</div>
+</div>
+###################
+<div class = "quiz">33. As presented in the passage, the statement in lines 71—73 is best characterized as:
+<div class = "choice">A. a fact based on a full count of insects in one square mile of air above Louisiana.</div>
+<div class = "choice">B. speculation based on nearly a year's study of the insect population in Louisiana.</div>
+<div class = "choice">C. an estimate based on extensive sampling at varying altitudes.</div>
+<div class = "choice">D. a hypothesis based on the work of Glick and other scientists who came after him.</div>
+</div>
+###################
+<div class = "quiz">34. The author uses the information in parentheses in lines 4—9 primarily to:
+<div class = "choice">F. undermine some scientists' claim that wind has a benign, convective form.</div>
+<div class = "choice">G. suggest that biologists are divided over whether insects can pick times to travel.</div>
+<div class = "choice">H. support her assertion that wind affects the lives of trillions of insects every day.</div>
+<div class = "choice">J. prevent readers from misinterpreting her claim that wind scatters insects widely.</div>
+</div>
+###################
+<div class = "quiz">35. Based on the passage, some scientists speculate that compared to many insects, spiders may be:
+<div class = "choice">A. better able to control their travel by wind.</div>
+<div class = "choice">B. less interested in eating alfalfa plants.</div>
+<div class = "choice">C. more inclined to bunch together.</div>
+<div class = "choice">D. less able to fight headwinds.</div>
+</div>
+###################
+<div class = "quiz">36. The main purpose of the third paragraph (lines 37-52) is to:
+<div class = "choice">F. suggest the need for research into highly destructive insect species transported by wind.</div>
+<div class = "choice">G. chronicle a century of insect-related discoveries made by Arctic explorers.</div>
+<div class = "choice">H. trace the typical geographical range of insects such as monarch butterflies and locusts.</div>
+<div class = "choice">J. offer several examples highlighting the power of wind to transport insects.</div>
+</div>
+###################
+<div class = "quiz">37. Suppose that a scientist were exactly repeating Glick's experiments as described in the passage. Under which of the following conditions would the scientist reasonably expect to find the most insects?
+<div class = "choice">A. At 210 feet with a 7 mph wind</div>
+<div class = "choice">B. At 230 feet with a 12 mph wind</div>
+<div class = "choice">C. At 240 feet with no measurable wind</div>
+<div class = "choice">D. At 310 feet with a 6 mph wind</div>
+</div>
+###################
+<div class = "quiz">38. Based on the passage, how should the claim that Glick "caught many more bugs at l,000 feet" (lines 68—69) most likely be read?
+<div class = "choice">F. Glick found many more insects at l,000 feet than he ever did at 200 feet.</div>
+<div class = "choice">G. Under turbulent conditions, Glick found more insects at 1,000 feet than he normally did.</div>
+<div class = "choice">H. Glick found many insects at l,000 feet when his biplane was accidentally tossed to unusual heights.</div>
+<div class = "choice">J. Strong thermals at l,000 feet enabled Glick to trap 700 identifiable insect species.</div>
+</div>
+###################
+<div class = "quiz">39. The passage identifies which of the following as a limitation to Glick's research?
+<div class = "choice">A. His use of a small biplane to gather insect samples</div>
+<div class = "choice">B. His failure to conduct research at night, the time when most insects travel</div>
+<div class = "choice">C. His inability to measure accurately the flow of atmospheric convection currents</div>
+<div class = "choice">D. His narrow focus on studying Louisiana</div>
+</div>
+###################
+<div class = "quiz">40. The author most nearly characterizes the type of seasonal migration made by monarch butterflies as:
+<div class = "choice">F. unusual among insects.</div>
+<div class = "choice">G. typical among butterflies.</div>
+<div class = "choice">H. common for North American insects.</div>
+<div class = "choice">J. uncommon for day-traveling butterflies such as monarchs.</div>
+
+###################

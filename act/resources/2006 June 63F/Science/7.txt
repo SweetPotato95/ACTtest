@@ -1,0 +1,103 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Introduction</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students studying a unit on motion and conservation of energy were given the following information:</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Kinetic energy (energy that changes as an object's speed changes) and gravitational potential energy (energy that changes as an object's altitude changes) are forms of mechanical energy.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An object's total mechanical energy is the sum of its kinetic energy and its gravitational potential energy.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">If an object's total mechanical energy is constant, its total mechanical energy is said to be conserved.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Friction causes some of an object's total mechanical energy to be lost, in which case its total mechanical energy is not conserved.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students' teacher then described the following experiment:</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Suppose student placed. a block upon a surface and gave the block a single push. As the block moved along the surface, the student measured the block's speed twice in. succession and found that the second measured speed was lower than the first.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Given no other information, 3 students were asked to explain the results of the 2 measurements and to predict the block's motion after the 2 measurements.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The block was moving on a rough, horizontal surface (a surface with no incline). There was a constant frictional force between the block and the surface. This force alone caused the block to slow down at a constant rate and would have caused the block eventually to stop. Once stopped the block would have remained at rest.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When the 2 measurements were made, the block was moving up a frictionless, inclined surface as shown in the figure, and was slowing down at a constant rate. No air was present</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\163.png' width = '1560'height = '744'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Eventually, the block would have stopped moving up the incline; then gravity alone would have caused the block to accelerate down the incline. At any specified altitude, the block's speed going down the incline would have been the same, as its earlier speed going up the incline.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The block moved on a frictionless, horizontal surface. As a result of its motion, the block encountered air resistance. Air resistance alone caused the block to slow down and lose mechanical energy. The rate at which the block slowed down depended upon the amount of air resistance it encountered. As the block's speed decreased, the amount of air resistance decreased.</div>
+
+<br>
+###################
+<div class = "quiz">34. Assume that the block was pushed and then released at time = 0. Student l's description of the block's speed over time after its release is best illustrated by which of the following graphs?
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\164.png' width = '328'height = '338'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\165.png' width = '319'height = '304'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\166.png' width = '335'height = '335'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\167.png' width = '326'height = '308'/></div>
+</div>
+###################
+<div class = "quiz">35. The 3 explanations of the block's motion are similar to each other in that all 3 explanations:
+<div class = "choice">A. contradicted the law of conservation of total mechanical energy.</div>
+<div class = "choice">B. were based on 2 measurements.</div>
+<div class = "choice">C. were formulated using the assumption that no friction would exist between the block and the air.</div>
+<div class = "choice">D. were formulated using the assumption that there would be no friction between the block and the surface on which it moved.</div>
+</div>
+###################
+<div class = "quiz">36. Based on the explanations of the 3 students, what did the 3 students most likely assume about the block's speed between the times the 2 measurements were made?
+<div class = "choice">F. The speed increased only.</div>
+<div class = "choice">G. The speed decreased only.</div>
+<div class = "choice">H. The speed increased, then decreased.</div>
+<div class = "choice">J. The speed changed, but with no general trend.</div>
+</div>
+###################
+<div class = "quiz">37. The teacher posed another question: Suppose, in a second experiment the student placed the block and the surface in an airless chamber. Then the student repeated the procedure from the first experiment, except that he measured the block's speed throughout the experiment. If the block's speed remained constant throughout this second experiment, the explanation(s) of which student(s) for the results of the first experiment would be best supported?
+<div class = "choice">A. Student l only</div>
+<div class = "choice">B. Student 3 only</div>
+<div class = "choice">C. Students l and 2 only</div>
+<div class = "choice">D. Students l and 3 only</div>
+</div>
+###################
+<div class = "quiz">38. Based on Student 2's explanation, the block's gravitational potential energy at the highest point on its path most likely equaled:
+<div class = "choice">F. the block's kinetic energy one-third of the way up the incline.</div>
+<div class = "choice">G. the block's gravitational potential energy two-thirds of the way up the incline.</div>
+<div class = "choice">H. the block's total mechanical energy.</div>
+<div class = "choice">J. zero.</div>
+</div>
+###################
+<div class = "quiz">39. According to Student l, while the block was moving did the block's speed affect the frictional force on the block?
+<div class = "choice">A. Yes; as the block's speed increased, the frictional force on the block decreased only.</div>
+<div class = "choice">B. Yes; as the block's speed increased the frictional force on the block increased, then decreased.</div>
+<div class = "choice">C. No; as the block's speed decreased, the frictional force on the block decreased, then increased.</div>
+<div class = "choice">D. No; as the block's speed decreased the frictional force on the block was unaffected.</div>
+</div>
+###################
+<div class = "quiz">40. Assuming that Student l's explanation is correct, while the block moved, was the total mechanical energy of the block conserved?
+<div class = "choice">F. Yes, because the block's kinetic energy increased and its gravitational potential energy remained constant.</div>
+<div class = "choice">G. Yes, because both the block's kinetic energy and its gravitational potential energy increased.</div>
+<div class = "choice">H. No, because the block's kinetic energy decreased and its gravitational potential energy remained constant.</div>
+<div class = "choice">J. No because both the block's kinetic energy and its gravitational potential energy decreased.</div>
+<br>
+</div>
+###################

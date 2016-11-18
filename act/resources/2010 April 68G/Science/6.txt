@@ -1,0 +1,80 @@
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a rain cloud, small particles called cloud condensation nuclei (CCN) attract nearby water droplets to form a cloud droplet. A cloud droplet grows by attracting more water droplets until it becomes a raindrop, which then falls from the cloud. Rainfall can be increased by seeding the cloud with additional small particles, such as NaCl particles, to act as CCN.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over a year, 2 studies of cloud-seeding were done at a subtropical location, using every cumulus cloud that was isolated from other clouds, that had a top at an altitude between 3,350 m and 4,900 m, and that had a liquid water content of at least 0.5 g/m<sup>3</sup>.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four types of flares (A-D) were used. Flares of each type, when ignited, released NaCl particles having a specific distribution of particle sizes (see Table l).</div>
+
+<div class = "para" ><table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;font-size:41.0pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">small</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">medium</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">large</span></p></td></tr><tr style="mso-yfti-irow:1;font-size:42.1pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Jalinda</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td></tr><tr style="mso-yfti-irow:2;font-size:41.0pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Lance</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td></tr><tr style="mso-yfti-irow:3;font-size:16.4pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Hamako</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;font-size:16.4pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Dakota</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">8</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A plane carrying all 4 types of flares was sent into the base of each cloud. As the plane entered the base of a cloud, a computer determined whether or not to immediately ignite at least l flare, seeding the cloud. The computer also selected which type of flare to ignite, and how many flares to ignite to introduce a concentration of 10,100, 1,000, or 10,000 particles/cm<sup>3</sup> into the cloud. The average amount of rainfall from the seeded clouds for each type of flare and at each concentration is shown in Figure l.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\102.png' width = '2259'height = '2145'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table l and Figure l adapted from Y. Segal et al, "Effects of hygroscopic seeding on raindrop formation as seen from simulations using a 2000-bin spectral cloud parcel model." 2004 by Elsevier B. V.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Radar was used to monitor how the mass of raindrops within each cloud changed over the 55 minutes following the time the plane entered the base of the cloud. The averaged results for all the unseeded clouds and for all the seeded clouds are shown in Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\103.png' width = '2460'height = '2610'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from G, K. Mather et al, "Results of the South African Cloud-Seeding Experiments Using Hygroscopic Flares." 1997 by American Meteorological Society.</div>
+
+<br>
+###################
+<div class = "quiz">30. According to the results of Study 1, as the seeding concentration increased, the average
+<div class = "choice">F. increased for all 4 types of flares.</div>
+<div class = "choice">G. increased for Flare Types A and B, but decreased for Flare Types C and D.</div>
+<div class = "choice">H. decreased for all 4 types of flares.</div>
+<div class = "choice">J. decreased for Flare Types A and B, but increased for Flare Types C and D.</div>
+</div>
+###################
+<div class = "quiz">31. Based on the passage, what is the correct order of raindrops, water droplets, and cloud droplets according to their diameters, from smallest to largest?
+<div class = "choice">A. Water droplet, raindrop, cloud droplet</div>
+<div class = "choice">B. Water droplet, cloud droplet, raindrop</div>
+<div class = "choice">C. Raindrop, water droplet, cloud droplet</div>
+<div class = "choice">D. Raindrop, cloud droplet, water droplet</div>
+</div>
+###################
+<div class = "quiz">32. According to the results of Study 2, how did the raindrops in the seeded clouds differ from the raindrops in the unseeded clouds with respect to their maximum mass?
+<div class = "choice">F. It took more time for the raindrops in the seeded clouds to reach a maximum mass, and they reached a greater maximum mass.</div>
+<div class = "choice">G. It took less time for the raindrops in the seeded clouds to reach a maximum mass, and they reached a greater maximum mass.</div>
+<div class = "choice">H. It took more time for the raindrops in the seeded clouds to reach a maximum mass, and they</div>
+reached a lesser maximum mass.
+<div class = "choice">J. It took less time for the raindrops in the seeded clouds lo reach a maximum mass, and they reached a lesser maximum mass.</div>
+</div>
+###################
+<div class = "quiz">33. The design of Study l differed from the design of Study 2 in that in Study l, the:
+<div class = "choice">A. rainfall from a cloud was measured, whereas in Study 2, the particle-size distribution in types of flares was determined.</div>
+<div class = "choice">B. mass of raindrops in a cloud was determined, whereas in Study 2, the particle-size distribution in types of flares was determined.</div>
+<div class = "choice">C. rainfall from a cloud was measured, whereas in Study 2, the mass of raindrops in a cloud was</div>
+determined.
+<div class = "choice">D. mass of raindrops in a cloud was determined, whereas in Study 2, rainfall from a cloud was</div>
+measured.
+</div>
+###################
+<div class = "quiz">34. Which of the following, statements gives the most likely reason that clouds with tops above an altitude of 4,900 m were not included in the studies? Above 4,900 m in such clouds, there would be present:
+<div class = "choice">F. only water vapor.</div>
+<div class = "choice">G. only water droplets.</div>
+<div class = "choice">H. ice crystals but few water droplets.</div>
+<div class = "choice">J. water droplets but few ice crystals.</div>
+</div>
+###################
+<div class = "quiz">35. Which of the following statements about the particlesize distribution in the 4 types of flares is supported by Table l ?
+<div class = "choice">A. For all 4 types of flares, the majority of particles belonged to the largest size category.</div>
+<div class = "choice">B. For al1 4 types of flares, the majority of particles belonged to the smallest size category.</div>
+<div class = "choice">C. For Flare Types A and B, the majority of particles belonged to the largest size category, whereas for Flare Types C and D, the majority of particles belonged to the smallest size category.</div>
+<div class = "choice">D. For Flare Types A and B, the majority of particles belonged to the smallest size category, whereas for Flare Types C and D, the majority of particles belonged to the largest size category.</div>
+<br>
+</div>
+###################

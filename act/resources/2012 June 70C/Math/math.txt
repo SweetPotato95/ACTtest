@@ -1,0 +1,517 @@
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1. The table below gives the heart rates, in beats per minute (bpm), for 8 participants in a fitness study after each participant completed 45 minutes of aerobic exercise. What is the mean heart rate of the 8 participants, to the nearest 0.1 bpm?
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:203.6pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Participant</span></p></td><td style="width:192.8pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Heart rate (bpm)</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:203.6pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">130</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">155</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">162</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">148</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">177</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">162</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">170</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">156</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:203.6pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Sum</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1,260</span></p></td></tr></table></div>
+<div class = "choice">A. 137.3</div>
+<div class = "choice">B. 153.5</div>
+<div class = "choice">C. 157.5</div>
+<div class = "choice">D. 162.0</div>
+<div class = "choice">E. 162.5</div>
+</div>
+###################
+<div class = "quiz">2. The top surface of a rectangular table has an area of 144 square feet and a width of 4 feet. What is the length, in feet, of the surface?
+<div class = "choice">F. 12</div>
+<div class = "choice">G. 32</div>
+<div class = "choice">H. 36</div>
+<div class = "choice">J. 140</div>
+<div class = "choice">K. 576</div>
+</div>
+###################
+<div class = "quiz">3. The price of a coat decreased from $50 to $40. The price decreased by what percent?
+<div class = "choice">A. 10%</div>
+<div class = "choice">B. 14%</div>
+<div class = "choice">C. 15%</div>
+<div class = "choice">D. 20%</div>
+<div class = "choice">E. 25%</div>
+</div>
+###################
+<div class = "quiz">4. Chang, a store employee, asked each of 50 customers which 1 of 4 shirt colors the customer preferred. The number of customers who preferred each color is given in the table below.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Color</span></p></td><td style="width:265.1pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Number of customers</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Red</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">White </span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Blue </span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Gray </span></p></td><td style="width:265.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">15</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">22</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Total</span></p></td><td style="width:265.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">50</span></p></td></tr></table></div>
+Chang will order 500 shirts in the proportions, by color, in the table. How many gray shirts will he order?
+<div class = "choice">F. 8</div>
+<div class = "choice">G. 16</div>
+<div class = "choice">H. 40</div>
+<div class = "choice">J. 80</div>
+<div class = "choice">K. 125</div>
+</div>
+###################
+<div class = "quiz">5. Belinda plans to use landscaping timbers to build a border for her 8-foot-by-12-foot rectangular garden. To determine the number of timbers she needs, she must calculate the perimeter of the garden. What is the perimeter, in feet, of the garden?
+<div class = "choice">A. 20</div>
+<div class = "choice">B. 24</div>
+<div class = "choice">C. 40</div>
+<div class = "choice">D. 48</div>
+<div class = "choice">E. 96</div>
+</div>
+###################
+<div class = "quiz">6. At Nikki's Necklaces, the total production cost to produce necklaces consists of an operational cost of $300 per day, plus a material cost of $10 per necklace produced. For a day in which n necklaces are produced, which of the following expressions gives that day's total production cost, in dollars, to produce necklaces?
+<div class = "choice">F. －l0n＋300</div>
+<div class = "choice">G. 10n－300</div>
+<div class = "choice">H. 10n＋300</div>
+<div class = "choice">J. 300n－10</div>
+<div class = "choice">K. 300n＋10</div>
+</div>
+###################
+<div class = "quiz">7. The first question on a 2-question quiz offers 2 answers, and exactly 1 answer must be chosen. The second question offers 5 answers, and exactly 1 answer must be chosen. The quiz has how many possible combinations of answers?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 10</div>
+<div class = "choice">C. 20</div>
+<div class = "choice">D. 25</div>
+<div class = "choice">E. 100</div>
+</div>
+###################
+<div class = "quiz">8. For what value of x is the equation 2(x－6)＋x＝36 true?
+<div class = "choice">F. 8</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">H. 14</div>
+<div class = "choice">J. 16</div>
+<div class = "choice">K. 24</div>
+</div>
+###################
+<div class = "quiz">9. What value of a will make the equation <img src='file:\$$$\resources\2012 June 70C\imgs\0.png' width = '101'height = '65'/>true?
+<div class = "choice">A. －19</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. 6</div>
+<div class = "choice">E. 30</div>
+</div>
+###################
+<div class = "quiz">10. The 1st term in the geometric sequence below is －6. If it can be determined, what is the 6th term?
+－6, 12, －24, 48, －96, …
+<div class = "choice">F. 192</div>
+<div class = "choice">G. 144</div>
+<div class = "choice">H. －144</div>
+<div class = "choice">J. －192</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">11. In the standard (x,y) coordinate plane, A has coordinates (－4,－9). Point A is translated 4 units to the right and 9 units up and labeled A'. What are the coordinates of A' ?
+<div class = "choice">A. (－13, －13)</div>
+<div class = "choice">B. (－8, －18)</div>
+<div class = "choice">C. (－4, －18)</div>
+<div class = "choice">D. (  0,    0)</div>
+<div class = "choice">E. (  8,   18)</div>
+</div>
+###################
+<div class = "quiz">12. A formula used to compute the volume, V, of a rectangular prism is V＝lwh, where l is the length of the base, w is the width of the base, and h is the height of the prism. What is the height, in centimeters, of a rectangular prism that has a volume of 510 cubic centimeters and a base that measures 5 centimeters by 12 centimeters?
+<div class = "choice">F. 8.5</div>
+<div class = "choice">G. 30</div>
+<div class = "choice">H. 42.5</div>
+<div class = "choice">J. 102</div>
+<div class = "choice">K. 450</div>
+</div>
+###################
+<div class = "quiz">13. Solar panels that produce 150 amps of electric current each are needed for a proposed space station. If the solar panels are manufactured to produce 0.75 amps per square meter of surface area, the surface area of each solar panel needs to be how many square meters?
+<div class = "choice">A. 20</div>
+<div class = "choice">B. 75</div>
+<div class = "choice">C. 112.5</div>
+<div class = "choice">D. 150</div>
+<div class = "choice">E. 200</div>
+</div>
+###################
+<div class = "quiz">14. If cantaloupes sell at $1.49 each or 3 for $3.90, how much is saved, to the nearest cent, on each cantaloupe by buying them 3 at a time?
+<div class = "choice">F. 12￠</div>
+<div class = "choice">G. 19￠</div>
+<div class = "choice">H. 31￠</div>
+<div class = "choice">J. 47￠</div>
+<div class = "choice">K. 92￠</div>
+</div>
+###################
+<div class = "quiz">15. Which of the following expressions is equivalent to (<img src='file:\$$$\resources\2012 June 70C\imgs\1.png' width = '54'height = '34'/>)(<img src='file:\$$$\resources\2012 June 70C\imgs\2.png' width = '60'height = '34'/>)?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\3.png' width = '61'height = '34'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\4.png' width = '61'height = '34'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\5.png' width = '72'height = '34'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\6.png' width = '72'height = '34'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\7.png' width = '70'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">16. In the standard (x,y) coordinate plane, the coordinates of the endpoints of <img src='file:\$$$\resources\2012 June 70C\imgs\8.png' width = '51'height = '34'/>are (11,3) and (17,15). What is the y-coordinate of the midpoint of<img src='file:\$$$\resources\2012 June 70C\imgs\9.png' width = '51'height = '34'/>?
+<div class = "choice">F. 7</div>
+<div class = "choice">G. 9</div>
+<div class = "choice">H. 14</div>
+<div class = "choice">J. 16</div>
+<div class = "choice">K. 18</div>
+</div>
+###################
+<div class = "quiz">17. The distance-versus-time graph below represents Barbara Jean's walk to school on Friday.
+<img src='file:\$$$\resources\2012 June 70C\imgs\10.png' width = '962'height = '536'/>
+Which of the following statements could describe what Barbara Jean did during the time interval covered by the horizontal line segment<img src='file:\$$$\resources\2012 June 70C\imgs\11.png' width = '41'height = '36'/>?
+<div class = "choice">A. She walked due east.</div>
+<div class = "choice">B. She walked up some steps.</div>
+<div class = "choice">C. She walked on level ground.</div>
+<div class = "choice">D. She walked at a faster speed.</div>
+<div class = "choice">E. She stopped to talk to friends.</div>
+</div>
+###################
+<div class = "quiz">18. In the diagram below, lines m and n are cut by transversal t. Lines m. and n are NOT parallel, Which of the following statements must be true?
+<img src='file:\$$$\resources\2012 June 70C\imgs\278.png' width = '400'height = '600'/>
+<div class = "choice">F. ∠1<img src='file:\$$$\resources\2012 June 70C\imgs\12.png' width = '22'height = '24'/>∠2</div>
+<div class = "choice">G. ∠1<img src='file:\$$$\resources\2012 June 70C\imgs\13.png' width = '22'height = '24'/>∠3</div>
+<div class = "choice">H. ∠12<img src='file:\$$$\resources\2012 June 70C\imgs\14.png' width = '22'height = '24'/>∠5</div>
+<div class = "choice">J. ∠2<img src='file:\$$$\resources\2012 June 70C\imgs\15.png' width = '22'height = '24'/>∠1</div>
+<div class = "choice">K. ∠3<img src='file:\$$$\resources\2012 June 70C\imgs\16.png' width = '22'height = '24'/>∠1</div>
+</div>
+###################
+<div class = "quiz">19. The expression 5－3(2x－1) is equivalent to:
+<div class = "choice">A. －2＋4x</div>
+<div class = "choice">B. 2－6x</div>
+<div class = "choice">C. 8－6x-</div>
+<div class = "choice">D. 8－5x</div>
+<div class = "choice">E. 9－6x</div>
+</div>
+###################
+<div class = "quiz">20. Which of the following angle measures CANNOT be the measure of any angle in an obtuse triangle?
+(Note: An obtuse triangle is a triangle that has 1 angle with a measure greater than 90° but less than 180°.)
+<div class = "choice">F. 30°</div>
+<div class = "choice">G. 37°</div>
+<div class = "choice">H. 60°</div>
+<div class = "choice">J. 90°</div>
+<div class = "choice">K. 126°</div>
+</div>
+###################
+<div class = "quiz">21. What is the value of f (－5) when f (x)＝<img src='file:\$$$\resources\2012 June 70C\imgs\17.png' width = '159'height = '69'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\18.png' width = '51'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\19.png' width = '38'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\20.png' width = '22'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\21.png' width = '35'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\22.png' width = '32'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">22. In the standard (x,y) coordinate plane, what is the slope of the line with equation 3x＋2y＝6?
+<div class = "choice">F. －3</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\23.png' width = '41'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\24.png' width = '41'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\25.png' width = '24'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\26.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">23. Which of the following is a simplified form of<img src='file:\$$$\resources\2012 June 70C\imgs\27.png' width = '116'height = '38'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\28.png' width = '51'height = '38'/></div>
+<div class = "choice">B. －5</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\29.png' width = '50'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\30.png' width = '50'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">24. A formula for simple interest is I＝Prt, where I is the interest in dollars, P is the principal in dollars, r is the annual interest rate expressed as a decimal, and t is the time in years the money is invested. Which of the following expressions gives t when the annual interest rate is 5%?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\31.png' width = '70'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\32.png' width = '56'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\33.png' width = '38'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\34.png' width = '54'height = '65'/></div>
+<div class = "choice">K. 0.05IP</div>
+</div>
+###################
+<div class = "quiz">25. When t＝2,005, the value of the function f (t) is 100 more than twice the value of f (t) when t＝1,998. Which of the following equations expresses this relationship?
+<div class = "choice">A. f (2,005)＝2 f (1,998)＋100</div>
+<div class = "choice">B. f (1,998)＝2 f (2,005)＋100</div>
+<div class = "choice">C. f (t)＝2 f (t)＋100</div>
+<div class = "choice">D. f (t＋2,005)＝2 f (t＋1,998)＋100</div>
+<div class = "choice">E. f (2,005)＋100＝2 f (1,998)</div>
+</div>
+###################
+<div class = "quiz">26. Shown below is right triangle △ABC with the given dimensions in meters.
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+What is the length, in meters, of<img src='file:\$$$\resources\2012 June 70C\imgs\36.png' width = '41'height = '36'/>?
+<div class = "choice">F. 8</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\37.png' width = '46'height = '38'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\38.png' width = '51'height = '38'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\39.png' width = '50'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">27. Shown below is right triangle △ABC with the given dimensions in meters.
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+Which of the following statements about the measures of the interior angles in △ABC is true?
+(Note: m∠A represents the degree measure of ∠A.)
+<div class = "choice">A. m∠A＝m∠B</div>
+<div class = "choice">B. m∠B＝m∠C</div>
+<div class = "choice">C. m∠A＝m∠B＋m∠C</div>
+<div class = "choice">D. m∠B＋m∠C＝180°</div>
+<div class = "choice">E. m∠A＋m∠B＋m∠C＝360°</div>
+</div>
+###################
+<div class = "quiz">28. Shown below is right triangle △ABC with the given dimensions in meters.
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+Which of the following expressions represents cos B?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\40.png' width = '46'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\41.png' width = '45'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\42.png' width = '46'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\43.png' width = '46'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\44.png' width = '45'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">29. Given the functions f and g defined by f (x)＝x＋3 and g(x) ＝<img src='file:\$$$\resources\2012 June 70C\imgs\45.png' width = '60'height = '34'/>, what is the value of f (g(l) )?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 5</div>
+<div class = "choice">C. 6</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. 17</div>
+</div>
+###################
+<div class = "quiz">30. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2012 June 70C\imgs\46.png' width = '68'height = '50'/>?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\47.png' width = '38'height = '34'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\48.png' width = '38'height = '34'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\49.png' width = '38'height = '34'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\50.png' width = '41'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\51.png' width = '54'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">31. Marsha is making a sail for a model boat. In the figure below, the sail is represented by △ABC. Base <img src='file:\$$$\resources\2012 June 70C\imgs\52.png' width = '41'height = '36'/>is 18 inches long, and legs <img src='file:\$$$\resources\2012 June 70C\imgs\53.png' width = '41'height = '34'/> and <img src='file:\$$$\resources\2012 June 70C\imgs\54.png' width = '42'height = '36'/>are each 15 inches long. The mast, represented by<img src='file:\$$$\resources\2012 June 70C\imgs\55.png' width = '42'height = '34'/>, is perpendicular to the base and extends 4 inches below the bottom of the sail. How many inches long is the mast?
+<img src='file:\$$$\resources\2012 June 70C\imgs\56.png' width = '634'height = '646'/>
+<div class = "choice">A. 12</div>
+<div class = "choice">B. 16</div>
+<div class = "choice">C. 33</div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\57.png' width = '56'height = '36'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\58.png' width = '93'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">32. Which of the following inequalities orders the numbers below from least to greatest?
+<img src='file:\$$$\resources\2012 June 70C\imgs\59.png' width = '163'height = '65'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\60.png' width = '192'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\61.png' width = '192'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\62.png' width = '192'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\63.png' width = '192'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\64.png' width = '192'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">33. The table below gives the prices for dog grooming at Pretty Pooches.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Size of dog</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Shampoo</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Haircut</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Small</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Large</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$35</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$55</span></p></td></tr></table></div>
+Hoakoa brought 10 dogs to Pretty Pooches and paid $260 to have all 10 shampooed. How many large dogs did Hoakoa have shampooed?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 4</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. 6</div>
+<div class = "choice">E. 7</div>
+</div>
+###################
+<div class = "quiz">34. The table below gives the prices for dog grooming at Pretty Pooches.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Size of dog</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Shampoo</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Haircut</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Small</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Large</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$35</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$55</span></p></td></tr></table></div>
+Jim took his large dog to Pretty Pooches for a haircut 3 times. Jim paid full price for the first 2 haircuts, and had a coupon for the 3rd haircut, giving him a 15% discount on the 3rd haircut. How much did Jim pay for the 3 haircuts?
+<div class = "choice">F. $ 99.75</div>
+<div class = "choice">G. $118.25</div>
+<div class = "choice">H. $137.50</div>
+<div class = "choice">J. $150.00</div>
+<div class = "choice">K. $156.75</div>
+</div>
+###################
+<div class = "quiz">35. The table below gives the prices for dog grooming at Pretty Pooches.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Size of dog</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Shampoo</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Haircut</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:179.5pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Small</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Large</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$35</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">$55</span></p></td></tr></table></div>
+When the owner of Pretty Pooches increases the price to have a small dog shampooed, the number of small dogs shampooed per day decreases. The expression ax＋b represents the number of small dogs shampooed in 1 day whenever the price is x dollars per dog. The number of small dogs shampooed per day was 12 when the price in the table was in effect. The number of small dogs shampooed per day decreases by 2 for every $5 increase in price. What are the values of a and b?
+<div class = "choice">A. a=<img src='file:\$$$\resources\2012 June 70C\imgs\65.png' width = '41'height = '65'/>  b=62</div>
+<div class = "choice">B. a=<img src='file:\$$$\resources\2012 June 70C\imgs\66.png' width = '41'height = '65'/>  b=20</div>
+<div class = "choice">C. a=<img src='file:\$$$\resources\2012 June 70C\imgs\67.png' width = '24'height = '65'/>  b=4</div>
+<div class = "choice">D. a=2  b=200</div>
+<div class = "choice">E. a=5  b=2</div>
+</div>
+###################
+<div class = "quiz">36.<img src='file:\$$$\resources\2012 June 70C\imgs\68.png' width = '112'height = '127'/>?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\69.png' width = '22'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\70.png' width = '24'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\71.png' width = '24'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\72.png' width = '24'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\73.png' width = '22'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">37. In the standard (x,y) coordinate plane, what is the x-intercept of the line represented by y＝－2x＋8?
+<div class = "choice">A. －4</div>
+<div class = "choice">B. －2</div>
+<div class = "choice">C. 2</div>
+<div class = "choice">D. 4</div>
+<div class = "choice">E. 6</div>
+</div>
+###################
+<div class = "quiz">38. A toy rocket is launched from the ground. Its height, h feet above the ground, t seconds after it is launched, is given by<img src='file:\$$$\resources\2012 June 70C\imgs\74.png' width = '158'height = '34'/>. During the rocket's ascent, at what value of t is the rocket 32 feet above the ground?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\75.png' width = '24'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\76.png' width = '24'height = '65'/></div>
+<div class = "choice">H. 1</div>
+<div class = "choice">J. 2</div>
+<div class = "choice">K. 3</div>
+</div>
+###################
+<div class = "quiz">39. Which of the following graphs illustrates the solution set for the system of inequalities 3x－2＞9 and －2x＞－10?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\77.png' width = '580'height = '100'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\78.png' width = '622'height = '93'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\79.png' width = '624'height = '107'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\80.png' width = '619'height = '120'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\81.png' width = '626'height = '118'/></div>
+</div>
+###################
+<div class = "quiz">40. A cab picks up a passenger at a point that is designated on the map as (7, －3) and is 7 miles east and 3 miles south of the cab company's headquarters. From (7, －3), the cab travels 4 miles due north, 5 miles due east, and then 2 miles due west, where the passenger is dropped off. Which of the following is closest to the straight-line distance, in miles, the cab is from the cab company's headquarters?
+<div class = "choice">F. 21</div>
+<div class = "choice">G. 17</div>
+<div class = "choice">H. 14</div>
+<div class = "choice">J. 10</div>
+<div class = "choice">K. 8</div>
+</div>
+###################
+<div class = "quiz">41. During a competition, a swimmer will be swimming the width of a river, from X to Y in the figure below. The swimmer wants to know how wide the river is. The right triangle shows the measurements the swimmer obtained by walking 100 feet from X to Z, sighting to Y from both points. From this sighting, it is determined that the measure of ∠Z is 40°. How wide, in feet, is the river?
+<img src='file:\$$$\resources\2012 June 70C\imgs\82.png' width = '800'height = '664'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\83.png' width = '78'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\84.png' width = '78'height = '65'/></div>
+<div class = "choice">C. 100 sin 40°</div>
+<div class = "choice">D. 100 cos 40°</div>
+<div class = "choice">E. 100 tan 40°</div>
+</div>
+###################
+<div class = "quiz">42. The figure below shows a support wire for a television transmission tower. The wire, which is fastened to the tower at a point 125 feet above the level ground, has an angle of elevation of 65°. Which of the following expressions gives the length, in feet, of the wire?
+<img src='file:\$$$\resources\2012 June 70C\imgs\85.png' width = '584'height = '948'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\86.png' width = '78'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\87.png' width = '82'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\88.png' width = '80'height = '65'/></div>
+<div class = "choice">J. 125 sin 65°</div>
+<div class = "choice">K. 125 tan 65°</div>
+</div>
+###################
+<div class = "quiz">43. A circle is inside a rectangle 6inches wide and 8 inches long and is tangent to 3 sides of the rectangle. What is the area, in square inches, of the circle?
+<div class = "choice">A. 6<img src='file:\$$$\resources\2012 June 70C\imgs\89.png' width = '22'height = '24'/></div>
+<div class = "choice">B. 8<img src='file:\$$$\resources\2012 June 70C\imgs\90.png' width = '22'height = '24'/></div>
+<div class = "choice">C. 9<img src='file:\$$$\resources\2012 June 70C\imgs\91.png' width = '22'height = '24'/></div>
+<div class = "choice">D. 16<img src='file:\$$$\resources\2012 June 70C\imgs\92.png' width = '22'height = '24'/></div>
+<div class = "choice">E. 36<img src='file:\$$$\resources\2012 June 70C\imgs\93.png' width = '22'height = '24'/></div>
+</div>
+###################
+<div class = "quiz">44. Which of the following equations represents the circle with center (2,1) shown in the standard (x,y) coordinate plane below?
+<img src='file:\$$$\resources\2012 June 70C\imgs\94.png' width = '716'height = '700'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\95.png' width = '214'height = '38'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\96.png' width = '214'height = '38'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\97.png' width = '214'height = '38'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\98.png' width = '206'height = '38'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\99.png' width = '201'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">45. One of the following inequalities, where both constants a and b are positive real numbers, is graphed in the standard (x,y) coordinate plane below. Which inequality is it?
+<img src='file:\$$$\resources\2012 June 70C\imgs\100.png' width = '722'height = '768'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\101.png' width = '132'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\102.png' width = '132'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\103.png' width = '132'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\104.png' width = '78'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\105.png' width = '113'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">46. Circles A, B, and C have diameters of x inches, 2x inches, and 4x inches, respectively. What is the ratio of the radius of Circle B to the diameter of Circle A ?
+<div class = "choice">F. 1:1</div>
+<div class = "choice">G. 1:2</div>
+<div class = "choice">H. 1:4</div>
+<div class = "choice">J. 2:1</div>
+<div class = "choice">K. 4:1</div>
+</div>
+###################
+<div class = "quiz">47. In trapezoid KLMN shown below, ∠M measures 45° and ∠K and ∠N are both right angles. The given side lengths are in feet. Which of the following values is closest to the area, in square feet, of KLMN?
+<img src='file:\$$$\resources\2012 June 70C\imgs\106.png' width = '878'height = '460'/>
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 43</div>
+<div class = "choice">D. 127</div>
+<div class = "choice">E. 152</div>
+</div>
+###################
+<div class = "quiz">48. For the 2 o'clock hour on Milena's grandfather clock (shown below), the bell is struck 2 times. For the 3 o'clock hour, the bell is struck 3 times. For every hour, 2 seconds elapse between consecutive strikes of the bell. For the 9 o'clock hour, how many seconds elapse between the 1st strike of the bell and the 9th strike of the bell?
+<img src='file:\$$$\resources\2012 June 70C\imgs\107.png' width = '366'height = '1118'/>
+<div class = "choice">F. 8</div>
+<div class = "choice">G. 9</div>
+<div class = "choice">H. 11</div>
+<div class = "choice">J. 16</div>
+<div class = "choice">K. 18</div>
+</div>
+###################
+<div class = "quiz">49. For positive real numbers a, b, and c such that 2a＝3b and<img src='file:\$$$\resources\2012 June 70C\imgs\108.png' width = '94'height = '65'/>, which of the following inequalities is true?
+<div class = "choice">A. c＜b＜a</div>
+<div class = "choice">B. c＜a＜b</div>
+<div class = "choice">C. b＜c＜a</div>
+<div class = "choice">D. b＜a＜c</div>
+<div class = "choice">E. a＜b＜c</div>
+</div>
+###################
+<div class = "quiz">50. This month, Malcolm has $100 saved, and his goal is to have a total of $310 saved 12 months from now. After adding to his savings next month, each month he will add $1 more than what he added the previous month. For the next 12 months, Malcolm will not remove any money from what he has already saved. What is the minimum amount of money Malcolm must add to his savings next month so that he reaches his goal?
+<div class = "choice">F. $12</div>
+<div class = "choice">G. $17</div>
+<div class = "choice">H. $18</div>
+<div class = "choice">J. $26</div>
+<div class = "choice">K. $34</div>
+</div>
+###################
+<div class = "quiz">51. For all pairs of nonzero real numbers a and b, the product of the complex number a＋bi and which of the following complex numbers is a real number?
+<div class = "choice">A. abi</div>
+<div class = "choice">B. a十bi</div>
+<div class = "choice">C. a－bi</div>
+<div class = "choice">D. b＋ai</div>
+<div class = "choice">E. b－ai</div>
+</div>
+###################
+<div class = "quiz">52. Four congruent semicircles touch only at their corners, as shown in the figure below. If the path from A to B along the diameters of the semicircles is 100 centimeters long, how many centimeters long is the path from B back to A along the arcs of these semicircles?
+<img src='file:\$$$\resources\2012 June 70C\imgs\109.png' width = '878'height = '746'/>
+<div class = "choice">F. 25<img src='file:\$$$\resources\2012 June 70C\imgs\110.png' width = '19'height = '24'/></div>
+<div class = "choice">G. 50<img src='file:\$$$\resources\2012 June 70C\imgs\111.png' width = '19'height = '24'/></div>
+<div class = "choice">H. 100<img src='file:\$$$\resources\2012 June 70C\imgs\112.png' width = '19'height = '24'/></div>
+<div class = "choice">J. 150<img src='file:\$$$\resources\2012 June 70C\imgs\113.png' width = '19'height = '24'/></div>
+<div class = "choice">K. 230<img src='file:\$$$\resources\2012 June 70C\imgs\114.png' width = '19'height = '24'/></div>
+</div>
+###################
+<div class = "quiz">53. For all a＞1, which of the following statements describes the function g defined by<img src='file:\$$$\resources\2012 June 70C\imgs\115.png' width = '110'height = '38'/>?
+<div class = "choice">A. g is constant for all x</div>
+<div class = "choice">B. g is increasing for x<img src='file:\$$$\resources\2012 June 70C\imgs\116.png' width = '19'height = '25'/>0</div>
+<div class = "choice">C. g is decreasing for x<img src='file:\$$$\resources\2012 June 70C\imgs\117.png' width = '19'height = '25'/>0</div>
+<div class = "choice">D. g is increasing for 0<img src='file:\$$$\resources\2012 June 70C\imgs\118.png' width = '19'height = '25'/>x＜1 and decreasing for x<img src='file:\$$$\resources\2012 June 70C\imgs\119.png' width = '19'height = '25'/>1</div>
+<div class = "choice">E. g is decreasing for 0<img src='file:\$$$\resources\2012 June 70C\imgs\120.png' width = '19'height = '25'/>x＜1 and increasing for x<img src='file:\$$$\resources\2012 June 70C\imgs\121.png' width = '19'height = '25'/>1</div>
+</div>
+###################
+<div class = "quiz">54. A magnet attracts a nail with a force that varies inversely with the square of the distance between them. The nail is 12 inches from the magnet. How many inches from the magnet would the nail need to be to have twice as much attractive force on it as it currently has?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\122.png' width = '38'height = '36'/></div>
+<div class = "choice">G. 3</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\123.png' width = '51'height = '36'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\124.png' width = '61'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">55. What is the area, in square meters, of a rhombus (a parallelogram having 4 congruent sides) with side length 4 meters and 2 angles that each measure 60°?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\125.png' width = '46'height = '38'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\126.png' width = '60'height = '38'/></div>
+<div class = "choice">C. 8</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 48</div>
+</div>
+###################
+<div class = "quiz">56. The right triangle shown below with hypotenuse 13 inches long and vertical leg 5 inches long is rotated 360° around the vertical leg to form a right circular cone. What is the volume of this cone, in cubic inches?
+(Note:<img src='file:\$$$\resources\2012 June 70C\imgs\127.png' width = '113'height = '65'/>, where V is the volume, r is the radius, and h is the height.)
+<img src='file:\$$$\resources\2012 June 70C\imgs\128.png' width = '800'height = '420'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\129.png' width = '51'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\130.png' width = '45'height = '29'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\131.png' width = '64'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\132.png' width = '56'height = '29'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 June 70C\imgs\133.png' width = '56'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">57. Which of the following fractions is equal to<img src='file:\$$$\resources\2012 June 70C\imgs\134.png' width = '112'height = '65'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\135.png' width = '46'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\136.png' width = '50'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\137.png' width = '50'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\138.png' width = '46'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\139.png' width = '46'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">58. Which of the following is equal to tan <img src='file:\$$$\resources\2012 June 70C\imgs\140.png' width = '18'height = '29'/> cos <img src='file:\$$$\resources\2012 June 70C\imgs\141.png' width = '18'height = '29'/> when sin<img src='file:\$$$\resources\2012 June 70C\imgs\142.png' width = '18'height = '29'/>＝<img src='file:\$$$\resources\2012 June 70C\imgs\143.png' width = '24'height = '65'/>and 0＜<img src='file:\$$$\resources\2012 June 70C\imgs\144.png' width = '18'height = '29'/>＜<img src='file:\$$$\resources\2012 June 70C\imgs\145.png' width = '24'height = '65'/>?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\146.png' width = '24'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\147.png' width = '54'height = '71'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\148.png' width = '41'height = '71'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\149.png' width = '54'height = '71'/></div>
+<div class = "choice">K. 1</div>
+</div>
+###################
+<div class = "quiz">59. An equilateral triangle is partitioned into 4 smaller congruent equilateral triangles. What is the ratio of the perimeter of 1 of the smaller triangles to the perimeter of the original triangle?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\150.png' width = '22'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\151.png' width = '22'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\152.png' width = '24'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\153.png' width = '22'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\154.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">60. If<img src='file:\$$$\resources\2012 June 70C\imgs\155.png' width = '80'height = '42'/>, which of the following statements must be true?
+<div class = "choice">F. x<img src='file:\$$$\resources\2012 June 70C\imgs\156.png' width = '19'height = '25'/>0</div>
+<div class = "choice">G. x<img src='file:\$$$\resources\2012 June 70C\imgs\157.png' width = '19'height = '25'/>0</div>
+<div class = "choice">H. x＝0</div>
+<div class = "choice">J. x≠0</div>
+<div class = "choice">K. x is not a real number.</div>
+
+</div>
+###################

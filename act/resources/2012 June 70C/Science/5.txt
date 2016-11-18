@@ -1,0 +1,72 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets have a solid core surrounded by a massive envelope of gases. Gas-giant planets form within stellar nebulae—large, flattened clouds of gas and dust that surround newly formed stars. Planet formation begins when some of the solid material within a stellar nebula clumps rogether to form a spherical body called a planet core. Two scientists discuss bow gas-giant planets like Jupiter form from planet cores in stellar nebulae.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A planet core continuously attracts additional solid particles from the stellar nebula, gradually increasing its mass. If a planet core reaches a minimum mass of 10 times the mass of Earth (10<img src='file:\$$$\resources\2012 June 70C\imgs\194.png' width = '41'height = '38'/>), its gravity is then strong enough to attract and hold gases from the surrounding stellar nebula. The formation of a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\195.png' width = '41'height = '38'/> planet core takes approximately 1 million years. The time required for a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\196.png' width = '41'height = '38'/> planet core to then attract a minimum 300 <img src='file:\$$$\resources\2012 June 70C\imgs\197.png' width = '41'height = '38'/> of gases and thus become a gas-giant planet like Jupiter is 10 million to 100 million years more. Because it takes so long to form gas-giant planets like Jupiter, they are very rare in our galaxy.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets form in a stellar nebula if gravity variations cause the nebula to suddenly fragment into 2 or more massive spherical clumps of gas and dust called gas-giant protoplanets (GGPP), each having a planet core at the center that is no larger than 6<img src='file:\$$$\resources\2012 June 70C\imgs\198.png' width = '41'height = '38'/>. A GGPP forms in less than 1,000 years. After formation, the GGPP contracts to form a gas-giant planet. The entire process from the start of GGPP formation to a new gas-giant planet takes only about 1 million years.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets like Jupiter would not have time to form as described by Scientist 1. Observations indicate that stellar nebulae around newly formed stars do not remain in existence longer than 7 million years after the stars are formed. Also, planet cores that are not part of a GGPP do not have enough momentum to keep them from spiraling into the star at the center of the nebula within 100,000 years. Gas-giant planets like Jupiter are not rare. At least 130 gas-giant planets as large as or larger than Jupiter have been identified in our galaxy.</div>
+
+<br>
+###################
+<div class = "quiz">22. What are the 2 scientists' estimates of the mass of a planet core that later becomes the center of a gas-giant planet?
+Scientist 1  Scientist 2
+<div class = "choice">F. Scientist 1 exactly 10 <img src='file:\$$$\resources\2012 June 70C\imgs\199.png' width = '41'height = '38'/>   Scientist 2 exactly 6 <img src='file:\$$$\resources\2012 June 70C\imgs\200.png' width = '41'height = '38'/></div>
+<div class = "choice">G. Scientist 1 exactly 6 <img src='file:\$$$\resources\2012 June 70C\imgs\201.png' width = '41'height = '38'/>   Scientist 2 exactly 10 <img src='file:\$$$\resources\2012 June 70C\imgs\202.png' width = '41'height = '38'/></div>
+<div class = "choice">H. Scientist 1 at least 10 <img src='file:\$$$\resources\2012 June 70C\imgs\203.png' width = '41'height = '38'/>   Scientist 2 at most 6 <img src='file:\$$$\resources\2012 June 70C\imgs\204.png' width = '41'height = '38'/></div>
+<div class = "choice">J. Scientist 1 at least 6 <img src='file:\$$$\resources\2012 June 70C\imgs\205.png' width = '41'height = '38'/>   Scientist 2 at most 10 <img src='file:\$$$\resources\2012 June 70C\imgs\206.png' width = '41'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">23. Based on Scientist 1's discussion, which of the following statements gives the most likely reason Earth is not a gas-giant planet? At the time the planets were forming in the Sun's stellar nebula, the:
+<div class = "choice">A. planet core that became Earth was not massive enough to attract and hold a sufficient amount of gases.</div>
+<div class = "choice">B. planet core that became Earth was massive enough to attract and hold a large quantity of gases.</div>
+<div class = "choice">C. nebula did not contain enough gases to form any gas-giant planets.</div>
+<div class = "choice">D. nebula contained only enough gases to form 2 gas-giant planets.</div>
+</div>
+###################
+<div class = "quiz">24. The discovery that some stellar nebulae remain in existence for more than 10 million years would contradict a statement made by:
+<div class = "choice">F. Scientist 1 only.</div>
+<div class = "choice">G. Scientist 2 only.</div>
+<div class = "choice">H. both Scientist 1 and Scientist 2.</div>
+<div class = "choice">J. neither Scientist 1 nor Scientist 2.</div>
+</div>
+###################
+<div class = "quiz">25. Suppose a planet core in a stellar nebula has, over time, attracted and held 200 <img src='file:\$$$\resources\2012 June 70C\imgs\207.png' width = '41'height = '38'/> of gases from the nebula. Would Scientist 1 be likely to claim that this planet core surrounded by 200 ME of gases is a gas-giant planet like Jupiter?
+<div class = "choice">A. Yes, because Scientist 1 claims that less than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\208.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
+<div class = "choice">B. Yes, because Scientist 1 claims that no less than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\209.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
+<div class = "choice">C. No, because Scientist 1 claims that more than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\210.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
+<div class = "choice">D. No, because Scientist 1 claims that no more than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\211.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
+</div>
+###################
+<div class = "quiz">26. The discovery of which of the following objects would provide the strongest support for Scientist 2's viewpoint?
+<div class = "choice">F. Several 1-million-year-old stars, none with orbiting gas-giant planets</div>
+<div class = "choice">G. Several 1-million~year-old stars, each with 2 orbiting gas-giant planets</div>
+<div class = "choice">H. Several 100-million-year-old stars, none with orbiting gas-giant planets</div>
+<div class = "choice">J. Several 100-million-year-old stars, each with 2 orbiting gas-giant planets</div>
+</div>
+###################
+<div class = "quiz">27. Assume that the gas-giant planets and the non-gas-giant planets (terrestrial planets) in another solar system in our galaxy have spatial and size relationships the same as those of the gas-giant planets and the terrestrial planets in our solar system. Given this assumption, in the other solar system, an existing gas-giant planet would most likely be:
+<div class = "choice">A. located at a greater distance from the star than would any of the terrestrial planets.</div>
+<div class = "choice">B. located at a lesser distance from the star than would any of the terrestrial planets.</div>
+<div class = "choice">C. the same diameter as the largest terrestrial planet.</div>
+<div class = "choice">D. a lesser diameter than any of the terrestrial planets.</div>
+</div>
+###################
+<div class = "quiz">28. Based on Scientist 2's discussion, in a stellar nebula, a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\212.png' width = '41'height = '38'/> planet core that was NOT part of a GGPP would most likely:
+<div class = "choice">F. form a gas-giant planet in fewer than 10 million years.</div>
+<div class = "choice">G. escape from the central star's gravity and travel out into space.</div>
+<div class = "choice">H. continue to revolve around the central star at a constant distance and speed.</div>
+<div class = "choice">J. move in toward the central star and eventually be destroyed.</div>
+<br>
+</div>
+###################

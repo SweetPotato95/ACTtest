@@ -1,80 +1,94 @@
-<h1>Passage IV</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from "Were Dinosaurs Cold Blooded?" by Brendan J. Koerner ( 1997 by U.S. News and World Report Inc.). Warm-blooded creatures maintain a nearly constant body temperature under most conditions.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The claim that dinosaurs were warm blooded has divided the paleontological world into rival camps. For some, endothermy, the scientific name for warm bloodedness, is the only way to explain the dinosaurs’ evolutionary 5 success. Without the ability to keep their bodies at optimum temperatures regardless of their surroundings, they argue, dinosaurs could never have dominated the globe for 160 million years. Skeptics counter that ectothermy, the proper label for cold bloodedness, was 10 the logical strategy for dinosaurs living in the Mesozoic Era’s generally sweltering heat－and, this group claims, the only option that is supported by physiological, rather than circumstantial, evidence.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The revisionist view that has so captured the 15 public imagination has long been led by Robert Bakker, a crusader against slow-moving, dimwitted, crocodilian dinosaurs. He painted a picture of dinosaurs that were every bit as endothermic as humans. Instead of spending their days lazily basking in the sun and occasionally 20 trudging along at a torpid pace, Bakker’s dinosaurs moved at constant speeds, their postures fully erect in the manner of birds and mammals. "Meateating dinosaurs related to Tyrannosaurus rex cruised at 3 to 4 miles an hour," claims Bakker, who bases his 25 conclusion on fossilized footprints. "No turtle anywhere cruises at 3 to 4 miles an hour."</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bakker and his acolytes also point to dinosaurs relatively fast growth as evidence of endothermy. Mammals and birds, which develop quickly compared 30 with ectothermic reptiles, have bones characterized by microscopic channels that apper complex and crystallike under the microscope. These elegant patterns form when growing bone meets and meshes with connective tissue, capturing blood vessels in dense, woven structures 35 called Haversian canals. Armand de Ricqlè’s, a University of Paris anatomist, found that dinosaur bones exhibited those same intricate channels rather than the simpler, less dense structures common to reptiles. "We see the same well-vascularized bone in mammals 40 but not in turtles and crocodiles," says Kevin Padian, a paleontologist at the University of California-Berkeley. "The way the bones grew, dinosaurs seem to have been active all the time." That pace of activity, argue Bakker and his cohorts, is the telltale sign of 45 warm bloodedness.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many within the scientific community remain wary of Bakker’s claims. Since measurements show that endotherms require up to 20 times more food than ectotherms, some question how the gigantic dinosaurs 50 could possibly have eaten enough if they were warm blooded.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The evidence based on bone structures has come under fire, too. Tomasz Owerkowicz, a Harvard University researcher, has asserted that the dense canals 55 that de Ricqles detected could have resulted from physical exertion rather than endothermy. In an ingenious experimept, Owerkowicz gave cold-blooded monitor lizards regular treadmill workouts and then compared their bones with those of nonaerobicized contemporaries. 60 The well-exercised group showed the same kind of complex channels characteristic of mammals, birds, and de Ricqle’s dinosaurs, suggesting that Haversian canals are causally linked to an active Jifestyle rather than warm bloodedness. South African histologist 65 Anusuya Chinsamy has also countered some of the bone structure argument, contending that dinosaur bones exhibit bands called lines of arrested growth. These are characteristic of modern-day ectotherms, whose growth rate speeds up and slows down according 70 to seasonal temperature fluctuations. Chinsamy concluded that dinosaurs grew at a more reptilian pace than envisioned by the Bakkerites.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ectothermic side has sought to boost its case with hard physiological evidence. Turbinates, tiny 75 whisps of bone or cartilage deep inside the nasal cavities of mammals and birds, make warm bloodedness possible by limiting water loss. Turbinates have never been found in living ectotherms－nor in dinosaurs.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many on the cold-blooded side now use the term 80 "gigantothermy" to describe the unique energetics of large dinosaurs. Being huge is one way to maintain a relatively constant body temperature despite cold bloodedness: Large things－which have a lot of bulk in relation to their skin area－lose heat to the outside 85 world much more slowly than do small things. If dinosaurs were indeed cold blooded, the slow heat loss associated with gigantothermy would allow them to stay relatively warm－and avoid a reptilian torpor－when confronted by the night or an overcast day.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from “Were Dinosaurs Cold Blooded?” by Brendan J. Koerner (○c 1997 by U.S. News and World Report Inc.). Warm-blooded creatures maintain a nearly constant body temperature under most conditions.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The claim that dinosaurs were warm blooded has divided the paleontological world into rival camps. For some, endothermy, the scientific name for warm bloodedness, is the only way to explain the dinosaurs' evolutionary success. Without the ability to keep their bodies at optimum temperatures regardless of their surroundings, they argue, dinosaurs could never have dominated the globe for 160 million years. Skeptics counter that ectothermy, the proper label for cold bloodedness, was the logical strategy for dinosaurs living in the Mesozoic Era's generally sweltering heat－and, this group claims, the only option that is supported by physiological, rather than circumstantial, evidence.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The revisionist view that has so captured the public imagination has long been led by Robert Bakker, a crusader against slow-moving, dimwitted, crocodilian dinosaurs. He painted a picture of dinosaurs that were every bit as endothermic as humans. Instead of spending their days lazily basking in the sun and occasionally trudging along at a torpid pace, Bakker's dinosaurs moved at constant speeds, their postures fully erect in the manner of birds and mammals. "Meateating dinosaurs related to Tyrannosaurus rex cruised at 3 to 4 miles an hour," claims Bakker, who bases his conclusion on fossilized footprints. "No turtle anywhere cruises at 3 to 4 miles an hour."</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>Bakker and his <font id=33>acolytes</font> also point to dinosaurs relatively fast growth as evidence of endothermy. Mammals and birds, which develop quickly compared with ectothermic reptiles, have bones characterized by microscopic channels that apper complex and crystallike under the microscope. These elegant patterns form when growing bone meets and meshes with connective tissue, capturing blood vessels in dense, woven structures called Haversian canals. Armand de Ricqlè's, a University of Paris anatomist, found that dinosaur bones exhibited those same intricate channels rather than the simpler, less dense structures common to reptiles. "We see the same well-vascularized bone in mammals but not in turtles and crocodiles," says Kevin Padian, a paleontologist at the University of California-Berkeley. "The way the bones grew, dinosaurs seem to have been active all the time." That pace of activity, argue Bakker and his cohorts, is the telltale sign of warm bloodedness. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=31>Many within the scientific community remain wary of Bakker's claims. Since measurements show that endotherms require up to 20 times more food than ectotherms, some question how the gigantic dinosaurs could possibly have eaten enough if they were warm blooded.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>The evidence based on bone structures has come under fire, too. Tomasz Owerkowicz, a Harvard University researcher, has asserted that the dense canals that de Ricqles detected could have resulted from physical exertion rather than endothermy. In an ingenious experimept, Owerkowicz gave cold-blooded monitor lizards regular treadmill workouts and then compared their bones with those of nonaerobicized contemporaries. The well-exercised group showed the same kind of complex channels characteristic of mammals, birds, and de Ricqle's dinosaurs, suggesting that Haversian canals are causally linked to an active Jifestyle rather than warm bloodedness. <font id=36>South African histologist Anusuya Chinsamy has also countered some of the bone structure argument, contending that dinosaur bones exhibit bands called lines of arrested growth. These are characteristic of modern-day ectotherms, whose growth rate speeds up and slows down according to seasonal temperature fluctuations. Chinsamy concluded that dinosaurs grew at a more reptilian pace than envisioned by the Bakkerites. </font></font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=39>The ectothermic side has sought to boost its case with hard physiological evidence. Turbinates, tiny whisps of bone or cartilage deep inside the nasal cavities of mammals and birds, make warm bloodedness possible by limiting water loss. <font id=37>Turbinates have never been found in living ectotherms－nor in dinosaurs. </font> </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many on the cold-blooded side now use the term "gigantothermy" to describe the unique energetics of large dinosaurs. Being huge is one way to maintain a relatively constant body temperature despite cold bloodedness: Large things－which have a lot of bulk in relation to their skin area－lose heat to the outside world much more slowly than do small things. If dinosaurs were indeed cold blooded, the slow heat loss associated with gigantothermy would allow them to stay relatively warm－and avoid a reptilian torpor－when confronted by the night or an overcast day. </font></div>
+
+<br>
 ###################
-<div class = "quiz">31. The function of the information provided in the passage’s last four paragraphs (lines 46－89) is primarily to:
-<div class = "choice">A.provide a counterpoint to the theories advanced by Bakker and his revisionist-minded colleagues.</div>
-<div class = "choice">B.disclose information about turbinates that undermines the theories put forward by Padian and Bakker.</div>
-<div class = "choice">C.show that Haversian canals have a wholly different purpose and origin than de Ricqlès thought.</div>
-<div class = "choice">D.make clear the importance of the research done by Chinsamy and Owerkowicz.</div>
+<div class = "quiz">31. The function of the information provided in the passage's last four paragraphs (lines 46－89) is primarily to:
+<div class = "choice">A. provide a counterpoint to the theories advanced by Bakker and his revisionist-minded colleagues.</div>
+<div class = "choice">B. disclose information about turbinates that undermines the theories put forward by Padian and Bakker.</div>
+<div class = "choice">C. show that Haversian canals have a wholly different purpose and origin than de Ricqlès thought.</div>
+<div class = "choice">D. make clear the importance of the research done by Chinsamy and Owerkowicz.</div>
 </div>
 ###################
 <div class = "quiz">32. Which of the following questions best addresses the main point of the first paragraph?
-<div class = "choice">F.Why were dinosaurs able to dominate the globe for 160 million years?</div>
-<div class = "choice">G.When did the paleontological world divide into two rival groups?</div>
-<div class = "choice">H.Why are some paleontologists skeptical about ectothermy?</div>
-<div class = "choice">J.Were dinosaurs endothermic or ectothermic?</div>
+<div class = "choice">F. Why were dinosaurs able to dominate the globe for 160 million years?</div>
+<div class = "choice">G. When did the paleontological world divide into two rival groups?</div>
+<div class = "choice">H. Why are some paleontologists skeptical about ectothermy?</div>
+<div class = "choice">J. Were dinosaurs endothermic or ectothermic?</div>
 </div>
 ###################
 <div class = "quiz">33. It can reasonably be inferred that the word acolytes, as it is used in line 27, refers to paleontologists who:
-<div class = "choice">A.disagree with Bakker’s theories.</div>
-<div class = "choice">B.share Bakker’s revisionist views.</div>
-<div class = "choice">C.have mixed feelings about Bakker’s work.</div>
-<div class = "choice">D.think dinosaurs were ectothermic.</div>
+<div class = "choice">A. disagree with Bakker's theories.</div>
+<div class = "choice">B. share Bakker's revisionist views.</div>
+<div class = "choice">C. have mixed feelings about Bakker's work.</div>
+<div class = "choice">D. think dinosaurs were ectothermic.</div>
 </div>
 ###################
 <div class = "quiz">34. It is clear from the third paragraph (lines 27－45) that Haversian canals can only be viewed:
-<div class = "choice">F.by scientists.</div>
-<div class = "choice">G.in dinosaurs.</div>
-<div class = "choice">H.by Bakkerites.</div>
-<div class = "choice">J.through a microscope.</div>
+<div class = "choice">F. by scientists.</div>
+<div class = "choice">G. in dinosaurs.</div>
+<div class = "choice">H. by Bakkerites.</div>
+<div class = "choice">J. through a microscope.</div>
 </div>
 ###################
-<div class = "quiz">35. It can reasonably be inferred from the fifth paragraph (lines 52－72) that the description of Owerkowicz’s work functions in the passage as a whole to:
-<div class = "choice">A.demonstrate that de Ricqlès did not find Haversian canals in the dinosaurs he studied.</div>
-<div class = "choice">B.present an alternative explanation of how the dinosaurs’ Haversian canals might have developed.</div>
-<div class = "choice">C.explain what caused ectothermic dinosaurs to evolve differently from endothermic dinosaurs.</div>
-<div class = "choice">D.illustrate the way in which reptiles could be made to perform in ingenious experiments.</div>
+<div class = "quiz">35. It can reasonably be inferred from the fifth paragraph (lines 52－72) that the description of Owerkowicz's work functions in the passage as a whole to:
+<div class = "choice">A. demonstrate that de Ricqlès did not find Haversian canals in the dinosaurs he studied.</div>
+<div class = "choice">B. present an alternative explanation of how the dinosaurs' Haversian canals might have developed.</div>
+<div class = "choice">C. explain what caused ectothermic dinosaurs to evolve differently from endothermic dinosaurs.</div>
+<div class = "choice">D. illustrate the way in which reptiles could be made to perform in ingenious experiments.</div>
 </div>
 ###################
 <div class = "quiz">36. The research by Chinsamy cited in lines 64－72 serves which of the following purposes?
-<div class = "choice">F.It enhances the findings of de Ricqlès.</div>
-<div class = "choice">G.It contradicts the theories of Owerkowicz.</div>
-<div class = "choice">H.It lends support to the theories of Owerkowicz.</div>
-<div class = "choice">J.It augments the theories of Bakker and his associates.</div>
+<div class = "choice">F. It enhances the findings of de Ricqlès.</div>
+<div class = "choice">G. It contradicts the theories of Owerkowicz.</div>
+<div class = "choice">H. It lends support to the theories of Owerkowicz.</div>
+<div class = "choice">J. It augments the theories of Bakker and his associates.</div>
 </div>
 ###################
 <div class = "quiz">37. The fact cited in lines 77－78 is most consistent with the ideas about dinosaurs attributed to which of the following scientists?
-<div class = "choice">A.Chinsamy</div>
-<div class = "choice">B.Padian</div>
-<div class = "choice">C.Bakker</div>
-<div class = "choice">D.de Ricqlès</div>
+<div class = "choice">A. Chinsamy</div>
+<div class = "choice">B. Padian</div>
+<div class = "choice">C. Bakker</div>
+<div class = "choice">D. de Ricqlès</div>
 </div>
 ###################
 <div class = "quiz">38. The passage states that the growth rate of modern ectotherms is directly related to which of the following?
-<div class = "choice">F.Their food</div>
-<div class = "choice">G.Habitat plants</div>
-<div class = "choice">H.Seasonal temperature</div>
-<div class = "choice">J.Their size</div>
+<div class = "choice">F. Their food</div>
+<div class = "choice">G. Habitat plants</div>
+<div class = "choice">H. Seasonal temperature</div>
+<div class = "choice">J. Their size</div>
 </div>
 ###################
 <div class = "quiz">39. The sixth paragraph (lines 73－78) indicates that turbinates are found in all of the following EXCEPT:
-<div class = "choice">A.birds.</div>
-<div class = "choice">B.mammals.</div>
-<div class = "choice">C.endotherms.</div>
-<div class = "choice">D.ectotherms.</div>
+<div class = "choice">A. birds.</div>
+<div class = "choice">B. mammals.</div>
+<div class = "choice">C. endotherms.</div>
+<div class = "choice">D. ectotherms.</div>
 </div>
 ###################
 <div class = "quiz">40. As it is used in the last paragraph, the term gigantothermy most nearly means that the:
-<div class = "choice">F.larger the dinosaur, the easier it is for the dinosaur to be endothermic.</div>
-<div class = "choice">G.larger the dinosaur, the easier it is for the dinosaur to retain body heat.</div>
-<div class = "choice">H.smaller the dinosaur, the more likely that that dinosaur will be ectothermic.</div>
-<div class = "choice">J.smaller the dinosaur, the more likely it will exist in a perpetual state of reptilian torpor.</div>
-</div>
+<div class = "choice">F. larger the dinosaur, the easier it is for the dinosaur to be endothermic.</div>
+<div class = "choice">G. larger the dinosaur, the easier it is for the dinosaur to retain body heat.</div>
+<div class = "choice">H. smaller the dinosaur, the more likely that that dinosaur will be ectothermic.</div>
+<div class = "choice">J. smaller the dinosaur, the more likely it will exist in a perpetual state of reptilian torpor.</div>
+
 ###################

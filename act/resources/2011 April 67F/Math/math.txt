@@ -1,0 +1,524 @@
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1. A group of 6 people planned to spend $10.00 each to rent a boat for an outing. At the last minute, 1 person could not go on the outing. The others then paid equally for the boat. How much did each pay?
+<div class = "choice">A. $ 8.00</div>
+<div class = "choice">B. $ 8.33</div>
+<div class = "choice">C. $11.67</div>
+<div class = "choice">D. $12.00</div>
+<div class = "choice">E. $20.00</div>
+</div>
+###################
+<div class = "quiz">2. A calculator has a regular price of $58.95 before taxes. It goes on sale at 20% below the regular price. Before taxes are added, what is the sale price of the calculator?
+<div class = "choice">F. $ 53.95</div>
+<div class = "choice">G. $47.16</div>
+<div class = "choice">H. $38.95</div>
+<div class = "choice">J. $29.48</div>
+<div class = "choice">K. $11.79</div>
+</div>
+###################
+<div class = "quiz">3. Melissa knows that 30 miles per hour is equivalent o 44 feet per second. If Melissa drives at a speed of 70 miles per hour, which of the following is closest to her speed in feet per second?
+<div class = "choice">A. 31</div>
+<div class = "choice">B. 48</div>
+<div class = "choice">C. 103</div>
+<div class = "choice">D. 127</div>
+<div class = "choice">E. 1,027</div>
+</div>
+###################
+<div class = "quiz">4. If<img src='file:\$$$\resources\2011 April 67F\imgs\0.png' width = '55'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\1.png' width = '56'height = '29'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\2.png' width = '72'height = '34'/>, what does (r+b-g)(b+g) equal?
+<div class = "choice">F. -10</div>
+<div class = "choice">G. -4</div>
+<div class = "choice">H. 4</div>
+<div class = "choice">J. 9</div>
+<div class = "choice">K. 10</div>
+</div>
+###################
+<div class = "quiz">5. What is the largest value of x for which there exists a real value of y such that<img src='file:\$$$\resources\2011 April 67F\imgs\3.png' width = '140'height = '38'/>?
+<div class = "choice">A. 16</div>
+<div class = "choice">B. 128</div>
+<div class = "choice">C. 240</div>
+<div class = "choice">D. 256</div>
+<div class = "choice">E. 512</div>
+</div>
+###################
+<div class = "quiz">6. At Riverland Amusement Park, if an individual is not more than 4 feet tall, then that individual cannot ride the roller coaster. If Antoine rode the roller coaster at Riverland Amusement Park today, then which of the following may be logically concluded?
+<div class = "choice">F. Antoine is at most 3 feet tall.</div>
+<div class = "choice">G. Antoine is less than 4 feet tall.</div>
+<div class = "choice">H. Antoine is exactly 4 feet tall.</div>
+<div class = "choice">J. Antoine is more than 4 feet tall.</div>
+<div class = "choice">K. Antoine is at least 5 feet tall.</div>
+</div>
+###################
+<div class = "quiz">7. The number, N, of students at Hamlet High School who will catch the flu through Week t of school is modeled by the function<img src='file:\$$$\resources\2011 April 67F\imgs\4.png' width = '200'height = '69'/>. According to the model, how many students will catch the flu through Weed 4?
+<div class = "choice">A. 114</div>
+<div class = "choice">B. 1,068</div>
+<div class = "choice">C. 1,130</div>
+<div class = "choice">D. 1,835</div>
+<div class = "choice">E. 1,951</div>
+</div>
+###################
+<div class = "quiz">8. <img src='file:\$$$\resources\2011 April 67F\imgs\5.png' width = '87'height = '34'/>is equivalent to:
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\6.png' width = '51'height = '34'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\7.png' width = '55'height = '34'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\8.png' width = '56'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\9.png' width = '56'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\10.png' width = '60'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">9. A bag contains 5 yellow jellybeans, and 3 green jellybeans, all of the same shape and size. When 1 jellybean is randomly picked from the bag, what is the probability that it is green?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\11.png' width = '32'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\12.png' width = '24'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\13.png' width = '22'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\14.png' width = '32'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\15.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">10. What is the least common denominator for adding the fractions<img src='file:\$$$\resources\2011 April 67F\imgs\16.png' width = '35'height = '65'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\17.png' width = '35'height = '65'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\18.png' width = '32'height = '65'/>?
+<div class = "choice">F. 80</div>
+<div class = "choice">G. 560</div>
+<div class = "choice">H. 1,960</div>
+<div class = "choice">J. 4,480</div>
+<div class = "choice">K. 31,360</div>
+</div>
+###################
+<div class = "quiz">11. Marisa's design for a rectangular stained glass window with 7 triangles is shown below. The 2 white triangles are congruent (<img src='file:\$$$\resources\2011 April 67F\imgs\19.png' width = '162'height = '29'/>) and will be a different color than the other 5 triangles. The design includes the measures of<img src='file:\$$$\resources\2011 April 67F\imgs\20.png' width = '74'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\21.png' width = '74'height = '29'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\22.png' width = '75'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\23.png' width = '75'height = '29'/>?
+<img src='file:\$$$\resources\2011 April 67F\imgs\24.png' width = '1132'height = '680'/>
+<div class = "choice">A. 45°</div>
+<div class = "choice">B. 65°</div>
+<div class = "choice">C. 70°</div>
+<div class = "choice">D. 115°</div>
+<div class = "choice">E. 135°</div>
+</div>
+###################
+<div class = "quiz">12. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\25.png' width = '68'height = '125'/> is equal to:
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\26.png' width = '35'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\27.png' width = '46'height = '65'/></div>
+<div class = "choice">H. 4</div>
+<div class = "choice">J. 5</div>
+<div class = "choice">K. 10</div>
+</div>
+###################
+<div class = "quiz">13. The sum of the real numbers x and y is 15. Their difference is 9. What is the value of xy?
+<div class = "choice">A. 12</div>
+<div class = "choice">B. 15</div>
+<div class = "choice">C. 24</div>
+<div class = "choice">D. 36</div>
+<div class = "choice">E. 135</div>
+</div>
+###################
+<div class = "quiz">14. Four points, A, B, C, and D, lie on a circle having a circumference of 17 units. B is 6 units counterclockwise from. A. C is 2 units clockwise from A. D is 9 units clockwise from A and 8 units counterclockwise from A. What is the order of the points, starting with A and going clockwise around the circle?
+<div class = "choice">F. A, B, C, D</div>
+<div class = "choice">G. A, B, D, C</div>
+<div class = "choice">H. A, C, B, D</div>
+<div class = "choice">J. A, C, D, B</div>
+<div class = "choice">K. A, D, C, B</div>
+</div>
+###################
+<div class = "quiz">15. To determine a student's overall test score for the semester, Ms. Rainwater deletes the lowest test score and calculates the average of the remaining test scores. Galen took all 5 tests and earned the following test scores in Ms. Rainwater's class this semester: 81, 83, 88, 92, and 99. What overall test score did Galen earn in Ms. Rainwater's class this semester?
+<div class = "choice">A. 88.0</div>
+<div class = "choice">B. 88.6</div>
+<div class = "choice">C. 90.0</div>
+<div class = "choice">D. 90.5</div>
+<div class = "choice">E. 91.0</div>
+</div>
+###################
+<div class = "quiz">16. What is the slope-intercept form of<img src='file:\$$$\resources\2011 April 67F\imgs\28.png' width = '140'height = '34'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\29.png' width = '120'height = '34'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\30.png' width = '120'height = '34'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\31.png' width = '106'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\32.png' width = '107'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\33.png' width = '106'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">17. What is the sum of the 2 solutions of the equation<img src='file:\$$$\resources\2011 April 67F\imgs\34.png' width = '159'height = '34'/>?
+<div class = "choice">A. 7</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 0</div>
+<div class = "choice">D. -4</div>
+<div class = "choice">E. -28</div>
+</div>
+###################
+<div class = "quiz">18. <img src='file:\$$$\resources\2011 April 67F\imgs\35.png' width = '168'height = '42'/>
+<div class = "choice">F. -2</div>
+<div class = "choice">G. 2</div>
+<div class = "choice">H. 10</div>
+<div class = "choice">J. 19</div>
+<div class = "choice">K. 38</div>
+</div>
+###################
+<div class = "quiz">19. Tracy is trying to find a wrench to fit a bolt. The <img src='file:\$$$\resources\2011 April 67F\imgs\36.png' width = '75'height = '65'/> wrench is too large, and the <img src='file:\$$$\resources\2011 April 67F\imgs\37.png' width = '88'height = '65'/> wrench is too small. Which of the following could be the size of the wrench that will fit the bolt exactly?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\38.png' width = '78'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\39.png' width = '88'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\40.png' width = '88'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\41.png' width = '35'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\42.png' width = '88'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">20. What is the slope of the line containing the points (3, 8) and (-2, 10) in the standard (x, y) coordinate plane?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\43.png' width = '32'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\44.png' width = '32'height = '65'/></div>
+<div class = "choice">H. 18</div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\45.png' width = '41'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\46.png' width = '41'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">21. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\47.png' width = '191'height = '29'/> is equivalent to:
+<div class = "choice">A. 6abc</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\48.png' width = '70'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\49.png' width = '88'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\50.png' width = '117'height = '34'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\51.png' width = '126'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">22. During a 5-year period, 875 houses were built in Somerville. The graph below shows how many of these houses were built in each of these 5 years. A certain percent of the 875 houses were built in 1993. Which of the following is closest to that percent?
+<img src='file:\$$$\resources\2011 April 67F\imgs\52.png' width = '1682'height = '1460'/>
+<div class = "choice">F. 20%</div>
+<div class = "choice">G. 25%</div>
+<div class = "choice">H. 30%</div>
+<div class = "choice">J. 35%</div>
+<div class = "choice">K. 40%</div>
+</div>
+###################
+<div class = "quiz">23. How many terms are there between 13 and 37, exclusive of 13 and 37, in the arithmetic sequence below?
+4, 7, 10, 13, …, 37
+<div class = "choice">A. 0</div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 8</div>
+<div class = "choice">D. 28</div>
+<div class = "choice">E. 36</div>
+</div>
+###################
+<div class = "quiz">24. For<img src='file:\$$$\resources\2011 April 67F\imgs\53.png' width = '80'height = '34'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\54.png' width = '122'height = '69'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\55.png' width = '56'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\56.png' width = '56'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\57.png' width = '56'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\58.png' width = '41'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\59.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">25. The sides of one triangle are 12 inches, 14 inches, and 15 inches long, respectively. In a second triangle similar to the first, the shortest side is 8 inches long. To the nearest tenth of an inch, what is the length of the longest side of the second triangle?
+<div class = "choice">A. 6.4</div>
+<div class = "choice">B. 9.3</div>
+<div class = "choice">C. 10.0</div>
+<div class = "choice">D. 11.0</div>
+<div class = "choice">E. 14.4</div>
+</div>
+###################
+<div class = "quiz">26. Which of the following is equivalent to <img src='file:\$$$\resources\2011 April 67F\imgs\60.png' width = '80'height = '38'/> whenever<img src='file:\$$$\resources\2011 April 67F\imgs\61.png' width = '72'height = '29'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\62.png' width = '55'height = '29'/></div>
+<div class = "choice">G. 0</div>
+<div class = "choice">H. 1</div>
+<div class = "choice">J. 2</div>
+<div class = "choice">K. 3</div>
+</div>
+###################
+<div class = "quiz">27. A pentagon has 1 side of length z cm. 2 sides of length (z+2) cm each, 1 side of length 5 cm, and 1 side of length 3z cm. What is the perimeter, in centimeters, of the pentagon?
+<div class = "choice">A. 9z+6</div>
+<div class = "choice">B. 6z+9</div>
+<div class = "choice">C. 6z+4</div>
+<div class = "choice">D. 5z+9</div>
+<div class = "choice">E. 5z+7</div>
+</div>
+###################
+<div class = "quiz">28. A park has the shape and dimensions in blocks given below. A water fountain is located halfway between B and D. If you are at A, the water fountain is:
+<img src='file:\$$$\resources\2011 April 67F\imgs\63.png' width = '648'height = '972'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2011 April 67F\imgs\64.png' width = '38'height = '65'/>blocks north and 5 blocks east.</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\65.png' width = '38'height = '65'/>blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\66.png' width = '36'height = '65'/> blocks east.</div>
+<div class = "choice">H. 6 blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\67.png' width = '36'height = '65'/> blocks east.</div>
+<div class = "choice">J. 6 blocks north and 5 blocks east.</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\68.png' width = '38'height = '65'/>blocks north and 9 blocks east.</div>
+</div>
+###################
+<div class = "quiz">29. If <img src='file:\$$$\resources\2011 April 67F\imgs\69.png' width = '70'height = '29'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\70.png' width = '68'height = '29'/>, which of the following relationships holds between a and b for each nonzero value of c?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\71.png' width = '68'height = '29'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\72.png' width = '70'height = '29'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\73.png' width = '56'height = '29'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\74.png' width = '75'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\75.png' width = '75'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">30. For a certain plant, the recommended nighttime temperature range in degrees Fahrenheit is<img src='file:\$$$\resources\2011 April 67F\imgs\76.png' width = '143'height = '29'/>. Given the formula<img src='file:\$$$\resources\2011 April 67F\imgs\77.png' width = '150'height = '65'/>, where C is the temperature in degrees Celsius and F is the temperature in degrees Fahrenheit, what is the corresponding nighttime temperature range in degrees Celsius for the plant?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\78.png' width = '117'height = '29'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\79.png' width = '126'height = '29'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\80.png' width = '139'height = '29'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\81.png' width = '140'height = '29'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\82.png' width = '143'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">31. In parallelogram ABCD below, the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\83.png' width = '75'height = '29'/> is <img src='file:\$$$\resources\2011 April 67F\imgs\84.png' width = '41'height = '29'/> and the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\85.png' width = '75'height = '29'/> is<img src='file:\$$$\resources\2011 April 67F\imgs\86.png' width = '41'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\87.png' width = '74'height = '27'/>?
+<img src='file:\$$$\resources\2011 April 67F\imgs\88.png' width = '888'height = '760'/>
+<div class = "choice">A. 38°</div>
+<div class = "choice">B. 41°</div>
+<div class = "choice">C. 44°</div>
+<div class = "choice">D. 49°</div>
+<div class = "choice">E. 52°</div>
+</div>
+###################
+<div class = "quiz">32. All the adjacent line segments in the figure below intersect in right angles. If each segment is 6 units long, what is the area, in square units, of the entire figure?
+<img src='file:\$$$\resources\2011 April 67F\imgs\89.png' width = '324'height = '298'/>
+<div class = "choice">F. 72</div>
+<div class = "choice">G. 120</div>
+<div class = "choice">H. 144</div>
+<div class = "choice">J. 180</div>
+<div class = "choice">K. 324</div>
+</div>
+###################
+<div class = "quiz">33. Rhombus RHOM is shown in the figure below. If <img src='file:\$$$\resources\2011 April 67F\imgs\90.png' width = '78'height = '29'/> m and <img src='file:\$$$\resources\2011 April 67F\imgs\91.png' width = '88'height = '29'/> m, then what is the length, in meters, of<img src='file:\$$$\resources\2011 April 67F\imgs\92.png' width = '41'height = '36'/>?
+<img src='file:\$$$\resources\2011 April 67F\imgs\93.png' width = '896'height = '690'/>
+<div class = "choice">A. 3</div>
+<div class = "choice">B. 4</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. 6</div>
+<div class = "choice">E. 8</div>
+</div>
+###################
+<div class = "quiz">34. Grid lines are shown at 1-unit intervals in the standard (x, y) coordinate plane below. Some of the 1-by-1 squares are shaded in the grid. What is the least number of additional 1-by-1 squares that must be shaded so the total shaded region will be symmetric about the y-axis?
+<img src='file:\$$$\resources\2011 April 67F\imgs\94.png' width = '1036'height = '1060'/>
+<div class = "choice">F. 3</div>
+<div class = "choice">G. 5</div>
+<div class = "choice">H. 7</div>
+<div class = "choice">J. 11</div>
+<div class = "choice">K. 22</div>
+</div>
+###################
+<div class = "quiz">35. The ratio of the side lengths of a rectangle with an area of 80 square yards is 4:1. Which of the following is closest to the length, in yards, of the longer side of the rectangle?
+<div class = "choice">A. 10</div>
+<div class = "choice">B. 16</div>
+<div class = "choice">C. 18</div>
+<div class = "choice">D. 32</div>
+<div class = "choice">E. 40</div>
+</div>
+###################
+<div class = "quiz">36. Ms. Luciano's Algebra I class is describing the volume of geometric figures in tertms of variables. She draws a rectangular prism that has a length of (x+2) meters, a width of (x-2) meters, and a height of (x+1) meters. Which of the following is an expression for the volume, in cubic meters, of the rectangular prism?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\95.png' width = '65'height = '29'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\96.png' width = '61'height = '29'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\97.png' width = '64'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\98.png' width = '169'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\99.png' width = '158'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">37. A data set has 15 elements. The 15 elements in a second data set are obtained by multiplying each element in the first data set by 10. The 15 elements in a third data set are obtained by decreasing each element of the second data set by 20. The median of the third data set is 50. What is the median of the first data set?
+<div class = "choice">A. -20</div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 50</div>
+<div class = "choice">D. 70</div>
+<div class = "choice">E. 750</div>
+</div>
+###################
+<div class = "quiz">38. Jamal sees a tree on the shore directly across a lake and wonders what the distance is across the lake to the tree. He turns 90° to the right and walks in a straight line for 100 meters. Jamal turns to face the tree and finds the angle between his line of sight and his path measures 25°, as show below. Which of the following is closest to the distance, in meters, from Jamal's initial position to the tree?
+(Note:<img src='file:\$$$\resources\2011 April 67F\imgs\100.png' width = '143'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\101.png' width = '145'height = '29'/>,<img src='file:\$$$\resources\2011 April 67F\imgs\102.png' width = '145'height = '29'/>)
+<img src='file:\$$$\resources\2011 April 67F\imgs\103.png' width = '1368'height = '666'/>
+<div class = "choice">F. 42</div>
+<div class = "choice">G. 47</div>
+<div class = "choice">H. 91</div>
+<div class = "choice">J. 213</div>
+<div class = "choice">K. 238</div>
+</div>
+###################
+<div class = "quiz">39. In the standard (x, y) coordinate plane, a right triangle has vertices at (-3, 4), (3, 4), and (3, -4). What is the length, in coordinate units, of the hypotenuse of this triangle?
+<div class = "choice">A. 3</div>
+<div class = "choice">B. 4</div>
+<div class = "choice">C. 6</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. 10</div>
+</div>
+###################
+<div class = "quiz">40. Each edge of a cube is 4 inches long. Each edge of a second cube is triple the length of each edge of the first cube. The volume of the second cube is how many cubic inches bigger than the volume of the first cube?
+<div class = "choice">F. 128</div>
+<div class = "choice">G. 512</div>
+<div class = "choice">H. 576</div>
+<div class = "choice">J. 1,664</div>
+<div class = "choice">K. 1,728</div>
+</div>
+###################
+<div class = "quiz">41. A particular circle in the standard (x, y) coordinate plane has an equation of<img src='file:\$$$\resources\2011 April 67F\imgs\104.png' width = '174'height = '38'/>. What are the radius of the circle, in coordinate units, and the coordinates of the center of the circle?
+radius   center
+<div class = "choice">A.  7.5     (-8, 0)</div>
+<div class = "choice">B.  7.5     (8, 0)</div>
+<div class = "choice">C.  15     (8, 0)</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\105.png' width = '46'height = '38'/>   (-8, 0)</div>
+<div class = "choice">E.<img src='file:\$$$\resources\2011 April 67F\imgs\106.png' width = '46'height = '38'/>    (8, 0)</div>
+</div>
+###################
+<div class = "quiz">42. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
+The City Council decides to put fencing around the park. What is the perimeter, in feet, of the park?
+<div class = "choice">F. 150</div>
+<div class = "choice">G. 210</div>
+<div class = "choice">H. 270</div>
+<div class = "choice">J. 420</div>
+<div class = "choice">K. 540</div>
+</div>
+###################
+<div class = "quiz">43. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
+The picnic shelter must be at least 10 feet from any edge of the park. On graph paper with the distance between grid lines representing 10 feet, a city engineer makes a scale drawing of the park, as shown below. The region where the picnic shelter CANNOT be built is shown shaded. The corners of both the park and the region where the picnic shelter may be built are at the intersections of grid lines. The corners of the picnic shelter must also be at the intersections of grid lines. How many different locations in the park are possible for the placement of the picnic shelter?
+<img src='file:\$$$\resources\2011 April 67F\imgs\107.png' width = '1108'height = '536'/>
+<div class = "choice">A. 22</div>
+<div class = "choice">B. 36</div>
+<div class = "choice">C. 52</div>
+<div class = "choice">D. 70</div>
+<div class = "choice">E. 90</div>
+</div>
+###################
+<div class = "quiz">44. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
+The City Council's long-term plan for the park involves doubling the area of the park. The length and width of the park will each be extended by d feet. For which of the following equations is <img src='file:\$$$\resources\2011 April 67F\imgs\108.png' width = '60'height = '29'/> a solution?
+<div class = "choice">F. <img src='file:\$$$\resources\2011 April 67F\imgs\109.png' width = '284'height = '34'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\110.png' width = '314'height = '34'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 April 67F\imgs\111.png' width = '342'height = '34'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 April 67F\imgs\112.png' width = '309'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\113.png' width = '266'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">45. The graphs of <img src='file:\$$$\resources\2011 April 67F\imgs\114.png' width = '145'height = '34'/> and <img src='file:\$$$\resources\2011 April 67F\imgs\115.png' width = '238'height = '71'/> are shown in the standard (x, y) coordinate plane below. After one of the following pairs of transformations is applied to the graph of f(x), the image of the graph of f(x) is the graph of g(x). Which pair is it?
+<img src='file:\$$$\resources\2011 April 67F\imgs\116.png' width = '1630'height = '686'/>
+<div class = "choice">A. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\117.png' width = '26'height = '65'/> units down.</div>
+<div class = "choice">B. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\118.png' width = '26'height = '65'/> units up.</div>
+<div class = "choice">C. Shift f(x) 1 unit right and <img src='file:\$$$\resources\2011 April 67F\imgs\119.png' width = '26'height = '65'/> units down.</div>
+<div class = "choice">D. Shift <img src='file:\$$$\resources\2011 April 67F\imgs\120.png' width = '78'height = '65'/> units left and 1 unit up.</div>
+<div class = "choice">E. Shift <img src='file:\$$$\resources\2011 April 67F\imgs\121.png' width = '78'height = '65'/> units right and 1 unit up.</div>
+</div>
+###################
+<div class = "quiz">46. Let p and q be numbers such that<img src='file:\$$$\resources\2011 April 67F\imgs\122.png' width = '74'height = '34'/>. Which of the following inequalities must be true for all such p and q?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\123.png' width = '112'height = '34'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\124.png' width = '54'height = '69'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\125.png' width = '65'height = '69'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\126.png' width = '70'height = '38'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\127.png' width = '88'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">47. If a is 28% of b, then 135% of b is what percent of a?
+<div class = "choice">A. 160%</div>
+<div class = "choice">B. 210%</div>
+<div class = "choice">C. 337.5%</div>
+<div class = "choice">D. 540%</div>
+<div class = "choice">E. 875%</div>
+</div>
+###################
+<div class = "quiz">48. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\128.png' width = '182'height = '34'/> is equivalent to:
+<div class = "choice">F. -5</div>
+<div class = "choice">G. -4</div>
+<div class = "choice">H. -3</div>
+<div class = "choice">J. 3</div>
+<div class = "choice">K. 5</div>
+</div>
+###################
+<div class = "quiz">49. Figure ABCDEF, shown in the standard (x, y) coordinate plane below, has been reflected across a line to figure<img src='file:\$$$\resources\2011 April 67F\imgs\129.png' width = '140'height = '29'/>. Which of the following lines of reflection would best describe this transformation?
+<img src='file:\$$$\resources\2011 April 67F\imgs\130.png' width = '1004'height = '980'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\131.png' width = '56'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\132.png' width = '64'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\133.png' width = '74'height = '27'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\134.png' width = '56'height = '29'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\135.png' width = '60'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">50. What is the length, in inches, of a 144° arc of a circle whose circumference is 60 inches?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\136.png' width = '35'height = '65'/></div>
+<div class = "choice">G. 12</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 36</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\137.png' width = '45'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">51. A solid, right circular cone is sliced perpendicular to its base through its vertex an the center of its base, as shown below. Which of the following best represents the plane section?
+<img src='file:\$$$\resources\2011 April 67F\imgs\138.png' width = '396'height = '432'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\139.png' width = '220'height = '288'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\140.png' width = '200'height = '260'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\141.png' width = '236'height = '268'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\142.png' width = '226'height = '254'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\143.png' width = '214'height = '298'/></div>
+</div>
+###################
+<div class = "quiz">52. It b is a positive number such that<img src='file:\$$$\resources\2011 April 67F\imgs\144.png' width = '153'height = '71'/>, then <img src='file:\$$$\resources\2011 April 67F\imgs\145.png' width = '54'height = '29'/>
+<div class = "choice">F. 3</div>
+<div class = "choice">G. 9</div>
+<div class = "choice">H. 85</div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\146.png' width = '22'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\147.png' width = '22'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">53. The graph in the standard (x, y) coordinate plane below is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\148.png' width = '94'height = '34'/>. One of the following graphs is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\149.png' width = '162'height = '34'/>. Which one?
+<img src='file:\$$$\resources\2011 April 67F\imgs\150.png' width = '486'height = '256'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\151.png' width = '486'height = '348'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\152.png' width = '452'height = '240'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\153.png' width = '468'height = '354'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\154.png' width = '462'height = '344'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\155.png' width = '480'height = '268'/></div>
+</div>
+###################
+<div class = "quiz">54. In the figure below, parallel lines a and b intersect parallel lines c and d. If it can be determined, what is the sum of the degree measures of <img src='file:\$$$\resources\2011 April 67F\imgs\156.png' width = '35'height = '27'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\157.png' width = '38'height = '27'/>?
+<img src='file:\$$$\resources\2011 April 67F\imgs\158.png' width = '868'height = '820'/>
+<div class = "choice">E. 220°</div>
+<div class = "choice">G. 180°</div>
+<div class = "choice">H. 140°</div>
+<div class = "choice">J. 110°</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">55. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
+<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
+The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
+What is the maximum value of P(x, y) when x and y satisfy the 3 conditions given?
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 8</div>
+<div class = "choice">C. 12</div>
+<div class = "choice">D. 16</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">56. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
+<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
+The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
+The quadrants of the standard (x, y) coordinate plane are labeled in the figure below. The domain of P(x, y) contains points in which quadrants?
+<img src='file:\$$$\resources\2011 April 67F\imgs\165.png' width = '1316'height = '816'/>
+<div class = "choice">F. I and II only</div>
+<div class = "choice">G. I and III only</div>
+<div class = "choice">H. I and IV only</div>
+<div class = "choice">J. II and III only</div>
+<div class = "choice">K. II and IV only</div>
+</div>
+###################
+<div class = "quiz">57. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
+<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
+The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\166.png' width = '143'height = '29'/>
+<div class = "choice">A. 1</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\167.png' width = '24'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\168.png' width = '41'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\169.png' width = '41'height = '69'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\170.png' width = '55'height = '69'/></div>
+</div>
+###################
+<div class = "quiz">58. The function f(x) is a cubic polynomial that has the value of 0 when x is 0, 3, and -5. If<img src='file:\$$$\resources\2011 April 67F\imgs\171.png' width = '113'height = '34'/>, which of the following is an expression for f(x)?
+<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\172.png' width = '75'height = '34'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\173.png' width = '174'height = '34'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 April 67F\imgs\174.png' width = '148'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\175.png' width = '159'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\176.png' width = '159'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">59. Water is considered contaminated when the level of zinc in the water reaches 5 parts of zinc per 1 million parts of water. What is this level of zinc contamination written in scientific notation?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\177.png' width = '94'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\178.png' width = '94'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\179.png' width = '94'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\180.png' width = '87'height = '34'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\181.png' width = '87'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">60. Given <img src='file:\$$$\resources\2011 April 67F\imgs\182.png' width = '46'height = '29'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\183.png' width = '172'height = '38'/>, then <img src='file:\$$$\resources\2011 April 67F\imgs\184.png' width = '72'height = '34'/> must be:
+<div class = "choice">F. less than 1.</div>
+<div class = "choice">G. greater than 1.</div>
+<div class = "choice">H. greater than a.</div>
+<div class = "choice">J. greater than<img src='file:\$$$\resources\2011 April 67F\imgs\185.png' width = '72'height = '34'/>.</div>
+<div class = "choice">K. equal to<img src='file:\$$$\resources\2011 April 67F\imgs\186.png' width = '72'height = '34'/>.</div>
+
+</div>
+###################

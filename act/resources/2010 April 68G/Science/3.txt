@@ -1,0 +1,54 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When an asteroid hits the surface of a planet or moon, an impact crater is formed. An asteroid that hits Earth under a specific set of conditions (including speed and angle), referred to here as Set C. forms a crater with a diameter about 20 times the asteroid's diameter. Figure 1 shows the energy released by the impact, for a range of asteroid diameters.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows the average amount of time that elapses between consecutive impacts on Earth by asteroids with the same diameter, for a range of asteroid diameters. Figure 3 shows the percent of the surface of the Moon, Mercury, and Mars that is covered by impact craters, for various ranges of crater diameter.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\90.png' width = '2322'height = '3084'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\91.png' width = '2682'height = '2184'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\92.png' width = '2784'height = '2274'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Eugene M, Shoemaker and Carolyn S. Shoemaker, "The Role of Collisions."1999 by Sky Publishing Corp.</div>
+
+<br>
+###################
+<div class = "quiz">13. Suppose that 55 units of energy were released when a particular asteroid, under Set C conditions, hit Earth. According to Figure l. the asteroid's diameter was most likely closest to which of the following?
+<div class = "choice">A. 0.05 km</div>
+<div class = "choice">B. 0.1 km</div>
+<div class = "choice">C. 0.5 km</div>
+<div class = "choice">D. 1 km</div>
+</div>
+###################
+<div class = "quiz">14. According to Figure 2, for progressively larger asteroids, the average amount of time that elapses between consecutive impacts on Earth by asteroids with the same diameter:
+<div class = "choice">F. increases only.</div>
+<div class = "choice">G. decreases only.</div>
+<div class = "choice">H. varies, but with no general trend.</div>
+<div class = "choice">J. remains the same.</div>
+</div>
+###################
+<div class = "quiz">15. According to Figure 3, for any given range of crater diameters, the percent of the surface of Mars that is covered by impact craters with those diameters is:
+<div class = "choice">A. less than that for Mercury or the Moon.</div>
+<div class = "choice">B. less than that for Mercury but greater than that for the Moon.</div>
+<div class = "choice">C. greater than that for Mercury or the Moon.</div>
+<div class = "choice">D. greater than that for Mercury but less than that for the Moon.</div>
+</div>
+###################
+<div class = "quiz">16. Suppose an asteroid, under Set C conditions, hit Earth to form a crater 20 km in diameter. Based on Figure l and other information provided, that asteroid impact most likely released an amount of energy closest to which of the following?
+<div class = "choice">F. 1,000 energy units</div>
+<div class = "choice">G. 3,000 energy units</div>
+<div class = "choice">H. 10,000 energy units</div>
+<div class = "choice">J. 30,000 energy units</div>
+</div>
+###################
+<div class = "quiz">17. Assume that an asteroid that hit Earth 65 million years ago was l0 km in diameter. Also assume that another 10 km asteroid will hit Earth in the future. If the amount of time that elapses between these consecutive impacts is equal to the average amount of time as given by Figure 2, a 10 km diameter asteroid will next hit Earth approximately:
+<div class = "choice">A. 35 million years from now.</div>
+<div class = "choice">B. 65 million years from now.</div>
+<div class = "choice">C. 100 million years from now.</div>
+<div class = "choice">D. 135 million years from now.</div>
+<br>
+</div>
+###################

@@ -1,6 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '177'height = '149'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dimetrodon is a large, extinct, cold-blooded, carnivorous reptile (see figure below). Fossils show that Dimetrodon had fixed spines extending from its vertebrae that, when covered with skin, formed a large sail. Two scientists discuss the sail's function.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\219.png' width = '354'height = '297'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist l</div>
@@ -9,10 +11,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sail helped regulate body temperature. Dimetrodon needed to warm its body to the activity temperature, the temperature at which it was active enough to hunt. This could be achieved most rapidly by turning the broad side of the sail toward the morning sun. A mathematical model shows that a reptile with a sail would reach the activity temperature 3 times faster than a reptile without a sail. Rapid warming gave Dimetrodon a distinct advantage catching cold-blood.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Grooves on the sail's spines held 1arge blood vessels.</div>
-
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Regulating the blood flow through these vessels during the heat of the day allowed the reptile to radiate heat away from its body and prevent overheating.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Grooves on the sail's spines held 1arge blood vessels.Regulating the blood flow through these vessels during the heat of the day allowed the reptile to radiate heat away from its body and prevent overheating.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four other cold-blooded reptile species from this same time and climate also had bony projections or sails on their back. Today, elephants regulate their body temperature by flapping their large ears.</div>
@@ -74,9 +73,10 @@
 </div>
 ###################
 <div class = "quiz">7. Based on the information in Scientist 1's viewpoint, which of the following figures best represents how a Dimetrodon would orient its sail with respect to the sun in order to minimize heating during late afternoon?
-<div class = "choice">A. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\220.png' width = '66'height = '100'/></div>
-<div class = "choice">B. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '68'height = '110'/></div>
+<div class = "choice">A. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\220.png' width = '65'height = '100'/></div>
+<div class = "choice">B. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\221.png' width = '70'height = '110'/></div>
 <div class = "choice">C. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\222.png' width = '118'height = '84'/></div>
-<div class = "choice">D. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '93'height = '106'/></div>
+<div class = "choice">D. direction of late afternoon sun <img src='file:\$$$\resources\2005 April 60E\imgs\223.png' width = '95'height = '106'/></div>
+<br>
 </div>
 ###################

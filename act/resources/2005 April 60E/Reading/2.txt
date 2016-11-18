@@ -1,80 +1,92 @@
-﻿<h1>Passage II</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from Michael J.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sandel’s article "America’s Search for a New Public Philosophy." (©1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, 5 for to do so would be to "legislate morality." Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">10 The aspiration to neutrality finds prominent expression in our politics and law. Although it derives from the liberal tradition of political thought, its province is not limited to those known as liberals, rather than conservatives, in American politics; it can 15 be found across the political spectrum; Liberals invoke the ideal of neutrality when opposing school prayer or restrictions on abortion or attempts by certain groups to bring their morality into the public square. Conservatives appeal to neutrality when opposing attempts 20 by government to impose certain moral restraints-for the sake of workers’ safety or environmental protection or distributive justice-on the operation of the market economy.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ideal of free choice also figures on both sides 25 0f the debate over the welfare state. Republicans have long complained that taxing the rich to pay for welfare programs for the poor is a form of coerced charity that violates people’s freedom to choose what to do with their own money. Democrats have long replied that 30 government must assure all citizens a decent level of income; housing, education, and health care, on the grounds that those who are crushed by economic necessity are not truly free to exercise choice in other domains. Despite their disagreement about how gov-35 ernment should act to respect individual choice, both sides assume that freedom consists in the capacity of people to choose their own ends.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">So familiar is this vision of freedom that it might seem a permanent feature of the American political tra-40 dition. But as a reigning public philosophy, it is a recent arrival, a development of the past half century. Its distinctive character can best be seen by comparison with a. rival public philosophy that it gradually displaced: a version of republican political theory.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">45 Central to republican theory is the idea that liberty depends on sharing in self-government. This idea is not by itself inconsistent with liberal freedom. Participating in politics can be one among the ways in which people choose to pursue their individual ends. According to 50 republican political theory, however, sharing in self-rule involves something more. It involves deliberating with fellow citizens about the common good and helping to shape the destiny of the political community. But to deliberate well about the common good requires 55 more than the capacity to choose one’s ends and to respect others’ rights to do the same. It requires a knowledge of public affairs and also a sense of belonging, a concern for the whole, a moral bond with the community whose fate is at stake. To share in self-60 rule therefore requires that citizens possess, or come to acquire, certain civic virtues. But this means that republican politics cannot be neutral toward the values and ends its citizens espouse. The republican conception of freedom, unlike the liberal conception, requires 65 a formative politics, a politics that cultivates in citizens the qualities of charact9r that self-government requires.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Both the liberal and the republican understandings of freedom have been present throughout our political experience, but in shifting measure and relative impor-70 tance. In recent decades the civic, or formative, aspect of our politics has given way to a procedural republic, concerned less with cultivating virtue than with enabling persons to choose their own values. This shift sheds light on our present discontent. For despite its 75 appeal, the liberal vision of freedom lacks the civic resources to sustain self-government. The public philosophy by which we live cannot secure the liberty it promises, because it cannot inspire the sense of community and civic engagement that liberty requires.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from Michael J. Sandel’s article “America’s Search for a New Public Philosophy.” (?1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, for to do so would be to "legislate morality." Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=13><font id=18>The aspiration to neutrality finds prominent expression in our politics and law. Although it derives from the liberal tradition of political thought, its province is not limited to those known as liberals, rather than conservatives, in American politics; it can be found across the political spectrum. </font> Liberals invoke the ideal of neutrality when opposing school prayer or restrictions on abortion or attempts by certain groups to bring their morality into the public square. Conservatives appeal to neutrality when opposing attempts by government to impose certain moral restraints-for the sake of workers' safety or environmental protection or distributive justice-on the operation of the market economy. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ideal of free choice also figures on both sides of the debate over the welfare state. Republicans have long complained that taxing the rich to pay for welfare programs for the poor is a form of coerced charity that violates people's freedom to choose what to do with their own money. Democrats have long replied that government must assure all citizens a decent level of income; housing, education, and health care, on the grounds that those who are crushed by economic necessity are not truly free to exercise choice in other domains. Despite their disagreement about how government should act to respect individual choice, both sides assume that freedom consists in the capacity of people to choose their own ends.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">So familiar is this vision of freedom that it might seem a permanent feature of the American political tradition. But as a reigning public philosophy, it is a recent arrival, a development of the past half century. Its distinctive character can best be seen by comparison with a. rival public philosophy that it gradually displaced: a version of republican political theory.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>Central to republican theory is the idea that liberty depends on sharing in self-government. This idea is not by itself inconsistent with liberal freedom. Participating in politics can be one among the ways in which people choose to pursue their individual ends. According to republican political theory, however, sharing in self-rule involves something more. It involves deliberating with fellow citizens about the common good and helping to shape the destiny of the political community. But to <font id=12>deliberate well about the common good</font> requires more than the capacity to choose one's ends and to respect others' rights to do the same. It requires a knowledge of public affairs and also a sense of belonging, a concern for the whole, a moral bond with the community whose fate is at stake. To share in self-rule therefore requires that citizens possess, or come to acquire, certain civic virtues. But this means that republican politics cannot be neutral toward the values and ends its citizens espouse. The republican conception of freedom, unlike the liberal conception, requires a <font id=15>formative politics</font>, a politics that cultivates in citizens the qualities of character that self-government requires. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Both the liberal and the republican understandings of freedom have been present throughout our <font id=17>political experience</font>, but in shifting measure and relative importance. In recent decades the civic, or formative, aspect of our politics has given way to a procedural republic, concerned less with cultivating virtue than with enabling persons to choose their own values. This shift sheds light on our present discontent. For despite its appeal, the liberal vision of freedom lacks the civic resources to sustain self-government. The public philosophy by which we live cannot secure the liberty it promises, because it cannot inspire the sense of community and civic engagement that liberty requires.</div>
+
+<br>
 ###################
 <div class = "quiz">11. Which of the following offers the best description of republican political theory as it is defined in this passage?
-<div class = "choice">A.Citizens should be able to choose their own values, and should respect others’ right to do the same.</div>
-<div class = "choice">B.Citizens need to participate in politics and to care for their community in order to enjoy true liberty.</div>
-<div class = "choice">C.Citizens need to be neutral about their values and beliefs in order that others not be offended.</div>
-<div class = "choice">D.Citizens must understand that choosing their own values is inconsistent with liberal freedom.</div>
+<div class = "choice">A. Citizens should be able to choose their own values, and should respect others' right to do the same.</div>
+<div class = "choice">B. Citizens need to participate in politics and to care for their community in order to enjoy true liberty.</div>
+<div class = "choice">C. Citizens need to be neutral about their values and beliefs in order that others not be offended.</div>
+<div class = "choice">D. Citizens must understand that choosing their own values is inconsistent with liberal freedom.</div>
 </div>
 ###################
 <div class = "quiz">12. According to the passage, in order for citizens to "deliberate well about the common good" (line 54) citizens must possess all of the following EXCEPT:
-<div class = "choice">F.knowledge of public affairs.</div>
-<div class = "choice">G.a neutral framework of. rights.</div>
-<div class = "choice">H.concern for fellow citizens.</div>
-<div class = "choice">J.a sense of Civic engagement.</div>
+<div class = "choice">F. knowledge of public affairs.</div>
+<div class = "choice">G. a neutral framework of. rights.</div>
+<div class = "choice">H. concern for fellow citizens.</div>
+<div class = "choice">J. a sense of Civic engagement.</div>
 </div>
 ###################
 <div class = "quiz">13. The main point of the second paragraph (lines 10-23) is that:
-<div class = "choice">A.liberals and conservatives have essentially the same value systems.</div>
-<div class = "choice">B.liberals and conservatives find governmental neutrality appealing for different reasons.</div>
-<div class = "choice">C.conservatives are more interested in the nation’s economy than are liberals.</div>
-<div class = "choice">D.liberals are responsible for the idea that the U.S. government should be neutral.</div>
+<div class = "choice">A. liberals and conservatives have essentially the same value systems.</div>
+<div class = "choice">B. liberals and conservatives find governmental neutrality appealing for different reasons.</div>
+<div class = "choice">C. conservatives are more interested in the nation's economy than are liberals.</div>
+<div class = "choice">D. liberals are responsible for the idea that the U.S. government should be neutral.</div>
 </div>
 ###################
 <div class = "quiz">14. The main point of the fifth paragraph (lines 45-66) is that:
-<div class = "choice">F.liberal and republican theories each demand that citizens take part in politics.</div>
-<div class = "choice">G.liberal and republican theories each have their good points and their bad points.</div>
-<div class = "choice">H.republican politicians tend to be more virtuous and compassionate than liberal politicians.</div>
-<div class = "choice">J.republican theory requires that citizens demonstrate a concern for the common good.</div>
+<div class = "choice">F. liberal and republican theories each demand that citizens take part in politics.</div>
+<div class = "choice">G. liberal and republican theories each have their good points and their bad points.</div>
+<div class = "choice">H. republican politicians tend to be more virtuous and compassionate than liberal politicians.</div>
+<div class = "choice">J. republican theory requires that citizens demonstrate a concern for the common good.</div>
 </div>
 ###################
-<div class = "quiz">15. As it is used in line 65, the phrase formative politics refers to a type of politics that: 
-<div class = "choice">A.promotes important civic virtues.</div>
-<div class = "choice">B.is consistent with liberal freedom.</div>
-<div class = "choice">C.is part of a procedural republic.</div>
-<div class = "choice">D.is distinct from self-rule.</div>
+<div class = "quiz">15. As it is used in line 65, the phrase formative politics refers to a type of politics that:
+<div class = "choice">A. promotes important civic virtues.</div>
+<div class = "choice">B. is consistent with liberal freedom.</div>
+<div class = "choice">C. is part of a procedural republic.</div>
+<div class = "choice">D. is distinct from self-rule.</div>
 </div>
 ###################
 <div class = "quiz">16. If the last paragraph were deleted, what critical piece information would be lost?
-<div class = "choice">F.What the author sees as the features that distinguish between procedural and liberal republics</div>
-<div class = "choice">G.What the author sees as the centerpiece of republican political theory</div>
-<div class = "choice">H.What the auth or sees as the central weakness of our current public philosophy</div>
-<div class = "choice">J.What the author sees as the difference between liberal and republican political theories</div>
+<div class = "choice">F. What the author sees as the features that distinguish between procedural and liberal republics</div>
+<div class = "choice">G. What the author sees as the centerpiece of republican political theory</div>
+<div class = "choice">H. What the auth or sees as the central weakness of our current public philosophy</div>
+<div class = "choice">J. What the author sees as the difference between liberal and republican political theories</div>
 </div>
 ###################
 <div class = "quiz">17. As it is used in lines 68-69, the phrase political experience most nearly means:
-<div class = "choice">A.country’s history.</div>
-<div class = "choice">B.voting patterns.</div>
-<div class = "choice">C.presidential campaigns</div>
-<div class = "choice">D.elective office</div>
+<div class = "choice">A. country's history.</div>
+<div class = "choice">B. voting patterns.</div>
+<div class = "choice">C. presidential campaigns</div>
+<div class = "choice">D. elective office</div>
 </div>
 ###################
 <div class = "quiz">18. The main point being made in lines 10-15 is that:
-<div class = "choice">F.a belief in citizens’ rights to choose their own values is shared by people with different politics.</div>
-<div class = "choice">G.liberals and conservatives can be found across the political spectrum.</div>
-<div class = "choice">H.the aspiration to neutrality is guaranteed by the Constitution and supported by republican theory.</div>
-<div class = "choice">J.the liberal tradition in American politics is some-what limited in its theoretical background.</div>
+<div class = "choice">F. a belief in citizens' rights to choose their own values is shared by people with different politics.</div>
+<div class = "choice">G. liberals and conservatives can be found across the political spectrum.</div>
+<div class = "choice">H. the aspiration to neutrality is guaranteed by the Constitution and supported by republican theory.</div>
+<div class = "choice">J. the liberal tradition in American politics is some-what limited in its theoretical background.</div>
 </div>
 ###################
 <div class = "quiz">19. The last paragraph most strongly suggests that a "procedural republic" is a republic:
-<div class = "choice">A.known for having good political procedures.</div>
-<div class = "choice">B.that has developed a formative politics.</div>
-<div class = "choice">C.based upon many rules and regulations.</div>
-<div class = "choice">D.with a neutral framework of rights.</div>
+<div class = "choice">A. known for having good political procedures.</div>
+<div class = "choice">B. that has developed a formative politics.</div>
+<div class = "choice">C. based upon many rules and regulations.</div>
+<div class = "choice">D. with a neutral framework of rights.</div>
 </div>
 ###################
 <div class = "quiz">20. The author of the passage claims that the liberal vision of freedom cannot provide liberty because that vision:
-<div class = "choice">F.gives citizens too many choices to consider.</div>
-<div class = "choice">G.does not teach citizens to care about community.</div>
-<div class = "choice">H.inspires moral neutrality, which is antigovernment.</div>
-<div class = "choice">J.depends too heavily on the concept of legislating morality.</div>
+F: gives citizens too many choices to consider.
+<div class = "choice">G. does not teach citizens to care about community.</div>
+<div class = "choice">H. inspires moral neutrality, which is antigovernment.</div>
+<div class = "choice">J. depends too heavily on the concept of legislating morality.</div>
+<br>
 </div>
 ###################

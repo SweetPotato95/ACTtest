@@ -59,7 +59,7 @@ public class PassagePane extends JPanel{
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 //		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ questionIndex);
 		if(partIndex != ModelConstants.WRITING){
-			int questionId = basicInfo.questionIndexinSplit(questionIndex);
+			int questionId = basicInfo.questionIndexinPart(questionIndex);
 			String passagetext = readingBrain.getPassage();
 			questionId += 1;
 			String substring = "<font id="+questionId+">";

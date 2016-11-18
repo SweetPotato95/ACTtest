@@ -1,0 +1,70 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Volcanoes put sulfur into the troposphere and the stratosphere, where the sulfur reacts to form sulfate aerosols (liquid droplets suspended in air). For locations at 50°N latitude, aerosols present at altitudes below 11 km scatter incoming solar energy, resulting in cooler air, while aerosols present at higher altitudes absorb incoming solar energy, warming the air.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 shows the air temperature deviation at the surface of, and at 2 different altitudes above, a particular volcano (located at 50°N latitude), before and after it erupted. Figure 2 shows the maximum surface air temperature deviation associated with the specific mass of sulfate aerosols formed in the stratosphere after each of 8 volcanoes erupted.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\263.png' width = '4116'height = '3099'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: A tick mark on the x-axis indicates Jan. 1 of a given year.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">*air temperature deviation at a given altitude</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\264.png' width = '864'height = '37'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\265.png' width = '4059'height = '1944'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mass of sulfate aerosols formed in the stratosphere (metric tons)</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from Haraidur Sigurdsson, "Evidence of Volcanic Loading of the Atmosphere and Climate Response." ©1990 by Elsevier Science Publishers.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from Michael Rampino, "Supereruptions as a Threat to Civilizations on Earth-like Planets." ©2002 by Elsevier Science (USA).</div>
+
+<br>
+###################
+<div class = "quiz">36. According to Figure 1, after the eruption, the greatest air temperature deviation at an altitude of 19 km was closest to which of the following?
+<div class = "choice">F. 5°C    G. 6°C    H. 7°C    J. 8°C</div>
+</div>
+###################
+<div class = "quiz">37. Consider the equation provided in Figure 1 and the data point for Toba in Figure 2. After Toba erupted, the surface air temperature, when at its most extreme, was approximately:
+<div class = "choice">A. 4°C above average.</div>
+<div class = "choice">B. 4°C below average.</div>
+<div class = "choice">C. 10°C above average.</div>
+<div class = "choice">D. 10°C below average.</div>
+</div>
+###################
+<div class = "quiz">38. According to Figure 1, after the eruption, the air temperature at 16 km altitude stayed more than 1°C above average for:
+<div class = "choice">F. less than 1 year.</div>
+<div class = "choice">G. between 1 year and 2 years.</div>
+<div class = "choice">H. between 2 years and 3 years.</div>
+<div class = "choice">J. more than 3 years.</div>
+</div>
+###################
+<div class = "quiz">39. Consider the volcano whose data are shown in Figure 1. Suppose that the average air temperature 16 km above that volcano is -60.0°C. Based on Figure 1, on January 1, 1984, the measured air temperature 16 km above that same volcano would have been closest to which of the following?
+<div class = "choice">A. -64.0°C</div>
+<div class = "choice">B. -60.0°C</div>
+<div class = "choice">C. -56.0°C</div>
+<div class = "choice">D. -4.0°C</div>
+</div>
+###################
+<div class = "quiz">40. In Figure 1, a value of zero for the air temperature deviation at a given altitude indicates that the measured air temperature at that altitude equaled the:
+<div class = "choice">F. maximum air temperature deviation at that altitude.</div>
+<div class = "choice">G. average air temperature deviation at that altitude.</div>
+<div class = "choice">H. maximum air temperature at that altitude.</div>
+<div class = "choice">J. average air temperature at that altitude.</div>
+<br>
+</div>
+###################

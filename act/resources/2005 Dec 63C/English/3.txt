@@ -1,110 +1,125 @@
-<h1>Passage III</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Coretta Scott King: An Unexpected Turn</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a child, Coretta Scott loved to sing and play the piano. Born in 1927 in Marion, Alabama, the daughter of a successful truck farmer, <u>31 she became</u> a top student in grade school and was often asked to lead the class in song. Her parents encouraged her to study diligently and responded to her special interests with piano and voice lessons.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1] After finishing high school, Coretta Scott attended Antioch <u>32 College</u> in Ohio. [2] After college, she enrolled in Boston’s New England Conservatory of Music, where her studies, she hoped, would lead to a degree in voice and a <u>33 celebrated</u> concert singer. [3] It was there that her life took an unexpected turn when she met a-doctoral student at Boston University’s School of Theology, Martin Luther King, Jr. [4] She graduated from Antioch in 1951 <u>34 with a degree upon finishing a program of study</u> in music and elementary education. 35</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Soon after their marriage in 1953, the Kings moved to Montgomery, Alabama, where the Reverend Dr. King began his first church assignment. Their first child was born in 1955, just three weeks before Dr. King <u>36 has led</u> the historic Montgomery bus boycott. During these years, Coretta Scott King became a <u>37 calm, forceful presence,</u> in the civil rights movement. <u>38 Even as she fulfilled the duties of pastor’s wife,</u> she was steady and unwavering. In 1956, after their home was bombed, supporters were told how much his wife’s strength had helped him through that incident. 40</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the mid-sixties, Coretta Scott King began to take on a more active role in the <u>41 movement, which</u> after her husband’s assassination in l968, she helped carry on the cause of racial and economic justice. 42 As founder of the Martin Luther King, Jr. Center for Nonviolent Social Change, <u>43 the work continues</u> to fulfill the goals of peace and justice.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the great stories of the civil rights movement <u>44 have been</u> that <u>45 Coretta. Scott King might have become a</u> <u>45 great concert singer if things were different.</div>
+<h1>Coretta Scott King: An Unexpected Turn</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a child, Coretta Scott loved to sing and play the piano. Born in 1927 in Marion, Alabama, the daughter of a successful truck farmer, <font id=31>she became</font> a top student in grade school and was often asked to lead the class in song. Her parents encouraged her to study diligently and responded to her special interests with piano and voice lessons.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35> [1] After finishing high school, Coretta Scott attended Antioch <font id=32>College</font> in Ohio. [2] After college, she enrolled in Boston's New England Conservatory of Music, where her studies, she hoped, would lead to a degree in voice and a <font id=33>celebrated</font> concert singer. [3] It was there that her life took an unexpected turn when she met a-doctoral student at Boston University's School of Theology, Martin Luther King, Jr. [4] She graduated from Antioch in 1951 <font id=34>with a degree upon finishing a program of study</font> in music and elementary education. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Soon after their marriage in 1953, the Kings moved to Montgomery, Alabama, where the Reverend Dr. King began his first church assignment. Their first child was born in 1955, just three weeks before Dr. King <font id=36>has led</font> the historic Montgomery bus boycott. During these years, Coretta Scott King became a <font id=37>calm, forceful presence, </font> in the civil rights movement. <font id=38>Even as she fulfilled the duties of pastor's wife, </font> she was steady and unwavering. In 1956, after their home was bombed, <font id=39>supporters were told</font> how much his wife's strength had helped him through that incident. <font id=40>40</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the mid-sixties, Coretta Scott King began to take on a more active role in the <font id=41>movement, which</font> after her husband's assassination in l968, she helped carry on the cause of racial and economic justice. <font id=42>42</font> As founder of the Martin Luther King, Jr. Center for Nonviolent Social Change, <font id=43>the work continues</font> to fulfill the goals of peace and justice.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the great stories of the civil rights movement <font id=44>have been</font> that <font id=45>Coretta. Scott King might have become a great concert singer if things were different. </font></div>
+
+<br>
 ###################
-<div class = "quiz">31. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.who became</div>
-<div class = "choice">C.and</div>
-<div class = "choice">D.OMIT the underlined portion321 Which of the following alternatives to the underlined portion would NOT be acceptable?</div>
-<div class = "choice">F.College where its location is</div>
-<div class = "choice">G.College, which is located</div>
-<div class = "choice">H.College, which is</div>
-<div class = "choice">J.College, located</div>
+<div class = "quiz">31.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. who became</div>
+<div class = "choice">C. and</div>
+<div class = "choice">D. OMIT the underlined portion</div>
 </div>
 ###################
-<div class = "quiz">33. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.career as a</div>
-<div class = "choice">C.professional</div>
-<div class = "choice">D.OMIT the underlined portion</div>
+<div class = "quiz">32. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. College where its location is</div>
+<div class = "choice">G. College, which is located</div>
+<div class = "choice">H. College, which is</div>
+<div class = "choice">J. College, located</div>
 </div>
 ###################
-<div class = "quiz">34. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.by receiving both a diploma and an academic degree</div>
-<div class = "choice">H.with a degree, having received a diploma</div>
-<div class = "choice">J.with a degree</div>
+<div class = "quiz">33.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. career as a</div>
+<div class = "choice">C. professional</div>
+<div class = "choice">D. OMIT the underlined portion</div>
+</div>
+###################
+<div class = "quiz">34.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. by receiving both a diploma and an academic degree</div>
+<div class = "choice">H. with a degree, having received a diploma</div>
+<div class = "choice">J. with a degree</div>
 </div>
 ###################
 <div class = "quiz">35. Which of the following sequences of sequences makes this paragraph most logical?
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.1, 4, 2, 3</div>
-<div class = "choice">C.2, 3, 1, 4</div>
-<div class = "choice">D.3, 2, 1, 4</div>
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. 1, 4, 2, 3</div>
+<div class = "choice">C. 2, 3, 1, 4</div>
+<div class = "choice">D. 3, 2, 1, 4</div>
 </div>
 ###################
-<div class = "quiz">36. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.leads</div>
-<div class = "choice">H.lead</div>
-<div class = "choice">J.led</div>
+<div class = "quiz">36.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. leads</div>
+<div class = "choice">H. lead</div>
+<div class = "choice">J. led</div>
 </div>
 ###################
-<div class = "quiz">37. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.calm, forceful presence</div>
-<div class = "choice">C.calm, forceful, presence</div>
-<div class = "choice">D.calm forceful presence,</div>
+<div class = "quiz">37.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. calm, forceful presence</div>
+<div class = "choice">C. calm, forceful, presence</div>
+<div class = "choice">D. calm forceful presence,</div>
 </div>
 ###################
 <div class = "quiz">38. The writer wants to provide a statement here that will contrast with, and thus highlight, the statement that follows in this sentence. Given that all the choices are true, which one would best accomplish this?
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.While she traveled to Europe, Africa, and India with her husband,</div>
-<div class = "choice">H.Although danger always threatened their lives,</div>
-<div class = "choice">J.Organizing a series of Freedom Concerts,</div>
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. While she traveled to Europe, Africa, and India with her husband,</div>
+<div class = "choice">H. Although danger always threatened their lives,</div>
+<div class = "choice">J. Organizing a series of Freedom Concerts,</div>
 </div>
 ###################
-<div class = "quiz">39. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.supporters were being told</div>
-<div class = "choice">C.Dr. King told supporters</div>
-<div class = "choice">D.it was told</div>
+<div class = "quiz">39.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. supporters were being told</div>
+<div class = "choice">C. Dr. King told supporters</div>
+<div class = "choice">D. it was told</div>
 </div>
 ###################
-<div class = "quiz">40. At this point, the writer is considering adding the following true statement:In 1957, Dr. and Mrs. King celebrated their belated honeymoon in Mexico.Should the writer add this sentence here?
-<div class = "choice">F.Yes, because it describes an important event in the life of Coretta Scott King.</div>
-<div class = "choice">G.Yes, because it shows how busy Dr. an d Mrs. King were at that time.</div>
-<div class = "choice">H.No, because it doesn’t follow the chronological order of this narrative.</div>
-<div class = "choice">J.No, because it distracts readers from the main focus of this paragraph.</div>
+<div class = "quiz">40. At this point, the writer is considering adding the following true statement:
+In 1957, Dr. and Mrs. King celebrated their belated honeymoon in Mexico.
+Should the writer add this sentence here?
+<div class = "choice">F. Yes, because it describes an important event in the life of Coretta Scott King.</div>
+<div class = "choice">G. Yes, because it shows how busy Dr. an d Mrs. King were at that time.</div>
+<div class = "choice">H. No, because it doesn't follow the chronological order of this narrative.</div>
+<div class = "choice">J. No, because it distracts readers from the main focus of this paragraph.</div>
 </div>
 ###################
-<div class = "quiz">41. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.movement, and</div>
-<div class = "choice">C.movement,</div>
-<div class = "choice">D.movement</div>
+<div class = "quiz">41.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. movement, and</div>
+<div class = "choice">C. movement,</div>
+<div class = "choice">D. movement</div>
 </div>
 ###################
 <div class = "quiz">42. Given that all the following statements are true, which one, if added here, would provide the most relevant addition to this paragraph?
-<div class = "choice">F.In.1964, he had been awarded the Nobel Peace Prize for his civil rights work.</div>
-<div class = "choice">G.She also worked as a voice instructor in the music department of Morris Brown College.</div>
-<div class = "choice">H.She led the campaign to establish a national holiday to honor her late husband and his work.</div>
-<div class = "choice">J.He had influenced the passage of the 1964 Civil Rights Act and the 1965 Voting Rights Bill.</div>
+<div class = "choice">F. In.1964, he had been awarded the Nobel Peace Prize for his civil rights work.</div>
+<div class = "choice">G. She also worked as a voice instructor in the music department of Morris Brown College.</div>
+<div class = "choice">H. She led the campaign to establish a national holiday to honor her late husband and his work.</div>
+<div class = "choice">J. He had influenced the passage of the 1964 Civil Rights Act and the 1965 Voting Rights Bill.</div>
 </div>
 ###################
-<div class = "quiz">43. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.she continues to work</div>
-<div class = "choice">C.the work is continuing</div>
-<div class = "choice">D.the ongoing work</div>
+<div class = "quiz">43.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. she continues to work</div>
+<div class = "choice">C. the work is continuing</div>
+<div class = "choice">D. the ongoing work</div>
 </div>
 ###################
-<div class = "quiz">44. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.were</div>
-<div class = "choice">H.are</div>
-<div class = "choice">J.is</div>
+<div class = "quiz">44. F. NO CHANGE
+<div class = "choice">G. were</div>
+<div class = "choice">H. are</div>
+<div class = "choice">J. is</div>
 </div>
 ###################
 <div class = "quiz">45. Which choice would best complete this sentence by providing an accurate and effective summary of the essay?
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.the work and leadership of Dr. King continue to have an effect on the world.</div>
-<div class = "choice">C.the perseverance of many extraordinary people led to change in the United States.</div>
-<div class = "choice">D.this musically gifted young woman developed into a leader of national stature.</div>
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. the work and leadership of Dr. King continue to have an effect on the world.</div>
+<div class = "choice">C. the perseverance of many extraordinary people led to change in the United States.</div>
+<div class = "choice">D. this musically gifted young woman developed into a leader of national stature.</div>
+<br>
 </div>
 ###################

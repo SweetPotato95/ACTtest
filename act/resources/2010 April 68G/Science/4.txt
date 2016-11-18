@@ -1,0 +1,88 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A teacher placed 50 mL of Liquid A at 20℃ in a buret (see Figure l). A buret is a graduated tube with a stopcock. Liquid flows out of the buret when the stopcock is opened.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\93.png' width = '1137'height = '2040'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The stopcock was opened and the flow time, the time it took for 20 mL of the liquid to flow out of the buret. was measured and found to be 7 sec. The procedure was repeated with Liquid B, which had a flow time of 14 sec.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The teacher asked 3 students to try to explain why the liquids had different flow times.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Liquid B drained more slowly than Liquid A because it is denser than Liquid A. As a liquid flows, some of its molecules bump into each other. This causes the molecules to lose speed in the direction of flow, slowing the overall flow of the liquid. Since molecules of a denser liquid are closer together than are molecules of a less dense liquid, collisions occur more often in the denser liquid. Thus, if 2 liquids are at the same temperature, the less dense liquid will always flow more easily.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Liquid B drained more slowly than Liquid A because it bas a greater molecular mass (the mass of each molecule) than Liquid A. Consider 2 objects of different mass. More force is required to move the object with the greater mass. Thus, if 2 liquids are at the same temperature, the liquid with the smaller molecular mass will always flow more easily.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Liquid B drained more slowly than Liquid A because it has a larger molecular volume (the volume occupied by each molecule) than Liquid A. Large molecules readily bump into each other when a liquid flows, forming molecular "logjams" that slow down the overall flow. Thus, if 2 liquids are at the same temperature, the liquid with the smaller molecular volume will always flow more easily.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table l gives the density, molecular mass (in atomic mass units, amu), and molecular volume (in nm<sup>3</sup>; 1 billion nm = 1 m) for several liquids at 20℃.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;font-size:22.6pt"><td style="width:113.7pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:22.6pt" valign="top" width="76"><p align="center"  style="text-align:center"><span lang="EN-US">Color</span></p></td><td style="width:113.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:22.6pt" valign="top" width="76"><p align="center"  style="text-align:center"><span lang="EN-US">Quantity</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;font-size:22.6pt"><td style="width:113.7pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:22.6pt" valign="top" width="76"><p align="center"  style="text-align:center"><span lang="EN-US">Green</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Black</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Red</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Orange</span></p></td></tr></table></div>
+<br>
+###################
+<div class = "quiz">18. In the teacher's demonstration, as the 7 sec elapsed during the measurement of Liquid A, the height of the liquid in the buret:
+<div class = "choice">F. increased only.</div>
+<div class = "choice">G. decreased only.</div>
+<div class = "choice">H. increased, then decreased.</div>
+<div class = "choice">J. decreased, then increased.</div>
+</div>
+###################
+<div class = "quiz">19. Based on Student 1's explanation, which of the liquids listed in Table l would flow most easily at 20℃?
+<div class = "choice">A. Acetone</div>
+<div class = "choice">B. DMSO</div>
+<div class = "choice">C. Nonane</div>
+<div class = "choice">D. Toluene</div>
+</div>
+###################
+<div class = "quiz">20. Suppose that the teacher had also tested isopropanol in the demonstration and found it to have a flow time of 11 sec. Student 1 would claim that isopropanol:
+<div class = "choice">F. is more dense than Liquid A, but not as dense as Liquid B.</div>
+<div class = "choice">G. is more dense than Liquid B, but not as dense as Liquid A.</div>
+<div class = "choice">H. has a greater molecular mass than Liquid A, but a smaller molecular mass than Liquid B.</div>
+<div class = "choice">J. has a greater molecular mass than Liquid B, but a smaller molecular mass than Liquid A.</div>
+</div>
+###################
+<div class = "quiz">21. Is the claim "At 20℃, nonane flows more easily than acetone" consistent with Student 2's explanation?
+<div class = "choice">A. No, because nonane has a greater molecular mass than acetone.</div>
+<div class = "choice">B. No, because nonane has a larger molecular volume than acetone.</div>
+<div class = "choice">C. Yes, because nonane has a greater molecular mass than acetone.</div>
+<div class = "choice">D. Yes, because nonane has a larger molecular volume than acetone.</div>
+</div>
+###################
+<div class = "quiz">22. Which of the following graphs of the relative viscosities of DMSO, H<sub>2</sub>O, and isopropanol is most consistent with Student 3's explanation?
+<div class = "choice">F. <img src='file:\$$$\resources\2010 April 68G\imgs\94.png' width = '1020'height = '1281'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2010 April 68G\imgs\95.png' width = '1152'height = '1428'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2010 April 68G\imgs\96.png' width = '1212'height = '1473'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2010 April 68G\imgs\97.png' width = '1374'height = '1704'/></div>
+</div>
+###################
+<div class = "quiz">23. Suppose that Liquid A had been isopropanol and Liquid B had been nonane. The results of the teacher's demonstration would have supported the explanation(s) provided by which student(s)?
+<div class = "choice">A. Student 1 only</div>
+<div class = "choice">B. Student 2 only</div>
+<div class = "choice">C. Students 1 and 2 only</div>
+<div class = "choice">D. Students 2 and 3 only</div>
+</div>
+###################
+<div class = "quiz">24. Consider the data for heptane (a liquid) at 20℃ shown in the table below:
+<div class = "para" ><table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;font-size:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">red</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">blue</span></p></td></tr><tr style="mso-yfti-irow:1;font-size:35.3pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">small</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td></tr><tr style="mso-yfti-irow:2;font-size:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">medium</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;font-size:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">large</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">10</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p></td></tr></table></div>
+Which student(s), if any, would predict that heptane would have a shorter flow time than toluene at 20℃?
+<div class = "choice">F. Student l only</div>
+<div class = "choice">G. Students 2 and 3 only</div>
+<div class = "choice">H. Students l, 2, and3</div>
+<div class = "choice">J. None of the students</div>
+<br>
+</div>
+###################
