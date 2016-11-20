@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Burning household waste in metal barrels can release harmful emissions (airborne gases and particulates), including<img src='file:\$$$\resources\2005 June 61D\imgs\167.png' width = '51'height = '42'/>, CO, <img src='file:\$$$\resources\2005 June 61D\imgs\168.png' width = '56'height = '42'/>, dioxin, lead, and mercury. The remaining ash also may contain toxic substances. Two studies examined these emissions and ash.</div>
 
@@ -8,7 +8,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two hundred pounds of household waste designated for burning was collected from 12 households. The waste was placed in a metal barrel located under a hood that collected emissions (see Figure 1). The waste was burned for 2 hours at 400℉ to 500℉. The average reduction in the weight and the volume of the original waste after burning was 58% and 70%, respectively.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '1269'height = '2016'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\169.png' width = '210'height = '342'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The concentrations of emissions, in parts per million (ppm), were measured. Table 1 shows the results and the established maximum allowed concentrations in emissions from incinerators (facilities that burn large quantities of household waste).</div>

@@ -1,4 +1,4 @@
-<h1>The Nguyen Family Restaurant</h1>
+﻿<h1>The Nguyen Family Restaurant</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For my friends Tran and Maya Nguyen, the distance <font id=46>between</font> Vietnam and California is more than <font id=47>it's</font> measure in miles. <font id=48>Although immigrants, </font> Tran, Maya, and their four children left much behind, including their family restaurant. <font id=49>Now</font> they want to run a restaurant is Los Angeles just as they did in Da Nang.</div>
 
@@ -100,7 +100,8 @@
 <div class = "choice">D. Then one day Tran had an inspiration.</div>
 </div>
 ###################
-<div class = "quiz">58. F. NO CHANGE
+<div class = "quiz">58. 
+<div class = "choice">F. NO CHANGE</div>
 <div class = "choice">G. they would lead to that.</div>
 <div class = "choice">H. would lead it to that.</div>
 <div class = "choice">J. would lead to it.</div>

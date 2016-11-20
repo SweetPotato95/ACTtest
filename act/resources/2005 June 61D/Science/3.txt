@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An RC circuit contains a resistor, a capacitor, and an input voltage source. Some students studied RC circuits containing a source of AC (alternating current) voltage. Frequency, in hertz (Hz), is related to the number of times/sec the highest voltage is attained. The measured input voltage from the AC source was the same in Studies 1-3.</div>
 
@@ -8,7 +8,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A circuit was assembled using a 1,000 Ω (ohm) resistor, a 1 microfarad capacitor (microfarad [μF] is a unit of capacitance), 2 voltmeters for measuring output voltages, and an AC input voltage source (see Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\156.png' width = '2370'height = '2325'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\156.png' width = '350'height = '345'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students varied the frequency of the input voltage and measured the output voltage, the voltage across the resistor or the capacitor. At each frequency, they calculated the gain, the ratio of the measured output voltage to the measured input voltage. The results are shown in Table 1.</div>

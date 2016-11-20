@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since 1880, Earth's average surface temperature has increased by 0.5℃. This global warming has caused ocean surface temperature increases and the melting of parts of the polar ice caps. Two scientists discuss the cause of these events.</div>
 
@@ -31,20 +31,18 @@
 </div>
 ###################
 <div class = "quiz">3. If Scientist 2 is correct, which of the following graphs would best represent the relationship between solar energy output and Earth's average surface temperature trends over the past 18,000 years?
-Key
-┉┉Earth's average surface temperature
-____solar energy output
-<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\143.png' width = '423'height = '276'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\144.png' width = '386'height = '281'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2005 June 61D\imgs\145.png' width = '412'height = '283'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\146.png' width = '395'height = '303'/></div>
+┉┉ Earth's average surface temperature   ____ solar energy output
+<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\143.png' width = '151'height = '131'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\144.png' width = '151'height = '131'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2005 June 61D\imgs\145.png' width = '151'height = '131'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\146.png' width = '151'height = '131'/></div>
 </div>
 ###################
 <div class = "quiz">4. According to the viewpoint of Scientist 1, which of the following graphs best represent the increase in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\147.png' width = '55'height = '42'/> concentration over the past 200 years?
-<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\148.png' width = '282'height = '282'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\149.png' width = '333'height = '355'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\150.png' width = '335'height = '346'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\151.png' width = '363'height = '393'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\148.png' width = '121'height = '121'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\149.png' width = '121'height = '121'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\150.png' width = '121'height = '121'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\151.png' width = '121'height = '121'/></div>
 </div>
 ###################
 <div class = "quiz">5. Scientist 2 would most likely agree with which of the following statements about the solar energy output 18,000 years ago, at the end of the last ice age? Eighteen thousand years ago, solar energy output was:

@@ -5,8 +5,9 @@ import java.awt.Font;
 import java.awt.Toolkit;
 
 public class ViewConstants{
-	public static int MAINPANEL_WIDTH = 1024;
-	public static int MAINPANEL_HEIGHT = 800;
+	public static Dimension d = Toolkit.getDefaultToolkit().getScreenSize();
+	public static int MAINPANEL_WIDTH = d.width;
+	public static int MAINPANEL_HEIGHT = d.height;
 	public static int NAV_WIDTH;
 	public static int NAV_HEIGHT = 50;
 	public static int CHOICEPANE_PART_WIDTH;
@@ -38,11 +39,11 @@ public class ViewConstants{
 	public static int SCORE_LIST_VIEW_DETAIL_PADDING_RIGHT ;
 	
 	public static Font choiceFont = new Font("Microsoft Yahei",Font.PLAIN,15);
-	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,18);
+	public static Font choiceTitleFont = new Font("Microsoft Yahei",Font.PLAIN,15);
 	public static Font instructionTitleFont = new Font("Microsoft Yahei",Font.BOLD,30);
 	public static Font instructionBodyFont = new Font("Microsoft Yahei",Font.PLAIN,20);
 	public static Font controlPane_labelFont = new Font("Microsoft Yahei",Font.PLAIN,18);
-	public static int[] TIME_LIMIT_PER_PART = {20,20,20,20,30};	
+	public static int[] TIME_LIMIT_PER_PART = {2,2,2,200,30};	
 
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();
@@ -51,13 +52,13 @@ public class ViewConstants{
 		NAV_WIDTH = MAINPANEL_WIDTH;
 		MAINCONTENT_WIDTH = (int) Math.floor(0.99*MAINPANEL_WIDTH);
 		MAINCONTENT_HEIGHT = MAINPANEL_HEIGHT - NAV_HEIGHT-50;
-		CHOICEPANE_HEIGHT = (int) Math.floor(0.95*MAINCONTENT_HEIGHT);
+		CHOICEPANE_HEIGHT = (int) Math.floor(MAINCONTENT_HEIGHT);
 		CHOICEPANE_PART_WIDTH = (int) Math.floor(0.45*MAINCONTENT_WIDTH);
 		CHOICEPANE_WHOLE_WIDTH = MAINCONTENT_WIDTH;
 		PASSAGEPANE_WIDTH = (int) Math.floor(0.55*MAINCONTENT_WIDTH);
 		PASSAGEPANE_HEIGHT = (int) Math.floor(0.98*MAINCONTENT_HEIGHT);
 		
-		WRITING_INPUTPANE_WIDTH = (int)Math.floor(0.55*MAINCONTENT_WIDTH);
+		WRITING_INPUTPANE_WIDTH = (int)Math.floor(0.5*MAINCONTENT_WIDTH);
 		WRITING_INPUTPANE_HEIGHT = (int) Math.floor(0.9*MAINCONTENT_HEIGHT);
 		WRITING_EDITORPANE_HEIGHT = (int) Math.floor(0.9*WRITING_INPUTPANE_HEIGHT);
 		WRITING_CONTROLPANE_HEIGHT = (int) Math.floor(0.1*WRITING_INPUTPANE_HEIGHT);

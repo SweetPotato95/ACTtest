@@ -1,0 +1,104 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL, SCIENCE: This passage is adapted from the article ,"Virtually Rebuilt, A Ruin Yields Secrets” by Sam Lube" (©2002 by The New York Times Company).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Everyone knows that the Roman Colosseum is an architectural marvel. Built so that thousands of people could be ushered in and out in minutes, it is a testament to the genius of Roman engineering. Or is it? By reconstructing the building with three-dimensional computer modeling and then virtually <font id=18>"walking through" </font>it, researchers have discovered  dark, narrow upper hallways that probably hemmed in spectators, slowing their movement to a crawl.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Such three-dimensional modeling is turning some of archaeology's once-established truths on their heads. Because 3-D software can take into account the building materials and the laws of physics, it enables scholars to address construction techniques in ways sometimes overlooked when they are working with two-dimensional drawings.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Colosseum, a vast four-story oval arena, was built from around A,D. 70 to 80. It once held as many as 50,000 spectators. Earthquakes and the ravages of time have destroyed much of the building, but an impressive amount, including most of its facade, still stands.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dean Abernathy, a doctoral student who helped reconstruct the Colosseum, confronted the issue of the third-level hallways. His model drew on the findings of a team of experts on Roman architecture assembled by the University of California at Los Angeles who had studied similar amphitheaters, drawings of the Colosseum and records of the building's construction and expansion. The team also examined what was left of the .upper hallways, an area that had previously been all but closed to researchers.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bernard Frischer, a classics professor at UGLA and director of its Cultural Virtual Reality Lab, said that researchers have generally held that <font id=13>the entire Colosseum was a masterpiece of circulation</font>, with people able to enter and leave in as little as 10 minutes. After touring the virtual Colosseum, now he is not so sure. "Most scholars just never focused on the problem of circulation throughout the building," he said. "They assumed' that, each of the floors was going to look like the bottom," which is spacious and well lighted.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Such reconstructions have challenged traditional thinking about other sites as well. Analysis of UCLA models suggests that the Roman Senate may have been poorly ventilated and lighted and had inferior acoustics. The models also raised some new questions about the Temple of Saturn, whose design may have been altered centuries after its construction.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Samuel Paley, a classics professor at the State University of New York at Buffalo, and members of the virtual reality lab there have worked with a design company that specializes in archaeological visualizations to prodtice virtual models of several Assyrian palaces. Moving through a simulation of the northwest palace of Ashur-Nasir-Pal II of Assyria, an ancient site in modern-day Iraq, he caught a glimpse of three leaf bas-relief sculptures in row. The sculptures, which depicted a ritual involving the king, courtiers and protective gods, could be viewed as a single, isolated tableau only from his position on the threshold of the throne room—as was evidently the intention of the palace's designers. When Paley described his finding at a lecturer "the room went absolutely silent," said. "I think people realized right then that this is a useful technology that helps them see things in a different way."</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Some experts hesitate to rely on such modeling, saying that it can gloss over the realities of the past. Kenneth Kolson, deputy director of the division of research programs for the National Endowment for the Humanities, said that virtual images conveyed a "false sense of integrity and purity." He added, <font id=16>"Those images, especially the stunningly seductive ones, convey as much or more about our own values and cultural aspirations as about the ancients."</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Even Frischer and other scholars who have embraced interactive 3-D modeling caution that their reconstructions can never be accepted as fact, partly because new information is always surfacing. "We're <font id=17>working the stuff out</font>," said Mark Wilson Jones, a member of the UCLA committee of Roman architecture experts and a lecturer in architecture. "Nothing's ever  final." One advantage of using digital models, scholars say, is that they can easily be updated with new findings.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fikret Yegul, a professor of architectural history at the University of California at Santa Barbara, acknowledges that computer modeling can shed new light on the past. Still, he questions some of the theories of the team of experts assembled by UCLA. "VR models can never be seen as the last word," he said. "They are only another perspective."</div>
+
+<br>
+###################
+<div class = "quiz">11. The main function of the first paragraph is to:
+<div class = "choice">A. state then question a widely held notion about the Colosseum.</div>
+<div class = "choice">B. praise the Colosseum as an architectural and engineering marvel.</div>
+<div class = "choice">C. show how people in ancient times moved quickly in and out of the Colosseum.</div>
+<div class = "choice">D. point out a flaw in the design and construction of the Colosseum and how it was later corrected.</div>
+</div>
+###################
+<div class = "quiz">12. The passage indicates that in its research on the Colosseum, the UCLA-assembled team of Roman architecture experts made use of all of the following sources of information EXCEPT:
+<div class = "choice">F. the remains of a part of the Colosseum usually inaccessible to researchers.</div>
+<div class = "choice">G. records of the Colosseum's construction and expansion.</div>
+<div class = "choice">H. studies of amphitheaters similar to the Colosseum.</div>
+<div class = "choice">J. models of the Colosseum made from clay.</div>
+</div>
+###################
+<div class = "quiz">13. Frischer attributes the theory that "the entire Colosseum was a masterpiece of circulation" (lines 35-36) directly to:
+<div class = "choice">A. flawed experiments yielding incorrect results.</div>
+<div class = "choice">B. misleading computer models.</div>
+<div class = "choice">C. erroneous data about the building's bottom floor.</div>
+<div class = "choice">D. false assumptions left unquestioned by most scholars.</div>
+</div>
+###################
+<div class = "quiz">14. The author describes the Roman Senate and the Temple of Saturn as two buildings that:
+<div class = "choice">F. have yet to be studied by-UCLA researchers.</div>
+<div class = "choice">G. are being reevaluated thanks to computer modeling.</div>
+<div class = "choice">H. underwent design changes long after, their. construction.</div>
+<div class = "choice">J. featured inferior ventilation, lighting, and acoustics.</div>
+</div>
+###################
+<div class = "quiz">15. As Paley relates it, the lecture audience's reaction to his finding about an Assyrian palace is best described as:
+<div class = "choice">A. stunned amazement.</div>
+<div class = "choice">B. silent contempt.</div>
+<div class = "choice">C. mild concern</div>
+<div class = "choice">D. feigned interest.</div>
+</div>
+###################
+<div class = "quiz">16. In the context of the eighth paragraph (lines 68-76), the statement in lines 73-76 most nearly means that:
+<div class = "choice">F. computer models reveal a great deal about the values and culture of the ancient world.</div>
+<div class = "choice">G. because they reflect modern ideas, computer models risk obscuring the ancient past.</div>
+<div class = "choice">H. modern people have aspirations similar to those of the people of the ancient world.</div>
+<div class = "choice">J. through their images, the ancients vividly conveyed their values and hopes.</div>
+</div>
+###################
+<div class = "quiz">17. When Mark Wilson Jones talks about "working the stuff out."(line 81), he is most likely referring to:
+<div class = "choice">A. correcting errors in computer models as new data emerge.</div>
+<div class = "choice">B. eliminating serious flaws in the software used to make computer models.</div>
+<div class = "choice">C. ending the conflict between supporters and critics of computer modeling.</div>
+<div class = "choice">D. integrating architecture and archaeology into his classroom lectures.</div>
+</div>
+###################
+<div class = "quiz">18. The author most likely places the words ''walking through" in quotation marks in line 6 to:
+<div class = "choice">F. reveal the speed at which ancient Romans moved through the Colosseum's upper hallways.</div>
+<div class = "choice">G. suggest that tourist visits to the Colosseum in Rome are best done at a leisurely pace.</div>
+<div class = "choice">H. warn readers that researchers are just beginning to develop computer models of the Colosseum.</div>
+<div class = "choice">J. stress that researchers' tours of the reconstructed Colosseum are actually taken via computer.</div>
+</div>
+###################
+<div class = "quiz">19. According to the passage, which of the following is true about the present state of the Colosseum?
+<div class = "choice">A. As a result of earthquakes, little of the Colosseum's facade remains.</div>
+<div class = "choice">B. Impressively, the Colosseum remains unaffected by the passage of time.</div>
+<div class = "choice">C. Much of the Colosseum has been destroyed, but a notable amount is still standing.</div>
+<div class = "choice">D. The Colosseum's facade remains intact, but the rest of the structure has been destroyed.</div>
+</div>
+###################
+<div class = "quiz">20. The passage mentions which of the following as a strength of using computer models in archaeology?
+<div class = "choice">F. They cost relatively little to produce.</div>
+<div class = "choice">G. They can easily be updated with new findings.</div>
+<div class = "choice">H. They entertain and inform .the public.</div>
+<div class = "choice">J. They encourage improvements in technology.</div>
+<br>
+</div>
+###################

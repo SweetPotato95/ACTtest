@@ -5,7 +5,7 @@ public class ModelConstants{
 	public static final int PARTNUM_TOTAL = 5;
 	public static final int[] SPLITNUM_PER_PART = {5,1,4,7,1};
 	public static final int SPLITNUM_TOTAL = 18;
-	public static final int[] QUESTIONNUM_PER_SPLIT={15,15,15,15,15,60,10,10,10,10,7,6,5,6,6,5,5,0};
+	public static int[] QUESTIONNUM_PER_SPLIT={15,15,15,15,15,60,10,10,10,10,7,6,5,6,6,5,5,0};
 	public static final int QUESTIONNUM_TOTAL = 215;
 	public static final int[] QUESTIONNUM_PER_PART={75,60,40,40,0};
 	public static int ENGLISH = 0;
@@ -15,8 +15,11 @@ public class ModelConstants{
 	public static int WRITING = 4;
 	
 	public static String[] PARTNAME= {"English","Math","Reading","Science","Writing"};
-	public static String[] TESTPATH = {"resources\\2005 April 60E\\","resources\\2005 Dec 63C\\","resources\\2005 Dec 63C\\"};
-	public static String[] TESTNAME = {"2005 April 60E","2005 Dec 63C", "2005 June 61D"};
+	public static String[] TESTPATH = {"resources\\2005 April 60E\\","resources\\2005 Dec 63C\\","resources\\2005 June 61D\\"
+			,"resources\\2006 April 63E\\","resources\\2006 June 63F\\","resources\\2007 Dec 65E\\",
+			"resources\\2007 June 65C\\","resources\\2008 April 65D\\","resources\\2008 Dec 67A\\"};
+	public static String[] TESTNAME = {"2005 April 60E","2005 Dec 63C", "2005 June 61D","2006 April 63E","2006 June 63F",
+			"2007 Dec 65E","2007 June 65C","2008 April 65D","2008 Dec 67A"};
 	public ModelConstants(){
 		
 	}

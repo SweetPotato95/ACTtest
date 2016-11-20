@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three studies were conducted to investigate factors that affect wind erosion.</div>
 
@@ -15,7 +15,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Another sample of each soil was dried in an oven for 24 hours, crushed, and passed through a screen with 0.84 mm openings. Each sample was used to fill its own 7 mm deep porous metal tray. Each tray was placed in a wind tunnel. A piece of white tape was placed at the downwind end of the tray (see Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\103.png' width = '2280'height = '843'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\103.png' width = '760'height = '281'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The wind speed was gradually increased until particles from the soil firs began to collect on the white tape. This threshold wind speed was recorded for each sample.</div>
@@ -30,7 +30,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A third sample of each soil was prepared as in Study 2. Each tray was placed in shallow water for 24 hours to saturate the sample. Each tray was then placed in the wind tunnel and exposed to an 8.5m/sec wind. Once the wind had dried the top of the soil sample sufficiently, soil particles began to appear on the white tape. At that time, the water content of the top 1 mm of the soil sample was determined. This procedure was repeated 3 more times: first adding dyed sand to the 8.5 m/sec wind, then using a 13m/sec wind, without and then with added sand. The results are shown in Figure 2.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\104.png' width = '2814'height = '3198'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\103.png' width = '760'height = '281'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Tables and Figure 2 adapted from A. Selah and D.W. Fryrear, "Threshold Wind Velocities of Wet Soils as Affected by Wind Blown Sand." © 1995 by Williams and Wilkins.</div>

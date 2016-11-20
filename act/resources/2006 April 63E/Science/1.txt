@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Lyme disease is caused by bacteria that are transmitted to humans by the bite of infected deer ticks. The first sign of Lyme disease is often a bull's-eye rash on the skin. Figure 1 shows the 2-year deer tick life cycle.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\92.png' width = '2523'height = '2427'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\92.png' width = '421'height = '409'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from "Deer Tick Ecology." © 1998 by the American Lyme Disease Foundation, Inc.</div>
@@ -10,7 +10,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A study area adjacent to a forest was divided into 5 zones (A-E). People living in the study area were tested monthly for Lyme disease. The results are shown in Figure 2. For each zone, Table 1 shows the number of houses, mice, deer tick larvae per mouse, households that sighted deer daily, and the percent of households inhabited by at least 1 person infected with Lyme disease.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\93.png' width = '2550'height = '2397'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\93.png' width = '430'height = '409'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Bars on the graph are stacked.</div>

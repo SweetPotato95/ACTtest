@@ -48,7 +48,7 @@ public class reading {
 			String pox = new File(".").getAbsolutePath();
 			int num = (int)(1+Math.random()*(10-1+1));
 			System.out.println(num);
-			this.path = pox.substring(0,pox.length()-1)+"resources\\lib\\writing_test\\"+7+".txt";
+			this.path = pox.substring(0,pox.length()-1)+"resources\\lib\\writing_test\\"+num+".txt";
 			System.out.println(path);
 			this.passage = readText.readPassage(path);
 			this.quizs = null;
@@ -58,7 +58,7 @@ public class reading {
 			//System.out.println("Already newest");
 			return;
 		}
-		//System.out.println("Update in");
+		System.out.println("DEBUG INFO: reading -- " +testIndex+","+splitIndex);
 		
 		this.testIndex = testIndex;
 		this.partIndex = partIndex;

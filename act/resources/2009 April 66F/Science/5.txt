@@ -1,0 +1,81 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Introduction</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Comets are complex mixtures of ices and dust that orbit the Sun. They can be classified by orbital period as either long-period comets or short-period comets.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Long-period comets have orbital periods of more than 200 yr and originate within our solar system in the Oort Cloud, a spherical shell of many icy bodies located at an average distance of 40,000 A.U. from the Sun .(1 A.U.= average distance of Earth from the Sun). Long-period comets approach the Sun from all directions.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Short-period comets have orbital periods of 200 yr or less, and their orbital planes have inclinations 30° or less with respect to the ecliptic plane, the plane of Earth's orbit around the Sun. Portions of these planes are shown in Figure 1.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\160.png' width = '2445'height = '867'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two scientists present their viewpoints about the origin of short-period comets.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist A</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Short-period comets in our solar system originate within a thin ring-shaped region called the Kuiper Belt (KB). The KB has a small inclination with respect to the ecliptic plane and is located in the solar system between 30 A.U. and 50 A.U. from the Sun. The KB contains billions of icy bodies with diameters between 10 km and 30 km. These comet-size objects are too small to be clearly discerned at that distance with telescopes located on Earth's surface. Such telescopes have gathered indirect evidence, but not clear images, of much larger icy bodies that are part of the KB. The small inclinations of short-period comets' orbital planes with respect to the ecliptic plane are consistent with an origin in the KB. It has been discovered that other nearby stars have similar' regions of icy bodies surrounding them.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist B</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The KB does not exist. Short-period comets were once long-period comets. Some long-period comets pass close enough to the giant planets (for example, Jupiter) to be influenced by the gravitational fields of the giant planets and are forced into orbits with orbital periods less than 200 yr. These altered orbital have orbital planes than have small inclinations with respect to the ecliptic plane. Also, most of the studied short-period comets have orbital planes with small inclinations with respect to the orbital planes of the giant planets, which, in turn, have small inclinations with respect to the ecliptic plane.</div>
+
+<br>
+###################
+<div class = "quiz">23. Which of the following generalizations about comets is most consistent with Scientist B 's viewpoint?
+<div class = "choice">A. Long-period comets cannot become short-period comets.</div>
+<div class = "choice">B. Short-period comets cannot become long-period comets.</div>
+<div class = "choice">C. Long-period comets can become short-period comets.</div>
+<div class = "choice">D. No long-period comets or short-period comets orbit the Sun.</div>
+</div>
+###################
+<div class = "quiz">24. Scientist A would most likely suggest that a new telescope more powerful than previous telescopes be used to search which of the following regions of space for objects in the KB ?
+<div class = "choice">F. The region 100,000 A.U. beyond our solar system</div>
+<div class = "choice">G. The region 30 A.U. to 50 A.U. from the Sun at an angle of 90° with respect to the ecliptic plane</div>
+<div class = "choice">H. The region 30 A.U. to 50 A.U. from the Sun at angles of 0° to 30° with respect to the ecliptic plane</div>
+<div class = "choice">J. The region closely surrounding the planet Jupiter</div>
+</div>
+###################
+<div class = "quiz">25. Given the information about short-period comets in the introduction, which of the following inclinations with respect to the ecliptic plane would most likely NOT be observed for the orbital planes of short-period comets?
+<div class = "choice">A. 5°</div>
+<div class = "choice">B. 15°</div>
+<div class = "choice">C. 30°</div>
+<div class = "choice">D. 45°</div>
+</div>
+###################
+<div class = "quiz">26. According to Scientist B, which of the following planets in our solar system is most likely capable of changing the orbit of a long-period comet over time?
+<div class = "choice">F. Mercury</div>
+<div class = "choice">G. Earth</div>
+<div class = "choice">H. Mars</div>
+<div class = "choice">J. Saturn</div>
+</div>
+###################
+<div class = "quiz">27. Comet Halley currently has an orbital period of 76 yr. According to the information provided, Scientist B would most likely currently classify Comet Halley as a:
+<div class = "choice">A. short-period comet that originated in the Oort Cloud.</div>
+<div class = "choice">B. short-period comet that originated in the KB.</div>
+<div class = "choice">C. long-period comet that originated in the Oort Cloud.</div>
+<div class = "choice">D. long-period comet that originated in the KB.</div>
+</div>
+###################
+<div class = "quiz">28. Based on Scientist A's viewpoint, the "much larger icy bodies" in the KB most likely have diameters of:
+<div class = "choice">F. less than 10 km.</div>
+<div class = "choice">G. between 10 km and 20 km.</div>
+<div class = "choice">H. between 20 km and 30 km.</div>
+<div class = "choice">J. greater than 30 km.</div>
+</div>
+###################
+<div class = "quiz">29. Suppose a study of 1 nearby star revealed that it had no spherical shell of material similar to the Oort Cloud surrounding it. How would this discovery most likely affect the scientists' viewpoints, if at all?
+<div class = "choice">A. It would weaken Scientist A's viewpoint only.</div>
+<div class = "choice">B. It would strengthen Scientist B's viewpoint only.</div>
+<div class = "choice">C. It would strengthen both scientists' viewpoints.</div>
+<div class = "choice">D. It would have no effect on either scientist's viewpoint.</div>
+<br>
+</div>
+###################

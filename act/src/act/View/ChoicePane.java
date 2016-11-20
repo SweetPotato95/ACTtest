@@ -20,6 +20,7 @@ public class ChoicePane extends JPanel{
 	private int choiceSize = 5;
 	private SingleChoicePane[] choicelist = new SingleChoicePane[choiceSize];
 	private int curIndex = 0;
+	private JLabel tmp1 = new JLabel();
 	public void choicePane(){
 				
 	}
@@ -31,21 +32,28 @@ public class ChoicePane extends JPanel{
 			//choicelist.add(new SingleChoicePane());
 		}
 		this.setBackground(Color.WHITE);
-		for(int i=0;i<choiceSize;i++){
-			this.add(choicelist[i]);
-		}
-		this.setLayout(new BoxLayout(this,BoxLayout.Y_AXIS));
+		
+//		this.setLayout(new BoxLayout(this,BoxLayout.Y_AXIS));
 		int height = this.getHeight();
 		if(type == ViewConstants.DISPALY_CHOICE_PANE_PART){
 			//this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,height));
+			for(int i=0;i<choiceSize;i++){
+				this.add(choicelist[i]);
+			}
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
+			this.setLayout(new BoxLayout(this,BoxLayout.Y_AXIS));
 			//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,10000));
 			//this.setMinimumSize(new Dimension(0, ViewConstants.CHOICEPANE_HEIGHT));
 			//this.setMaximumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
 		}
 		else if(type == ViewConstants.DISPALY_CHOICE_PANE_WHOLE){
 			
-			//
+//			tmp1.setLayout(new GridLayout(0,2));
+			for(int i=0;i<choiceSize;i++){
+				this.add(choicelist[i]);
+//				this.add(new Label(""));
+			}
+			this.setLayout(new GridLayout(4,3));
 			//this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,height));
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
 			//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_WHOLE_WIDTH,10000));
@@ -55,9 +63,10 @@ public class ChoicePane extends JPanel{
 		}
 	}
 	
-public void init(int questionIndex,int splitIndex,int partIndex){
-		
+	public void init(int questionIndex,int splitIndex,int partIndex){
+		System.out.println("DEBUG INFO: choicepane --" + questionIndex);
 		this.removeAll();
+		this.setBackground(Color.WHITE);
 		curIndex = questionIndex;
 		for(int i=0;i<choiceSize;i++){
 			choicelist[i] = new SingleChoicePane();
@@ -74,9 +83,30 @@ public void init(int questionIndex,int splitIndex,int partIndex){
 			choicelist[choiceSize-1].init("", choiceSize-1);;
 			choicelist[choiceSize-1].setVisible(false);
 		}
-		for(int i=0;i<choiceSize;i++){
-			choicelist[i].setChoicePane(this);
-			this.add(choicelist[i]);
+		if (partIndex != ModelConstants.MATH){
+			for(int i=0;i<choiceSize;i++){
+				choicelist[i].setChoicePane(this);
+				this.add(choicelist[i]);
+			}
+		}
+		if (partIndex == ModelConstants.MATH){
+			for(int i=0;i<3;i++){
+				choicelist[i].setChoicePane(this);
+				this.add(choicelist[i]);
+			}
+//			this.add(new JLabel(""));
+			for(int i=3;i<5;i++){
+				choicelist[i].setChoicePane(this);
+				this.add(choicelist[i]);
+			}
+//			this.add(new JLabel(""));
+//			for(int i=4;i<5;i++){
+//				choicelist[i].setChoicePane(this);
+//				this.add(choicelist[i]);
+//			}
+			for(int i=0;i<7;i++){
+				this.add(new JLabel(""));
+			}
 		}
 	}
 	public int count(){

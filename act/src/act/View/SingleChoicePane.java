@@ -32,14 +32,11 @@ public class SingleChoicePane extends JPanel{
 				choicePane.checkOption(index);
 			}
 		});
-		
 		//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,1000));
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
 		this.add(button);
+		this.setBackground(Color.WHITE);
 		index = i;
-		
-		//this.setBorder(BorderFactory.createLineBorder(Color.black));
-		//this.add(panel);
 	}
 	public void requestUpdate(String giveText){
 

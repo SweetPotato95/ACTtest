@@ -61,7 +61,8 @@
 <div class = "choice">J. fit a walk into my schedule.</div>
 </div>
 ###################
-<div class = "quiz">7. A. NO CHANGE
+<div class = "quiz">7. 
+<div class = "choice">A. NO CHANGE</div>
 <div class = "choice">B. from out</div>
 <div class = "choice">C. outside</div>
 <div class = "choice">D. from</div>

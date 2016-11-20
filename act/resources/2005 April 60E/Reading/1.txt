@@ -102,7 +102,7 @@
 ###################
 <div class = "quiz">10. In the context of lines 79-85, the word smallness (line 84) most nearly means:
 <div class = "choice">F. pettiness.</div>
-G willfulness.
+<div class = "choice">G. willfulness.</div>
 <div class = "choice">H. diminutive size.</div>
 <div class = "choice">J. lack of artistic talent.</div>
 <br>

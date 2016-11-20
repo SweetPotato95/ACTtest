@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When DNA is heated to its melting temperature (T<sub>m</sub>) it denatures (breaks apart) into 2 strands. When cooled, the strands can relink to form. Less stable DNA, indicated by a lower T<sub>m</sub> (see Figure l).</div>
 
@@ -41,11 +41,11 @@
 </div>
 ###################
 <div class = "quiz">26. A heating/cooling curve was determined for a new solution containing only completely linked, double-stranded DNA molecules. The Tm for heating this solution was found to be l0℃ tower than the Tm for heating the solution represented in Figure 2. Which of the following best shows the heating/cooling curve of the new solution?
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\190.png' width = '624'height = '276'/>
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\191.png' width = '137'height = '128'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\192.png' width = '125'height = '113'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\193.png' width = '130'height = '123'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\194.png' width = '109'height = '107'/></div>
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\190.png' width = '100'height = '60'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\191.png' width = '137'height = '105'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\192.png' width = '125'height = '105'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\193.png' width = '130'height = '105'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\194.png' width = '109'height = '105'/></div>
 </div>
 ###################
 <div class = "quiz">27. Based on Figure 1, how did the DNA molecules in the solution that was heated and cooled to produce Figure 2 compare with the DNA molecules in the solution prior to heating? Prior to  heating, each DNA molecule was

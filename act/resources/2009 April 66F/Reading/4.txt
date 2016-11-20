@@ -1,0 +1,108 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the article "When Research is a Snow Job" by Sarah Boyle (©2002 by National Wildlife).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure is beyond comprehension: Every year, 1,000,000,000,000,000,000,000,000 (1 septillion) snowflakes fall worldwide. As the crystals fall, they encounter different atmospheric conditions that produce flakes with unique attributes. The more complex those conditions are, the more elaborate the crystals.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Kenneth Libbrecht is a physicist at the California Institute of Technology. Along with the work of scientists at the U.S. Department of Agriculture's Agricultural Research Service (ARS), his research is uncovering new information about the magical world of snow crystals—information that has practical applications in such diverse areas as agriculture and the production of electricity.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Snow crystals are individual crystals—usually in a hexagonal form—while snowflakes are collections of two or more snow crystals. Beginning as condensed water vapor, a crystal typically grows around a nucleus of dust. Its shape depends on how the six side facets—or faces—grow in relation to the top and bottom facets. If they grow relatively tall, the crystal appears column-like; if the side facets are short compared to the length of the bottom and top facets, the crystal looks platelike.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Currently Libbrecht is trying to crack the problem of why the crystal facets' growth varies with temperature. He believes this may have something to do with the ice surface's "quasi-liquid" layer, which affects how water molecules stick to the surface.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">By manipulating the temperature and humidity within an incubation chamber (and by adding an electric current or various gases at times), Libbrecht creates <font id=38>"designer"' snowflakes</font> in his lab. Such experiments are helping him determine how crystals form.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">William Wergin, a retired ARS research biologist, and a colleague, Eric Erbe, were using scanning electron microscopy to look at biological problems relating to agriculture. To avoid the laborious procedure that using such equipment usually entails, the two scientists decided to freeze the tissue they were working with and look at it in the frozen state.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"One day it happened to be snowing," says Wergin, "and we were looking for a specimen. We imaged some snowflakes and were very surprised to see what we did." It was the first time anyone had attempted to image snow crystals with scanning electron microscopy, which provides precise detail about the crystals' shape, structural features and <font id=33>metamorphosed conditions</font> (crystals often change once on the ground depending on the surrounding environment).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wergin called another ARS colleague, hydrologist Albert Rango, to see if the snow crystal magnifications had any applications for his research. Rango now uses Wergin's electron microscopy data, along with microwave satellite data, in the Snowmelt Runoff Model to predict the amount of water available in a winter snowpack. For western states such as Colorado. Montana, Utah and Wyoming about 75 percent of the annual water supply comes from snowmelt. Snowmelt water is <font id=39>critical</font> to crop irrigation rand hydroelectric power, as well as recreation and domestic water supplies, fisheries management and flood control.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Before employing the scanning electron micros-copy results, the forecasted amounts of snowpack water were inaccurate whenever the size and shape of the snow crystals varied much from the norm. "The more we know about crystals," notes Rango, "the easier it will be to use microwave satellite data for predictions of the snow water equivalent."</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Currently, forecasts using the model are about 90 percent accurate. A 1980 study estimated that improving the prediction by 1 percent would save $38 million in irrigation and hydropower in the western. United States.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Rango is also looking ahead at climate change predictions. "Following the estimates that have been made about what will happen by 2100, things are definitely warming up," he says. Temperature increases will likely result in a reduction in stream flow as overall snow accumulation decreases, winter precipitation runs off as rain, and water evaporates at a quicker rate. The gap between water supply and demand will magnify  even more, greatly increasing water's economic value, anticipates Rango.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Not only does the crystal research help gauge snowmelt, it is also useful in predicting avalanches, designing artificial snow, and, perhaps in the near future, examining air pollution. "You can put snow in a scanning electron microscope and tell which elements are present, such as sulfur and nitrogen," says Wergin. "You can then see what kind of pollution is in the area and possibly track the source.''</div>
+
+<br>
+###################
+<div class = "quiz">31. It can reasonably be inferred from the passage that the information about the scientific st.udy of snow is presented primarily to:
+<div class = "choice">A. emphasize the importance of communication among scientists.</div>
+<div class = "choice">B. explain how snow crystal facets influence the snowpack in some western states.</div>
+<div class = "choice">C. showcase the varied uses of the scanning electron microscope.</div>
+<div class = "choice">D. demonstrate some of the practical applications of the study of snow crystals.</div>
+</div>
+###################
+<div class = "quiz">32. According to the passage, the use of scanning microscopy can save money by:
+<div class = "choice">F. encouraging scientists to make estimates of water requirements far into the future.</div>
+<div class = "choice">G. allowing forecasters to predict more accurately the quantity of water in the snowpack.</div>
+<div class = "choice">H. helping agricultural researchers to identify biological problems.</div>
+<div class = "choice">J. increasing the water supply for Colorado, Montana, Utah, and Wyoming by 75 percent.</div>
+</div>
+###################
+<div class = "quiz">33. It can reasonably be inferred that the phrase metamorphosed conditions (lines 47-48) refers to the:
+<div class = "choice">A. temperature and humidity at which crystals form.</div>
+<div class = "choice">B. process by which snow crystals develop from a speck of dust and water vapor.</div>
+<div class = "choice">C. state of snow crystals after they reach the ground.</div>
+<div class = "choice">D. major changes in environmental conditions.</div>
+</div>
+###################
+<div class = "quiz">34. According to the passage, the addition of electron microscopy data to the Snowmelt Runoff Model allows scientists using the model to include in their predictions detailed information about:
+<div class = "choice">F. microwave satellite data.</div>
+<div class = "choice">G. structural variations of snow crystals.</div>
+<div class = "choice">H. locations having the most snowfall.</div>
+<div class = "choice">J. biological problems related to agriculture.</div>
+</div>
+###################
+<div class = "quiz">35. According to Rango, one reason that water's economic value is likely to increase by the year 2100 is that:
+<div class = "choice">A. more water will be polluted by then.</div>
+<div class = "choice">B. less water will be, wasted due to more accurate predictions of the water supply.</div>
+<div class = "choice">C. the sulfur and nitrogen content in snow is likely to increase.</div>
+<div class = "choice">D. predicted climate changes will reduce overall snow accumulation.</div>
+</div>
+###################
+<div class = "quiz">36. According to the passage, snowflakes have infinite variety because:
+<div class = "choice">F. enormous numbers of snow crystals fall, worldwide.</div>
+<div class = "choice">G. falling snow crystals meet with varied atmospheric .conditions.</div>
+<div class = "choice">H. snow crystals fall at various rates creating unique snowflakes.</div>
+<div class = "choice">J. complexities in the atmosphere slow snow crystal development.</div>
+</div>
+###################
+<div class = "quiz">37. The passage states that snowflakes differ from snow crystals in that snowflakes:
+<div class = "choice">A. grow around a nucleus of dust.</div>
+<div class = "choice">B. combine to form snow crystals.</div>
+<div class = "choice">C. grow in relation to top and bottom facets.</div>
+<div class = "choice">D. are composed of more than one crystal.</div>
+</div>
+###################
+<div class = "quiz">38. The term "designer" snowflakes (line 32) refers directly to the fact that:
+<div class = "choice">F. no two snowflakes are alike.</div>
+<div class = "choice">G. Libbrecht produces the snowflakes in his lab.</div>
+<div class = "choice">H. snowflakes are part of the grand design of nature.</div>
+<div class = "choice">J. Libbrecht's snowflakes exhibit special beauty.</div>
+</div>
+###################
+<div class = "quiz">39. As it is used in line .59, the word critical most nearly means:
+<div class = "choice">A. evaluative.</div>
+<div class = "choice">B. faultfinding.</div>
+<div class = "choice">C. vital.</div>
+<div class = "choice">D. acute.</div>
+</div>
+###################
+<div class = "quiz">40. The passage states that research about snow crystals has helped scientists do all of the following EXCEPT:
+<div class = "choice">F. extract pollutants from snow.</div>
+<div class = "choice">G. gauge snowmelt.</div>
+<div class = "choice">H. design artificial snow.</div>
+<div class = "choice">J. predict avalanches.</div>
+
+###################

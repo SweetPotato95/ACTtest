@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Compost consists largely of organic matter that has been decomposed by bacterial that require oxygen. Compost is used as soil fertilizer. Two studies were done to examine the effect of compost use on the growth and yield of bean plants.</div>
 
@@ -22,7 +22,7 @@
 <br>
 ###################
 <div class = "quiz">17. Which of the following graphs best represents the nitrogen, phosphorus, and potassium contents in the coffee-grounds compost and the alfalfa compost?
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\178.png' width = '534'height = '216'/>
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\178.png' width = '300'height = '170'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2005 Dec 63C\imgs\179.png' width = '185'height = '86'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2005 Dec 63C\imgs\180.png' width = '188'height = '87'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2005 Dec 63C\imgs\181.png' width = '188'height = '86'/></div>

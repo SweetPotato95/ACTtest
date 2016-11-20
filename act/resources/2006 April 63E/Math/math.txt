@@ -1,11 +1,11 @@
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"></div>
 
 ###################
 <div class = "quiz">1. For each of 3 years, the table below gives the number of games a football team played, the number of running plays they ran, and the total number of yards the team gained on running plays.
-<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:94.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p></td><td style="width:180.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">Games</span></p></td><td style="width:162.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center"><span lang="EN-US">Running</span></p><p align="center"  style="text-align:center"><span lang="EN-US">plays</span></p></td><td colspan="2" style="width:211.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="141"><p align="center"  style="text-align:center"><span lang="EN-US">Totalyards gained</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Onrunning plays</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">1997</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1998</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1999</span></p></td><td style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">9</span></p></td><td colspan="2" style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">397</span></p><p align="center"  style="text-align:center"><span lang="EN-US">394</span></p><p align="center"  style="text-align:center"><span lang="EN-US">378</span></p></td><td style="width:193.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129"><p align="center"  style="text-align:center"><span lang="EN-US">1,028</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,417</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,920</span></p></td></tr><?if !supportMisalignedColumns?><tr height="0"><td style="border:none" width="73"></td><td style="border:none" width="120"></td><td style="border:none" width="108"></td><td style="border:none" width="12"></td><td style="border:none" width="129"></td></tr><?endif?></table></div>
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:94.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p></td><td style="width:180.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">Games</span></p></td><td style="width:162.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center"><span lang="EN-US">Running</span></p><p align="center"  style="text-align:center"><span lang="EN-US">plays</span></p></td><td colspan="2" style="width:211.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="141"><p align="center"  style="text-align:center"><span lang="EN-US">Totalyards gained</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Onrunning plays</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">1997</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1998</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1999</span></p></td><td style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">9</span></p></td><td colspan="2" style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">397</span></p><p align="center"  style="text-align:center"><span lang="EN-US">394</span></p><p align="center"  style="text-align:center"><span lang="EN-US">378</span></p></td><td style="width:193.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129"><p align="center"  style="text-align:center"><span lang="EN-US">1,028</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,417</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,920</span></p></td></tr><tr height="0"><td style="border:none" width="73"></td><td style="border:none" width="120"></td><td style="border:none" width="108"></td><td style="border:none" width="12"></td><td style="border:none" width="129"></td></tr></table></div>
 To the nearest tenth of a yard, what is the average number of yards gained per running play in 1998?
 <div class = "choice">A. 2.6</div>
 <div class = "choice">B. 2.7</div>
@@ -15,7 +15,7 @@ To the nearest tenth of a yard, what is the average number of yards gained per r
 </div>
 ###################
 <div class = "quiz">2. For the polygon below, the lengths of 2 sides are not given, Each angle between adjacent sides measures 90°. What is the polygon's perimeter, in feet?
-<img src='file:\$$$\resources\2006 April 63E\imgs\0.png' width = '1160'height = '556'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\0.png' width = '580'height = '278'/>
 <div class = "choice">F. 41</div>
 <div class = "choice">G. 52</div>
 <div class = "choice">H. 60</div>
@@ -65,7 +65,7 @@ To the nearest tenth of a yard, what is the average number of yards gained per r
 </div>
 ###################
 <div class = "quiz">8. In the figure below, A, B, and C are collinear, the measure of ∠ABD is 7x°, and the measure of ∠CBD is 3x°. What is the measure of ∠ABD?
-<img src='file:\$$$\resources\2006 April 63E\imgs\3.png' width = '988'height = '506'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\3.png' width = '494'height = '253'/>
 <div class = "choice">F. 252°</div>
 <div class = "choice">G. 126°</div>
 <div class = "choice">H. 108°</div>
@@ -82,11 +82,11 @@ To the nearest tenth of a yard, what is the average number of yards gained per r
 </div>
 ###################
 <div class = "quiz">10. For the first several months after the Fiery Red Scooter arrived in toy stores, the rate of sales increased slowly. As this new scooter caught on, however, the rate of sales increased rapidly. After several more months, many people owned a Fiery Red Scooter, and the rate of sales decreased. Which of the following graphs could represent the total number of Fiery Red Scooters sold as a function of time, in months, after the scooter arrived in toy stores?
-<div class = "choice">F. <img src='file:\$$$\resources\2006 April 63E\imgs\7.png' width = '628'height = '488'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2006 April 63E\imgs\8.png' width = '588'height = '522'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2006 April 63E\imgs\9.png' width = '610'height = '492'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2006 April 63E\imgs\10.png' width = '684'height = '528'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2006 April 63E\imgs\11.png' width = '610'height = '506'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2006 April 63E\imgs\7.png' width = '224'height = '130'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 April 63E\imgs\8.png' width = '204'height = '130'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 April 63E\imgs\9.png' width = '215'height = '134'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 April 63E\imgs\10.png' width = '252'height = '134'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 April 63E\imgs\11.png' width = '215'height = '133'/></div>
 </div>
 ###################
 <div class = "quiz">11. For a community service project, members of the junior class at San Carlos High School are going to varnish the rectangular dining room floor of a local nursing home. The floor is 60 feet wide and 80 feet long. Under the assumption that 1 can of varnish covers exactly 250 square feet, what is the minimum number of cans of varnish they will need in order to put 1 coat of varnish on this floor?
@@ -163,7 +163,7 @@ To the nearest tenth of a yard, what is the average number of yards gained per r
 ###################
 <div class = "quiz">20. As shown in the figure below, Mr. Thompson, who is standing at point A, needs to determine the distance from point C on the ground to point E at the top of one of the second-story windows of his house. He places a mirror on the ground at point B so that when he looks in the mirror, he can see the top of the window. Mr. Thompson's eye level, at point D, is 6 ft above the ground. He notes that AB = 4 ft and BC = 14 ft. Approximately how many feet above the ground is the top of the second-story window?
 (Note: In △ABD and △CBE, ∠ABD is congruent to ∠CBE.)
-<img src='file:\$$$\resources\2006 April 63E\imgs\27.png' width = '804'height = '810'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\27.png' width = '402'height = '405'/>
 <div class = "choice">F. 2</div>
 <div class = "choice">G. 10</div>
 <div class = "choice">H. 16</div>
@@ -180,7 +180,7 @@ To the nearest tenth of a yard, what is the average number of yards gained per r
 </div>
 ###################
 <div class = "quiz">22. The area of △XYZ below is 32 square inches. If <img src='file:\$$$\resources\2006 April 63E\imgs\31.png' width = '45'height = '36'/> is 8 inches long, how long is altitude<img src='file:\$$$\resources\2006 April 63E\imgs\32.png' width = '51'height = '38'/>, in inches?
-<img src='file:\$$$\resources\2006 April 63E\imgs\33.png' width = '716'height = '752'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\33.png' width = '358'height = '376'/>
 <div class = "choice">F. 10</div>
 <div class = "choice">G. 8</div>
 <div class = "choice">H. 6</div>
@@ -264,7 +264,7 @@ What percent of the students are at least 16 years old?
 </div>
 ###################
 <div class = "quiz">32. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
-<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '1220'height = '1140'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
 Duringthe month of April, Mousepads Galore broke even (did not gain or lose any money) when x' mousepads were produced and sold. How many mousepads did the company produce and sell during the month of April?
 <div class = "choice">F. 10,000</div>
 <div class = "choice">G. 12,000</div>
@@ -274,7 +274,7 @@ Duringthe month of April, Mousepads Galore broke even (did not gain or lose any 
 </div>
 ###################
 <div class = "quiz">33. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
-<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '1220'height = '1140'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
 The cost function shown in the graph for Mousepads Galore has 2 components: a fixed cost, plus a constant production cost per mousepad. Which of the following is the fixed cost?
 <div class = "choice">A. ＄0</div>
 <div class = "choice">B. ＄1,000</div>
@@ -284,7 +284,7 @@ The cost function shown in the graph for Mousepads Galore has 2 components: a fi
 </div>
 ###################
 <div class = "quiz">34. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
-<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '1220'height = '1140'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
 Mousepads Galore sells each mousepad at the same price, which is an integer number of dollars. According to the revenue function, what is the price of each of these mousepads?
 <div class = "choice">F. ＄3</div>
 <div class = "choice">G. ＄7</div>
@@ -327,7 +327,7 @@ Mousepads Galore sells each mousepad at the same price, which is an integer numb
 </div>
 ###################
 <div class = "quiz">39. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
-<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '584'height = '1036'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
 What is the area of BGFC, in square inches?
 <div class = "choice">A. 2,500</div>
 <div class = "choice">B. 5,400</div>
@@ -337,7 +337,7 @@ What is the area of BGFC, in square inches?
 </div>
 ###################
 <div class = "quiz">40. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
-<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '584'height = '1036'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
 What is the length of<img src='file:\$$$\resources\2006 April 63E\imgs\54.png' width = '45'height = '38'/>, in inches?
 <div class = "choice">F. 90</div>
 <div class = "choice">G. 100</div>
@@ -347,7 +347,7 @@ What is the length of<img src='file:\$$$\resources\2006 April 63E\imgs\54.png' w
 </div>
 ###################
 <div class = "quiz">41. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
-<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '584'height = '1036'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
 What is the radius, in inches, of largest circle that can be drawn so that no point of the circle is outside CFED?
 <div class = "choice">A. 40</div>
 <div class = "choice">B. 50</div>
@@ -357,7 +357,7 @@ What is the radius, in inches, of largest circle that can be drawn so that no po
 </div>
 ###################
 <div class = "quiz">42. As shown in the figure below, an escape ramp leading from an emergency exit of an airplane is 35 feet long when fully extended and forms a 15° angle with the level ground.
-<img src='file:\$$$\resources\2006 April 63E\imgs\58.png' width = '1576'height = '632'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\58.png' width = '788'height = '316'/>
 Given the trigonometric approximations in the table below, what is the height above the ground of the emergency exit, rounded to the nearest 0.1 foot?
 <div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:201.25pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:146.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="97"><p align="center"  style="text-align:center"><span lang="EN-US">cos15°</span></p><p align="center"  style="text-align:center"><span lang="EN-US">sin15°</span></p><p align="center"  style="text-align:center"><span lang="EN-US">tan15°</span></p></td><td style="width:146.2pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="97"><p align="center"  style="text-align:center"><span lang="EN-US">0.966</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0.259</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0.268</span></p></td></tr></table></div>
 <div class = "choice">F. 2.8</div>
@@ -441,7 +441,7 @@ x≤6  4＋2x≥0
 </div>
 ###################
 <div class = "quiz">52. As shown in the (x, y, z) coordinate space below, the cube with vertices A through H has edges that are 1 coordinate unit long. The coordinates of F are (0, 0, 0), and H is on the positive y-axis. What are the coordinates of D?
-<img src='file:\$$$\resources\2006 April 63E\imgs\65.png' width = '860'height = '758'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\65.png' width = '430'height = '379'/>
 <div class = "choice">F. (0, 1, 1)</div>
 <div class = "choice">G. (0, <img src='file:\$$$\resources\2006 April 63E\imgs\66.png' width = '41'height = '42'/>, 0)</div>
 <div class = "choice">H. (0,<img src='file:\$$$\resources\2006 April 63E\imgs\67.png' width = '41'height = '42'/> , 1)</div>
@@ -492,7 +492,7 @@ x≤6  4＋2x≥0
 </div>
 ###################
 <div class = "quiz">58. In the figure below, lines l and m are parallel and angle measures are as marked. If it can be determined, what is the value of x?
-<img src='file:\$$$\resources\2006 April 63E\imgs\90.png' width = '1100'height = '540'/>
+<img src='file:\$$$\resources\2006 April 63E\imgs\90.png' width = '550'height = '270'/>
 <div class = "choice">F. 35</div>
 <div class = "choice">G. 45</div>
 <div class = "choice">H. 65</div>

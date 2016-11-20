@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Introduction</div>
 
@@ -38,7 +38,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When the 2 measurements were made, the block was moving up a frictionless, inclined surface as shown in the figure, and was slowing down at a constant rate. No air was present</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\163.png' width = '1560'height = '744'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\163.png' width = '260'height = '128'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Eventually, the block would have stopped moving up the incline; then gravity alone would have caused the block to accelerate down the incline. At any specified altitude, the block's speed going down the incline would have been the same, as its earlier speed going up the incline.</div>
@@ -52,10 +52,10 @@
 <br>
 ###################
 <div class = "quiz">34. Assume that the block was pushed and then released at time = 0. Student l's description of the block's speed over time after its release is best illustrated by which of the following graphs?
-<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\164.png' width = '328'height = '338'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\165.png' width = '319'height = '304'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\166.png' width = '335'height = '335'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\167.png' width = '326'height = '308'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\164.png' width = '158'height = '130'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\165.png' width = '139'height = '130'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\166.png' width = '145'height = '130'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\167.png' width = '156'height = '130'/></div>
 </div>
 ###################
 <div class = "quiz">35. The 3 explanations of the block's motion are similar to each other in that all 3 explanations:

@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To grow on a medium (a nutrient system) that lacks arginine (an amino acid), the bacterium E. coli must synthesize arginine from the medium. Figure l shows a portion of the reaction pathway for the synthesis of arginine in E. coli. Each of these reactions is catalyzed by an enzyme (El-E4). In the first reaction, acetylornithine is the precursor, ornithine is the product, and E1 is the enzyme. In the second reaction, ornithine is the precursor, citrulline is the product, and E2 is the enzyme.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\151.png' width = '2883'height = '357'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\151.png' width = '481'height = '59'/>></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l adapted from Ursula Goodenough, Genetics, 3rd ed.ⓒ1984 by CBS College Publishing</div>

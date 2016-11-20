@@ -32,6 +32,7 @@ public class PassagePane extends JPanel{
 	public void init(int w,int h){
 		this.setBackground(Color.WHITE);
 		passagepane.setVisible(true);
+		passagepane.setEditable(false);
 		passagepane.setContentType("text/html");
 //		passagepane.setOpaque(false);
 		Font font = new Font("Segoe UI",Font.BOLD,19);
@@ -60,17 +61,22 @@ public class PassagePane extends JPanel{
 //		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ questionIndex);
 		if(partIndex != ModelConstants.WRITING){
 			int questionId = basicInfo.questionIndexinPart(questionIndex);
+			int questionIId = basicInfo.questionIndexinSplit(questionIndex);
+			
 			String passagetext = readingBrain.getPassage();
 			questionId += 1;
 			String substring = "<font id="+questionId+">";
 			passagetext = passagetext.replace(substring, "<font style=\"background-color:yellow;\">");
-	//		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ passagetext);
 			passagepane.setText("<html><body>"+passagetext+"</body></html>");
 			int height = scrollPane.getVerticalScrollBar().getValue();
+			
 			javax.swing.SwingUtilities.invokeLater(new Runnable() {
 				   public void run() {
-				       scrollPane.getVerticalScrollBar().setValue(height);
-				       scrollPane.revalidate();
+					   if (questionIId != 0) 
+						   scrollPane.getVerticalScrollBar().setValue(height);
+					   else
+						   scrollPane.getVerticalScrollBar().setValue(0);
+//				       scrollPane.revalidate();
 				   }
 				});
 		}
@@ -81,7 +87,7 @@ public class PassagePane extends JPanel{
 			javax.swing.SwingUtilities.invokeLater(new Runnable() {
 				   public void run() {
 				       scrollPane.getVerticalScrollBar().setValue(height);
-				       scrollPane.revalidate();
+//				       scrollPane.revalidate();
 				   }
 				});
 		}

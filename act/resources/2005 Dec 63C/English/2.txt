@@ -1,4 +1,4 @@
-<h1>A Family Craft</h1>
+﻿<h1>A Family Craft</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The printshops where my father worked, whether in a publishing house in Vermont or in a small-town newspaper office in Idaho, always presented the same vivid experience. The tap dance of Linotype <font id=16>keys</font> the pungent scents of printing ink and cleaning chemicals, and the slapping sound of the rollers dripping with ink-<font id=17>every job has its hazards. </font></div>
 
@@ -94,7 +94,8 @@
 <div class = "choice">D. all day.</div>
 </div>
 ###################
-<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?     F. essentially,
+<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?     
+<div class = "choice">F. essentially,</div>
 <div class = "choice">G. in essentially,</div>
 <div class = "choice">H. fundamentally,</div>
 <div class = "choice">J. for the most part,</div>

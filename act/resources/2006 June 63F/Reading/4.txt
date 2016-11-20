@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the book Wind by Jan DeBlieu (?1998 by Jan DeBlieu) Convection currents in the atmosphere which are responsible for breezes, begin when air is heated over warm land masses or seas and then expands and rises. Thermals are columns of rising warm air.</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the book Wind by Jan DeBlieu (?1998 by Jan DeBlieu) Convection currents in the atmosphere which are responsible for breezes, begin when air is heated over warm land masses or seas and then expands and rises. Thermals are columns of rising warm air.</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">No other class of animals lives so starkly at the mercy of wind as the insects. In its benign convective form wind plucks up bugs by the millions, the trillions, every day and scatters them widely. <font id=34> (This is not to say they are dispersed at random. Biologists have often seen insects choose a precise moment to set out—say, just before the onset of a light rainstorm with west-bearing winds—presumably so that they are most likely to arrive in protected, food-rich habitat.) </font>Once aloft they depend on horizontal currents to ferry them onward. Often they drift all night. In the atmosphere's upper strata they encounter waves of turbulence and layers of different densities that sort and compress them into compact swarms. They may drift as a unit through honeycombs of thermals and land lightly in a rogue's paradise—a flower garden a newly cultivated field of vegetables. Or they may be accosted by a freshening gale, tossed out to sea, and slammed rudely into the water.</div>
 
@@ -20,7 +20,7 @@
 <br>
 ###################
 <div class = "quiz">31. The main purpose of the passage is to:
-A, document insects' reliance on wind for transport.
+<div class = "choice">A. document insects' reliance on wind for transport.</div>
 <div class = "choice">B. discuss the dangers wind can pose for insects.</div>
 <div class = "choice">C. provide data on the seasonal migrations of windborne insects.</div>
 <div class = "choice">D. describe the research techniques of scientists studying insects.</div>

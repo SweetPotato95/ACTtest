@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Albert Einstein predicted that light passing by a massive object would be deflected of motion (Angle θ in Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\174.png' width = '2460'height = '1164'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\174.png' width = '410'height = '298'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Einstein also predicted that light's travel time between certain planets would be increased by the Sun's gravity. Experiments 1 and 2 tested Einstein's predictions.</div>
@@ -23,20 +23,20 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists bounced radio waves off the surface of Venus as Venus moved around the Sun. Figure 2 shows the approximate positions of Venus (V) relative to the Sun (S) and Earth (E) on Days 0, 150, 300, and 450.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\175.png' width = '2100'height = '1338'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\175.png' width = '350'height = '226'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The delay measured by the scientists equaled the extra time the radio waves took to make the round trip between Earth and Venus because of the Sun's gravity (see Figure 3).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\176.png' width = '1629'height = '1863'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\176.png' width = '273'height = '311'/></div>
 
 <br>
 ###################
 <div class = "quiz">25. In Experiment 2 on Day 600, the relative positions of the Sun, Earth, and Venus were closest to those shown in which of the following diagrams?
-<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '303'height = '383'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '268'height = '400'/></div>
-C, <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '292'height = '390'/>
-<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '273'height = '458'/></div>
+<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '80'height = '100'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '80'height = '100'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '80'height = '100'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '80'height = '100'/></div>
 </div>
 ###################
 <div class = "quiz">26. According to the uncertainty in the measurement of θ at a wavelength of 3.1 cm, the true value of θ was most likely between:
@@ -54,12 +54,12 @@ C, <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '292'height
 </div>
 ###################
 <div class = "quiz">28. Suppose, on Day 0 in Experiment 2, the relative positions of the Sun, Earth, and Venus were as shown in the diagram below.
-<img src='file:\$$$\resources\2005 June 61D\imgs\181.png' width = '153'height = '501'/>
+<img src='file:\$$$\resources\2005 June 61D\imgs\181.png' width = '25'height = '67'/>
 The graph of the delay versus Day would have looked most like which of the following graphs?
-<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\182.png' width = '296'height = '272'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\183.png' width = '301'height = '283'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\184.png' width = '312'height = '293'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\185.png' width = '308'height = '324'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\182.png' width = '130'height = '110'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\183.png' width = '130'height = '110'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\184.png' width = '130'height = '110'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\185.png' width = '130'height = '110'/></div>
 </div>
 ###################
 <div class = "quiz">29. During Experiment 2, the largest delay in the radio waves was produced when the radio waves passed:

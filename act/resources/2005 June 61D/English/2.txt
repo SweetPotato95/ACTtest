@@ -1,4 +1,4 @@
-<h1>A Tree’s Change in Status</h1>
+﻿<h1>A Tree’s Change in Status</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
 
@@ -77,7 +77,8 @@ Would this be a relevant addition to make here?
 <div class = "choice">J. that began to produce</div>
 </div>
 ###################
-<div class = "quiz">23. A. NO CHANGE
+<div class = "quiz">23. 
+<div class = "choice">A. NO CHANGE</div>
 <div class = "choice">B. it soon focused its attention</div>
 <div class = "choice">C. they soon focused their attention</div>
 <div class = "choice">D. it was soon focused</div>
@@ -112,7 +113,7 @@ Would this be a relevant addition to make here?
 </div>
 ###################
 <div class = "quiz">28.
-F NO CHANGE
+<div class = "choice">F. NO CHANGE</div>
 <div class = "choice">G. needs' of the patients,</div>
 <div class = "choice">H. patients' needs,</div>
 <div class = "choice">J. patients needs,</div>

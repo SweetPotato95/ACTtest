@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Oxyfluorocarbons (OFCs) are iols composed of only carbon (C), fluorine (F), and oxygen (O). They are useful as lubricants in exposed mechanical systems on spacecraft. However, OFCs tend to decompose upon exporure to heated metal surfaces, which usually have a metal oxide (MO) outer layer (see Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\94.png' width = '2160'height = '876'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\94.png' width = '730'height = '292'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When an oil decomposes, the mechanical systems stop working, crippling the spacecraft.</div>

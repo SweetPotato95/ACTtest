@@ -1,0 +1,77 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿High concentrations of fecal coliforms in the water of a lake are a hazard to humans swimming in the lake. Fecal coliforms are bacteria found in the intestines of all endothermic animals. Two studies in 2001 examined fecal coliform concentrations in surface water samples from a large freshwater lake and its tributary streams.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Around 10 A.M. on Monday of every week in June, July, and August, 100 mL water samples were collected from 3 separate locations within the area of the lake designated for swimming. The samples were analyzed to determine. the average fecal coliform concentration, in colony-forming units (CFU) per 100 mL (see Figure 1). A CFU value is the number of distinct colonies formed on a growth plate by the bacteria in a sample after the sample has been placed on the growth plate and incubated for 24 hr.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\172.png' width = '603'height = '345'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">dare samples were collected</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In July, on the last of 14 consecutive days of fair weather, 100 mL water samples were collected from each of the following sites—the designated swimming area, 6 lake sites that were outside the designated swimming area, and each of the lake's 5 tributary streams. Several 100 g samples of sand from the beach at the designated swimming area were also collected. A second set of samples was collected at the same sites on a rainy July day, the last of 7 consecutive days of rain. The samples were analyzed to determine the average fecal coliform concentration (see Figure 2). The heavy, dashed, horizontal line in Figure 2 represents the fecal coliform water quality standard for the lake. If the average fecal coliform concentration for water samples collected from the lake on a particular day exceeds this level, all swimming in the lake is prohibited for that day.</div>
+
+<br>
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:324.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p align="center"  style="text-align:center"><span lang="EN-US">Key</span></p><p align="center"  style="text-align:center"><span lang="EN-US">samplescollected on a day of:</span></p><p align="center"  style="text-align:center"><span lang="EN-US"><img src='file:\$$$\resources\2007 Dec 65E\imgs\260.png' width = '42'height = '34'/>fair weather</span></p><p align="center"  style="text-align:center"><span lang="EN-US"><img src='file:\$$$\resources\2007 Dec 65E\imgs\261.png' width = '42'height = '34'/>rainy weather</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\173.png' width = '520'height = '486'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 adapted from Michele Zimmerman, "Occurrence of Bacteria in Blue Marsh Lake and Selected Tributaries, Berks County, Pennsylvania: September-October 2001." ⓒ2002 by the United States Geological Survey.</div>
+
+<br>
+###################
+<div class = "quiz">7. According to the results of Study 1. the increase in the average fecal coliform concentration for water samples from the designated swimming area was greatest between which of the following dates?
+<div class = "choice">A. June 11 and June 18</div>
+<div class = "choice">B. June 25 and July 2</div>
+<div class = "choice">C. July 30 and August 6</div>
+<div class = "choice">D. August 20 and August 27</div>
+</div>
+###################
+<div class = "quiz">8. Assume that each fecal coliform bacterium forms a single. distinct colony on a growth plate during the sample analysis. Given the results of Study 1, to produce the results shown for the June 18 samples, those 100 mL water samples had to contain, on average, approximately how many fecal coliform bacteria?
+<div class = "choice">F. 50</div>
+<div class = "choice">G. 100</div>
+<div class = "choice">H. 150</div>
+<div class = "choice">J. 200</div>
+</div>
+###################
+<div class = "quiz">9. Given the information about Study 2, which of the following statements best explains why the dashed, horizontal line in Figure 2 does not extend across the bars for the samples from the beach at the designated swimming area?
+<div class = "choice">A. The standard applies to both endothermic and ectothermic animals.</div>
+<div class = "choice">B. The standard was established for both sand and water samples.</div>
+<div class = "choice">C. The standard was established for water samples only.</div>
+<div class = "choice">D. The standard applies only during the winter.</div>
+</div>
+###################
+<div class = "quiz">10. Which of the following hypotheses was most likely being tested in Study 2?
+<div class = "choice">F. The fecal coliform concentration varies with the depth of the lake water.</div>
+<div class = "choice">G. The fecal coliform concentration varies with the pH of the lake water.</div>
+<div class = "choice">H. More fecal coliforms enter the lake during rainy weather than during fair weather.</div>
+<div class = "choice">J. More fecal coliforms enter the lake during July than during August.</div>
+</div>
+###################
+<div class = "quiz">11. Would the presence of large numbers of geese in and around the designated swimming area throughout the summer of 2001 likely have had any effect on the fecal coliform concentrations measured in the studies?
+<div class = "choice">A. No. because geese are not endothermic and are not a source of fecal coliforms.</div>
+<div class = "choice">B. No, because geese are endothermic and are not a source of fecal coliforms.</div>
+<div class = "choice">C. Yes, because geese are not endothermic and are a source of fecal coliforms.</div>
+<div class = "choice">D. Yes, because geese are endothermic and are a source of fecal coliforms.</div>
+</div>
+###################
+<div class = "quiz">12. A comparison of the average fecal coliform concentrations given in Figure 2 for the fair-weather samples shows that, relative to the concentration for the tributary streams, the concentration for the lake sites outside the designated swimming area was approximately:
+<div class = "choice">F. <img src='file:\$$$\resources\2007 Dec 65E\imgs\174.png' width = '45'height = '65'/>as high.</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2007 Dec 65E\imgs\175.png' width = '32'height = '65'/>as high.</div>
+<div class = "choice">H. 10 times as high.</div>
+<div class = "choice">J. 100 times as high.</div>
+<br>
+</div>
+###################

@@ -1,0 +1,98 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "The Trouble with Fries" by Malcolm Gladwell（©2001 by The Condé Nast Publications Inc.)</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It is entirely possible, right now, to make a delicious French fry that does not carry with it a death sentence. A French fry can be much more than a delivery vehicle for fat.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Is it really that simple, though? Consider the cautionary tale of the efforts of a group of food scientists at Auburn University more than a decade ago to come up with a better hamburger. The Auburn team wanted to create a leaner beef that tasted as good as regular ground beef. They couldn't just remove the fat, because .that would leave the meat dry and mealy. They wanted to replace the fat. The goal of the Auburn scientists was to cut about two-thirds of the fat from normal ground beef, which meant that they needed to find something to add to the beef that would hold an equivalent amount of water—and continue to retain that water even as the beef was being grilled. Their choice? Seaweed, or, more precisely, carrageenan. They also selected some basic flavor enhancers, designed to make up for the lost fat "taste." The result was a beef patty that was roughly three-quarters water, twenty per cent protein, five per cent or so fat, and a quarter of a per cent seaweed. They called it AU Lean.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It didn't take the Auburn scientists long to realize that they had created something special. They began doing blind taste comparisons of AU Lean burgers and .traditional twenty-per-cent-fat burgers. Time after time, the AU Lean burgers won. <font id=12>Next, they took their invention into the field. They recruited a hundred families and supplied them with three kinds of ground beef for home cooking over consecutive three-week intervals— regular "market" ground-beef with twenty per cent fat, ground beef, with five per cent fat, and AU Lean. The families were asked to rate the different kinds of beef, without knowing which was which. Again, the AU Lean won hands down.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=20>What the Auburn team showed was that, even though people love the taste and feel of fat—and naturally gravitate toward high-fat food—they can be fooled into thinking there is a lot of fat in something when there isn't. When the group tried to lower the fat in AU Lean below five per cent, people didn't like it anymore. But, within the relatively broad range of between five and twenty-five per cent, you can add water, and some flavoring and most people can't tell the difference.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What's more, people appear to be more sensitive to the volume of food they consume than to its calorie content. Barbara Rolls, a nutritionist at Penn State, has demonstrated this principle with satiety studies. She feeds one group of people a high-volume snack and another group a low-volume snack. Even though the two snacks have the same calorie count, she finds that people who eat the high-volume snack feel more satisfied. Eating AU Lean, in short, isn't going to leave you with a craving for more calories; you'll feel just as full.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For anyone looking to improve the quality of fast food, all this is heartening news. It means that you should be able to put low-fat cheese and low-fat mayonnaise in a fast-food hamburger without anyone's complaining. <font id=13>It also means that there's no particular reason to use twenty-per-cent-fat ground beef, in a fast- food burger.</font> In 1990, using just this argument, the Auburn team suggested to McDonald's that it make a hamburger out of AU Lean. Shortly thereafter, McDonald's came out with the McLean Deluxe. Other fast-food houses scrambled to follow suit. Nutritionists were delighted. And fast food appeared on the verge of a revolution.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Only, it wasn't. The McLean was a flop, and four years later it was off the market. What happened? Part of the problem appears to have been that McDonald's rushed the burger to market before many of the production kinks had been worked out. More important, though, was the psychological handicap the burger faced. People liked AU Lean in blind taste tests because they didn't know it was AU Lean; they were fooled into thinking it was regular ground beef. But nobody was fooled when it came to the McLean Deluxe. It was sold as the healthy choice—<font id=17>and who goes to McDonald's for health food?</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This is sobering news for those interested in improving the American diet. For years, the nutrition movement in this country has' made transparency one of its principal goals: it has assumed that the best way to help people improve their diets is to tell them precisely what's in their food, to label certain foods good and certain foods bad. But transparency can backfire, because sometimes nothing is more deadly for our taste buds than the knowledge that what we are eating is good for us.</div>
+
+<br>
+###################
+<div class = "quiz">11. The author most nearly portrays the Auburn scientists as:
+<div class = "choice">A. severe critics of the fast-food industry's practices.</div>
+<div class = "choice">B. enthusiastic promoters of their promising work,.</div>
+<div class = "choice">C. diligent researchers uninterested in the practical application of their work.</div>
+<div class = "choice">D. clever innovators more interested in nutrition than in how food tastes.</div>
+</div>
+###################
+<div class = "quiz">12. It can reasonably be inferred from the passage that changing which of the following conditions of the experiment described in lines 28-36 would have had the biggest effect on the outcome?
+<div class = "choice">F. Altering the order in. which the families received, the three kinds of ground beef</div>
+<div class = "choice">G. Using two hundred families instead of one hundred in the study</div>
+<div class = "choice">H. Telling the families which kind of ground beef they were getting each time</div>
+<div class = "choice">J. Lengthening the time the families used each type of ground beef</div>
+</div>
+###################
+<div class = "quiz">13. The statement in lines 61-63 most likely, represents the view of all of the following groups EXCEPT:
+<div class = "choice">A. McDonald's officials introducing the McLean Deluxe to the public..</div>
+<div class = "choice">B. the Auburn scientists, who had research to support 'these conclusions.</div>
+<div class = "choice">C. nutritionists who saw the potential health benefits of AU Lean.</div>
+<div class = "choice">D. fast-food company executives at the time this article was published.</div>
+</div>
+###################
+<div class = "quiz">14. According to the passage, carrageenan's role in AU Lean was as a:
+<div class = "choice">F. flavor enhancer.</div>
+<div class = "choice">G. substitute for fat.</div>
+<div class = "choice">H. source of protein.</div>
+<div class = "choice">J. replacement for seaweed.</div>
+</div>
+###################
+<div class = "quiz">15. The author implies that for an AU Lean hamburger to seem as satisfying as a hamburger made from regular ground beef, the most important factor would be keeping which of the following the same?
+<div class = "choice">A. Volume</div>
+<div class = "choice">B. Calorie content</div>
+<div class = "choice">C. Percent of fat</div>
+<div class = "choice">D. Method of cooking</div>
+</div>
+###################
+<div class = "quiz">16. The author indicates that the main cause of the failure of the McLean Deluxe was that:
+<div class = "choice">F. McDonald's failed to promote, it through advertising.</div>
+<div class = "choice">G. it was rushed, to market before production problems were solved.</div>
+<div class = "choice">H. people believed that it was made from "market" hamburger.</div>
+<div class = "choice">J. people knew that it was supposed to be good for them.</div>
+</div>
+###################
+<div class = "quiz">17. The author most likely intends the question in lines 80-81 to be read:
+<div class = "choice">A. rhetorically; he believes the answer is self-evident and negative.</div>
+<div class = "choice">B. ironically; he finds it surprising that people really wanted the healthy choice.</div>
+<div class = "choice">C. genuinely; he is unsure about whether people enjoy healthy fast food.</div>
+<div class = "choice">D. critically; he objects to fast-food restaurants selling AU Lean.</div>
+</div>
+###################
+<div class = "quiz">18. It can reasonably be inferred from the last paragraph that: the author thinks that, in the future, the nutrition movement should:
+<div class = "choice">F. make its goals more transparent.</div>
+<div class = "choice">G. reconsider its goal of transparency.</div>
+<div class = "choice">H. label foods as either good or bad.</div>
+<div class = "choice">J. tell people exactly what is in. their food.</div>
+</div>
+###################
+<div class = "quiz">19. According to the passage, which of the following elements makes up the highest percent of AU Lean?
+<div class = "choice">A. Fat</div>
+<div class = "choice">B. Seaweed</div>
+<div class = "choice">C. Water</div>
+<div class = "choice">D. Protein</div>
+</div>
+###################
+<div class = "quiz">20. According to information in the fourth paragraph (lines 37-46), which of the following comparisons between a 20-percent-fat hamburger and. an 8-percent-fat hamburger with added water arid flavorings would most people make?
+<div class = "choice">F. The 20-percent-fat hamburger would taste slightly better.</div>
+<div class = "choice">G. The 8-percent:fat hamburger would taste slightly better..</div>
+<div class = "choice">H. The 8-percerit-fat hamburger would taste significantly better.</div>
+<div class = "choice">J. The two hamburgers would taste the same.</div>
+<br>
+</div>
+###################

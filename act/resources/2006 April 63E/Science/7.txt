@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Planets revolve around the Sun in elliptical orbits, as shown in Figure 1.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\132.png' width = '1746'height = '1755'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\132.png' width = '292'height = '295'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The eccentricity of an ellipse describes its elongation; the more elongated the ellipse, the greater its eccentricity. The semimajor axis is half the length of the ellipse.</div>
@@ -11,7 +11,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perihelion (Angle θ=0°) is the point on the orbit closest to the Sun; aphelion (θ=180°) is the point on the orbit farthest from the Sun. The speed of a planet varies with θ. The speed of a planet versus θ is shown in Figure 2 for orbits with various eccentricities and semimajor axes.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\133.png' width = '1374'height = '2159'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\133.png' width = '458'height = '1053'/></div>
 
 <br>
 ###################

@@ -1,11 +1,11 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When compounds dissolve in water, they either give off heat to, or absorb heat from, the solution. The transfer of hear (△H) is negative (exothermic) when heat is given off, or positive (endothermic) when heat is absorbed. Figure 1 shows the △H, in kilojoules per mole (kJ/mole, where 1 mole is 6×10<img src='file:\$$$\resources\2006 April 63E\imgs\129.png' width = '26'height = '42'/> molecules of any compound), when Compounds A or B dissolve in water at 25℃. Solubility is the maximum amount of a compound that will dissolve in a given volume of solvent. Figures 2 and 3 show how temperature affects the solubility (in moles/L) of Compounds A and B, respectively, in water.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\130.png' width = '3774'height = '1044'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\130.png' width = '658'height = '178'/></div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\131.png' width = '3720'height = '1734'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\131.png' width = '640'height = '298'/></div>
 
 <br>
 ###################

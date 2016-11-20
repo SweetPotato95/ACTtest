@@ -1,13 +1,13 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a study of human sleep cycles, subjects in 4 different age groups performed a brief mental task at a scheduled time. Immediately following the task, their oral temperatures were taken and then the time for each subject to fall asleep was measured.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results were averaged for each group. Figure 1 shows how the average time to fall asleep for the 4 groups varied with the time of day that the task was performed. Figure 2 shows how the average oral temperature .of 2 of the groups varied with the .time of day that the task was performed.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\158.png' width = '3894'height = '2130'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\158.png' width = '698'height = '350'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\159.png' width = '3624'height = '1905'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\159.png' width = '608'height = '315'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l and 2 are adapted from G. S. Richardson et al., "Circadian Variation of Sleep Tendency in Elderly and Young Adult Subjects." ⓒ1982 by Raven Press, Figure l is also adapted from M. A. Carskadon & W. Dement, "Daytime Sleepiness Quantification of a Behavioral State" ⓒ1987 by Pergamon Journals Ltd.</div>

@@ -109,7 +109,8 @@ Should the writer add this sentence here?
 <div class = "choice">D. the ongoing work</div>
 </div>
 ###################
-<div class = "quiz">44. F. NO CHANGE
+<div class = "quiz">44. 
+<div class = "choice">F. NO CHANGE</div>
 <div class = "choice">G. were</div>
 <div class = "choice">H. are</div>
 <div class = "choice">J. is</div>

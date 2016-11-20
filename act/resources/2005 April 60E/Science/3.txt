@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a living cell's surface area-to-volume ratio (S/V) increases. so does the cell's ability to exchange substances with its environment.</div>
 
@@ -30,7 +30,7 @@
 ###################
 <div class = "quiz">14. Ova with very large volumes rend to contain large amounts of nutrients that are used for growth by the embryo. Based on the information in Table 2 and Figure 2, which of the following ova most likely contain the greatest amount of nutrients?
 <div class = "choice">F. Sea urchin ova</div>
-G Hu:nan ova
+<div class = "choice">G. Hu:nan ova</div>
 <div class = "choice">H. Humminobird ova</div>
 <div class = "choice">J. Hen ova</div>
 </div>
@@ -52,7 +52,7 @@ G Hu:nan ova
 <div class = "quiz">17. Based on the information in Figure l, a spherical cell with a diameter of 6 mm will have an S/V closest to which of the following values?
 <div class = "choice">A. 0.1 mm<sup>-</sup><sup>l</sup></div>
 <div class = "choice">B. 1 mm<sup>-</sup><sup>l</sup></div>
-<div class = "choice">C. 2 mm<sup>-</sup><sup>l</sup> l</div>
+<div class = "choice">C. 2 mm<sup>-</sup><sup>l</sup></div>
 <div class = "choice">D. 10 mm<sup>-</sup><sup>l</sup></div>
 </div>
 ###################

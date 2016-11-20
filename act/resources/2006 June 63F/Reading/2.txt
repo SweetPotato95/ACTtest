@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Farewell to Mr. Fix-It” by James Surowiecki (?2001 by The Conde Nast Publications Inc.).</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Farewell to Mr. Fix-It” by James Surowiecki (?2001 by The Conde Nast Publications Inc.).</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ricardo Gomez runs an electronics-repair shop in Brooklyn. He started in the business fifteen years ago. Today, he can fix just about anything, from tape-eating VCRs to CD players with errant lasers. The one thing he can't fix is the fact that people don't seem to get things fixed anymore.</div>
 
@@ -88,7 +88,7 @@
 </div>
 ###################
 <div class = "quiz">19. The passage states that before the 1980s, most American corporations viewed quality as all of the following EXCEPT:
-A, almost irrelevant to consumers' buying decisions.
+<div class = "choice">A. almost irrelevant to consumers' buying decisions.</div>
 <div class = "choice">B. some thing that could not be achieved at the same time as lowering prices:</div>
 <div class = "choice">C. something that cost them a lot.</div>
 <div class = "choice">D. an unnecessary hardship on the repair industry and therefore to be avoided.</div>

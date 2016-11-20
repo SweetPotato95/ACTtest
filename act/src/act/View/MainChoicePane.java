@@ -38,6 +38,7 @@ public class MainChoicePane extends JPanel{
 		titlePane.setText("<html><body>afsdddd<img src=\"7.gif\">fuck you son of<><table style=\"border: 1px solid black\"><tr><td>1</td><td>2</td></tr></table> bitchasd asd asdsadhsa kjdhks ahdksahdjk sahd jksahdkj ahsdkjashdkl sjadla sdhk asd</body></html>");
 //		titlePane.setOpaque(false);
 		titlePane.setBackground(Color.WHITE);
+		titlePane.setEditable(false);
 		titlePane.setFont(ViewConstants.choiceTitleFont);
 		String bodyRule = "body {padding:10; font-family: " +  ViewConstants.choiceTitleFont.getFamily() + "; " +
 	            "font-size: " + ViewConstants.choiceTitleFont.getSize() + "pt; }";
@@ -48,10 +49,11 @@ public class MainChoicePane extends JPanel{
 		this.setLayout(new BorderLayout());
 		this.add(titlePane,BorderLayout.PAGE_START);
 		
-		//scrollPane = new JScrollPane(choicepane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
-		//scrollPane.add(choicepane);
-		//this.add(scrollPane,BorderLayout.CENTER);
+//		scrollPane = new JScrollPane(choicepane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+//		scrollPane.add(choicepane);
+//		this.add(scrollPane,BorderLayout.CENTER);
 		this.add(choicepane, BorderLayout.CENTER);
+//		this.add(new JPanel(), BorderLayout.PAGE_END);
         if(type == ViewConstants.DISPALY_CHOICE_PANE_PART){
 			this.setPreferredSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,ViewConstants.CHOICEPANE_HEIGHT));
         	//this.setMinimumSize(new Dimension(MyConstants.CHOICEPANE_PART_WIDTH , MyConstants.CHOICEPANE_HEIGHT));

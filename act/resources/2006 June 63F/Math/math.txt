@@ -1,4 +1,4 @@
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"></div>
@@ -64,9 +64,9 @@
 </div>
 ###################
 <div class = "quiz">8. As shown below, the diagonals of rectangle ABCD intersect at the point (2,5) in the standard (x,y) coordinate plane, Point A is at (－1,3). Which of the following are the coordinates of C?
-<img src='file:\$$$\resources\2006 June 63F\imgs\15.png' width = '730'height = '790'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\15.png' width = '365'height = '395'/>
 <div class = "choice">F. (－l,7)</div>
-<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\16.png' width = '72'height = '71'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\16.png' width = '50'height = '50'/></div>
 <div class = "choice">H. (3,7)</div>
 <div class = "choice">J. (5,3)</div>
 <div class = "choice">K. (5,7)</div>
@@ -129,7 +129,7 @@
 </div>
 ###################
 <div class = "quiz">16. The cost for a company to produce x televisions in 1 year is $150x＋$250,000. How many televisions can the company produce in l year at a cost of $550,000?
-F 1,500
+<div class = "choice">F. 1,500</div>
 <div class = "choice">G. l,666</div>
 <div class = "choice">H. 2,000</div>
 <div class = "choice">J. 3,666</div>
@@ -162,7 +162,7 @@ F 1,500
 ###################
 <div class = "quiz">20. In the figure below, B is on<img src='file:\$$$\resources\2006 June 63F\imgs\37.png' width = '41'height = '34'/>, D is on<img src='file:\$$$\resources\2006 June 63F\imgs\38.png' width = '42'height = '36'/>, F is on<img src='file:\$$$\resources\2006 June 63F\imgs\39.png' width = '42'height = '36'/>, C is on both <img src='file:\$$$\resources\2006 June 63F\imgs\40.png' width = '42'height = '34'/> and<img src='file:\$$$\resources\2006 June 63F\imgs\41.png' width = '41'height = '34'/>, <img src='file:\$$$\resources\2006 June 63F\imgs\42.png' width = '169'height = '29'/>LBAC and <img src='file:\$$$\resources\2006 June 63F\imgs\43.png' width = '169'height = '29'/> Which of the following statements must be true?
 (Note: The symbol <img src='file:\$$$\resources\2006 June 63F\imgs\44.png' width = '22'height = '24'/> means "is congruent to.")
-<img src='file:\$$$\resources\2006 June 63F\imgs\45.png' width = '800'height = '640'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\45.png' width = '400'height = '320'/>
 <div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\46.png' width = '101'height = '36'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\47.png' width = '174'height = '29'/></div>
 <div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\48.png' width = '41'height = '34'/>is parallel to <img src='file:\$$$\resources\2006 June 63F\imgs\49.png' width = '42'height = '36'/></div>
@@ -179,7 +179,7 @@ F 1,500
 </div>
 ###################
 <div class = "quiz">22. Admission to the school fair is $5, and each ride is the same price as any other ride. The graph below shows the total cost for a person, for admission and rides, as a function of the number of rides paid for. One of the following is the price of a single ride. Which one is it?
-<img src='file:\$$$\resources\2006 June 63F\imgs\55.png' width = '1298'height = '500'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\55.png' width = '649'height = '250'/>
 <div class = "choice">F. $1</div>
 <div class = "choice">G. $2</div>
 <div class = "choice">H. $3</div>
@@ -188,7 +188,7 @@ F 1,500
 </div>
 ###################
 <div class = "quiz">23. The figure below shows a right triangle whose hypotenuse is 20 inches long. How many inches long is the longer leg of this triangle?
-<img src='file:\$$$\resources\2006 June 63F\imgs\56.png' width = '796'height = '464'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\56.png' width = '398'height = '232'/>
 <div class = "choice">A. 10</div>
 <div class = "choice">B. 40</div>
 <div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\57.png' width = '60'height = '38'/></div>
@@ -230,7 +230,7 @@ F 1,500
 </div>
 ###################
 <div class = "quiz">28. In △ADE below, B lies on<img src='file:\$$$\resources\2006 June 63F\imgs\62.png' width = '41'height = '34'/>; C lies on<img src='file:\$$$\resources\2006 June 63F\imgs\63.png' width = '42'height = '34'/>; and r, s, t, and v are angle measures, in degrees. The measure of ∠A is 40°. What is r＋s＋t＋v ?
-<img src='file:\$$$\resources\2006 June 63F\imgs\64.png' width = '962'height = '506'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\64.png' width = '481'height = '253'/>
 <div class = "choice">F. 100°</div>
 <div class = "choice">G. 140°</div>
 <div class = "choice">H. 240°</div>
@@ -239,7 +239,7 @@ F 1,500
 </div>
 ###################
 <div class = "quiz">29. Triangles △ABC and △DBC, shown below, are isosceles with base<img src='file:\$$$\resources\2006 June 63F\imgs\65.png' width = '41'height = '36'/>. Segments <img src='file:\$$$\resources\2006 June 63F\imgs\66.png' width = '41'height = '34'/> and <img src='file:\$$$\resources\2006 June 63F\imgs\67.png' width = '41'height = '36'/> bisect ∠ABC and ∠ACB, respectively. Which of the following angle congruences is necessarily true？
-<img src='file:\$$$\resources\2006 June 63F\imgs\68.png' width = '380'height = '494'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\68.png' width = '190'height = '247'/>
 <div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\69.png' width = '169'height = '29'/></div>
 <div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\70.png' width = '168'height = '29'/></div>
 <div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\71.png' width = '169'height = '29'/></div>
@@ -280,7 +280,7 @@ Which of the following years had the greatest increase in the percent of U.S. ho
 <div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1977</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1978</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1979</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1980</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1981</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1982</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1983</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">16.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">17.9</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">19.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">22.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">28.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">35.0</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">40.5</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1984</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1985</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1986</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1987</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1988</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1989</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1990</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">43.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">46.2</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">48.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">50.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">53.8</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">57.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">59.0</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1991</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1992</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1993</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1994</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1995</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1996</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1997</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">60.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">61.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">62.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">63.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">65.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">66.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">67.3</span></p></td></tr></table></div>
 Table adapted from The World Almanac and Book of Facts 1999. ⓒ1998 by World Almanac Books.
 The figure below shows a scatterplot for the data points in the table and 5 solid-line graphs that represent possible models for this data set. Among the 5 lines, which appears to be the best model for the data set?
-<img src='file:\$$$\resources\2006 June 63F\imgs\77.png' width = '1040'height = '840'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\77.png' width = '260'height = '210'/>
 <div class = "choice">A. A</div>
 <div class = "choice">B. B</div>
 <div class = "choice">C. C</div>
@@ -308,7 +308,7 @@ The almanac stales there .were 64,654,160 U.S. households with cable television 
 </div>
 ###################
 <div class = "quiz">36. The function <img src='file:\$$$\resources\2006 June 63F\imgs\82.png' width = '241'height = '38'/> and line t are shown in the standard (x,y) coordinate plane below. Which of the following is an equation of line t, which passes through (3,4) and is tangent to f (x) at (1,0)?
-<img src='file:\$$$\resources\2006 June 63F\imgs\83.png' width = '634'height = '972'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\83.png' width = '157'height = '246'/>
 <div class = "choice">F.<img src='file:\$$$\resources\2006 June 63F\imgs\84.png' width = '117'height = '65'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\85.png' width = '117'height = '65'/></div>
 <div class = "choice">H. y=3x＋4</div>
@@ -325,7 +325,7 @@ The almanac stales there .were 64,654,160 U.S. households with cable television 
 </div>
 ###################
 <div class = "quiz">38. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
-<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '556'height = '782'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
 A bag of fertilizer costs $7.99 and will cover approximately 500 square feet. Which of the following is closest to the cost, in dollars, of fertilizing the flower bed?
 <div class = "choice">F. $ 25.00</div>
 <div class = "choice">G. $ 95.00</div>
@@ -335,7 +335,7 @@ A bag of fertilizer costs $7.99 and will cover approximately 500 square feet. Wh
 </div>
 ###################
 <div class = "quiz">39. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
-<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '556'height = '782'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
 To determine how much fencing to buy to enclose their flower bed, Hasan and Parvani calculated the flower bed's perimeter. What is its perimeter, in feet?
 <div class = "choice">A. 230</div>
 <div class = "choice">B. 310</div>
@@ -345,7 +345,7 @@ To determine how much fencing to buy to enclose their flower bed, Hasan and Parv
 </div>
 ###################
 <div class = "quiz">40. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
-<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '556'height = '782'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
 The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are considering changing the shape of their flower bed. It will still be a right triangle with the 150-foot side as l leg, but they will extend the 80-foot side until the angle opposite that side is about 40°. By about how many feet would they need to extend the 80-foot side?
 (Note: sin 40°≈0.64, cos 40°≈0.77, tan 4.0°≈0.84)
 <div class = "choice">F. 12</div>
@@ -356,7 +356,7 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">41. Rectangle ABCD consists of 3 congruent rectangles as shown in the figure below. Which of the following is the ratio of the length of <img src='file:\$$$\resources\2006 June 63F\imgs\88.png' width = '41'height = '34'/> to the length of<img src='file:\$$$\resources\2006 June 63F\imgs\89.png' width = '41'height = '36'/>?
-<img src='file:\$$$\resources\2006 June 63F\imgs\90.png' width = '800'height = '624'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\90.png' width = '400'height = '312'/>
 <div class = "choice">A. 1:1</div>
 <div class = "choice">B. 2:1</div>
 <div class = "choice">C. 2:3</div>
@@ -373,11 +373,11 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">43. A ball is thrown upward toward a vertical brick wall. The ball hits the wall and bounces back down to the ground. Among the following graphs, which one best represents the relationship between the height, in meters, of the ball and the time, in seconds, from when the ball is thrown until it hits the ground?
-<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\91.png' width = '652'height = '664'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\92.png' width = '492'height = '608'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\93.png' width = '634'height = '544'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\94.png' width = '634'height = '540'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\95.png' width = '638'height = '640'/></div>
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\91.png' width = '162'height = '164'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\92.png' width = '152'height = '158'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\93.png' width = '154'height = '144'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\94.png' width = '154'height = '140'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\95.png' width = '158'height = '150'/></div>
 </div>
 ###################
 <div class = "quiz">44. The .sides of a right triangle measure 20 cm, 21 cm, and 29 cm. What is the tangent of the angle opposite the side that measures 20 cm?
@@ -397,7 +397,7 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">46. A cube consisting of 8 smaller cubes that are identical is positioned in the standard (x,y,z) coordinate system, as shown below. Vertex A has coordinates (2,0,0), and 3 other vertices are at the origin, on the positive y-axis, and on the positive z-axis, respectively What are the coordinates of vertex B?
-<img src='file:\$$$\resources\2006 June 63F\imgs\101.png' width = '716'height = '716'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\101.png' width = '358'height = '358'/>
 <div class = "choice">F. (0，0，2)</div>
 <div class = "choice">G. (0，2，0)</div>
 <div class = "choice">H. (0，2，2)</div>
@@ -440,7 +440,7 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">51. The graph of the line with equation 3x－4y=24 does NOT have points in what quadrant(s) of the standard (x,y) coordinate plane below?
-<img src='file:\$$$\resources\2006 June 63F\imgs\115.png' width = '1202'height = '718'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\115.png' width = '601'height = '359'/>
 <div class = "choice">A. Quadrant Ⅰ only</div>
 <div class = "choice">B. Quadrant Ⅱ only</div>
 <div class = "choice">C. Quadrant Ⅲ only</div>
@@ -449,8 +449,8 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">52. The figure below shows representations of the first 5 triangular numbers, <img src='file:\$$$\resources\2006 June 63F\imgs\116.png' width = '22'height = '38'/>through<img src='file:\$$$\resources\2006 June 63F\imgs\117.png' width = '24'height = '38'/>. What is the value of<img src='file:\$$$\resources\2006 June 63F\imgs\118.png' width = '32'height = '38'/>?
-<img src='file:\$$$\resources\2006 June 63F\imgs\119.png' width = '1118'height = '372'/>
-<img src='file:\$$$\resources\2006 June 63F\imgs\120.png' width = '1040'height = '536'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\119.png' width = '559'height = '186'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\120.png' width = '520'height = '268'/>
 <div class = "choice">F. 96</div>
 <div class = "choice">G. 496</div>
 <div class = "choice">H. 528</div>
@@ -483,7 +483,7 @@ The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are
 </div>
 ###################
 <div class = "quiz">56. The graph of the function <img src='file:\$$$\resources\2006 June 63F\imgs\124.png' width = '188'height = '69'/>is shown in the standard (x,y) coordinate plane below. Which of the following, if any, is a list of each of the vertical asymptotes of f (x)?
-<img src='file:\$$$\resources\2006 June 63F\imgs\125.png' width = '956'height = '720'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\125.png' width = '478'height = '360'/>
 <div class = "choice">F. x=0</div>
 <div class = "choice">G. x=－1 and x=－2</div>
 <div class = "choice">H. y=x＋3</div>

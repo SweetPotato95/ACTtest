@@ -1,0 +1,77 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Size exclusion chromatography (SEC) is used to separate the components of a solution of polymer molecules. In SEC a sample solution of polymer molecules is injected into a flow of solvent. The sample is then carried through a column filled with beads that contain microscopic pores (see Figure 1).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\227.png' width = '2259'height = '1215'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Smaller molecules easily diffuse into the pores. Larger molecules do not as easily diffuse into the pores or are larger than the pores. Therefore, smaller molecules spend more time in the column than do larger molecules, causing the components of the mixture to Separate. As solvent containing a component of the mixture exits the column through the detector, a peak is plotted versus time (starting from injection). The portion of solvent corresponding to a peak is called a fraction. The time corresponding to the top of a peak is the fraction's retention time (RT). The RT corresponds to the average molecular mass (AMM) of the molecules in that fraction. The shape of the peak reflects the distribution of molecular masses of the molecules in the fraction.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polystyrene is a polymer made up of identical subunits. Five types of polystyrene (P1-P5) were dissolved together in a solvent. The AMM of P1-P5 is given Table 1. The range of molecular, masses for each of P1-P5 was ±100 amu of the AMM.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:657.0pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="438"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Table</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>1</span></p></td></tr><tr style="mso-yfti-irow:1;font-size:29.2pt"><td style="width:328.5pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:29.2pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Polystyrene</span></p></td><td style="width:328.5pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:29.2pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>AMM</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>(amu*)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:328.5pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>P</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span></p></td><td style="width:328.5pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>800</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:328.5pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>P2</span></p></td><td style="width:328.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>4,000</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:328.5pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>P3</span></p></td><td style="width:328.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>10,000</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:328.5pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>P4</span></p></td><td style="width:328.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>50,000</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:328.5pt;border-top:none;border-left:solid black 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>P5</span></p></td><td style="width:328.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>200,000</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td colspan="2" style="width:657.0pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid black .5pt;mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="438"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>*amu = atomicmass uni</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>t</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A sample of the solution was injected into an SEC apparatus. Each fraction was analyzed as it exited the apparatus (see figure 2)..</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\228.png' width = '3117'height = '1179'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Chemists used 3 different methods to synthesize polystyrenes, forming polystyrene mixtures M1, M2, and M3, respectively. Each of M1-M3 was then analyzed as in Experiment 1 (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\229.png' width = '3297'height = '2446'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+###################
+<div class = "quiz">23. Based on the results of Experiments 1 and 2, M3 is most likely which polymer(s) from Experiment 1?
+<div class = "choice">A. P1 only</div>
+<div class = "choice">B. A mixture of P1 and P3 only</div>
+<div class = "choice">C. A mixture of P3 and P5 only.</div>
+<div class = "choice">D. A mixture of P2, P4, and P5 only .</div>
+</div>
+###################
+<div class = "quiz">24. In Experiment 1, the molecules of which of the following polymers spent the longest amount of time in the column?
+<div class = "choice">F. P1</div>
+<div class = "choice">G. P2</div>
+<div class = "choice">H. P4</div>
+<div class = "choice">J. P5</div>
+</div>
+###################
+<div class = "quiz">25. Based on the results of Experiments 1 and 2, which of the following ranks P4, P5, and M2 from smallest AMM to largest AMM?'
+<div class = "choice">A. P4, P5, M2</div>
+<div class = "choice">B. P5, M2, P4</div>
+<div class = "choice">C. M2, P4, P5</div>
+<div class = "choice">D. M2, P5, P4</div>
+</div>
+###################
+<div class = "quiz">26. In Experiment 1, on average, did P3 molecules or P4 molecules more easily diffuse, into the pores of the beads while in the column of the SEC apparatus?
+<div class = "choice">F. P3 molecules, because they have a larger AMM.</div>
+<div class = "choice">G. P3 molecules, because they have a smaller AMM.</div>
+<div class = "choice">H. P4 molecules, because .they have a larger AMM.</div>
+<div class = "choice">J. P4 molecules, because they have a smaller AMM.</div>
+</div>
+###################
+<div class = "quiz">27. In which, if any, of the mixtures synthesized for Experiment 2 is the average mass of the molecules in the mixture most likely greater than 200,000 amu?
+<div class = "choice">A. M1</div>
+<div class = "choice">B. M2</div>
+<div class = "choice">C. M3</div>
+<div class = "choice">D. Neither M1, M2, nor M3</div>
+</div>
+###################
+<div class = "quiz">28. How does the number of molecules in a 1 g sample of P2 compare to the number of molecules in a 1 g sample of P4? The number of P2 molecules is:
+<div class = "choice">F. less, because P2 has a larger AMM than does P4.</div>
+<div class = "choice">G. less, because P2 has a smaller AMM than does P4.</div>
+<div class = "choice">H. greater, because P2 has a larger AMM than does P4.</div>
+<div class = "choice">J. greater, because P2 has a smaller AMM than does P4.</div>
+</div>
+###################

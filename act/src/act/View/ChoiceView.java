@@ -12,6 +12,7 @@ public class ChoiceView extends JPanel{
 	 */
 	private static final long serialVersionUID = 3L;
 	private MainChoicePane mainchoicepane = new MainChoicePane();
+	private JScrollPane scrollPane;
 	public ChoiceView(){
 		this.setSize(ViewConstants.MAINCONTENT_WIDTH , ViewConstants.CHOICEPANE_HEIGHT );
 		//this.setPreferredSize(new Dimension(MyConstants.MAINCONTENT_WIDTH , MyConstants.CHOICEPANE_HEIGHT));
@@ -22,6 +23,9 @@ public class ChoiceView extends JPanel{
 	
 	public void init(){
 		mainchoicepane.init(ViewConstants.DISPALY_CHOICE_PANE_WHOLE);
+   		scrollPane = new JScrollPane();
+   		scrollPane.setViewportView(mainchoicepane);
+//   		this.add(scrollPane, BorderLayout.CENTER);
    		this.add(mainchoicepane, BorderLayout.CENTER);
 	}
 

@@ -31,6 +31,10 @@ public class MainActivity extends JFrame{
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
 		menuView.setMainActivity(this);
 		this.add(menuView);
+        this.setUndecorated(false);  
+        this.setResizable(false);
+        this.getGraphicsConfiguration().getDevice()  
+                .setFullScreenWindow(this); 
         this.setVisible(true);
         }
 
@@ -38,7 +42,8 @@ public class MainActivity extends JFrame{
 		MainController.setMainActivity(this);
 		MainController.setTestIndex(testIndex);
 		MainController.setAnswerModel(ans);
-		
+		ModelConstants.QUESTIONNUM_PER_SPLIT = readText.readLens(ModelConstants.TESTPATH[testIndex]);
+		basicInfo = new TestBasicInfo();
 		MainController.setBasicInfo(basicInfo);
 		
 		MainController.setReading(readingBrain);
@@ -47,8 +52,10 @@ public class MainActivity extends JFrame{
 		}
 
 	public void initMainView(int testIndex){
+		System.out.println("DEBUG INFO MainActivity initMainView: "+testIndex);
 		initMainController(testIndex);
 		mainView = new MainView();
+		
 		
 		mainView.setReadingBrain(readingBrain);
 		readingBrain.updateReading(testIndex, 0, 0);

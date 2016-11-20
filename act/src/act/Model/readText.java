@@ -38,7 +38,7 @@ public class readText {
 		return res;
 	}
 	public static int[] readLens(String testname){
-		int[] lens = new int[5+1+4+7];
+		int[] lens = new int[5+1+4+7+1];
 		String name = "lens.txt";
 		File file = new File(testname+name);
 		BufferedReader reader = null;
@@ -47,7 +47,7 @@ public class readText {
 			String tmpstring = null;
 			tmpstring = reader.readLine();
 			String[] strs = tmpstring.split(" ");
-			for (int i = 0; i < lens.length; i++){
+			for (int i = 0; i < lens.length-1; i++){
 				lens[i] = Integer.valueOf(strs[i]);
 			}
 			reader.close();
@@ -62,7 +62,7 @@ public class readText {
 				}
 			}
 		}
-		
+		lens[lens.length-1] = 0;
 		return lens;
 	}
 	public static int[][] readScore(){
@@ -258,7 +258,6 @@ public class readText {
 				}
 				if(tmpstring.startsWith("<div class = \"choice\">")){					
 					if (mark == 2){
-						//System.out.println(ques);
 						int tmpl = ques.length();
 						tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 						tmpresult.setQuestion(ques.substring(0, tmpl-1));

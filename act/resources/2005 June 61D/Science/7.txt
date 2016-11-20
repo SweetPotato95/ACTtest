@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The male-to-female body mass ratio (MFMR) of a species can be calculated as follows:</div>
 
@@ -11,7 +11,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure shows the MFMR of some species within 4 primate groups: apes and humans; Old World monkeys; New World monkeys; and prosimians. A species with an MFMR of 1 is monomorphic with respect to body mass. A species with an MFMR different than 1 is dimorphic with respect to body mass. (Note: In the figure, MFMR values are calculated to the nearest tenth.)</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\192.png' width = '4143'height = '2625'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\192.png' width = '1381'height = '875'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Steve Jones, Robert Martin, and David Pilbeam, eds. The Cambridge Encyclopedia of Human Evolution. © 1992 by Cambridge University Press.</div>

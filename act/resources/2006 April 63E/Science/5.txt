@@ -1,16 +1,16 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A capacitor is a device used to store electrical charge. Capacitance is the amount of charge a capacitor can hold at a given voltage.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A student use the circuit shown in Figure 1 to perform 3 experiments.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\105.png' width = '2370'height = '1365'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\105.png' width = '790'height = '455'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The parallel-plate capacitor consisted of 2 identical flat, parallel plates of copper, separated by a small distance (see Figure 2).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\106.png' width = '1830'height = '948'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\106.png' width = '610'height = '316'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Initially, each plate of the capacitor was uncharged. (That is, each plate contained an equal number of positive charges and negative charges.) When the switch in the circuit was closed, electrons (negatively charged particles) flowed from Plate A of the capacitor through the ammeter, resistor, and battery to Plate B. after an amount of negative charge (Q) equaling -1×10<img src='file:\$$$\resources\2006 April 63E\imgs\107.png' width = '31'height = '42'/> coulomb flowed to Plate B, the switch was reopened, and the voltage (V) in volts, between the charge plates was measured. Finally, the capacitance (C) was calculated in farads (F).</div>
@@ -74,10 +74,10 @@
 </div>
 ###################
 <div class = "quiz">30. To charge the capacitor as described in the passage, the student caused electrons to flow in the direction(s) indicated by which of the following figures?
-<div class = "choice">F. <img src='file:\$$$\resources\2006 April 63E\imgs\125.png' width = '472'height = '233'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2006 April 63E\imgs\126.png' width = '504'height = '240'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2006 April 63E\imgs\127.png' width = '513'height = '244'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2006 April 63E\imgs\128.png' width = '541'height = '269'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2006 April 63E\imgs\125.png' width = '242'height = '113'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 April 63E\imgs\126.png' width = '254'height = '120'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 April 63E\imgs\127.png' width = '253'height = '124'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 April 63E\imgs\128.png' width = '271'height = '139'/></div>
 <br>
 </div>
 ###################
