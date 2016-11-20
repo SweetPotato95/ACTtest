@@ -1,4 +1,4 @@
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 ###################
@@ -83,7 +83,7 @@
 </div>
 ###################
 <div class = "quiz">11. Marisa's design for a rectangular stained glass window with 7 triangles is shown below. The 2 white triangles are congruent (<img src='file:\$$$\resources\2011 April 67F\imgs\19.png' width = '162'height = '29'/>) and will be a different color than the other 5 triangles. The design includes the measures of<img src='file:\$$$\resources\2011 April 67F\imgs\20.png' width = '74'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\21.png' width = '74'height = '29'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\22.png' width = '75'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\23.png' width = '75'height = '29'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\24.png' width = '1132'height = '680'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\24.png' width = '566'height = '340'/>
 <div class = "choice">A. 45°</div>
 <div class = "choice">B. 65°</div>
 <div class = "choice">C. 70°</div>
@@ -172,7 +172,7 @@
 </div>
 ###################
 <div class = "quiz">22. During a 5-year period, 875 houses were built in Somerville. The graph below shows how many of these houses were built in each of these 5 years. A certain percent of the 875 houses were built in 1993. Which of the following is closest to that percent?
-<img src='file:\$$$\resources\2011 April 67F\imgs\52.png' width = '1682'height = '1460'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\52.png' width = '441'height = '330'/>
 <div class = "choice">F. 20%</div>
 <div class = "choice">G. 25%</div>
 <div class = "choice">H. 30%</div>
@@ -222,7 +222,7 @@
 </div>
 ###################
 <div class = "quiz">28. A park has the shape and dimensions in blocks given below. A water fountain is located halfway between B and D. If you are at A, the water fountain is:
-<img src='file:\$$$\resources\2011 April 67F\imgs\63.png' width = '648'height = '972'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\63.png' width = '164'height = '236'/>
 <div class = "choice">F. <img src='file:\$$$\resources\2011 April 67F\imgs\64.png' width = '38'height = '65'/>blocks north and 5 blocks east.</div>
 <div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\65.png' width = '38'height = '65'/>blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\66.png' width = '36'height = '65'/> blocks east.</div>
 <div class = "choice">H. 6 blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\67.png' width = '36'height = '65'/> blocks east.</div>
@@ -247,7 +247,7 @@
 </div>
 ###################
 <div class = "quiz">31. In parallelogram ABCD below, the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\83.png' width = '75'height = '29'/> is <img src='file:\$$$\resources\2011 April 67F\imgs\84.png' width = '41'height = '29'/> and the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\85.png' width = '75'height = '29'/> is<img src='file:\$$$\resources\2011 April 67F\imgs\86.png' width = '41'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\87.png' width = '74'height = '27'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\88.png' width = '888'height = '760'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\88.png' width = '444'height = '380'/>
 <div class = "choice">A. 38°</div>
 <div class = "choice">B. 41°</div>
 <div class = "choice">C. 44°</div>
@@ -265,7 +265,7 @@
 </div>
 ###################
 <div class = "quiz">33. Rhombus RHOM is shown in the figure below. If <img src='file:\$$$\resources\2011 April 67F\imgs\90.png' width = '78'height = '29'/> m and <img src='file:\$$$\resources\2011 April 67F\imgs\91.png' width = '88'height = '29'/> m, then what is the length, in meters, of<img src='file:\$$$\resources\2011 April 67F\imgs\92.png' width = '41'height = '36'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\93.png' width = '896'height = '690'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\93.png' width = '448'height = '345'/>
 <div class = "choice">A. 3</div>
 <div class = "choice">B. 4</div>
 <div class = "choice">C. 5</div>
@@ -274,7 +274,7 @@
 </div>
 ###################
 <div class = "quiz">34. Grid lines are shown at 1-unit intervals in the standard (x, y) coordinate plane below. Some of the 1-by-1 squares are shaded in the grid. What is the least number of additional 1-by-1 squares that must be shaded so the total shaded region will be symmetric about the y-axis?
-<img src='file:\$$$\resources\2011 April 67F\imgs\94.png' width = '1036'height = '1060'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\94.png' width = '258'height = '260'/>
 <div class = "choice">F. 3</div>
 <div class = "choice">G. 5</div>
 <div class = "choice">H. 7</div>
@@ -308,7 +308,7 @@
 ###################
 <div class = "quiz">38. Jamal sees a tree on the shore directly across a lake and wonders what the distance is across the lake to the tree. He turns 90° to the right and walks in a straight line for 100 meters. Jamal turns to face the tree and finds the angle between his line of sight and his path measures 25°, as show below. Which of the following is closest to the distance, in meters, from Jamal's initial position to the tree?
 (Note:<img src='file:\$$$\resources\2011 April 67F\imgs\100.png' width = '143'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\101.png' width = '145'height = '29'/>,<img src='file:\$$$\resources\2011 April 67F\imgs\102.png' width = '145'height = '29'/>)
-<img src='file:\$$$\resources\2011 April 67F\imgs\103.png' width = '1368'height = '666'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\103.png' width = '684'height = '333'/>
 <div class = "choice">F. 42</div>
 <div class = "choice">G. 47</div>
 <div class = "choice">H. 91</div>
@@ -352,7 +352,7 @@ The City Council decides to put fencing around the park. What is the perimeter, 
 ###################
 <div class = "quiz">43. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
 The picnic shelter must be at least 10 feet from any edge of the park. On graph paper with the distance between grid lines representing 10 feet, a city engineer makes a scale drawing of the park, as shown below. The region where the picnic shelter CANNOT be built is shown shaded. The corners of both the park and the region where the picnic shelter may be built are at the intersections of grid lines. The corners of the picnic shelter must also be at the intersections of grid lines. How many different locations in the park are possible for the placement of the picnic shelter?
-<img src='file:\$$$\resources\2011 April 67F\imgs\107.png' width = '1108'height = '536'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\107.png' width = '554'height = '268'/>
 <div class = "choice">A. 22</div>
 <div class = "choice">B. 36</div>
 <div class = "choice">C. 52</div>
@@ -370,7 +370,7 @@ The City Council's long-term plan for the park involves doubling the area of the
 </div>
 ###################
 <div class = "quiz">45. The graphs of <img src='file:\$$$\resources\2011 April 67F\imgs\114.png' width = '145'height = '34'/> and <img src='file:\$$$\resources\2011 April 67F\imgs\115.png' width = '238'height = '71'/> are shown in the standard (x, y) coordinate plane below. After one of the following pairs of transformations is applied to the graph of f(x), the image of the graph of f(x) is the graph of g(x). Which pair is it?
-<img src='file:\$$$\resources\2011 April 67F\imgs\116.png' width = '1630'height = '686'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\116.png' width = '405'height = '173'/>
 <div class = "choice">A. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\117.png' width = '26'height = '65'/> units down.</div>
 <div class = "choice">B. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\118.png' width = '26'height = '65'/> units up.</div>
 <div class = "choice">C. Shift f(x) 1 unit right and <img src='file:\$$$\resources\2011 April 67F\imgs\119.png' width = '26'height = '65'/> units down.</div>
@@ -403,7 +403,7 @@ The City Council's long-term plan for the park involves doubling the area of the
 </div>
 ###################
 <div class = "quiz">49. Figure ABCDEF, shown in the standard (x, y) coordinate plane below, has been reflected across a line to figure<img src='file:\$$$\resources\2011 April 67F\imgs\129.png' width = '140'height = '29'/>. Which of the following lines of reflection would best describe this transformation?
-<img src='file:\$$$\resources\2011 April 67F\imgs\130.png' width = '1004'height = '980'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\130.png' width = '252'height = '240'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\131.png' width = '56'height = '34'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\132.png' width = '64'height = '65'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\133.png' width = '74'height = '27'/></div>
@@ -420,12 +420,12 @@ The City Council's long-term plan for the park involves doubling the area of the
 </div>
 ###################
 <div class = "quiz">51. A solid, right circular cone is sliced perpendicular to its base through its vertex an the center of its base, as shown below. Which of the following best represents the plane section?
-<img src='file:\$$$\resources\2011 April 67F\imgs\138.png' width = '396'height = '432'/>
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\139.png' width = '220'height = '288'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\140.png' width = '200'height = '260'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\141.png' width = '236'height = '268'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\142.png' width = '226'height = '254'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\143.png' width = '214'height = '298'/></div>
+<img src='file:\$$$\resources\2011 April 67F\imgs\138.png' width = '198'height = '206'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\139.png' width = '100'height = '98'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\140.png' width = '90'height = '90'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\141.png' width = '116'height = '98'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\142.png' width = '106'height = '94'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\143.png' width = '104'height = '98'/></div>
 </div>
 ###################
 <div class = "quiz">52. It b is a positive number such that<img src='file:\$$$\resources\2011 April 67F\imgs\144.png' width = '153'height = '71'/>, then <img src='file:\$$$\resources\2011 April 67F\imgs\145.png' width = '54'height = '29'/>
@@ -437,16 +437,16 @@ The City Council's long-term plan for the park involves doubling the area of the
 </div>
 ###################
 <div class = "quiz">53. The graph in the standard (x, y) coordinate plane below is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\148.png' width = '94'height = '34'/>. One of the following graphs is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\149.png' width = '162'height = '34'/>. Which one?
-<img src='file:\$$$\resources\2011 April 67F\imgs\150.png' width = '486'height = '256'/>
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\151.png' width = '486'height = '348'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\152.png' width = '452'height = '240'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\153.png' width = '468'height = '354'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\154.png' width = '462'height = '344'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\155.png' width = '480'height = '268'/></div>
+<img src='file:\$$$\resources\2011 April 67F\imgs\150.png' width = '243'height = '128'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\151.png' width = '206'height = '128'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\152.png' width = '202'height = '120'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\153.png' width = '208'height = '124'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\154.png' width = '202'height = '124'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\155.png' width = '200'height = '120'/></div>
 </div>
 ###################
 <div class = "quiz">54. In the figure below, parallel lines a and b intersect parallel lines c and d. If it can be determined, what is the sum of the degree measures of <img src='file:\$$$\resources\2011 April 67F\imgs\156.png' width = '35'height = '27'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\157.png' width = '38'height = '27'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\158.png' width = '868'height = '820'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '288'height = '273'/>
 <div class = "choice">E. 220°</div>
 <div class = "choice">G. 180°</div>
 <div class = "choice">H. 140°</div>
@@ -459,7 +459,7 @@ The City Council's long-term plan for the park involves doubling the area of the
 <img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
 <img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
 The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '288'height = '273'/>
 What is the maximum value of P(x, y) when x and y satisfy the 3 conditions given?
 <div class = "choice">A. 4</div>
 <div class = "choice">B. 8</div>
@@ -469,13 +469,11 @@ What is the maximum value of P(x, y) when x and y satisfy the 3 conditions given
 </div>
 ###################
 <div class = "quiz">56. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
-<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
 The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '238'height = '223'/>
 The quadrants of the standard (x, y) coordinate plane are labeled in the figure below. The domain of P(x, y) contains points in which quadrants?
-<img src='file:\$$$\resources\2011 April 67F\imgs\165.png' width = '1316'height = '816'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\165.png' width = '208'height = '148'/>
 <div class = "choice">F. I and II only</div>
 <div class = "choice">G. I and III only</div>
 <div class = "choice">H. I and IV only</div>
@@ -484,12 +482,9 @@ The quadrants of the standard (x, y) coordinate plane are labeled in the figure 
 </div>
 ###################
 <div class = "quiz">57. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
-<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
 The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '1156'height = '1086'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\166.png' width = '143'height = '29'/>
+<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '238'height = '223'/> <img src='file:\$$$\resources\2011 April 67F\imgs\166.png' width = '143'height = '29'/>
 <div class = "choice">A. 1</div>
 <div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\167.png' width = '24'height = '65'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\168.png' width = '41'height = '71'/></div>

@@ -66,7 +66,9 @@ public class PassagePane extends JPanel{
 			String passagetext = readingBrain.getPassage();
 			questionId += 1;
 			String substring = "<font id="+questionId+">";
+			String substring1 = "<font hidden id="+questionId+">";
 			passagetext = passagetext.replace(substring, "<font style=\"background-color:yellow;\">");
+			passagetext = passagetext.replace(substring1, "<font style=\"background-color:yellow;\">");
 			passagepane.setText("<html><body>"+passagetext+"</body></html>");
 			int height = scrollPane.getVerticalScrollBar().getValue();
 			

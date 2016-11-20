@@ -1,4 +1,4 @@
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 ###################
@@ -135,7 +135,7 @@ Chang will order 500 shirts in the proportions, by color, in the table. How many
 </div>
 ###################
 <div class = "quiz">17. The distance-versus-time graph below represents Barbara Jean's walk to school on Friday.
-<img src='file:\$$$\resources\2012 June 70C\imgs\10.png' width = '962'height = '536'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\10.png' width = '481'height = '268'/>
 Which of the following statements could describe what Barbara Jean did during the time interval covered by the horizontal line segment<img src='file:\$$$\resources\2012 June 70C\imgs\11.png' width = '41'height = '36'/>?
 <div class = "choice">A. She walked due east.</div>
 <div class = "choice">B. She walked up some steps.</div>
@@ -145,7 +145,7 @@ Which of the following statements could describe what Barbara Jean did during th
 </div>
 ###################
 <div class = "quiz">18. In the diagram below, lines m and n are cut by transversal t. Lines m. and n are NOT parallel, Which of the following statements must be true?
-<img src='file:\$$$\resources\2012 June 70C\imgs\278.png' width = '400'height = '600'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\278.png' width = '200'height = '300'/>
 <div class = "choice">F. ∠1<img src='file:\$$$\resources\2012 June 70C\imgs\12.png' width = '22'height = '24'/>∠2</div>
 <div class = "choice">G. ∠1<img src='file:\$$$\resources\2012 June 70C\imgs\13.png' width = '22'height = '24'/>∠3</div>
 <div class = "choice">H. ∠12<img src='file:\$$$\resources\2012 June 70C\imgs\14.png' width = '22'height = '24'/>∠5</div>
@@ -211,7 +211,7 @@ Which of the following statements could describe what Barbara Jean did during th
 </div>
 ###################
 <div class = "quiz">26. Shown below is right triangle △ABC with the given dimensions in meters.
-<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '319'height = '189'/>
 What is the length, in meters, of<img src='file:\$$$\resources\2012 June 70C\imgs\36.png' width = '41'height = '36'/>?
 <div class = "choice">F. 8</div>
 <div class = "choice">G. 10</div>
@@ -221,7 +221,7 @@ What is the length, in meters, of<img src='file:\$$$\resources\2012 June 70C\img
 </div>
 ###################
 <div class = "quiz">27. Shown below is right triangle △ABC with the given dimensions in meters.
-<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '319'height = '189'/>
 Which of the following statements about the measures of the interior angles in △ABC is true?
 (Note: m∠A represents the degree measure of ∠A.)
 <div class = "choice">A. m∠A＝m∠B</div>
@@ -232,7 +232,7 @@ Which of the following statements about the measures of the interior angles in �
 </div>
 ###################
 <div class = "quiz">28. Shown below is right triangle △ABC with the given dimensions in meters.
-<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '638'height = '378'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\35.png' width = '319'height = '189'/>
 Which of the following expressions represents cos B?
 <div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\40.png' width = '46'height = '65'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\41.png' width = '45'height = '65'/></div>
@@ -258,7 +258,7 @@ Which of the following expressions represents cos B?
 </div>
 ###################
 <div class = "quiz">31. Marsha is making a sail for a model boat. In the figure below, the sail is represented by △ABC. Base <img src='file:\$$$\resources\2012 June 70C\imgs\52.png' width = '41'height = '36'/>is 18 inches long, and legs <img src='file:\$$$\resources\2012 June 70C\imgs\53.png' width = '41'height = '34'/> and <img src='file:\$$$\resources\2012 June 70C\imgs\54.png' width = '42'height = '36'/>are each 15 inches long. The mast, represented by<img src='file:\$$$\resources\2012 June 70C\imgs\55.png' width = '42'height = '34'/>, is perpendicular to the base and extends 4 inches below the bottom of the sail. How many inches long is the mast?
-<img src='file:\$$$\resources\2012 June 70C\imgs\56.png' width = '634'height = '646'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\56.png' width = '317'height = '323'/>
 <div class = "choice">A. 12</div>
 <div class = "choice">B. 16</div>
 <div class = "choice">C. 33</div>
@@ -330,11 +330,11 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">39. Which of the following graphs illustrates the solution set for the system of inequalities 3x－2＞9 and －2x＞－10?
-<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\77.png' width = '580'height = '100'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\78.png' width = '622'height = '93'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\79.png' width = '624'height = '107'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\80.png' width = '619'height = '120'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\81.png' width = '626'height = '118'/></div>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\77.png' width = '280'height = '50'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\78.png' width = '292'height = '48'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\79.png' width = '294'height = '57'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\80.png' width = '299'height = '60'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 June 70C\imgs\81.png' width = '296'height = '58'/></div>
 </div>
 ###################
 <div class = "quiz">40. A cab picks up a passenger at a point that is designated on the map as (7, －3) and is 7 miles east and 3 miles south of the cab company's headquarters. From (7, －3), the cab travels 4 miles due north, 5 miles due east, and then 2 miles due west, where the passenger is dropped off. Which of the following is closest to the straight-line distance, in miles, the cab is from the cab company's headquarters?
@@ -346,7 +346,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">41. During a competition, a swimmer will be swimming the width of a river, from X to Y in the figure below. The swimmer wants to know how wide the river is. The right triangle shows the measurements the swimmer obtained by walking 100 feet from X to Z, sighting to Y from both points. From this sighting, it is determined that the measure of ∠Z is 40°. How wide, in feet, is the river?
-<img src='file:\$$$\resources\2012 June 70C\imgs\82.png' width = '800'height = '664'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\82.png' width = '400'height = '332'/>
 <div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\83.png' width = '78'height = '65'/></div>
 <div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\84.png' width = '78'height = '65'/></div>
 <div class = "choice">C. 100 sin 40°</div>
@@ -355,7 +355,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">42. The figure below shows a support wire for a television transmission tower. The wire, which is fastened to the tower at a point 125 feet above the level ground, has an angle of elevation of 65°. Which of the following expressions gives the length, in feet, of the wire?
-<img src='file:\$$$\resources\2012 June 70C\imgs\85.png' width = '584'height = '948'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\85.png' width = '142'height = '284'/>
 <div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\86.png' width = '78'height = '65'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\87.png' width = '82'height = '65'/></div>
 <div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\88.png' width = '80'height = '65'/></div>
@@ -372,7 +372,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">44. Which of the following equations represents the circle with center (2,1) shown in the standard (x,y) coordinate plane below?
-<img src='file:\$$$\resources\2012 June 70C\imgs\94.png' width = '716'height = '700'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\94.png' width = '358'height = '350'/>
 <div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\95.png' width = '214'height = '38'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\96.png' width = '214'height = '38'/></div>
 <div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\97.png' width = '214'height = '38'/></div>
@@ -381,7 +381,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">45. One of the following inequalities, where both constants a and b are positive real numbers, is graphed in the standard (x,y) coordinate plane below. Which inequality is it?
-<img src='file:\$$$\resources\2012 June 70C\imgs\100.png' width = '722'height = '768'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\100.png' width = '181'height = '194'/>
 <div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\101.png' width = '132'height = '65'/></div>
 <div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\102.png' width = '132'height = '65'/></div>
 <div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\103.png' width = '132'height = '65'/></div>
@@ -398,7 +398,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">47. In trapezoid KLMN shown below, ∠M measures 45° and ∠K and ∠N are both right angles. The given side lengths are in feet. Which of the following values is closest to the area, in square feet, of KLMN?
-<img src='file:\$$$\resources\2012 June 70C\imgs\106.png' width = '878'height = '460'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\106.png' width = '439'height = '230'/>
 <div class = "choice">A. 4</div>
 <div class = "choice">B. 7</div>
 <div class = "choice">C. 43</div>
@@ -407,7 +407,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">48. For the 2 o'clock hour on Milena's grandfather clock (shown below), the bell is struck 2 times. For the 3 o'clock hour, the bell is struck 3 times. For every hour, 2 seconds elapse between consecutive strikes of the bell. For the 9 o'clock hour, how many seconds elapse between the 1st strike of the bell and the 9th strike of the bell?
-<img src='file:\$$$\resources\2012 June 70C\imgs\107.png' width = '366'height = '1118'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\107.png' width = '103'height = '289'/>
 <div class = "choice">F. 8</div>
 <div class = "choice">G. 9</div>
 <div class = "choice">H. 11</div>
@@ -440,7 +440,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 </div>
 ###################
 <div class = "quiz">52. Four congruent semicircles touch only at their corners, as shown in the figure below. If the path from A to B along the diameters of the semicircles is 100 centimeters long, how many centimeters long is the path from B back to A along the arcs of these semicircles?
-<img src='file:\$$$\resources\2012 June 70C\imgs\109.png' width = '878'height = '746'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\109.png' width = '439'height = '373'/>
 <div class = "choice">F. 25<img src='file:\$$$\resources\2012 June 70C\imgs\110.png' width = '19'height = '24'/></div>
 <div class = "choice">G. 50<img src='file:\$$$\resources\2012 June 70C\imgs\111.png' width = '19'height = '24'/></div>
 <div class = "choice">H. 100<img src='file:\$$$\resources\2012 June 70C\imgs\112.png' width = '19'height = '24'/></div>
@@ -474,7 +474,7 @@ When the owner of Pretty Pooches increases the price to have a small dog shampoo
 ###################
 <div class = "quiz">56. The right triangle shown below with hypotenuse 13 inches long and vertical leg 5 inches long is rotated 360° around the vertical leg to form a right circular cone. What is the volume of this cone, in cubic inches?
 (Note:<img src='file:\$$$\resources\2012 June 70C\imgs\127.png' width = '113'height = '65'/>, where V is the volume, r is the radius, and h is the height.)
-<img src='file:\$$$\resources\2012 June 70C\imgs\128.png' width = '800'height = '420'/>
+<img src='file:\$$$\resources\2012 June 70C\imgs\128.png' width = '400'height = '210'/>
 <div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\129.png' width = '51'height = '65'/></div>
 <div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\130.png' width = '45'height = '29'/></div>
 <div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\131.png' width = '64'height = '65'/></div>

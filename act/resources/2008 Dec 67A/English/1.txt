@@ -1,5 +1,5 @@
-<h1>﻿***********</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Miami Time</div>
+﻿
+<h1>Miami Time</h1>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My family is part of the Miami <font id=1>tribe a Native American people,</font> with strong ties to territory in present-day Ohio, Indiana, and Illinois. Growing up in the Midwest, I often heard my grandmother talk about "Miami time." When she was doing something she loved, whether it was <font id=2>making freezer jam or researching tribal history,</font> she refused to be <font id=3>rushed in a hurry.</font> "I'm on Miami time today," she would say. Conversely, if we were running late for an <font id=4>appointment. She</font> would chide us by saying, "Get a move on. We're not running on Miami time today, you know."</div>

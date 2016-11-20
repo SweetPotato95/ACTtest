@@ -1,3 +1,4 @@
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from The Variety of Life by Colin Tudge (○c2000 by Oxford University Press).</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Through all classification systems, whether devised by songbirds, professors of botany, or fishmongers, two separate sets of considerations run in parallel. The first is operational: how do you actually go about classifying? What criteria do you adopt to decide whether item A belongs in category X or category Y? A songbird weighing up a bird of prey perhaps looks for curvature of beak or length of claw-or, more probably, relies on overall impression or gestalt; and by such means it distinguishes a falcon from a cluck. For chefs, succulence on the inside and a crunchy carapace on the outside are the marks of shellfish.</div>
@@ -26,12 +27,14 @@
 <div class = "choice">D. describe the process of establishing, and the limitations and usefulness of, a system of classification.</div>
 </div>
 ###################
-<div class = "quiz">32.The main function of the second paragraph (lines 13-28) in relation to the passage as a whole is to:
+<div class = "quiz">32. The main function of the second paragraph (lines 13-28) in relation to the passage as a whole is to:
 <div class = "choice">F. describe the characteristics and a potential weakness of objective criteria.</div>
 <div class = "choice">G. introduce a new scientific concept that the remainder of the passage explores.</div>
 <div class = "choice">H. argue the need for subjective criteria, such as beauty, when classifying items.</div>
 <div class = "choice">J. restate a surprising fact about 'the origin of classification systems.</div>
-33 The author mentions abalones and lobsters in the fifth paragraph (lines 47-58) primarily to:
+</div>
+###################
+<div class = "quiz">33. The author mentions abalones and lobsters in the fifth paragraph (lines 47-58) primarily to:
 <div class = "choice">A. explain the dissimilarity between the two types of sea creatures .</div>
 <div class = "choice">B. criticize the impractical classification systems developed by laypeople.</div>
 <div class = "choice">C. convince the reader that "shellfish" is a useless classification.</div>

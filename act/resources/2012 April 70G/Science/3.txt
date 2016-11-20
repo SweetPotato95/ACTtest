@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a chemistry class, the teacher placed a beaker containing a clear green liquid on a' heat source. Over the next 12 min, the volume of the liquid steadily decreased and the liquid darkened in color. At 12 min, a white solid appeared that floated on top of the remaining liquid. At 16 min, all of the liquid was gone and only the white solid remained.</div>
 
@@ -67,7 +67,7 @@
 </div>
 ###################
 <div class = "quiz">16. Suppose the total mass of the beaker and contents was monitored from time=2 min to time=10 min during the heating and that the results were plotted in the graph shown below.
-<img src='file:\$$$\resources\2012 April 70G\imgs\157.png' width = '1530'height = '1509'/>
+<img src='file:\$$$\resources\2012 April 70G\imgs\157.png' width = '250'height = '253'/>
 These results would have been most consistent with the explanation given by which student?
 <div class = "choice">F. Student I</div>
 <div class = "choice">G. Student 2</div>

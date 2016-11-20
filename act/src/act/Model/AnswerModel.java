@@ -7,7 +7,8 @@ public class AnswerModel{
 	private static Object[][][] ansForPart = new Object[5][][];
 	private static String writingText = "";
 	private static Object[][] totalScore = new Object[5][2];
-	public AnswerModel(){
+	public AnswerModel(int testIndex){
+		correct_ans = readText.readAnswer(testIndex);
 		for(int i=0;i<ModelConstants.QUESTIONNUM_TOTAL;i++){
 			ans[i] = -1;
 		}
@@ -28,7 +29,7 @@ public class AnswerModel{
 		return ans[questionIndex];
 	}
 	public void judgeScore(){
-		correct_ans = readText.readAnswer(0);
+		
 		boolean start = true;
 		
 		int questionIndex = 0;

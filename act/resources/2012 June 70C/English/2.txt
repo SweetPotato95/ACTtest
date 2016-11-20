@@ -1,3 +1,4 @@
+﻿
 <h1>Hawaii’s Haleakala Ahinahina Plant</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of Earth's most spectacular plants grows on the slopes of Haleakala <font id=16>16</font>. As a species, the Haleakala ahinahina thrived for thousands of years in this sometimes-harsh environment of high winds and subfreezing temperatures where almost no other <font id=17>plants would of been</font> able to survive.</div>
@@ -47,7 +48,7 @@ Should the writer make this addition here?
 <div class = "choice">F. NO CHANGE</div>
 <div class = "choice">G. their</div>
 <div class = "choice">H. its'</div>
-T. its
+<div class = "choice">J. its</div>
 </div>
 ###################
 <div class = "quiz">21.

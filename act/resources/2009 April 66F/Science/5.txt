@@ -1,5 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Introduction</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Comets are complex mixtures of ices and dust that orbit the Sun. They can be classified by orbital period as either long-period comets or short-period comets.</div>
@@ -10,7 +9,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Short-period comets have orbital periods of 200 yr or less, and their orbital planes have inclinations 30° or less with respect to the ecliptic plane, the plane of Earth's orbit around the Sun. Portions of these planes are shown in Figure 1.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\160.png' width = '2445'height = '867'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\160.png' width = '415'height = '149'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1.</div>
 

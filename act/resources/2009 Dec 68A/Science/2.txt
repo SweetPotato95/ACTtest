@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 shows the life cycle of the malaria parasite. Gametocytes and sporozoites are 2 forms of the parasite.</div>
 
@@ -12,7 +12,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three groups (Groups X, Y, and Z), each with 12 human subjects (Subjects 1-12), were identified (see Table 1).</div>
 
 <div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:450.6pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="300"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:135.0pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Group</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Malariainfection status of subjects</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:135.0pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>X</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>Y</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>Z</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Uninfected</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Sporozoitespresent</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Gametocytespresent</span></p></td></tr></table></div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\177.png' width = '2037'height = '1986'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\177.png' width = '679'height = '662'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
@@ -20,7 +20,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three subjects—one from each group—rested in separate, but identical, tents of mosquito netting attached to the same central chamber. A mosquito trap was inserted between the chamber and each tent to capture any mosquitoes trying to enter the tent (see Figure 2).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\178.png' width = '1188'height = '1024'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\178.png' width = '594'height = '512'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Dotted lines indicate mosquito netting.</div>
@@ -31,7 +31,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the first trial 100 uninfected mosquitoes were released into the chamber. Thirty minutes later the number of mosquitoes attracted to each subject was determined. This procedure was repeated in 11 more trials until all subjects had been tested. Then, for each group, the average number of mosquitoes attracted to a subject was calculated (see Figure 3). All infected subjects were then treated to cure their sporozoite or gametocyte infections.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\179.png' width = '1995'height = '1104'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\179.png' width = '665'height = '368'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
@@ -42,7 +42,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The procedure from Study 1 was repeated with Group X subjects and the cured subjects from Groups Y and Z. Figure 4 shows the proportion of responsive mosquitoes (those caught in a trap) that were attracted to the Group Z subjects before treatment and after being cured of their gametocyte infections.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\180.png' width = '1922'height = '1492'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\180.png' width = '481'height = '376'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 4</div>

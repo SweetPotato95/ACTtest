@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In an enclosed space, an aqueous salt solution produces an atmosphere that has a constant relative humidity (RH). Chemists did 3 experiments to study this phenomenon using 5 identical apparatuses. One of the 5 is shown in Figure l.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\165.png' width = '1983'height = '1305'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\165.png' width = '661'height = '435'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A hatch could be opened to place a dish containing a salt mixture (solid salt in an aqueous solution of the salt) in the airtight tank. A heat exchanger could increase or decrease the temperature in the tank. A hygrometer measured the RH in the tank and the aqueous tension (a mea) sure of the tendency of the <img src='file:\$$$\resources\2012 April 70G\imgs\166.png' width = '55'height = '38'/> to evaporate from a solution) of the salt mixture in the tank. The controller regulated the temperature and recorded the hygrometer readings.</div>

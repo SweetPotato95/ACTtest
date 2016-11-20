@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “High Over Kitty Hawk, Looking for a Profit” by Paul Hoffman (?2003 by The New York Times Company).</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “High Over Kitty Hawk, Looking for a Profit” by Paul Hoffman (?2003 by The New York Times Company).</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The foggy lens of history has been kind to Wilbur and Orville Wright. We regard the boys from Dayton, Ohio, as American heroes who flew the first airplane and ushered in the age of air travel. At the time, though, the brothers' achievement was barely recognized—and their motives were fart from visionary.</div>
 
@@ -73,7 +73,10 @@
 </div>
 ###################
 <div class = "quiz">16. As it is used in line 31, the word revolution most nearly means:
-<div class = "choice">F. political rebellion.   G. radical change.   H. circular course.   J. pivotal invention.</div>
+<div class = "choice">F. political rebellion.  </div>
+<div class = "choice">G. radical change.  </div>
+<div class = "choice">H. circular course. </div> 
+<div class = "choice">J. pivotal invention.</div>
 </div>
 ###################
 <div class = "quiz">17. The passage makes clear that it became easier for inventors to power their aircraft after:

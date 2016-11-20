@@ -1,3 +1,4 @@
+
 <h1>The Tale of The Tale of Genji</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Murasaki <font id=1>Shikibu, an aristocratic Japanese woman</font> was born in Kyoto, Japan, around AD 973. Like most ladies of that period <font id=2>who served</font> in the court of the empress, Lady Murasaki was likely accomplished in both music, and writing. However, her writing was not limited to the traditional poetry 3 <font id=3>was expected</font> of cultured women of that time. She wrote a long work of fiction, The Tale of Genji, which not only is still read today <font id=4>and</font> has been called the world's first great novel.</div>
@@ -72,7 +73,8 @@
 <div class = "choice">J. a tone of mystery and suspense.</div>
 </div>
 ###################
-<div class = "quiz">9. A. NO CHANGE
+<div class = "quiz">9. 
+<div class = "choice">A. NO CHANGE</div>
 <div class = "choice">B. our,</div>
 <div class = "choice">C. his</div>
 <div class = "choice">D. DELETE the underlined portion.</div>

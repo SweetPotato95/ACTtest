@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The pressure, <img src='file:\$$$\resources\2012 April 70G\imgs\172.png' width = '31'height = '38'/>, exerted by a liquid varies with the depth, D, below the surface of the liquid and with the liquid's density, ρ. If a tank of liquid is open to the atmosphere, the total pressure, <img src='file:\$$$\resources\2012 April 70G\imgs\173.png' width = '31'height = '38'/>, at D equals <img src='file:\$$$\resources\2012 April 70G\imgs\174.png' width = '31'height = '38'/> at D plus the atmospheric pressure,<img src='file:\$$$\resources\2012 April 70G\imgs\175.png' width = '32'height = '38'/>.</div>
 
@@ -9,9 +9,9 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l shows, for D=10m, a graph of PL (in kilopascals, kPa) versus ρ (1 kPa = <img src='file:\$$$\resources\2012 April 70G\imgs\177.png' width = '38'height = '40'/> Pa =<img src='file:\$$$\resources\2012 April 70G\imgs\179.png' width = '139'height = '40'/><img src='file:\$$$\resources\2012 April 70G\imgs\178.png' width = '38'height = '40'/>).Figure 2 shows a graph of <img src='file:\$$$\resources\2012 April 70G\imgs\180.png' width = '31'height = '38'/> versus D and a graph of <img src='file:\$$$\resources\2012 April 70G\imgs\181.png' width = '31'height = '38'/> versus D for 25℃ water in a tank that was open to the atmosphere on a particular day.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\182.png' width = '1566'height = '1242'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\182.png' width = '522'height = '414'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\183.png' width = '1539'height = '1770'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\183.png' width = '513'height = '590'/></div>
 
 <br>
 ###################

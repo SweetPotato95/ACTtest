@@ -14,7 +14,7 @@
 <br>
 ###################
 <div class = "quiz">60. The best placement for the underlined portion would be:
-F, where it is now.
+<div class = "choice">F. where it is now.</div>
 <div class = "choice">G. after the word steps.</div>
 <div class = "choice">H. after the word unraveling.</div>
 <div class = "choice">J. after the word mysteries (and before the period).</div>

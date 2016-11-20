@@ -1,3 +1,4 @@
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL, SCIENCE: This passage is adapted from the article ,"Virtually Rebuilt, A Ruin Yields Secrets” by Sam Lube" (©2002 by The New York Times Company).</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Everyone knows that the Roman Colosseum is an architectural marvel. Built so that thousands of people could be ushered in and out in minutes, it is a testament to the genius of Roman engineering. Or is it? By reconstructing the building with three-dimensional computer modeling and then virtually <font id=18>"walking through" </font>it, researchers have discovered  dark, narrow upper hallways that probably hemmed in spectators, slowing their movement to a crawl.</div>

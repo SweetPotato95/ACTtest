@@ -1,10 +1,10 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In August, the ozone (<img src='file:\$$$\resources\2012 April 70G\imgs\142.png' width = '32'height = '38'/>) content of the stratosphere above Antarctica begins to decrease, reaching a minimum around October 15. Over this period, winds surrounding this ozone hole keep it isolated from adjacent areas where the air has greater <img src='file:\$$$\resources\2012 April 70G\imgs\143.png' width = '32'height = '38'/> content. In late October, the winds weaken, causing the <img src='file:\$$$\resources\2012 April 70G\imgs\144.png' width = '32'height = '38'/> content of the air in the ozone hole to increase again as this air mixes with the air from adjacent areas. Figures I and 2 show how the air temperature and <img src='file:\$$$\resources\2012 April 70G\imgs\145.png' width = '31'height = '38'/> partial pressure (a measure of <img src='file:\$$$\resources\2012 April 70G\imgs\146.png' width = '32'height = '38'/> content), respectively, changed with altitude in a portion of the stratosphere above a location in Antarctica on September 15, October 15, and November 15,2000.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\147.png' width = '1698'height = '2199'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\147.png' width = '566'height = '733'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\148.png' width = '1824'height = '2382'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\148.png' width = '608'height = '794'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from O. Troshichev and I. Gabis, "Effects of Solar UV Irradiation on Dynamics of Ozone Hole in Antarctica." 2005 by Elsevier, Ltd.</div>

@@ -1,5 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Tomato plants grow poorly in high-salt environments. This effect is caused by 2 processes:</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">•	A net movement of H<sub>2</sub>O between the cytoplasm of the plants' cells and the environment via osmosis</div>

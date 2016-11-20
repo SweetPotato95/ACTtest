@@ -1,9 +1,9 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The respiratory cycle for resting humans who are breathing normally has been studied by physiologists. The figure shows 4 average measures of the cycle: lung volume, air flow (the rate at which air flows into or out of the lungs), pleural pressure (the pressure in the area between the Jungs and the chest wall), and alveolar pressure (the pressure in the alveoli, small sacs in the lungs where air exchange takes place). Pleural pressure and alveolar pressure are represented as values above or below atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\192.png' width = '60'height = '42'/>). The nex inspiration begins at the end of the pause.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\238.png' width = '800'height = '1200'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\238.png' width = '400'height = '500'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">*corresponds to atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\193.png' width = '60'height = '42'/>)</div>
 

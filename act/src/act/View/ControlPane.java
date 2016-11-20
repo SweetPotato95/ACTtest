@@ -86,8 +86,15 @@ public class ControlPane extends JPanel{
 		title.setForeground(new Color(192,192,192));
 		this.removeAll();
 		this.revalidate();
+		JLabel jl1 = new JLabel();
+		
+		ImageIcon image = new ImageIcon("resources\\lib\\icon.png");
+		image.setImage(image.getImage().getScaledInstance((int) (ViewConstants.NAV_WIDTH*0.2),(int)(ViewConstants.NAV_HEIGHT*1.2),Image.SCALE_DEFAULT)); 
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
-		this.add(Box.createHorizontalGlue());
+//		this.add(Box.createHorizontalGlue());
+		jl1.setSize((int) (ViewConstants.NAV_WIDTH*0.2),(int)(ViewConstants.NAV_HEIGHT*1.2));
+		jl1.setIcon(image);
+		this.add(jl1);
 		this.add(Box.createHorizontalGlue());
 		this.add(title);
 		this.add(Box.createHorizontalGlue());

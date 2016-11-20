@@ -7,6 +7,7 @@ import javax.swing.*;
 
 public class welcome extends JFrame{
 	public welcome(String filename, int waitTime){ 
+		this.setTitle("ACT Practice");
 		this.setSize(600, 400);
 		JLabel l = new JLabel(new ImageIcon(filename));
 		getContentPane().add(l, BorderLayout.CENTER); 

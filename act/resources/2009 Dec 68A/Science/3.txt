@@ -56,10 +56,10 @@
 </div>
 ###################
 <div class = "quiz">16. Which of the following diagrams is most consistent with Scientist 2's description of the formation and migration of petroleum? (Note: Diagrams are not to scale.)
-<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\181.png' width = '1692'height = '939'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2009 Dec 68A\imgs\182.png' width = '1719'height = '978'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\183.png' width = '1635'height = '900'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2009 Dec 68A\imgs\184.png' width = '1692'height = '930'/></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\181.png' width = '234'height = '103'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\182.png' width = '233'height = '116'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\183.png' width = '225'height = '100'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\184.png' width = '234'height = '100'/></div>
 </div>
 ###################
 <div class = "quiz">17. Based on the scientists' discussions, which of the following statements describes the 2 physical properties of petroleum that are most important in facilitating its movement from the location at which it forms to the location at which it accumulates in a large deposit? Petroleum is a:
@@ -70,7 +70,7 @@
 </div>
 ###################
 <div class = "quiz">18. Based on Scientist 2's discussion, which of the following compounds is involved in the formation of petroleum?
-I.<img src='file:\$$$\resources\2009 Dec 68A\imgs\185.png' width = '46'height = '36'/>		II.<img src='file:\$$$\resources\2009 Dec 68A\imgs\186.png' width = '32'height = '36'/>		III. NaCl
+I.<img src='file:\$$$\resources\2009 Dec 68A\imgs\185.png' width = '46'height = '40'/>		II.<img src='file:\$$$\resources\2009 Dec 68A\imgs\186.png' width = '32'height = '36'/>		III. NaCl
 <div class = "choice">F. I only</div>
 <div class = "choice">G. III only</div>
 <div class = "choice">H. I and II only</div>

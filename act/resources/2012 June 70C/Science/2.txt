@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When a sphere falls through air, the sphere is subjected to a drag force, F, that resists its motion. F depends on the sphere's diameter, D; the air temperature, T; the sphere's speed, V; and atmospheric pressure.</div>
 
@@ -16,10 +16,10 @@
 </div>
 ###################
 <div class = "quiz">7. Based on Combinations 9-12, the relationship between F and V is best represented by which of the following graphs?
-<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\159.png' width = '301'height = '298'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\160.png' width = '282'height = '268'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\161.png' width = '264'height = '263'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\162.png' width = '241'height = '236'/></div>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\159.png' width = '141'height = '138'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\160.png' width = '142'height = '138'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\161.png' width = '134'height = '133'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\162.png' width = '121'height = '126'/></div>
 </div>
 ###################
 <div class = "quiz">8. Based on the table, F will be greatest for which of the following D, T, and V ?

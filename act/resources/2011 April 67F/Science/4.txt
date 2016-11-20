@@ -1,11 +1,11 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A river's discharge is the volume of river water flowing past a location in the river in a given amount of time. Discharge is affected by several factors, including the area of the river's drainage basin (the land surface that delivers the rainwater that falls on it into the river) and the spatial relationship of the river to other rivers.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two studies examined the discharge in 3 rivers—the North River, the Jones River, and the Calm River—following a rainfall event. As shown in Figure 1, the drainage basin of the North River and the drainage basin of the Jones River are within the drainage basin of the Calm River. The area of each river's drainage basin is given in<img src='file:\$$$\resources\2011 April 67F\imgs\223.png' width = '120'height = '34'/>.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\224.png' width = '2910'height = '2244'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\224.png' width = '410'height = '344'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
@@ -30,12 +30,12 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The value of the numerator, the river discharge, was obtained from Figure 2. The results are shown in Figure 3.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\228.png' width = '4578'height = '1998'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\228.png' width = '778'height = '398'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\229.png' width = '4542'height = '1629'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\229.png' width = '742'height = '269'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>

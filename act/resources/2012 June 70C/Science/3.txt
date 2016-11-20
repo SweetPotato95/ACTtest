@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When t-butyl chloride [<img src='file:\$$$\resources\2012 June 70C\imgs\173.png' width = '120'height = '38'/>] is dissolved in an acetone-<img src='file:\$$$\resources\2012 June 70C\imgs\174.png' width = '54'height = '38'/> solution, it reacts with <img src='file:\$$$\resources\2012 June 70C\imgs\175.png' width = '54'height = '38'/> completely to form t-butyl alcohol [<img src='file:\$$$\resources\2012 June 70C\imgs\176.png' width = '132'height = '38'/>]:</div>
 
@@ -9,12 +9,12 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 show how the electrical conductivity of each of 5 acetone-<img src='file:\$$$\resources\2012 June 70C\imgs\180.png' width = '54'height = '38'/> solutions varied over time after 1 mg of <img src='file:\$$$\resources\2012 June 70C\imgs\181.png' width = '120'height = '38'/> was dissolved in 100 mL of each solution. The conductivity (which increased as the solution's ion concentration increased) stopped increasing when the reaction had run to completion (indicated by the point labeled "RC").</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\182.png' width = '1566'height = '1101'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\182.png' width = '522'height = '367'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\183.png' width = '1566'height = '1110'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\183.png' width = '522'height = '370'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: In Figures 1 and 2, concentration is given as the percent by mass of acetone in the solution, and conductivity is given as millisiemens per centimeter, mS/cm.</div>
@@ -28,13 +28,13 @@
 <br>
 ###################
 <div class = "quiz">11. The conductivity of the reaction solution at the end of a reaction is<img src='file:\$$$\resources\2012 June 70C\imgs\184.png' width = '36'height = '38'/>. Which of the following graphs best shows how <img src='file:\$$$\resources\2012 June 70C\imgs\185.png' width = '36'height = '38'/> varied with acetone concentration?
-<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\186.png' width = '462'height = '214'/></div>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 June 70C\imgs\186.png' width = '232'height = '104'/></div>
 acetone concentration
-<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\187.png' width = '464'height = '215'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 June 70C\imgs\187.png' width = '234'height = '105'/></div>
 acetone concentration
-<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\188.png' width = '464'height = '212'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 June 70C\imgs\188.png' width = '234'height = '102'/></div>
 acetone concentration
-<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\189.png' width = '462'height = '218'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 June 70C\imgs\189.png' width = '232'height = '108'/></div>
 acetone concentration
 </div>
 ###################

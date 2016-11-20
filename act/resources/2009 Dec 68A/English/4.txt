@@ -1,5 +1,6 @@
-<h1>The following paragraphs may or may not be in the most logical order. Each-paragraph is numbered in brackets, and question 59 will ask you to choose where Paragraph 4 should most logically be placed.</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Operation Vittles'</div>
+﻿
+<h1>"Operation Vittles'</h1>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following paragraphs may or may not be in the most logical order. Each-paragraph is numbered in brackets, and question 59 will ask you to choose where Paragraph 4 should most logically be placed.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>

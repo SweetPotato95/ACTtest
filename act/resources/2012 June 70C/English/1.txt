@@ -1,5 +1,5 @@
-<h1>﻿**********************************</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This Castle's Much Too Normal</div>
+﻿
+<h1>This Castle's Much Too Normal</h1>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was late afternoon when my <font id=1>friends and I arrived, </font> at the Scottish castle, <font id=2>an old</font> structure of massive gray stones. The turrets piercing the sky and the gargoyles <font id=3>snarling</font> at us from every jagged ledge sent me straight into the Dark Ages. A forest crowded in on all sides as if trying to smother the <font id=4>castle, like</font> a dragon's tongue, a red flag snapped in the March wind. I was thrilled.</div>

@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a hydrothermal vent, anaerobic oxidation of methane (AOM) occurs in the top 20 cm of ocean-floor sediment (see Figure 1). This reaction begins when hot fluid containing methane (<img src='file:\$$$\resources\2012 June 70C\imgs\213.png' width = '51'height = '38'/>) rises from a source deep beneath the ocean-floor surface and mixes with seawater containing sulfate (<img src='file:\$$$\resources\2012 June 70C\imgs\214.png' width = '55'height = '40'/>).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\215.png' width = '1686'height = '960'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\215.png' width = '562'height = '320'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
@@ -23,7 +23,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the 2 cores from each of the 10 locations was cut every 0.5 cm along its length. Each piece of core was squeezed to extract all of the pore water (water present in the sediment's pores). The 10 pore water samples from the pieces at the same depth interval in each core were combined and then analyzed for <img src='file:\$$$\resources\2012 June 70C\imgs\221.png' width = '55'height = '40'/> and<img src='file:\$$$\resources\2012 June 70C\imgs\222.png' width = '51'height = '38'/>. The average <img src='file:\$$$\resources\2012 June 70C\imgs\223.png' width = '55'height = '40'/> and <img src='file:\$$$\resources\2012 June 70C\imgs\224.png' width = '51'height = '38'/> concentrations, in millimoles per liter (mmol/L), from 0 cm to 20 cm depth are shown in Figure 2.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\225.png' width = '1506'height = '1809'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\225.png' width = '502'height = '603'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
@@ -34,7 +34,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sediment in the other core from each of the 10 locations was sampled at the top of the core (0 cm depth), then every 0.5 cm along the core's length. The 10 samples from the same depth in each core were combined and then analyzed to determine the average percent by mass of calcite and the average percent by mass of aragonite in the sediment from o cm to 20 cm depth (see Figure 3).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\226.png' width = '1380'height = '1995'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\226.png' width = '460'height = '665'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>

@@ -1,9 +1,9 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 depicts some of the steps of protein synthesis in eukaryotes.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\187.png' width = '2973'height = '2178'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\187.png' width = '473'height = '378'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
@@ -21,9 +21,9 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results appear in Figure 2.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\189.png' width = '924'height = '879'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\189.png' width = '154'height = '149'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\190.png' width = '2619'height = '2769'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\190.png' width = '419'height = '469'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
@@ -32,7 +32,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3  shows the glucose concentration of the medium during the experiment.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\191.png' width = '2640'height = '2748'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\191.png' width = '440'height = '448'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>

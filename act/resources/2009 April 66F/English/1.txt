@@ -1,5 +1,5 @@
-<h1>﻿***********</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Antarctic Adventure</div>
+﻿
+<h1>Antarctic Adventure</h1>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In February 2001, polar adventurers Liv <font id=1>Arnesen of Norway, and Ann Bancroft</font> of Minnesota became the first women to climb and ski across the continent of Antarctica. The two former schoolteachers <font id=2>completed</font> their 2,400-mile journey in 96 days.</div>

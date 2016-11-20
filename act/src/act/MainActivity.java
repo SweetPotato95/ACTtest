@@ -25,9 +25,10 @@ public class MainActivity extends JFrame{
 	private TestBasicInfo basicInfo = new TestBasicInfo();
 	private reading readingBrain = new reading(0,0,0);
 	private math mathBrain = new math(0);
-	private AnswerModel ans = new AnswerModel();
+	private AnswerModel ans;
 	private MenuView menuView = new MenuView();
 	public MainActivity(){
+		this.setTitle("ACT Practice");
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
 		menuView.setMainActivity(this);
 		this.add(menuView);
@@ -41,6 +42,7 @@ public class MainActivity extends JFrame{
 	public void initMainController(int testIndex){
 		MainController.setMainActivity(this);
 		MainController.setTestIndex(testIndex);
+		ans = new AnswerModel(testIndex);
 		MainController.setAnswerModel(ans);
 		ModelConstants.QUESTIONNUM_PER_SPLIT = readText.readLens(ModelConstants.TESTPATH[testIndex]);
 		basicInfo = new TestBasicInfo();
@@ -55,7 +57,6 @@ public class MainActivity extends JFrame{
 		System.out.println("DEBUG INFO MainActivity initMainView: "+testIndex);
 		initMainController(testIndex);
 		mainView = new MainView();
-		
 		
 		mainView.setReadingBrain(readingBrain);
 		readingBrain.updateReading(testIndex, 0, 0);

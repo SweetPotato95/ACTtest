@@ -1,7 +1,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A physicist tested various sheets for their ability to stop gamma rays (<img src='file:\$$$\resources\2012 June 70C\imgs\236.png' width = '19'height = '27'/>-rays) that had different energies. Any <img src='file:\$$$\resources\2012 June 70C\imgs\237.png' width = '19'height = '27'/>-ray that was not stopped by a sheet struck a detector (see Figure 1), which then registered a detection, or count.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\238.png' width = '1326'height = '1290'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\238.png' width = '442'height = '430'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
@@ -18,7 +18,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">First, the physicist measured <img src='file:\$$$\resources\2012 June 70C\imgs\241.png' width = '24'height = '38'/> for a source of <img src='file:\$$$\resources\2012 June 70C\imgs\242.png' width = '19'height = '27'/>-rays having an energy of 4 million electron volts (MeV). Next, with this same <img src='file:\$$$\resources\2012 June 70C\imgs\243.png' width = '19'height = '27'/>-ray source, she measured I for various sheets of Material 1, each having a different thickness x. Then, she plotted a graph of I versus x (in cm) for Material 1. Similarly, she produced graphs of I versus x for Material 2 and Material 3 (see Figure 2).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\244.png' width = '1809'height = '1407'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\244.png' width = '603'height = '469'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
@@ -32,7 +32,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From the graphs of I versus x, she found the half-value thickness, <img src='file:\$$$\resources\2012 June 70C\imgs\247.png' width = '42'height = '38'/>, for each combination of sheet material and <img src='file:\$$$\resources\2012 June 70C\imgs\248.png' width = '19'height = '27'/>-ray energy. A sheet of thickness <img src='file:\$$$\resources\2012 June 70C\imgs\249.png' width = '42'height = '38'/> stopped half of the <img src='file:\$$$\resources\2012 June 70C\imgs\250.png' width = '19'height = '27'/>-rays striking the sheet; that is, I equaled <img src='file:\$$$\resources\2012 June 70C\imgs\251.png' width = '31'height = '65'/> . (For example, based on Figure 2, for 4 MeV <img src='file:\$$$\resources\2012 June 70C\imgs\252.png' width = '19'height = '27'/>-rays striking sheets of Material 1, <img src='file:\$$$\resources\2012 June 70C\imgs\253.png' width = '42'height = '38'/>equaled 1.0 cm.) Finally, the physicist plotted a graph of <img src='file:\$$$\resources\2012 June 70C\imgs\254.png' width = '42'height = '38'/> versus <img src='file:\$$$\resources\2012 June 70C\imgs\255.png' width = '19'height = '27'/>-ray energy for each material (see Figure 3).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\256.png' width = '1803'height = '1224'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\256.png' width = '601'height = '408'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>

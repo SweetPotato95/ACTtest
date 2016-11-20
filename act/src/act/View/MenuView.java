@@ -116,8 +116,8 @@ class MyTableModel extends AbstractTableModel{
 	//Ä£ÄâÊý¾Ý
 	private Object[][] obj = null;
 	public MyTableModel(){
-		obj = new Object[9][8];
-		for (int i = 0; i < 9; i++){
+		obj = new Object[16][8];
+		for (int i = 0; i < 16; i++){
 			for (int j = 0; j < 8; j++){
 				switch(j){
 				case 0:

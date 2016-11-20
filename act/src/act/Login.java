@@ -95,14 +95,19 @@ public class Login extends JFrame implements ActionListener
     }
 	public void init(){
 		System.out.println("now in login");
-		this.setTitle("Login");
-		this.setSize(300, 200);
+		this.setTitle("ACT Practice");
+		this.setSize(300, 300);
 		this.setLayout(new GridBagLayout());
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
+		ImageIcon image = new ImageIcon("resources\\lib\\icon.png");
+		image.setImage(image.getImage().getScaledInstance(200,70,Image.SCALE_DEFAULT)); 
+		
+		JLabel jl1 = new JLabel();
+		jl1.setIcon(image);
 		mainpanel = new JPanel();
 		mainpanel.setLayout(new BorderLayout());
-		
+		mainpanel.add(jl1, BorderLayout.PAGE_START);
 		toppanel = new JPanel();
 		mainpanel.add(toppanel,BorderLayout.CENTER);
 		toppanel.setLayout(new GridLayout(5,2));

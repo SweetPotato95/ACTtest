@@ -1,15 +1,15 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When an asteroid hits the surface of a planet or moon, an impact crater is formed. An asteroid that hits Earth under a specific set of conditions (including speed and angle), referred to here as Set C. forms a crater with a diameter about 20 times the asteroid's diameter. Figure 1 shows the energy released by the impact, for a range of asteroid diameters.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows the average amount of time that elapses between consecutive impacts on Earth by asteroids with the same diameter, for a range of asteroid diameters. Figure 3 shows the percent of the surface of the Moon, Mercury, and Mars that is covered by impact craters, for various ranges of crater diameter.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\90.png' width = '2322'height = '3084'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\90.png' width = '382'height = '584'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\91.png' width = '2682'height = '2184'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\91.png' width = '402'height = '364'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\92.png' width = '2784'height = '2274'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\92.png' width = '484'height = '374'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Eugene M, Shoemaker and Carolyn S. Shoemaker, "The Role of Collisions."1999 by Sky Publishing Corp.</div>

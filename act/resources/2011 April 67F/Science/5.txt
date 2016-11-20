@@ -1,13 +1,13 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A binary phase diagram (BPD) shows how the phases of a mixture of 2 chemicals vary with temperature and composition at 1 atmosphere (atm) of pressure. The phases include the solid (s) phase of each chemical and the liquid (l) solution phase of the 2 chemicals. The eutectic is the point where all 4 regions of the BPD intersect. It indicates the conditions at which all the phases represented in the 4 regions exist in equilibrium. When a mixture is at equilibrium, no net phase change occurs. Figure 1 is a BPD for durene and biphenyl. Figure 2 is a BPD for durene and naphthalene.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\246.png' width = '2937'height = '2898'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\246.png' width = '437'height = '498'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\247.png' width = '2952'height = '2889'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\247.png' width = '452'height = '489'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>

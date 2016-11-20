@@ -1,5 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students studied the trajectories of a baseball launched under a variety of conditions.</div>
 
 <br>
@@ -7,7 +6,7 @@
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">On a flat plain during a windless day, students launched a baseball using the launcher shown in Figure 1.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\245.png' width = '2100'height = '924'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\245.png' width = '700'height = '308'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
@@ -17,7 +16,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As the ball moved along its path, Angle θ, which is defined in Figure 1, continuously varied. The variation in θ was monitored by the camera, which recorded the ball's 'image in its viewfinder every 0.5 sec after launch until the ball landed. For each recorded image, θ was found (see Figure 2).</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\246.png' width = '1518'height = '1113'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\246.png' width = '506'height = '371'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
 
@@ -25,7 +24,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In addition, every 0.5 sec after launch, the transceiver emitted a radar pulse, part of which was reflected back to the transceiver by the ball. The round-trip travel time of each pulse was recorded and then used to determine the distance, D, between the transceiver and the ball (see Figure 3).</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\247.png' width = '1824'height = '714'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\247.png' width = '608'height = '238'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
 
@@ -36,7 +35,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This procedure was followed for launches of the ball at speeds of 80 mph, 90 mph, 100 mph, 110 mph, and 120 mph. For each launch speed, the ball was launched at θ=35º. The curves representing the 5 launch speeds were connected by lines drawn through the data points representing H and R for time = 2 sec, 3 sec, 4 sec, and 5 sec after launch (see Figure 4).</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\248.png' width = '1866'height = '822'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\248.png' width = '622'height = '274'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 4</div>
 
@@ -49,7 +48,7 @@
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Using a mathematical model, the students calculated H and R at 0.5 sec intervals for the Same ball launched under the same conditions as in Study 1, except that they assumed that air was absent. The results are plotted in Figure 5.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\249.png' width = '3792'height = '1254'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\249.png' width = '674'height = '218'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 5</div>
 
@@ -77,7 +76,10 @@
 </div>
 ###################
 <div class = "quiz">38. Based on Figure 4, as the launch Speed was increased, how did H and R at 3 sec after launch vary?
-<div class = "para" ><table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:67.5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="45"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'> </span></p></td><td style="width:127.6pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center"  style="text-align:center"><i style="mso-bidi-font-style:normal"><u><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>H</span></u></i></p></td><td style="width:155.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><i style="mso-bidi-font-style:normal"><u><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>R</span></u></i></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:67.5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="45"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>F.</span></p></td><td style="width:127.6pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>increased</span></p></td><td style="width:155.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>increased</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:67.5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="45"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>G.</span></p></td><td style="width:127.6pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>increased</span></p></td><td style="width:155.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>decreased</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:67.5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="45"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>H.</span></p></td><td style="width:127.6pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>decreased</span></p></td><td style="width:155.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>increased</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:67.5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="45"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>J.</span></p></td><td style="width:127.6pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>decreased</span></p></td><td style="width:155.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>decreased</span></p></td></tr></table></div>
+<div class = "choice">F. H: increased R: increased</div>
+<div class = "choice">G. H: increased R: decreased</div>
+<div class = "choice">H. H: decreased R: increased</div>
+<div class = "choice">J. H: decreased R: decreased</div>
 </div>
 ###################
 <div class = "quiz">39. Based on Figure 5, if the ball were launched in the absence of air from a height of 3.5 ft at 120 mph and θ= 35°, bow long would the ball most lively be in flight from the moment it was launched to the moment it landed?

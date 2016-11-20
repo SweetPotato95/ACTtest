@@ -1,5 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aluminum water-based paints (AWPs) contain aluminum (Al) flakes that give surfaces a shiny, metallic appearance. If the flakes corrode, a dull coating of aluminum hydroxide forms on them:</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\141.png' width = '286'height = '40'/></div>
@@ -11,7 +10,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The AWP 3 trial was repeated 4 times, but for each trial, the sample, had the same concentration of 1 of 4 corrosion inhibitors (see Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\142.png' width = '1587'height = '1884'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\142.png' width = '529'height = '628'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
@@ -21,10 +20,10 @@
 <br>
 ###################
 <div class = "quiz">6. Based on Table 1, which of the following graphs best shows how the volume of H<sub>2</sub> produced by AWP 2 changed over time?
-<div class = "choice">F. <img src='file:\$$$\resources\2009 April 66F\imgs\143.png' width = '227'height = '233'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2009 April 66F\imgs\144.png' width = '224'height = '239'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2009 April 66F\imgs\145.png' width = '211'height = '232'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2009 April 66F\imgs\146.png' width = '224'height = '235'/></div>
+<div class = "choice">F. <img src='file:\$$$\resources\2009 April 66F\imgs\143.png' width = '117'height = '123'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2009 April 66F\imgs\144.png' width = '114'height = '129'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2009 April 66F\imgs\145.png' width = '111'height = '122'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2009 April 66F\imgs\146.png' width = '114'height = '125'/></div>
 </div>
 ###################
 <div class = "quiz">7. Based on Table 1, if the volume of H<sub>2</sub> produced by Day 10 from the AWP 1 sample had been measured, it would most likely have been:

@@ -1,8 +1,7 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Size exclusion chromatography (SEC) is used to separate the components of a solution of polymer molecules. In SEC a sample solution of polymer molecules is injected into a flow of solvent. The sample is then carried through a column filled with beads that contain microscopic pores (see Figure 1).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\227.png' width = '2259'height = '1215'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\227.png' width = '383'height = '205'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
@@ -18,7 +17,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A sample of the solution was injected into an SEC apparatus. Each fraction was analyzed as it exited the apparatus (see figure 2)..</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\228.png' width = '3117'height = '1179'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\228.png' width = '539'height = '203'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
 
@@ -27,7 +26,7 @@
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Chemists used 3 different methods to synthesize polystyrenes, forming polystyrene mixtures M1, M2, and M3, respectively. Each of M1-M3 was then analyzed as in Experiment 1 (see Figure 3).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\229.png' width = '3297'height = '2446'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\229.png' width = '599'height = '442'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
 

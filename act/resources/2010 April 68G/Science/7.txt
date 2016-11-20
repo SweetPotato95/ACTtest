@@ -1,8 +1,8 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An RCL circuit contains an alternating current (AC) power supply, a resistor having a resistance R, a capacitor having a capacitance C, and an inductor having an inductance L (see Figure l).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\104.png' width = '2079'height = '1329'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\104.png' width = '479'height = '329'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The capacitor and inductor each possess impedance, a type of electrical resistance. The angular frequency of the current, <img src='file:\$$$\resources\2010 April 68G\imgs\105.png' width = '24'height = '24'/>, is a measure of the number of time each second that the current reverses direction.</div>
@@ -10,7 +10,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows, for specific values of C, L, and average voltage, V, how the average current, I, varies with <img src='file:\$$$\resources\2010 April 68G\imgs\106.png' width = '24'height = '24'/> and with R.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\107.png' width = '2454'height = '2640'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\107.png' width = '454'height = '440'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from David Halliday and Robert Resnick, Physics, Part 2, 3rd ed. 1978 by John Wiley and Sons, Inc.</div>
@@ -21,7 +21,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows how <img src='file:\$$$\resources\2010 April 68G\imgs\109.png' width = '24'height = '24'/><sub>0</sub> varies with L and C.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\110.png' width = '2406'height = '2604'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\110.png' width = '406'height = '404'/></div>
 
 <br>
 ###################

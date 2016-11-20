@@ -1,3 +1,4 @@
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the book Life's Matrix: A Biography of Water by Philip Ball (?1999 by Philip Ball).</div>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Every day, every passing second, water is on the move. The rivers flow, the oceans perform their slow and elegant gyrations, the clouds congeal and weep. Each 3,100 years, a volume of water equivalent to all the oceans passes through the atmosphere, carried there by evaporation and removed by precipitation. Yet only a thousandth of 1 percent of the planet's total water resides in the atmosphere at any moment, enough to deposit just one inch of rain if it all fell <font id=37>uniformly</font> throughout the world. This constant overturn of water between the reservoirs on land, in sea, and in sky is called the hydrological cycle, and it is as crucial for life on Earth as is the presence of liquid water in the first place.</div>
@@ -25,13 +26,17 @@
 <br>
 ###################
 <div class = "quiz">31. The main idea of the passage is not only that the presence of water on Earth is crucial for life, but also that water is:
-<div class = "choice">A. supplied to land through precipitation.		B. abundant in a liquid state.</div>
-<div class = "choice">C. constantly in motion.				D. a superb solvent.</div>
+<div class = "choice">A. supplied to land through precipitation.</div>		
+<div class = "choice">B. abundant in a liquid state.</div>
+<div class = "choice">C. constantly in motion.</div>			
+<div class = "choice">D. a superb solvent.</div>
 </div>
 ###################
 <div class = "quiz">32. Which of the following phrases most accurately describes how the hydrological cycle is portrayed in the passage?
-<div class = "choice">F. Intricate and vital		G. Unpredictable and elusive</div>
-<div class = "choice">H. Crucial but undependable	J. Simple but mysterious</div>
+<div class = "choice">F. Intricate and vital</div>	
+<div class = "choice">G. Unpredictable and elusive</div>
+<div class = "choice">H. Crucial but undependable</div>
+<div class = "choice">J. Simple but mysterious</div>
 </div>
 ###################
 <div class = "quiz">33. The passage most strongly supports which of the following inferences about the hydrological cycle?
@@ -42,8 +47,10 @@
 </div>
 ###################
 <div class = "quiz">34. Which of the following is NOT mentioned in the passage as directly resulting from evaporation or condensation?
-<div class = "choice">F. Billows of clouds 			G."Steaming" oceans</div>
-<div class = "choice">H. Blankets of mountain mist		J. Sea ice in the polar seas</div>
+<div class = "choice">F. Billows of clouds </div>		
+<div class = "choice">G."Steaming" oceans</div>
+<div class = "choice">H. Blankets of mountain mist</div>		、
+<div class = "choice">J. Sea ice in the polar seas</div>
 </div>
 ###################
 <div class = "quiz">35. The main purpose of the last paragraph is to:
@@ -54,17 +61,24 @@
 </div>
 ###################
 <div class = "quiz">36. According to the passage, what percent of Earth's total water is present in the atmosphere at any particular moment?
-<div class = "choice">F. Between 1 and 5 percent	G. About 1 percent</div>
-<div class = "choice">H. A tenth of 1 percent		J. A thousandth of 1 percent</div>
+<div class = "choice">F. Between 1 and 5 percent</div>	
+<div class = "choice">G. About 1 percent</div>
+<div class = "choice">H. A tenth of 1 percent</div>	
+<div class = "choice">J. A thousandth of 1 percent</div>
 </div>
 ###################
 <div class = "quiz">37. As it is used in line 9, the word uniformly most nearly means:
-<div class = "choice">A. recurrently.		B. evenly.		C. simply.		D. inconspicuously.</div>
+<div class = "choice">A. recurrently.</div>	
+<div class = "choice">B. evenly.</div>	
+<div class = "choice">C. simply.</div>		
+<div class = "choice">D. inconspicuously.</div>
 </div>
 ###################
 <div class = "quiz">38. According to the passage, the atmosphere acquires most of the water that later falls as rain from which of the following sources?
-<div class = "choice">F. Polar ice sheets 		G. The sea surface</div>
-<div class = "choice">H. Land surfaces in the tropics	J. Freshwater lakes and rivers</div>
+<div class = "choice">F. Polar ice sheets</div>	
+<div class = "choice">G. The sea surface</div>
+<div class = "choice">H. Land surfaces in the tropics</div>
+<div class = "choice">J. Freshwater lakes and rivers</div>
 </div>
 ###################
 <div class = "quiz">39. Based on the passage, which of the following can most reasonably be inferred about air whose humidity has reached the saturation vapor pressure?
@@ -75,6 +89,8 @@
 </div>
 ###################
 <div class = "quiz">40. Based on the passage, the role of water in biogeochemical cycling can best be described as:
-<div class = "choice">F. competitive.		G. peripheral.		H. facilitative.		J. illustrative.</div>
-
+<div class = "choice">F. competitive.</div>	
+<div class = "choice">G. peripheral.</div>	
+<div class = "choice">H. facilitative.</div>	
+<div class = "choice">J. illustrative.</div>
 ###################

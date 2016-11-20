@@ -1,17 +1,17 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ethylene oxide, a widely used industrial chemical, has the structure shown below:</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\98.png' width = '447'height = '249'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\98.png' width = '149'height = '83'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l-3 each show how a property of solutions of, ethylene oxide in H<sub>2</sub>O varies as the concentration of ethylene oxide increases at 1 atmosphere (atm) of pressure. Concentration is given as the percent ethylene oxide by mass in H<sub>2</sub>O (% EO). Figure l shows how density at l0℃ varies with % EO. Figure 2 shows how freezing point varies with % EO. The bubble point is the lowest temperature at which bubbles of gas (in this case, ethylene oxide) form in a solution. Figure 3 shows how bubble point varies with % EO.</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\99.png' width = '2724'height = '1920'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\99.png' width = '424'height = '320'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\100.png' width = '2577'height = '2265'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\100.png' width = '477'height = '365'/></div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\101.png' width = '2676'height = '2304'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\101.png' width = '476'height = '404'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Old Word Industries, The Dow Chemical Company, Shell Chemical Company, Sunoco, Inc, and Equistar Chemicals, LP, Ethyleneoxide (2nd ed.).  1999.</div>

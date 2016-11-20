@@ -1,6 +1,7 @@
-<h1>The following paragraphs may or may not be in the most logical order. Each paragraph is numbered in brackets, and question 45 will ask you to choose where Paragraph 1 should most logically be placed.</h1>
+﻿
+<h1>The Three Sisters</h1>
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Three Sisters</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following paragraphs may or may not be in the most logical order. Each paragraph is numbered in brackets, and question 45 will ask you to choose where Paragraph 1 should most logically be placed.</div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>

@@ -1,3 +1,4 @@
+﻿
 <h1>Therapy on Horseback</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=3>[1] Most people have heard of physical therapy, in which trained therapists help rehabilitate patients <font id=1>who have</font> a physical difficulty. [2] But not many have heard of hippotherapy. [3] It's a physical therapy treatment strategy for humans that requires the aid of a <font id=2>horse, and it's used for physical therapy. </font> [4] The name comes from the Greek word for horse, hippos. </font></div>
@@ -98,7 +99,8 @@ Should the writer make this addition here?
 <div class = "choice">J. No, because the revision detracts from the main focus of the essay.</div>
 </div>
 ###################
-<div class = "quiz">13. A. NO CHANGE
+<div class = "quiz">13. 
+<div class = "choice">A. NO CHANGE</div>
 <div class = "choice">B. For example,</div>
 <div class = "choice">C. Of course,</div>
 <div class = "choice">D. That is,</div>

@@ -1,3 +1,4 @@
+
 <h1>Polaris: Not Always the North Star</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polaris, the star now almost directly over the North Pole, has played <font id=16>a significant</font> role in many mythologies and in the history of navigation. For centuries, sailors and leaders of desert caravans used the North Star to chart their courses. <font id=17>Polaris has been called the Lodestar, the Steering Star, and Stella Maris (the Star of the Sea). </font> <font id=18>Finally, people</font> in ancient India believed it was the Golden Peg that held the universe together. <font id=19>In Scandinavian mythology, Polaris was thought to be the jeweled head of the World Spike-an enormous nail the Norse gods had hammered into the sky so the stars could revolve around it. </font></div>
@@ -91,7 +92,7 @@
 <div class = "choice">A. NO CHANGE</div>
 <div class = "choice">B. now know that</div>
 <div class = "choice">C. now know, that</div>
-D, now, know that
+<div class = "choice">D. now, know that</div>
 </div>
 ###################
 <div class = "quiz">28.

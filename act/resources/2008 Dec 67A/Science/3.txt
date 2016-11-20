@@ -1,21 +1,20 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿***********</div>
-
+﻿
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Pore water is water in the pores, of subsurface material. Pore water chemistry in 2 wetlands—a fen and a bog—was studied during a 1990 summer drought and again the next summer, which had normal rainfall. The primary water supplies for fens and bogs are respectively, ground-water and rainfall. Figure 1 shows the methane (CH<sub>4</sub>) gas concentration in the pore water at various depths in the fen and the bog. Figures 2 and 3 show the pore water conductivity (which is directly proportional to the concentration of dissolved ions) and pH at various depths in the fen and the bog, respectively. Also shown are the locations of the water table, the peat (partially decomposed plant material) layer, and the mineral soil layer.</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\190.png' width = '1746'height = '1350'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\190.png' width = '582'height = '450'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\191.png' width = '3339'height = '1848'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\191.png' width = '513'height = '316'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
 
 <br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\192.png' width = '3264'height = '1812'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\192.png' width = '588'height = '304'/></div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
 

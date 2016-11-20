@@ -1,3 +1,4 @@
+﻿
 <h1>Wild West, White Linens</h1>
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the late 1800s, <font id=46>people who traveled</font> west of the Mississippi River by train meant heading into a region still rough around the edges: The terrain was rugged. The weather was harsh. <font id=47>Rigid were the train's seats. </font> Food was scarce.</div>
@@ -19,7 +20,7 @@
 <div class = "quiz">46.
 <div class = "choice">F. NO CHANGE</div>
 <div class = "choice">G. when people traveled</div>
-H, by traveling
+<div class = "choice">H. by traveling</div>
 <div class = "choice">J. traveling</div>
 </div>
 ###################

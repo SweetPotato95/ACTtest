@@ -1,4 +1,4 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
 
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In some locations, drainage water from agricultural areas contains selenium (Se), a substance that can be harmful to wildlife. Se can be removed from water by plant uptake or by adsorption onto soil and organic particles. Three studies were done to examine Se removal by humanmade wetlands.</div>
 
@@ -15,7 +15,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Every week from January 1998 through December 2000, the outflow water from each wetland was sampled and analyzed for Se. The average annual Se concentration of the outflow was determined for each year (see Figure l).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\197.png' width = '1974'height = '1680'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\197.png' width = '658'height = '560'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 3</div>
@@ -23,7 +23,7 @@
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In December 2000, samples of each of the following materials were collected from several locations in each wetland: fallen plant litter (dead but not decayed plant matter), organic detritus (decayed organic matter on top of the soil), and the top 5 cm of the soil. The samples of each material were analyzed for Se, and their average Se concentration, in milligrams per kilogram dry weight. (mg/kg dw), was determined (see Figure 2).</div>
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\198.png' width = '1983'height = '1911'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\198.png' width = '661'height = '637'/></div>
 
 <br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table and figures adapted from S. Gao et al., "Selenium Removal and Mass Balance in a Constructed Flow-Through Wetland System." 2003 by the American Society of Agronomy, the Crop Science Society of America, and the Soil Science Society of America.</div>

@@ -22,7 +22,8 @@
 <div class = "choice">A. -6</div>
 <div class = "choice">B. -4</div>
 <div class = "choice">C. 4</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\2.png' width = '35'height = '61'/>		E. 19</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\2.png' width = '35'height = '61'/></div>	
+<div class = "choice">E. 19</div>
 </div>
 ###################
 <div class = "quiz">4. A museum offers a 2-hour guided group tour. For groups with fewer than 25 people the cost is $9.25 per person; for groups with 25 people or more the cost is $8.50 per person. The 27 people in the 9:00 a.m. tour group each paid $9.25 in advance. What is the total refund that the museum owes the 9:00 a.m. group?
@@ -74,7 +75,7 @@
 </div>
 ###################
 <div class = "quiz">10. In the figure below, A, D, C, and E are collinear.<img src='file:\$$$\resources\2009 April 66F\imgs\15.png' width = '41'height = '32'/>, <img src='file:\$$$\resources\2009 April 66F\imgs\16.png' width = '38'height = '32'/>, and <img src='file:\$$$\resources\2009 April 66F\imgs\17.png' width = '38'height = '34'/> are all the same length, and the angle measure of ∠ABD is as marked. What is the degree measure of ∠BCE?
-<img src='file:\$$$\resources\2009 April 66F\imgs\18.png' width = '1372'height = '512'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\18.png' width = '686'height = '256'/>
 <div class = "choice">F. 50º</div>
 <div class = "choice">G. 100º</div>
 <div class = "choice">H. 105º</div>
@@ -133,7 +134,7 @@ I. Addition		II. Subtraction		III. Division
 </div>
 ###################
 <div class = "quiz">17. One of the following is an equation of the linear relation shown in the standard (x, y) coordinate plane below. Which equation is it?
-<img src='file:\$$$\resources\2009 April 66F\imgs\22.png' width = '638'height = '952'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\22.png' width = '319'height = '476'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\23.png' width = '65'height = '32'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\24.png' width = '65'height = '32'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\25.png' width = '98'height = '32'/></div>
@@ -159,7 +160,7 @@ I. Addition		II. Subtraction		III. Division
 </div>
 ###################
 <div class = "quiz">20. A ramp for loading trucks is 13 feet long and covers 32 feet along the level ground, as shown below. How many feet high is the highest point on the ramp?
-<img src='file:\$$$\resources\2009 April 66F\imgs\38.png' width = '1354'height = '590'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\38.png' width = '677'height = '295'/>
 <div class = "choice">F. 1</div>
 <div class = "choice">G. 2</div>
 <div class = "choice">H. 4</div>
@@ -176,6 +177,11 @@ I. Addition		II. Subtraction		III. Division
 </div>
 ###################
 <div class = "quiz">22. If<img src='file:\$$$\resources\2009 April 66F\imgs\46.png' width = '98'height = '32'/>, and<img src='file:\$$$\resources\2009 April 66F\imgs\47.png' width = '94'height = '32'/>, then<img src='file:\$$$\resources\2009 April 66F\imgs\48.png' width = '38'height = '26'/>?
+<div class = "choice">F. 60</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 30</div>
+<div class = "choice">K. 40</div>
 </div>
 ###################
 <div class = "quiz">23. When <img src='file:\$$$\resources\2009 April 66F\imgs\49.png' width = '87'height = '42'/> is written in the form<img src='file:\$$$\resources\2009 April 66F\imgs\50.png' width = '113'height = '32'/>, where a, b, and c are integers,<img src='file:\$$$\resources\2009 April 66F\imgs\51.png' width = '101'height = '27'/>?
@@ -187,7 +193,7 @@ I. Addition		II. Subtraction		III. Division
 </div>
 ###################
 <div class = "quiz">24. What is the area, in square feet, of the figure below?
-<img src='file:\$$$\resources\2009 April 66F\imgs\52.png' width = '1284'height = '690'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\52.png' width = '642'height = '345'/>
 <div class = "choice">F. 60</div>
 <div class = "choice">G. 80</div>
 <div class = "choice">H. 275</div>
@@ -263,7 +269,7 @@ I. Addition		II. Subtraction		III. Division
 ###################
 <div class = "quiz">33. Use the following information to answer questions 33—35.
 A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
-<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '850'height = '606'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
 What fraction of the students responded that they had spent less than 3 hours studying?
 <div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\65.png' width = '42'height = '61'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\66.png' width = '22'height = '61'/></div>
@@ -274,7 +280,7 @@ What fraction of the students responded that they had spent less than 3 hours st
 ###################
 <div class = "quiz">34. Use the following information to answer questions 33—35.
 A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
-<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '850'height = '606'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
 The teacher decides to show the data in a circle graph (pie chart). What should be the measure of the central angle of the sector for 3 hours?
 <div class = "choice">F. 18º</div>
 <div class = "choice">G. 20º</div>
@@ -285,7 +291,7 @@ The teacher decides to show the data in a circle graph (pie chart). What should 
 ###################
 <div class = "quiz">35. Use the following information to answer questions 33—35.
 A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
-<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '850'height = '606'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
 To the nearest tenth of an hour, what is the average number of hours for the 20 survey responses?
 <div class = "choice">A. 2.0</div>
 <div class = "choice">B. 2.1</div>
@@ -303,7 +309,7 @@ To the nearest tenth of an hour, what is the average number of hours for the 20 
 </div>
 ###################
 <div class = "quiz">37. The bottom of the basket of a hot-air balloon is parallel to the level ground. One taut tether line 144 feet long is attached to the center of the bottom of the basket and is anchored to the ground at an angle of 72°, as shown in the figure below. Which of the following expressions gives the distance, in feet, from the center of the bottom of the basket to the ground?
-<img src='file:\$$$\resources\2009 April 66F\imgs\76.png' width = '330'height = '556'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\76.png' width = '165'height = '278'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\77.png' width = '74'height = '61'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\78.png' width = '72'height = '61'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\79.png' width = '106'height = '27'/></div>
@@ -372,7 +378,7 @@ For the equation above, which of the following values of x gives the least value
 </div>
 ###################
 <div class = "quiz">45. A rocket lifted off from a launch pad and traveled .vertically 30 kilometers, then traveled 40 kilometers at .30° from the vertical, and then traveled 100 kilometers at 45° from the vertical, as shown in the figure below. At that point, the rocket was how many kilometers above the height of the launch pad?
-<img src='file:\$$$\resources\2009 April 66F\imgs\93.png' width = '754'height = '862'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\93.png' width = '377'height = '431'/>
 <div class = "choice">A. 100</div>
 <div class = "choice">B. 170</div>
 <div class = "choice">C. 190</div>
@@ -389,7 +395,7 @@ For the equation above, which of the following values of x gives the least value
 </div>
 ###################
 <div class = "quiz">47. In the standard (x, y) coordinate plane below, 1 side of a rectangle, is on the x-axis, and the vertices of the opposite side of the rectangle are on the graph of the parabola<img src='file:\$$$\resources\2009 April 66F\imgs\97.png' width = '106'height = '36'/>. Let a represent any value of x such that<img src='file:\$$$\resources\2009 April 66F\imgs\98.png' width = '101'height = '36'/>. Which of the following is an expression in terms of a for the area, in square coordinate units, of any such rectangle?
-<img src='file:\$$$\resources\2009 April 66F\imgs\99.png' width = '758'height = '990'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\99.png' width = '199'height = '255'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\100.png' width = '107'height = '32'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\101.png' width = '97'height = '32'/></div>
 <div class = "choice">C. <img src='file:\$$$\resources\2009 April 66F\imgs\102.png' width = '140'height = '32'/></div>
@@ -447,7 +453,7 @@ The assistant manager recalls that produce department sales increased at a very 
 </div>
 ###################
 <div class = "quiz">53. A trigonometric function with equation<img src='file:\$$$\resources\2009 April 66F\imgs\111.png' width = '158'height = '38'/>, where a, b, and c are real numbers, is graphed in the standard (x, y) coordinate plane below. The period of this function <img src='file:\$$$\resources\2009 April 66F\imgs\112.png' width = '55'height = '38'/> is the smallest positive number p such that <img src='file:\$$$\resources\2009 April 66F\imgs\113.png' width = '162'height = '38'/> for every real number x. One of the following is the period of this function. Which one is it?
-<img src='file:\$$$\resources\2009 April 66F\imgs\114.png' width = '874'height = '906'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\114.png' width = '227'height = '233'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\115.png' width = '24'height = '61'/></div>
 <div class = "choice">B. π</div>
 <div class = "choice">C. 2π</div>
@@ -456,7 +462,7 @@ The assistant manager recalls that produce department sales increased at a very 
 </div>
 ###################
 <div class = "quiz">54. The building below casts a shadow 24 yards long, and the angle of elevation from the tip of the shadow to the top of the building has a sine of<img src='file:\$$$\resources\2009 April 66F\imgs\116.png' width = '22'height = '61'/>.What is the height of the building in yards?
-<img src='file:\$$$\resources\2009 April 66F\imgs\117.png' width = '998'height = '988'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\117.png' width = '259'height = '254'/>
 <div class = "choice">F. 14.4</div>
 <div class = "choice">G. 18.0</div>
 <div class = "choice">H. 19.2</div>
@@ -473,7 +479,7 @@ The assistant manager recalls that produce department sales increased at a very 
 </div>
 ###################
 <div class = "quiz">56. The graph below shows the distance Malika is from a motion detector for a period of 10 seconds. A certain order of 3 of the following 5 actions describes Malika's movement in relation to the position of the motion detector. Which order is it?
-<img src='file:\$$$\resources\2009 April 66F\imgs\123.png' width = '938'height = '804'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\123.png' width = '469'height = '402'/>
 I. Stands still for 5 seconds	II. Walks away at 4 feet per second 	III. Walks toward at 4 feet per second
 IV. Walks away at 2 feet per second 	V. Walks toward at 2 feet per second
 <div class = "choice">F. I, II, V</div>
@@ -484,7 +490,7 @@ IV. Walks away at 2 feet per second 	V. Walks toward at 2 feet per second
 </div>
 ###################
 <div class = "quiz">57. As shown in the figure below, a clock has a minute hand that measures 5 cm from its tip to the center of the clock. To the nearest centimeter, what is the distance traveled by the tip of the minute hand between 2:10 p.m. and 5:30 p.m. ?
-<img src='file:\$$$\resources\2009 April 66F\imgs\124.png' width = '1308'height = '598'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\124.png' width = '654'height = '299'/>
 <div class = "choice">A. 31</div>
 <div class = "choice">B. 68</div>
 <div class = "choice">C. 101</div>
@@ -509,7 +515,7 @@ IV. Walks away at 2 feet per second 	V. Walks toward at 2 feet per second
 </div>
 ###################
 <div class = "quiz">60. A cube with edges 4 cm long is inscribed in a sphere, as shown below. What is the radius of the sphere, in centimeters?
-<img src='file:\$$$\resources\2009 April 66F\imgs\134.png' width = '850'height = '850'/>
+<img src='file:\$$$\resources\2009 April 66F\imgs\134.png' width = '425'height = '425'/>
 <div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\135.png' width = '46'height = '36'/></div>
 <div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\136.png' width = '46'height = '34'/></div>
 <div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\137.png' width = '46'height = '36'/></div>

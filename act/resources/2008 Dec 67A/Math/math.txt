@@ -17,7 +17,7 @@
 </div>
 ###################
 <div class = "quiz">3. Let <img src='file:\$$$\resources\2008 Dec 67A\imgs\11.png' width = '145'height = '63'/> What is the value of<img src='file:\$$$\resources\2008 Dec 67A\imgs\12.png' width = '64'height = '38'/>?
-A． 112
+<div class = "choice">A．112</div>
 <div class = "choice">B. 28</div>
 <div class = "choice">C. 12</div>
 <div class = "choice">D. 10</div>
@@ -25,7 +25,7 @@ A． 112
 </div>
 ###################
 <div class = "quiz">4. The 2 graphs shown below represent a car trip. The graph on the left shows the total distance as a function of time. The graph on the right shows the total number of gallons of gasoline used as a function of the total distance. Approximately how many gallons of gasoline, were used during the first 2 hours of the trip?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\13.png' width = '1676'height = '786'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\13.png' width = '838'height = '393'/>
 <div class = "choice">F. 2</div>
 <div class = "choice">G. 4</div>
 <div class = "choice">H. 8</div>
@@ -58,7 +58,7 @@ A． 112
 </div>
 ###################
 <div class = "quiz">8. Five points are shown on each of the 2 lines in the figure below. Point O is the intersection point of the 2 lines. Which of the following rays does NOT contain point O？
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\20.png' width = '692'height = '310'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\20.png' width = '346'height = '155'/>
 <div class = "choice">F.<img src='file:\$$$\resources\2008 Dec 67A\imgs\15.png' width = '36'height = '36'/></div>
 <div class = "choice">G.<img src='file:\$$$\resources\2008 Dec 67A\imgs\16.png' width = '38'height = '36'/></div>
 <div class = "choice">H.<img src='file:\$$$\resources\2008 Dec 67A\imgs\17.png' width = '38'height = '36'/></div>
@@ -99,7 +99,7 @@ A． 112
 </div>
 ###################
 <div class = "quiz">13. The vertices, of a rectangle are (-1-2), (4,-2), to, and (-1,3). When the rectangle is graphed in the standard (x. y) coordinate plane below, what percent of the total area of the rectangle lies in Quadrant III?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\28.png' width = '1064'height = '968'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\28.png' width = '532'height = '484'/>
 <div class = "choice">A. 8%</div>
 <div class = "choice">B. 12%</div>
 <div class = "choice">C. 12.5%</div>
@@ -231,7 +231,7 @@ A． 112
 </div>
 ###################
 <div class = "quiz">29. A machine part is diagrammed in the figure below with the dimensions given in inches. If the centers of the circles lie on the same line parallel to the bottom of the part, what, is the distance, in inches, between the centers of the 2 holes in the machine part?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\61.png' width = '1298'height = '604'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\61.png' width = '649'height = '302'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2008 Dec 67A\imgs\62.png' width = '45'height = '61'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2008 Dec 67A\imgs\63.png' width = '45'height = '61'/></div>
 <div class = "choice">C. 5</div>
@@ -240,7 +240,7 @@ A． 112
 </div>
 ###################
 <div class = "quiz">30. A father and his son are standing near to each other on level ground late one afternoon so that their shadows end at the same place. The father is 75 inches tall, the son is 50 inches tall, and the father's shadow is 120 inches long, as shown in the figure below. Which of the following is closest, to the distance, d inches, between the father and his son?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\66.png' width = '716'height = '504'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\66.png' width = '358'height = '252'/>
 <div class = "choice">F. 25</div>
 <div class = "choice">G. 40</div>
 <div class = "choice">H. 60</div>
@@ -284,7 +284,7 @@ Ken baked, frosted, and decorated a rectangular cake for the last Math Club meet
 </div>
 ###################
 <div class = "quiz">35. Ken baked, frosted, and decorated a rectangular cake for the last Math Club meeting. The cake was 3 inches high, 12 inches wide, and 16 inches long. He centered the cake on a piece of cardboard whose Rectangular top surface had been covered with aluminum foil, as shown in the figure, below.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '1054'height = '488'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '527'height = '244'/>
 Ken used a piece of cardboard large enough to allow the cardboard to extend 2 inches beyond the cake on all sides. What is the area, in square inches, of the aluminum foil that is exposed on the top surface of the cardboard?
 <div class = "choice">A. 60</div>
 <div class = "choice">B. 64</div>
@@ -294,7 +294,7 @@ Ken used a piece of cardboard large enough to allow the cardboard to extend 2 in
 </div>
 ###################
 <div class = "quiz">36. Ken baked, frosted, and decorated a rectangular cake for the last Math Club meeting. The cake was 3 inches high, 12 inches wide, and 16 inches long. He centered the cake on a piece of cardboard whose Rectangular top surface had been covered with aluminum foil, as shown in the figure, below.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '1054'height = '488'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '527'height = '244'/>
 At the Math Club meeting, Principal Gonzales cut die entire cake into pieces. Each piece is 2 inches wide, 2 inches long, and 3 inches high. What is the number of pieces Principal Gonzales cut the cake into?
 <div class = "choice">F. 16</div>
 <div class = "choice">G. 20</div>
@@ -304,7 +304,7 @@ At the Math Club meeting, Principal Gonzales cut die entire cake into pieces. Ea
 </div>
 ###################
 <div class = "quiz">37. Ken baked, frosted, and decorated a rectangular cake for the last Math Club meeting. The cake was 3 inches high, 12 inches wide, and 16 inches long. He centered the cake on a piece of cardboard whose Rectangular top surface had been covered with aluminum foil, as shown in the figure, below.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '1054'height = '488'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\76.png' width = '527'height = '244'/>
 The Math Club will pay Ken $5.00 for preparing the cake and will also pay him for the cost of the cake mix at $1.73, the frosting mix at $2.67, and the sales tax of 5% on these 2 items. What is the total amount the Math Club will pay Ken?
 <div class = "choice">A. $4.67</div>
 <div class = "choice">B. $9.40</div>
@@ -314,7 +314,7 @@ The Math Club will pay Ken $5.00 for preparing the cake and will also pay him fo
 </div>
 ###################
 <div class = "quiz">38. Points A and B lie on the circle below, where central angle ∠ACB measures 110°. What is the measure of ∠ABC?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\77.png' width = '588'height = '584'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\77.png' width = '294'height = '292'/>
 <div class = "choice">F. 35°</div>
 <div class = "choice">G. 40°</div>
 <div class = "choice">H. 45°</div>
@@ -324,7 +324,7 @@ The Math Club will pay Ken $5.00 for preparing the cake and will also pay him fo
 ###################
 <div class = "quiz">39. The graph below shows Allison's living expenses, which totaled $600, during September of her freshman year in college.
 Allison's September Living Expenses
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\78.png' width = '1492'height = '1076'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\78.png' width = '376'height = '268'/>
 Trying to limit her spending, Allison decides that in October she could spend $60 less for food and $40 less for clothing. If she can accomplish this and the rest of her expenses are the same ad they were in September, approximately what percent of Allison's October expenses, will be for entertainment?
 <div class = "choice">A. 5%</div>
 <div class = "choice">B. 8%</div>
@@ -358,7 +358,7 @@ Trying to limit her spending, Allison decides that in October she could spend $6
 </div>
 ###################
 <div class = "quiz">43. The diagram of the roof for a new storage shed is shown below. Some lengths are given in meters, but the length of the vertical support, <img src='file:\$$$\resources\2008 Dec 67A\imgs\81.png' width = '38'height = '36'/>, has been left off. Which of the following expressions gives the length, in meters, of<img src='file:\$$$\resources\2008 Dec 67A\imgs\82.png' width = '38'height = '36'/>?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\83.png' width = '748'height = '332'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\83.png' width = '374'height = '166'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2008 Dec 67A\imgs\84.png' width = '91'height = '36'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2008 Dec 67A\imgs\85.png' width = '93'height = '36'/></div>
 <div class = "choice">C.<img src='file:\$$$\resources\2008 Dec 67A\imgs\86.png' width = '94'height = '36'/></div>
@@ -366,18 +366,18 @@ Trying to limit her spending, Allison decides that in October she could spend $6
 <div class = "choice">E. <img src='file:\$$$\resources\2008 Dec 67A\imgs\88.png' width = '72'height = '61'/></div>
 </div>
 ###################
-<div class = "quiz">44. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0<a<b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '1294'height = '968'/>
+<div class = "quiz">44. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0&lt;a&lt;b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '327'height = '244'/>
 What is the perimeter of pentagon AZBCY, in units?
-F:<img src='file:\$$$\resources\2008 Dec 67A\imgs\91.png' width = '94'height = '36'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2008 Dec 67A\imgs\91.png' width = '94'height = '36'/></div>
 <div class = "choice">G.<img src='file:\$$$\resources\2008 Dec 67A\imgs\92.png' width = '107'height = '36'/></div>
 <div class = "choice">H.<img src='file:\$$$\resources\2008 Dec 67A\imgs\93.png' width = '103'height = '36'/></div>
 <div class = "choice">J.<img src='file:\$$$\resources\2008 Dec 67A\imgs\94.png' width = '120'height = '36'/></div>
 <div class = "choice">K. <img src='file:\$$$\resources\2008 Dec 67A\imgs\95.png' width = '113'height = '36'/></div>
 </div>
 ###################
-<div class = "quiz">45. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0<a<b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '1294'height = '968'/>
+<div class = "quiz">45. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0&lt;a&lt;b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '327'height = '244'/>
 For all values of a and b such that 0 <a<b, which of the following lists the angles ∠XCY, ∠CAZ, and ∠CBZ in order of their measures from least to greatest?
 <div class = "choice">A. ∠CBZ, ∠XCY, ∠CAZ</div>
 <div class = "choice">B. ∠CBZ, ∠CAZ, ∠XCY</div>
@@ -386,8 +386,8 @@ For all values of a and b such that 0 <a<b, which of the following lists the ang
 <div class = "choice">E. ∠CAZ, ∠XCY, ∠CBZ</div>
 </div>
 ###################
-<div class = "quiz">46. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0<a<b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '1294'height = '968'/>
+<div class = "quiz">46. In the figure below, (ACB is a right triangle with legs of length a units and b units, where 0&lt;a&lt;b, and hypotenuse of length c units. The triangles (YCA, (ZBA, and (XCB are equilateral. The area of an equilateral triangle with sides x units long is <img src='file:\$$$\resources\2008 Dec 67A\imgs\89.png' width = '60'height = '65'/> square units.
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\90.png' width = '327'height = '244'/>
 If<img src='file:\$$$\resources\2008 Dec 67A\imgs\96.png' width = '64'height = '36'/>, what is tan(∠ABC)?
 <div class = "choice">F. 2</div>
 <div class = "choice">G.<img src='file:\$$$\resources\2008 Dec 67A\imgs\97.png' width = '22'height = '61'/></div>
@@ -448,7 +448,7 @@ If<img src='file:\$$$\resources\2008 Dec 67A\imgs\96.png' width = '64'height = '
 <div class = "quiz">53. Which of the following trigonometric functions is equivalent to the function<img src='file:\$$$\resources\2008 Dec 67A\imgs\121.png' width = '162'height = '38'/>?
 (Note:<img src='file:\$$$\resources\2008 Dec 67A\imgs\122.png' width = '120'height = '61'/>)
 <div class = "choice">A.<img src='file:\$$$\resources\2008 Dec 67A\imgs\123.png' width = '122'height = '38'/></div>
-B．<img src='file:\$$$\resources\2008 Dec 67A\imgs\124.png' width = '120'height = '38'/>
+<div class = "choice">B．<img src='file:\$$$\resources\2008 Dec 67A\imgs\124.png' width = '120'height = '38'/></div>
 <div class = "choice">C. <img src='file:\$$$\resources\2008 Dec 67A\imgs\125.png' width = '120'height = '38'/></div>
 <div class = "choice">D.<img src='file:\$$$\resources\2008 Dec 67A\imgs\126.png' width = '117'height = '38'/></div>
 <div class = "choice">E. <img src='file:\$$$\resources\2008 Dec 67A\imgs\127.png' width = '122'height = '38'/></div>
@@ -481,7 +481,7 @@ B．<img src='file:\$$$\resources\2008 Dec 67A\imgs\124.png' width = '120'height
 </div>
 ###################
 <div class = "quiz">57. Amal's teacher assigned each student in class to draw a . trapezoid using a segment of the line y = x as one side. The interior of Amal's trapezoid is shown shaded in the standard (x, y) coordinate plane below. The equations of the lines that intersect to form the trapezoid are also shown.
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\133.png' width = '1368'height = '622'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\133.png' width = '684'height = '311'/>
 The next part of the assignment was to reflect the trapezoid across the x-axis and write a set of inequalities defining the reflected trapezoid and its interior. Which of the following sets of inequalities should Amal have written?
 <div class = "choice">A.<img src='file:\$$$\resources\2008 Dec 67A\imgs\134.png' width = '204'height = '36'/></div>
 <div class = "choice">B. <img src='file:\$$$\resources\2008 Dec 67A\imgs\135.png' width = '243'height = '36'/></div>
@@ -491,7 +491,7 @@ The next part of the assignment was to reflect the trapezoid across the x-axis a
 </div>
 ###################
 <div class = "quiz">58. In the standard (x, y) coordinate plane below, an angle is shown whose vertex is the origin. One side of this angle with measure θ passes through (4,-3), and the other side includes the positive a-axis. What is the cosine of θ?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\139.png' width = '980'height = '984'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\139.png' width = '240'height = '242'/>
 <div class = "choice">F.<img src='file:\$$$\resources\2008 Dec 67A\imgs\140.png' width = '36'height = '61'/></div>
 <div class = "choice">G.<img src='file:\$$$\resources\2008 Dec 67A\imgs\141.png' width = '36'height = '61'/></div>
 <div class = "choice">H.<img src='file:\$$$\resources\2008 Dec 67A\imgs\142.png' width = '36'height = '61'/></div>
@@ -500,7 +500,7 @@ The next part of the assignment was to reflect the trapezoid across the x-axis a
 </div>
 ###################
 <div class = "quiz">59. Triangle (ABC has vertices A(8,2), B(0,6), and C(-3,2). Point C can be moved along a certain line, with points A and B remaining stationary, and the area of (ABC will not change. What is the slope of, that line?
-<img src='file:\$$$\resources\2008 Dec 67A\imgs\145.png' width = '1016'height = '796'/>
+<img src='file:\$$$\resources\2008 Dec 67A\imgs\145.png' width = '258'height = '208'/>
 <div class = "choice">A.<img src='file:\$$$\resources\2008 Dec 67A\imgs\146.png' width = '36'height = '61'/></div>
 <div class = "choice">B.<img src='file:\$$$\resources\2008 Dec 67A\imgs\147.png' width = '36'height = '61'/></div>
 <div class = "choice">C. 0</div>
