@@ -96,18 +96,21 @@ public class Login extends JFrame implements ActionListener
 	public void init(){
 		System.out.println("now in login");
 		this.setTitle("ACT Practice");
-		this.setSize(300, 300);
-		this.setLayout(new GridBagLayout());
+		this.setSize(500, 340);
+		this.setLayout(new FlowLayout());
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		ImageIcon image = new ImageIcon("resources\\lib\\icon.png");
-		image.setImage(image.getImage().getScaledInstance(200,70,Image.SCALE_DEFAULT)); 
+		ImageIcon image = new ImageIcon("resources\\lib\\erweima.jpg");
+		image.setImage(image.getImage().getScaledInstance(300,300,Image.SCALE_DEFAULT)); 
 		
 		JLabel jl1 = new JLabel();
 		jl1.setIcon(image);
+		jl1.setSize(300,300);
+		jl1.setVisible(true);
+		JPanel jp = new JPanel();
+		jp.add(jl1);
 		mainpanel = new JPanel();
 		mainpanel.setLayout(new BorderLayout());
-		mainpanel.add(jl1, BorderLayout.PAGE_START);
 		toppanel = new JPanel();
 		mainpanel.add(toppanel,BorderLayout.CENTER);
 		toppanel.setLayout(new GridLayout(5,2));
@@ -126,6 +129,8 @@ public class Login extends JFrame implements ActionListener
 		toppanel.add(username);
 		toppanel.add(pwd);
 		toppanel.add(password);
+		JLabel at = new JLabel("关注左侧公众号获取登录密码");
+		toppanel.add(at);
 		
 		login_bt = new JButton("Go");
 		login_bt.addActionListener(this);
@@ -133,6 +138,7 @@ public class Login extends JFrame implements ActionListener
 		exit_bt.addActionListener(this);
 		bottompanel.add(login_bt);
 		bottompanel.add(exit_bt);
+		this.add(jl1);
 		this.add(mainpanel);
 	}
 	@Override
@@ -149,7 +155,7 @@ public class Login extends JFrame implements ActionListener
 				return;
 			}
 			this.dispose();
-			welcome wl = new welcome("resources\\lib\\7.gif",3000);
+			welcome wl = new welcome("resources\\lib\\ad.png",8000);
 			new centerShow(wl);
 			wl.setVisible(true);
 			wl.addWindowListener(new WindowAdapter(){
