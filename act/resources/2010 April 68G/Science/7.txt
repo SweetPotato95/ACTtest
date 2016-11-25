@@ -1,0 +1,63 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An RCL circuit contains an alternating current (AC) power supply, a resistor having a resistance R, a capacitor having a capacitance C, and an inductor having an inductance L (see Figure l).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\104.png' width = '479'height = '329'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The capacitor and inductor each possess impedance, a type of electrical resistance. The angular frequency of the current, <img src='file:\$$$\resources\2010 April 68G\imgs\105.png' width = '24'height = '24'/>, is a measure of the number of time each second that the current reverses direction.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows, for specific values of C, L, and average voltage, V, how the average current, I, varies with <img src='file:\$$$\resources\2010 April 68G\imgs\106.png' width = '24'height = '24'/> and with R.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\107.png' width = '454'height = '440'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from David Halliday and Robert Resnick, Physics, Part 2, 3rd ed. 1978 by John Wiley and Sons, Inc.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For a given R, the peak average current, I<sub>m</sub><sub>a</sub><sub>x</sub>, occurs at the resonant angular frequency, <img src='file:\$$$\resources\2010 April 68G\imgs\108.png' width = '24'height = '24'/><sub>0</sub>.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows how <img src='file:\$$$\resources\2010 April 68G\imgs\109.png' width = '24'height = '24'/><sub>0</sub> varies with L and C.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\110.png' width = '406'height = '404'/></div>
+
+<br>
+###################
+<div class = "quiz">36. What is the resonant angular frequency of the RCL circuit for the conditions given in Figure 2 ?
+<div class = "choice">F. 0.90×l0<sup>7</sup> radians/sec</div>
+<div class = "choice">G. 0.95×10<sup>7</sup> radians/sec</div>
+<div class = "choice">H. 1.00×10<sup>7</sup> radians/sec</div>
+<div class = "choice">J. l.05×10<sup>7</sup> radians/sec</div>
+</div>
+###################
+<div class = "quiz">37. According to Figure 3, for C =1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, as L increases, <img src='file:\$$$\resources\2010 April 68G\imgs\111.png' width = '24'height = '24'/><sub>0</sub>:
+<div class = "choice">A. increases only.</div>
+<div class = "choice">B. decreases only.</div>
+<div class = "choice">C. varies, but with no general trend.</div>
+<div class = "choice">D. remains the same.</div>
+</div>
+###################
+<div class = "quiz">38. For the conditions specified in Figure 2 and R= 30 ohms, the resistor will generate the greatest amount of heat when <img src='file:\$$$\resources\2010 April 68G\imgs\112.png' width = '24'height = '24'/> is closest to which of the following values?
+<div class = "choice">F. 0.90×l0<sup>7</sup> radians/sec</div>
+<div class = "choice">G. 0.95×l0<sup>7</sup> radians/sec</div>
+<div class = "choice">H. 1.00×l0<sup>7</sup> radians/sec</div>
+<div class = "choice">J. 1.05×l0<sup>7</sup> radians/sec</div>
+</div>
+###################
+<div class = "quiz">39. According go Figure 2, does<img src='file:\$$$\resources\2010 April 68G\imgs\113.png' width = '24'height = '24'/><sub>0</sub> vary with R ?
+<div class = "choice">A. Yes; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\114.png' width = '24'height = '24'/><sub>0</sub> decreases.</div>
+<div class = "choice">B. Yes; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\115.png' width = '24'height = '24'/><sub>0</sub> remains the same.</div>
+<div class = "choice">C. No; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\116.png' width = '24'height = '24'/><sub>0</sub> increases.</div>
+<div class = "choice">D. No; as R in creases, <img src='file:\$$$\resources\2010 April 68G\imgs\117.png' width = '24'height = '24'/><sub>0</sub> remains the same.</div>
+</div>
+###################
+<div class = "quiz">40. For a given L, what is the correct ranking of the values of C in Figure 3, from the C associated with the lowest <img src='file:\$$$\resources\2010 April 68G\imgs\118.png' width = '24'height = '24'/><sub>0</sub> to the C associated with the highest <img src='file:\$$$\resources\2010 April 68G\imgs\119.png' width = '24'height = '24'/><sub>0</sub>?
+<div class = "choice">F. 1.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
+<div class = "choice">G. 1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
+<div class = "choice">H. 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup><sup> </sup>farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 1.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
+<div class = "choice">J. 3.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
+<br>
+</div>
+###################

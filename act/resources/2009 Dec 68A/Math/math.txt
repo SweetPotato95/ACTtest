@@ -1,0 +1,513 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1.<img src='file:\$$$\resources\2009 Dec 68A\imgs\0.png' width = '140'height = '38'/>?
+<div class = "choice">A. -6</div>
+<div class = "choice">B. -3</div>
+<div class = "choice">C. -2</div>
+<div class = "choice">D. 0</div>
+<div class = "choice">E. 6</div>
+</div>
+###################
+<div class = "quiz">2. When <img src='file:\$$$\resources\2009 Dec 68A\imgs\1.png' width = '94'height = '32'/> and y = 3, which of the following is the value of x?
+<div class = "choice">F. 2</div>
+<div class = "choice">G. 1</div>
+<div class = "choice">H. -1</div>
+<div class = "choice">J. -2</div>
+<div class = "choice">K. -5</div>
+</div>
+###################
+<div class = "quiz">3. To attend an annual banquet, members pay $16 per ticket while nonmembers pay $22 per ticket. What is the total amount, in dollars, from the sale of 80 member tickets and n nonmember tickets?
+<div class = "choice">A. <img src='file:\$$$\resources\2009 Dec 68A\imgs\2.png' width = '126'height = '38'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\3.png' width = '106'height = '38'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\4.png' width = '103'height = '38'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\5.png' width = '103'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\6.png' width = '61'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">4. What is 150% of 50?
+<div class = "choice">F. 51.5</div>
+<div class = "choice">G. 57.5</div>
+<div class = "choice">H. 65</div>
+<div class = "choice">J. 75</div>
+<div class = "choice">K. 125</div>
+</div>
+###################
+<div class = "quiz">5. A box contains several marbles. Bill draws a marble at random from the box, notes that it is blue, and places the marble back in the box. Then Aiko draws a marble at random from the box, notes that her marble is blue, and places it back in the box. Which of the following is necessarily true?
+<div class = "choice">A. Bill and Aiko drew the same marble.</div>
+<div class = "choice">B. The box contains marbles of at least 2 different colors.</div>
+<div class = "choice">C. The box contains only blue marbles.</div>
+<div class = "choice">D. The box contains at most 2 blue marbles.</div>
+<div class = "choice">E. The box contains at least 1 blue marble.</div>
+</div>
+###################
+<div class = "quiz">6. A 21-foot-long board is cut into 3 pieces such that the first piece is twice as long as the second piece and the second piece is twice as long as the third piece. How many feet in length is the longest of the 3 pieces?
+(Note: Ignore the width of the saw cuts.)
+<div class = "choice">F. 7</div>
+<div class = "choice">G. 9</div>
+<div class = "choice">H. 10</div>
+<div class = "choice">J. 12</div>
+<div class = "choice">K. 14</div>
+</div>
+###################
+<div class = "quiz">7. What is the perimeter, in centimeters, of a rectangle with length 8 cm and width 3 cm?
+<div class = "choice">A. 11</div>
+<div class = "choice">B. 16</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 48</div>
+</div>
+###################
+<div class = "quiz">8. In the figure below, <img src='file:\$$$\resources\2009 Dec 68A\imgs\7.png' width = '38'height = '32'/>and <img src='file:\$$$\resources\2009 Dec 68A\imgs\8.png' width = '38'height = '32'/> intersect at C. What is the measure of ∠E?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\9.png' width = '799'height = '301'/>
+<div class = "choice">F. 30º</div>
+<div class = "choice">G. 35º</div>
+<div class = "choice">H. 40º</div>
+<div class = "choice">J. 60º</div>
+<div class = "choice">K. 70º</div>
+</div>
+###################
+<div class = "quiz">9. The diagonal <img src='file:\$$$\resources\2009 Dec 68A\imgs\10.png' width = '38'height = '32'/> divides quadrilateral ABCD into a right triangle and an equilateral triangle, as shown below. The given dimensions are in centimeters. How many centimeters long is<img src='file:\$$$\resources\2009 Dec 68A\imgs\11.png' width = '41'height = '32'/>?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\12.png' width = '242'height = '240'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\13.png' width = '45'height = '34'/></div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 10</div>
+<div class = "choice">D. 14</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">10. The circular face of a fair spinner has a red section, a blue section, and 2 yellow sections, as shown below. After being spun, the arrow of the spinner is equally likely to be pointing to any 1 of the 4 sections. What is the probability that, after the arrow has been spun, the section the arrow is pointing to is yellow?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\14.png' width = '257'height = '259'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\15.png' width = '22'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\16.png' width = '19'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\17.png' width = '22'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\18.png' width = '22'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\19.png' width = '22'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">11. Let a square represent the value of x and a circle represent 1. Which of the following expressions accurately represents<img src='file:\$$$\resources\2009 Dec 68A\imgs\20.png' width = '93'height = '38'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\21.png' width = '210'height = '50'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\22.png' width = '192'height = '55'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\23.png' width = '222'height = '58'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\24.png' width = '132'height = '22'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\25.png' width = '245'height = '53'/></div>
+</div>
+###################
+<div class = "quiz">12. What is the slope-intercept form of<img src='file:\$$$\resources\2009 Dec 68A\imgs\26.png' width = '129'height = '32'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\27.png' width = '110'height = '32'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\28.png' width = '112'height = '32'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\29.png' width = '97'height = '32'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\30.png' width = '97'height = '32'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\31.png' width = '97'height = '32'/></div>
+</div>
+###################
+<div class = "quiz">13. The points S(4,10) and T(6,-2) lie in the standard (x, y) coordinate plane. What is the midpoint of<img src='file:\$$$\resources\2009 Dec 68A\imgs\32.png' width = '35'height = '34'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\33.png' width = '56'height = '32'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\34.png' width = '54'height = '38'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\35.png' width = '56'height = '32'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\36.png' width = '51'height = '32'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\37.png' width = '51'height = '32'/></div>
+</div>
+###################
+<div class = "quiz">14. Kerry ordered a pizza: one half was topped with pepperoni for her brother Joel, and the other half was topped with extra cheese for herself. Kerry ate all of the half of the pizza with extra cheese. Joel ate <img src='file:\$$$\resources\2009 Dec 68A\imgs\38.png' width = '22'height = '61'/> of the half of the pizza with pepperoni. What fraction of the whole pizza did Joel eat?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\39.png' width = '22'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\40.png' width = '22'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\41.png' width = '22'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\42.png' width = '22'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\43.png' width = '31'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">15. Given that <img src='file:\$$$\resources\2009 Dec 68A\imgs\44.png' width = '56'height = '61'/> and<img src='file:\$$$\resources\2009 Dec 68A\imgs\45.png' width = '55'height = '61'/>, what is the value of<img src='file:\$$$\resources\2009 Dec 68A\imgs\46.png' width = '98'height = '67'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\47.png' width = '22'height = '61'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\48.png' width = '22'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\49.png' width = '22'height = '61'/></div>
+<div class = "choice">D. 3</div>
+<div class = "choice">E. 5</div>
+</div>
+###################
+<div class = "quiz">16. Guban went shopping at a department store that was having a storewide sale .where every item was 10% off its marked price, including already discounted items. Guban found a sweater with an original price of $30.00 marked with a discounted price of 15% off its original price. There was a 6% sales tax on the final price of all items. How much did Guban pay for the sweater?
+<div class = "choice">F. $13.77</div>
+<div class = "choice">G. $19.50</div>
+<div class = "choice">H. $24.30</div>
+<div class = "choice">J. $24.33</div>
+<div class = "choice">K. $29.81</div>
+</div>
+###################
+<div class = "quiz">17. In the figure below, parallel lines<img src='file:\$$$\resources\2009 Dec 68A\imgs\50.png' width = '41'height = '34'/>, and <img src='file:\$$$\resources\2009 Dec 68A\imgs\51.png' width = '19'height = '34'/> intersect transversal t. What is the value of<img src='file:\$$$\resources\2009 Dec 68A\imgs\52.png' width = '117'height = '27'/>？
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\53.png' width = '421'height = '318'/>
+<div class = "choice">A. 180</div>
+<div class = "choice">B. 240</div>
+<div class = "choice">C. 270</div>
+<div class = "choice">D. 300</div>
+<div class = "choice">E. 360</div>
+</div>
+###################
+<div class = "quiz">18. Max bought several bags of organic lawn fertilizer, and each bag covers 5,000 square feet of lawn. He is fertilizing a lawn that is 50 feet wide. He pours 1 bag into the fertilizer spreader and begins fertilizing. Before he needs to refill the, spreader, Max can fertilize a rectangle that is the width of the lawn and is how many feet long?
+<div class = "choice">F. 50</div>
+<div class = "choice">G. 100</div>
+<div class = "choice">H. 2,450</div>
+<div class = "choice">J. 4,950</div>
+<div class = "choice">K. 5,050</div>
+</div>
+###################
+<div class = "quiz">19. Which of the following variable expressions would represent the area of a rectangle if its length is represented by <img src='file:\$$$\resources\2009 Dec 68A\imgs\54.png' width = '51'height = '36'/> and its width is represented by<img src='file:\$$$\resources\2009 Dec 68A\imgs\55.png' width = '46'height = '36'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\56.png' width = '60'height = '36'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\57.png' width = '64'height = '36'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\58.png' width = '61'height = '36'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\59.png' width = '94'height = '36'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\60.png' width = '94'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">20. A formula often used to find the dollar value of an investment is<img src='file:\$$$\resources\2009 Dec 68A\imgs\61.png' width = '124'height = '42'/>, where A is the dollar value after t years, P is the initial amount invested, and r is the annual interest rate expressed as a decimal. According to this formula, which of the following is closest to the dollar value of $1,000 invested for 2 years at a 5% annual interest rate?
+<div class = "choice">F. $1,050</div>
+<div class = "choice">G. $1,103</div>
+<div class = "choice">H. $2,000</div>
+<div class = "choice">J. $ 2,100</div>
+<div class = "choice">K. $2,250</div>
+</div>
+###################
+<div class = "quiz">21. A motorist traveled at an average speed of 50 miles per hour and arrived at his destination in exactly 20 minutes. Which of the following is closest to the number of miles he traveled?
+<div class = "choice">A. 10</div>
+<div class = "choice">B. 12</div>
+<div class = "choice">C. 17</div>
+<div class = "choice">D. 20</div>
+<div class = "choice">E. 25</div>
+</div>
+###################
+<div class = "quiz">22. Inez has 20 stamps. Some of the stamps are 400¢ stamps and the others are 25¢ stamps. The value of the 20 stamps is $6.95. How many 40¢ stamps does Inez have?
+<div class = "choice">F. 7</div>
+<div class = "choice">G. 11</div>
+<div class = "choice">H. 13</div>
+<div class = "choice">J. 15</div>
+<div class = "choice">K. 17</div>
+</div>
+###################
+<div class = "quiz">23. A line in the standard (x, y) coordinate plane has equation<img src='file:\$$$\resources\2009 Dec 68A\imgs\62.png' width = '110'height = '36'/>. What is the slope of this line?
+<div class = "choice">A. 3</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\63.png' width = '22'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\64.png' width = '22'height = '61'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\65.png' width = '36'height = '61'/></div>
+<div class = "choice">E. -3</div>
+</div>
+###################
+<div class = "quiz">24. The right triangle shown below has a hypotenuse of 4 inches. The measure of the angle indicated is 6º. Which of the following is closest to the length, in inches, of the side opposite the 6° angle?
+(Note: sin 6°=0.1045 sin 84°= 0.9945 cos 6° = 0.9945 cos 84° = 0.1045  tan 6°=0.1051 tan 84°= 9.5144)
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\66.png' width = '834'height = '140'/>
+<div class = "choice">F. 0.105</div>
+<div class = "choice">G. 0.418</div>
+<div class = "choice">H. 0.420</div>
+<div class = "choice">J. 3.978</div>
+<div class = "choice">K. 38.057</div>
+</div>
+###################
+<div class = "quiz">25. A supermarket soup can display consists of 5 levels of stacked cans. The figure below shows an overhead view of the top level of cans (circles shaded and with solid borders) and the level of cans below it (circles with dashed borders). In the display, each level has 4 more cans than the level above it. How many cans are in the display?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\67.png' width = '402'height = '270'/>
+<div class = "choice">A. 60</div>
+<div class = "choice">B. 100</div>
+<div class = "choice">C. 116</div>
+<div class = "choice">D. 120</div>
+<div class = "choice">E. 140</div>
+</div>
+###################
+<div class = "quiz">26. Which of the following could be the value of <img src='file:\$$$\resources\2009 Dec 68A\imgs\68.png' width = '45'height = '40'/> for some integer c?
+<div class = "choice">F. -5</div>
+<div class = "choice">G. -2</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\69.png' width = '22'height = '61'/></div>
+<div class = "choice">J. 3</div>
+<div class = "choice">K. π</div>
+</div>
+###################
+<div class = "quiz">27. The height of a triangle is 6 cm longer than the base from which the height is measured. If the area of the triangle is 80 square centimeters, what is the height, in centimeters?
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 16</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 43</div>
+<div class = "choice">E. 77</div>
+</div>
+###################
+<div class = "quiz">28. For real numbers x and y such that<img src='file:\$$$\resources\2009 Dec 68A\imgs\70.png' width = '87'height = '36'/>, which of following must be true?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\71.png' width = '55'height = '36'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\72.png' width = '55'height = '36'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\73.png' width = '87'height = '36'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\74.png' width = '68'height = '36'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\75.png' width = '54'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">29. In the standard (x, y) coordinate plane, a triangle has vertices (-3,-3), (-4,2), and (-1,1). What will be the coordinates of the vertices after the triangle is shitted down 2 units?
+<div class = "choice">A. (-5,-3), (0,-4), and (-1,-1)</div>
+<div class = "choice">B. (-5, -3), (-4,4), and (-1, 3)</div>
+<div class = "choice">C. (-3,-1), (4,-4), and ( 3, 1)</div>
+<div class = "choice">D. (-3,-5), (-4, 4), and (-1, 3)</div>
+<div class = "choice">E. (-3,-5), (-4,0), and (-1,-1)</div>
+</div>
+###################
+<div class = "quiz">30. When solved for k, <img src='file:\$$$\resources\2009 Dec 68A\imgs\76.png' width = '150'height = '36'/>is equivalent to which of the following inequalities?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\77.png' width = '55'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\78.png' width = '55'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\79.png' width = '55'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\80.png' width = '51'height = '36'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\81.png' width = '51'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">31. In the figure below, (ABC is equilateral. Points D, E, and F are the midpoints of the sides of (ABC. Points G, H, and I are the midpoints of the sides of (DEF. A side of (ABC is how many times as long as a side of (GHI?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\82.png' width = '305'height = '270'/>
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. 16</div>
+</div>
+###################
+<div class = "quiz">32. What fraction of <img src='file:\$$$\resources\2009 Dec 68A\imgs\83.png' width = '35'height = '61'/> is<img src='file:\$$$\resources\2009 Dec 68A\imgs\84.png' width = '31'height = '61'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\85.png' width = '22'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\86.png' width = '22'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\87.png' width = '22'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\88.png' width = '22'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\89.png' width = '31'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">33. A greenhouse contained both 6-inch-high geraniums and 3-inch-high geraniums. The 6-inch-high geraniums were taken out of the greenhouse in early spring and grew at a rate of 1 inch per week. The 3-inch-high geraniums remained in the greenhouse and grew at a rate of <img src='file:\$$$\resources\2009 Dec 68A\imgs\90.png' width = '32'height = '61'/> inches per week. After the 6-inch-high geraniums were taken outside, in how many weeks were both groups of geraniums the same height?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\91.png' width = '36'height = '61'/></div>
+<div class = "choice">B. 6</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\92.png' width = '36'height = '61'/></div>
+<div class = "choice">D. 3</div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\93.png' width = '32'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">34. <img src='file:\$$$\resources\2009 Dec 68A\imgs\94.png' width = '279'height = '44'/>simplifies to:
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\95.png' width = '159'height = '36'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\96.png' width = '158'height = '36'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2009 Dec 68A\imgs\97.png' width = '159'height = '36'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\98.png' width = '158'height = '36'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\99.png' width = '158'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">35. A right triangle is shown in the figure below. Which of the following expressions gives θ?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\100.png' width = '652'height = '306'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\101.png' width = '93'height = '67'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\102.png' width = '91'height = '67'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2009 Dec 68A\imgs\103.png' width = '93'height = '67'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\104.png' width = '84'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\105.png' width = '82'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">36. In (ABC below, AB=AC and ∠A measures 50°. What is the measure of ∠B?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\106.png' width = '515'height = '438'/>
+<div class = "choice">F. 70°</div>
+<div class = "choice">G. 65°</div>
+<div class = "choice">H. 60°</div>
+<div class = "choice">J. 55°</div>
+<div class = "choice">K. 50°</div>
+</div>
+###################
+<div class = "quiz">37. The square below has an area of 64 square centimeters. The circle inscribed in the square is tangent to the square at A, B, C, and D. What is the area, in square centimeters, of the circle?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\107.png' width = '288'height = '291'/>
+<div class = "choice">A. 4π</div>
+<div class = "choice">B. 8π</div>
+<div class = "choice">C. 16π</div>
+<div class = "choice">D. 32π</div>
+<div class = "choice">E. 64π</div>
+</div>
+###################
+<div class = "quiz">38. The 2 functions <img src='file:\$$$\resources\2009 Dec 68A\imgs\108.png' width = '55'height = '38'/> and <img src='file:\$$$\resources\2009 Dec 68A\imgs\109.png' width = '54'height = '38'/> are defined such that <img src='file:\$$$\resources\2009 Dec 68A\imgs\110.png' width = '126'height = '61'/> and<img src='file:\$$$\resources\2009 Dec 68A\imgs\111.png' width = '174'height = '38'/>. What is the value of<img src='file:\$$$\resources\2009 Dec 68A\imgs\112.png' width = '101'height = '42'/>?
+<div class = "choice">F. -6</div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\113.png' width = '36'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\114.png' width = '22'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\115.png' width = '22'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\116.png' width = '32'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">39. On a map of Blueville in the standard (x, y) coordinate plane, where 1 coordinate unit represents 1 block, the middle school is at (-8,3) and the high school is at (4,-2). What is the straight-line distance, in blocks, between the high school and the middle school?
+<div class = "choice">A. 13</div>
+<div class = "choice">B. 17</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\117.png' width = '36'height = '36'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\118.png' width = '45'height = '36'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\119.png' width = '45'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">40. What is the perimeter, in centimeters, of the isosceles trapezoid shown below?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\120.png' width = '390'height = '423'/>
+<div class = "choice">F. 18</div>
+<div class = "choice">G. 30</div>
+<div class = "choice">H. 42</div>
+<div class = "choice">J. 44</div>
+<div class = "choice">K. 56</div>
+</div>
+###################
+<div class = "quiz">41. Which of the following equations, when graphed in the standard (x, y) coordinate plane, would cross the x-axis at x=2 and at x=-4?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\121.png' width = '182'height = '38'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\122.png' width = '182'height = '38'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2009 Dec 68A\imgs\123.png' width = '182'height = '38'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\124.png' width = '182'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\125.png' width = '182'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">42. A rectangular room is 13 feet long, 10 feet wide, and 9 feet high. Not accounting for doors and windows, what is the surface area, in square feet, of the 4 walls, ceiling, and floor of the room?
+<div class = "choice">F. 337</div>
+<div class = "choice">G. 414</div>
+<div class = "choice">H. 544</div>
+<div class = "choice">J. 674</div>
+<div class = "choice">K. 1,170</div>
+</div>
+###################
+<div class = "quiz">43. The average of Pam's 8 test scores is 77 points. Pam takes a 9th test and earns a score of 95 points. If all 9 tests are equally weighted, what is Pam's new average?
+<div class = "choice">A. 78</div>
+<div class = "choice">B. 79</div>
+<div class = "choice">C. 85</div>
+<div class = "choice">D. 86</div>
+<div class = "choice">E. 87</div>
+</div>
+###################
+<div class = "quiz">44. The points A(4,7), B(3,12), C(7,7), and D(7,14) are shown in the standard (x, y) coordinate plane below.
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\126.png' width = '186'height = '230'/>
+What is the slope of<img src='file:\$$$\resources\2009 Dec 68A\imgs\127.png' width = '38'height = '36'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\128.png' width = '45'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\129.png' width = '31'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\130.png' width = '22'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\131.png' width = '22'height = '61'/></div>
+<div class = "choice">K. 2</div>
+</div>
+###################
+<div class = "quiz">45. The points A(4,7), B(3,12), C(7,7), and D(7,14) are shown in the standard (x, y) coordinate plane below.
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\126.png' width = '186'height = '230'/>
+What is the cosine of the smallest angle in right triangle (ACD?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\132.png' width = '50'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\133.png' width = '31'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\134.png' width = '50'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\135.png' width = '22'height = '61'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\136.png' width = '50'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">46. The points A(4,7), B(3,12), C(7,7), and D(7,14) are shown in the standard (x, y) coordinate plane below.
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\126.png' width = '186'height = '230'/>
+How many distinct lines are there that each contain at least 2 of the 4 given points?
+<div class = "choice">F. 3</div>
+<div class = "choice">G. 4</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. 8</div>
+<div class = "choice">K. 16</div>
+</div>
+###################
+<div class = "quiz">47. If x is any positive integer, then the sum of 6x and 11x is always divisible by which of the following?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 6</div>
+<div class = "choice">C. 11</div>
+<div class = "choice">D. 17</div>
+<div class = "choice">E. 66</div>
+</div>
+###################
+<div class = "quiz">48. For what value of a would the following system of equations have infinitely many solutions?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\137.png' width = '122'height = '65'/>
+<div class = "choice">F. 2</div>
+<div class = "choice">G. 4</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. 12</div>
+<div class = "choice">K. 18</div>
+</div>
+###################
+<div class = "quiz">49. A fan has 5 identical blades that are equally spaced around the center of the fan, as shown below. What is the measure of the angle of rotation that would move Blade M clockwise  to the position of Blade N?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\138.png' width = '298'height = '390'/>
+<div class = "choice">A. 18°</div>
+<div class = "choice">B. 36°</div>
+<div class = "choice">C. 45°</div>
+<div class = "choice">D. 60°</div>
+<div class = "choice">E. 72°</div>
+</div>
+###################
+<div class = "quiz">50. Cans A and B are both right circular cylinders. The radius of the base of Can A is 4 times the radius of the base of Can B, and the height of Can A is 5 times the .height of Can B. The volume of Can A is how many times the volume of Can B?
+(Note:<img src='file:\$$$\resources\2009 Dec 68A\imgs\139.png' width = '120'height = '40'/>)
+<div class = "choice">F. 9</div>
+<div class = "choice">G. 20</div>
+<div class = "choice">H. 40</div>
+<div class = "choice">J. 80</div>
+<div class = "choice">K. 100</div>
+</div>
+###################
+<div class = "quiz">51. What real value of a satisfies the equation<img src='file:\$$$\resources\2009 Dec 68A\imgs\140.png' width = '110'height = '61'/>?
+<div class = "choice">A. -3</div>
+<div class = "choice">B. -2</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\141.png' width = '36'height = '61'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\142.png' width = '31'height = '61'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\143.png' width = '22'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">52. A box contains 100 cardboard circles. Written on each circle is one of the following numbers, with no numbers repeated:<img src='file:\$$$\resources\2009 Dec 68A\imgs\144.png' width = '32'height = '36'/>, <img src='file:\$$$\resources\2009 Dec 68A\imgs\145.png' width = '36'height = '36'/>, <img src='file:\$$$\resources\2009 Dec 68A\imgs\146.png' width = '35'height = '36'/>,…,<img src='file:\$$$\resources\2009 Dec 68A\imgs\147.png' width = '55'height = '36'/>. A circle is drawn at random from the box. What is the probability that the number on the circle is a rational number?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\148.png' width = '42'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\149.png' width = '42'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\150.png' width = '42'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\151.png' width = '42'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 Dec 68A\imgs\152.png' width = '42'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">53. By the law of cosines, <img src='file:\$$$\resources\2009 Dec 68A\imgs\153.png' width = '234'height = '36'/>for a triangle with sides of lengths a, b, and c opposite ∠A, ∠B, and ∠C, respectively. A boat travels 25 miles due east, makes a 40° turn toward the north, and then travels 30 miles, as shown below. To the nearest mile, what is the straight-line distance between the boat's starting position and its ending position?
+(Note:<img src='file:\$$$\resources\2009 Dec 68A\imgs\154.png' width = '354'height = '38'/>)
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\155.png' width = '510'height = '298'/>
+<div class = "choice">A. 55</div>
+<div class = "choice">B. 52</div>
+<div class = "choice">C. 50</div>
+<div class = "choice">D. 31</div>
+<div class = "choice">E. 19</div>
+</div>
+###################
+<div class = "quiz">54. The function <img src='file:\$$$\resources\2009 Dec 68A\imgs\156.png' width = '55'height = '38'/> is defined below. What is the value of<img src='file:\$$$\resources\2009 Dec 68A\imgs\157.png' width = '65'height = '38'/>?
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\158.png' width = '230'height = '80'/>
+<div class = "choice">F. -3</div>
+<div class = "choice">G. -1</div>
+<div class = "choice">H. 0</div>
+<div class = "choice">J. 1</div>
+<div class = "choice">K. 2</div>
+</div>
+###################
+<div class = "quiz">55. Which of the following equations given in factored form has roots at<img src='file:\$$$\resources\2009 Dec 68A\imgs\159.png' width = '22'height = '61'/>, <img src='file:\$$$\resources\2009 Dec 68A\imgs\160.png' width = '22'height = '61'/>, i , and –i?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\161.png' width = '256'height = '44'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2009 Dec 68A\imgs\162.png' width = '253'height = '44'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\163.png' width = '256'height = '44'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2009 Dec 68A\imgs\164.png' width = '256'height = '44'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\165.png' width = '256'height = '44'/></div>
+</div>
+###################
+<div class = "quiz">56. The table below shows an electric utility company's old and new rates. In the table, kWh stands for kilowatt-hour, a standard unit for measuring electrical energy.
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="3" style="width:985.5pt;border:solid windowtext 1.0pt;border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="657"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>RunionElectric Association Rates</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'> </span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Oldrate</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Newrate</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Monthlyservice charge</span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$7.00</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>11</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>.00</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:328.5pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Energy-usecharge</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>first1,500 kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>kWhover 1,500</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.6¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>7</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td></tr></table></div>
+<div class = "choice">F. 7 + 0.062(1,500) + 0.067(x-1,500)</div>
+<div class = "choice">G. 7 + 0.066(1,500) + 0.062(x -1,500)</div>
+<div class = "choice">H. 11 +0.062x</div>
+<div class = "choice">J. 11 + 0.062(1,500) + 0.067(x- 1,500)</div>
+<div class = "choice">K. 11+0.067(1,500)+0.062(x-1,500)</div>
+</div>
+###################
+<div class = "quiz">57. The table below shows an electric utility company's old and new rates. In the table, kWh stands for kilowatt-hour, a standard unit for measuring electrical energy.
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="3" style="width:985.5pt;border:solid windowtext 1.0pt;border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="657"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>RunionElectric Association Rates</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'> </span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Oldrate</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Newrate</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Monthlyservice charge</span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$7.00</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>11</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>.00</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:328.5pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Energy-usecharge</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>first1,500 kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>kWhover 1,500</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.6¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>7</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td></tr></table></div>
+<div class = "choice">A. 4%</div>
+<div class = "choice">B. 36%</div>
+<div class = "choice">C. 40%</div>
+<div class = "choice">D. 57%</div>
+<div class = "choice">E. 64%</div>
+</div>
+###################
+<div class = "quiz">58. The table below shows an electric utility company's old and new rates. In the table, kWh stands for kilowatt-hour, a standard unit for measuring electrical energy.
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="3" style="width:985.5pt;border:solid windowtext 1.0pt;border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="657"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>RunionElectric Association Rates</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'> </span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Oldrate</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Newrate</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:328.5pt;border:none;border-left:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Monthlyservice charge</span></p></td><td style="width:328.5pt;border:none;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$7.00</span></p></td><td style="width:328.5pt;border:none;border-right:solid windowtext 1.0pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>$</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>11</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>.00</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:328.5pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Energy-usecharge</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>first1,500 kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>kWhover 1,500</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.6¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:328.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>7</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="margin-top:2.7pt;margin-right:0cm;margin-bottom:2.7pt;margin-left:0cm;mso-para-margin-top:.15gd;mso-para-margin-right:0cm;mso-para-margin-bottom:.15gd;mso-para-margin-left:0cm;text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>6.</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>¢/kWh</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td></tr></table></div>
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\166.png' width = '104'height = '108'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\167.png' width = '100'height = '100'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\168.png' width = '104'height = '98'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\169.png' width = '102'height = '96'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2009 Dec 68A\imgs\170.png' width = '107'height = '93'/></div>
+</div>
+###################
+<div class = "quiz">59. Which of the following equations describes a line that is perpendicular to a line with equation<img src='file:\$$$\resources\2009 Dec 68A\imgs\171.png' width = '120'height = '36'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\172.png' width = '117'height = '36'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\173.png' width = '122'height = '36'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2009 Dec 68A\imgs\174.png' width = '117'height = '36'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\175.png' width = '117'height = '36'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 Dec 68A\imgs\176.png' width = '120'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">60. In a regular pentagon, all 5 interior angles are congruent. What is the measure of each interior angle of a regular pentagon?
+<div class = "choice">F. 36°</div>
+<div class = "choice">G. 60°</div>
+<div class = "choice">H. 72°</div>
+<div class = "choice">J. 108°</div>
+<div class = "choice">K. 120°</div>
+
+</div>
+###################

@@ -1,0 +1,520 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"></div>
+
+###################
+<div class = "quiz">1. For each of 3 years, the table below gives the number of games a football team played, the number of running plays they ran, and the total number of yards the team gained on running plays.
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:94.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p></td><td style="width:180.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">Games</span></p></td><td style="width:162.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center"><span lang="EN-US">Running</span></p><p align="center"  style="text-align:center"><span lang="EN-US">plays</span></p></td><td colspan="2" style="width:211.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="141"><p align="center"  style="text-align:center"><span lang="EN-US">Totalyards gained</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Onrunning plays</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:109.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p align="center"  style="text-align:center"><span lang="EN-US">1997</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1998</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1999</span></p></td><td style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">11</span></p><p align="center"  style="text-align:center"><span lang="EN-US">9</span></p></td><td colspan="2" style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center"><span lang="EN-US">397</span></p><p align="center"  style="text-align:center"><span lang="EN-US">394</span></p><p align="center"  style="text-align:center"><span lang="EN-US">378</span></p></td><td style="width:193.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129"><p align="center"  style="text-align:center"><span lang="EN-US">1,028</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,417</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1,920</span></p></td></tr><tr height="0"><td style="border:none" width="73"></td><td style="border:none" width="120"></td><td style="border:none" width="108"></td><td style="border:none" width="12"></td><td style="border:none" width="129"></td></tr></table></div>
+To the nearest tenth of a yard, what is the average number of yards gained per running play in 1998?
+<div class = "choice">A. 2.6</div>
+<div class = "choice">B. 2.7</div>
+<div class = "choice">C. 3.6</div>
+<div class = "choice">D. 4.9</div>
+<div class = "choice">E. 5.1</div>
+</div>
+###################
+<div class = "quiz">2. For the polygon below, the lengths of 2 sides are not given, Each angle between adjacent sides measures 90°. What is the polygon's perimeter, in feet?
+<img src='file:\$$$\resources\2006 April 63E\imgs\0.png' width = '580'height = '278'/>
+<div class = "choice">F. 41</div>
+<div class = "choice">G. 52</div>
+<div class = "choice">H. 60</div>
+<div class = "choice">J. 140</div>
+<div class = "choice">K. 200</div>
+</div>
+###################
+<div class = "quiz">3. Which of the following inequalities represents the graph shown below on the real number line?
+<img src='file:\$$$\resources\2006 April 63E\imgs\1.png' width = '742'height = '138'/>
+<div class = "choice">A. －2≤x≤2</div>
+<div class = "choice">B. －2≤x＜3</div>
+<div class = "choice">C. 0≤x＜3</div>
+<div class = "choice">D. 2≤x≤3</div>
+<div class = "choice">E. 3＜x≤－2</div>
+</div>
+###################
+<div class = "quiz">4. What is the value of <img src='file:\$$$\resources\2006 April 63E\imgs\2.png' width = '78'height = '44'/> when x=4 and y=－1?
+<div class = "choice">F. 216</div>
+<div class = "choice">G. 96</div>
+<div class = "choice">H. 47</div>
+<div class = "choice">J. 24</div>
+<div class = "choice">K. 18</div>
+</div>
+###################
+<div class = "quiz">5. For integers a and b such that ab=8, which of the following is NOT a possible value of a？
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 1</div>
+<div class = "choice">C. －4</div>
+<div class = "choice">D. －6</div>
+<div class = "choice">E. －8</div>
+</div>
+###################
+<div class = "quiz">6. What is the volume, in cubic centimeters, of a cube whose edges each measure 4 centimeters in length?
+<div class = "choice">F. 12</div>
+<div class = "choice">G. 16</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 64</div>
+<div class = "choice">K. 96</div>
+</div>
+###################
+<div class = "quiz">7. A community center sponsored a 1-day craft show. The center offered 2 sizes of display tables for rent and charged ＄40 to rent one of the 70 large tables and ＄25 to rent one of the 50 small tables. Which of the following expressions gives the total amount of money, in dollars, collected from renting all of the small tables and L of the large tables?
+<div class = "choice">A. L＋50</div>
+<div class = "choice">B. 40L＋1,250</div>
+<div class = "choice">C. 40＋2,000</div>
+<div class = "choice">D. 65L</div>
+<div class = "choice">E. 4,050L</div>
+</div>
+###################
+<div class = "quiz">8. In the figure below, A, B, and C are collinear, the measure of ∠ABD is 7x°, and the measure of ∠CBD is 3x°. What is the measure of ∠ABD?
+<img src='file:\$$$\resources\2006 April 63E\imgs\3.png' width = '494'height = '253'/>
+<div class = "choice">F. 252°</div>
+<div class = "choice">G. 126°</div>
+<div class = "choice">H. 108°</div>
+<div class = "choice">J. 54°</div>
+<div class = "choice">K. 18°</div>
+</div>
+###################
+<div class = "quiz">9. Which of the following is NOT a possible value for a probability?
+<div class = "choice">A. 0.001</div>
+<div class = "choice">B. 0.5</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 April 63E\imgs\4.png' width = '35'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\5.png' width = '22'height = '71'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 April 63E\imgs\6.png' width = '36'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">10. For the first several months after the Fiery Red Scooter arrived in toy stores, the rate of sales increased slowly. As this new scooter caught on, however, the rate of sales increased rapidly. After several more months, many people owned a Fiery Red Scooter, and the rate of sales decreased. Which of the following graphs could represent the total number of Fiery Red Scooters sold as a function of time, in months, after the scooter arrived in toy stores?
+<div class = "choice">F. <img src='file:\$$$\resources\2006 April 63E\imgs\7.png' width = '224'height = '130'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 April 63E\imgs\8.png' width = '204'height = '130'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 April 63E\imgs\9.png' width = '215'height = '134'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 April 63E\imgs\10.png' width = '252'height = '134'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 April 63E\imgs\11.png' width = '215'height = '133'/></div>
+</div>
+###################
+<div class = "quiz">11. For a community service project, members of the junior class at San Carlos High School are going to varnish the rectangular dining room floor of a local nursing home. The floor is 60 feet wide and 80 feet long. Under the assumption that 1 can of varnish covers exactly 250 square feet, what is the minimum number of cans of varnish they will need in order to put 1 coat of varnish on this floor?
+<div class = "choice">A. 1</div>
+<div class = "choice">B. 9</div>
+<div class = "choice">C. 10</div>
+<div class = "choice">D. 19</div>
+<div class = "choice">E. 20</div>
+</div>
+###################
+<div class = "quiz">12. Carl is making a scale drawing of his rectangular bedroom floor. The floor is 12 feet wide by 14 feet long. He is using a scale of <img src='file:\$$$\resources\2006 April 63E\imgs\12.png' width = '24'height = '71'/> inch=1 foot for the scale drawing of the floor. What will be the dimensions, in inches, of Carl's bedroom floor in the scale drawing?
+<div class = "choice">F. 3 by 3<img src='file:\$$$\resources\2006 April 63E\imgs\13.png' width = '24'height = '71'/></div>
+<div class = "choice">G. 4 by <img src='file:\$$$\resources\2006 April 63E\imgs\14.png' width = '41'height = '71'/></div>
+<div class = "choice">H. 6 by 7</div>
+<div class = "choice">J. 36 by 42</div>
+<div class = "choice">K. 48 by 56</div>
+</div>
+###################
+<div class = "quiz">13. According to a recent survey of students about the juice they each preferred, 20% of the students preferred cranberry juice, 40% preferred orange juice, 20% preferred grapefruit juice, and the remaining students preferred tomato juice. If each student preferred only 1 juice and 250 students preferred tomato juice, how many students were surveyed?
+<div class = "choice">A. 330</div>
+<div class = "choice">B. 500</div>
+<div class = "choice">C. 625</div>
+<div class = "choice">D. 1,000</div>
+<div class = "choice">E. 1,250</div>
+</div>
+###################
+<div class = "quiz">14. The circumference of each tire on a bicycle is 50 inches. About how many revolutions does one of these bicycle tires make traveling 300 feet (3,600 inches) without slipping?
+<div class = "choice">F. 6</div>
+<div class = "choice">G. 18</div>
+<div class = "choice">H. 72</div>
+<div class = "choice">J. 300</div>
+<div class = "choice">K. 864</div>
+</div>
+###################
+<div class = "quiz">15. <img src='file:\$$$\resources\2006 April 63E\imgs\15.png' width = '361'height = '48'/>is equivalent to:
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\16.png' width = '143'height = '44'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\17.png' width = '148'height = '44'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 April 63E\imgs\18.png' width = '159'height = '44'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\19.png' width = '143'height = '44'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 April 63E\imgs\20.png' width = '158'height = '44'/></div>
+</div>
+###################
+<div class = "quiz">16. A ticket for a movie at the Hazelnut Cinema costs ＄5.00. Latoya treats her younger brother to a movie at the Hazelnut Cinema. She gives him <img src='file:\$$$\resources\2006 April 63E\imgs\21.png' width = '24'height = '71'/> the money she brought with her, for his ticket and a snack. When he asks to play a video game, she gives him ＄1.00. That leaves Latoya exactly enough money to buy her own ticket. How much money did Latoya bring with her?
+<div class = "choice">F. ＄10.00</div>
+<div class = "choice">G. ＄11.00</div>
+<div class = "choice">H. ＄12.00</div>
+<div class = "choice">J. ＄13.00</div>
+<div class = "choice">K. ＄14.00</div>
+</div>
+###################
+<div class = "quiz">17. Mr. Gomez gave his class a test on 20 spelling words. Only one of the following percents is possible as the percent of the 20 words a student spelled correctly. Which one is it?
+<div class = "choice">A. 77%</div>
+<div class = "choice">B. 85%</div>
+<div class = "choice">C. 88%</div>
+<div class = "choice">D. 96%</div>
+<div class = "choice">E. 99%</div>
+</div>
+###################
+<div class = "quiz">18. The first 5 terms of a geometric sequence are 0.375, －1.5, 6, －24, and 96. What is the 6th term?
+<div class = "choice">F. －384</div>
+<div class = "choice">G. －126</div>
+<div class = "choice">H. －66</div>
+<div class = "choice">J. 126</div>
+<div class = "choice">K. 384</div>
+</div>
+###################
+<div class = "quiz">19. <img src='file:\$$$\resources\2006 April 63E\imgs\22.png' width = '117'height = '50'/>is equivalent to:
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\23.png' width = '196'height = '50'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\24.png' width = '196'height = '50'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 April 63E\imgs\25.png' width = '113'height = '50'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\26.png' width = '116'height = '50'/></div>
+<div class = "choice">E. 4x－6y</div>
+</div>
+###################
+<div class = "quiz">20. As shown in the figure below, Mr. Thompson, who is standing at point A, needs to determine the distance from point C on the ground to point E at the top of one of the second-story windows of his house. He places a mirror on the ground at point B so that when he looks in the mirror, he can see the top of the window. Mr. Thompson's eye level, at point D, is 6 ft above the ground. He notes that AB = 4 ft and BC = 14 ft. Approximately how many feet above the ground is the top of the second-story window?
+(Note: In △ABD and △CBE, ∠ABD is congruent to ∠CBE.)
+<img src='file:\$$$\resources\2006 April 63E\imgs\27.png' width = '402'height = '405'/>
+<div class = "choice">F. 2</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">H. 16</div>
+<div class = "choice">J. 21</div>
+<div class = "choice">K. 24</div>
+</div>
+###################
+<div class = "quiz">21. What is the solution to the equation 7x－(x－3)=6?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\28.png' width = '45'height = '71'/></div>
+<div class = "choice">B. －2</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 April 63E\imgs\29.png' width = '24'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\30.png' width = '24'height = '71'/></div>
+<div class = "choice">E. 2</div>
+</div>
+###################
+<div class = "quiz">22. The area of △XYZ below is 32 square inches. If <img src='file:\$$$\resources\2006 April 63E\imgs\31.png' width = '45'height = '36'/> is 8 inches long, how long is altitude<img src='file:\$$$\resources\2006 April 63E\imgs\32.png' width = '51'height = '38'/>, in inches?
+<img src='file:\$$$\resources\2006 April 63E\imgs\33.png' width = '358'height = '376'/>
+<div class = "choice">F. 10</div>
+<div class = "choice">G. 8</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. 4</div>
+<div class = "choice">K. 2</div>
+</div>
+###################
+<div class = "quiz">23. Given f(x)=<img src='file:\$$$\resources\2006 April 63E\imgs\34.png' width = '145'height = '44'/>, what is the value of f(－10)?
+<div class = "choice">A. －243</div>
+<div class = "choice">B. －143</div>
+<div class = "choice">C. 157</div>
+<div class = "choice">D. 257</div>
+<div class = "choice">E. 457</div>
+</div>
+###################
+<div class = "quiz">24. The cheerleading squad wants to purchase new uniforms to wear at the regional championship competition. They decide to sell candy bars for ＄1.00 each. The squad will receive ＄0.40 for each of the first 200 candy bars sold. For each of the next 300 sold, the squad will receive ＄0.50. For each additional candy bar sold, the squad will receive ＄0.50. For each additional candy bar sold, the squad will receive ＄0.60. How many candy bars must the squad sell to reach their goal of raising ＄350.00.?
+<div class = "choice">F. 350</div>
+<div class = "choice">G. 584</div>
+<div class = "choice">H. 667</div>
+<div class = "choice">J. 700</div>
+<div class = "choice">K. 875</div>
+</div>
+###################
+<div class = "quiz">25. The table below shows the age distribution of the student body at Memorial High School.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:59.2pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:162.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center"><span lang="EN-US">Age,in years</span></p></td><td style="width:90.5pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">14</span></p></td><td style="width:90.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">15</span></p></td><td style="width:90.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">16</span></p></td><td style="width:90.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">17</span></p></td><td style="width:90.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">18</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:162.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center"><span lang="EN-US">Percent</span></p><p align="center"  style="text-align:center"><span lang="EN-US">ofstudents</span></p></td><td style="width:90.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">6%</span></p></td><td style="width:90.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">28%</span></p></td><td style="width:90.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">26%</span></p></td><td style="width:90.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">31%</span></p></td><td style="width:90.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center"><span lang="EN-US">9%</span></p></td></tr></table></div>
+What percent of the students are at least 16 years old?
+<div class = "choice">A. 34%</div>
+<div class = "choice">B. 40%</div>
+<div class = "choice">C. 50%</div>
+<div class = "choice">D. 60%</div>
+<div class = "choice">E. 66%</div>
+</div>
+###################
+<div class = "quiz">26. What percent of <img src='file:\$$$\resources\2006 April 63E\imgs\35.png' width = '24'height = '71'/> is<img src='file:\$$$\resources\2006 April 63E\imgs\36.png' width = '22'height = '71'/>?
+<div class = "choice">F. 22%</div>
+<div class = "choice">G. 33%</div>
+<div class = "choice">H. 50%</div>
+<div class = "choice">J. 67%</div>
+<div class = "choice">K. 200%</div>
+</div>
+###################
+<div class = "quiz">27. The sign below advertises a sale on coats. What is the sale price of a coat with a regular price of ＄84.00?
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:288.0pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="192"><p align="center"  style="text-align:center"><span lang="EN-US">SALE<span style="mso-spacerun:yes">  </span>SALE<span style="mso-spacerun:yes">  </span>SALE</span></p><p align="center"  style="text-align:center"><span lang="EN-US">AllCoats</span></p><p align="center"  style="text-align:center"><span lang="EN-US">3/4off the regular price!</span></p><p align="center"  style="text-align:center"><span lang="EN-US">SALE<span style="mso-spacerun:yes">  </span>SALE<span style="mso-spacerun:yes">  </span>SALE</span></p></td></tr></table></div>
+<div class = "choice">A. ＄9.00</div>
+<div class = "choice">B. ＄21.00</div>
+<div class = "choice">C. ＄42.00</div>
+<div class = "choice">D. ＄63.00</div>
+<div class = "choice">E. ＄83.25</div>
+</div>
+###################
+<div class = "quiz">28. The ratio of a side of square A to the length of rectangle B is 2:3. The ratio of a side of square A to the width of rectangle B is 2:1. What is the ratio of the area of square A to the area of rectangle B?
+<div class = "choice">F. 2:1</div>
+<div class = "choice">G. 3:1</div>
+<div class = "choice">H. 3:2</div>
+<div class = "choice">J. 4:1</div>
+<div class = "choice">K. 4:3</div>
+</div>
+###################
+<div class = "quiz">29. In Intermediate Algebra class, Ms. Schimmack makes the statement "y varies directly as the product of <img src='file:\$$$\resources\2006 April 63E\imgs\37.png' width = '38'height = '44'/> and x, and inversely as<img src='file:\$$$\resources\2006 April 63E\imgs\38.png' width = '31'height = '42'/>" and asks her students to translate it into an equation. Which of the following equations, with k as the constant of proportionality, is a correct translation of Ms. Schimmack's statement?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\39.png' width = '120'height = '88'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\40.png' width = '106'height = '88'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 April 63E\imgs\41.png' width = '129'height = '82'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\42.png' width = '120'height = '88'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 April 63E\imgs\43.png' width = '136'height = '50'/></div>
+</div>
+###################
+<div class = "quiz">30. In a certain isosceles triangle, the measure of each of the base angles is twice the measure of the vertex angle. What is the measure, in degrees, of each of the base angles?
+<div class = "choice">F. 36°</div>
+<div class = "choice">G. 60°</div>
+<div class = "choice">H. 72°</div>
+<div class = "choice">J. 120°</div>
+<div class = "choice">K. 144°</div>
+</div>
+###################
+<div class = "quiz">31. For a single production run, when n items are made and sold, a company's profit, P dollars, can be modeled by P =<img src='file:\$$$\resources\2006 April 63E\imgs\44.png' width = '228'height = '46'/>. What is the smallest number of items that must be made and sold in order for the company not to lose money on the production run?
+<div class = "choice">A. 150</div>
+<div class = "choice">B. 200</div>
+<div class = "choice">C. 300</div>
+<div class = "choice">D. 350</div>
+<div class = "choice">E. 500</div>
+</div>
+###################
+<div class = "quiz">32. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
+Duringthe month of April, Mousepads Galore broke even (did not gain or lose any money) when x' mousepads were produced and sold. How many mousepads did the company produce and sell during the month of April?
+<div class = "choice">F. 10,000</div>
+<div class = "choice">G. 12,000</div>
+<div class = "choice">H. 14,000</div>
+<div class = "choice">J. 15,000</div>
+<div class = "choice">K. 30,000</div>
+</div>
+###################
+<div class = "quiz">33. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
+The cost function shown in the graph for Mousepads Galore has 2 components: a fixed cost, plus a constant production cost per mousepad. Which of the following is the fixed cost?
+<div class = "choice">A. ＄0</div>
+<div class = "choice">B. ＄1,000</div>
+<div class = "choice">C. ＄10,000</div>
+<div class = "choice">D. ＄30,000</div>
+<div class = "choice">E. ＄100,000</div>
+</div>
+###################
+<div class = "quiz">34. Mousepads Galore is a company that produces computer mousepads. Cost is the total money spent to produce and sell the mousepads, and revenue is the total income generated by the sale of the mousepads. The graph below depicts projections for the linear cost function, C(x), and the linear revenue function, R(x).
+<img src='file:\$$$\resources\2006 April 63E\imgs\45.png' width = '410'height = '370'/>
+Mousepads Galore sells each mousepad at the same price, which is an integer number of dollars. According to the revenue function, what is the price of each of these mousepads?
+<div class = "choice">F. ＄3</div>
+<div class = "choice">G. ＄7</div>
+<div class = "choice">H. ＄100</div>
+<div class = "choice">J. ＄12</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">35. Which of the following is a complete factorization of the expression 2x＋2xy＋6x<img src='file:\$$$\resources\2006 April 63E\imgs\46.png' width = '16'height = '42'/>y?
+<div class = "choice">A. 2x(y＋3xy)</div>
+<div class = "choice">B. 2x＋2xy(1＋3x)</div>
+<div class = "choice">C. 2x1＋y＋4xy)</div>
+<div class = "choice">D. 1＋y＋3xy</div>
+<div class = "choice">E. 2x1＋y＋3xy)</div>
+</div>
+###################
+<div class = "quiz">36. Which of the following is an equation of the line that passes through the points (1, 3) and (－3, －13) in the standard (x, y) coordinate plane?
+<div class = "choice">F. x＋y=4</div>
+<div class = "choice">G. 4x－y=1</div>
+<div class = "choice">H. 5x－y=2</div>
+<div class = "choice">J. 6x－2y=8</div>
+<div class = "choice">K. 7x－2y=5</div>
+</div>
+###################
+<div class = "quiz">37. A square has sides that are the same length as the radius of a circle. If the circle has an area of 36<img src='file:\$$$\resources\2006 April 63E\imgs\47.png' width = '24'height = '24'/> square units, how many units long is the perimeter of the square?
+<div class = "choice">A. 18</div>
+<div class = "choice">B. 24</div>
+<div class = "choice">C. 36</div>
+<div class = "choice">D. 72</div>
+<div class = "choice">E. 324</div>
+</div>
+###################
+<div class = "quiz">38. If the following system has a solution, what is the x-coordinate of the solution?
+3x＋6y=52  x＋6y=24
+<div class = "choice">F. 19</div>
+<div class = "choice">G. 14</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. 0</div>
+<div class = "choice">K. The system has no solution.</div>
+</div>
+###################
+<div class = "quiz">39. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
+What is the area of BGFC, in square inches?
+<div class = "choice">A. 2,500</div>
+<div class = "choice">B. 5,400</div>
+<div class = "choice">C. 6,400</div>
+<div class = "choice">D. 7,000</div>
+<div class = "choice">E. 12,800</div>
+</div>
+###################
+<div class = "quiz">40. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
+What is the length of<img src='file:\$$$\resources\2006 April 63E\imgs\54.png' width = '45'height = '38'/>, in inches?
+<div class = "choice">F. 90</div>
+<div class = "choice">G. 100</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2006 April 63E\imgs\55.png' width = '88'height = '44'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2006 April 63E\imgs\56.png' width = '88'height = '44'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 April 63E\imgs\57.png' width = '101'height = '44'/></div>
+</div>
+###################
+<div class = "quiz">41. In the figure below, B and C are on <img src='file:\$$$\resources\2006 April 63E\imgs\48.png' width = '50'height = '36'/> and G and F are on<img src='file:\$$$\resources\2006 April 63E\imgs\49.png' width = '45'height = '36'/>. The measurements given are in inches. Both BGFC and CFED are trapezoids. The area, A, of a trapezoid is given by A =<img src='file:\$$$\resources\2006 April 63E\imgs\50.png' width = '134'height = '71'/>, where h is the height and <img src='file:\$$$\resources\2006 April 63E\imgs\51.png' width = '26'height = '42'/> and <img src='file:\$$$\resources\2006 April 63E\imgs\52.png' width = '31'height = '42'/> are the lengths of the 2 parallel sides.
+<img src='file:\$$$\resources\2006 April 63E\imgs\53.png' width = '152'height = '268'/>
+What is the radius, in inches, of largest circle that can be drawn so that no point of the circle is outside CFED?
+<div class = "choice">A. 40</div>
+<div class = "choice">B. 50</div>
+<div class = "choice">C. 60</div>
+<div class = "choice">D. 70</div>
+<div class = "choice">E. 80</div>
+</div>
+###################
+<div class = "quiz">42. As shown in the figure below, an escape ramp leading from an emergency exit of an airplane is 35 feet long when fully extended and forms a 15° angle with the level ground.
+<img src='file:\$$$\resources\2006 April 63E\imgs\58.png' width = '788'height = '316'/>
+Given the trigonometric approximations in the table below, what is the height above the ground of the emergency exit, rounded to the nearest 0.1 foot?
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:201.25pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:146.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="97"><p align="center"  style="text-align:center"><span lang="EN-US">cos15°</span></p><p align="center"  style="text-align:center"><span lang="EN-US">sin15°</span></p><p align="center"  style="text-align:center"><span lang="EN-US">tan15°</span></p></td><td style="width:146.2pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="97"><p align="center"  style="text-align:center"><span lang="EN-US">0.966</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0.259</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0.268</span></p></td></tr></table></div>
+<div class = "choice">F. 2.8</div>
+<div class = "choice">G. 7.4</div>
+<div class = "choice">H. 7.7</div>
+<div class = "choice">J. 9.1</div>
+<div class = "choice">K. 9.4</div>
+</div>
+###################
+<div class = "quiz">43. There are 10 equally spaced dots marked on a circle. Kim chooses an integer, n, that is greater than 1. Beginning at a randomly chosen dot, Kim goes around the circle clockwise and colors in every nth dot. He continues going around and around the circle coloring in every nth dot, counting each dot whether it is colored in or not, until he has colored in every dot. Which of the following could have been Kim's integer n?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 5</div>
+<div class = "choice">E. 6</div>
+</div>
+###################
+<div class = "quiz">44. Consider the exponential equation y = Ca<img src='file:\$$$\resources\2006 April 63E\imgs\59.png' width = '13'height = '42'/>, where C and a are positive real constants and t is a positive real number. The value of y decreases as the value of t increases if and only if which of the following statements about a is true?
+<div class = "choice">F. －1＜a</div>
+<div class = "choice">G. 0＜a</div>
+<div class = "choice">H. 0＜a＜1</div>
+<div class = "choice">J. 1＜a＜2</div>
+<div class = "choice">K. 1＜a</div>
+</div>
+###################
+<div class = "quiz">45. What is the distance, in coordinate units, between the points P(－2, －1) and Q(1, 3) in the standard (x, y) coordinate plane?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\60.png' width = '38'height = '42'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\61.png' width = '41'height = '42'/></div>
+<div class = "choice">C. 3</div>
+<div class = "choice">D. 5</div>
+<div class = "choice">E. 7</div>
+</div>
+###################
+<div class = "quiz">46. During their morning jog in the park, Jean stops at a drinking fountain. Sula continues to jog and gets 10 meters ahead of Jean. Sula is jogging at a constant rate of 2 meters per second, and Jean starts jogging at a constant rate of 2.4 meter per second to catch up to Sula. Which of the following equations, when solved for t, gives the number of seconds Jean will take to catch up to Sula?
+<div class = "choice">F. 2t – 10 = 2.4t</div>
+<div class = "choice">G. 2t 10 = 2.4t</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2006 April 63E\imgs\62.png' width = '159'height = '71'/></div>
+<div class = "choice">J. 2t = 10</div>
+<div class = "choice">K. 2.4t = 10</div>
+</div>
+###################
+<div class = "quiz">47. Which of the following defines the solution set for the system of inequalities below?
+x≤6  4＋2x≥0
+<div class = "choice">A. x≥－2</div>
+<div class = "choice">B. x≤6</div>
+<div class = "choice">C. －8≤x≤6</div>
+<div class = "choice">D. －2≤x≤6</div>
+<div class = "choice">E. 2≤x≤6</div>
+</div>
+###################
+<div class = "quiz">48. At Brookfield High School, 55 seniors are enrolled in the sociology class and 40 seniors are enrolled in the drawing class. Of these seniors, 20 are enrolled in both the sociology class and the drawing class. How many of the 120 seniors enrolled at Brookfield High School are NOT enrolled in either the sociology class or the drawing class?
+<div class = "choice">F. 5</div>
+<div class = "choice">G. 15</div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 35</div>
+<div class = "choice">K. 45</div>
+</div>
+###################
+<div class = "quiz">49. If two lines in the standard (x, y) coordinate plane are perpendicular and the slope of one of the lines is 3, what is the slope of the other line?
+<div class = "choice">A. －3</div>
+<div class = "choice">B. －1</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 April 63E\imgs\63.png' width = '42'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\64.png' width = '22'height = '71'/></div>
+<div class = "choice">E. 3</div>
+</div>
+###################
+<div class = "quiz">50. In the standard (x, y) coordinate plane, (12, 3) is half-way between (2a, a＋3) and (4a, a－5). What is the value of a?
+<div class = "choice">F. 0</div>
+<div class = "choice">G. 2</div>
+<div class = "choice">H. 3</div>
+<div class = "choice">J. 4</div>
+<div class = "choice">K. 6</div>
+</div>
+###################
+<div class = "quiz">51. How many 3-letter orderings, where no letter is repeated, can be made using the letters of the word GATORS?
+<div class = "choice">A. 3</div>
+<div class = "choice">B. 6</div>
+<div class = "choice">C. 27</div>
+<div class = "choice">D. 120</div>
+<div class = "choice">E. 216</div>
+</div>
+###################
+<div class = "quiz">52. As shown in the (x, y, z) coordinate space below, the cube with vertices A through H has edges that are 1 coordinate unit long. The coordinates of F are (0, 0, 0), and H is on the positive y-axis. What are the coordinates of D?
+<img src='file:\$$$\resources\2006 April 63E\imgs\65.png' width = '430'height = '379'/>
+<div class = "choice">F. (0, 1, 1)</div>
+<div class = "choice">G. (0, <img src='file:\$$$\resources\2006 April 63E\imgs\66.png' width = '41'height = '42'/>, 0)</div>
+<div class = "choice">H. (0,<img src='file:\$$$\resources\2006 April 63E\imgs\67.png' width = '41'height = '42'/> , 1)</div>
+<div class = "choice">J. (0, <img src='file:\$$$\resources\2006 April 63E\imgs\68.png' width = '41'height = '42'/>,<img src='file:\$$$\resources\2006 April 63E\imgs\69.png' width = '38'height = '42'/>)</div>
+<div class = "choice">K. (1, 1, 1)</div>
+</div>
+###################
+<div class = "quiz">53. Whenever x, y, and z are positive real numbers, which of the following expressions is equivalent to 2 log<img src='file:\$$$\resources\2006 April 63E\imgs\70.png' width = '16'height = '42'/> <img src='file:\$$$\resources\2006 April 63E\imgs\71.png' width = '68'height = '71'/> log<img src='file:\$$$\resources\2006 April 63E\imgs\72.png' width = '16'height = '42'/>y－log<img src='file:\$$$\resources\2006 April 63E\imgs\73.png' width = '16'height = '42'/> z?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\74.png' width = '120'height = '82'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\75.png' width = '234'height = '82'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 April 63E\imgs\76.png' width = '218'height = '77'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\77.png' width = '257'height = '48'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 April 63E\imgs\78.png' width = '257'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">54. If 2≤x≤5 and -4≤y≤-3, what is the maximum value of |y-2x|?
+<div class = "choice">F. 20</div>
+<div class = "choice">G. 14</div>
+<div class = "choice">H. 13</div>
+<div class = "choice">J. 8</div>
+<div class = "choice">K. 7</div>
+</div>
+###################
+<div class = "quiz">55. The measure of each interior angle of a regular n-sided polygon is<img src='file:\$$$\resources\2006 April 63E\imgs\79.png' width = '132'height = '71'/>. A regular pentagon is shown below. What is the measure of the designated angle？
+<img src='file:\$$$\resources\2006 April 63E\imgs\80.png' width = '368'height = '292'/>
+<div class = "choice">A. 108°</div>
+<div class = "choice">B. 144°</div>
+<div class = "choice">C. 198°</div>
+<div class = "choice">D. 252°</div>
+<div class = "choice">E. 288°</div>
+</div>
+###################
+<div class = "quiz">56. Which of the following trigonometric functions has an amplitude of 2?
+(Note: The amplitude of a trigonometric function is <img src='file:\$$$\resources\2006 April 63E\imgs\81.png' width = '24'height = '71'/> the nonnegative difference between the maximum and minimum values of the function.)
+<div class = "choice">F. f(x) = 2 sin x</div>
+<div class = "choice">G. f(x) = 2 tan x</div>
+<div class = "choice">H. f(x) = sin<img src='file:\$$$\resources\2006 April 63E\imgs\82.png' width = '60'height = '71'/></div>
+<div class = "choice">J. f(x) = cos 2x</div>
+<div class = "choice">K. f(x) = <img src='file:\$$$\resources\2006 April 63E\imgs\83.png' width = '24'height = '71'/>cos x</div>
+</div>
+###################
+<div class = "quiz">57. Which of the following is an equivalent expression for r in terms of S and t whenever r, S, and t are all distinct and S=<img src='file:\$$$\resources\2006 April 63E\imgs\84.png' width = '70'height = '71'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 April 63E\imgs\85.png' width = '72'height = '71'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 April 63E\imgs\86.png' width = '61'height = '71'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 April 63E\imgs\87.png' width = '61'height = '71'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 April 63E\imgs\88.png' width = '72'height = '73'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 April 63E\imgs\89.png' width = '60'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">58. In the figure below, lines l and m are parallel and angle measures are as marked. If it can be determined, what is the value of x?
+<img src='file:\$$$\resources\2006 April 63E\imgs\90.png' width = '550'height = '270'/>
+<div class = "choice">F. 35</div>
+<div class = "choice">G. 45</div>
+<div class = "choice">H. 65</div>
+<div class = "choice">J. 80</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">59. In the triangle below, where the 2 given side lengths are expressed in feet, what is the value of b?
+<img src='file:\$$$\resources\2006 April 63E\imgs\91.png' width = '680'height = '358'/>
+<div class = "choice">A. 3 cos 20°</div>
+<div class = "choice">B. 3 sin 20°</div>
+<div class = "choice">C. 3 tan 20°</div>
+<div class = "choice">D. 3 sin 70°</div>
+<div class = "choice">E. 3 tan 70°</div>
+</div>
+###################
+<div class = "quiz">60. An angle in standard position in the standard (x, y)coordinate plane has its vertex at the origin and its initial side on the positive x-axis. If the measure of an angle in standard position is 1,573°, it has the same terminal side as an angle of each of the following measures EXCEPT:
+<div class = "choice">F. -587°</div>
+<div class = "choice">G. -227°</div>
+<div class = "choice">H. 133°</div>
+<div class = "choice">J. 493°</div>
+<div class = "choice">K. 573°</div>
+
+</div>
+###################

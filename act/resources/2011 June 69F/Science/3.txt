@@ -1,0 +1,58 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As calcium oxalate hydrate (<img src='file:\$$$\resources\2011 June 69F\imgs\171.png' width = '159'height = '42'/>) is heated, it first dehydrates to yield calcium oxalate (<img src='file:\$$$\resources\2011 June 69F\imgs\172.png' width = '94'height = '42'/>). Next, the <img src='file:\$$$\resources\2011 June 69F\imgs\173.png' width = '94'height = '42'/> decomposes into calcium carbonate (<img src='file:\$$$\resources\2011 June 69F\imgs\174.png' width = '84'height = '42'/>) and carbon monoxide (CO). The <img src='file:\$$$\resources\2011 June 69F\imgs\175.png' width = '84'height = '42'/> then further decomposes into CaO and <img src='file:\$$$\resources\2011 June 69F\imgs\176.png' width = '55'height = '42'/> (see equations below).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\177.png' width = '626'height = '48'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\178.png' width = '422'height = '48'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\179.png' width = '394'height = '48'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a thermogravimetric analysis (TGA), the mass of a sample is monitored as the sample's temperature is steadily increased. A noureactive gas is streamed over the sample to carry away any gaseous products. The figure shows the results of a TGA of a 100 g sample of<img src='file:\$$$\resources\2011 June 69F\imgs\180.png' width = '159'height = '42'/>.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\181.png' width = '474'height = '384'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Mile. Simonne Peltier and Clement Duval, "Sur ia Thermogravimetrie des Precipites Analytiques: Ⅱ. Dosage Du cal-cium." © 1947 by Elsevier Science B.V.</div>
+
+<br>
+###################
+<div class = "quiz">13. If the sample of <img src='file:\$$$\resources\2011 June 69F\imgs\182.png' width = '159'height = '42'/> had been 50 g, the mass of the sample at 900℃ would have been approximately:
+<div class = "choice">A. 20 g.</div>
+<div class = "choice">B. 40 g.</div>
+<div class = "choice">C. 60 g.</div>
+<div class = "choice">D. 80 g.</div>
+</div>
+###################
+<div class = "quiz">14. During the TGA, the largest change in mass resulted from the decomposition of:
+<div class = "choice">F.<img src='file:\$$$\resources\2011 June 69F\imgs\183.png' width = '159'height = '42'/>.</div>
+<div class = "choice">G.<img src='file:\$$$\resources\2011 June 69F\imgs\184.png' width = '94'height = '42'/>.</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2011 June 69F\imgs\185.png' width = '84'height = '42'/>.</div>
+<div class = "choice">J. CaO.</div>
+</div>
+###################
+<div class = "quiz">15. Calcium oxalate started to decompose at approximately what temperature?
+<div class = "choice">A. 220℃</div>
+<div class = "choice">B. 350℃</div>
+<div class = "choice">C. 400℃</div>
+<div class = "choice">D. 660℃</div>
+</div>
+###################
+<div class = "quiz">16. When the TGA began, approximately what percent of the mass of the sample was made up of<img src='file:\$$$\resources\2011 June 69F\imgs\186.png' width = '60'height = '42'/>?
+<div class = "choice">F. 12%</div>
+<div class = "choice">G. 38%</div>
+<div class = "choice">H. 62%</div>
+<div class = "choice">J. 88%</div>
+</div>
+###################
+<div class = "quiz">17. The CO<img src='file:\$$$\resources\2011 June 69F\imgs\187.png' width = '16'height = '42'/> that was part of the reactions that occurred during the TGA could best be described as a:
+<div class = "choice">A. reactant formed directly by the decomposition of<img src='file:\$$$\resources\2011 June 69F\imgs\188.png' width = '94'height = '42'/>.</div>
+<div class = "choice">B. reactant formed directly by the decomposition of<img src='file:\$$$\resources\2011 June 69F\imgs\189.png' width = '84'height = '42'/>.</div>
+<div class = "choice">C. product formed directly by the decomposition of<img src='file:\$$$\resources\2011 June 69F\imgs\190.png' width = '94'height = '42'/>.</div>
+<div class = "choice">D. product formed directly by the decomposition of<img src='file:\$$$\resources\2011 June 69F\imgs\191.png' width = '84'height = '42'/>.</div>
+<br>
+</div>
+###################

@@ -1,0 +1,136 @@
+
+<h1>Highway Flowers</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following paragraphs may or may not be in the most logical order. Each paragraph is numbered in brackets, and question 45 will ask you to choose where Paragraph 4 should most logically be placed.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wildflowers thrive in stunning stretches of color along the highways across the United States. In California, poppies spread in dazzling carpets of orange. <font id=31>31</font> In Virginia, pink cosmos accent the <font id=32>landscape, occasionally</font>, these scenic expanses come about with no help from humans. Often, <font id=33>for example,</font> they are the lovely outcome of federal, state, and local programs to restore <font id=34>and preserve the lasting character of</font> the natural beauty of the national landscape.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>The individuals who are passionate about these programs point out that native plants along a roadway do more than beautify the area.</font> Properly selected vegetation absorbs rainwater runoff that might otherwise create hazardous conditions on the highways. <font id=36>The plants also provide habitat for songbirds, butterflies, and other wildlife.</font> Furthermore, highway maintenance costs and <font id=37>pollution decreases</font< in areas planted with native flowers and grasses, which require <font id=38>little, if any,</font> mowing or chemical treatment.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=39>Texas was</font> one of the early leaders in this movement, established a wildflower program in the 1930s, thanks to the initiative of Gibb Gilchrist, the state's highway engineer at the time. Thirty year later, another Texan strengthened roadway beautification programs <font id=40>at a national level.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a child, Claudia Taylor became deeply attached to the wild beauty of her surroundings. As an adult, she devoted herself to protecting and restoring habitat that she saw rapidly disappearing, In the 1960s, she moved into the White House with her husband, President Lyndon <font id=41>Johnson, by</font> then widely known as "Lady Bird" Johnson, this crusader took a stand for native plants and the wildlife that depend on them. She strongly believed <font id=42>if humans were to</font> benefit immeasurably from beauty in their environment. By working for the passage of the Highway Beautification Act in 1963, she helped create a national <font id=43>legacy to endure for others.</font> That legacy blooms from coast to coast, <font id=44>from sea to shining sea.</font></div>
+
+<br>
+###################
+<div class = "quiz">31. At this point, the writer is considering adding the following true statement:
+In Iowa, purple coneflowers sway in summer breezes.
+Should the writer make this addition here?
+<div class = "choice">A. Yes, because it helps establish that the essay is set in the Midwest in the summer.</div>
+<div class = "choice">B. Yes, because it helps reinforce the main point of this paragraph.</div>
+<div class = "choice">C. No, because its focus on a state is not appropriate in a paragraph about a national issue.</div>
+<div class = "choice">D. No, because it does not make it clear whether coneflowers grow in every state.</div>
+</div>
+###################
+<div class = "quiz">32.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. landscape occasionally</div>
+<div class = "choice">H. landscape occasionally,</div>
+<div class = "choice">J. landscape. Occasionally,</div>
+</div>
+###################
+<div class = "quiz">33.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. however,</div>
+<div class = "choice">C. in the meantime,</div>
+<div class = "choice">D. once in a while,</div>
+</div>
+###################
+<div class = "quiz">34.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. and preserve</div>
+<div class = "choice">H. the character of the preservation of</div>
+<div class = "choice">J. in a characteristic fashion the preservation of</div>
+</div>
+###################
+<div class = "quiz">35. The writer is considering deleting the phrase "who are passionate about these programs" from the preceding sentence. Should the phrase be kept or deleted?
+<div class = "choice">A. Kept, because it indicates the paragraph's focus on the people who founded .federal wildflower programs.</div>
+<div class = "choice">B. Kept, because it clarifies the term individuals and contributes to the logic of the paragraph.</div>
+<div class = "choice">C. Deleted, because the first paragraph of the essay has already established that people are passionate about wildflowers.</div>
+<div class = "choice">D. Deleted, because it draws attention away from the wildflowers and places it on people.</div>
+</div>
+###################
+<div class = "quiz">36. The writer is considering deleting the phrase "for songbirds, butterflies, and other wildlife" from the preceding sentence (and placing, a period after the word habitat). Should the phrase be kept or deleted?
+<div class = "choice">F. Kept, because it clarifies the claim made in the first part of the sentence.</div>
+<div class = "choice">G. Kept, because it strengthens the paragraph's focus on songbirds and butterflies.</div>
+<div class = "choice">H. Deleted, because the essay is mainly about wildflowers, not birds or butterflies.</div>
+<div class = "choice">J. Deleted, because the information fails to specify which species of songbirds or butterflies populate the habitat.</div>
+</div>
+###################
+<div class = "quiz">37.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. pollution decrease</div>
+<div class = "choice">C. pollution has decreased</div>
+<div class = "choice">D. also decreasing pollution</div>
+</div>
+###################
+<div class = "quiz">38.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. little, if any</div>
+<div class = "choice">H. little if any,</div>
+<div class = "choice">J. little; if any</div>
+</div>
+###################
+<div class = "quiz">39.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Texas, where</div>
+<div class = "choice">C. In Texas,</div>
+<div class = "choice">D. Texas,</div>
+</div>
+###################
+<div class = "quiz">40. Given that all the choices are true, which one best clarifies the distinction between the actions of the two Texans mentioned in this paragraph?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. involving wildflowers.</div>
+<div class = "choice">H. at a different level.</div>
+<div class = "choice">J. several decades after Gilchrist.</div>
+</div>
+###################
+<div class = "quiz">41.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Johnson. By</div>
+<div class = "choice">C. Johnson by</div>
+<div class = "choice">D. Johnson by,</div>
+</div>
+###################
+<div class = "quiz">42.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. because if humans</div>
+<div class = "choice">H. that if humans</div>
+<div class = "choice">J. that humans</div>
+</div>
+###################
+<div class = "quiz">43.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. legacy for the benefit of those who come in the future.</div>
+<div class = "choice">C. project of the type that can appropriately be called a legacy.</div>
+<div class = "choice">D. legacy.</div>
+</div>
+###################
+<div class = "quiz">44. Given that all the choices are true, which one concludes the paragraph with a colorful image that relates to the main topic of the essay?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. thanks to the hard work of so many people over the years who have lent their efforts to an important national cause.</div>
+<div class = "choice">H. starting with the bluebells of spring and lasting through the sunflowers of autumn.</div>
+<div class = "choice">J. throughout many times of the year for the benefit of one and all.</div>
+</div>
+###################
+<div class = "quiz">45. For the sake of the logic and coherence of this essay, Paragraph 4 should be placed:
+Question 45 asks about the preceding passage. as a whole.
+<div class = "choice">A. where it is now.</div>
+<div class = "choice">B. before Paragraph 1.</div>
+<div class = "choice">C. before Paragraph 2.</div>
+<div class = "choice">D. before Paragraph 3.</div>
+<br>
+</div>
+###################

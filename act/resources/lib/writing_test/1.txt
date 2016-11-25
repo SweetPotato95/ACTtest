@@ -1,0 +1,12 @@
+﻿<h1>Intelligent Machines</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many of the goods and services we depend on daily are now supplied by intelligent, automated machines rather than human beings. Robots build cars and other goods on assembly lines, where once there were human workers. Many of our phone conversations are now conducted not with people but with sophisticated technologies. We can now buy goods at a variety of stores without the help of a human cashier. Automation is generally seen as a sign of progress, but what is lost when we replace humans with machines? Given the accelerating variety and prevalence of intelligent machines, it is worth examining the implications and meaning of their presence in our lives.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What we lose with the replacement of people by machines is some part of our own humanity. Even our mundane daily encounters no longer require from us basic courtesy, respect, and tolerance for other people.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Machines are good at low-skill, repetitive jobs, and at high-speed, extremely precise jobs. In both cases they work better than humans. This efficiency leads to a more prosperous and progressive world for everyone.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Intelligent machines challenge our long-standing ideas about what humans are or can be. This is good because it pushes both humans and machines toward new, unimagined possibilities.</div>

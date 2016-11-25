@@ -1,0 +1,64 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two measures of water quality are the number of Escherichia coli bacteria present and the biotic index, BI (a numerical value based on the type, diversity, and pollution tolerance of aquatic invertebrate animals). Both of these measures can be affected by water flow.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">E. coli levels that are above. 100 colonies formed per 100 mL of water indicate reduced water quality. Figure 1 shows the E. coli levels on 5 collection days at Sites 1 and 2 in a river.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\139.png' width = '383'height = '258'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table 1 shows how water quality rating varies with BI. Table 2 shows the average BI of each site during the collection period.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:656.8pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="438"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:328.4pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>BI </span></p></td><td style="width:328.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Water quality rating</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:328.4pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>≥3.6</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2.6 to 3.5</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2.1 to 2.5</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1.0 to 2.0</span></p></td><td style="width:328.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Excellent</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Good</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Fair</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>poor</span></p></td></tr></table></div>
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:656.8pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="438"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Table 2</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:328.4pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Location</span></p></td><td style="width:328.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Average BI</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:328.4pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Site 1</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Site 2</span></p></td><td style="width:328.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="219"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>6.3</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2.5</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figured 2 shows the water flow at each site on the 5 collection days.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\140.png' width = '374'height = '258'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Stephen C. Landry and Michele L. Tremblay, "Stale of the Upper Merrimack 1995-1997: A River Quality Report." ©2000 by Upper Merrimack River Local Advisory Committee.</div>
+
+<br>
+###################
+<div class = "quiz">1. If an E. coli level of over 400 colonies formed per 100 mL of water is unsafe for swimming, on which of the following collection days and at which site would it have been unsafe to swim?
+<div class = "choice">A. Day 1 at Site 1</div>
+<div class = "choice">B. Day 30 at Site 1</div>
+<div class = "choice">C. Day 1 at Site 2</div>
+<div class = "choice">D. Day 30 at Site 2</div>
+</div>
+###################
+<div class = "quiz">2. Based on Figures 1 and 2, consider the average water flow and the average E. coli level for Site 1 and Site 2 over the collection period. Which site had the higher average water flow, and which site had the higher average E. coli level?
+<div class = "choice">F. Higher water flow: site1,  Higher E. coli level: site1</div>
+<div class = "choice">G. Higher water flow: site1,  Higher E. coli level: site2</div>
+<div class = "choice">H. Higher water flow: site2,  Higher E. coli level: site1</div>
+<div class = "choice">J. Higher water flow: site2,  Higher E. coli level: site2</div>
+</div>
+###################
+<div class = "quiz">3. As water quality improves, the number of stone fly larvae (a type of aquatic invertebrate) increases. Students hypothesized that more stone fly larvae would be found at Site 1 than at Site 2, Are the data presented in Table 2 consistent with this hypothesis?
+<div class = "choice">A. Yes; based on BI, Site 1 had a water quality rating of good and Site 2 had a water quality rating of poor.</div>
+<div class = "choice">B. Yes; based on Bi, Site 1 had a water quality rating of excellent and Site 2 had a water quality rating of fair.</div>
+<div class = "choice">C. No; based on BI, Site 1 had a water quality rating of poor and Site 2 had a water quality rating of good.</div>
+<div class = "choice">D. No; based on BI, Site 1 had a water quality rating of fair .and Site 2 had a water quality rating of excellent.</div>
+</div>
+###################
+<div class = "quiz">4. Which set of data best supports the has lower water quality than Site 2 ?
+<div class = "choice">F. Figure 1</div>
+<div class = "choice">G. Figure 2</div>
+<div class = "choice">H. Table 1</div>
+<div class = "choice">J. Table 2</div>
+</div>
+###################
+<div class = "quiz">5. Suppose large amounts of fertilizer from adjacent fields begin to enter the river at. Site 1. The BI of this site will most likely change in which of the following ways? The BI will:
+<div class = "choice">A. increase, because water quality	is likely to increase.</div>
+<div class = "choice">B. increase, because water quality	is likely to decrease.</div>
+<div class = "choice">C. decrease, because water quality is likely to increase.</div>
+<div class = "choice">D. decrease, because water equality is likely to decrease.</div>
+<br>
+</div>
+###################

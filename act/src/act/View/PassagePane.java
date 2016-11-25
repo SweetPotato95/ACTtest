@@ -3,6 +3,8 @@ package act.View;
 import javax.swing.*;
 
 import act.Model.*;
+
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.io.*;
@@ -24,12 +26,15 @@ public class PassagePane extends JPanel{
 		basicInfo = new TestBasicInfo();
 		scrollPane = new JScrollPane(passagepane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 	    scrollPane.setVisible(true);
+	    passagepane.setBackground(Color.WHITE);
 	}
 	
 	public void init(int w,int h){
+		this.setBackground(Color.WHITE);
 		passagepane.setVisible(true);
+		passagepane.setEditable(false);
 		passagepane.setContentType("text/html");
-		passagepane.setOpaque(false);
+//		passagepane.setOpaque(false);
 		Font font = new Font("Segoe UI",Font.BOLD,19);
 		HTMLEditorKit kit = (HTMLEditorKit)passagepane.getEditorKit();
 		String bodyRule = "body { font-family: " + font.getFamily() + "; " +
@@ -39,7 +44,7 @@ public class PassagePane extends JPanel{
 		passageFile = new File("D://test.html"); 
 			//passagepane.setPage(passageFile.toURI().toURL());
 		passagepane.setText("<html><body><h1>haha</h1><p>fuckfuck</p></body></html>");
-		
+		passagepane.setBackground(Color.WHITE);
 		scrollPane.setPreferredSize(new Dimension(w,h));
 		this.setPreferredSize(new Dimension(w,h));
         this.add(scrollPane);		
@@ -55,18 +60,25 @@ public class PassagePane extends JPanel{
 	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
 //		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ questionIndex);
 		if(partIndex != ModelConstants.WRITING){
-			int questionId = basicInfo.questionIndexinSplit(questionIndex);
+			int questionId = basicInfo.questionIndexinPart(questionIndex);
+			int questionIId = basicInfo.questionIndexinSplit(questionIndex);
+			
 			String passagetext = readingBrain.getPassage();
 			questionId += 1;
 			String substring = "<font id="+questionId+">";
+			String substring1 = "<font hidden id="+questionId+">";
 			passagetext = passagetext.replace(substring, "<font style=\"background-color:yellow;\">");
-	//		System.out.println("DEBUG INFO: passagePane.requestUpdate "+ passagetext);
+			passagetext = passagetext.replace(substring1, "<font style=\"background-color:yellow;\">");
 			passagepane.setText("<html><body>"+passagetext+"</body></html>");
 			int height = scrollPane.getVerticalScrollBar().getValue();
+			
 			javax.swing.SwingUtilities.invokeLater(new Runnable() {
 				   public void run() {
-				       scrollPane.getVerticalScrollBar().setValue(height);
-				       scrollPane.revalidate();
+					   if (questionIId != 0) 
+						   scrollPane.getVerticalScrollBar().setValue(height);
+					   else
+						   scrollPane.getVerticalScrollBar().setValue(0);
+//				       scrollPane.revalidate();
 				   }
 				});
 		}
@@ -77,10 +89,10 @@ public class PassagePane extends JPanel{
 			javax.swing.SwingUtilities.invokeLater(new Runnable() {
 				   public void run() {
 				       scrollPane.getVerticalScrollBar().setValue(height);
-				       scrollPane.revalidate();
+//				       scrollPane.revalidate();
 				   }
 				});
 		}
-		
+		passagepane.setBackground(Color.WHITE);
 	}
 };

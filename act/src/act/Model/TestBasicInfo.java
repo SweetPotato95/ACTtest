@@ -85,6 +85,17 @@ public class TestBasicInfo{
 		}
 		return res;
 	}
+	public int questionIndexinPart(int questionIndexinTotal){
+		int t = questionIndexinTotal;
+		if(t==ModelConstants.QUESTIONNUM_TOTAL)return ModelConstants.QUESTIONNUM_PER_PART[ModelConstants.PARTNUM_TOTAL-1]-1;
+		int res = t;
+		int i = 0;
+		while(t>=0){
+			res = t;
+			t-=ModelConstants.QUESTIONNUM_PER_PART[i++];
+		}
+		return res;
+	}
 	public int splitIndexinPart(int splitIndexinTotal){
 		int s = splitIndexinTotal;
 		if(s==ModelConstants.SPLITNUM_TOTAL)return ModelConstants.SPLITNUM_PER_PART[ModelConstants.PARTNUM_TOTAL-1];

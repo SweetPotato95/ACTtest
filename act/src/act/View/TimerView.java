@@ -97,6 +97,9 @@ public class TimerView extends JPanel{
 		jl1 = new JLabel();
 		jl2 = new JLabel();
 		jl3 = new JLabel();
+		jl1.setForeground(new Color(192,192,192));
+		jl2.setForeground(new Color(192,192,192));
+		jl3.setForeground(new Color(192,192,192));
 		jtp = new JTextPane();
 		init();
 
@@ -114,9 +117,10 @@ public class TimerView extends JPanel{
 		jp.add(jl2);
 		jp.add(jl3);
 //		jp.setForeground(Color.WHITE);
-		jp.setBackground(Color.gray);
-		
-		this.setBackground(Color.gray);
+//		jp.setBackground(Color.gray);
+		jp.setOpaque(false);
+//		this.setBackground(Color.gray);
+		this.setOpaque(false);
 		jp.setVisible(true);
 		//this.setLayout(new GridLayout(3,1));
 		this.add(Box.createVerticalGlue());

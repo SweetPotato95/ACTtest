@@ -1,113 +1,124 @@
-<h1>Passage I</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Finding Tomatoes in Winter</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1] When I was growing up on our farm in North Carolina, my favorite chore was canning tomatoes with my mother. [2] In our one-acre garden, the <u>1 weight of the</u> tomato plants would slump with ripening fruit, the stems would break, and the pungent smell of late summer would be released. [3] <u>2 Pleasantly heavy and warm from the sun, I can still imagine the feel of the fruit.</u> [4] That smell told us that it was time to walk the vines and <u>3 the best of the being selected for canning.</u> </div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">We washed the tomatoes in the kitchen while a large pot of water heated up on the stove.  When the water came to a boil, we dropped the tomatoes into the pot for exactly on minute, retrieved them, and then plunged them into ice water. This double dunking loosened the skin so we could easily peel it a way from the juicy, red pulp.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><u>6 Next, my mother and I,</u> cored the tomatoes. Then came my favorite part: crushing them into small pieces to fit into the canning jars. I can see myself now, standing in a steamy kitchen, <u>7 overalls spattered with pulp, sweat</u> dripping from my chin. It was impossible to keep a straight face as seeds squirted through the <u>8 air and stuck to the walls around us.</u> Sometimes we sang along with the radio, frequently substituting the word tomato for a prominent word in the song.  Sometimes the only sound in the kitchen would be the fan, rotating on <u>10 its’ squeaky</u> hinge, sending a breeze our way. Patches of salt <u>11 forming</u> on our faces and arms as our sweat evaporated into the August air.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Once the chore was finished, the tomatoes would line the pantry shelves alongside spiced peaches and snap beans, <u>12 all gleaming colorfully in their jars.</u> Together they were our <u>13 familys’</u> protection against the bleak winter.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Now I live a long way from my family and their farm in North Carolina. In the winter, I savor the fresh supply of the half dozen or so jars of tomatoes Mom sends me every year. On special occasions, I reach for one, twist off the top, and let the smell of summer drift back <u>14 to</u> me from my childhood. </div>
+<h1>Finding Tomatoes in Winter</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=4>[1] When I was growing up on our farm in North Carolina, my favorite chore was canning tomatoes with my mother. [2] In our one-acre garden, the <font id=1>weight of the</font> tomato plants would slump with ripening fruit, the stems would break, and the pungent smell of late summer would be released. [3] <font id=2>Pleasantly heavy and warm from the sun, I can still imagine the feel of the fruit. </font> [4] That smell told us that it was time to walk the vines and <font id=3>the best of the being selected for canning. </font></font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=5>We washed the tomatoes in the kitchen while a large pot of water heated up on the stove. </font> When the water came to a boil, we dropped the tomatoes into the pot for exactly on minute, retrieved them, and then plunged them into ice water. This double dunking loosened the skin so we could easily peel it a way from the juicy, red pulp.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=6>Next, my mother and I, </font> cored the tomatoes. Then came my favorite part: crushing them into small pieces to fit into the canning jars. I can see myself now, standing in a steamy kitchen, <font id=7>overalls spattered with pulp, sweat</font> dripping from my chin. It was impossible to keep a straight face as seeds squirted through the <font id=8>air and stuck to the walls around us. </font> <font id=9>Sometimes we sang along with the radio, frequently substituting the word tomato for a prominent word in the song. </font> Sometimes the only sound in the kitchen would be the fan, rotating on <font id=10>its' squeaky</font> hinge, sending a breeze our way. Patches of salt <font id=11>forming</font> on our faces and arms as our sweat evaporated into the August air.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Once the chore was finished, the tomatoes would line the pantry shelves alongside spiced peaches and snap beans, <font id=12>all gleaming colorfully in their jars. </font> Together they were our <font id=13>familys' </font> protection against the bleak winter.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=15>Now I live a long way from my family and their farm in North Carolina. In the winter, I savor the fresh supply of the half dozen or so jars of tomatoes Mom sends me every year. On special occasions, I reach for one, twist off the top, and let the smell of summer drift back <font id=14>to</font> me from my childhood. </font></div>
+
+<br>
 ###################
-<div class = "quiz">1. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.size of the</div>
-<div class = "choice">C.ripening</div>
-<div class = "choice">D.OMIT the underlined portion.</div>
+<div class = "quiz">1.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. size of the</div>
+<div class = "choice">C. ripening</div>
+<div class = "choice">D. OMIT the underlined portion.</div>
 </div>
 ###################
-<div class = "quiz">2. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.I can still imagine the feel of the fruit, pleasantly heavy and warm from the sun.</div>
-<div class = "choice">H.Pleasantly, the fruit is still warm and heavy where I can feel it in my imagination from the sun.</div>
-<div class = "choice">J.Pleasantly heavy, I can still imagine the feel of the warm fruit from the sun.</div>
+<div class = "quiz">2.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. I can still imagine the feel of the fruit, pleasantly heavy and warm from the sun.</div>
+<div class = "choice">H. Pleasantly, the fruit is still warm and heavy where I can feel it in my imagination from the sun.</div>
+<div class = "choice">J. Pleasantly heavy, I can still imagine the feel of the warm fruit from the sun.</div>
 </div>
 ###################
-<div class = "quiz">3. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.we select the best of the crop for canning.</div>
-<div class = "choice">C.select the best of the crop for canning.</div>
-<div class = "choice">D.canning the best of the crop that we selected.</div>
+<div class = "quiz">3.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. we select the best of the crop for canning.</div>
+<div class = "choice">C. select the best of the crop for canning.</div>
+<div class = "choice">D. canning the best of the crop that we selected.</div>
 </div>
 ###################
 <div class = "quiz">4. For the sake of the logic and coherence of this paragraph, Sentence 4 should be placed:
-<div class = "choice">F.where it is now.</div>
-<div class = "choice">G.before Sentence 1.</div>
-<div class = "choice">H.after Sentence 1.</div>
-<div class = "choice">J.after Sentence 2.</div>
+<div class = "choice">F. where it is now.</div>
+<div class = "choice">G. before Sentence 1.</div>
+<div class = "choice">H. after Sentence 1.</div>
+<div class = "choice">J. after Sentence 2.</div>
 </div>
 ###################
 <div class = "quiz">5. If the writer were to delete the phrase "while a large pot of water heated up on the stove" from the preceding sentence (placing a period after the word kitchen), the paragraph would primarily lose a phrase that:
-<div class = "choice">A.describes the duties specific to the narrator’s role in canning tomatoes.</div>
-<div class = "choice">B.indicates where the canning takes place and why water is needed in the process.</div>
-<div class = "choice">C.establishes a logical transition to the information in the remainder of the paragraph.</div>
-<div class = "choice">D.establishes that part of the canning process involved putting the tomatoes in water.</div>
+<div class = "choice">A. describes the duties specific to the narrator's role in canning tomatoes.</div>
+<div class = "choice">B. indicates where the canning takes place and why water is needed in the process.</div>
+<div class = "choice">C. establishes a logical transition to the information in the remainder of the paragraph.</div>
+<div class = "choice">D. establishes that part of the canning process involved putting the tomatoes in water.</div>
 </div>
 ###################
-<div class = "quiz">6. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.Next my mother and I,</div>
-<div class = "choice">H.Next my mother, and I</div>
-<div class = "choice">J.Next, my mother and I</div>
+<div class = "quiz">6.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Next my mother and I,</div>
+<div class = "choice">H. Next my mother, and I</div>
+<div class = "choice">J. Next, my mother and I</div>
 </div>
 ###################
-<div class = "quiz">7. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.overalls spattered, with pulp sweat,</div>
-<div class = "choice">C.overalls, spattered with pulp, sweat</div>
-<div class = "choice">D.overalls spattered with pulp sweat</div>
+<div class = "quiz">7.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. overalls spattered, with pulp sweat,</div>
+<div class = "choice">C. overalls, spattered with pulp, sweat</div>
+<div class = "choice">D. overalls spattered with pulp sweat</div>
 </div>
 ###################
 <div class = "quiz">8. Given that all the choices are true, which one helps the reader best visualize the specifics of the scene?
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.air while we watched with amusement.</div>
-<div class = "choice">H.air, creating a sight to behold.</div>
-<div class = "choice">J.air on those hot summer days.</div>
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. air while we watched with amusement.</div>
+<div class = "choice">H. air, creating a sight to behold.</div>
+<div class = "choice">J. air on those hot summer days.</div>
 </div>
 ###################
 <div class = "quiz">9. The writer is considering deleting the preceding sentence. Should the writer make this change?
-<div class = "choice">A.Yes, because the sentence disrupts the paragraph’s attention to the visual aspects of the narrator’s memory of canning tomatoes.</div>
-<div class = "choice">B.Yes, because the sentence inappropriately shifts the focus of the paragraph to the narrator’s enthusiasm for singing.</div>
-<div class = "choice">C.No, because the sentence is consistent with the paragraph’s focus on the aspects of canning tomatoes that are memorable to the narrator.</div>
-<div class = "choice">D.No, because the sentence sets up a logical contrast with the narrator’s reserved behavior as described in the sentence before it.</div>
+<div class = "choice">A. Yes, because the sentence disrupts the paragraph's attention to the visual aspects of the narrator's memory of canning tomatoes.</div>
+<div class = "choice">B. Yes, because the sentence inappropriately shifts the focus of the paragraph to the narrator's enthusiasm for singing.</div>
+<div class = "choice">C. No, because the sentence is consistent with the paragraph's focus on the aspects of canning tomatoes that are memorable to the narrator.</div>
+<div class = "choice">D. No, because the sentence sets up a logical contrast with the narrator's reserved behavior as described in the sentence before it.</div>
 </div>
 ###################
-<div class = "quiz">10. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.it’s squeakier</div>
-<div class = "choice">H.it’s a squeaky</div>
-<div class = "choice">J.it’s squeaky</div>
+<div class = "quiz">10.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. it's squeakier</div>
+<div class = "choice">H. it's a squeaky</div>
+<div class = "choice">J. it's squeaky</div>
 </div>
 ###################
-<div class = "quiz">11. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.would form</div>
-<div class = "choice">C.form</div>
-<div class = "choice">D.OMIT the underlined portion.</div>
+<div class = "quiz">11.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. would form</div>
+<div class = "choice">C. form</div>
+<div class = "choice">D. OMIT the underlined portion.</div>
 </div>
 ###################
 <div class = "quiz">12. Given that all the choices are true, which one establishes a visual contrast with the image in the final sentence of this paragraph?
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.each jar the same size as the next.</div>
-<div class = "choice">H.giving me a sense of real accomplishment.</div>
-<div class = "choice">J.sometimes as many as twenty jars of each.</div>
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. each jar the same size as the next.</div>
+<div class = "choice">H. giving me a sense of real accomplishment.</div>
+<div class = "choice">J. sometimes as many as twenty jars of each.</div>
 </div>
 ###################
-<div class = "quiz">13. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.family’s</div>
-<div class = "choice">C.families</div>
-<div class = "choice">D.families’</div>
+<div class = "quiz">13.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. family's</div>
+<div class = "choice">C. families</div>
+<div class = "choice">D. families'</div>
 </div>
 ###################
-<div class = "quiz">14. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.with</div>
-<div class = "choice">H.before</div>
-<div class = "choice">J.along</div>
+<div class = "quiz">14.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. with</div>
+<div class = "choice">H. before</div>
+<div class = "choice">J. along</div>
 </div>
 ###################
 <div class = "quiz">15. If the writer were to delete this final paragraph, the essay would primarily lose:
-<div class = "choice">A.images that reveal that the narrator’s memories of canning tomatoes are fading over time.</div>
-<div class = "choice">B.a sense that the narrator is planning to move back to North Carolina as soon as possible.</div>
-<div class = "choice">C.in formation that indicates that distance contributes to the narrator’s nostalgia about canning tomatoes.</div>
-<div class = "choice">D.in formation about the narrator’s adult life that is irrelevant to the essay’s focus on canning tomatoes.</div>
+<div class = "choice">A. images that reveal that the narrator's memories of canning tomatoes are fading over time.</div>
+<div class = "choice">B. a sense that the narrator is planning to move back to North Carolina as soon as possible.</div>
+<div class = "choice">C. in formation that indicates that distance contributes to the narrator's nostalgia about canning tomatoes.</div>
+<div class = "choice">D. in formation about the narrator's adult life that is irrelevant to the essay's focus on canning tomatoes.</div>
+<br>
 </div>
 ###################

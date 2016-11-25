@@ -72,6 +72,7 @@ public class WritingInputPane extends JPanel{
 				}
 			}
 		});
+		editorPane.setFont(new Font("Microsoft Yahei",Font.PLAIN,16));
 		editorPane.setPreferredSize(new Dimension (ViewConstants.WRITING_INPUTPANE_WIDTH,ViewConstants.WRITING_EDITORPANE_HEIGHT));
 				scrollPane.setPreferredSize(new Dimension (ViewConstants.WRITING_INPUTPANE_WIDTH,ViewConstants.WRITING_EDITORPANE_HEIGHT));
 		scrollPane.setBorder(BorderFactory.createLineBorder(Color.black));

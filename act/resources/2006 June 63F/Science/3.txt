@@ -1,0 +1,66 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ice cream was made by stirring an ice cream mixture (MD at a constant rate in the apparatus shown in Figure l.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\148.png' width = '601'height = '370'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how the temperature of Ml and the temperature of the salt/ice mixture varied with mixing time.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\149.png' width = '640'height = '298'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The viscosity (resistance to flow) of M1 was monitored by measuring how the current drawn by the motor turning the stirring paddle changed with mixing time. Two other ice cream mixtures (M2 and M3) were also monitored under conditions identical to those used during the mixing of Ml (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\150.png' width = '640'height = '557'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from D. Gibbon et al., "The Thermodynamics of Home-Made Ice Cream."ⓒ1992 by Division of Chemical Education, Inc., American Chemical Society.</div>
+
+<br>
+###################
+<div class = "quiz">12. Based on Figures 2 and 3, for Mi, as the temperature of the salt/ice mixture increased, the electrical current:
+<div class = "choice">F. increased only.</div>
+<div class = "choice">G. decreased only.</div>
+<div class = "choice">H. increased, then decreased.</div>
+<div class = "choice">J. decreased, then increased.</div>
+</div>
+###################
+<div class = "quiz">13. A fourth ice cream mixture (M4) was monitored under the same conditions used to gather the data for Figure 3. The current at 0 min was l.33 amperes. How did the initial viscosity of M4 compare with that of Ml-M3? The initial viscosity of M4 was:
+<div class = "choice">A. less than that of Ml, M2, and M3.</div>
+<div class = "choice">B. less than that of Ml and M2, but greater than that of M3.</div>
+<div class = "choice">C. greater than that of Ml and M2, but less than that of M3.</div>
+<div class = "choice">D. greater than that of Ml, M2, and M3.</div>
+</div>
+###################
+<div class = "quiz">14. According to Figure 3, the current drawn by the motor at a mixing Lime of 8 min for M2 was closest to which of the following?
+<div class = "choice">F. 1.40 amperes</div>
+<div class = "choice">G. 1.45 amperes</div>
+<div class = "choice">H. 1.50 amperes</div>
+<div class = "choice">J. 1.55 amperes</div>
+</div>
+###################
+<div class = "quiz">15. Some ice cream makers automatically shut off when the current drawn by the electric motor reaches 2 amperes to indicate that the process is complete. Based on Figure 3, in this type of ice cream maker, which ice cream mixture, if any, would have the longest completion time?
+<div class = "choice">A. M1</div>
+<div class = "choice">B. M2</div>
+<div class = "choice">C. M3</div>
+<div class = "choice">D. All 3 mixtures would have the same completion time.</div>
+</div>
+###################
+<div class = "quiz">16. Based on Figure It which .of the following best explains the trends in the results shown in Figure 2? Overall, as mixing time increased, heat was conducted by the:
+<div class = "choice">F. steel container from the ice cream mixture to the salt/ice mixture.</div>
+<div class = "choice">G. steel container from the salt/ice mixture to the ice cream mixture.</div>
+<div class = "choice">H. electric motor from the stirring paddle to the ice cream mixture.</div>
+<div class = "choice">J. electric motor from the ice cream mixture to the stirring paddle.</div>
+<br>
+</div>
+###################

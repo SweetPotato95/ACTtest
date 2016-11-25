@@ -1,0 +1,119 @@
+<h3>Score 6:</h3>
+<strong>Responses at this scorepoint demonstrate effective skill in writing an argumentative essay.</strong>
+<ul>
+<li><strong>Ideas and Analysis</strong>
+<p>The writer generates an argument that critically engages with multiple perspectives on the given issue. The argument¡¯s thesis reflects nuance and precision in thought and purpose. The argument establishes and employs an insightful context for analysis of the issue and its perspectives. The analysis examines implications, complexities and tensions, and/or underlying values and assumptions.</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Development of ideas and support for claims deepen insight and broaden context. An integrated line of skillful reasoning and illustration effectively conveys the significance of the argument. Qualifications and complications enrich and bolster ideas and analysis</p>
+</li>
+<li>
+<strong>Organization </strong>
+<p>The response exhibits a skillful organizational strategy. The response is unified by a controlling idea or purpose, and a logical progression of ideas increases the effectiveness of the writer¡¯s argument. Transitions between and within paragraphs strengthen the relationships among ideas.</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language enhances the argument. Word choice is skillful and precise. Sentence structures are consistently varied and clear. Stylistic and register choices, including voice and tone, are strategic and effective. While a few minor errors in grammar, usage, and mechanics may be present, they do not impede understanding.</p>
+</li>
+</ul>
+<h3>Score 5:</h3>
+<strong>Responses at this scorepoint demonstrate well-developed skill in writing an argumentative essay.</strong>
+<ul>
+<li>
+<strong>Ideas and Analysis</strong>
+<p>The writer generates an argument that productively engages with multiple perspectives on the given issue. The argument¡¯s thesis reflects precision in thought and purpose. The argument establishes and employs a thoughtful context for analysis of the issue and its perspectives. The analysis addresses implications, complexities and tensions, and/or underlying values and assumptions.</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Development of ideas and support for claims deepen understanding. A mostly integrated line of purposeful reasoning and illustration capably conveys the significance of the argument. Qualifications and complications enrich ideas and analysis.</p>
+</li>
+<li>
+<strong>Organization</strong>
+<p>The response exhibits a productive organizational strategy. The response is mostly unified by a controlling idea or purpose, and a logical sequencing of ideas contributes to the effectiveness of the argument. Transitions between and within paragraphs consistently clarify the relationships among ideas.</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language works in service of the argument. Word choice is precise. Sentence structures are clear and varied often. Stylistic and register choices, including voice and tone, are purposeful and productive. While minor errors in grammar, usage, and mechanics may be present, they do not impede understanding</p>
+</li>
+</ul>
+<h3>Score 4:</h3>
+<strong>Responses at this scorepoint demonstrate adequate skill in writing an argumentative essay.</strong>
+<ul>
+<li>
+<strong>Ideas and Analysis</strong>
+<p>The writer generates an argument that engages with multiple perspectives on the given issue. The argument¡¯s thesis reflects clarity in thought and purpose. The argument establishes and employs a relevant context for analysis of the issue and its perspectives. The analysis recognizes implications, complexities and tensions, and/or underlying values and assumptions</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Development of ideas and support for claims clarify meaning and purpose. Lines of clear reasoning and illustration adequately convey the significance of the argument. Qualifications and complications extend ideas and analysis.</p>
+</li>
+<li>
+<strong>Organization</strong>
+<p>The response exhibits a clear organizational strategy. The overall shape of the response reflects an emergent controlling idea or purpose. Ideas are logically grouped and sequenced. Transitions between and within paragraphs clarify the relationships among ideas</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language conveys the argument with clarity. Word choice is adequate and sometimes precise. Sentence structures are clear and demonstrate some variety. Stylistic and register choices, including voice and tone, are appropriate for the rhetorical purpose. While errors in grammar, usage, and mechanics are present, they rarely impede understanding.</p>
+</li>
+</ul>
+<h3>Score 3:</h3>
+<strong>Responses at this scorepoint demonstrate some developing skill in writing an argumentative essay.</strong>
+<ul>
+<li>
+<strong>Ideas and Analysis</strong>
+<p>The writer generates an argument that responds to multiple perspectives on the given issue. The argument¡¯s thesis reflects some clarity in thought and purpose. The argument establishes a limited or tangential context for analysis of the issue and its perspectives. Analysis is simplistic or somewhat unclear</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Development of ideas and support for claims are mostly relevant but are overly general or simplistic. Reasoning and illustration largely clarify the argument but may be somewhat repetitious or imprecise.</p>
+</li>
+<li>
+<strong>Organization</strong>
+<p>The response exhibits a basic organizational structure. The response largely coheres, with most ideas logically grouped. Transitions between and within paragraphs sometimes clarify the relationships among ideas.</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language is basic and only somewhat clear. Word choice is general and occasionally imprecise. Sentence structures are usually clear but show little variety. Stylistic and register choices, including voice and tone, are not always appropriate for the rhetorical purpose. Distracting errors in grammar, usage, and mechanics may be present, but they generally do not impede understanding.</p>
+</li>
+</ul>
+<h3>Score 2:</h3>
+<strong>Responses at this scorepoint demonstrate weak or inconsistent skill in writing an argumentative essay.</strong>
+<ul>
+<li>
+<strong>Ideas and Analysis</strong>
+<p>The writer generates an argument that weakly responds to multiple perspectives on the given issue. The argument¡¯s thesis, if evident, reflects little clarity in thought and purpose. Attempts at analysis are incomplete, largely irrelevant, or consist primarily of restatement of the issue and its perspectives.</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Development of ideas and support for claims are weak, confused, or disjointed. Reasoning and illustration are inadequate, illogical, or circular, and fail to fully clarify the argument.</p>
+</li>
+<li>
+<strong>Organization</strong>
+<p>The response exhibits a rudimentary organizational structure. Grouping of ideas is inconsistent and often unclear. Transitions between and within paragraphs are misleading or poorly formed.</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language is inconsistent and often unclear. Word choice is rudimentary and frequently imprecise. Sentence structures are sometimes unclear. Stylistic and register choices, including voice and tone, are inconsistent and are not always appropriate for the rhetorical purpose. Distracting errors in grammar, usage, and mechanics are present, and they sometimes impede understanding.</p>
+</li>
+</ul>
+<h3>Score 1:</h3>
+<strong>Responses at this scorepoint demonstrate little or no skill in writing an argumentative essay.</strong>
+<ul>
+<li>
+<strong>Ideas and Analysis</strong>
+<p>The writer fails to generate an argument that responds intelligibly to the task. The writer¡¯s intentions are difficult to discern. Attempts at analysis are unclear or irrelevant.</p>
+</li>
+<li>
+<strong>Development and Support</strong>
+<p>Ideas lack development, and claims lack support. Reasoning and illustration are unclear, incoherent, or largely absent</p>
+</li>
+<li>
+<strong>Organization</strong>
+<p>The response does not exhibit an organizational structure. There is little grouping of ideas. When present, transitional devices fail to connect ideas</p>
+</li>
+<li>
+<strong>Language Use</strong>
+<p>The use of language fails to demonstrate skill in responding to the task. Word choice is imprecise and often difficult to comprehend. Sentence structures are often unclear. Stylistic and register choices are difficult to identify. Errors in grammar, usage, and mechanics are pervasiv and often impede understanding.</p>
+</li>
+</ul>

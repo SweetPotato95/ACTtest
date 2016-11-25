@@ -105,6 +105,7 @@ public class ScoreListViewCellEditor extends JPanel implements TableCellEditor,A
 		  ViewConstants.SCORE_LIST_VIEW_DETAIL_PADDING_UP);
   detailDialog.setVisible(true);
   detailDialog.setModel(row);
+  detailDialog.setScore(row);
   detailDialog.init();
  }
  

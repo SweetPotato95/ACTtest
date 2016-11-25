@@ -1,5 +1,6 @@
 package act.View;
 
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
@@ -24,20 +25,18 @@ public class SingleChoicePane extends JPanel{
 	public void init(String givenText,int i){
 		button = new JRadioButton("<html><body>"+givenText+"</body></html>");
 		button.setFont(ViewConstants.choiceFont);
+		button.setBackground(Color.WHITE);
 		button.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e){
 				choicePane.checkOption(index);
 			}
 		});
-		
 		//this.setMaximumSize(new Dimension(ViewConstants.CHOICEPANE_PART_WIDTH,1000));
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
 		this.add(button);
+		this.setBackground(Color.WHITE);
 		index = i;
-		
-		//this.setBorder(BorderFactory.createLineBorder(Color.black));
-		//this.add(panel);
 	}
 	public void requestUpdate(String giveText){
 

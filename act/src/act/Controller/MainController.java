@@ -26,7 +26,7 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
-private static boolean isDuringTest = true;private static PrintScore ps = new PrintScore();	public MainController()
+	private static boolean isDuringTest = true;private static PrintScore ps = new PrintScore();	public MainController()
 	{
 		
 	}
@@ -74,6 +74,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 				mainView.showWritingView();
 			}
 			mainView.requestUpdate(questionIndex, splitIndex, partIndex);
+			mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 			mainView.startTimer(partIndex);
 			return;
 		}
@@ -94,6 +95,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 		}
 		readingBrain.updateReading(testIndex,splitInPart[splitIndex], partIndex);
 		mainView.requestUpdate(questionIndex, splitIndex, partIndex);
+		mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 	}
 	
 	public static void handleBef(){
@@ -110,7 +112,7 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 		}
 		readingBrain.updateReading(testIndex,splitInPart[splitIndex], partIndex);
 		mainView.requestUpdate(questionIndex, splitIndex, partIndex);
-		
+		mainView.updateNavBar(splitInPart[splitIndex], partIndex);
 	}
 	public static void handleScore(){
 		isDuringTest = false;
@@ -237,7 +239,6 @@ private static boolean isDuringTest = true;private static PrintScore ps = new Pr
 		UpdateBrains(splitIndex,partIndex,testIndex);
 		//System.out.println(questionIndex+","+splitIndex);
 		isInstructionShowing = true;
-		
 	}
 	
 	public static boolean notThisPartWriting(){

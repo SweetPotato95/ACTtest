@@ -1,0 +1,89 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "The Social Life of Paper" by Malcolm Gladwell (?2002 by The Conde Nast Publications).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Computer technology was supposed to replace paper. But that hasn't happened. Every country in the Western world uses more paper today, on a per-capita basis, than it did ten years ago. The consumption of uncoated free-sheet paper, for instance—the most common kind of office paper—rose almost fifteen per cent in the United States between 1995 and 2000. This is generally taken as evidence of how hard it is to eradicate old, wasteful habits and of how stubbornly resistant we are to the efficiencies offered by computerization. A number of cognitive psychologists and ergonomic experts, however, don't agree. Paper has persisted, they argue, for very good reasons: when it comes to performing certain kinds of cognitive tasks, paper has many advantages over computers.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The case for paper is made most eloquently in The Myth of the Paperless Office, by two social scientists, Abigail Sellen and Richard Harper. They begin their book with an account of a study they conducted at the International Monetary Fund, in Washington, D.C. Economists at the IMF spend most of their time writing reports on complicated economic questions, work that would seem to be perfectly suited to sitting in front of a computer. Nonetheless, the IMF is <font id=19>awash</font> in paper, and Sellen and Harper wanted to find out why. Their answer is that the business of writing reports—at least at the IMF—is an intensely collaborative process, involving the professional judgments and contributions of many people. <font id=18>The economists bring drafts of reports to conference rooms, spread out the relevant pages, and negotiate changes with one another. They go back to their offices and jot down comments in the margin, taking advantage of the freedom offered by the informality of the handwritten note. Then they deliver the annotated draft to the author in person, taking him or her, page by page, through the suggested changes. At the end of the process, the author spreads out all the pages with comments on a desk and starts to enter them on the computer—moving the pages around, organizing and reorganizing, saving and discarding. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Without paper, this kind of collaborative, iterative work process would be much more difficult. According to Sellen and Harper, paper has a unique set of "affordances"—that is, qualities that permit specific kinds of uses. Paper is tangible: we can pick up a document, flip through it, read little bits here and there, and quickly get a sense of it. Paper is spatially flexible, meaning that we can spread it out and arrange it in the way that suits us best. And it's tailorable: we can easily annotate it, and scribble on it as we read, without altering the original text. Digital documents, of course, have their own affordances. They can be easily searched, shared, stored, accessed remotely, and linked to other relevant material. But they lack the affordances that really matter to a group of people working together on a report.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Paper enables a certain kind of thinking. What covers many desks are piles of paper—journals, magazines, binders, postcards, videotapes, and all the other artifacts of the knowledge economy. When a group at a leading computer company studied piling behavior several years ago, they found that even the most disorderly piles usually make perfect sense to the piler. Over time, piles get broken down and resorted, sometimes chronologically and thematically; clues about certain documents may be physically embedded in the file by, say, stacking a certain piece of paper at an angle or inserting dividers into the stack.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But why do we pile documents instead of filing them? Because piles represent the process of active, ongoing thinking. The psychologist Alison Kidd, whose research Sellen and Harper refer to extensively, argues that "knowledge workers" use the physical space of the desktop to hold "ideas which they cannot yet categorize or even decide how they might use." The messy desk is not necessarily a sign of disorganization. It may be a sign of complexity: those who deal with many unresolved ideas simultaneously cannot sort and file the papers on their desks, because they haven't yet sorted and filed the ideas in their head. Kidd writes that many of the people she talked to use the papers on their desks as contextual cues to "recover a complex set of threads without difficulty and delay" when they come in on a Monday morning, or after their work has been interrupted by a phone call. What we see when we look at the piles on our desks is, in a sense, the contents of our brains.</div>
+
+<br>
+###################
+<div class = "quiz">11. The main purpose of the passage is to:
+<div class = "choice">A. encourage readers to embrace computer technology and abandon habits that waste paper.</div>
+<div class = "choice">B. encourage Western countries to be more aggressive in promoting paper recycling.</div>
+<div class = "choice">C. acknowledge that in the modern workplace, paper still plays a vital role.</div>
+<div class = "choice">D. describe new technologies available to knowledge .workers who prefer to work on paper.</div>
+</div>
+###################
+<div class = "quiz">12. It is most reasonable to infer from the passage that many of the ideas it contains are those of:
+<div class = "choice">F. Sellen and Harper before their IMF study.</div>
+<div class = "choice">G. Sellen and Harper after their IMF study.</div>
+<div class = "choice">H. Kidd before she was influenced by Sellen and Harper.</div>
+<div class = "choice">J. the passage's author before reading the research of Sellen and Harper.</div>
+</div>
+###################
+<div class = "quiz">13. Information in the passage suggests that Sellen and Harper's findings at the IMF conflict with the notion that:
+<div class = "choice">A. computers have become a part of the modern workplace.</div>
+<div class = "choice">B. revising documents page by page is a time- consuming process.</div>
+<div class = "choice">C. the use of paper has increased in the workplace m recent years.</div>
+<div class = "choice">D. complex reports are largely the product of solitary hours at the computer.</div>
+</div>
+###################
+<div class = "quiz">14. Which of the following questions is NOT directly answered by the passage?
+<div class = "choice">F. Who wrote The Myth of the Paperless Office?</div>
+<div class = "choice">G. What are some examples of "artifacts of the knowledge economy"?</div>
+<div class = "choice">H. What are some of the "affordances of digital documents?</div>
+<div class = "choice">J. Why is uncoated free-sheet paper the most 'common kind of office paper?</div>
+</div>
+###################
+<div class = "quiz">15. According to the passage, the general but incorrect explanation for the current rate of paper use is that:
+<div class = "choice">A. the force of habit slows the transition to improved ways of performing work.</div>
+<div class = "choice">B. access to computer technology has increased on a global scale in recent years.</div>
+<div class = "choice">C. paper is more affordable than the software and hardware associated with digital documents.</div>
+<div class = "choice">D. the United States has lost its focus on environmental issues in recent years.</div>
+</div>
+###################
+<div class = "quiz">16. Which of the following best summarizes the first paragraph?
+<div class = "choice">F. Providing statistics on paper use around the world, it discusses the unequal access of countries to modern office technology.</div>
+<div class = "choice">G. Revealing that the views of Sellen overlap with those of Harper, it examines their ten-year collaboration at the IMF.</div>
+<div class = "choice">H. Referring to a false prediction about the effects ot computers on paper use, it alludes to the reasons behind paper's persistence.</div>
+<div class = "choice">J. Focusing on the years 1995 to 2000, it reveals the widening gulf in the workplace between paper users and computer users.</div>
+</div>
+###################
+<div class = "quiz">17. The passage includes references to all the following professionals EXCEPT:
+<div class = "choice">A. knowledge workers.</div>
+<div class = "choice">B. cognitive psychologists.</div>
+<div class = "choice">C. ergonomic experts.</div>
+<div class = "choice">D. paper industry executives.</div>
+</div>
+###################
+<div class = "quiz">18. It is most reasonable to infer that the process described in lines 29-40 is one that the author of the passage views with:
+<div class = "choice">F. dismay over the inefficient practices of professionals at a prestigious institution.</div>
+<div class = "choice">G. excitement over groundbreaking approaches to document creation.</div>
+<div class = "choice">H. appreciation for the collaboration among those who produce sophisticated documents.</div>
+<div class = "choice">J. concern that document creation has become more complicated than the average worker can grasp.</div>
+</div>
+###################
+<div class = "quiz">19. As it is used in line 24, the phrase awash in most nearly means:
+<div class = "choice">A. disoriented by.</div>
+<div class = "choice">B. characterized by an abundance of.</div>
+<div class = "choice">C. clearing away unwanted quantities of.</div>
+<div class = "choice">D. limited by.</div>
+</div>
+###################
+<div class = "quiz">20. According to the passage, piling behavior in the modern workplace may indicate a worker's temporary inability to:
+<div class = "choice">F. spread document pages on a table.</div>
+<div class = "choice">G. categorize a document or decide on a way to use it.</div>
+<div class = "choice">H. meet with the author of a document in order to discuss possible changes to it.</div>
+<div class = "choice">J. clear space from filing cabinets.</div>
+<br>
+</div>
+###################

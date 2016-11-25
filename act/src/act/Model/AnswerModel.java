@@ -7,7 +7,8 @@ public class AnswerModel{
 	private static Object[][][] ansForPart = new Object[5][][];
 	private static String writingText = "";
 	private static Object[][] totalScore = new Object[5][2];
-	public AnswerModel(){
+	public AnswerModel(int testIndex){
+		correct_ans = readText.readAnswer(testIndex);
 		for(int i=0;i<ModelConstants.QUESTIONNUM_TOTAL;i++){
 			ans[i] = -1;
 		}
@@ -28,13 +29,13 @@ public class AnswerModel{
 		return ans[questionIndex];
 	}
 	public void judgeScore(){
-		correct_ans = readText.readAnswer(0);
+		
 		boolean start = true;
 		
 		int questionIndex = 0;
 		for(int partIndex = 0;partIndex<ModelConstants.PARTNUM_TOTAL;partIndex++){
 			start = true;
-			ansForPart[partIndex] = new Object[ModelConstants.QUESTIONNUM_PER_PART[partIndex]][4];
+			ansForPart[partIndex] = new Object[ModelConstants.QUESTIONNUM_PER_PART[partIndex]][3];
 			int scoreThisPart = 0;
 			for(int questionIndexinPart = 0 ; questionIndexinPart<ModelConstants.QUESTIONNUM_PER_PART[partIndex];questionIndexinPart++){
 				
@@ -117,20 +118,17 @@ public class AnswerModel{
 				start = !start;
 				//System.out.println("NO."+i+" My answer is "+ch_answer+", and correct answer is "+c_answer);
 				
-				ansForPart[partIndex][questionIndexinPart][0] = questionIndex;
+				ansForPart[partIndex][questionIndexinPart][0] = questionIndexinPart + 1;
 				ansForPart[partIndex][questionIndexinPart][1] = ch_answer;
 				ansForPart[partIndex][questionIndexinPart][2] = c_answer;
-				ansForPart[partIndex][questionIndexinPart][3] = ans[questionIndex] == correct_ans[questionIndex]?1:0;
+				//ansForPart[partIndex][questionIndexinPart][3] = ans[questionIndex] == correct_ans[questionIndex]?1:0;
 				
-				scoreThisPart+=(int)ansForPart[partIndex][questionIndexinPart][3];
+				scoreThisPart+=ans[questionIndex] == correct_ans[questionIndex]?1:0;
 				questionIndex++;
 			}
 			totalScore[partIndex][0] = ModelConstants.PARTNAME[partIndex];
-			totalScore[partIndex][1] = scoreThisPart;
-			
-			
+			totalScore[partIndex][1] = to_score(partIndex, scoreThisPart);
 		}
-
 	}
 	public static Object[][] getAnsModel(int partIndex){
 		return ansForPart[partIndex];
@@ -138,7 +136,9 @@ public class AnswerModel{
 	public static Object[][] getTotalScore(){
 		return totalScore;
 	}
-	
+	public static Object[] getScore(int partIndex){
+		return totalScore[partIndex];
+	}
 	public void resetAll(){
 		totalScore = new Object[5][2];
 		ansForPart = new Object[5][][];
@@ -151,5 +151,12 @@ public class AnswerModel{
 		for(int i=0;i<ModelConstants.QUESTIONNUM_TOTAL;i++){
 			correct_ans[i] = -1;
 		}
+	}
+	private int to_score(int part, int scorethispart){
+		int score = 0;
+		if (part == 4) return score;
+		int[][] s = readText.readScore();
+		score = s[part][scorethispart];
+		return score;
 	}
 }

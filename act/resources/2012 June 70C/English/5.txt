@@ -1,0 +1,138 @@
+<h1>Get the LED In</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=61>It was once</font> limited to the humble role of indicator light on devices such as TVs and radios, the light-emitting <font id=62>diode, or LED, </font> has emerged as a versatile, energy-efficient, and aesthetically pleasing source of illumination. <font id=63>63</font> Designers today are using LEDs to create signs, displays, and area lighting that are both alluring and functional. [A]</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Long past are the days when LEDs—semiconductor diodes that produce light when electrical current is properly applied— <font id=64>could</font> generate only a low-intensity red light. Modern LEDs can be made to produce any color, including white; can be manufactured to generate infrared or ultraviolet light instead of visible light; and are able to <font id=65>yield</font> a high light output</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">LEDs operate on extremely low voltages relative to standard (incandescent) bulbs. They also directly convert electrical current into light, thus eliminating the need to waste energy on first heating a filament that then radiates light. [B] In addition, LEDs last <font id=66>far</font> longer than standard <font id=67>bulbs. </font> Whereas a typical 75-watt incandescent bulb works for 750 <font id=68>hours. </font> LEDs can endure up to 50,000 hours of use. <font id=69>As the case may be, </font> LEDs are small, shock resistant, and (unlike another often-touted alternative light source, compact fluorescent bulbs) <font id=70>mercury free. </font> [C]</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Commercial designers are among those <font id=71>rushing to catch up in their</font> LED use. The ceiling of an Atlantic City, New Jersey, shopping arcade supports 2,000 small color-changing LED nodes <font id=72>strung</font> on overhead cables to create the <font id=73>allusion of</font> a star field. [D] In Sweden, students programmed color-changing LED projectors to turn a small grove of trees into a "cathedral of light." LED road signs can consist of nothing more than block letters flashing out simple messages; they can, however, be as elaborate as giant billboards displaying vibrant full-color images</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5]</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">LEDs <font id=74>are innovative</font>—they're costlier to manufacture than incandescents and are vulnerable to temperature extremes—but they offer numerous advantages over traditional lighting. The LED is a young technology with a bright future</div>
+
+<br>
+###################
+<div class = "quiz">61.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. At one time, it was</div>
+<div class = "choice">C. Once, it was</div>
+<div class = "choice">D. Once</div>
+</div>
+###################
+<div class = "quiz">62. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. diode—LED for short—</div>
+<div class = "choice">G. diode, or LED</div>
+<div class = "choice">H. diode—LED—</div>
+<div class = "choice">J. diode (LED)</div>
+</div>
+###################
+<div class = "quiz">63. At this point, the writer is considering adding the following true statement:
+LEDs are still used as indicator lights, however.
+Should the writer make this addition here?
+<div class = "choice">A. Yes, because it offers an example illustrating the point made in the preceding sentence.</div>
+<div class = "choice">B. Yes, because it creates an effective lead-in to the essay's main point.</div>
+<div class = "choice">C. No, because it disrupts the flow of the paragraph by stating what's already implied.</div>
+<div class = "choice">D. No, because it contradicts the main claim made in the preceding sentence.</div>
+</div>
+###################
+<div class = "quiz">64. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. were capable of generating</div>
+<div class = "choice">G. were able to generate</div>
+<div class = "choice">H. would generate</div>
+<div class = "choice">J. can generate</div>
+</div>
+###################
+<div class = "quiz">65.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. relinquish</div>
+<div class = "choice">C. surrender</div>
+<div class = "choice">D. cede</div>
+</div>
+###################
+<div class = "quiz">66. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. considerably</div>
+<div class = "choice">G. a great deal</div>
+<div class = "choice">H. extremely</div>
+<div class = "choice">J. much</div>
+</div>
+###################
+<div class = "quiz">67.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. bulbs—that is, those of the incandescent type</div>
+<div class = "choice">C. bulbs, which have a shorter life span.</div>
+<div class = "choice">D. bulbs, which aren't LEDs.</div>
+</div>
+###################
+<div class = "quiz">68.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. hours,</div>
+<div class = "choice">H. hours;</div>
+<div class = "choice">J. hours:</div>
+</div>
+###################
+<div class = "quiz">69.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. In view of the foregoing,</div>
+<div class = "choice">C. What's more,</div>
+<div class = "choice">D. To sum up,</div>
+</div>
+###################
+<div class = "quiz">70.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. mercury isn't present</div>
+<div class = "choice">H. there's no mercury.</div>
+<div class = "choice">J. no mercury.</div>
+</div>
+###################
+<div class = "quiz">71. Which choice best conveys the idea that commercial designers are pioneers in LED use?
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. in the forefront of</div>
+<div class = "choice">C. now embracing</div>
+<div class = "choice">D. considering</div>
+</div>
+###################
+<div class = "quiz">72.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. stringed up</div>
+<div class = "choice">H. stringed</div>
+<div class = "choice">J. string</div>
+</div>
+###################
+<div class = "quiz">73.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. allusion for</div>
+<div class = "choice">C. illusion of</div>
+<div class = "choice">D. illusion to</div>
+</div>
+###################
+<div class = "quiz">74. Which choice most effectively sets up the rest of the sentence?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. sometimes stop working—</div>
+<div class = "choice">H. have great visual appeal—</div>
+<div class = "choice">J. aren't perfect-—</div>
+</div>
+###################
+<div class = "quiz">75. Upon reviewing the essay and finding that some information has been left out, the writer composes the following sentence incorporating that information:
+LEDs are energy efficient in another way: they produce more light per watt than incandescent bulbs.
+If the writer were to add this sentence to the essay, it would most logically be placed at Point:
+Question 75 asks about the preceding passage as a whole.
+<div class = "choice">A. A in Paragraph 1.</div>
+<div class = "choice">B. B in Paragraph 3.</div>
+<div class = "choice">C. C in Paragraph 3.</div>
+<div class = "choice">D. D in Paragraph 4.</div>
+
+###################

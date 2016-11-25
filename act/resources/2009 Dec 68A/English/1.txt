@@ -1,0 +1,127 @@
+
+<h1>The Tale of The Tale of Genji</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Murasaki <font id=1>Shikibu, an aristocratic Japanese woman</font> was born in Kyoto, Japan, around AD 973. Like most ladies of that period <font id=2>who served</font> in the court of the empress, Lady Murasaki was likely accomplished in both music, and writing. However, her writing was not limited to the traditional poetry 3 <font id=3>was expected</font> of cultured women of that time. She wrote a long work of fiction, The Tale of Genji, which not only is still read today <font id=4>and</font> has been called the world's first great novel.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=5>Although little</font> is known of the events of her life, but scholars speculate that Lady Murasaki began writing her fiction before she came into the service of the Empress Akiko. Since the "grand ladies" of the court thought literature important, perhaps Murasaki's writing was the reason she was summoned to court. <font id=6>Instead,</font> she completed most of the stories of the life of Genji while both serving the empress and <font id=7>observed</font> the activities and attitudes of court society.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The fifty-four-chapter book, <font id=8>which takes place over almost three-quarters of a century, </font> describes the life and "loves of a Prince Genji and the lives of <font id=9>there</font> children and grandchildren. Although other fiction was written during this period, Murasaki's work went beyond the usual style. Instead of using the flat characterizations and fairy-tale predicaments of the typical romance, Murasaki portrayed believable people in daily situations. Recent critics have been astonished at the modern character of the tale.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the more than one <font id=10>thousand years since</font> The Tale of Genji was written, it has been translated into over thirty languages and has appeared in a variety of formats. In the twelfth century, the tale was illustrated with picture scrolls; in the seventeenth <font id=11>century, books of wood-block prints</font> based on the tale <font id=12>was</font> produced.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=13>13</font> Today, Lady Murasaki's eleventh-century tale can even be read online at a Web site provided by the United Nations Educational, Scientific, and Cultural Organization. <font id=14>14</font></div>
+
+<br>
+###################
+<div class = "quiz">1.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Shikibu an aristocratic Japanese woman,</div>
+<div class = "choice">C. Shikibu, an aristocratic Japanese woman,</div>
+<div class = "choice">D. Shikibu an aristocratic Japanese woman</div>
+</div>
+###################
+<div class = "quiz">2.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. that they were serving</div>
+<div class = "choice">H. which served</div>
+<div class = "choice">J. served</div>
+</div>
+###################
+<div class = "quiz">3.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. expected</div>
+<div class = "choice">C. expecting</div>
+<div class = "choice">D. that expected</div>
+</div>
+###################
+<div class = "quiz">4.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. while</div>
+<div class = "choice">H. but also</div>
+<div class = "choice">G. so it</div>
+</div>
+###################
+<div class = "quiz">5.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. While little</div>
+<div class = "choice">C. Even though little</div>
+<div class = "choice">D. Little</div>
+</div>
+###################
+<div class = "quiz">6. Which transition word or phrase best emphasizes the limited knowledge scholars have about Lady Murasaki?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Apparently,</div>
+<div class = "choice">H. On the other hand,</div>
+<div class = "choice">J. Likewise,</div>
+</div>
+###################
+<div class = "quiz">7.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. had observed</div>
+<div class = "choice">C. was observing</div>
+<div class = "choice">D. observing</div>
+</div>
+###################
+<div class = "quiz">8. If the writer were to delete the underlined portion, the paragraph would primarily lose:
+<div class = "choice">F. a detailed description of the setting of the book.</div>
+<div class = "choice">G. a sense of the length of time the book's events span.</div>
+<div class = "choice">H. information about the specific length of each character's life.</div>
+<div class = "choice">J. a tone of mystery and suspense.</div>
+</div>
+###################
+<div class = "quiz">9. 
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. our,</div>
+<div class = "choice">C. his</div>
+<div class = "choice">D. DELETE the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">10.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. thousand years, since</div>
+<div class = "choice">H. thousand, years since</div>
+<div class = "choice">J. thousand years since,</div>
+</div>
+###################
+<div class = "quiz">11.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. century, books of wood-block prints,</div>
+<div class = "choice">C. century books, of wood-block prints</div>
+<div class = "choice">D. century books of wood-block prints,</div>
+</div>
+###################
+<div class = "quiz">12.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. is</div>
+<div class = "choice">H. were</div>
+<div class = "choice">J. are</div>
+</div>
+###################
+<div class = "quiz">13. At this point, the writer is considering adding the following true statement:.
+It is also known that Lady Murasaki's name Shikibu was most likely based on her father's court position in the Bureau of Ceremony, or shikibu-sh?.
+Should the writer make this addition here?
+<div class = "choice">A. Yes, because it adds relevant information about Lady Murasaki's name that helps modern readers understand this paragraph.</div>
+<div class = "choice">B. Yes, because it shows an additional way that Lady Murasaki was connected to the court.</div>
+<div class = "choice">C. No, because it interrupts the flow of this paragraph, which is not primarily about Lady Murasaki's background.</div>
+<div class = "choice">D. No, because it doesn't provide enough information about Lady Murasaki's father.</div>
+</div>
+###################
+<div class = "quiz">14. Given that all the following statements are true, which one, if added here, would most effectively conclude the paragraph and support information given in the preceding sentence?
+<div class = "choice">F. Lady Murasaki's tale is still rather interesting.</div>
+<div class = "choice">G. Lady Murasaki had to write by hand with a pen dipped in ink.</div>
+<div class = "choice">H. The character of Prince Genji was probably based on several people known by Lady Murasaki.</div>
+<div class = "choice">J. Prince Genji is starting his second millennium with the latest technology.</div>
+</div>
+###################
+<div class = "quiz">15. Suppose that the writer had intended to write an essay giving an overview of the history of the development of the novel as a literary form. Would this essay accomplish that goal? Question 15 asks about the preceding passage as a whole.
+<div class = "choice">A. Yes, because it discusses the elements of The Tale of Genji that make it a novel.</div>
+<div class = "choice">B. Yes, because it notes that The Tale of Genji was written over one thousand years ago.</div>
+<div class = "choice">C. No, because it fails to mention other novels written by Lady Murasaki.</div>
+<div class = "choice">D. No, because it focuses only on The Tale of Genji, an example of an early novel.</div>
+<br>
+</div>
+###################

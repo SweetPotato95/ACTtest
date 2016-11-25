@@ -1,0 +1,80 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students studied forces by using 2 identical platform scales, Scale A and Scale B, one of which is shown in Figure 1.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\147.png' width = '494'height = '156'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The weight of the platform of each scale was insignificant. When a force (such as that produced by a weight) was exerted on the surface of the platform, the hand rotated clockwise away from the zero point on the dial. The amount of rotation was directly proportional to the strength of the force.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Prior to each of Trials 1-3, the students set the dial readings of both Scales A and B to zero. In each of these 3 trials, Scale A was stacked on top of Scale B (see Figure 2). In Trial 1, no weight was placed on the platform of Scale A; in Trial 2, a 5.0 newton (N) weight was placed on the platform of Scale A; and in Trial 3, a 10.0 N weight was placed on the platform of Scale A. The dial readings for the.3.trials are also shown in Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\148.png' width = '388'height = '220'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students placed a pencil on the platform of each scale and positioned on top of the pencils a board that spanned the 0.40 m distance between the 2 scales. Prior to each of Trials 4-6, the students set the dial readings of Scales A and B to zero (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\149.png' width = '450'height = '137'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In each of these 3 trials, a 10.0 N weight was placed on the board at various distances from the pencil on Scale B (see Figure.4). In Trial 4, the weight was 0.10 m from the pencil in Trial 5, the weight was 0.20 m from the pencil; and in Trial 6, the weight was 0.30 m from the pencil. The dial readings for the 3 trials are also shown in Figure 4.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\150.png' width = '406'height = '468'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 4</div>
+
+<br>
+###################
+<div class = "quiz">11. In which of the trials in Study 2, if any, was the force of the 10.0 N weight equally distributed between Scales A and B ?
+<div class = "choice">A. Trial 4</div>
+<div class = "choice">B. Trial 5</div>
+<div class = "choice">C. Trial 6</div>
+<div class = "choice">D. None of the trials</div>
+</div>
+###################
+<div class = "quiz">12. Based on the results of Trials 1 and 2, Scale A and Scale B each weighed:
+<div class = "choice">F. 2.5N.</div>
+<div class = "choice">G. 5.0N.</div>
+<div class = "choice">H. 7.5N.</div>
+<div class = "choice">J. 10.0N.</div>
+</div>
+###################
+<div class = "quiz">13. Assume that whenever a weight was placed on a scale's platform, a spring inside the scale was compressed. Assume also that the greater the added weight, the greater the amount of compression. Was the amount of potential energy stored in Scale A's spring greater in Trial 1 or in Trial 3 ?
+<div class = "choice">A. In Trial i, because the amount of weight on the platform of Scale A was greater in Trial 1.</div>
+<div class = "choice">B. In Trial 1, because the amount of weight' on the platform of Scale A was less in Trial 1.</div>
+<div class = "choice">C. In Trial 3, because the amount of weight on the platform of Scale A was greater in Trial 3.</div>
+<div class = "choice">D. In Trial 3, because the amount of weight on the platform of Scale A was less in Trial 3.</div>
+</div>
+###################
+<div class = "quiz">14. In a new study, suppose Scale A were placed upside down atop Scale B, so that the platform of Scale A rested directly on the platform of Scale B. Which of the following drawings best represents the results that would most likely be obtained for this arrangement?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\151.png' width = '69'height = '118'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\153.png' width = '66'height = '110'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\152.png' width = '64'height = '127'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2009 April 66F\imgs\154.png' width = '67'height = '119'/></div>
+</div>
+###################
+<div class = "quiz">15. In Study 2, as the distance between the 10.0 N weight and the pencil on Scale B increased, the amount of force exerted on the surface of Scale B's platform:
+<div class = "choice">A. remained .the same.</div>
+<div class = "choice">B. increased only.</div>
+<div class = "choice">C. decreased only.</div>
+<div class = "choice">D. varied, but with no general trend.</div>
+</div>
+###################
+<div class = "quiz">16. Which of the following statements most likely describes an important reason for setting the dial readings of both scales to zero  after Study 1, prior to each of Trials 4-6?
+<div class = "choice">F. To add the weights of the scales to each weight measurement</div>
+<div class = "choice">G. To add the weights of the board and pencils to each weight-measurement</div>
+<div class = "choice">H. To subtract the weights of the scales from each weight measurement</div>
+<div class = "choice">J. To subtract the weights of the board and pencils from each weight measurement</div>
+<br>
+</div>
+###################

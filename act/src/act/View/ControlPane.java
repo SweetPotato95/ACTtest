@@ -3,6 +3,7 @@ package act.View;
 import javax.swing.*;
 
 import act.Controller.MainController;
+import act.Model.ModelConstants;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -14,7 +15,7 @@ public class ControlPane extends JPanel{
 	 This is the controlPane, it's the navBar on top of mainView. 
 	 */
 	private static final long serialVersionUID = 4L;
-	private JTextPane title = new JTextPane();
+	private JLabel title = new JLabel();
 	private JPanel buttons = new JPanel();
 	private JButton pauseButton = new JButton("Pause");
 	private JButton resumeButton = new JButton("Resume");
@@ -31,7 +32,8 @@ public class ControlPane extends JPanel{
 	
 	public void init(){
 		title.setOpaque(false);
-		title.setEditable(false);
+		title.setFont(ViewConstants.controlPane_labelFont);
+//		title.setEditable(false);
 		nextButton.addActionListener(new ActionListener()
         {
         	@Override
@@ -81,10 +83,18 @@ public class ControlPane extends JPanel{
 				MainController.handleSave();
 			}
 		});
-		
+		title.setForeground(new Color(192,192,192));
 		this.removeAll();
 		this.revalidate();
+		JLabel jl1 = new JLabel();
+		
+		ImageIcon image = new ImageIcon("resources\\lib\\icon.png");
+		image.setImage(image.getImage().getScaledInstance((int) (ViewConstants.NAV_WIDTH*0.2),(int)(ViewConstants.NAV_HEIGHT*1.2),Image.SCALE_DEFAULT)); 
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
+//		this.add(Box.createHorizontalGlue());
+		jl1.setSize((int) (ViewConstants.NAV_WIDTH*0.2),(int)(ViewConstants.NAV_HEIGHT*1.2));
+		jl1.setIcon(image);
+		this.add(jl1);
 		this.add(Box.createHorizontalGlue());
 		this.add(title);
 		this.add(Box.createHorizontalGlue());
@@ -95,12 +105,20 @@ public class ControlPane extends JPanel{
 		this.add(nextButton);
 		this.add(submitButton);
 		this.setPreferredSize(new Dimension(ViewConstants.NAV_WIDTH,ViewConstants.NAV_HEIGHT));
-		this.setBackground(Color.gray);
+		this.setBackground(new Color(0,74,128));
 		this.revalidate();
 		
 	}
-	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
-		title.setText("Test1:PART "+partIndex+" SPLIT "+splitIndex+" QUESTION "+questionIndex);
+	public void requestUpdate(int splitIndex,int partIndex){
+		splitIndex += 1;
+		if (partIndex != ModelConstants.MATH && partIndex != ModelConstants.WRITING)
+		title.setText("Section:  "+ ModelConstants.PARTNAME[partIndex]+"  Passage: "+splitIndex);
+		else if (partIndex == ModelConstants.MATH ){
+			title.setText("Section:  "+ModelConstants.PARTNAME[partIndex]);
+		}
+		else if (partIndex == ModelConstants.WRITING){
+			title.setText("Section:  "+ModelConstants.PARTNAME[partIndex]);
+		}
 	}
 	
 	public void scoreMode(){
@@ -144,6 +162,7 @@ public class ControlPane extends JPanel{
 	}
 	public void initTimer(int totalTime){
 		timerView.initTimer(totalTime);
+		title.setText("");
 	}
 	public void pauseTimer(){
 		timerView.suspend();

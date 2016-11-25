@@ -1,0 +1,77 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students conducted experiments to study the effects of temperature oil density.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the experiments, each flask was filled to the top with either distilled water or salt (NaCl) water at 20°C. A rubber stopper with 2 holes—one fitted with a thermometer and the other fitted with glass tubing—was placed in the neck of the flask (see figure of apparatus).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\180.png' width = '215'height = '503'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The initial height of the liquid in the tubing was adjusted to 25 mm above the top of the stopper.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A flask filled with, distilled water was slowly heated. As the temperature of the water increased, the height of the water in the tubing increased. At 100°C, water and steam squirted out the top of the tubing.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The body of flask filled with distilled water was submerged in a cold bath at -6°C. As the temperature of the water in the apparatus decreased, the height of the. water in the-tubing decreased. At 4°C, the height of the water in the tubing stopped decreasing, and then began to increase. At 0°C, water and ice were forced out the top of the tubing. Eventually, the flask cracked in several places.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 3</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two saltwater solutions were prepared. Solution I had a lower salt concentration (in g/mL) than did Solution II. Two flasks containing Solutions I and II, respectively, were slowly heated. In both flasks, the salt water in the tubing rose and then squirted out the top of the tubing (at 102°C for Solution I and at 104ºC for Solution II).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two flasks containing Solutions I and II, respectively, were cooled as in Experiment 2. In both flasks, the height of the salt water in the tubing decreased until the temperature reached -6°C and then remained level (no freezing occurred).</div>
+
+<br>
+###################
+<div class = "quiz">35. Water in the upper part of a hypothetical 2-compartment container is at 10°C, and water in the lower part is at 80°C, as shown in the figure below.
+<img src='file:\$$$\resources\2008 April 65D\imgs\181.png' width = '268'height = '328'/>
+If the barrier separating the 2 compartments could be removed without disturbing the water, what mixing, if any, would occur?
+<div class = "choice">A. No mixing would occur, because the water in the upper part of the container is more dense than the water in the lower part of the container.</div>
+<div class = "choice">B. No mixing would occur, because the water in the upper part of the container is less dense than the water in the lower part of the container.</div>
+<div class = "choice">C. Mixing would occur, because the water in the lower part of the container is more dense than the water in the upper part of the container.</div>
+<div class = "choice">D. Mixing would occur, because the water in the lower part of the container is less dense than the water in the upper part of the container.</div>
+</div>
+###################
+<div class = "quiz">36. Based on the results of Experiments 1 and 3, 1 L of distilled water with which of the following quantities of NaCl added to it would most likely boil at the lowest temperature?
+<div class = "choice">F. 0g</div>
+<div class = "choice">G. 1g</div>
+<div class = "choice">H. 20g</div>
+<div class = "choice">J. 30g</div>
+</div>
+###################
+<div class = "quiz">37. Which of the following graphs best shows how the volume of the liquid H<sub>2</sub>O changed with temperature in Experiment 2?
+<div class = "choice">A.<img src='file:\$$$\resources\2008 April 65D\imgs\182.png' width = '142'height = '88'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2008 April 65D\imgs\183.png' width = '134'height = '85'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2008 April 65D\imgs\184.png' width = '140'height = '93'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2008 April 65D\imgs\185.png' width = '130'height = '91'/></div>
+</div>
+###################
+<div class = "quiz">38. Which of the following changes in the procedure of Experiment 3 would have provided the most information about the effect of decreasing temperature on the density of salt water?
+<div class = "choice">F. Using a bath at-13°C to cool the flask</div>
+<div class = "choice">G. Using a bath at -3°C to cool the flask</div>
+<div class = "choice">H. Using a larger flask</div>
+<div class = "choice">J. Using a smaller flask</div>
+</div>
+###################
+<div class = "quiz">39. Suppose that equal volumes of Solutions I and II from Experiment 3 were mixed and the resulting solution was then tested as in Experiment 1. Salt water would most likely have started to squirt out of the top of the tubing when the temperature was:
+<div class = "choice">A. less than 100°C.</div>
+<div class = "choice">B. between 100°C and 102°C.</div>
+<div class = "choice">C. between 102°C and 104°C.</div>
+<div class = "choice">D. greater than 104°C.</div>
+</div>
+###################
+<div class = "quiz">40. As the height of the water in the glass tubing decreased in Experiment 2, which of the following properties of the water in the apparatus also changed?
+I. Volume 		II. Mass 		III. Density
+<div class = "choice">F. I only</div>
+<div class = "choice">G. I and II only</div>
+<div class = "choice">H. I and III only</div>
+<div class = "choice">J. I, II, and III</div>
+</div>
+###################

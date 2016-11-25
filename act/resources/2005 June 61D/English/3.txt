@@ -1,114 +1,127 @@
-<h1>Passage III</h1>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ＄275,000 Sack of Flour</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In April 1864, during the Civil War, the Nevada mining town of Austin held its first mayoral election. Mr. Reuel Gridley, a grocer, entered into a friendly wager <u>31 for</u> the election’s outcome with a Dr. Buel Herrick. <u>32 Nevertheless,</u> that wager would <u>33 benefit</u> many Civil War soldiers in an unforeseen way.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The <u>34 bets terms</u> stated that the loser of the <u>35 wager, escorted by a marching band,</u> must carry a fifty-pound sack of flour one mile along Austin’s Main Street. <u>36 While voters</u> elected the candidate that Dr. Herrick <u>37 supported, choosing that person to be mayor.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mr. Gridley, the loser, then decorate a sack of flour with red, white, and blue <u>38 ribbons: shouldered it;</u> and led the band through Austin. At the parade’s end, he offered the flour to the highest bidder, starting with his own ＄200 bid. He stated that proceeds would go to the U.S. Sanitary Commission, <u>39 an organization equivalent and similar to</u> today’s Red Cross, to aid Civil War soldiers.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bidding became <u>40 brisk. Townspeople</u> felt compassion for the soldiers fighting in the eastern United States. The successful bidder <u>41 donates</u> the sack of flour back to Gridley to be auctioned off again. Each <u>42 time that Gridley</u> started the bidding anew. In two days, the sack sold 112 times, for amounts ranging from ＄10 to ＄350. Gridley collected ＄4,350 for the Sanitary Commission. By comparison, Sanitary Commission donation boxes left at voting polls had received only ＄200.</div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><u>43 Being inspiring and motivating himself,</u> Gridley traveled to Virginia City, Nevada, to auction the sack of flour to <u>44 its</u> residents. Money poured in Gridley trekked to California: San Franciscans donated ＄2,800, and Sacramento’s citizens gave ＄10,000. Gridley then proceeded to St. Louis and to major eastern cities. These bidders added ＄170,000 to the Sanitary Commission’s <u>45 fund. Within</u> twelve months Gridley’s sack of flour had earned ＄275,000.</div>
+<h1>The ＄275,000 Sack of Flour</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In April 1864, during the Civil War, the Nevada mining town of Austin held its first mayoral election. Mr. Reuel Gridley, a grocer, entered into a friendly wager <font id=31>for the election's outcome with a Dr. Buel Herrick. <font id=32>Nevertheless, that wager would <font id=33>benefit many Civil War soldiers in an unforeseen way.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The <font id=34>bets terms stated that the loser of the <font id=35>wager, escorted by a marching band, must carry a fifty-pound sack of flour one mile along Austin's Main Street. <font id=36>While voters elected the candidate that Dr. Herrick <font id=37>supported, choosing that person to be mayor.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mr. Gridley, the loser, then decorate a sack of flour with red, white, and blue <font id=38>ribbons: shouldered it; and led the band through Austin. At the parade's end, he offered the flour to the highest bidder, starting with his own ＄200 bid. He stated that proceeds would go to the U.S. Sanitary Commission, <font id=39>an organization equivalent and similar to today's Red Cross, to aid Civil War soldiers.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bidding became <font id=40>brisk. Townspeople felt compassion for the soldiers fighting in the eastern United States. The successful bidder <font id=41>donates the sack of flour back to Gridley to be auctioned off again. Each <font id=42>time that Gridley started the bidding anew. In two days, the sack sold 112 times, for amounts ranging from ＄10 to ＄350. Gridley collected ＄4,350 for the Sanitary Commission. By comparison, Sanitary Commission donation boxes left at voting polls had received only ＄200.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=43>Being inspiring and motivating himself, Gridley traveled to Virginia City, Nevada, to auction the sack of flour to <font id=44>its residents. Money poured in Gridley trekked to California: San Franciscans donated ＄2,800, and Sacramento's citizens gave ＄10,000. Gridley then proceeded to St. Louis and to major eastern cities. These bidders added ＄170,000 to the Sanitary Commission's <font id=45>fund. Within twelve months Gridley's sack of flour had earned ＄275,000.</div>
+
+<br>
 <div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reuel Gridley died penniless in 1870. In 1914 family members donated the farmous flour sack to the Nevada Historical Society in Reno, where it remains, a reminder of his hard work and the generosity of many.</div>
+
+<br>
 ###################
-<div class = "quiz">31. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.of</div>
-<div class = "choice">C.on</div>
-<div class = "choice">D.at</div>
+<div class = "quiz">31.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. of</div>
+<div class = "choice">C. on</div>
+<div class = "choice">D. at</div>
 </div>
 ###################
-<div class = "quiz">32. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.Moreover,</div>
-<div class = "choice">H.Consequently,</div>
-<div class = "choice">J.Eventually,</div>
+<div class = "quiz">32.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Moreover,</div>
+<div class = "choice">H. Consequently,</div>
+<div class = "choice">J. Eventually,</div>
 </div>
 ###################
 <div class = "quiz">33. Which of the following alternatives to the underlined portion would be LEAST acceptable?
-<div class = "choice">A.assist</div>
-<div class = "choice">B.enhance</div>
-<div class = "choice">C.serve</div>
-<div class = "choice">D.help</div>
+<div class = "choice">A. assist</div>
+<div class = "choice">B. enhance</div>
+<div class = "choice">C. serve</div>
+<div class = "choice">D. help</div>
 </div>
 ###################
-<div class = "quiz">34. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.bets terms’</div>
-<div class = "choice">H.bet’s terms</div>
-<div class = "choice">J.bets’ terms</div>
+<div class = "quiz">34.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. bets terms'</div>
+<div class = "choice">H. bet's terms</div>
+<div class = "choice">J. bets' terms</div>
 </div>
 ###################
-<div class = "quiz">35. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.wager escorted by a marching band</div>
-<div class = "choice">C.wager escorted by a marching band,</div>
-<div class = "choice">D.wager, escorted by a marching band</div>
+<div class = "quiz">35.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. wager escorted by a marching band</div>
+<div class = "choice">C. wager escorted by a marching band,</div>
+<div class = "choice">D. wager, escorted by a marching band</div>
 </div>
 ###################
-<div class = "quiz">36. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.Since voters</div>
-<div class = "choice">H.When voters</div>
-<div class = "choice">J.Voters</div>
+<div class = "quiz">36.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Since voters</div>
+<div class = "choice">H. When voters</div>
+<div class = "choice">J. Voters</div>
 </div>
 ###################
-<div class = "quiz">37. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.supported and picked that person to become mayor.</div>
-<div class = "choice">C.supported as their choice for mayor of the town.</div>
-<div class = "choice">D.supported.</div>
+<div class = "quiz">37.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. supported and picked that person to become mayor.</div>
+<div class = "choice">C. supported as their choice for mayor of the town.</div>
+<div class = "choice">D. supported.</div>
 </div>
 ###################
-<div class = "quiz">38. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.ribbons, shouldered it,</div>
-<div class = "choice">H.ribbons shouldered it,</div>
-<div class = "choice">J.ribbons, shouldered it;</div>
+<div class = "quiz">38.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. ribbons, shouldered it,</div>
+<div class = "choice">H. ribbons shouldered it,</div>
+<div class = "choice">J. ribbons, shouldered it;</div>
 </div>
 ###################
-<div class = "quiz">39. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.the equivalent of</div>
-<div class = "choice">C.a similar equivalent of</div>
-<div class = "choice">D.the self-same organization equivalent to</div>
+<div class = "quiz">39.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. the equivalent of</div>
+<div class = "choice">C. a similar equivalent of</div>
+<div class = "choice">D. the self-same organization equivalent to</div>
 </div>
 ###################
 <div class = "quiz">40. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F.brisk, townspeople</div>
-<div class = "choice">G.brisk because townspeople</div>
-<div class = "choice">H.brisk, since townspeople</div>
-<div class = "choice">J.brisk; townspeople</div>
+<div class = "choice">F. brisk, townspeople</div>
+<div class = "choice">G. brisk because townspeople</div>
+<div class = "choice">H. brisk, since townspeople</div>
+<div class = "choice">J. brisk; townspeople</div>
 </div>
 ###################
-<div class = "quiz">41. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.could of donated</div>
-<div class = "choice">C.can donate</div>
-<div class = "choice">D.donated</div>
+<div class = "quiz">41.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. could of donated</div>
+<div class = "choice">C. can donate</div>
+<div class = "choice">D. donated</div>
 </div>
 ###################
-<div class = "quiz">42. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.time, Gridley</div>
-<div class = "choice">H.time that he</div>
-<div class = "choice">J.time when he</div>
+<div class = "quiz">42.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. time, Gridley</div>
+<div class = "choice">H. time that he</div>
+<div class = "choice">J. time when he</div>
 </div>
 ###################
-<div class = "quiz">43. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.Himself being inspired and motivated,</div>
-<div class = "choice">C.By inspiring and motivating,</div>
-<div class = "choice">D.Inspired and motivated,</div>
+<div class = "quiz">43.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Himself being inspired and motivated,</div>
+<div class = "choice">C. By inspiring and motivating,</div>
+<div class = "choice">D. Inspired and motivated,</div>
 </div>
 ###################
-<div class = "quiz">44. 
-<div class = "choice">F.NO CHANGE</div>
-<div class = "choice">G.his</div>
-<div class = "choice">H.their</div>
-<div class = "choice">J.there</div>
+<div class = "quiz">44.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. his</div>
+<div class = "choice">H. their</div>
+<div class = "choice">J. there</div>
 </div>
 ###################
-<div class = "quiz">45. 
-<div class = "choice">A.NO CHANGE</div>
-<div class = "choice">B.fund. Likewise, within</div>
-<div class = "choice">C.fund, because within</div>
-<div class = "choice">D.fund, while within</div>
+<div class = "quiz">45.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. fund. Likewise, within</div>
+<div class = "choice">C. fund, because within</div>
+<div class = "choice">D. fund, while within</div>
+<br>
 </div>
 ###################

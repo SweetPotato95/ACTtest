@@ -1,0 +1,73 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four billion years ago (4 BYA), the Sun was only 70% as bright as it is today. With sunlight that faint, Earth's average surface temperature should have been -15°C and all surface water would have been frozen. However, isotope evidence from certain sedimentary rocks (rocks made of sediments deposited in liquid water) formed around that time indicates that Earth's surface temperature was well above freezing.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists believe that 1 of 2 greenhouse gases, either ammonia (NH<sub>3</sub>) or carbon dioxide (CO<sub>2</sub>), was present in Earth's atmosphere at a concentration well above that of the respective gas in the atmosphere today. This gas trapped enough heat radiating from Earth's surface to keep the surface temperature above freezing.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two scientists' present their viewpoints.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Four BYA, large quantities of NH<sub>3</sub> continuously entered Earth's atmosphere from ocean-floor hydrothermal vents and by other processes. NH<sub>3</sub> is a more efficient greenhouse gas than is CO<sub>2</sub>, so a lower concentration of NH<sub>3</sub>. is required to warm the atmosphere a given amount. Any NH<sub>3</sub> molecule entering the atmosphere would have been broken down in 5-10 days by UV radiation. However, methane (CH<sub>4</sub>), another gas that was abundant in the atmosphere 4 BYA, combined with molecular nitrogen gas to produce organic compounds that blocked much of the incoming UV radiation and kept NH<sub>3</sub> molecules intact for much longer than 10 days. Continuous removal of CO<sub>2</sub> from the atmosphere by ocean water prevented CO<sub>2</sub> from accumulating in the atmosphere.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two carbon isotopes found in sedimentary rocks indicate a 75% higher concentration of CO<sub>2</sub> in Earth's atmosphere 4 BYA than the 360 parts per million (ppm) present today. Four BYA, large quantities of CO<sub>2</sub> continuously entered the atmosphere through widespread, long-term volcanic activity. Today, as in the past, much CO<sub>2</sub><sub> </sub>is removed from the atmosphere as CO<sub>2</sub> becomes part of carbonates in rock and sediment on land, However, 4 BYA, there was 80% less dry land area on which to form and store carbonates, so CO<sub>2</sub> accumulated in the atmosphere.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The vast amounts of CH<sub>4</sub> that would be required to help preserve atmospheric NH<sub>3</sub> did not exist on Earth 4 BYA. Thus, atmospheric NH<sub>3</sub> was too short-lived to have been an effective greenhouse gas.</div>
+
+<br>
+###################
+<div class = "quiz">28. Which of the following diagrams is most consistent with Scientist 2's description of how CO<sub>2</sub> enters and is removed from Earth's atmosphere?
+<div class = "choice">F. <img src='file:\$$$\resources\2008 April 65D\imgs\176.png' width = '217'height = '111'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2008 April 65D\imgs\177.png' width = '204'height = '106'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2008 April 65D\imgs\178.png' width = '204'height = '102'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2008 April 65D\imgs\179.png' width = '201'height = '106'/></div>
+</div>
+###################
+<div class = "quiz">29. CH<sub>4</sub> is also a greenhouse gas. Scientist 1 would most, likely agree that the presence of CH<sub>4</sub> in Earth's atmosphere 4 BYA:
+<div class = "choice">A. helped warm Earth's surface.</div>
+<div class = "choice">B. helped cool Earth's surface.</div>
+<div class = "choice">C. reduced the quantity of NH<sub>3</sub> present.</div>
+<div class = "choice">D. increased the quantity of CO<sub>2</sub> present.</div>
+</div>
+###################
+<div class = "quiz">30. A given concentration of NH<sub>3</sub> in Earth's atmosphere can trap as much heat radiating from Earth's surface as can a CO<sub>2</sub> concentration 3 times higher. Given this information and Scientist 2's viewpoint, the present-day concentration of NH<sub>3</sub> that would trap an amount of heat equivalent to that trapped by the present-day concentration of CO<sub>2</sub> would be approximately:
+<div class = "choice">F. 50 ppm.</div>
+<div class = "choice">G. 80ppm.</div>
+<div class = "choice">H. 120 ppm.</div>
+<div class = "choice">J. 360 ppm.</div>
+</div>
+###################
+<div class = "quiz">31. The Sun was 30% dimmer 4 BYA than it is today. Assuming the relative proportions of all greenhouse gases in Earth's atmosphere have stayed constant, both scientists would most likely agree that the minimum total concentration of all greenhouse gases necessary to keep Earth's surface temperature above freezing 4 BYA was:
+<div class = "choice">A. more than the minimum total concentration necessary today.</div>
+<div class = "choice">B. the same as the minimum total concentration necessary today.</div>
+<div class = "choice">C. less than the minimum total concentration necessary today, but not zero.</div>
+<div class = "choice">D. zero.</div>
+</div>
+###################
+<div class = "quiz">32. Suppose volcanic activity 4 BYA produced large quantities of CH<sub>4</sub>. Which scientist would most likely use this information to support his/her viewpoint?
+<div class = "choice">F. Scientist 1, because it would explain how CH<sub>4</sub> entered Earth's atmosphere 4 BYA.</div>
+<div class = "choice">G. Scientist 1, because it would explain how NH<sub>3</sub> entered Earth's atmosphere 4 BYA.</div>
+<div class = "choice">H. Scientist 2, because it would explain how CH<sub>4</sub> entered Earth's atmosphere 4 BYA.</div>
+<div class = "choice">J. Scientist 2, because it would explain how NH<sub>3</sub> entered Earth's atmosphere 4 BYA.</div>
+</div>
+###################
+<div class = "quiz">33. In order to protect NH<sub>3</sub> from incoming UV radiation, the organic compounds had to be located:
+<div class = "choice">A. below the elevation in the atmosphere where NH<sub>3</sub> was present.</div>
+<div class = "choice">B. at or above the elevation in the atmosphere where NH<sub>3</sub> was present.</div>
+<div class = "choice">C. on the ocean floor near where NH<sub>3</sub> was produced iii hydrothermal vents.</div>
+<div class = "choice">D. on land near where NH<sub>3</sub> was produced from -carbonate deposits.</div>
+</div>
+###################
+<div class = "quiz">34. Scientist 2 would most likely agree that the concentration of CO<sub>2</sub> in Earth's atmosphere 4 BYA was closest to. which of the following?
+<div class = "choice">F. 75 ppm</div>
+<div class = "choice">G. 180 ppm</div>
+<div class = "choice">H. 360 ppm</div>
+<div class = "choice">J. 630 ppm</div>
+</div>
+###################

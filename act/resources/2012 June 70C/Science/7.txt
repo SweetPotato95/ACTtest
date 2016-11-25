@@ -1,0 +1,84 @@
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A physicist tested various sheets for their ability to stop gamma rays (<img src='file:\$$$\resources\2012 June 70C\imgs\236.png' width = '19'height = '27'/>-rays) that had different energies. Any <img src='file:\$$$\resources\2012 June 70C\imgs\237.png' width = '19'height = '27'/>-ray that was not stopped by a sheet struck a detector (see Figure 1), which then registered a detection, or count.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\238.png' width = '442'height = '430'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each sheet was made of either Material 1, Material 2, or Material 3. The thickness, x, of each sheet was uniform, but sheets of the same material had different thicknesses.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\239.png' width = '24'height = '38'/>represented the number of counts per minute (cpm) with no sheet between the <img src='file:\$$$\resources\2012 June 70C\imgs\240.png' width = '19'height = '27'/>-ray source and the detector, and I represented the cpm with 1 sheet between the source and the detector.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">First, the physicist measured <img src='file:\$$$\resources\2012 June 70C\imgs\241.png' width = '24'height = '38'/> for a source of <img src='file:\$$$\resources\2012 June 70C\imgs\242.png' width = '19'height = '27'/>-rays having an energy of 4 million electron volts (MeV). Next, with this same <img src='file:\$$$\resources\2012 June 70C\imgs\243.png' width = '19'height = '27'/>-ray source, she measured I for various sheets of Material 1, each having a different thickness x. Then, she plotted a graph of I versus x (in cm) for Material 1. Similarly, she produced graphs of I versus x for Material 2 and Material 3 (see Figure 2).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\244.png' width = '603'height = '469'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The physicist repeated the procedures from Experiment 1 with other sources of <img src='file:\$$$\resources\2012 June 70C\imgs\245.png' width = '19'height = '27'/>-rays having different energies. For each combination of sheet material and <img src='file:\$$$\resources\2012 June 70C\imgs\246.png' width = '19'height = '27'/>-ray energy, she produced a graph of I versus x. These graphs are not shown.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From the graphs of I versus x, she found the half-value thickness, <img src='file:\$$$\resources\2012 June 70C\imgs\247.png' width = '42'height = '38'/>, for each combination of sheet material and <img src='file:\$$$\resources\2012 June 70C\imgs\248.png' width = '19'height = '27'/>-ray energy. A sheet of thickness <img src='file:\$$$\resources\2012 June 70C\imgs\249.png' width = '42'height = '38'/> stopped half of the <img src='file:\$$$\resources\2012 June 70C\imgs\250.png' width = '19'height = '27'/>-rays striking the sheet; that is, I equaled <img src='file:\$$$\resources\2012 June 70C\imgs\251.png' width = '31'height = '65'/> . (For example, based on Figure 2, for 4 MeV <img src='file:\$$$\resources\2012 June 70C\imgs\252.png' width = '19'height = '27'/>-rays striking sheets of Material 1, <img src='file:\$$$\resources\2012 June 70C\imgs\253.png' width = '42'height = '38'/>equaled 1.0 cm.) Finally, the physicist plotted a graph of <img src='file:\$$$\resources\2012 June 70C\imgs\254.png' width = '42'height = '38'/> versus <img src='file:\$$$\resources\2012 June 70C\imgs\255.png' width = '19'height = '27'/>-ray energy for each material (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\256.png' width = '601'height = '408'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+###################
+<div class = "quiz">35. Based on the results of Experiment 2, for a given material, as <img src='file:\$$$\resources\2012 June 70C\imgs\257.png' width = '19'height = '27'/>-ray energy increased,<img src='file:\$$$\resources\2012 June 70C\imgs\258.png' width = '42'height = '38'/>:
+<div class = "choice">A. increased only.</div>
+<div class = "choice">B. decreased only.</div>
+<div class = "choice">C. varied, but with no general trend.</div>
+<div class = "choice">D. remained the same.</div>
+</div>
+###################
+<div class = "quiz">36. Based on the results of Experiment 1, <img src='file:\$$$\resources\2012 June 70C\imgs\259.png' width = '42'height = '38'/>for Material 3 and a <img src='file:\$$$\resources\2012 June 70C\imgs\260.png' width = '19'height = '27'/>-ray energy of 4 MeV was closest to which of the following values?
+<div class = "choice">F. 1.0 cm</div>
+<div class = "choice">G. 2.0 cm</div>
+<div class = "choice">H. 3.0 cm</div>
+<div class = "choice">J. 4.0 cm</div>
+</div>
+###################
+<div class = "quiz">37. Based on the results of Experiment 2, to stop a given number of <img src='file:\$$$\resources\2012 June 70C\imgs\261.png' width = '19'height = '27'/>-rays of a given energy, which sheet had to be thicker, a sheet made of Material 1 or a sheet made of Material 3?
+<div class = "choice">A. Material 1, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\262.png' width = '42'height = '38'/>for Material 1 is greater than <img src='file:\$$$\resources\2012 June 70C\imgs\263.png' width = '42'height = '38'/> for Material 3.</div>
+<div class = "choice">B. Material 1, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\264.png' width = '42'height = '38'/>for Material 1 is less than <img src='file:\$$$\resources\2012 June 70C\imgs\265.png' width = '42'height = '38'/> for Material 3.</div>
+<div class = "choice">C. Material 3, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\266.png' width = '42'height = '38'/>for Material 3 is greater than <img src='file:\$$$\resources\2012 June 70C\imgs\267.png' width = '42'height = '38'/> for Material 1.</div>
+<div class = "choice">D. Material 3, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\268.png' width = '42'height = '38'/>for Material 3 is less than <img src='file:\$$$\resources\2012 June 70C\imgs\269.png' width = '42'height = '38'/> for Material 1.</div>
+</div>
+###################
+<div class = "quiz">38. Based on the description of the experiments, for <img src='file:\$$$\resources\2012 June 70C\imgs\270.png' width = '19'height = '27'/>-rays of a given energy, as the ability of materials to stop <img src='file:\$$$\resources\2012 June 70C\imgs\271.png' width = '19'height = '27'/>-rays increased, did I decrease or increase, and why?
+<div class = "choice">F. Decrease, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\272.png' width = '19'height = '27'/>-rays reaching the detector per minute increased.</div>
+<div class = "choice">G. Decrease, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\273.png' width = '19'height = '27'/>-rays reaching the detector per minute decreased.</div>
+<div class = "choice">H. Increase, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\274.png' width = '19'height = '27'/>-rays reaching the detector per minute increased.</div>
+<div class = "choice">J. Increase, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\275.png' width = '19'height = '27'/>-rays reaching the detector per minute decreased.</div>
+</div>
+###################
+<div class = "quiz">39. The physicist must prepare a sheet that will yield a detection rate of 1,000 cpm when the sheet is struck by 4 MeV <img src='file:\$$$\resources\2012 June 70C\imgs\276.png' width = '19'height = '27'/>-rays, as in Experiment 1. This sheet can be no thicker than 10.0 cm. Based on the results of Experiment 1, the physicist can satisfy these requirements by constructing the sheet out of which of the materials tested?
+<div class = "choice">A. Either Material 1 or Material 2</div>
+<div class = "choice">B. Either Material 1 or Material 3</div>
+<div class = "choice">C. Either Material 2 or Material 3</div>
+<div class = "choice">D. Either Material 1, Material 2, or Material 3</div>
+</div>
+###################
+<div class = "quiz">40. In Experiment 1, what was the value of<img src='file:\$$$\resources\2012 June 70C\imgs\277.png' width = '24'height = '38'/>?
+<div class = "choice">F. 0 cpm</div>
+<div class = "choice">G. 1 cpm</div>
+<div class = "choice">H. 4,000 cpm</div>
+<div class = "choice">J. 8,000 cpm</div>
+<br>
+</div>
+###################
