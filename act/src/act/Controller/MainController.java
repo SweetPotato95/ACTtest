@@ -4,6 +4,7 @@ import act.View.*;
 
 import java.io.File;
 
+import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 import act.MainActivity;
@@ -26,11 +27,23 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
+	private static boolean isPartMode = false;
 	private static boolean isDuringTest = true;private static PrintScore ps = new PrintScore();	public MainController()
 	{
 		
 	}
-	
+	public static void setPartIndex(int part){
+		partIndex = part;
+		for (int i = 0; i < part; i++){
+			questionIndex += ModelConstants.QUESTIONNUM_PER_PART[i];
+		}
+	}
+	public static void setPartMode(boolean mode){
+		isPartMode = mode;
+	}
+	public static boolean getPartMode(){
+		return isPartMode;
+	}
 	public static void init(){
 		reset();
 		calQuestionIndex();
@@ -50,7 +63,7 @@ public class MainController{
 		}
 	}
 	public static void handleNext(){
-//		System.out.println(questionIndex+","+splitIndex+","+partIndex);
+		System.out.println(questionIndex+","+splitIndex+","+partIndex);
 		if(partIndex >= basicInfo.getTotalPartNum()){
 			handleScore();
 			return;
@@ -79,6 +92,10 @@ public class MainController{
 			return;
 		}
 		if(basicInfo.isLastInPart(questionIndex)){
+			if(isPartMode) {
+				handleScore();
+				return;
+			}
 			if (mainView.isTimeAlive()) return;
 			submitThisPart();
 			isInstructionShowing = true;
@@ -133,7 +150,12 @@ public class MainController{
 	}
 	public static void handleSave(){
 		String name = ModelConstants.TESTNAME[testIndex];
-		name += " " + JOptionPane.showInputDialog("Please input file name: \n Eg: daxiang", "report");
+		JFrame tmp = new JFrame();
+		tmp.setAlwaysOnTop(true);
+		
+		String xx = JOptionPane.showInputDialog(tmp, "Please input file name: \n Eg: daxiang", "report");
+		if (xx == null) return;
+		name += " " + xx;
 		if (name == "" || name == null) name = "report";
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1) + "reports\\";
@@ -142,7 +164,7 @@ public class MainController{
 		Object[] options = { "OK", "CANCEL" }; 
 		
 		if (file.exists()){
-			int i = JOptionPane.showOptionDialog(null, "The file already exists. Overwrite existing file?", "Warning", 
+			int i = JOptionPane.showOptionDialog(tmp, "The file already exists. Overwrite existing file?", "Warning", 
 					JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, 
 					null, options, options[0]); 
 			if (i == 1) return;
@@ -222,6 +244,9 @@ public class MainController{
 		if(partIndex + 1 >= ModelConstants.PARTNUM_TOTAL){
 			handleScore();
 		}
+		else if(isPartMode){
+			handleScore();
+		}
 		else {
 			submitThisPart();
 		}
@@ -231,9 +256,9 @@ public class MainController{
 			handleScore();
 			return;
 		}
+		mainView.initTimer(partIndex);
 		mainView.showInstructionView(testIndex,++partIndex);
 		mainView.setCountingStatus(false);
-		mainView.initTimer(partIndex);
 		splitIndex = basicInfo.firstSplitInPart(partIndex);
 		questionIndex = basicInfo.firstQuestionIndexInSplit(splitIndex);
 		UpdateBrains(splitIndex,partIndex,testIndex);

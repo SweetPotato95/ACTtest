@@ -155,7 +155,7 @@ public class Login extends JFrame implements ActionListener
 				return;
 			}
 			this.dispose();
-			welcome wl = new welcome("resources\\lib\\ad.png",8000);
+			welcome wl = new welcome("resources\\lib\\ad.png",2000);
 			new centerShow(wl);
 			wl.setVisible(true);
 			wl.addWindowListener(new WindowAdapter(){
