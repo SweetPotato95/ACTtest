@@ -54,7 +54,21 @@ public class ControlPane extends JPanel{
 		submitButton.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e){
-				MainController.handleScore();
+				JFrame tmp = new JFrame();
+				tmp.setAlwaysOnTop(true);
+				int option = JOptionPane.showConfirmDialog(tmp,
+					       "确定提交至成绩单界面？", "Submit", JOptionPane.YES_NO_OPTION);
+					     switch (option) {
+					     	case JOptionPane.YES_NO_OPTION: {
+					     		MainController.handleScore();
+					      	break;
+					     }
+					     case JOptionPane.NO_OPTION:
+					    	 return;
+
+					     }
+				
+				
 			}
 		});
 		
@@ -103,7 +117,8 @@ public class ControlPane extends JPanel{
 		this.add(pauseButton);
 		this.add(befButton);
 		this.add(nextButton);
-		this.add(submitButton);
+		if (MainController.getPartMode())
+			this.add(submitButton);
 		this.setPreferredSize(new Dimension(ViewConstants.NAV_WIDTH,ViewConstants.NAV_HEIGHT));
 		this.setBackground(new Color(0,74,128));
 		this.revalidate();
@@ -137,6 +152,7 @@ public class ControlPane extends JPanel{
 		this.add(resumeButton);
 		this.add(befButton);
 		this.add(nextButton);
+		if (MainController.getPartMode())
 		this.add(submitButton);
 		this.revalidate();
 		this.repaint();
@@ -146,6 +162,7 @@ public class ControlPane extends JPanel{
 		this.add(pauseButton);
 		this.add(befButton);
 		this.add(nextButton);
+		if (MainController.getPartMode())
 		this.add(submitButton);
 		this.revalidate();
 		this.repaint();

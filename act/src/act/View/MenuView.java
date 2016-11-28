@@ -70,6 +70,11 @@ public class MenuView extends JPanel{
 		
 		buttonColumn1.setMenuView(this);
 		buttonColumn2.setMenuView(this);
+		buttonColumn3.setMenuView(this);
+		buttonColumn4.setMenuView(this);
+		buttonColumn5.setMenuView(this);
+		buttonColumn6.setMenuView(this);
+		buttonColumn7.setMenuView(this);
 //		table.setEnabled(false);
 		table.setShowVerticalLines(false);
 		table.getColumn("Test").setPreferredWidth(300);
@@ -102,8 +107,9 @@ public class MenuView extends JPanel{
 		System.out.println(i);
 		mainActivity.initMainView(i);
 	}
-	public void enterSplit(int i, int j){
+	public void enterPart(int i, int j){
 		System.out.println(i+ "," +j);
+		mainActivity.initMainView(i,j-2);
 	}
 }
 
@@ -234,7 +240,10 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 		}
 		//System.out.println(row +" "+column);
 		if (column == 1)menuView.enterTest(row);
-		else menuView.enterSplit(row, column);
+		else {
+			System.out.println(row+","+column);
+			menuView.enterPart(row, column);
+		}
 		
 	}
 	@Override
