@@ -52,7 +52,7 @@ public class InstructionView extends JPanel{
 		readingBrain = r;
 	}
 	public void requestUpdate(int testIndex,int partIndex){
-		System.out.println("DEBUG INFO: in InstructionView "+partIndex);
+//		System.out.println("DEBUG INFO: in InstructionView "+partIndex);
 		textPane.setText(readingBrain.readDirection(testIndex,partIndex));
 	}
 }

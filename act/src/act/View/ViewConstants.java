@@ -43,7 +43,7 @@ public class ViewConstants{
 	public static Font instructionTitleFont = new Font("Microsoft Yahei",Font.BOLD,30);
 	public static Font instructionBodyFont = new Font("Microsoft Yahei",Font.PLAIN,20);
 	public static Font controlPane_labelFont = new Font("Microsoft Yahei",Font.PLAIN,18);
-	public static int[] TIME_LIMIT_PER_PART = {2,2,200,200,30};	
+	public static int[] TIME_LIMIT_PER_PART = {2700,3600,2100,2100,1800};	
 
 	static{
 		Dimension sc = Toolkit.getDefaultToolkit().getScreenSize();

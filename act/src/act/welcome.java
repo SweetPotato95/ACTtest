@@ -25,6 +25,7 @@ public class welcome extends JFrame implements MouseListener
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
 		path = path.replace('\\', '/');
+		path = path.replace(" ", "%20");
 		pdfpath = "file:///"+path+"resources/lib/xch.pdf";
 		JLabel hint = new JLabel("点击下方图片有惊喜");
 		hint.setFont(new Font("Microsoft Yahei",Font.PLAIN,15));

@@ -36,6 +36,7 @@ public class MainController{
 		partIndex = part;
 		for (int i = 0; i < part; i++){
 			questionIndex += ModelConstants.QUESTIONNUM_PER_PART[i];
+			splitIndex += ModelConstants.SPLITNUM_PER_PART[i];
 		}
 	}
 	public static void setPartMode(boolean mode){
@@ -158,7 +159,7 @@ public class MainController{
 		name += " " + xx;
 		if (name == "" || name == null) name = "report";
 		String path = new File(".").getAbsolutePath();
-		path = path.substring(0,path.length()-1) + "reports\\";
+		path = path.substring(0,path.length()-1) + "reports"+File.separator;
 		path += name + ".pdf";
 		File file = new File(path);
 		Object[] options = { "OK", "CANCEL" }; 

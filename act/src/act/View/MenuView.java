@@ -182,7 +182,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
     private JTable table;
     private String text1="Start";
     private String text2="Report";
-    private ImageIcon icon = new ImageIcon("resources\\lib\\button.gif");
+    private ImageIcon icon = new ImageIcon("resources"+File.separator+"lib"+File.separator+"button.gif");
     private MenuView menuView;
     
     public ButtonColumn(){}
