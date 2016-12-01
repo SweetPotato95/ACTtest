@@ -6,8 +6,8 @@ import java.awt.Toolkit;
 
 public class ViewConstants{
 	public static Dimension d = Toolkit.getDefaultToolkit().getScreenSize();
-	public static int MAINPANEL_WIDTH = d.width;
-	public static int MAINPANEL_HEIGHT = d.height;
+	public static int MAINPANEL_WIDTH = (int)Math.ceil(d.width * 0.8);
+	public static int MAINPANEL_HEIGHT = (int )Math.ceil(d.height * 0.8);
 	public static int NAV_WIDTH;
 	public static int NAV_HEIGHT = 50;
 	public static int CHOICEPANE_PART_WIDTH;

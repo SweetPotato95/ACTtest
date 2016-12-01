@@ -38,7 +38,7 @@ public class welcome extends JFrame implements MouseListener
 			setVisible(false); 
 		    dispose();
 		    MainActivity mainActivity = new MainActivity();
-			mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+			mainActivity.setSize((int)(Toolkit.getDefaultToolkit().getScreenSize().width), (int)(Toolkit.getDefaultToolkit().getScreenSize().height));
 			mainActivity.addWindowListener(new WindowAdapter(){
 					@Override
 					public void windowClosing(WindowEvent we){

@@ -83,11 +83,31 @@ public class Login extends JFrame implements ActionListener
                         break;  
                     }  
                 }  
+                address = address.trim().replace("-", ""); 
                 br.close();  
             } catch (IOException e) {  
             }  
         }  
-        address = address.trim().replace("-", "");  
+        else if (os.startsWith("Mac")) {  
+            String command = "/bin/sh -c ifconfig -a";  
+            Process p;  
+            try {  
+                p = Runtime.getRuntime().exec(command);  
+                BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));  
+                String line;  
+                while ((line = br.readLine()) != null) {  
+                    if (line.indexOf("ether") > 0) {  
+                        int index = line.indexOf("ether") + "ether".length();  
+                        address = line.substring(index);  
+                        break;  
+                    }  
+                }  
+                address = address.trim().replace(":", ""); 
+                br.close();  
+            } catch (IOException e) {  
+            }  
+        }  
+         
         Matcher m = pat.matcher(address);
         String result = m.replaceAll("");
         return result;  

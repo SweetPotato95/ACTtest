@@ -193,7 +193,12 @@ public class readText {
 				}
 			}
 		}
-		passage = passage.replace("$$$", path);
+		String os = "";  
+        os = System.getProperty("os.name"); 
+		if (os.startsWith("Mac"))
+		passage = passage.replace("$$$", "\\" +path);
+		else
+			passage = passage.replace("$$$", path);
 		passage = passage.replace('\\', File.separatorChar);
 		passage = passage.replace("б░", "\"").replace("б▒", "\"");
 		passage = passage.replace("бо", "\'").replace("бо", "\'");
@@ -231,6 +236,8 @@ public class readText {
 		BufferedReader reader = null;
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
+		String os = "";  
+        os = System.getProperty("os.name");  
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
@@ -242,7 +249,10 @@ public class readText {
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
 				tmpstring = tmpstring.trim();
-				tmpstring = tmpstring.replace("$$$", path);
+				if (os.startsWith("Mac"))
+						tmpstring = tmpstring.replace("$$$", "\\"+path);
+				else
+					tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){
 					mark = 1;
 					ques = "";
