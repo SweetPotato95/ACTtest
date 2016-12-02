@@ -34,8 +34,8 @@ public class MainActivity extends JFrame{
 		this.add(menuView);
         this.setUndecorated(false);  
         this.setResizable(false);
-        this.getGraphicsConfiguration().getDevice()  
-                .setFullScreenWindow(this); 
+//        this.getGraphicsConfiguration().getDevice()  
+//                .setFullScreenWindow(this); 
         this.setVisible(true);
         }
 

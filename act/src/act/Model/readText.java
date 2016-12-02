@@ -12,7 +12,9 @@ public class readText {
 	public static String readWriting(){
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
-		String name = "\\resources\\lib\\writing.txt";
+		
+		String name = File.separator+"resources"+File.separator+"lib"+File.separator+"writing.txt";
+		System.out.println(name);
 		File file = new File(path + name);
 		String res = "";
 		BufferedReader reader = null;
@@ -71,7 +73,7 @@ public class readText {
 			s[i] = new int[ModelConstants.QUESTIONNUM_PER_PART[i] + 1];
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
-		String name = "\\resources\\lib\\score.txt";
+		String name = File.separator+"resources"+File.separator+"lib"+File.separator+"score.txt";
 		File file = new File(path + name);
 		BufferedReader reader = null;
 		try{
@@ -130,8 +132,9 @@ public class readText {
 				for(int j = 0; j < lens[i]; j++)
 				{
 					tmpstring = reader.readLine();
+//					System.out.println(j +", "+ tmpstring);
 					tmpstring = tmpstring.split(" ")[1];
-//					System.out.println(tmpstring);
+					
 					if(tmpstring.equals("A") || tmpstring.equals("F"))
 						ans[adds[i-1] + j] = 0;
 					if(tmpstring.equals("B") || tmpstring.equals("G"))
@@ -190,7 +193,13 @@ public class readText {
 				}
 			}
 		}
-		passage = passage.replace("$$$", path);
+		String os = "";  
+        os = System.getProperty("os.name"); 
+		if (os.startsWith("Mac"))
+		passage = passage.replace("$$$", "\\" +path);
+		else
+			passage = passage.replace("$$$", path);
+		passage = passage.replace('\\', File.separatorChar);
 		passage = passage.replace("¡°", "\"").replace("¡±", "\"");
 		passage = passage.replace("¡®", "\'").replace("¡®", "\'");
 		passage = passage.replace("£¬", ", ");
@@ -218,6 +227,7 @@ public class readText {
 				}
 			}
 		}
+		passage = passage.replace('\\', File.separatorChar);
 		return passage;
 	}
 	public static ArrayList<choice> readChoice(int type, String filename){
@@ -226,6 +236,8 @@ public class readText {
 		BufferedReader reader = null;
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
+		String os = "";  
+        os = System.getProperty("os.name");  
 		int sum = 0;
 		ArrayList<String> tmpoptions;
 		try{
@@ -237,7 +249,10 @@ public class readText {
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
 				tmpstring = tmpstring.trim();
-				tmpstring = tmpstring.replace("$$$", path);
+				if (os.startsWith("Mac"))
+						tmpstring = tmpstring.replace("$$$", "\\"+path);
+				else
+					tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){
 					mark = 1;
 					ques = "";
@@ -255,6 +270,7 @@ public class readText {
 					ques += tmpstring.replace("<div class = \"quiz\">", "").replace("</div>", "");
 					ques += "<br>";
 					ques = ques.replace("  ","&nbsp;&nbsp;");
+					ques = ques.replace('\\', File.separatorChar);
 				}
 				if(tmpstring.startsWith("<div class = \"choice\">")){					
 					if (mark == 2){
@@ -266,6 +282,7 @@ public class readText {
 						tmpresult.setQuizNum(quizNum);
 					}
 					mark = 3;
+					tmpstring = tmpstring.replace('\\', File.separatorChar);
 					tmpstring = tmpstring.replace("  ","&nbsp;&nbsp;");
 					tmpstring = tmpstring.replace("<div class = \"choice\">", "");
 					tmpstring = tmpstring.replace("</div>", "");
@@ -283,6 +300,7 @@ public class readText {
 						tmpresult.setQuizNum(quizNum);
 					}
 					mark = 3;
+					tmpstring = tmpstring.replace('\\', File.separatorChar);
 					tmpstring = tmpstring.replace("<div class = \"para\">", "");
 					tmpstring = tmpstring.replace("</div>", "");
 					tmpoptions.add(tmpstring);

@@ -25,7 +25,7 @@ import javax.swing.table.*;
 public class ScoreListView extends JPanel{
 	private boolean DEBUG = true;
 	private JTable table;
-	private String[] columnNames = {"Passage(Part)Name","Score"};
+	private String[] columnNames = {"Part","Score"};
 	private Object[][] values;
 	DefaultTableModel model;
 	public ScoreListView(){

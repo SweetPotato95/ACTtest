@@ -182,7 +182,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
     private JTable table;
     private String text1="Start";
     private String text2="Report";
-    private ImageIcon icon = new ImageIcon("resources\\lib\\button.gif");
+    private ImageIcon icon = new ImageIcon("resources"+File.separator+"lib"+File.separator+"button.gif");
     private MenuView menuView;
     
     public ButtonColumn(){}
@@ -231,7 +231,11 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 				String path = new File(".").getAbsolutePath();
 //				path = path.substring(0,path.length()-1) + "reports";
 				path = "reports";
-				Runtime.getRuntime().exec("cmd /c start " + path);
+				String os = System.getProperty("os.name"); 
+				if (os.startsWith("Windows"))
+					Runtime.getRuntime().exec("cmd /c start " + path);
+				else if (os.startsWith("Mac"))
+					Runtime.getRuntime().exec("open " + path);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
