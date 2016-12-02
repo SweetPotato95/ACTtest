@@ -1,62 +1,62 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Students studied the photodecomposition (breakdown by light) of p-nitrophenol (a toxic pollutant) in wastewater. They measured the concentration of p-nitrophenol (in parts per million. ppm) in wastewater samples during exposure to various lighting conditions. Titanium dioxide (<img src='file:\$$$\resources\2007 June 65C\imgs\228.png' width = '55'height = '38'/>) and/or hydrogen peroxide (<img src='file:\$$$\resources\2007 June 65C\imgs\229.png' width = '61'height = '38'/>) were added to some samples at the start of exposure (time = 0 min). <img src='file:\$$$\resources\2007 June 65C\imgs\230.png' width = '55'height = '38'/>and <img src='file:\$$$\resources\2007 June 65C\imgs\231.png' width = '61'height = '38'/> composition reactions. The results of 3sets of experiments are shown in Figures l-3.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7v1N0dWRlbnRzIHN0dWRpZWQgdGhlIHBob3RvZGVjb21wb3NpdGlvbiAoYnJlYWtkb3duIGJ5IGxpZ2h0KSBvZiBwLW5pdHJvcGhlbm9sIChhIHRveGljIHBvbGx1dGFudCkgaW4gd2FzdGV3YXRlci4gVGhleSBtZWFzdXJlZCB0aGUgY29uY2VudHJhdGlvbiBvZiBwLW5pdHJvcGhlbm9sIChpbiBwYXJ0cyBwZXIgbWlsbGlvbi4gcHBtKSBpbiB3YXN0ZXdhdGVyIHNhbXBsZXMgZHVyaW5nIGV4cG9zdXJlIHRvIHZhcmlvdXMgbGlnaHRpbmcgY29uZGl0aW9ucy4gVGl0YW5pdW0gZGlveGlkZSAoPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBKdW5lIDY1Q1xpbWdzXDIyOC5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICczOCcvPikgYW5kL29yIGh5ZHJvZ2VuIHBlcm94aWRlICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IEp1bmUgNjVDXGltZ3NcMjI5LnBuZycgd2lkdGggPSAnNjEnaGVpZ2h0ID0gJzM4Jy8+KSB3ZXJlIGFkZGVkIHRvIHNvbWUgc2FtcGxlcyBhdCB0aGUgc3RhcnQgb2YgZXhwb3N1cmUgKHRpbWUgPSAwIG1pbikuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyMzAucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnMzgnLz5hbmQgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBKdW5lIDY1Q1xpbWdzXDIzMS5wbmcnIHdpZHRoID0gJzYxJ2hlaWdodCA9ICczOCcvPiBjb21wb3NpdGlvbiByZWFjdGlvbnMuIFRoZSByZXN1bHRzIG9mIDNzZXRzIG9mIGV4cGVyaW1lbnRzIGFyZSBzaG93biBpbiBGaWd1cmVzIGwtMy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\232.png' width = '649'height = '496'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyMzIucG5nJyB3aWR0aCA9ICc2NDknaGVpZ2h0ID0gJzQ5NicvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: For the 2 samples exposed to sunlight, the intensity of the sunlight was the same.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdGU6IEZvciB0aGUgMiBzYW1wbGVzIGV4cG9zZWQgdG8gc3VubGlnaHQsIHRoZSBpbnRlbnNpdHkgb2YgdGhlIHN1bmxpZ2h0IHdhcyB0aGUgc2FtZS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSBsPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\233.png' width = '630'height = '515'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyMzMucG5nJyB3aWR0aCA9ICc2MzAnaGVpZ2h0ID0gJzUxNScvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\234.png' width = '614'height = '496'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyMzQucG5nJyB3aWR0aCA9ICc2MTQnaGVpZ2h0ID0gJzQ5NicvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: All 3 samples were exposed to the same intensity of sunlight.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdGU6IEFsbCAzIHNhbXBsZXMgd2VyZSBleHBvc2VkIHRvIHRoZSBzYW1lIGludGVuc2l0eSBvZiBzdW5saWdodC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from J. A. Herrera-Melian et al., *Solar Photocatalytic Destruction of p-Nitrophenol: A Pedagogical Use of Lab Wastes." ©2001 by Division of Chemical Education, Inc., American Chemical Society.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIEouIEEuIEhlcnJlcmEtTWVsaWFuIGV0IGFsLiwgKlNvbGFyIFBob3RvY2F0YWx5dGljIERlc3RydWN0aW9uIG9mIHAtTml0cm9waGVub2w6IEEgUGVkYWdvZ2ljYWwgVXNlIG9mIExhYiBXYXN0ZXMuIiDCqTIwMDEgYnkgRGl2aXNpb24gb2YgQ2hlbWljYWwgRWR1Y2F0aW9uLCBJbmMuLCBBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">23. According to Figure l,60 min after <img src='file:\$$$\resources\2007 June 65C\imgs\235.png' width = '55'height = '38'/> was added to the wastewater sample that was NOT exposed to sunlight, the concentration of p-nitrophenol was closest to which of the following?
-<div class = "choice">A. 0.00 ppm</div>
-<div class = "choice">B. 0.20 ppm</div>
-<div class = "choice">C. 2.50 ppm</div>
-<div class = "choice">D. 2.70 ppm</div>
-</div>
-###################
-<div class = "quiz">24. According to Figure l, for the sample that contained <img src='file:\$$$\resources\2007 June 65C\imgs\236.png' width = '55'height = '38'/> and was exposed to sunlight, the greatest amount of p-nitrophenol decomposed during which of the following time intervals?
-<div class = "choice">F. From 0 min to 30 min</div>
-<div class = "choice">G. From 30 min to 90 min</div>
-<div class = "choice">H. From 90 min to 150 min</div>
-<div class = "choice">J. From 150 min to 180 min</div>
-</div>
-###################
-<div class = "quiz">25. For which of the 3 figures did all of the wastewater samples studied have the same initial p-nitrophenol concentration?
-<div class = "choice">A. Figure l only</div>
-<div class = "choice">B. Figure 2 only</div>
-<div class = "choice">C. Figure 3 only</div>
-<div class = "choice">D. Figures l, 2, and 3</div>
-</div>
-###################
-<div class = "quiz">26. Based on the information in the passage, which of the following best describes and explains the results shown in Figure 2? As time increased from 0 min to 180 min. the concentration of p-nitrophenol in the 3 samples:
-<div class = "choice">F. decreased, because the p-nitrophenol changed from a liquid to a gas.</div>
-<div class = "choice">G. decreased, because the p-nitrophenol molecules broke down to form other substances.</div>
-<div class = "choice">H. increased, because the p-nitrophenol changed from a liquid to a gas:</div>
-<div class = "choice">J. increased, because .the p-nitrophenol molecules broke down to form other substances.</div>
-</div>
-###################
-<div class = "quiz">27. A chemist claimed that adding <img src='file:\$$$\resources\2007 June 65C\imgs\237.png' width = '61'height = '38'/> to wastewater containing p-nitrophenol will cause the p-nitrophenol to decompose in the absence of light. Do the results from any of the figures confirm her claim?
-<div class = "choice">A. Yes; according to Figure l, the p-nitrophenol concentration only decreased in the sample containing <img src='file:\$$$\resources\2007 June 65C\imgs\238.png' width = '61'height = '38'/> tested in the absence of light.</div>
-<div class = "choice">B. Yes; according to Figure 3, the p-nitrophenol concentration only decreased in the sample containing<img src='file:\$$$\resources\2007 June 65C\imgs\239.png' width = '61'height = '38'/>.</div>
-<div class = "choice">C. No; according to Figure l, the p-nitrophenol concentration only decreased in the sample containing <img src='file:\$$$\resources\2007 June 65C\imgs\240.png' width = '61'height = '38'/> tested in the absence of light.</div>
-<div class = "choice">D. No; according to Figures l-3, no samples containing <img src='file:\$$$\resources\2007 June 65C\imgs\241.png' width = '61'height = '38'/> were tested in the absence of light.</div>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSBsLDYwIG1pbiBhZnRlciA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IEp1bmUgNjVDXGltZ3NcMjM1LnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzM4Jy8+IHdhcyBhZGRlZCB0byB0aGUgd2FzdGV3YXRlciBzYW1wbGUgdGhhdCB3YXMgTk9UIGV4cG9zZWQgdG8gc3VubGlnaHQsIHRoZSBjb25jZW50cmF0aW9uIG9mIHAtbml0cm9waGVub2wgd2FzIGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuMDAgcHBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDAuMjAgcHBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDIuNTAgcHBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIuNzAgcHBtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gQWNjb3JkaW5nIHRvIEZpZ3VyZSBsLCBmb3IgdGhlIHNhbXBsZSB0aGF0IGNvbnRhaW5lZCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IEp1bmUgNjVDXGltZ3NcMjM2LnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzM4Jy8+IGFuZCB3YXMgZXhwb3NlZCB0byBzdW5saWdodCwgdGhlIGdyZWF0ZXN0IGFtb3VudCBvZiBwLW5pdHJvcGhlbm9sIGRlY29tcG9zZWQgZHVyaW5nIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdGltZSBpbnRlcnZhbHM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEZyb20gMCBtaW4gdG8gMzAgbWluPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEZyb20gMzAgbWluIHRvIDkwIG1pbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEZyb20gOTAgbWluIHRvIDE1MCBtaW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZyb20gMTUwIG1pbiB0byAxODAgbWluPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gRm9yIHdoaWNoIG9mIHRoZSAzIGZpZ3VyZXMgZGlkIGFsbCBvZiB0aGUgd2FzdGV3YXRlciBzYW1wbGVzIHN0dWRpZWQgaGF2ZSB0aGUgc2FtZSBpbml0aWFsIHAtbml0cm9waGVub2wgY29uY2VudHJhdGlvbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEZpZ3VyZSBsIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZpZ3VyZSAyIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZpZ3VyZSAzIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEZpZ3VyZXMgbCwgMiwgYW5kIDM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQmFzZWQgb24gdGhlIGluZm9ybWF0aW9uIGluIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGJlc3QgZGVzY3JpYmVzIGFuZCBleHBsYWlucyB0aGUgcmVzdWx0cyBzaG93biBpbiBGaWd1cmUgMj8gQXMgdGltZSBpbmNyZWFzZWQgZnJvbSAwIG1pbiB0byAxODAgbWluLiB0aGUgY29uY2VudHJhdGlvbiBvZiBwLW5pdHJvcGhlbm9sIGluIHRoZSAzIHNhbXBsZXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlY3JlYXNlZCwgYmVjYXVzZSB0aGUgcC1uaXRyb3BoZW5vbCBjaGFuZ2VkIGZyb20gYSBsaXF1aWQgdG8gYSBnYXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlZCwgYmVjYXVzZSB0aGUgcC1uaXRyb3BoZW5vbCBtb2xlY3VsZXMgYnJva2UgZG93biB0byBmb3JtIG90aGVyIHN1YnN0YW5jZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlZCwgYmVjYXVzZSB0aGUgcC1uaXRyb3BoZW5vbCBjaGFuZ2VkIGZyb20gYSBsaXF1aWQgdG8gYSBnYXM6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluY3JlYXNlZCwgYmVjYXVzZSAudGhlIHAtbml0cm9waGVub2wgbW9sZWN1bGVzIGJyb2tlIGRvd24gdG8gZm9ybSBvdGhlciBzdWJzdGFuY2VzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQSBjaGVtaXN0IGNsYWltZWQgdGhhdCBhZGRpbmcgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBKdW5lIDY1Q1xpbWdzXDIzNy5wbmcnIHdpZHRoID0gJzYxJ2hlaWdodCA9ICczOCcvPiB0byB3YXN0ZXdhdGVyIGNvbnRhaW5pbmcgcC1uaXRyb3BoZW5vbCB3aWxsIGNhdXNlIHRoZSBwLW5pdHJvcGhlbm9sIHRvIGRlY29tcG9zZSBpbiB0aGUgYWJzZW5jZSBvZiBsaWdodC4gRG8gdGhlIHJlc3VsdHMgZnJvbSBhbnkgb2YgdGhlIGZpZ3VyZXMgY29uZmlybSBoZXIgY2xhaW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllczsgYWNjb3JkaW5nIHRvIEZpZ3VyZSBsLCB0aGUgcC1uaXRyb3BoZW5vbCBjb25jZW50cmF0aW9uIG9ubHkgZGVjcmVhc2VkIGluIHRoZSBzYW1wbGUgY29udGFpbmluZyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IEp1bmUgNjVDXGltZ3NcMjM4LnBuZycgd2lkdGggPSAnNjEnaGVpZ2h0ID0gJzM4Jy8+IHRlc3RlZCBpbiB0aGUgYWJzZW5jZSBvZiBsaWdodC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllczsgYWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCB0aGUgcC1uaXRyb3BoZW5vbCBjb25jZW50cmF0aW9uIG9ubHkgZGVjcmVhc2VkIGluIHRoZSBzYW1wbGUgY29udGFpbmluZzxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyMzkucG5nJyB3aWR0aCA9ICc2MSdoZWlnaHQgPSAnMzgnLz4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vOyBhY2NvcmRpbmcgdG8gRmlndXJlIGwsIHRoZSBwLW5pdHJvcGhlbm9sIGNvbmNlbnRyYXRpb24gb25seSBkZWNyZWFzZWQgaW4gdGhlIHNhbXBsZSBjb250YWluaW5nIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyNDAucG5nJyB3aWR0aCA9ICc2MSdoZWlnaHQgPSAnMzgnLz4gdGVzdGVkIGluIHRoZSBhYnNlbmNlIG9mIGxpZ2h0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vOyBhY2NvcmRpbmcgdG8gRmlndXJlcyBsLTMsIG5vIHNhbXBsZXMgY29udGFpbmluZyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IEp1bmUgNjVDXGltZ3NcMjQxLnBuZycgd2lkdGggPSAnNjEnaGVpZ2h0ID0gJzM4Jy8+IHdlcmUgdGVzdGVkIGluIHRoZSBhYnNlbmNlIG9mIGxpZ2h0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

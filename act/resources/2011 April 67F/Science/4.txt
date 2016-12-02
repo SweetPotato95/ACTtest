@@ -1,90 +1,90 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A river's discharge is the volume of river water flowing past a location in the river in a given amount of time. Discharge is affected by several factors, including the area of the river's drainage basin (the land surface that delivers the rainwater that falls on it into the river) and the spatial relationship of the river to other rivers.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgcml2ZXIncyBkaXNjaGFyZ2UgaXMgdGhlIHZvbHVtZSBvZiByaXZlciB3YXRlciBmbG93H2luZyBwYXN0IGEgbG9jYXRpb24gaW4gdGhlIHJpdmVyIGluIGEgZ2l2ZW4gYW1vdW50IG9mIHRpbWUuIERpc2NoYXJnZSBpcyBhZmZlY3RlZCBieSBzZXZlcmFsIGZhY3RvcnMsIGluY2x1ZGluZyB0aGUgYXJlYSBvZiB0aGUgcml2ZXIncyBkcmFpbmFnZSBiYXNpbiAodGhlIGxhbmQgc3VyZmFjZSB0aGF0IGRlbGl2ZXJzIHRoZSByYWlud2F0ZXIgdGhhdCBmYWxscyBvbiBpdCBpbnRvIHRoZSByaXZlcikgYW5kIHRoZSBzcGF0aWFsIHJlbGF0aW9uc2hpcCBvZiB0aGUgcml2ZXIgdG8gb3RoZXIgcml2ZXJzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two studies examined the discharge in 3 rivers—the North River, the Jones River, and the Calm River—following a rainfall event. As shown in Figure 1, the drainage basin of the North River and the drainage basin of the Jones River are within the drainage basin of the Calm River. The area of each river's drainage basin is given in<img src='file:\$$$\resources\2011 April 67F\imgs\223.png' width = '120'height = '34'/>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlR3byBzdHVkaWVzIGV4YW1pbmVkIHRoZSBkaXNjaGFyZ2UgaW4gMyByaXZlcnPigJR0aGUgTm9ydGggUml2ZXIsIHRoZSBKb25lcyBSaXZlciwgYW5kIHRoZSBDYWxtIFJpdmVy4oCUZm9sbG93H2luZyBhIHJhaW5mYWxsIGV2ZW50LiBBcyBzaG93biBpbiBGaWd1cmUgMSwgdGhlIGRyYWluYWdlIGJhc2luIG9mIHRoZSBOb3J0aCBSaXZlciBhbmQgdGhlIGRyYWluYWdlIGJhc2luIG9mIHRoZSBKb25lcyBSaXZlciBhcmUgd2l0aGluIHRoZSBkcmFpbmFnZSBiYXNpbiBvZiB0aGUgQ2FsbSBSaXZlci4gVGhlIGFyZWEgb2YgZWFjaCByaXZlcidzIGRyYWluYWdlIGJhc2luIGlzIGdpdmVuIGluPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMjMucG5nJyB3aWR0aCA9ICcxMjAnaGVpZ2h0ID0gJzM0Jy8+LjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\224.png' width = '410'height = '344'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjI0LnBuZycgd2lkdGggPSAnNDEwJ2hlaWdodCA9ICczNDQnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDE8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The rainfall event produced 25 mm of rain. As rainwater drained into the 3 rivers, the discharges of the rivers increased. The maximum discharge measured immediately after a rainfall event is called a flood.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByYWluZmFsbCBldmVudCBwcm9kdWNlZCAyNSBtbSBvZiByYWluLiBBcyByYWluH3dhdGVyIGRyYWluZWQgaW50byB0aGUgMyByaXZlcnMsIHRoZSBkaXNjaGFyZ2VzIG9mIHRoZSByaXZlcnMgaW5jcmVhc2VkLiBUaGUgbWF4aW11bSBkaXNjaGFyZ2UgbWVhc3VyZWQgaW1tZWRpYXRlbHkgYWZ0ZXIgYSByYWluZmFsbCBldmVudCBpcyBjYWxsZWQgYSBmbG9vZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over the 12 days following the rainfall event, as the flood caused by the rainfall moved downstream, the discharge was continuously measured, in<img src='file:\$$$\resources\2011 April 67F\imgs\225.png' width = '74'height = '34'/>, at the 3 sites shown in Figure 1. The results are shown in Figure 2. (Note: No rainfall event occurred in the Calm River drainage basin during those 12 days.)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk92ZXIgdGhlIDEyIGRheXMgZm9sbG93aW5nIHRoZSByYWluZmFsbCBldmVudCwgYXMgdGhlIGZsb29kIGNhdXNlZCBieSB0aGUgcmFpbmZhbGwgbW92ZWQgZG93bnN0cmVhbSwgdGhlIGRpcx9jaGFyZ2Ugd2FzIGNvbnRpbnVvdXNseSBtZWFzdXJlZCwgaW48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDIyNS5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICczNCcvPiwgYXQgdGhlIDMgc2l0ZXMgc2hvd24gaW4gRmlndXJlIDEuIFRoZSByZXN1bHRzIGFyZSBzaG93biBpbiBGaWd1cmUgMi4gKE5vdGU6IE5vIHJhaW5mYWxsIGV2ZW50IG9jY3VycmVkIGluIHRoZSBDYWxtIFJpdmVyIGRyYWluYWdlIGJhc2luIGR1cmluZyB0aG9zZSAxMiBkYXlzLik8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The normalized discharge over the 12 days following the rainfall event was calculated for each of the 3 rivers. The normalized discharge values allowed the flood to be studied as if the 3 rivers had identical drainage basin areas of 1<img src='file:\$$$\resources\2011 April 67F\imgs\226.png' width = '46'height = '32'/>. Each normalized discharge value was calculated using the following equation:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBub3JtYWxpemVkIGRpc2NoYXJnZSBvdmVyIHRoZSAxMiBkYXlzIGZvbGxvd2luZyB0aGUgcmFpbmZhbGwgZXZlbnQgd2FzIGNhbGN1bGF0ZWQgZm9yIGVhY2ggb2YgdGhlIDMgcml2ZXJzLiBUaGUgbm9ybWFsaXplZCBkaXNjaGFyZ2UgdmFsdWVzIGFsbG93ZWQgdGhlIGZsb29kIHRvIGJlIHN0dWRpZWQgYXMgaWYgdGhlIDMgcml2ZXJzIGhhZCBpZGVudGljYWwgZHJhaW5hZ2UgYmFzaW4gYXJlYXMgb2YgMTxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjI2LnBuZycgd2lkdGggPSAnNDYnaGVpZ2h0ID0gJzMyJy8+LiBFYWNoIG5vcm1hbGl6ZWQgZGlzY2hhcmdlIHZhbHVlIHdhcyBjYWxjdWxhdGVkIHVzaW5nIHRoZSBmb2xsb3dpbmcgZXF1YXRpb246PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\227.png' width = '560'height = '73'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjI3LnBuZycgd2lkdGggPSAnNTYwJ2hlaWdodCA9ICc3MycvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The value of the numerator, the river discharge, was obtained from Figure 2. The results are shown in Figure 3.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB2YWx1ZSBvZiB0aGUgbnVtZXJhdG9yLCB0aGUgcml2ZXIgZGlzY2hhcmdlLCB3YXMgb2J0YWluZWQgZnJvbSBGaWd1cmUgMi4gVGhlIHJlc3VsdHMgYXJlIHNob3duIGluIEZpZ3VyZSAzLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\228.png' width = '778'height = '398'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjI4LnBuZycgd2lkdGggPSAnNzc4J2hlaWdodCA9ICczOTgnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\229.png' width = '742'height = '269'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjI5LnBuZycgd2lkdGggPSAnNzQyJ2hlaWdodCA9ICcyNjknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from George Hornberger et al., Elements of physical Hydrology. ©1998 by the Johns Hopkins University Press.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMiBhbmQgMyBhZGFwdGVkIGZyb20gR2VvcmdlIEhvcm5iZXJnZXIgZXQgYWwuLCBFbGVtZW50cyBvZiBwaHlzaWNhbCBIeWRyb2xvZ3kuIMKpMTk5OCBieSB0aGUgSm9obnMgSG9wa2lucyBVbml2ZXJzaXR5IFByZXNzLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">19. According to Figure 2, the maximum discharge in the Jones River after the rainfall event was closest to which of the following?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\230.png' width = '117'height = '34'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\231.png' width = '134'height = '38'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\232.png' width = '134'height = '38'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\233.png' width = '136'height = '38'/></div>
-</div>
-###################
-<div class = "quiz">20. According to Study 1, the Jones River and Calm River discharges were closest to the same value at which of the following times after the rainfall event?
-<div class = "choice">F. 0.5 day</div>
-<div class = "choice">G. 2 days</div>
-<div class = "choice">H. 3.5 days</div>
-<div class = "choice">J. 5 days</div>
-</div>
-###################
-<div class = "quiz">21. The tributary (a smaller stream flowing into a larger stream) of the North River shown in Figure1 would most likely have a drainage basin area of:
-<div class = "choice">A. less than 1,710<img src='file:\$$$\resources\2011 April 67F\imgs\234.png' width = '46'height = '32'/>.</div>
-<div class = "choice">B. between 1,710 <img src='file:\$$$\resources\2011 April 67F\imgs\235.png' width = '46'height = '32'/> and 5,700<img src='file:\$$$\resources\2011 April 67F\imgs\236.png' width = '46'height = '32'/>.</div>
-<div class = "choice">C. between 5,700 <img src='file:\$$$\resources\2011 April 67F\imgs\237.png' width = '46'height = '32'/> and 28,400<img src='file:\$$$\resources\2011 April 67F\imgs\238.png' width = '46'height = '32'/>.</div>
-<div class = "choice">D. greater than 28,400<img src='file:\$$$\resources\2011 April 67F\imgs\239.png' width = '46'height = '32'/>.</div>
-</div>
-###################
-<div class = "quiz">22. A student predicted that the river with the greatest maximum discharge would also have the greatest maximum normalized discharge. Based on Figures 2 and 3, is the student's prediction correct?
-<div class = "choice">F. Yes, because the North River had both the greatest maximum discharge and the greatest maximum normalized discharge.</div>
-<div class = "choice">G. Yes, because the Calm River had both the greatest maximum discharge and the greatest maximum normalized discharge.</div>
-<div class = "choice">H. No, because the North River had the greatest maximum discharge but the Calm River had the greatest maximum normalized discharge.</div>
-<div class = "choice">J. No, because the Calm River had the greatest maximum discharge but the North River had the greatest maximum normalized discharge.</div>
-</div>
-###################
-<div class = "quiz">23. Based on Figures 1 and 2 and the description of Study 2, the normalized discharge of the Calm River 5 days after the rainfall event was most likely calculated using which of the following expressions?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\240.png' width = '263'height = '38'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\241.png' width = '260'height = '38'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\242.png' width = '262'height = '38'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\243.png' width = '262'height = '38'/></div>
-</div>
-###################
-<div class = "quiz">24. Suppose that discharge in the Jones River had been measured at a site north of the area where the rainfall event occurred, instead of at the site indicated in Figure 1. How would the discharge data recorded after the rainfall event have differed from that shown in Figure 2?
-<div class = "choice">F. No flood would have been recorded in the data for the North River.</div>
-<div class = "choice">G. No flood would have been recorded in the data for the Jones River.</div>
-<div class = "choice">H. The flood recorded in the data for the North River would have been greater than<img src='file:\$$$\resources\2011 April 67F\imgs\244.png' width = '117'height = '34'/>.</div>
-<div class = "choice">J. The flood recorded in the data for the Jones River would have been greater than<img src='file:\$$$\resources\2011 April 67F\imgs\245.png' width = '134'height = '38'/>.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCB0aGUgbWF4aW11bSBkaXNjaGFyZ2UgaW4gdGhlIEpvbmVzIFJpdmVyIGFmdGVyIHRoZSByYWluZmFsbCBldmVudCB3YXMgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzAucG5nJyB3aWR0aCA9ICcxMTcnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzEucG5nJyB3aWR0aCA9ICcxMzQnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzIucG5nJyB3aWR0aCA9ICcxMzQnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjMzLnBuZycgd2lkdGggPSAnMTM2J2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIFN0dWR5IDEsIHRoZSBKb25lcyBSaXZlciBhbmQgQ2FsbSBSaXZlciBkaXNjaGFyZ2VzIHdlcmUgY2xvc2VzdCB0byB0aGUgc2FtZSB2YWx1ZSBhdCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHRpbWVzIGFmdGVyIHRoZSByYWluZmFsbCBldmVudD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuNSBkYXk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIgZGF5czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDMuNSBkYXlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDUgZGF5czwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIHRyaWJ1dGFyeSAoYSBzbWFsbGVyIHN0cmVhbSBmbG93aW5nIGludG8gYSBsYXJnZXIgc3RyZWFtKSBvZiB0aGUgTm9ydGggUml2ZXIgc2hvd24gaW4gRmlndXJlMSB3b3VsZCBtb3N0IGxpa2VseSBoYXZlIGEgZHJhaW5hZ2UgYmFzaW4gYXJlYSBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiAxLDcxMDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjM0LnBuZycgd2lkdGggPSAnNDYnaGVpZ2h0ID0gJzMyJy8+LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMSw3MTAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzUucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMzInLz4gYW5kIDUsNzAwPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzYucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMzInLz4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gNSw3MDAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMzcucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMzInLz4gYW5kIDI4LDQwMDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjM4LnBuZycgd2lkdGggPSAnNDYnaGVpZ2h0ID0gJzMyJy8+LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiAyOCw0MDA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDIzOS5wbmcnIHdpZHRoID0gJzQ2J2hlaWdodCA9ICczMicvPi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQSBzdHVkZW50IHByZWRpY3RlZCB0aGF0IHRoZSByaXZlciB3aXRoIHRoZSBncmVhdGVzdCBtYXhpbXVtIGRpc2NoYXJnZSB3b3VsZCBhbHNvIGhhdmUgdGhlIGdyZWF0ZXN0IG1heGltdW0gbm9ybWFsaXplZCBkaXNjaGFyZ2UuIEJhc2VkIG9uIEZpZ3VyZXMgMiBhbmQgMywgaXMgdGhlIHN0dWRlbnQncyBwcmVkaWN0aW9uIGNvcnJlY3Q/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSB0aGUgTm9ydGggUml2ZXIgaGFkIGJvdGggdGhlIGdyZWF0ZXN0IG1heGltdW0gZGlzY2hhcmdlIGFuZCB0aGUgZ3JlYXRlc3QgbWF4aW11bSBub3JtYWxpemVkIGRpc2NoYXJnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSB0aGUgQ2FsbSBSaXZlciBoYWQgYm90aCB0aGUgZ3JlYXRlc3QgbWF4aW11bSBkaXNjaGFyZ2UgYW5kIHRoZSBncmVhdGVzdCBtYXhpbXVtIG5vcm1hbGl6ZWQgZGlzY2hhcmdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBOb3J0aCBSaXZlciBoYWQgdGhlIGdyZWF0ZXN0IG1heB9pbXVtIGRpc2NoYXJnZSBidXQgdGhlIENhbG0gUml2ZXIgaGFkIHRoZSBncmVhdB9lc3QgbWF4aW11bSBub3JtYWxpemVkIGRpc2NoYXJnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIHRoZSBDYWxtIFJpdmVyIGhhZCB0aGUgZ3JlYXRlc3QgbWF4aR9tdW0gZGlzY2hhcmdlIGJ1dCB0aGUgTm9ydGggUml2ZXIgaGFkIHRoZSBncmVhdB9lc3QgbWF4aW11bSBub3JtYWxpemVkIGRpc2NoYXJnZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQmFzZWQgb24gRmlndXJlcyAxIGFuZCAyIGFuZCB0aGUgZGVzY3JpcHRpb24gb2YgU3R1ZHkgMiwgdGhlIG5vcm1hbGl6ZWQgZGlzY2hhcmdlIG9mIHRoZSBDYWxtIFJpdmVyIDUgZGF5cyBhZnRlciB0aGUgcmFpbmZhbGwgZXZlbnQgd2FzIG1vc3QgbGlrZWx5IGNhbGN1H2xhdGVkIHVzaW5nIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZXhwcmVzc2lvbnM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNDAucG5nJyB3aWR0aCA9ICcyNjMnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjQxLnBuZycgd2lkdGggPSAnMjYwJ2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNDIucG5nJyB3aWR0aCA9ICcyNjInaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjQzLnBuZycgd2lkdGggPSAnMjYyJ2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gU3VwcG9zZSB0aGF0IGRpc2NoYXJnZSBpbiB0aGUgSm9uZXMgUml2ZXIgaGFkIGJlZW4gbWVhc3VyZWQgYXQgYSBzaXRlIG5vcnRoIG9mIHRoZSBhcmVhIHdoZXJlIHRoZSByYWluZmFsbCBldmVudCBvY2N1cnJlZCwgaW5zdGVhZCBvZiBhdCB0aGUgc2l0ZSBpbmRpY2F0ZWQgaW4gRmlndXJlIDEuIEhvdyB3b3VsZCB0aGUgZGlzY2hhcmdlIGRhdGEgcmVjb3JkZWQgYWZ0ZXIgdGhlIHJhaW5mYWxsIGV2ZW50IGhhdmUgZGlmZmVyZWQgZnJvbSB0aGF0IHNob3duIGluIEZpZ3VyZSAyPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5vIGZsb29kIHdvdWxkIGhhdmUgYmVlbiByZWNvcmRlZCBpbiB0aGUgZGF0YSBmb3IgdGhlIE5vcnRoIFJpdmVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE5vIGZsb29kIHdvdWxkIGhhdmUgYmVlbiByZWNvcmRlZCBpbiB0aGUgZGF0YSBmb3IgdGhlIEpvbmVzIFJpdmVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBmbG9vZCByZWNvcmRlZCBpbiB0aGUgZGF0YSBmb3IgdGhlIE5vcnRoIFJpdmVyIHdvdWxkIGhhdmUgYmVlbiBncmVhdGVyIHRoYW48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDI0NC5wbmcnIHdpZHRoID0gJzExNydoZWlnaHQgPSAnMzQnLz4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBmbG9vZCByZWNvcmRlZCBpbiB0aGUgZGF0YSBmb3IgdGhlIEpvbmVzIFJpdmVyIHdvdWxkIGhhdmUgYmVlbiBncmVhdGVyIHRoYW48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDI0NS5wbmcnIHdpZHRoID0gJzEzNCdoZWlnaHQgPSAnMzgnLz4uPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

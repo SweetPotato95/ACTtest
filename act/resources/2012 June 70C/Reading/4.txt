@@ -1,107 +1,107 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article “Prairie Islands by Sam Hooper Samuels (?2005 by the Sierra Club).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It's a fine day for a prairie fire. Wind is steady at 10 to 15 miles per hour from the southeast, and the humidity hovers around 50 percent. For early August in Iowa the weather is cool and won't overheat the crew. <font id=35>Kevin Pape, a ranger for Stone State Park, attired in a flame-resistant suit and broad-brimmed fire hat, exudes quiet confidence as he passes among the workers. He's handing out aerial photographs marked with letters and boundary lines of the next unit to be burned. </font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSB0aGUgYXJ0aWNsZSDigJxQcmFpcmllIElzbGFuZHMgYnkgU2FtIEhvb3BlciBTYW11ZWxzICg/MjAwNSBieSB0aGUgU2llcnJhIENsdWIpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0J3MgYSBmaW5lIGRheSBmb3IgYSBwcmFpcmllIGZpcmUuIFdpbmQgaXMgc3RlYWR5IGF0IDEwIHRvIDE1IG1pbGVzIHBlciBob3VyIGZyb20gdGhlIHNvdXRoZWFzdCwgYW5kIHRoZSBodW1pZGl0eSBob3ZlcnMgYXJvdW5kIDUwIHBlcmNlbnQuIEZvciBlYXJseSBBdWd1c3QgaW4gSW93YSB0aGUgd2VhdGhlciBpcyBjb29sIGFuZCB3b24ndCBvdmVyaGVhdCB0aGUgY3Jldy4gPGZvbnQgaWQ9MzU+S2V2aW4gUGFwZSwgYSByYW5nZXIgZm9yIFN0b25lIFN0YXRlIFBhcmssIGF0dGlyZWQgaW4gYSBmbGFtZS1yZXNpc3RhbnQgc3VpdCBhbmQgYnJvYWQtYnJpbW1lZCBmaXJlIGhhdCwgZXh1ZGVzIHF1aWV0IGNvbmZpZGVuY2UgYXMgaGUgcGFzc2VzIGFtb25nIHRoZSB3b3JrZXJzLiBIZSdzIGhhbmRpbmcgb3V0IGFlcmlhbCBwaG90b2dyYXBocyBtYXJrZWQgd2l0aCBsZXR0ZXJzIGFuZCBib3VuZGFyeSBsaW5lcyBvZiB0aGUgbmV4dCB1bml0IHRvIGJlIGJ1cm5lZC4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=36>Pape and his crew are preserving prairie in the Loess Hills of Iowa by torching it. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM2PlBhcGUgYW5kIGhpcyBjcmV3IGFyZSBwcmVzZXJ2aW5nIHByYWlyaWUgaW4gdGhlIExvZXNzIEhpbGxzIG9mIElvd2EgYnkgdG9yY2hpbmcgaXQuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">These are some of Iowa's last and most ecologically diverse prairies, and they're disappearing like drops of water on a hot skillet. Of the vast prairie that once blanketed the Hawkeye State, less than one-tenth of one percent survives. Of that tiny remnant, more than half is here in the Loess Hills, a long band of steep peaks, some jutting up to 400 feet, hugging the Missouri River valley along the western edge of the state. The hills are Iowa's secret treasure, a 650,000-acre miniature mountain range that <font id=37>punctuates</font> the famous flatness of the Midwest with sharp slopes and cool, sheltering hollows.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXNlIGFyZSBzb21lIG9mIElvd2EncyBsYXN0IGFuZCBtb3N0IGVjb2xvZ2ljYWxseSBkaXZlcnNlIHByYWlyaWVzLCBhbmQgdGhleSdyZSBkaXNhcHBlYXJpbmcgbGlrZSBkcm9wcyBvZiB3YXRlciBvbiBhIGhvdCBza2lsbGV0LiBPZiB0aGUgdmFzdCBwcmFpcmllIHRoYXQgb25jZSBibGFua2V0ZWQgdGhlIEhhd2tleWUgU3RhdGUsIGxlc3MgdGhhbiBvbmUtdGVudGggb2Ygb25lIHBlcmNlbnQgc3Vydml2ZXMuIE9mIHRoYXQgdGlueSByZW1uYW50LCBtb3JlIHRoYW4gaGFsZiBpcyBoZXJlIGluIHRoZSBMb2VzcyBIaWxscywgYSBsb25nIGJhbmQgb2Ygc3RlZXAgcGVha3MsIHNvbWUganV0dGluZyB1cCB0byA0MDAgZmVldCwgaHVnZ2luZyB0aGUgTWlzc291cmkgUml2ZXIgdmFsbGV5IGFsb25nIHRoZSB3ZXN0ZXJuIGVkZ2Ugb2YgdGhlIHN0YXRlLiBUaGUgaGlsbHMgYXJlIElvd2EncyBzZWNyZXQgdHJlYXN1cmUsIGEgNjUwLDAwMC1hY3JlIG1pbmlhdHVyZSBtb3VudGFpbiByYW5nZSB0aGF0IDxmb250IGlkPTM3PnB1bmN0dWF0ZXM8L2ZvbnQ+IHRoZSBmYW1vdXMgZmxhdG5lc3Mgb2YgdGhlIE1pZHdlc3Qgd2l0aCBzaGFycCBzbG9wZXMgYW5kIGNvb2wsIHNoZWx0ZXJpbmcgaG9sbG93cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The hills were blown in, particle by particle, on the winds. The Loess Hills get their name from the dirt they're made of. It's a German word, Loss. R rhymes with "fuss" and means dust, literally "loose." Loess is fine yellowish mineral stuff, rock pulverized by glaciers over the 150 millennia of the last ice age and carried south by rivers. When the rivers dried, they left tons of this siltlike powder to be picked up by winds and scattered across the heartland.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBoaWxscyB3ZXJlIGJsb3duIGluLCBwYXJ0aWNsZSBieSBwYXJ0aWNsZSwgb24gdGhlIHdpbmRzLiBUaGUgTG9lc3MgSGlsbHMgZ2V0IHRoZWlyIG5hbWUgZnJvbSB0aGUgZGlydCB0aGV5J3JlIG1hZGUgb2YuIEl0J3MgYSBHZXJtYW4gd29yZCwgTG9zcy4gUiByaHltZXMgd2l0aCAiZnVzcyIgYW5kIG1lYW5zIGR1c3QsIGxpdGVyYWxseSAibG9vc2UuIiBMb2VzcyBpcyBmaW5lIHllbGxvd2lzaCBtaW5lcmFsIHN0dWZmLCByb2NrIHB1bHZlcml6ZWQgYnkgZ2xhY2llcnMgb3ZlciB0aGUgMTUwIG1pbGxlbm5pYSBvZiB0aGUgbGFzdCBpY2UgYWdlIGFuZCBjYXJyaWVkIHNvdXRoIGJ5IHJpdmVycy4gV2hlbiB0aGUgcml2ZXJzIGRyaWVkLCB0aGV5IGxlZnQgdG9ucyBvZiB0aGlzIHNpbHRsaWtlIHBvd2RlciB0byBiZSBwaWNrZWQgdXAgYnkgd2luZHMgYW5kIHNjYXR0ZXJlZCBhY3Jvc3MgdGhlIGhlYXJ0bGFuZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Under the rich topsoil of its green croplands, most of Iowa is covered in a 50-foot-deep blanket of loess, Only here, though, where the winds from the west met the Missouri's eastern shore, was the loess dumped in great heaps. The only other landform like it is along the banks of China's Yellow River, named for its loess-clouded waters.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlVuZGVyIHRoZSByaWNoIHRvcHNvaWwgb2YgaXRzIGdyZWVuIGNyb3BsYW5kcywgbW9zdCBvZiBJb3dhIGlzIGNvdmVyZWQgaW4gYSA1MC1mb290LWRlZXAgYmxhbmtldCBvZiBsb2VzcywgT25seSBoZXJlLCB0aG91Z2gsIHdoZXJlIHRoZSB3aW5kcyBmcm9tIHRoZSB3ZXN0IG1ldCB0aGUgTWlzc291cmkncyBlYXN0ZXJuIHNob3JlLCB3YXMgdGhlIGxvZXNzIGR1bXBlZCBpbiBncmVhdCBoZWFwcy4gVGhlIG9ubHkgb3RoZXIgbGFuZGZvcm0gbGlrZSBpdCBpcyBhbG9uZyB0aGUgYmFua3Mgb2YgQ2hpbmEncyBZZWxsb3cgUml2ZXIsIG5hbWVkIGZvciBpdHMgbG9lc3MtY2xvdWRlZCB3YXRlcnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fragile Giants is what scientific historian Cornelia Mutel titled her 1989 book, the best natural history yet of the hills. Fragile indeed. Where the loess is exposed, you can break it off in chunks and crumble it to a powder that disappears almost before it hits the ground.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyYWdpbGUgR2lhbnRzIGlzIHdoYXQgc2NpZW50aWZpYyBoaXN0b3JpYW4gQ29ybmVsaWEgTXV0ZWwgdGl0bGVkIGhlciAxOTg5IGJvb2ssIHRoZSBiZXN0IG5hdHVyYWwgaGlzdG9yeSB5ZXQgb2YgdGhlIGhpbGxzLiBGcmFnaWxlIGluZGVlZC4gV2hlcmUgdGhlIGxvZXNzIGlzIGV4cG9zZWQsIHlvdSBjYW4gYnJlYWsgaXQgb2ZmIGluIGNodW5rcyBhbmQgY3J1bWJsZSBpdCB0byBhIHBvd2RlciB0aGF0IGRpc2FwcGVhcnMgYWxtb3N0IGJlZm9yZSBpdCBoaXRzIHRoZSBncm91bmQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From the ground, the topography calls to mind the intricate, pleated patterns of sand dunes. Long, meandering ridges are like spines with rows of smaller ridges projecting out like ribs, and even smaller spur ridges projecting from these in turn. Natural terraces follow the hills' contours because of the mineral soil's peculiar inclination to compact into straight vertical walls. These "catsteps"-unmistakable signatures of loess terrain—create a complex network of ridges, a hiker's dream of hilltop mazes with nonstop prairie vistas.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyb20gdGhlIGdyb3VuZCwgdGhlIHRvcG9ncmFwaHkgY2FsbHMgdG8gbWluZCB0aGUgaW50cmljYXRlLCBwbGVhdGVkIHBhdHRlcm5zIG9mIHNhbmQgZHVuZXMuIExvbmcsIG1lYW5kZXJpbmcgcmlkZ2VzIGFyZSBsaWtlIHNwaW5lcyB3aXRoIHJvd3Mgb2Ygc21hbGxlciByaWRnZXMgcHJvamVjdGluZyBvdXQgbGlrZSByaWJzLCBhbmQgZXZlbiBzbWFsbGVyIHNwdXIgcmlkZ2VzIHByb2plY3RpbmcgZnJvbSB0aGVzZSBpbiB0dXJuLiBOYXR1cmFsIHRlcnJhY2VzIGZvbGxvdyB0aGUgaGlsbHMnIGNvbnRvdXJzIGJlY2F1c2Ugb2YgdGhlIG1pbmVyYWwgc29pbCdzIHBlY3VsaWFyIGluY2xpbmF0aW9uIHRvIGNvbXBhY3QgaW50byBzdHJhaWdodCB2ZXJ0aWNhbCB3YWxscy4gVGhlc2UgImNhdHN0ZXBzIi11bm1pc3Rha2FibGUgc2lnbmF0dXJlcyBvZiBsb2VzcyB0ZXJyYWlu4oCUY3JlYXRlIGEgY29tcGxleCBuZXR3b3JrIG9mIHJpZGdlcywgYSBoaWtlcidzIGRyZWFtIG9mIGhpbGx0b3AgbWF6ZXMgd2l0aCBub25zdG9wIHByYWlyaWUgdmlzdGFzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=38>Most of Iowa's prairie long ago fell victim to the plow or the pavement. But because the Loess Hills are often too steep for row crops, pockets of high-quality virgin prairie remain. Big bluestem, little bluestem, sideoats grama, prairie clovers, lead plant, and dozens of other grasses, sedges, and flowering plants mottle the hills. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM4Pk1vc3Qgb2YgSW93YSdzIHByYWlyaWUgbG9uZyBhZ28gZmVsbCB2aWN0aW0gdG8gdGhlIHBsb3cgb3IgdGhlIHBhdmVtZW50LiBCdXQgYmVjYXVzZSB0aGUgTG9lc3MgSGlsbHMgYXJlIG9mdGVuIHRvbyBzdGVlcCBmb3Igcm93IGNyb3BzLCBwb2NrZXRzIG9mIGhpZ2gtcXVhbGl0eSB2aXJnaW4gcHJhaXJpZSByZW1haW4uIEJpZyBibHVlc3RlbSwgbGl0dGxlIGJsdWVzdGVtLCBzaWRlb2F0cyBncmFtYSwgcHJhaXJpZSBjbG92ZXJzLCBsZWFkIHBsYW50LCBhbmQgZG96ZW5zIG9mIG90aGVyIGdyYXNzZXMsIHNlZGdlcywgYW5kIGZsb3dlcmluZyBwbGFudHMgbW90dGxlIHRoZSBoaWxscy4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When Lewis and Clark passed within a few miles of this spot 200 years ago, it was largely a treeless landscape. Back then, fire would scorch any given patch of prairie every four to seven years. In autumn, the dry plants could fuel towering flames and intense heat. These conflagrations could advance faster than a person on horseback could flee, but they were as vital to the survival of a prairie as water itself. Prairie plants evolved root systems up to 15 feet deep to survive the flames.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gTGV3aXMgYW5kIENsYXJrIHBhc3NlZCB3aXRoaW4gYSBmZXcgbWlsZXMgb2YgdGhpcyBzcG90IDIwMCB5ZWFycyBhZ28sIGl0IHdhcyBsYXJnZWx5IGEgdHJlZWxlc3MgbGFuZHNjYXBlLiBCYWNrIHRoZW4sIGZpcmUgd291bGQgc2NvcmNoIGFueSBnaXZlbiBwYXRjaCBvZiBwcmFpcmllIGV2ZXJ5IGZvdXIgdG8gc2V2ZW4geWVhcnMuIEluIGF1dHVtbiwgdGhlIGRyeSBwbGFudHMgY291bGQgZnVlbCB0b3dlcmluZyBmbGFtZXMgYW5kIGludGVuc2UgaGVhdC4gVGhlc2UgY29uZmxhZ3JhdGlvbnMgY291bGQgYWR2YW5jZSBmYXN0ZXIgdGhhbiBhIHBlcnNvbiBvbiBob3JzZWJhY2sgY291bGQgZmxlZSwgYnV0IHRoZXkgd2VyZSBhcyB2aXRhbCB0byB0aGUgc3Vydml2YWwgb2YgYSBwcmFpcmllIGFzIHdhdGVyIGl0c2VsZi4gUHJhaXJpZSBwbGFudHMgZXZvbHZlZCByb290IHN5c3RlbXMgdXAgdG8gMTUgZmVldCBkZWVwIHRvIHN1cnZpdmUgdGhlIGZsYW1lcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To bring fire back, Pape and his crew are part of a network of prescribed-burn fire-setters called the Stewardship Committee. Of the hills' 650,000 acres, only about 18,000—a patchwork of state, county, and privately owned parklands—are under any sort of conservation management. The committee does its best to burn those areas <font id=33>as regularly as nature once did</font>. It's a sort of latter-day ecological posse, a band of professionals trained in fire management that convenes whenever and wherever conditions are right to incinerate bad guys like overgrown sumac, dogwood, eastern red cedar, and the invasive Siberian elm.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvIGJyaW5nIGZpcmUgYmFjaywgUGFwZSBhbmQgaGlzIGNyZXcgYXJlIHBhcnQgb2YgYSBuZXR3b3JrIG9mIHByZXNjcmliZWQtYnVybiBmaXJlLXNldHRlcnMgY2FsbGVkIHRoZSBTdGV3YXJkc2hpcCBDb21taXR0ZWUuIE9mIHRoZSBoaWxscycgNjUwLDAwMCBhY3Jlcywgb25seSBhYm91dCAxOCwwMDDigJRhIHBhdGNod29yayBvZiBzdGF0ZSwgY291bnR5LCBhbmQgcHJpdmF0ZWx5IG93bmVkIHBhcmtsYW5kc+KAlGFyZSB1bmRlciBhbnkgc29ydCBvZiBjb25zZXJ2YXRpb24gbWFuYWdlbWVudC4gVGhlIGNvbW1pdHRlZSBkb2VzIGl0cyBiZXN0IHRvIGJ1cm4gdGhvc2UgYXJlYXMgPGZvbnQgaWQ9MzM+YXMgcmVndWxhcmx5IGFzIG5hdHVyZSBvbmNlIGRpZDwvZm9udD4uIEl0J3MgYSBzb3J0IG9mIGxhdHRlci1kYXkgZWNvbG9naWNhbCBwb3NzZSwgYSBiYW5kIG9mIHByb2Zlc3Npb25hbHMgdHJhaW5lZCBpbiBmaXJlIG1hbmFnZW1lbnQgdGhhdCBjb252ZW5lcyB3aGVuZXZlciBhbmQgd2hlcmV2ZXIgY29uZGl0aW9ucyBhcmUgcmlnaHQgdG8gaW5jaW5lcmF0ZSBiYWQgZ3V5cyBsaWtlIG92ZXJncm93biBzdW1hYywgZG9nd29vZCwgZWFzdGVybiByZWQgY2VkYXIsIGFuZCB0aGUgaW52YXNpdmUgU2liZXJpYW4gZWxtLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It takes less than an hour for the committee to transform the patch of lush prairie into a smoking black blanket. All around, the scorched skeletons of hundreds of young sumac trees stand, still vertical but ready to disintegrate into ashes. In a few weeks, this area will be green again.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHRha2VzIGxlc3MgdGhhbiBhbiBob3VyIGZvciB0aGUgY29tbWl0dGVlIHRvIHRyYW5zZm9ybSB0aGUgcGF0Y2ggb2YgbHVzaCBwcmFpcmllIGludG8gYSBzbW9raW5nIGJsYWNrIGJsYW5rZXQuIEFsbCBhcm91bmQsIHRoZSBzY29yY2hlZCBza2VsZXRvbnMgb2YgaHVuZHJlZHMgb2YgeW91bmcgc3VtYWMgdHJlZXMgc3RhbmQsIHN0aWxsIHZlcnRpY2FsIGJ1dCByZWFkeSB0byBkaXNpbnRlZ3JhdGUgaW50byBhc2hlcy4gSW4gYSBmZXcgd2Vla3MsIHRoaXMgYXJlYSB3aWxsIGJlIGdyZWVuIGFnYWluLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">31. The main idea of the passage is that:
-<div class = "choice">A. the Loess Hills need more environmental protection to ensure that they aren't converted to farmland.</div>
-<div class = "choice">B. fire-setters are cautious when determining if conditions are ideal for a prairie fire in the Loess Hills.</div>
-<div class = "choice">C. the Loess Hills contain rare prairies, a portion of which are preserved with some human intervention.</div>
-<div class = "choice">D. Iowa contains some of the nation's most ecologically diverse prairies.</div>
-</div>
-###################
-<div class = "quiz">32. The passage does NOT identify which of the following as a feature of the Loess Hills?
-<div class = "choice">F. Pleated patterns akin to those of sand dunes</div>
-<div class = "choice">G. Loess-clouded waters</div>
-<div class = "choice">H. A complex network of ridges</div>
-<div class = "choice">J. Dozens of types of grasses</div>
-</div>
-###################
-<div class = "quiz">33. In the context of the passage, the phrase "as regularly as nature once did" (line 78) most strongly suggests that fire-setters aim to conduct prescribed burns for any given area of prairie approximately:
-<div class = "choice">A. once a year.</div>
-<div class = "choice">B. every four to seven years.</div>
-<div class = "choice">C. every decade or two.</div>
-<div class = "choice">D. every two hundred years.</div>
-</div>
-###################
-<div class = "quiz">34. The passage most strongly implies that the root systems of prairie plants differ from those of plants such as sumac and the Siberian elm in that the root systems of prairie plants:
-<div class = "choice">F. are deep enough to help the plants recover from fires.</div>
-<div class = "choice">G. can help eliminate invasive plants.</div>
-<div class = "choice">H. can propagate the plant when seeding conditions are poor.</div>
-<div class = "choice">J. survive in loess and sandy soil.</div>
-</div>
-###################
-<div class = "quiz">35. The details describing Pape in lines 5-9 are most likely included to:
-<div class = "choice">A. explain why Pape appreciates his occupation as a ranger.</div>
-<div class = "choice">B. demonstrate that natural prairie fires sometimes are difficult to control.</div>
-<div class = "choice">C. suggest that Pape is experienced in setting and managing prescribed prairie burns.</div>
-<div class = "choice">D. show that human presence on the Loess Hills is environmentally hazardous.</div>
-</div>
-###################
-<div class = "quiz">36. The statement in lines 10-11 can best be described as a:
-<div class = "choice">F. claim that seems contradictory until the passage makes clear that setting fire to the prairie is beneficial to its survival.</div>
-<div class = "choice">G. metaphor that likens Pape and his crew to a torch in order to illustrate how they will destroy the prairie.</div>
-<div class = "choice">H. sarcastic remark that makes clear that the passage's author is critical of Pape's methods.</div>
-<div class = "choice">J. claim that the passage's author seems to agree with but then goes on to refute.</div>
-</div>
-###################
-<div class = "quiz">37. As it is used in line 21, the word punctuates most nearly means:
-<div class = "choice">A. scatters.</div>
-<div class = "choice">B. questions.</div>
-<div class = "choice">C. indicates.</div>
-<div class = "choice">D. interrupts.</div>
-</div>
-###################
-<div class = "quiz">38. The main idea of the eighth paragraph (lines 55-61) is that:
-<div class = "choice">F. big bluestem, little bluestem, and other flowering plants are invasive species that dominate the Loess Hills.</div>
-<div class = "choice">G. the Loess Hills, like most of Iowa's prairie, were destroyed long ago by farming and urban development.</div>
-<div class = "choice">H. Iowa's fertile topsoil is perfect for farmers to plant steep rows of grasses, sedges, and flowering plants.</div>
-<div class = "choice">J. because they are often too steep for farming, the Loess Hills have preserved pockets of virgin</div>
-prairie.
-</div>
-###################
-<div class = "quiz">39. The passage implies that natural prairie fires previously burned the highest and fastest during which season?
-<div class = "choice">A. Spring</div>
-<div class = "choice">B. Summer</div>
-<div class = "choice">C. Autumn</div>
-<div class = "choice">D. Winter</div>
-</div>
-###################
-<div class = "quiz">40. According to the passage, compared to a prairie's need for water, a prairie's need for fire is:
-<div class = "choice">F. greater.</div>
-<div class = "choice">G. equal.</div>
-<div class = "choice">H. slightly less.</div>
-<div class = "choice">J. significantly less.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIG1haW4gaWRlYSBvZiB0aGUgcGFzc2FnZSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBMb2VzcyBIaWxscyBuZWVkIG1vcmUgZW52aXJvbm1lbnRhbCBwcm90ZWN0aW9uIHRvIGVuc3VyZSB0aGF0IHRoZXkgYXJlbid0IGNvbnZlcnRlZCB0byBmYXJtbGFuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZpcmUtc2V0dGVycyBhcmUgY2F1dGlvdXMgd2hlbiBkZXRlcm1pbmluZyBpZiBjb25kaXRpb25zIGFyZSBpZGVhbCBmb3IgYSBwcmFpcmllIGZpcmUgaW4gdGhlIExvZXNzIEhpbGxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBMb2VzcyBIaWxscyBjb250YWluIHJhcmUgcHJhaXJpZXMsIGEgcG9ydGlvbiBvZiB3aGljaCBhcmUgcHJlc2VydmVkIHdpdGggc29tZSBodW1hbiBpbnRlcnZlbnRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIElvd2EgY29udGFpbnMgc29tZSBvZiB0aGUgbmF0aW9uJ3MgbW9zdCBlY29sb2dpY2FsbHkgZGl2ZXJzZSBwcmFpcmllcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gVGhlIHBhc3NhZ2UgZG9lcyBOT1QgaWRlbnRpZnkgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhcyBhIGZlYXR1cmUgb2YgdGhlIExvZXNzIEhpbGxzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBsZWF0ZWQgcGF0dGVybnMgYWtpbiB0byB0aG9zZSBvZiBzYW5kIGR1bmVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExvZXNzLWNsb3VkZWQgd2F0ZXJzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEgY29tcGxleCBuZXR3b3JrIG9mIHJpZGdlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERvemVucyBvZiB0eXBlcyBvZiBncmFzc2VzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSW4gdGhlIGNvbnRleHQgb2YgdGhlIHBhc3NhZ2UsIHRoZSBwaHJhc2UgImFzIHJlZ3VsYXJseSBhcyBuYXR1cmUgb25jZSBkaWQiIChsaW5lIDc4KSBtb3N0IHN0cm9uZ2x5IHN1Z2dlc3RzIHRoYXQgZmlyZS1zZXR0ZXJzIGFpbSB0byBjb25kdWN0IHByZXNjcmliZWQgYnVybnMgZm9yIGFueSBnaXZlbiBhcmVhIG9mIHByYWlyaWUgYXBwcm94aW1hdGVseTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG9uY2UgYSB5ZWFyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV2ZXJ5IGZvdXIgdG8gc2V2ZW4geWVhcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV2ZXJ5IGRlY2FkZSBvciB0d28uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV2ZXJ5IHR3byBodW5kcmVkIHllYXJzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIHBhc3NhZ2UgbW9zdCBzdHJvbmdseSBpbXBsaWVzIHRoYXQgdGhlIHJvb3Qgc3lzdGVtcyBvZiBwcmFpcmllIHBsYW50cyBkaWZmZXIgZnJvbSB0aG9zZSBvZiBwbGFudHMgc3VjaCBhcyBzdW1hYyBhbmQgdGhlIFNpYmVyaWFuIGVsbSBpbiB0aGF0IHRoZSByb290IHN5c3RlbXMgb2YgcHJhaXJpZSBwbGFudHM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFyZSBkZWVwIGVub3VnaCB0byBoZWxwIHRoZSBwbGFudHMgcmVjb3ZlciBmcm9tIGZpcmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNhbiBoZWxwIGVsaW1pbmF0ZSBpbnZhc2l2ZSBwbGFudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNhbiBwcm9wYWdhdGUgdGhlIHBsYW50IHdoZW4gc2VlZGluZyBjb25kaXRpb25zIGFyZSBwb29yLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHN1cnZpdmUgaW4gbG9lc3MgYW5kIHNhbmR5IHNvaWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIGRldGFpbHMgZGVzY3JpYmluZyBQYXBlIGluIGxpbmVzIDUtOSBhcmUgbW9zdCBsaWtlbHkgaW5jbHVkZWQgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4cGxhaW4gd2h5IFBhcGUgYXBwcmVjaWF0ZXMgaGlzIG9jY3VwYXRpb24gYXMgYSByYW5nZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlbW9uc3RyYXRlIHRoYXQgbmF0dXJhbCBwcmFpcmllIGZpcmVzIHNvbWV0aW1lcyBhcmUgZGlmZmljdWx0IHRvIGNvbnRyb2wuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1Z2dlc3QgdGhhdCBQYXBlIGlzIGV4cGVyaWVuY2VkIGluIHNldHRpbmcgYW5kIG1hbmFnaW5nIHByZXNjcmliZWQgcHJhaXJpZSBidXJucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNob3cgdGhhdCBodW1hbiBwcmVzZW5jZSBvbiB0aGUgTG9lc3MgSGlsbHMgaXMgZW52aXJvbm1lbnRhbGx5IGhhemFyZG91cy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gVGhlIHN0YXRlbWVudCBpbiBsaW5lcyAxMC0xMSBjYW4gYmVzdCBiZSBkZXNjcmliZWQgYXMgYTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNsYWltIHRoYXQgc2VlbXMgY29udHJhZGljdG9yeSB1bnRpbCB0aGUgcGFzc2FnZSBtYWtlcyBjbGVhciB0aGF0IHNldHRpbmcgZmlyZSB0byB0aGUgcHJhaXJpZSBpcyBiZW5lZmljaWFsIHRvIGl0cyBzdXJ2aXZhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1ldGFwaG9yIHRoYXQgbGlrZW5zIFBhcGUgYW5kIGhpcyBjcmV3IHRvIGEgdG9yY2ggaW4gb3JkZXIgdG8gaWxsdXN0cmF0ZSBob3cgdGhleSB3aWxsIGRlc3Ryb3kgdGhlIHByYWlyaWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNhcmNhc3RpYyByZW1hcmsgdGhhdCBtYWtlcyBjbGVhciB0aGF0IHRoZSBwYXNzYWdlJ3MgYXV0aG9yIGlzIGNyaXRpY2FsIG9mIFBhcGUncyBtZXRob2RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNsYWltIHRoYXQgdGhlIHBhc3NhZ2UncyBhdXRob3Igc2VlbXMgdG8gYWdyZWUgd2l0aCBidXQgdGhlbiBnb2VzIG9uIHRvIHJlZnV0ZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDIxLCB0aGUgd29yZCBwdW5jdHVhdGVzIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNjYXR0ZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHF1ZXN0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluZGljYXRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGludGVycnVwdHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIG1haW4gaWRlYSBvZiB0aGUgZWlnaHRoIHBhcmFncmFwaCAobGluZXMgNTUtNjEpIGlzIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJpZyBibHVlc3RlbSwgbGl0dGxlIGJsdWVzdGVtLCBhbmQgb3RoZXIgZmxvd2VyaW5nIHBsYW50cyBhcmUgaW52YXNpdmUgc3BlY2llcyB0aGF0IGRvbWluYXRlIHRoZSBMb2VzcyBIaWxscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBMb2VzcyBIaWxscywgbGlrZSBtb3N0IG9mIElvd2EncyBwcmFpcmllLCB3ZXJlIGRlc3Ryb3llZCBsb25nIGFnbyBieSBmYXJtaW5nIGFuZCB1cmJhbiBkZXZlbG9wbWVudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIElvd2EncyBmZXJ0aWxlIHRvcHNvaWwgaXMgcGVyZmVjdCBmb3IgZmFybWVycyB0byBwbGFudCBzdGVlcCByb3dzIG9mIGdyYXNzZXMsIHNlZGdlcywgYW5kIGZsb3dlcmluZyBwbGFudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJlY2F1c2UgdGhleSBhcmUgb2Z0ZW4gdG9vIHN0ZWVwIGZvciBmYXJtaW5nLCB0aGUgTG9lc3MgSGlsbHMgaGF2ZSBwcmVzZXJ2ZWQgcG9ja2V0cyBvZiB2aXJnaW48L2Rpdj4=
+cHJhaXJpZS4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHBhc3NhZ2UgaW1wbGllcyB0aGF0IG5hdHVyYWwgcHJhaXJpZSBmaXJlcyBwcmV2aW91c2x5IGJ1cm5lZCB0aGUgaGlnaGVzdCBhbmQgZmFzdGVzdCBkdXJpbmcgd2hpY2ggc2Vhc29uPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNwcmluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN1bW1lcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEF1dHVtbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFdpbnRlcjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBjb21wYXJlZCB0byBhIHByYWlyaWUncyBuZWVkIGZvciB3YXRlciwgYSBwcmFpcmllJ3MgbmVlZCBmb3IgZmlyZSBpczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGdyZWF0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVxdWFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNsaWdodGx5IGxlc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNpZ25pZmljYW50bHkgbGVzcy48L2Rpdj4=
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

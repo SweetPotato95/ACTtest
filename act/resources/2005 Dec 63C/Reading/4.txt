@@ -1,94 +1,94 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from Ancient Trees: Trees That Live for a Thousand Years by Anna Lewington and Edward Parker (?1999 by Anna Lewington and Edward Parker).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Giant redwoods and their close ancestors have been on the earth for at least 200 million years and, like their coastal cousins, once formed massive forests across the northern hemisphere. Today they are a truly relict species, occurring only in isolated groves on the western slopes of the Sierra Nevada in California.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBBbmNpZW50IFRyZWVzOiBUcmVlcyBUaGF0IExpdmUgZm9yIGEgVGhvdXNhbmQgWWVhcnMgYnkgQW5uYSBMZXdpbmd0b24gYW5kIEVkd2FyZCBQYXJrZXIgKD8xOTk5IGJ5IEFubmEgTGV3aW5ndG9uIGFuZCBFZHdhcmQgUGFya2VyKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdpYW50IHJlZHdvb2RzIGFuZCB0aGVpciBjbG9zZSBhbmNlc3RvcnMgaGF2ZSBiZWVuIG9uIHRoZSBlYXJ0aCBmb3IgYXQgbGVhc3QgMjAwIG1pbGxpb24geWVhcnMgYW5kLCBsaWtlIHRoZWlyIGNvYXN0YWwgY291c2lucywgb25jZSBmb3JtZWQgbWFzc2l2ZSBmb3Jlc3RzIGFjcm9zcyB0aGUgbm9ydGhlcm4gaGVtaXNwaGVyZS4gVG9kYXkgdGhleSBhcmUgYSB0cnVseSByZWxpY3Qgc3BlY2llcywgb2NjdXJyaW5nIG9ubHkgaW4gaXNvbGF0ZWQgZ3JvdmVzIG9uIHRoZSB3ZXN0ZXJuIHNsb3BlcyBvZiB0aGUgU2llcnJhIE5ldmFkYSBpbiBDYWxpZm9ybmlhLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although the largest giant redwood in existence does not hold any records for being the oldest, tallest or broadest tree in the world, nothing can match its sheer volume. The tree known as the General Sherman, after the famous general in the American Civil War, contains an estimated 50,000 cu ft/1,415 cu m of wood. The largest trunk of any redwood is found on a tree in Alder Creek, which averages 53 ft/16 m around its base. Giant redwoods are virtually indestructible because they have fire-resistant bark. In fact, the trees need the clearing effect of forest fires to establish new seedlings successfully. They a re also resistant to fungi and wood-boring insects. The main cause of death is being blown over.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIHRoZSBsYXJnZXN0IGdpYW50IHJlZHdvb2QgaW4gZXhpc3RlbmNlIGRvZXMgbm90IGhvbGQgYW55IHJlY29yZHMgZm9yIGJlaW5nIHRoZSBvbGRlc3QsIHRhbGxlc3Qgb3IgYnJvYWRlc3QgdHJlZSBpbiB0aGUgd29ybGQsIG5vdGhpbmcgY2FuIG1hdGNoIGl0cyBzaGVlciB2b2x1bWUuIFRoZSB0cmVlIGtub3duIGFzIHRoZSBHZW5lcmFsIFNoZXJtYW4sIGFmdGVyIHRoZSBmYW1vdXMgZ2VuZXJhbCBpbiB0aGUgQW1lcmljYW4gQ2l2aWwgV2FyLCBjb250YWlucyBhbiBlc3RpbWF0ZWQgNTAsMDAwIGN1IGZ0LzEsNDE1IGN1IG0gb2Ygd29vZC4gVGhlIGxhcmdlc3QgdHJ1bmsgb2YgYW55IHJlZHdvb2QgaXMgZm91bmQgb24gYSB0cmVlIGluIEFsZGVyIENyZWVrLCB3aGljaCBhdmVyYWdlcyA1MyBmdC8xNiBtIGFyb3VuZCBpdHMgYmFzZS4gR2lhbnQgcmVkd29vZHMgYXJlIHZpcnR1YWxseSBpbmRlc3RydWN0aWJsZSBiZWNhdXNlIHRoZXkgaGF2ZSBmaXJlLXJlc2lzdGFudCBiYXJrLiBJbiBmYWN0LCB0aGUgdHJlZXMgbmVlZCB0aGUgY2xlYXJpbmcgZWZmZWN0IG9mIGZvcmVzdCBmaXJlcyB0byBlc3RhYmxpc2ggbmV3IHNlZWRsaW5ncyBzdWNjZXNzZnVsbHkuIFRoZXkgYSByZSBhbHNvIHJlc2lzdGFudCB0byBmdW5naSBhbmQgd29vZC1ib3JpbmcgaW5zZWN0cy4gVGhlIG1haW4gY2F1c2Ugb2YgZGVhdGggaXMgYmVpbmcgYmxvd24gb3Zlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Today there are just seventy-five groves of giant redwoods left, concentrated in the King's Canyon and Sequoia National Parks, with a further three groves located in Yosemite. Where they do appear, the redwood forests seem to be healthy and reproducing well. Giant redwood groves are found only on the slopes of upland ridges between major river canyons at 4,000-8,000 ft/1,220-2,440 m above sea-level. Here the climate is characterized by warm, dry summers and sunny winters. The latter are, however, interrupted by infrequent snowstorms, which may last from a few days to a week, leaving several feet of snow. The groves are generally tucked away from areas of high wind, but lightning strikes and thunderbolts are relatively common. Just why the giant redwoods are confined to isolated groves remains a mystery. Not a single tree is found outside these groves, even where the same climatic conditions prevail.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvZGF5IHRoZXJlIGFyZSBqdXN0IHNldmVudHktZml2ZSBncm92ZXMgb2YgZ2lhbnQgcmVkd29vZHMgbGVmdCwgY29uY2VudHJhdGVkIGluIHRoZSBLaW5nJ3MgQ2FueW9uIGFuZCBTZXF1b2lhIE5hdGlvbmFsIFBhcmtzLCB3aXRoIGEgZnVydGhlciB0aHJlZSBncm92ZXMgbG9jYXRlZCBpbiBZb3NlbWl0ZS4gV2hlcmUgdGhleSBkbyBhcHBlYXIsIHRoZSByZWR3b29kIGZvcmVzdHMgc2VlbSB0byBiZSBoZWFsdGh5IGFuZCByZXByb2R1Y2luZyB3ZWxsLiBHaWFudCByZWR3b29kIGdyb3ZlcyBhcmUgZm91bmQgb25seSBvbiB0aGUgc2xvcGVzIG9mIHVwbGFuZCByaWRnZXMgYmV0d2VlbiBtYWpvciByaXZlciBjYW55b25zIGF0IDQsMDAwLTgsMDAwIGZ0LzEsMjIwLTIsNDQwIG0gYWJvdmUgc2VhLWxldmVsLiBIZXJlIHRoZSBjbGltYXRlIGlzIGNoYXJhY3Rlcml6ZWQgYnkgd2FybSwgZHJ5IHN1bW1lcnMgYW5kIHN1bm55IHdpbnRlcnMuIFRoZSBsYXR0ZXIgYXJlLCBob3dldmVyLCBpbnRlcnJ1cHRlZCBieSBpbmZyZXF1ZW50IHNub3dzdG9ybXMsIHdoaWNoIG1heSBsYXN0IGZyb20gYSBmZXcgZGF5cyB0byBhIHdlZWssIGxlYXZpbmcgc2V2ZXJhbCBmZWV0IG9mIHNub3cuIFRoZSBncm92ZXMgYXJlIGdlbmVyYWxseSB0dWNrZWQgYXdheSBmcm9tIGFyZWFzIG9mIGhpZ2ggd2luZCwgYnV0IGxpZ2h0bmluZyBzdHJpa2VzIGFuZCB0aHVuZGVyYm9sdHMgYXJlIHJlbGF0aXZlbHkgY29tbW9uLiBKdXN0IHdoeSB0aGUgZ2lhbnQgcmVkd29vZHMgYXJlIGNvbmZpbmVkIHRvIGlzb2xhdGVkIGdyb3ZlcyByZW1haW5zIGEgbXlzdGVyeS4gTm90IGEgc2luZ2xlIHRyZWUgaXMgZm91bmQgb3V0c2lkZSB0aGVzZSBncm92ZXMsIGV2ZW4gd2hlcmUgdGhlIHNhbWUgY2xpbWF0aWMgY29uZGl0aW9ucyBwcmV2YWlsLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=33>The giant redwood has cinnamon-coloured bark, which may grow to a massive 18 in/45 cm thick. Unlike the slim, tapering trunk of the coast redwood, the giant's trunk is conical in shape and has a broad base that can reach over 40 ft/12 m across. Even at 200 ft/60 m above the ground, it can still be more than 20 ft/6 m in diameter. Its main branches may grow to more than 8 ft/2.4 m wide, making the tree's biggest limbs the size of large trees themselves. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMzPlRoZSBnaWFudCByZWR3b29kIGhhcyBjaW5uYW1vbi1jb2xvdXJlZCBiYXJrLCB3aGljaCBtYXkgZ3JvdyB0byBhIG1hc3NpdmUgMTggaW4vNDUgY20gdGhpY2suIFVubGlrZSB0aGUgc2xpbSwgdGFwZXJpbmcgdHJ1bmsgb2YgdGhlIGNvYXN0IHJlZHdvb2QsIHRoZSBnaWFudCdzIHRydW5rIGlzIGNvbmljYWwgaW4gc2hhcGUgYW5kIGhhcyBhIGJyb2FkIGJhc2UgdGhhdCBjYW4gcmVhY2ggb3ZlciA0MCBmdC8xMiBtIGFjcm9zcy4gRXZlbiBhdCAyMDAgZnQvNjAgbSBhYm92ZSB0aGUgZ3JvdW5kLCBpdCBjYW4gc3RpbGwgYmUgbW9yZSB0aGFuIDIwIGZ0LzYgbSBpbiBkaWFtZXRlci4gSXRzIG1haW4gYnJhbmNoZXMgbWF5IGdyb3cgdG8gbW9yZSB0aGFuIDggZnQvMi40IG0gd2lkZSwgbWFraW5nIHRoZSB0cmVlJ3MgYmlnZ2VzdCBsaW1icyB0aGUgc2l6ZSBvZiBsYXJnZSB0cmVlcyB0aGVtc2VsdmVzLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>The tree stands on a shallow but widely spreading root-pad, which can be enormous, radiating from the trunk for up t0 300 ft/91 m, but seldom reaching down into the earth more than 6 ft/1.8 m. Giant redwoods reach their maximum height their life, after which lateral expansion goes on for at least 3,000 years. It is not clear when a redwood stops expanding, because there is no definite record of any giant redwood dying of old age and they continue to grow indefinitely until a natural disaster, such as a lightning strike or storm-force wind, occurs. The greatest age that has been verified from a stump by its tree rings is 3,200 years. However, naturalist John Muir claimed to have discovered a stump containing 4,000 rings. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM0PlRoZSB0cmVlIHN0YW5kcyBvbiBhIHNoYWxsb3cgYnV0IHdpZGVseSBzcHJlYWRpbmcgcm9vdC1wYWQsIHdoaWNoIGNhbiBiZSBlbm9ybW91cywgcmFkaWF0aW5nIGZyb20gdGhlIHRydW5rIGZvciB1cCB0MCAzMDAgZnQvOTEgbSwgYnV0IHNlbGRvbSByZWFjaGluZyBkb3duIGludG8gdGhlIGVhcnRoIG1vcmUgdGhhbiA2IGZ0LzEuOCBtLiBHaWFudCByZWR3b29kcyByZWFjaCB0aGVpciBtYXhpbXVtIGhlaWdodCB0aGVpciBsaWZlLCBhZnRlciB3aGljaCBsYXRlcmFsIGV4cGFuc2lvbiBnb2VzIG9uIGZvciBhdCBsZWFzdCAzLDAwMCB5ZWFycy4gSXQgaXMgbm90IGNsZWFyIHdoZW4gYSByZWR3b29kIHN0b3BzIGV4cGFuZGluZywgYmVjYXVzZSB0aGVyZSBpcyBubyBkZWZpbml0ZSByZWNvcmQgb2YgYW55IGdpYW50IHJlZHdvb2QgZHlpbmcgb2Ygb2xkIGFnZSBhbmQgdGhleSBjb250aW51ZSB0byBncm93IGluZGVmaW5pdGVseSB1bnRpbCBhIG5hdHVyYWwgZGlzYXN0ZXIsIHN1Y2ggYXMgYSBsaWdodG5pbmcgc3RyaWtlIG9yIHN0b3JtLWZvcmNlIHdpbmQsIG9jY3Vycy4gVGhlIGdyZWF0ZXN0IGFnZSB0aGF0IGhhcyBiZWVuIHZlcmlmaWVkIGZyb20gYSBzdHVtcCBieSBpdHMgdHJlZSByaW5ncyBpcyAzLDIwMCB5ZWFycy4gSG93ZXZlciwgbmF0dXJhbGlzdCBKb2huIE11aXIgY2xhaW1lZCB0byBoYXZlIGRpc2NvdmVyZWQgYSBzdHVtcCBjb250YWluaW5nIDQsMDAwIHJpbmdzLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The giant redwoods start to produce seeds after only a few years of life. Mature trees generate about 600 new cones every year and, since each cone contains several hundred healthy seeds, a tree can produce more than 100,000 seeds annually. The largest giant redwood produces some 10,000 cones and as many as two million seeds each year. The cones do not simply fall, however, and release their seeds. This function is often performed unwittingly by the chickaree, or Douglas squirrel, which finds the fleshy scales of the cones delicious. As it feeds on them, the seeds are scattered onto the forest floor. Once the seeds reach the ground, they will germinate only under exactly the right conditions.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBnaWFudCByZWR3b29kcyBzdGFydCB0byBwcm9kdWNlIHNlZWRzIGFmdGVyIG9ubHkgYSBmZXcgeWVhcnMgb2YgbGlmZS4gTWF0dXJlIHRyZWVzIGdlbmVyYXRlIGFib3V0IDYwMCBuZXcgY29uZXMgZXZlcnkgeWVhciBhbmQsIHNpbmNlIGVhY2ggY29uZSBjb250YWlucyBzZXZlcmFsIGh1bmRyZWQgaGVhbHRoeSBzZWVkcywgYSB0cmVlIGNhbiBwcm9kdWNlIG1vcmUgdGhhbiAxMDAsMDAwIHNlZWRzIGFubnVhbGx5LiBUaGUgbGFyZ2VzdCBnaWFudCByZWR3b29kIHByb2R1Y2VzIHNvbWUgMTAsMDAwIGNvbmVzIGFuZCBhcyBtYW55IGFzIHR3byBtaWxsaW9uIHNlZWRzIGVhY2ggeWVhci4gVGhlIGNvbmVzIGRvIG5vdCBzaW1wbHkgZmFsbCwgaG93ZXZlciwgYW5kIHJlbGVhc2UgdGhlaXIgc2VlZHMuIFRoaXMgZnVuY3Rpb24gaXMgb2Z0ZW4gcGVyZm9ybWVkIHVud2l0dGluZ2x5IGJ5IHRoZSBjaGlja2FyZWUsIG9yIERvdWdsYXMgc3F1aXJyZWwsIHdoaWNoIGZpbmRzIHRoZSBmbGVzaHkgc2NhbGVzIG9mIHRoZSBjb25lcyBkZWxpY2lvdXMuIEFzIGl0IGZlZWRzIG9uIHRoZW0sIHRoZSBzZWVkcyBhcmUgc2NhdHRlcmVkIG9udG8gdGhlIGZvcmVzdCBmbG9vci4gT25jZSB0aGUgc2VlZHMgcmVhY2ggdGhlIGdyb3VuZCwgdGhleSB3aWxsIGdlcm1pbmF0ZSBvbmx5IHVuZGVyIGV4YWN0bHkgdGhlIHJpZ2h0IGNvbmRpdGlvbnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sugar pines and yellow pines that, along with the redwoods, form the mixed conifer forests of the Sierra Nevada, all rely on fire to create gaps, in the overhead canopy and clear the forest floor. The fires also dry the redwood cones on higher branches, which then release their seeds onto the cooling ashes below. The action of the fires allows the seeds to fall on areas of bare mineral soil, where the sunlight is able to filter through. Where fires have been prevented, the forest floor rapidly becomes colonized by shade tolerant white firs and incense cedars, hindering redwood regeneration.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzdWdhciBwaW5lcyBhbmQgeWVsbG93IHBpbmVzIHRoYXQsIGFsb25nIHdpdGggdGhlIHJlZHdvb2RzLCBmb3JtIHRoZSBtaXhlZCBjb25pZmVyIGZvcmVzdHMgb2YgdGhlIFNpZXJyYSBOZXZhZGEsIGFsbCByZWx5IG9uIGZpcmUgdG8gY3JlYXRlIGdhcHMsIGluIHRoZSBvdmVyaGVhZCBjYW5vcHkgYW5kIGNsZWFyIHRoZSBmb3Jlc3QgZmxvb3IuIFRoZSBmaXJlcyBhbHNvIGRyeSB0aGUgcmVkd29vZCBjb25lcyBvbiBoaWdoZXIgYnJhbmNoZXMsIHdoaWNoIHRoZW4gcmVsZWFzZSB0aGVpciBzZWVkcyBvbnRvIHRoZSBjb29saW5nIGFzaGVzIGJlbG93LiBUaGUgYWN0aW9uIG9mIHRoZSBmaXJlcyBhbGxvd3MgdGhlIHNlZWRzIHRvIGZhbGwgb24gYXJlYXMgb2YgYmFyZSBtaW5lcmFsIHNvaWwsIHdoZXJlIHRoZSBzdW5saWdodCBpcyBhYmxlIHRvIGZpbHRlciB0aHJvdWdoLiBXaGVyZSBmaXJlcyBoYXZlIGJlZW4gcHJldmVudGVkLCB0aGUgZm9yZXN0IGZsb29yIHJhcGlkbHkgYmVjb21lcyBjb2xvbml6ZWQgYnkgc2hhZGUgdG9sZXJhbnQgd2hpdGUgZmlycyBhbmQgaW5jZW5zZSBjZWRhcnMsIGhpbmRlcmluZyByZWR3b29kIHJlZ2VuZXJhdGlvbi48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31. The main purpose of this passage is to:
-<div class = "choice">A. argue that greater conservation efforts need to be undertaken to protect the giant redwood.</div>
-<div class = "choice">B. give an overview of the giant redwood, focusing on its dimensions, reproduction, and habitat.</div>
-<div class = "choice">C. trace the long evolution of the giant redwood while emphasizing its currently shrinking habitat.</div>
-<div class = "choice">D. catalog the many threats the giant redwood faces from humans and from other plant species.</div>
-</div>
-###################
-<div class = "quiz">32. In terms of its role in the lives of giant redwoods, fire is most nearly described in the passage as being:
-<div class = "choice">F. a key predator, especially of immature trees.</div>
-<div class = "choice">G. a serious threat to the trees' overhead canopy.</div>
-<div class = "choice">H. critical to the trees' reproductive cycle.</div>
-<div class = "choice">J. useful in removing dead layers of tree bark.</div>
-</div>
-###################
-<div class = "quiz">33. The main purpose of the fourth paragraph (lines 39-47) is to:
-<div class = "choice">A. compare and contrast the coastal and giant redwood.</div>
-<div class = "choice">B. describe the giant redwood's coloration and bark.</div>
-<div class = "choice">C. provide details establishing the giant redwood's enormity.</div>
-<div class = "choice">D. reveal the massive size of the giant redwood's branches.</div>
-</div>
-###################
-<div class = "quiz">34. In order to accept .the information in the fifth paragraph (lines 48-62) as accurate, a reader must also accept that
-<div class = "choice">F. tree rings are a reliable indicator of a. giant red-wood's age.</div>
-<div class = "choice">G. shallow but widely spreading root pads are typical of many types of trees besides giant redwoods.</div>
-<div class = "choice">H. John Muir's claim of having found the stump of a 4,000-year-old giant redwood is inaccurate.</div>
-<div class = "choice">J. the lack of depth of giant redwood roots renders the trees vulnerable to drought.</div>
-</div>
-###################
-<div class = "quiz">35. Based on the passage, the presence of white firs and incense cedars m a grove of giant redwoods should be seen as a:
-<div class = "choice">A. normal occurrence in a mixed conifer forest.</div>
-<div class = "choice">B. healthy sign of the grove's increasing diversity.</div>
-<div class = "choice">C. danger to the redwoods already there.</div>
-<div class = "choice">D. threat to the grove's long-term survival.</div>
-</div>
-###################
-<div class = "quiz">36. According to the passage, which of the following statements comparing giant redwoods to other tree is accurate?
-<div class = "choice">F. Not even the largest giant redwood holds a record relative to other trees.</div>
-<div class = "choice">G. The largest giant redwood has the broadest trunk of any tree in the world.</div>
-<div class = "choice">H. No other tree comes close to the size records held by the giant redwood.</div>
-<div class = "choice">J. The largest giant redwood has a greater volume than any other tree.</div>
-</div>
-###################
-<div class = "quiz">37. According to the passage, the main cause of death of giant redwoods is:
-<div class = "choice">A. fire.</div>
-<div class = "choice">B. wind.</div>
-<div class = "choice">C. lightning.</div>
-<div class = "choice">D. old age.</div>
-</div>
-###################
-<div class = "quiz">38. The passage states that a mystery surrounding giant redwoods is:
-<div class = "choice">F. why no one has tried to plant new groves.</div>
-<div class = "choice">G. whether they ever existed in large forests.</div>
-<div class = "choice">H. why they are limited to isolated groves.</div>
-<div class = "choice">J. how long they can continue to grow taller.</div>
-</div>
-###################
-<div class = "quiz">39. Which of the following statements about the giant red-wood's trunk does the passage best support?
-<div class = "choice">A. It is significantly wider at its base than at its top.</div>
-<div class = "choice">B. It maintains a constant width until reaching 200 feet above the ground.</div>
-<div class = "choice">C. It narrows until it reaches a height of 200 feet, at which point the narrowing stops.</div>
-<div class = "choice">D. It has a base whose diameter is smaller than the diameter of its main branches.</div>
-</div>
-###################
-<div class = "quiz">40. According to the passage, giant redwoods reach their maximum height within how many years?
-<div class = "choice">F. 300</div>
-<div class = "choice">G. 500</div>
-<div class = "choice">H. 3,000</div>
-<div class = "choice">J. 3,200</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGlzIHBhc3NhZ2UgaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFyZ3VlIHRoYXQgZ3JlYXRlciBjb25zZXJ2YXRpb24gZWZmb3J0cyBuZWVkIHRvIGJlIHVuZGVydGFrZW4gdG8gcHJvdGVjdCB0aGUgZ2lhbnQgcmVkd29vZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGdpdmUgYW4gb3ZlcnZpZXcgb2YgdGhlIGdpYW50IHJlZHdvb2QsIGZvY3VzaW5nIG9uIGl0cyBkaW1lbnNpb25zLCByZXByb2R1Y3Rpb24sIGFuZCBoYWJpdGF0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRyYWNlIHRoZSBsb25nIGV2b2x1dGlvbiBvZiB0aGUgZ2lhbnQgcmVkd29vZCB3aGlsZSBlbXBoYXNpemluZyBpdHMgY3VycmVudGx5IHNocmlua2luZyBoYWJpdGF0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNhdGFsb2cgdGhlIG1hbnkgdGhyZWF0cyB0aGUgZ2lhbnQgcmVkd29vZCBmYWNlcyBmcm9tIGh1bWFucyBhbmQgZnJvbSBvdGhlciBwbGFudCBzcGVjaWVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gSW4gdGVybXMgb2YgaXRzIHJvbGUgaW4gdGhlIGxpdmVzIG9mIGdpYW50IHJlZHdvb2RzLCBmaXJlIGlzIG1vc3QgbmVhcmx5IGRlc2NyaWJlZCBpbiB0aGUgcGFzc2FnZSBhcyBiZWluZzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEga2V5IHByZWRhdG9yLCBlc3BlY2lhbGx5IG9mIGltbWF0dXJlIHRyZWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgc2VyaW91cyB0aHJlYXQgdG8gdGhlIHRyZWVzJyBvdmVyaGVhZCBjYW5vcHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNyaXRpY2FsIHRvIHRoZSB0cmVlcycgcmVwcm9kdWN0aXZlIGN5Y2xlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHVzZWZ1bCBpbiByZW1vdmluZyBkZWFkIGxheWVycyBvZiB0cmVlIGJhcmsuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgZm91cnRoIHBhcmFncmFwaCAobGluZXMgMzktNDcpIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbXBhcmUgYW5kIGNvbnRyYXN0IHRoZSBjb2FzdGFsIGFuZCBnaWFudCByZWR3b29kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlc2NyaWJlIHRoZSBnaWFudCByZWR3b29kJ3MgY29sb3JhdGlvbiBhbmQgYmFyay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByb3ZpZGUgZGV0YWlscyBlc3RhYmxpc2hpbmcgdGhlIGdpYW50IHJlZHdvb2QncyBlbm9ybWl0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJldmVhbCB0aGUgbWFzc2l2ZSBzaXplIG9mIHRoZSBnaWFudCByZWR3b29kJ3MgYnJhbmNoZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gSW4gb3JkZXIgdG8gYWNjZXB0IC50aGUgaW5mb3JtYXRpb24gaW4gdGhlIGZpZnRoIHBhcmFncmFwaCAobGluZXMgNDgtNjIpIGFzIGFjY3VyYXRlLCBhIHJlYWRlciBtdXN0IGFsc28gYWNjZXB0IHRoYXQ=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRyZWUgcmluZ3MgYXJlIGEgcmVsaWFibGUgaW5kaWNhdG9yIG9mIGEuIGdpYW50IHJlZC13b29kJ3MgYWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNoYWxsb3cgYnV0IHdpZGVseSBzcHJlYWRpbmcgcm9vdCBwYWRzIGFyZSB0eXBpY2FsIG9mIG1hbnkgdHlwZXMgb2YgdHJlZXMgYmVzaWRlcyBnaWFudCByZWR3b29kcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEpvaG4gTXVpcidzIGNsYWltIG9mIGhhdmluZyBmb3VuZCB0aGUgc3R1bXAgb2YgYSA0LDAwMC15ZWFyLW9sZCBnaWFudCByZWR3b29kIGlzIGluYWNjdXJhdGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBsYWNrIG9mIGRlcHRoIG9mIGdpYW50IHJlZHdvb2Qgcm9vdHMgcmVuZGVycyB0aGUgdHJlZXMgdnVsbmVyYWJsZSB0byBkcm91Z2h0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHRoZSBwcmVzZW5jZSBvZiB3aGl0ZSBmaXJzIGFuZCBpbmNlbnNlIGNlZGFycyBtIGEgZ3JvdmUgb2YgZ2lhbnQgcmVkd29vZHMgc2hvdWxkIGJlIHNlZW4gYXMgYTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG5vcm1hbCBvY2N1cnJlbmNlIGluIGEgbWl4ZWQgY29uaWZlciBmb3Jlc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhlYWx0aHkgc2lnbiBvZiB0aGUgZ3JvdmUncyBpbmNyZWFzaW5nIGRpdmVyc2l0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRhbmdlciB0byB0aGUgcmVkd29vZHMgYWxyZWFkeSB0aGVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRocmVhdCB0byB0aGUgZ3JvdmUncyBsb25nLXRlcm0gc3Vydml2YWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgY29tcGFyaW5nIGdpYW50IHJlZHdvb2RzIHRvIG90aGVyIHRyZWUgaXMgYWNjdXJhdGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5vdCBldmVuIHRoZSBsYXJnZXN0IGdpYW50IHJlZHdvb2QgaG9sZHMgYSByZWNvcmQgcmVsYXRpdmUgdG8gb3RoZXIgdHJlZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBsYXJnZXN0IGdpYW50IHJlZHdvb2QgaGFzIHRoZSBicm9hZGVzdCB0cnVuayBvZiBhbnkgdHJlZSBpbiB0aGUgd29ybGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vIG90aGVyIHRyZWUgY29tZXMgY2xvc2UgdG8gdGhlIHNpemUgcmVjb3JkcyBoZWxkIGJ5IHRoZSBnaWFudCByZWR3b29kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBsYXJnZXN0IGdpYW50IHJlZHdvb2QgaGFzIGEgZ3JlYXRlciB2b2x1bWUgdGhhbiBhbnkgb3RoZXIgdHJlZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgbWFpbiBjYXVzZSBvZiBkZWF0aCBvZiBnaWFudCByZWR3b29kcyBpczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZpcmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdpbmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxpZ2h0bmluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG9sZCBhZ2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgYSBteXN0ZXJ5IHN1cnJvdW5kaW5nIGdpYW50IHJlZHdvb2RzIGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoeSBubyBvbmUgaGFzIHRyaWVkIHRvIHBsYW50IG5ldyBncm92ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoZXRoZXIgdGhleSBldmVyIGV4aXN0ZWQgaW4gbGFyZ2UgZm9yZXN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoeSB0aGV5IGFyZSBsaW1pdGVkIHRvIGlzb2xhdGVkIGdyb3Zlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhvdyBsb25nIHRoZXkgY2FuIGNvbnRpbnVlIHRvIGdyb3cgdGFsbGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IHRoZSBnaWFudCByZWQtd29vZCdzIHRydW5rIGRvZXMgdGhlIHBhc3NhZ2UgYmVzdCBzdXBwb3J0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IGlzIHNpZ25pZmljYW50bHkgd2lkZXIgYXQgaXRzIGJhc2UgdGhhbiBhdCBpdHMgdG9wLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IG1haW50YWlucyBhIGNvbnN0YW50IHdpZHRoIHVudGlsIHJlYWNoaW5nIDIwMCBmZWV0IGFib3ZlIHRoZSBncm91bmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IG5hcnJvd3MgdW50aWwgaXQgcmVhY2hlcyBhIGhlaWdodCBvZiAyMDAgZmVldCwgYXQgd2hpY2ggcG9pbnQgdGhlIG5hcnJvd2luZyBzdG9wcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGhhcyBhIGJhc2Ugd2hvc2UgZGlhbWV0ZXIgaXMgc21hbGxlciB0aGFuIHRoZSBkaWFtZXRlciBvZiBpdHMgbWFpbiBicmFuY2hlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBnaWFudCByZWR3b29kcyByZWFjaCB0aGVpciBtYXhpbXVtIGhlaWdodCB3aXRoaW4gaG93IG1hbnkgeWVhcnM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDMwMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDUwMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDMsMDAwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDMsMjAwPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

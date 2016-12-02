@@ -1,55 +1,55 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air at its dew point temperature (or dew point) is saturated with water vapor. Air temperature usually decreases with increasing altitude. When air cools to its dew point, the water vapor in the air can begin to condense and form clouds.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFpciBhdCBpdHMgZGV3IHBvaW50IHRlbXBlcmF0dXJlIChvciBkZXcgcG9pbnQpIGlzIHNhdHVyYXRlZCB3aXRoIHdhdGVyIHZhcG9yLiBBaXIgdGVtcGVyYXR1cmUgdXN1YWxseSBkZWNyZWFzZXMgd2l0aCBpbmNyZWFzaW5nIGFsdGl0dWRlLiBXaGVuIGFpciBjb29scyB0byBpdHMgZGV3IHBvaW50LCB0aGUgd2F0ZXIgdmFwb3IgaW4gdGhlIGFpciBjYW4gYmVnaW4gdG8gY29uZGVuc2UgYW5kIGZvcm0gY2xvdWRzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air temperatures and dew points were measured every 600 m from the surface (0 m) to an altitude of 3,000 m at 4 cities (A-D). Data, including the altitude of the cloud base over each city, were taken at 2 P.M. on every summer day that clouds were present. Figures l-4 show the average air temperatures, the average dew points, and the average cloud-base altitudes at each city.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFpciB0ZW1wZXJhdHVyZXMgYW5kIGRldyBwb2ludHMgd2VyZSBtZWFzdXJlZCBldmVyeSA2MDAgbSBmcm9tIHRoZSBzdXJmYWNlICgwIG0pIHRvIGFuIGFsdGl0dWRlIG9mIDMsMDAwIG0gYXQgNCBjaXRpZXMgKEEtRCkuIERhdGEsIGluY2x1ZGluZyB0aGUgYWx0aXR1ZGUgb2YgdGhlIGNsb3VkIGJhc2Ugb3ZlciBlYWNoIGNpdHksIHdlcmUgdGFrZW4gYXQgMiBQLk0uIG9uIGV2ZXJ5IHN1bW1lciBkYXkgdGhhdCBjbG91ZHMgd2VyZSBwcmVzZW50LiBGaWd1cmVzIGwtNCBzaG93IHRoZSBhdmVyYWdlIGFpciB0ZW1wZXJhdHVyZXMsIHRoZSBhdmVyYWdlIGRldyBwb2ludHMsIGFuZCB0aGUgYXZlcmFnZSBjbG91ZC1iYXNlIGFsdGl0dWRlcyBhdCBlYWNoIGNpdHkuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\233.png' width = '306'height = '345'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgQXByaWwgNjBFXGltZ3NcMjMzLnBuZycgd2lkdGggPSAnMzA2J2hlaWdodCA9ICczNDUnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\234.png' width = '444'height = '318'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgQXByaWwgNjBFXGltZ3NcMjM0LnBuZycgd2lkdGggPSAnNDQ0J2hlaWdodCA9ICczMTgnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\235.png' width = '354'height = '258'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgQXByaWwgNjBFXGltZ3NcMjM1LnBuZycgd2lkdGggPSAnMzU0J2hlaWdodCA9ICcyNTgnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\236.png' width = '444'height = '333'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgQXByaWwgNjBFXGltZ3NcMjM2LnBuZycgd2lkdGggPSAnNDQ0J2hlaWdodCA9ICczMzMnLz48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31. A pilot flying a plane at 1,200 m altitude notices that there are cloud layers both above and below her, but none at her current altitude. Which of the following statements about the weather conditions at or near her altitude is supported by the information provided?
-<div class = "choice">A. The base of the upper cloud layer is at 660 m altitude and extends l,200 m upward.</div>
-<div class = "choice">B. The top of the lower cloud1ayer is at l,202 m altitude.</div>
-<div class = "choice">C. The air temperature is higher than the dew point at 1,200 m altitude.</div>
-<div class = "choice">D. The dew point is above 80°F in both the upper and the lower cloud layers.</div>
-</div>
-###################
-<div class = "quiz">32. A ceilometer bounces a light .beam off the base of a cloud layer and measures how long it takes the light to make the trip up and back. The scientists who made the measurements plotted in Figures l-4 most likely used the ceilometer to determine which of the following data?
-<div class = "choice">F. The average air temperature at the top of the cloud layers at Cities A-D</div>
-<div class = "choice">G. The average dew point of the air at the top of the cloud layers at Cities A-D</div>
-<div class = "choice">H. The average altitude of the bottom of the cloud layers at Cities A-D</div>
-<div class = "choice">J. The average thickness of the cloud layers at Cities A-D</div>
-</div>
-###################
-<div class = "quiz">33. Assume that the cloud layer at City C extends from an altitude of 3,000 m up to an altitude of 4,000 m. Based on this assumption and the observed trends within cloud layers for the 4 cities, which of the following would be the best approximation of the air temperature and dew point in the cloud layer at an altitude of 3,600 m over City C?
-<div class = "choice">A. Air temperature 26°F  Dew point 36°F</div>
-<div class = "choice">B. Air temperature 36°F  Dew point 36°F</div>
-<div class = "choice">C. Air temperature 38°F  Dew point 45°F</div>
-<div class = "choice">D. Air temperature 45°F  Dew point 45°F</div>
-</div>
-###################
-<div class = "quiz">34. The table below shows the average July air temperatures and dew points at o m altitude for Miami, Florida, and for Phoenix, Arizona.
-<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:169.7pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>City</span></p></td><td style="width:283.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Averageair temperature (°F)</span></p></td><td style="width:238.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="159"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Averagedew point (°F)</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:169.7pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>MiamiPhoenix</span></p></td><td style="width:283.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>85</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>95</span></p></td><td style="width:238.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="159"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>70</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>36</span></p></td></tr></table></div>
-Based on this information and the data in Figures 1-4, which of these 2 cities, on average, would have lower cloud based in July?
-<div class = "choice">F. Phoenix, because it has a higher average air temperature than Miami.</div>
-<div class = "choice">G. Phoenix, because the difference between the average air temperature and the average dew point is larger than in Miami.</div>
-<div class = "choice">H. Miami, because it has a lower average air temperature than Phoenix.</div>
-<div class = "choice">J. Miami, because the difference between the average air temperature and the average dew point is smaller than in Phoenix.</div>
-</div>
-###################
-<div class = "quiz">35. A certain city reported that the air temperature and the dew point at o m altitude measured at 8 A.M. on a given day were both 40°F. Given this information and the data provided, one could be most certain that clouds were present at which of the following altitudes at that city at 8 A.M. on that day?
-<div class = "choice">A. 0 m</div>
-<div class = "choice">B. 600 m</div>
-<div class = "choice">C. 1,200m</div>
-<div class = "choice">D. 2,400 m</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gQSBwaWxvdCBmbHlpbmcgYSBwbGFuZSBhdCAxLDIwMCBtIGFsdGl0dWRlIG5vdGljZXMgdGhhdCB0aGVyZSBhcmUgY2xvdWQgbGF5ZXJzIGJvdGggYWJvdmUgYW5kIGJlbG93IGhlciwgYnV0IG5vbmUgYXQgaGVyIGN1cnJlbnQgYWx0aXR1ZGUuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cyBhYm91dCB0aGUgd2VhdGhlciBjb25kaXRpb25zIGF0IG9yIG5lYXIgaGVyIGFsdGl0dWRlIGlzIHN1cHBvcnRlZCBieSB0aGUgaW5mb3JtYXRpb24gcHJvdmlkZWQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBiYXNlIG9mIHRoZSB1cHBlciBjbG91ZCBsYXllciBpcyBhdCA2NjAgbSBhbHRpdHVkZSBhbmQgZXh0ZW5kcyBsLDIwMCBtIHVwd2FyZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSB0b3Agb2YgdGhlIGxvd2VyIGNsb3VkMWF5ZXIgaXMgYXQgbCwyMDIgbSBhbHRpdHVkZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBhaXIgdGVtcGVyYXR1cmUgaXMgaGlnaGVyIHRoYW4gdGhlIGRldyBwb2ludCBhdCAxLDIwMCBtIGFsdGl0dWRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBkZXcgcG9pbnQgaXMgYWJvdmUgODDCsEYgaW4gYm90aCB0aGUgdXBwZXIgYW5kIHRoZSBsb3dlciBjbG91ZCBsYXllcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQSBjZWlsb21ldGVyIGJvdW5jZXMgYSBsaWdodCAuYmVhbSBvZmYgdGhlIGJhc2Ugb2YgYSBjbG91ZCBsYXllciBhbmQgbWVhc3VyZXMgaG93IGxvbmcgaXQgdGFrZXMgdGhlIGxpZ2h0IHRvIG1ha2UgdGhlIHRyaXAgdXAgYW5kIGJhY2suIFRoZSBzY2llbnRpc3RzIHdobyBtYWRlIHRoZSBtZWFzdXJlbWVudHMgcGxvdHRlZCBpbiBGaWd1cmVzIGwtNCBtb3N0IGxpa2VseSB1c2VkIHRoZSBjZWlsb21ldGVyIHRvIGRldGVybWluZSB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGRhdGE/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBhdmVyYWdlIGFpciB0ZW1wZXJhdHVyZSBhdCB0aGUgdG9wIG9mIHRoZSBjbG91ZCBsYXllcnMgYXQgQ2l0aWVzIEEtRDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBhdmVyYWdlIGRldyBwb2ludCBvZiB0aGUgYWlyIGF0IHRoZSB0b3Agb2YgdGhlIGNsb3VkIGxheWVycyBhdCBDaXRpZXMgQS1EPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBhdmVyYWdlIGFsdGl0dWRlIG9mIHRoZSBib3R0b20gb2YgdGhlIGNsb3VkIGxheWVycyBhdCBDaXRpZXMgQS1EPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBhdmVyYWdlIHRoaWNrbmVzcyBvZiB0aGUgY2xvdWQgbGF5ZXJzIGF0IENpdGllcyBBLUQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQXNzdW1lIHRoYXQgdGhlIGNsb3VkIGxheWVyIGF0IENpdHkgQyBleHRlbmRzIGZyb20gYW4gYWx0aXR1ZGUgb2YgMywwMDAgbSB1cCB0byBhbiBhbHRpdHVkZSBvZiA0LDAwMCBtLiBCYXNlZCBvbiB0aGlzIGFzc3VtcHRpb24gYW5kIHRoZSBvYnNlcnZlZCB0cmVuZHMgd2l0aGluIGNsb3VkIGxheWVycyBmb3IgdGhlIDQgY2l0aWVzLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHdvdWxkIGJlIHRoZSBiZXN0IGFwcHJveGltYXRpb24gb2YgdGhlIGFpciB0ZW1wZXJhdHVyZSBhbmQgZGV3IHBvaW50IGluIHRoZSBjbG91ZCBsYXllciBhdCBhbiBhbHRpdHVkZSBvZiAzLDYwMCBtIG92ZXIgQ2l0eSBDPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFpciB0ZW1wZXJhdHVyZSAyNsKwRiAgRGV3IHBvaW50IDM2wrBGPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFpciB0ZW1wZXJhdHVyZSAzNsKwRiAgRGV3IHBvaW50IDM2wrBGPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFpciB0ZW1wZXJhdHVyZSAzOMKwRiAgRGV3IHBvaW50IDQ1wrBGPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFpciB0ZW1wZXJhdHVyZSA0NcKwRiAgRGV3IHBvaW50IDQ1wrBGPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIHRhYmxlIGJlbG93IHNob3dzIHRoZSBhdmVyYWdlIEp1bHkgYWlyIHRlbXBlcmF0dXJlcyBhbmQgZGV3IHBvaW50cyBhdCBvIG0gYWx0aXR1ZGUgZm9yIE1pYW1pLCBGbG9yaWRhLCBhbmQgZm9yIFBob2VuaXgsIEFyaXpvbmEu
+PGRpdiBjbGFzcyA9ICJwYXJhIiA+PHRhYmxlIGJvcmRlcj0iMSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBjbGFzcz0iTXNvTm9ybWFsVGFibGUiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6Y29sbGFwc2U7Ym9yZGVyOm5vbmU7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby15ZnRpLXRibGxvb2s6NDgwO21zby1wYWRkaW5nLWFsdDowY20gNS40cHQgMGNtIDUuNHB0O21zby1ib3JkZXItaW5zaWRlaDouNXB0IHNvbGlkIHdpbmRvd3RleHQ7bXNvLWJvcmRlci1pbnNpZGV2Oi41cHQgc29saWQgd2luZG93dGV4dCI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjA7bXNvLXlmdGktZmlyc3Ryb3c6eWVzIj48dGQgc3R5bGU9IndpZHRoOjE2OS43cHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgd2lkdGg9IjExMyI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjttc28tcGFnaW5hdGlvbjpub25lIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9J2ZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiIsc2VyaWYnPkNpdHk8L3NwYW4+PC9wPjwvdGQ+PHRkIHN0eWxlPSJ3aWR0aDoyODMuMHB0O2JvcmRlcjpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O2JvcmRlci1sZWZ0Om5vbmU7bXNvLWJvcmRlci1sZWZ0LWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgd2lkdGg9IjE4OSI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjttc28tcGFnaW5hdGlvbjpub25lIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9J2ZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiIsc2VyaWYnPkF2ZXJhZ2VhaXIgdGVtcGVyYXR1cmUgKMKwRik8L3NwYW4+PC9wPjwvdGQ+PHRkIHN0eWxlPSJ3aWR0aDoyMzguN3B0O2JvcmRlcjpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O2JvcmRlci1sZWZ0Om5vbmU7bXNvLWJvcmRlci1sZWZ0LWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgd2lkdGg9IjE1OSI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjttc28tcGFnaW5hdGlvbjpub25lIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9J2ZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiIsc2VyaWYnPkF2ZXJhZ2VkZXcgcG9pbnQgKMKwRik8L3NwYW4+PC9wPjwvdGQ+PC90cj48dHIgc3R5bGU9Im1zby15ZnRpLWlyb3c6MTttc28teWZ0aS1sYXN0cm93OnllcyI+PHRkIHN0eWxlPSJ3aWR0aDoxNjkuN3B0O2JvcmRlcjpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O2JvcmRlci10b3A6bm9uZTttc28tYm9yZGVyLXRvcC1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby1ib3JkZXItYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDtwYWRkaW5nOjBjbSA1LjRwdCAwY20gNS40cHQiIHdpZHRoPSIxMTMiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7bXNvLXBhZ2luYXRpb246bm9uZSI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSdmb250LXNpemU6MjEuMHB0O2ZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLHNlcmlmJz5NaWFtaVBob2VuaXg8L3NwYW4+PC9wPjwvdGQ+PHRkIHN0eWxlPSJ3aWR0aDoyODMuMHB0O2JvcmRlci10b3A6bm9uZTtib3JkZXItbGVmdDpub25lO2JvcmRlci1ib3R0b206c29saWQgd2luZG93dGV4dCAxLjBwdDtib3JkZXItcmlnaHQ6c29saWQgd2luZG93dGV4dCAxLjBwdDttc28tYm9yZGVyLXRvcC1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby1ib3JkZXItbGVmdC1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby1ib3JkZXItYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDtwYWRkaW5nOjBjbSA1LjRwdCAwY20gNS40cHQiIHdpZHRoPSIxODkiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7bXNvLXBhZ2luYXRpb246bm9uZSI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSdmb250LXNpemU6MjEuMHB0O2ZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLHNlcmlmJz44NTwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjttc28tcGFnaW5hdGlvbjpub25lIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9J2ZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiIsc2VyaWYnPjk1PC9zcGFuPjwvcD48L3RkPjx0ZCBzdHlsZT0id2lkdGg6MjM4LjdwdDtib3JkZXItdG9wOm5vbmU7Ym9yZGVyLWxlZnQ6bm9uZTtib3JkZXItYm90dG9tOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7Ym9yZGVyLXJpZ2h0OnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci10b3AtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWxlZnQtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7cGFkZGluZzowY20gNS40cHQgMGNtIDUuNHB0IiB3aWR0aD0iMTU5Ij48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyO21zby1wYWdpbmF0aW9uOm5vbmUiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0nZm9udC1zaXplOjIxLjBwdDtmb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIixzZXJpZic+NzA8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7bXNvLXBhZ2luYXRpb246bm9uZSI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSdmb250LXNpemU6MjEuMHB0O2ZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLHNlcmlmJz4zNjwvc3Bhbj48L3A+PC90ZD48L3RyPjwvdGFibGU+PC9kaXY+
+QmFzZWQgb24gdGhpcyBpbmZvcm1hdGlvbiBhbmQgdGhlIGRhdGEgaW4gRmlndXJlcyAxLTQsIHdoaWNoIG9mIHRoZXNlIDIgY2l0aWVzLCBvbiBhdmVyYWdlLCB3b3VsZCBoYXZlIGxvd2VyIGNsb3VkIGJhc2VkIGluIEp1bHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBob2VuaXgsIGJlY2F1c2UgaXQgaGFzIGEgaGlnaGVyIGF2ZXJhZ2UgYWlyIHRlbXBlcmF0dXJlIHRoYW4gTWlhbWkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFBob2VuaXgsIGJlY2F1c2UgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiB0aGUgYXZlcmFnZSBhaXIgdGVtcGVyYXR1cmUgYW5kIHRoZSBhdmVyYWdlIGRldyBwb2ludCBpcyBsYXJnZXIgdGhhbiBpbiBNaWFtaS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1pYW1pLCBiZWNhdXNlIGl0IGhhcyBhIGxvd2VyIGF2ZXJhZ2UgYWlyIHRlbXBlcmF0dXJlIHRoYW4gUGhvZW5peC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1pYW1pLCBiZWNhdXNlIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGhlIGF2ZXJhZ2UgYWlyIHRlbXBlcmF0dXJlIGFuZCB0aGUgYXZlcmFnZSBkZXcgcG9pbnQgaXMgc21hbGxlciB0aGFuIGluIFBob2VuaXguPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQSBjZXJ0YWluIGNpdHkgcmVwb3J0ZWQgdGhhdCB0aGUgYWlyIHRlbXBlcmF0dXJlIGFuZCB0aGUgZGV3IHBvaW50IGF0IG8gbSBhbHRpdHVkZSBtZWFzdXJlZCBhdCA4IEEuTS4gb24gYSBnaXZlbiBkYXkgd2VyZSBib3RoIDQwwrBGLiBHaXZlbiB0aGlzIGluZm9ybWF0aW9uIGFuZCB0aGUgZGF0YSBwcm92aWRlZCwgb25lIGNvdWxkIGJlIG1vc3QgY2VydGFpbiB0aGF0IGNsb3VkcyB3ZXJlIHByZXNlbnQgYXQgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRpdHVkZXMgYXQgdGhhdCBjaXR5IGF0IDggQS5NLiBvbiB0aGF0IGRheT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAgbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDYwMCBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEsMjAwbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIsNDAwIG08L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

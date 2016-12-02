@@ -1,146 +1,146 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel Agassiz by Sandra Birdsell (○c 1991 by Sandra Birdsell).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=8>My grandmother Omah supplies flowers for weddings and funerals. In winter, the flowers come from the greenhouse she keeps warm with a woodstove as long as she can; and then the potted begonias and asters are moved to the house and line the shelves in front of the large triple-pane window. She has no telephone. I am the messenger. I bring requests to her, riding my bicycle along the dirt road to her cottage.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIEFnYXNzaXogYnkgU2FuZHJhIEJpcmRzZWxsICjil4tjIDE5OTEgYnkgU2FuZHJhIEJpcmRzZWxsKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTg+TXkgZ3JhbmRtb3RoZXIgT21haCBzdXBwbGllcyBmbG93ZXJzIGZvciB3ZWRkaW5ncyBhbmQgZnVuZXJhbHMuIEluIHdpbnRlciwgdGhlIGZsb3dlcnMgY29tZSBmcm9tIHRoZSBncmVlbmhvdXNlIHNoZSBrZWVwcyB3YXJtIHdpdGggYSB3b29kc3RvdmUgYXMgbG9uZyBhcyBzaGUgY2FuOyBhbmQgdGhlbiB0aGUgcG90dGVkIGJlZ29uaWFzIGFuZCBhc3RlcnMgYXJlIG1vdmVkIHRvIHRoZSBob3VzZSBhbmQgbGluZSB0aGUgc2hlbHZlcyBpbiBmcm9udCBvZiB0aGUgbGFyZ2UgdHJpcGxlLXBhbmUgd2luZG93LiBTaGUgaGFzIG5vIHRlbGVwaG9uZS4gSSBhbSB0aGUgbWVzc2VuZ2VyLiBJIGJyaW5nIHJlcXVlc3RzIHRvIGhlciwgcmlkaW5nIG15IGJpY3ljbGUgYWxvbmcgdGhlIGRpcnQgcm9hZCB0byBoZXIgY290dGFnZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A dozen or two glads please, the note says. The bride has chosen coral for the color of her wedding and Omah adds a few white ones because she says that white is important at a wedding. She does not charge for this service. It is unthinkable to her to ask for money to do this thing which she loves. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgZG96ZW4gb3IgdHdvIGdsYWRzIHBsZWFzZSwgdGhlIG5vdGUgc2F5cy4gVGhlIGJyaWRlIGhhcyBjaG9zZW4gY29yYWwgZm9yIHRoZSBjb2xvciBvZiBoZXIgd2VkZGluZyBhbmQgT21haCBhZGRzIGEgZmV3IHdoaXRlIG9uZXMgYmVjYXVzZSBzaGUgc2F5cyB0aGF0IHdoaXRlIGlzIGltcG9ydGFudCBhdCBhIHdlZGRpbmcuIFNoZSBkb2VzIG5vdCBjaGFyZ2UgZm9yIHRoaXMgc2VydmljZS4gSXQgaXMgdW50aGlua2FibGUgdG8gaGVyIHRvIGFzayBmb3IgbW9uZXkgdG8gZG8gdGhpcyB0aGluZyB3aGljaCBzaGUgbG92ZXMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She has studied carefully the long rows of blossoms to find perfect ones with just the correct number of buds near the top, and laid them gently on newspaper. She straightens and absently brushes perspiration from her brow. She frowns at the plum tree in the corner of the garden where the flies hover in the heat waves.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBoYXMgc3R1ZGllZCBjYXJlZnVsbHkgdGhlIGxvbmcgcm93cyBvZiBibG9zc29tcyB0byBmaW5kIHBlcmZlY3Qgb25lcyB3aXRoIGp1c3QgdGhlIGNvcnJlY3QgbnVtYmVyIG9mIGJ1ZHMgbmVhciB0aGUgdG9wLCBhbmQgbGFpZCB0aGVtIGdlbnRseSBvbiBuZXdzcGFwZXIuIFNoZSBzdHJhaWdodGVucyBhbmQgYWJzZW50bHkgYnJ1c2hlcyBwZXJzcGlyYXRpb24gZnJvbSBoZXIgYnJvdy4gU2hlIGZyb3ducyBhdCB0aGUgcGx1bSB0cmVlIGluIHRoZSBjb3JuZXIgb2YgdGhlIGdhcmRlbiB3aGVyZSB0aGUgZmxpZXMgaG92ZXIgaW4gdGhlIGhlYXQgd2F2ZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"In Russia," she says as she once more bends to her task, "we made jam. Wild plum jam to put into fruit pockets and platz." Her hands, brown and earth-stained, feel for the proper place to cut into the last gladiolus stalk. "What now is a plum tree but a blessing to the red ants and flies only?" While she steps into the house, I search the ground beneath the tree to try to find out what offends her so greatly. I can see red ants crawling over sticky, pink pulp, studying the dynamics of moving one rotting plum. I recall her words as I pedal back towards the town with the glads in my wire basket.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJbiBSdXNzaWEsIiBzaGUgc2F5cyBhcyBzaGUgb25jZSBtb3JlIGJlbmRzIHRvIGhlciB0YXNrLCAid2UgbWFkZSBqYW0uIFdpbGQgcGx1bSBqYW0gdG8gcHV0IGludG8gZnJ1aXQgcG9ja2V0cyBhbmQgcGxhdHouIiBIZXIgaGFuZHMsIGJyb3duIGFuZCBlYXJ0aC1zdGFpbmVkLCBmZWVsIGZvciB0aGUgcHJvcGVyIHBsYWNlIHRvIGN1dCBpbnRvIHRoZSBsYXN0IGdsYWRpb2x1cyBzdGFsay4gIldoYXQgbm93IGlzIGEgcGx1bSB0cmVlIGJ1dCBhIGJsZXNzaW5nIHRvIHRoZSByZWQgYW50cyBhbmQgZmxpZXMgb25seT8iIFdoaWxlIHNoZSBzdGVwcyBpbnRvIHRoZSBob3VzZSwgSSBzZWFyY2ggdGhlIGdyb3VuZCBiZW5lYXRoIHRoZSB0cmVlIHRvIHRyeSB0byBmaW5kIG91dCB3aGF0IG9mZmVuZHMgaGVyIHNvIGdyZWF0bHkuIEkgY2FuIHNlZSByZWQgYW50cyBjcmF3bGluZyBvdmVyIHN0aWNreSwgcGluayBwdWxwLCBzdHVkeWluZyB0aGUgZHluYW1pY3Mgb2YgbW92aW5nIG9uZSByb3R0aW5nIHBsdW0uIEkgcmVjYWxsIGhlciB3b3JkcyBhcyBJIHBlZGFsIGJhY2sgdG93YXJkcyB0aGUgdG93biB3aXRoIHRoZSBnbGFkcyBpbiBteSB3aXJlIGJhc2tldC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Laurence is waiting for me at the river.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxhdXJlbmNlIGlzIHdhaXRpbmcgZm9yIG1lIGF0IHRoZSByaXZlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Drat, wild plums, that's just what I need," Laurence says and begins pacing up and down the river bank.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJEcmF0LCB3aWxkIHBsdW1zLCB0aGF0J3MganVzdCB3aGF0IEkgbmVlZCwiIExhdXJlbmNlIHNheXMgYW5kIGJlZ2lucyBwYWNpbmcgdXAgYW5kIGRvd24gdGhlIHJpdmVyIGJhbmsuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"What do you need plums for?"</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJXaGF0IGRvIHlvdSBuZWVkIHBsdW1zIGZvcj8iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Can't you see," he says. "Wild plums are perfect to make wine." I wonder at the tone of his voice when it is just the two of us fishing. He has told me two bobbers today instead of one and the depth of the stick must be screwed down into the muck just so. Only he can do it. And I never question as I would want to because I am grateful for the world he has opened up to me.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJDYW4ndCB5b3Ugc2VlLCIgaGUgc2F5cy4gIldpbGQgcGx1bXMgYXJlIHBlcmZlY3QgdG8gbWFrZSB3aW5lLiIgSSB3b25kZXIgYXQgdGhlIHRvbmUgb2YgaGlzIHZvaWNlIHdoZW4gaXQgaXMganVzdCB0aGUgdHdvIG9mIHVzIGZpc2hpbmcuIEhlIGhhcyB0b2xkIG1lIHR3byBib2JiZXJzIHRvZGF5IGluc3RlYWQgb2Ygb25lIGFuZCB0aGUgZGVwdGggb2YgdGhlIHN0aWNrIG11c3QgYmUgc2NyZXdlZCBkb3duIGludG8gdGhlIG11Y2sganVzdCBzby4gT25seSBoZSBjYW4gZG8gaXQuIEFuZCBJIG5ldmVyIHF1ZXN0aW9uIGFzIEkgd291bGQgd2FudCB0byBiZWNhdXNlIEkgYW0gZ3JhdGVmdWwgZm9yIHRoZSB3b3JsZCBoZSBoYXMgb3BlbmVkIHVwIHRvIG1lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I have loved you since grade three, my eyes keep telling him. I defy my father and play with you anyway. It is of no consequence to Laurence that daily our friendship drives <font id=9>wedges</font> into my life.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgaGF2ZSBsb3ZlZCB5b3Ugc2luY2UgZ3JhZGUgdGhyZWUsIG15IGV5ZXMga2VlcCB0ZWxsaW5nIGhpbS4gSSBkZWZ5IG15IGZhdGhlciBhbmQgcGxheSB3aXRoIHlvdSBhbnl3YXkuIEl0IGlzIG9mIG5vIGNvbnNlcXVlbmNlIHRvIExhdXJlbmNlIHRoYXQgZGFpbHkgb3VyIGZyaWVuZHNoaXAgZHJpdmVzIDxmb250IGlkPTk+d2VkZ2VzPC9mb250PiBpbnRvIG15IGxpZmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Come with me." I give him my hand.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJDb21lIHdpdGggbWUuIiBJIGdpdmUgaGltIG15IGhhbmQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Omah bends over in the garden picking tomatoes, her instep swollen, mottled blue with broken vessels, her beautiful white hair hidden beneath a kerchief.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9tYWggYmVuZHMgb3ZlciBpbiB0aGUgZ2FyZGVuIHBpY2tpbmcgdG9tYXRvZXMsIGhlciBpbnN0ZXAgc3dvbGxlbiwgbW90dGxlZCBibHVlIHdpdGggYnJva2VuIHZlc3NlbHMsIGhlciBiZWF1dGlmdWwgd2hpdGUgaGFpciBoaWRkZW4gYmVuZWF0aCBhIGtlcmNoaWVmLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=5>Laurence stands away from us, his arms folded across his chest as though he were bracing himself against extreme cold.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTU+TGF1cmVuY2Ugc3RhbmRzIGF3YXkgZnJvbSB1cywgaGlzIGFybXMgZm9sZGVkIGFjcm9zcyBoaXMgY2hlc3QgYXMgdGhvdWdoIGhlIHdlcmUgYnJhY2luZyBoaW1zZWxmIGFnYWluc3QgZXh0cmVtZSBjb2xkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=10> "His mother could use the plums," </font> I tell Omah. Her eyes brighten and she half-runs to her house. When she returns with pails for picking, Laurence's arms hang down by his sides. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTEwPiAiSGlzIG1vdGhlciBjb3VsZCB1c2UgdGhlIHBsdW1zLCIgPC9mb250PiBJIHRlbGwgT21haC4gSGVyIGV5ZXMgYnJpZ2h0ZW4gYW5kIHNoZSBoYWxmLXJ1bnMgdG8gaGVyIGhvdXNlLiBXaGVuIHNoZSByZXR1cm5zIHdpdGggcGFpbHMgZm9yIHBpY2tpbmcsIExhdXJlbmNlJ3MgYXJtcyBoYW5nIGRvd24gYnkgaGlzIHNpZGVzLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"You tell your Mama," she says to Laurence, "that it takes one cup of sugar to one cup of juice for the jelly."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJZb3UgdGVsbCB5b3VyIE1hbWEsIiBzaGUgc2F5cyB0byBMYXVyZW5jZSwgInRoYXQgaXQgdGFrZXMgb25lIGN1cCBvZiBzdWdhciB0byBvbmUgY3VwIG9mIGp1aWNlIGZvciB0aGUgamVsbHkuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I beg Laurence silently to be polite in front of her. Her freckled hands pluck fruit joyfully.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgYmVnIExhdXJlbmNlIHNpbGVudGx5IHRvIGJlIHBvbGl0ZSBpbiBmcm9udCBvZiBoZXIuIEhlciBmcmVja2xlZCBoYW5kcyBwbHVjayBmcnVpdCBqb3lmdWxseS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"In the old country, we didn't waste fruit. Not like here where people let it fall to the ground and then go to the store and buy what they could have made for themselves."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJbiB0aGUgb2xkIGNvdW50cnksIHdlIGRpZG4ndCB3YXN0ZSBmcnVpdC4gTm90IGxpa2UgaGVyZSB3aGVyZSBwZW9wbGUgbGV0IGl0IGZhbGwgdG8gdGhlIGdyb3VuZCBhbmQgdGhlbiBnbyB0byB0aGUgc3RvcmUgYW5kIGJ1eSB3aGF0IHRoZXkgY291bGQgaGF2ZSBtYWRlIGZvciB0aGVtc2VsdmVzLiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Laurence has sniffed out my uneasiness. "My mother makes good crabapple jelly."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxhdXJlbmNlIGhhcyBzbmlmZmVkIG91dCBteSB1bmVhc2luZXNzLiAiTXkgbW90aGVyIG1ha2VzIGdvb2QgY3JhYmFwcGxlIGplbGx5LiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She studies him with renewed interest. When we each have a pail full of the fruit, she tops it with several of the largest unblemished tomatoes I have ever seen.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBzdHVkaWVzIGhpbSB3aXRoIHJlbmV3ZWQgaW50ZXJlc3QuIFdoZW4gd2UgZWFjaCBoYXZlIGEgcGFpbCBmdWxsIG9mIHRoZSBmcnVpdCwgc2hlIHRvcHMgaXQgd2l0aCBzZXZlcmFsIG9mIHRoZSBsYXJnZXN0IHVuYmxlbWlzaGVkIHRvbWF0b2VzIEkgaGF2ZSBldmVyIHNlZW4uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">We leave her standing at the edge of the road waving. I am so proud that I want to tell Laurence about the apple that is named for her. She had experimented with crabapple trees for years and in recognition of her work, the experimental farm has given a new apple tree her name.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldlIGxlYXZlIGhlciBzdGFuZGluZyBhdCB0aGUgZWRnZSBvZiB0aGUgcm9hZCB3YXZpbmcuIEkgYW0gc28gcHJvdWQgdGhhdCBJIHdhbnQgdG8gdGVsbCBMYXVyZW5jZSBhYm91dCB0aGUgYXBwbGUgdGhhdCBpcyBuYW1lZCBmb3IgaGVyLiBTaGUgaGFkIGV4cGVyaW1lbnRlZCB3aXRoIGNyYWJhcHBsZSB0cmVlcyBmb3IgeWVhcnMgYW5kIGluIHJlY29nbml0aW9uIG9mIGhlciB3b3JrLCB0aGUgZXhwZXJpbWVudGFsIGZhcm0gaGFzIGdpdmVuIGEgbmV3IGFwcGxlIHRyZWUgaGVyIG5hbWUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When we are well down the road we stop to rest. I sit and chew the tender end of a foxtail. Laurence chooses the largest of the tomatoes carefully, and then, his arm a wide arc, smashes it against a telephone pole.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gd2UgYXJlIHdlbGwgZG93biB0aGUgcm9hZCB3ZSBzdG9wIHRvIHJlc3QuIEkgc2l0IGFuZCBjaGV3IHRoZSB0ZW5kZXIgZW5kIG9mIGEgZm94dGFpbC4gTGF1cmVuY2UgY2hvb3NlcyB0aGUgbGFyZ2VzdCBvZiB0aGUgdG9tYXRvZXMgY2FyZWZ1bGx5LCBhbmQgdGhlbiwgaGlzIGFybSBhIHdpZGUgYXJjLCBzbWFzaGVzIGl0IGFnYWluc3QgYSB0ZWxlcGhvbmUgcG9sZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I watch red juice dripping against the splintered gray wood. The sun is dying. It paints the water tower shades of gold. The crickets in the ditch speak to me of Omah's greenhouse where they hide behind earthen ware pots.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgd2F0Y2ggcmVkIGp1aWNlIGRyaXBwaW5nIGFnYWluc3QgdGhlIHNwbGludGVyZWQgZ3JheSB3b29kLiBUaGUgc3VuIGlzIGR5aW5nLiBJdCBwYWludHMgdGhlIHdhdGVyIHRvd2VyIHNoYWRlcyBvZiBnb2xkLiBUaGUgY3JpY2tldHMgaW4gdGhlIGRpdGNoIHNwZWFrIHRvIG1lIG9mIE9tYWgncyBncmVlbmhvdXNlIHdoZXJlIHRoZXkgaGlkZSBiZWhpbmQgZWFydGhlbiB3YXJlIHBvdHMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=7>What does Laurence know of hauling pails of water from the river, bending and trailing moisture, row upon row? What does he know of coaxing seedlings to grow? </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTc+V2hhdCBkb2VzIExhdXJlbmNlIGtub3cgb2YgaGF1bGluZyBwYWlscyBvZiB3YXRlciBmcm9tIHRoZSByaXZlciwgYmVuZGluZyBhbmQgdHJhaWxpbmcgbW9pc3R1cmUsIHJvdyB1cG9uIHJvdz8gV2hhdCBkb2VzIGhlIGtub3cgb2YgY29heGluZyBzZWVkbGluZ3MgdG8gZ3Jvdz8gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I turn from him and walk with my face reflecting the fired sky and my dust-coated bare feet raising puffs of anger in the fine warm silt.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgdHVybiBmcm9tIGhpbSBhbmQgd2FsayB3aXRoIG15IGZhY2UgcmVmbGVjdGluZyB0aGUgZmlyZWQgc2t5IGFuZCBteSBkdXN0LWNvYXRlZCBiYXJlIGZlZXQgcmFpc2luZyBwdWZmcyBvZiBhbmdlciBpbiB0aGUgZmluZSB3YXJtIHNpbHQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Hey, where are you going?" Laurence calls to my retreating back. "What did I do?"</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJIZXksIHdoZXJlIGFyZSB5b3UgZ29pbmc/IiBMYXVyZW5jZSBjYWxscyB0byBteSByZXRyZWF0aW5nIGJhY2suICJXaGF0IGRpZCBJIGRvPyI8L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. Which of the following statements accurately summarizes the central emotional shift that takes place in this passage?
-<div class = "choice">A. A young narrator comes to regret her role as the messenger for her grandmother's business because it leads to personal disappointment.</div>
-<div class = "choice">B. A grown woman feels her enthusiasm for gardening decline in the face of the disrespect she is shown by a young man.</div>
-<div class = "choice">C. A young narrator becomes more attached to her grandmother and less attached to the boy she loves as a result of trying to please both of them.</div>
-<div class = "choice">D. A young boy who is trying to please the narrator is overwhelmed with resentment when he realizes his efforts are misunderstood.</div>
-</div>
-###################
-<div class = "quiz">2. Laurence's approach to fishing and Omah's approach to gardening reveal that each has:
-<div class = "choice">F. strong opinions about preferred techniques in their areas of expertise.</div>
-<div class = "choice">G. an indifferent attitude toward carrying out familiar tasks.</div>
-<div class = "choice">H. a sense of responsibility to uphold traditions established by others.</div>
-<div class = "choice">J. little tolerance for the demands made upon them by the larger community.</div>
-</div>
-###################
-<div class = "quiz">3. The passage states that the narrator's feelings for Laurence include all of the following EXCEPT:
-<div class = "choice">A. gratitude.</div>
-<div class = "choice">B. love.</div>
-<div class = "choice">C. envy.</div>
-<div class = "choice">D. anger.</div>
-</div>
-###################
-<div class = "quiz">4. It can reasonably be inferred from the passage that bringing Laurence and Omah together takes an emotional toll on the narrator because:
-<div class = "choice">F. Laurence damages the plums that Omah has carefully set aside for making jelly.</div>
-<div class = "choice">G. Laurence asks questions that require Omah to defend her values.</div>
-<div class = "choice">H. Omah insults Laurence by her reluctance to offer his mother plums to make jelly.</div>
-<div class = "choice">J. she has strong attachments to both and fears that one might hurt or offend the other.</div>
-</div>
-###################
-<div class = "quiz">5. The author most likely provides images contrasting Omah and Laurence in the twelfth and thirteenth paragraphs (lines 55-61) to help the reader:
-<div class = "choice">A. visualize physical details that reveal Omah and Laurence\s opposing attitudes.</div>
-<div class = "choice">B. imagine vividly the characteristics of Omahg's house and land in contrast to Laurence's home.</div>
-<div class = "choice">C. sympathize with the narrator, who is glad that Laurence's mother can use the plums.</div>
-<div class = "choice">D. understand the disagreement between Omah and Laurence as they pick plums together.</div>
-</div>
-###################
-<div class = "quiz">6. Laurence's behavior toward Omah during his visit to the garden can best be characterized as:
-<div class = "choice">F. initially aloof then tentatively involved.</div>
-<div class = "choice">G. clumsy but well—meaning in ways that amuse Omah.</div>
-<div class = "choice">H. initially outgoing then increasingly subdued.</div>
-<div class = "choice">J. jumpy until Omah's instructions calm him down.</div>
-</div>
-###################
-<div class = "quiz">7. The questions posed by the narrator in the twenty-second paragraph (lines 91-93) most strongly indicate that she is:
-<div class = "choice">A. curious about how much Laurence lias learned about tending a garden like Omah's.</div>
-<div class = "choice">B. mad at Laurence for demonstrating that he has no respect for Omah's hard work in the garden.</div>
-<div class = "choice">C. disappointed in herself for not explaining to Laurence the significance of Omah's labors.</div>
-<div class = "choice">D. determined to bridge the gap that has opened up unexpectedly between Laurence and Omah.</div>
-</div>
-###################
-<div class = "quiz">8. It can reasonably be inferred from the first two paragraphs (lines 1-14) that in providing her services to the community, Omah considers it her duty to:
-<div class = "choice">F. fill a customer's order as directed, adhering strictly to the customer's request.</div>
-<div class = "choice">G. adjust an order to conform with her sense of what an occasion calls for.</div>
-<div class = "choice">H. pick flowers from the tops of the plants where the colors of the blooms are the most vivid.</div>
-<div class = "choice">J. ask the narrator detailed questions about the occasion and the customer's preferences.</div>
-</div>
-###################
-<div class = "quiz">9. As it is used in line 50, the word wedges most nearly means:
-<div class = "choice">A. supports.</div>
-<div class = "choice">B. braces.</div>
-<div class = "choice">C. interventions.</div>
-<div class = "choice">D. divisions.</div>
-</div>
-###################
-<div class = "quiz">10. It can reasonably be inferred that the narrator's remark "His mother could use the plums" (line 58) is the narrator's way of influencing the attitude of:
-<div class = "choice">F. Laurence's mother toward Omah.</div>
-<div class = "choice">G. Laurence to ward the plums.</div>
-<div class = "choice">H. Omah toward Laurence.</div>
-<div class = "choice">J. the narrator's mother toward Laurence's mother.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgYWNjdXJhdGVseSBzdW1tYXJpemVzIHRoZSBjZW50cmFsIGVtb3Rpb25hbCBzaGlmdCB0aGF0IHRha2VzIHBsYWNlIGluIHRoaXMgcGFzc2FnZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgeW91bmcgbmFycmF0b3IgY29tZXMgdG8gcmVncmV0IGhlciByb2xlIGFzIHRoZSBtZXNzZW5nZXIgZm9yIGhlciBncmFuZG1vdGhlcidzIGJ1c2luZXNzIGJlY2F1c2UgaXQgbGVhZHMgdG8gcGVyc29uYWwgZGlzYXBwb2ludG1lbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEEgZ3Jvd24gd29tYW4gZmVlbHMgaGVyIGVudGh1c2lhc20gZm9yIGdhcmRlbmluZyBkZWNsaW5lIGluIHRoZSBmYWNlIG9mIHRoZSBkaXNyZXNwZWN0IHNoZSBpcyBzaG93biBieSBhIHlvdW5nIG1hbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgeW91bmcgbmFycmF0b3IgYmVjb21lcyBtb3JlIGF0dGFjaGVkIHRvIGhlciBncmFuZG1vdGhlciBhbmQgbGVzcyBhdHRhY2hlZCB0byB0aGUgYm95IHNoZSBsb3ZlcyBhcyBhIHJlc3VsdCBvZiB0cnlpbmcgdG8gcGxlYXNlIGJvdGggb2YgdGhlbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEEgeW91bmcgYm95IHdobyBpcyB0cnlpbmcgdG8gcGxlYXNlIHRoZSBuYXJyYXRvciBpcyBvdmVyd2hlbG1lZCB3aXRoIHJlc2VudG1lbnQgd2hlbiBoZSByZWFsaXplcyBoaXMgZWZmb3J0cyBhcmUgbWlzdW5kZXJzdG9vZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBMYXVyZW5jZSdzIGFwcHJvYWNoIHRvIGZpc2hpbmcgYW5kIE9tYWgncyBhcHByb2FjaCB0byBnYXJkZW5pbmcgcmV2ZWFsIHRoYXQgZWFjaCBoYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHN0cm9uZyBvcGluaW9ucyBhYm91dCBwcmVmZXJyZWQgdGVjaG5pcXVlcyBpbiB0aGVpciBhcmVhcyBvZiBleHBlcnRpc2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIGluZGlmZmVyZW50IGF0dGl0dWRlIHRvd2FyZCBjYXJyeWluZyBvdXQgZmFtaWxpYXIgdGFza3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGEgc2Vuc2Ugb2YgcmVzcG9uc2liaWxpdHkgdG8gdXBob2xkIHRyYWRpdGlvbnMgZXN0YWJsaXNoZWQgYnkgb3RoZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxpdHRsZSB0b2xlcmFuY2UgZm9yIHRoZSBkZW1hbmRzIG1hZGUgdXBvbiB0aGVtIGJ5IHRoZSBsYXJnZXIgY29tbXVuaXR5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBUaGUgcGFzc2FnZSBzdGF0ZXMgdGhhdCB0aGUgbmFycmF0b3IncyBmZWVsaW5ncyBmb3IgTGF1cmVuY2UgaW5jbHVkZSBhbGwgb2YgdGhlIGZvbGxvd2luZyBFWENFUFQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGdyYXRpdHVkZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxvdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVudnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuZ2VyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgYnJpbmdpbmcgTGF1cmVuY2UgYW5kIE9tYWggdG9nZXRoZXIgdGFrZXMgYW4gZW1vdGlvbmFsIHRvbGwgb24gdGhlIG5hcnJhdG9yIGJlY2F1c2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIExhdXJlbmNlIGRhbWFnZXMgdGhlIHBsdW1zIHRoYXQgT21haCBoYXMgY2FyZWZ1bGx5IHNldCBhc2lkZSBmb3IgbWFraW5nIGplbGx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExhdXJlbmNlIGFza3MgcXVlc3Rpb25zIHRoYXQgcmVxdWlyZSBPbWFoIHRvIGRlZmVuZCBoZXIgdmFsdWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE9tYWggaW5zdWx0cyBMYXVyZW5jZSBieSBoZXIgcmVsdWN0YW5jZSB0byBvZmZlciBoaXMgbW90aGVyIHBsdW1zIHRvIG1ha2UgamVsbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNoZSBoYXMgc3Ryb25nIGF0dGFjaG1lbnRzIHRvIGJvdGggYW5kIGZlYXJzIHRoYXQgb25lIG1pZ2h0IGh1cnQgb3Igb2ZmZW5kIHRoZSBvdGhlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBUaGUgYXV0aG9yIG1vc3QgbGlrZWx5IHByb3ZpZGVzIGltYWdlcyBjb250cmFzdGluZyBPbWFoIGFuZCBMYXVyZW5jZSBpbiB0aGUgdHdlbGZ0aCBhbmQgdGhpcnRlZW50aCBwYXJhZ3JhcGhzIChsaW5lcyA1NS02MSkgdG8gaGVscCB0aGUgcmVhZGVyOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHZpc3VhbGl6ZSBwaHlzaWNhbCBkZXRhaWxzIHRoYXQgcmV2ZWFsIE9tYWggYW5kIExhdXJlbmNlXHMgb3Bwb3NpbmcgYXR0aXR1ZGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGltYWdpbmUgdml2aWRseSB0aGUgY2hhcmFjdGVyaXN0aWNzIG9mIE9tYWhnJ3MgaG91c2UgYW5kIGxhbmQgaW4gY29udHJhc3QgdG8gTGF1cmVuY2UncyBob21lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN5bXBhdGhpemUgd2l0aCB0aGUgbmFycmF0b3IsIHdobyBpcyBnbGFkIHRoYXQgTGF1cmVuY2UncyBtb3RoZXIgY2FuIHVzZSB0aGUgcGx1bXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHVuZGVyc3RhbmQgdGhlIGRpc2FncmVlbWVudCBiZXR3ZWVuIE9tYWggYW5kIExhdXJlbmNlIGFzIHRoZXkgcGljayBwbHVtcyB0b2dldGhlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBMYXVyZW5jZSdzIGJlaGF2aW9yIHRvd2FyZCBPbWFoIGR1cmluZyBoaXMgdmlzaXQgdG8gdGhlIGdhcmRlbiBjYW4gYmVzdCBiZSBjaGFyYWN0ZXJpemVkIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluaXRpYWxseSBhbG9vZiB0aGVuIHRlbnRhdGl2ZWx5IGludm9sdmVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNsdW1zeSBidXQgd2VsbOKAlG1lYW5pbmcgaW4gd2F5cyB0aGF0IGFtdXNlIE9tYWguPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluaXRpYWxseSBvdXRnb2luZyB0aGVuIGluY3JlYXNpbmdseSBzdWJkdWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGp1bXB5IHVudGlsIE9tYWgncyBpbnN0cnVjdGlvbnMgY2FsbSBoaW0gZG93bi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBUaGUgcXVlc3Rpb25zIHBvc2VkIGJ5IHRoZSBuYXJyYXRvciBpbiB0aGUgdHdlbnR5LXNlY29uZCBwYXJhZ3JhcGggKGxpbmVzIDkxLTkzKSBtb3N0IHN0cm9uZ2x5IGluZGljYXRlIHRoYXQgc2hlIGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGN1cmlvdXMgYWJvdXQgaG93IG11Y2ggTGF1cmVuY2UgbGlhcyBsZWFybmVkIGFib3V0IHRlbmRpbmcgYSBnYXJkZW4gbGlrZSBPbWFoJ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1hZCBhdCBMYXVyZW5jZSBmb3IgZGVtb25zdHJhdGluZyB0aGF0IGhlIGhhcyBubyByZXNwZWN0IGZvciBPbWFoJ3MgaGFyZCB3b3JrIGluIHRoZSBnYXJkZW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRpc2FwcG9pbnRlZCBpbiBoZXJzZWxmIGZvciBub3QgZXhwbGFpbmluZyB0byBMYXVyZW5jZSB0aGUgc2lnbmlmaWNhbmNlIG9mIE9tYWgncyBsYWJvcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRldGVybWluZWQgdG8gYnJpZGdlIHRoZSBnYXAgdGhhdCBoYXMgb3BlbmVkIHVwIHVuZXhwZWN0ZWRseSBiZXR3ZWVuIExhdXJlbmNlIGFuZCBPbWFoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBmaXJzdCB0d28gcGFyYWdyYXBocyAobGluZXMgMS0xNCkgdGhhdCBpbiBwcm92aWRpbmcgaGVyIHNlcnZpY2VzIHRvIHRoZSBjb21tdW5pdHksIE9tYWggY29uc2lkZXJzIGl0IGhlciBkdXR5IHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGZpbGwgYSBjdXN0b21lcidzIG9yZGVyIGFzIGRpcmVjdGVkLCBhZGhlcmluZyBzdHJpY3RseSB0byB0aGUgY3VzdG9tZXIncyByZXF1ZXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFkanVzdCBhbiBvcmRlciB0byBjb25mb3JtIHdpdGggaGVyIHNlbnNlIG9mIHdoYXQgYW4gb2NjYXNpb24gY2FsbHMgZm9yLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBpY2sgZmxvd2VycyBmcm9tIHRoZSB0b3BzIG9mIHRoZSBwbGFudHMgd2hlcmUgdGhlIGNvbG9ycyBvZiB0aGUgYmxvb21zIGFyZSB0aGUgbW9zdCB2aXZpZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFzayB0aGUgbmFycmF0b3IgZGV0YWlsZWQgcXVlc3Rpb25zIGFib3V0IHRoZSBvY2Nhc2lvbiBhbmQgdGhlIGN1c3RvbWVyJ3MgcHJlZmVyZW5jZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBBcyBpdCBpcyB1c2VkIGluIGxpbmUgNTAsIHRoZSB3b3JkIHdlZGdlcyBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN1cHBvcnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJyYWNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGludGVydmVudGlvbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRpdmlzaW9ucy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgbmFycmF0b3IncyByZW1hcmsgIkhpcyBtb3RoZXIgY291bGQgdXNlIHRoZSBwbHVtcyIgKGxpbmUgNTgpIGlzIHRoZSBuYXJyYXRvcidzIHdheSBvZiBpbmZsdWVuY2luZyB0aGUgYXR0aXR1ZGUgb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIExhdXJlbmNlJ3MgbW90aGVyIHRvd2FyZCBPbWFoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExhdXJlbmNlIHRvIHdhcmQgdGhlIHBsdW1zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE9tYWggdG93YXJkIExhdXJlbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBuYXJyYXRvcidzIG1vdGhlciB0b3dhcmQgTGF1cmVuY2UncyBtb3RoZXIuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

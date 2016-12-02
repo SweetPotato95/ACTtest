@@ -1,128 +1,128 @@
-<h1>Barbara McClintock and the Genetics of Maize</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a leader in the field of genetics, Barbara McClintock <font id=60>of human genes</font> made significant steps in unraveling the mysteries. <font id=62>When she began studies in the 1920s, scientists <font id=61>had only recently began</font> to consider genetics a field of study and accept the research of Gregor Mendel (1822-1884).</font> His theory stated that plants resembled their "parents" in a predictable <font id=63>manner based</font> on laws of inheritance. <font id=64>However, McClintock's research pushed the field of genetics beyond Mendel's principles.</font></div>
+PGgxPkJhcmJhcmEgTWNDbGludG9jayBhbmQgdGhlIEdlbmV0aWNzIG9mIE1haXplPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIGEgbGVhZGVyIGluIHRoZSBmaWVsZCBvZiBnZW5ldGljcywgQmFyYmFyYSBNY0NsaW50b2NrIDxmb250IGlkPTYwPm9mIGh1bWFuIGdlbmVzPC9mb250PiBtYWRlIHNpZ25pZmljYW50IHN0ZXBzIGluIHVucmF2ZWxpbmcgdGhlIG15c3Rlcmllcy4gPGZvbnQgaWQ9NjI+V2hlbiBzaGUgYmVnYW4gc3R1ZGllcyBpbiB0aGUgMTkyMHMsIHNjaWVudGlzdHMgPGZvbnQgaWQ9NjE+aGFkIG9ubHkgcmVjZW50bHkgYmVnYW48L2ZvbnQ+IHRvIGNvbnNpZGVyIGdlbmV0aWNzIGEgZmllbGQgb2Ygc3R1ZHkgYW5kIGFjY2VwdCB0aGUgcmVzZWFyY2ggb2YgR3JlZ29yIE1lbmRlbCAoMTgyMi0xODg0KS48L2ZvbnQ+IEhpcyB0aGVvcnkgc3RhdGVkIHRoYXQgcGxhbnRzIHJlc2VtYmxlZCB0aGVpciAicGFyZW50cyIgaW4gYSBwcmVkaWN0YWJsZSA8Zm9udCBpZD02Mz5tYW5uZXIgYmFzZWQ8L2ZvbnQ+IG9uIGxhd3Mgb2YgaW5oZXJpdGFuY2UuIDxmb250IGlkPTY0Pkhvd2V2ZXIsIE1jQ2xpbnRvY2sncyByZXNlYXJjaCBwdXNoZWQgdGhlIGZpZWxkIG9mIGdlbmV0aWNzIGJleW9uZCBNZW5kZWwncyBwcmluY2lwbGVzLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock believed maize (corn) was <font id=65>idealistically a</font> plant to study because each ear had hundreds of <font id=66>kernels for</font> each with a different set of chromosomes. The first to perfect a staining technique for distinguishing the individual chromosomes of <font id=67>maize.</font> McClintock studied the way genes were arranged on these chromosomes. By 1951, she had studied many generations of maize, noting the locations of groups of genes as the plants reproduced.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1jQ2xpbnRvY2sgYmVsaWV2ZWQgbWFpemUgKGNvcm4pIHdhcyA8Zm9udCBpZD02NT5pZGVhbGlzdGljYWxseSBhPC9mb250PiBwbGFudCB0byBzdHVkeSBiZWNhdXNlIGVhY2ggZWFyIGhhZCBodW5kcmVkcyBvZiA8Zm9udCBpZD02Nj5rZXJuZWxzIGZvcjwvZm9udD4gZWFjaCB3aXRoIGEgZGlmZmVyZW50IHNldCBvZiBjaHJvbW9zb21lcy4gVGhlIGZpcnN0IHRvIHBlcmZlY3QgYSBzdGFpbmluZyB0ZWNobmlxdWUgZm9yIGRpc3Rpbmd1aXNoaW5nIHRoZSBpbmRpdmlkdWFsIGNocm9tb3NvbWVzIG9mIDxmb250IGlkPTY3Pm1haXplLjwvZm9udD4gTWNDbGludG9jayBzdHVkaWVkIHRoZSB3YXkgZ2VuZXMgd2VyZSBhcnJhbmdlZCBvbiB0aGVzZSBjaHJvbW9zb21lcy4gQnkgMTk1MSwgc2hlIGhhZCBzdHVkaWVkIG1hbnkgZ2VuZXJhdGlvbnMgb2YgbWFpemUsIG5vdGluZyB0aGUgbG9jYXRpb25zIG9mIGdyb3VwcyBvZiBnZW5lcyBhcyB0aGUgcGxhbnRzIHJlcHJvZHVjZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock found that some of the maize kernels were striped or <font id=68>spotted rather, then</font> the uniform color found in the parent plants. <font id=69>For example, these</font> findings were in marked contrast to Mendel's work, which had concluded that the kernel color of offspring could be predicted from the combination of genes inherited from the parent plants. In the multicolored kernels, McClintock discovered that specialized genes, later called transposons, were changing positions on and between the chromosomes. These changes caused a deviation from the <font id=70>kernel color of the maize that would have been anticipated by scientists.</font> McClintock named this genetic phenomenon transposition.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1jQ2xpbnRvY2sgZm91bmQgdGhhdCBzb21lIG9mIHRoZSBtYWl6ZSBrZXJuZWxzIHdlcmUgc3RyaXBlZCBvciA8Zm9udCBpZD02OD5zcG90dGVkIHJhdGhlciwgdGhlbjwvZm9udD4gdGhlIHVuaWZvcm0gY29sb3IgZm91bmQgaW4gdGhlIHBhcmVudCBwbGFudHMuIDxmb250IGlkPTY5PkZvciBleGFtcGxlLCB0aGVzZTwvZm9udD4gZmluZGluZ3Mgd2VyZSBpbiBtYXJrZWQgY29udHJhc3QgdG8gTWVuZGVsJ3Mgd29yaywgd2hpY2ggaGFkIGNvbmNsdWRlZCB0aGF0IHRoZSBrZXJuZWwgY29sb3Igb2Ygb2Zmc3ByaW5nIGNvdWxkIGJlIHByZWRpY3RlZCBmcm9tIHRoZSBjb21iaW5hdGlvbiBvZiBnZW5lcyBpbmhlcml0ZWQgZnJvbSB0aGUgcGFyZW50IHBsYW50cy4gSW4gdGhlIG11bHRpY29sb3JlZCBrZXJuZWxzLCBNY0NsaW50b2NrIGRpc2NvdmVyZWQgdGhhdCBzcGVjaWFsaXplZCBnZW5lcywgbGF0ZXIgY2FsbGVkIHRyYW5zcG9zb25zLCB3ZXJlIGNoYW5naW5nIHBvc2l0aW9ucyBvbiBhbmQgYmV0d2VlbiB0aGUgY2hyb21vc29tZXMuIFRoZXNlIGNoYW5nZXMgY2F1c2VkIGEgZGV2aWF0aW9uIGZyb20gdGhlIDxmb250IGlkPTcwPmtlcm5lbCBjb2xvciBvZiB0aGUgbWFpemUgdGhhdCB3b3VsZCBoYXZlIGJlZW4gYW50aWNpcGF0ZWQgYnkgc2NpZW50aXN0cy48L2ZvbnQ+IE1jQ2xpbnRvY2sgbmFtZWQgdGhpcyBnZW5ldGljIHBoZW5vbWVub24gdHJhbnNwb3NpdGlvbi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock's work was far ahead of the other genetic research of her time. It took the scientific community over thirty years to <font id=71>understand</font> and publicly recognize her discoveries. In other scientific fields, the concept of transposition <font id=72>may</font> had wide-ranging applications, <font id=73>and</font> in the development of medical treatments for bacterial infections and cancer. After the importance of her research <font id=74>gained appreciation for its value,</font> she <font id=75>was awarded the Nobel Prize in Physiology or Medicine in 1983.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1jQ2xpbnRvY2sncyB3b3JrIHdhcyBmYXIgYWhlYWQgb2YgdGhlIG90aGVyIGdlbmV0aWMgcmVzZWFyY2ggb2YgaGVyIHRpbWUuIEl0IHRvb2sgdGhlIHNjaWVudGlmaWMgY29tbXVuaXR5IG92ZXIgdGhpcnR5IHllYXJzIHRvIDxmb250IGlkPTcxPnVuZGVyc3RhbmQ8L2ZvbnQ+IGFuZCBwdWJsaWNseSByZWNvZ25pemUgaGVyIGRpc2NvdmVyaWVzLiBJbiBvdGhlciBzY2llbnRpZmljIGZpZWxkcywgdGhlIGNvbmNlcHQgb2YgdHJhbnNwb3NpdGlvbiA8Zm9udCBpZD03Mj5tYXk8L2ZvbnQ+IGhhZCB3aWRlLXJhbmdpbmcgYXBwbGljYXRpb25zLCA8Zm9udCBpZD03Mz5hbmQ8L2ZvbnQ+IGluIHRoZSBkZXZlbG9wbWVudCBvZiBtZWRpY2FsIHRyZWF0bWVudHMgZm9yIGJhY3RlcmlhbCBpbmZlY3Rpb25zIGFuZCBjYW5jZXIuIEFmdGVyIHRoZSBpbXBvcnRhbmNlIG9mIGhlciByZXNlYXJjaCA8Zm9udCBpZD03ND5nYWluZWQgYXBwcmVjaWF0aW9uIGZvciBpdHMgdmFsdWUsPC9mb250PiBzaGUgPGZvbnQgaWQ9NzU+d2FzIGF3YXJkZWQgdGhlIE5vYmVsIFByaXplIGluIFBoeXNpb2xvZ3kgb3IgTWVkaWNpbmUgaW4gMTk4My48L2ZvbnQ+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">60. The best placement for the underlined portion would be:
-<div class = "choice">F. where it is now.</div>
-<div class = "choice">G. after the word steps.</div>
-<div class = "choice">H. after the word unraveling.</div>
-<div class = "choice">J. after the word mysteries (and before the period).</div>
-</div>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. had only recently begun</div>
-<div class = "choice">C. have only recently began</div>
-<div class = "choice">D. have only recently begun</div>
-</div>
-###################
-<div class = "quiz">62. The writer is considering deleting the parenthetical information (and the parentheses) from the preceding sentence. If the writer were to make this deletion, the paragraph would primarily lose:
-<div class = "choice">F. information needed to understand why McClintock was motivated to continue researching Mendel's theories.</div>
-<div class = "choice">G. information that helps put Mendel's life and work into historical context.</div>
-<div class = "choice">H. the approximate amount of time that Mendel spent in school.</div>
-<div class = "choice">J. a time frame during which Mendel's discoveries were considered valid.</div>
-</div>
-###################
-<div class = "quiz">63.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. manner. Based</div>
-<div class = "choice">C. manner; based</div>
-<div class = "choice">D. manner that based</div>
-</div>
-###################
-<div class = "quiz">64. Given that all the choices are true, which one most effectively leads the reader from this paragraph into the remainder of the essay?
-<div class = "choice">F. NO CHANCE</div>
-<div class = "choice">G. Mendel generated his theory while living in a monastery and conducting his experiments in the</div>
-garden there.
-<div class = "choice">H. Therefore, Mendel laid the groundwork for future studies about genetics.</div>
-<div class = "choice">J. McClintock was elected as a member to the prestigious National Academy of Sciences in l944.</div>
-</div>
-###################
-<div class = "quiz">65.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. an ideal</div>
-<div class = "choice">C. an ideally</div>
-<div class = "choice">D. an idealistic</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. kernels;</div>
-<div class = "choice">H. kernels,</div>
-<div class = "choice">J. kernels having</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. maize</div>
-<div class = "choice">C. maize,</div>
-<div class = "choice">D. maize;</div>
-</div>
-###################
-<div class = "quiz">68.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. spotted, rather then</div>
-<div class = "choice">H. spotted rather than</div>
-<div class = "choice">J. spotted rather, than</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Next, these</div>
-<div class = "choice">C. Nonetheless, these</div>
-<div class = "choice">D. These</div>
-</div>
-###################
-<div class = "quiz">70.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. scientific anticipation of the expected kernel color.</div>
-<div class = "choice">H. color that people in science had thought would be in the kernels.</div>
-<div class = "choice">J. expected color of the kernels.</div>
-</div>
-###################
-<div class = "quiz">71.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. understand,</div>
-<div class = "choice">C. understand;</div>
-<div class = "choice">D. understand them</div>
-</div>
-###################
-<div class = "quiz">72.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. could of</div>
-<div class = "choice">H. have</div>
-<div class = "choice">J. has</div>
-</div>
-###################
-<div class = "quiz">73.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. that are seen</div>
-<div class = "choice">C. such as</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">74.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. won appreciation given that it was worthwhile,</div>
-<div class = "choice">H. was considered important enough lo be appreciated,</div>
-<div class = "choice">J. gained appreciation,</div>
-</div>
-###################
-<div class = "quiz">75. Given that all the choices are true, which one most effectively concludes the sentence by giving a specific example of the acknowledgment McClintock finally received for her achievements?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. could attribute her success to her early research experiences at Cornell University.</div>
-<div class = "choice">C. continued to work at the Cold Spring Harbor Lab-oratory in a position she'd held since 1941.</div>
-<div class = "choice">D. was thankful for all of the people who helped her reach her goals.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4gVGhlIGJlc3QgcGxhY2VtZW50IGZvciB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFmdGVyIHRoZSB3b3JkIHN0ZXBzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFmdGVyIHRoZSB3b3JkIHVucmF2ZWxpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmdGVyIHRoZSB3b3JkIG15c3RlcmllcyAoYW5kIGJlZm9yZSB0aGUgcGVyaW9kKS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhZCBvbmx5IHJlY2VudGx5IGJlZ3VuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhdmUgb25seSByZWNlbnRseSBiZWdhbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhhdmUgb25seSByZWNlbnRseSBiZWd1bjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcGFyZW50aGV0aWNhbCBpbmZvcm1hdGlvbiAoYW5kIHRoZSBwYXJlbnRoZXNlcykgZnJvbSB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLiBJZiB0aGUgd3JpdGVyIHdlcmUgdG8gbWFrZSB0aGlzIGRlbGV0aW9uLCB0aGUgcGFyYWdyYXBoIHdvdWxkIHByaW1hcmlseSBsb3NlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluZm9ybWF0aW9uIG5lZWRlZCB0byB1bmRlcnN0YW5kIHdoeSBNY0NsaW50b2NrIHdhcyBtb3RpdmF0ZWQgdG8gY29udGludWUgcmVzZWFyY2hpbmcgTWVuZGVsJ3MgdGhlb3JpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluZm9ybWF0aW9uIHRoYXQgaGVscHMgcHV0IE1lbmRlbCdzIGxpZmUgYW5kIHdvcmsgaW50byBoaXN0b3JpY2FsIGNvbnRleHQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBhcHByb3hpbWF0ZSBhbW91bnQgb2YgdGltZSB0aGF0IE1lbmRlbCBzcGVudCBpbiBzY2hvb2wuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgdGltZSBmcmFtZSBkdXJpbmcgd2hpY2ggTWVuZGVsJ3MgZGlzY292ZXJpZXMgd2VyZSBjb25zaWRlcmVkIHZhbGlkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1hbm5lci4gQmFzZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1hbm5lcjsgYmFzZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1hbm5lciB0aGF0IGJhc2VkPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBtb3N0IGVmZmVjdGl2ZWx5IGxlYWRzIHRoZSByZWFkZXIgZnJvbSB0aGlzIHBhcmFncmFwaCBpbnRvIHRoZSByZW1haW5kZXIgb2YgdGhlIGVzc2F5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5DRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1lbmRlbCBnZW5lcmF0ZWQgaGlzIHRoZW9yeSB3aGlsZSBsaXZpbmcgaW4gYSBtb25hc3RlcnkgYW5kIGNvbmR1Y3RpbmcgaGlzIGV4cGVyaW1lbnRzIGluIHRoZTwvZGl2Pg==
+Z2FyZGVuIHRoZXJlLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZXJlZm9yZSwgTWVuZGVsIGxhaWQgdGhlIGdyb3VuZHdvcmsgZm9yIGZ1dHVyZSBzdHVkaWVzIGFib3V0IGdlbmV0aWNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1jQ2xpbnRvY2sgd2FzIGVsZWN0ZWQgYXMgYSBtZW1iZXIgdG8gdGhlIHByZXN0aWdpb3VzIE5hdGlvbmFsIEFjYWRlbXkgb2YgU2NpZW5jZXMgaW4gbDk0NC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIGlkZWFsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGlkZWFsbHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIGlkZWFsaXN0aWM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGtlcm5lbHM7PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGtlcm5lbHMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGtlcm5lbHMgaGF2aW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1haXplPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1haXplLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1haXplOzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNwb3R0ZWQsIHJhdGhlciB0aGVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNwb3R0ZWQgcmF0aGVyIHRoYW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNwb3R0ZWQgcmF0aGVyLCB0aGFuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5leHQsIHRoZXNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vbmV0aGVsZXNzLCB0aGVzZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZXNlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNjaWVudGlmaWMgYW50aWNpcGF0aW9uIG9mIHRoZSBleHBlY3RlZCBrZXJuZWwgY29sb3IuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbG9yIHRoYXQgcGVvcGxlIGluIHNjaWVuY2UgaGFkIHRob3VnaHQgd291bGQgYmUgaW4gdGhlIGtlcm5lbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV4cGVjdGVkIGNvbG9yIG9mIHRoZSBrZXJuZWxzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHVuZGVyc3RhbmQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHVuZGVyc3RhbmQ7PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHVuZGVyc3RhbmQgdGhlbTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvdWxkIG9mPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoYXQgYXJlIHNlZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1Y2ggYXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdvbiBhcHByZWNpYXRpb24gZ2l2ZW4gdGhhdCBpdCB3YXMgd29ydGh3aGlsZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdhcyBjb25zaWRlcmVkIGltcG9ydGFudCBlbm91Z2ggbG8gYmUgYXBwcmVjaWF0ZWQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdhaW5lZCBhcHByZWNpYXRpb24sPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBtb3N0IGVmZmVjdGl2ZWx5IGNvbmNsdWRlcyB0aGUgc2VudGVuY2UgYnkgZ2l2aW5nIGEgc3BlY2lmaWMgZXhhbXBsZSBvZiB0aGUgYWNrbm93bGVkZ21lbnQgTWNDbGludG9jayBmaW5hbGx5IHJlY2VpdmVkIGZvciBoZXIgYWNoaWV2ZW1lbnRzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvdWxkIGF0dHJpYnV0ZSBoZXIgc3VjY2VzcyB0byBoZXIgZWFybHkgcmVzZWFyY2ggZXhwZXJpZW5jZXMgYXQgQ29ybmVsbCBVbml2ZXJzaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnRpbnVlZCB0byB3b3JrIGF0IHRoZSBDb2xkIFNwcmluZyBIYXJib3IgTGFiLW9yYXRvcnkgaW4gYSBwb3NpdGlvbiBzaGUnZCBoZWxkIHNpbmNlIDE5NDEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdhcyB0aGFua2Z1bCBmb3IgYWxsIG9mIHRoZSBwZW9wbGUgd2hvIGhlbHBlZCBoZXIgcmVhY2ggaGVyIGdvYWxzLjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

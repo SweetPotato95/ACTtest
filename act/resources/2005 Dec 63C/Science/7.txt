@@ -1,100 +1,100 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students dissolved ammonium chloride (NH4CI) and silver cyanate (AgOCN) together in water. A solid, Product I (P1), formed and was isolated. Product 2 (P2) was then recovered from the water in the solution. Samples of the products had the properties listed below:</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnRzIGRpc3NvbHZlZCBhbW1vbml1bSBjaGxvcmlkZSAoTkg0Q0kpIGFuZCBzaWx2ZXIgY3lhbmF0ZSAoQWdPQ04pIHRvZ2V0aGVyIGluIHdhdGVyLiBBIHNvbGlkLCBQcm9kdWN0IEkgKFAxKSwgZm9ybWVkIGFuZCB3YXMgaXNvbGF0ZWQuIFByb2R1Y3QgMiAoUDIpIHdhcyB0aGVuIHJlY292ZXJlZCBmcm9tIHRoZSB3YXRlciBpbiB0aGUgc29sdXRpb24uIFNhbXBsZXMgb2YgdGhlIHByb2R1Y3RzIGhhZCB0aGUgcHJvcGVydGllcyBsaXN0ZWQgYmVsb3c6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1: Melting point > 400℃; hard and brittle; not soluble in water; not flammable; formula unknown</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlAxOiBNZWx0aW5nIHBvaW50ID4gNDAw4oQ/OyBoYXJkIGFuZCBicml0dGxlOyBub3Qgc29sdWJsZSBpbiB3YXRlcjsgbm90IGZsYW1tYWJsZTsgZm9ybXVsYSB1bmtub3duPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P2: Melting point = 132℃; soft and nonbrittle; soluble in water; flammable; formula is CH<sub>4</sub>N<sub>2</sub>O</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlAyOiBNZWx0aW5nIHBvaW50ID0gMTMy4oQ/OyBzb2Z0IGFuZCBub25icml0dGxlOyBzb2x1YmxlIGluIHdhdGVyOyBmbGFtbWFibGU7IGZvcm11bGEgaXMgQ0g8c3ViPjQ8L3N1Yj5OPHN1Yj4yPC9zdWI+TzwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two students discuss the identity of these products.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlR3byBzdHVkZW50cyBkaXNjdXNzIHRoZSBpZGVudGl0eSBvZiB0aGVzZSBwcm9kdWN0cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnQgMTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NH<sub>4</sub>C1 and AgOCN both are salts. Salts are composed of positively charged cations and negatively charged anions that hold together because they have opposite charges. When salts dissolve in water, they dissociate, or break apart, into anions and cations. When NH<sub>4</sub>Cl and AgOCN are dissolved in water, the following occurs:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5IPHN1Yj40PC9zdWI+QzEgYW5kIEFnT0NOIGJvdGggYXJlIHNhbHRzLiBTYWx0cyBhcmUgY29tcG9zZWQgb2YgcG9zaXRpdmVseSBjaGFyZ2VkIGNhdGlvbnMgYW5kIG5lZ2F0aXZlbHkgY2hhcmdlZCBhbmlvbnMgdGhhdCBob2xkIHRvZ2V0aGVyIGJlY2F1c2UgdGhleSBoYXZlIG9wcG9zaXRlIGNoYXJnZXMuIFdoZW4gc2FsdHMgZGlzc29sdmUgaW4gd2F0ZXIsIHRoZXkgZGlzc29jaWF0ZSwgb3IgYnJlYWsgYXBhcnQsIGludG8gYW5pb25zIGFuZCBjYXRpb25zLiBXaGVuIE5IPHN1Yj40PC9zdWI+Q2wgYW5kIEFnT0NOIGFyZSBkaXNzb2x2ZWQgaW4gd2F0ZXIsIHRoZSBmb2xsb3dpbmcgb2NjdXJzOjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NH<sub>4</sub>Cl + AgOCN → NH4+ + CI<sup>-</sup> + Ag<sup>+</sup> + OCN<sup>-</sup></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5IPHN1Yj40PC9zdWI+Q2wgKyBBZ09DTiDihj8gTkg0KyArIENJPHN1cD4tPC9zdXA+ICsgQWc8c3VwPis8L3N1cD4gKyBPQ048c3VwPi08L3N1cD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ions in solution then form new salts, silver chloride (AgCl) and ammonium cyanate (NH<sub>4</sub>OCN):</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpb25zIGluIHNvbHV0aW9uIHRoZW4gZm9ybSBuZXcgc2FsdHMsIHNpbHZlciBjaGxvcmlkZSAoQWdDbCkgYW5kIGFtbW9uaXVtIGN5YW5hdGUgKE5IPHN1Yj40PC9zdWI+T0NOKTo8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NH4<sup>+</sup> + C1<sup>-</sup> + Ag<sup>+</sup> + OCN<sup>-</sup> → AgCl + NH<sub>4</sub>OCN</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5INDxzdXA+Kzwvc3VwPiArIEMxPHN1cD4tPC9zdXA+ICsgQWc8c3VwPis8L3N1cD4gKyBPQ048c3VwPi08L3N1cD4g4oY/IEFnQ2wgKyBOSDxzdWI+NDwvc3ViPk9DTjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1 is AgCl: AgCl is insoluble in water, and salts tend to be hard and brittle, to be nonflammable, and to have high melting points. P2 is NH<sub>4</sub>OCN, which is a salt composed of an ammonium ion and a cyanate ion:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlAxIGlzIEFnQ2w6IEFnQ2wgaXMgaW5zb2x1YmxlIGluIHdhdGVyLCBhbmQgc2FsdHMgdGVuZCB0byBiZSBoYXJkIGFuZCBicml0dGxlLCB0byBiZSBub25mbGFtbWFibGUsIGFuZCB0byBoYXZlIGhpZ2ggbWVsdGluZyBwb2ludHMuIFAyIGlzIE5IPHN1Yj40PC9zdWI+T0NOLCB3aGljaCBpcyBhIHNhbHQgY29tcG9zZWQgb2YgYW4gYW1tb25pdW0gaW9uIGFuZCBhIGN5YW5hdGUgaW9uOjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[NH4<sup>+</sup>] [OCN<sup>-</sup>]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPltOSDQ8c3VwPis8L3N1cD5dIFtPQ048c3VwPi08L3N1cD5dPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This sample of NH<sub>4</sub>OCN is absorbed water from the air caused the melting point to salt.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaXMgc2FtcGxlIG9mIE5IPHN1Yj40PC9zdWI+T0NOIGlzIGFic29yYmVkIHdhdGVyIGZyb20gdGhlIGFpciBjYXVzZWQgdGhlIG1lbHRpbmcgcG9pbnQgdG8gc2FsdC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnQgMjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">P1 is AgCl, but P2 is not a salt. Ammonium ions do react with cyanate ions to form NH<sub>4</sub>OCN, but this compound is unstable. To isolate P2, the solution was heated at 70℃ to remove the water. This caused the salt .to rearrange and form a more stable covalent compound. In a. covalent compound, the atoms are held together by bonds, not by their opposite charges. P2 is urea, which has the following structure:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlAxIGlzIEFnQ2wsIGJ1dCBQMiBpcyBub3QgYSBzYWx0LiBBbW1vbml1bSBpb25zIGRvIHJlYWN0IHdpdGggY3lhbmF0ZSBpb25zIHRvIGZvcm0gTkg8c3ViPjQ8L3N1Yj5PQ04sIGJ1dCB0aGlzIGNvbXBvdW5kIGlzIHVuc3RhYmxlLiBUbyBpc29sYXRlIFAyLCB0aGUgc29sdXRpb24gd2FzIGhlYXRlZCBhdCA3MOKEPyB0byByZW1vdmUgdGhlIHdhdGVyLiBUaGlzIGNhdXNlZCB0aGUgc2FsdCAudG8gcmVhcnJhbmdlIGFuZCBmb3JtIGEgbW9yZSBzdGFibGUgY292YWxlbnQgY29tcG91bmQuIEluIGEuIGNvdmFsZW50IGNvbXBvdW5kLCB0aGUgYXRvbXMgYXJlIGhlbGQgdG9nZXRoZXIgYnkgYm9uZHMsIG5vdCBieSB0aGVpciBvcHBvc2l0ZSBjaGFyZ2VzLiBQMiBpcyB1cmVhLCB3aGljaCBoYXMgdGhlIGZvbGxvd2luZyBzdHJ1Y3R1cmU6PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '222'height = '153'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDIwMC5wbmcnIHdpZHRoID0gJzIyMidoZWlnaHQgPSAnMTUzJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Covalent compounds are generally not as brittle as salts and tend to have lower melting points. Also, covalent compounds are much more likely to be flammable than are salts. Urea is also a compound that is found in mammalian urine, so it must be soluble in water.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNvdmFsZW50IGNvbXBvdW5kcyBhcmUgZ2VuZXJhbGx5IG5vdCBhcyBicml0dGxlIGFzIHNhbHRzIGFuZCB0ZW5kIHRvIGhhdmUgbG93ZXIgbWVsdGluZyBwb2ludHMuIEFsc28sIGNvdmFsZW50IGNvbXBvdW5kcyBhcmUgbXVjaCBtb3JlIGxpa2VseSB0byBiZSBmbGFtbWFibGUgdGhhbiBhcmUgc2FsdHMuIFVyZWEgaXMgYWxzbyBhIGNvbXBvdW5kIHRoYXQgaXMgZm91bmQgaW4gbWFtbWFsaWFuIHVyaW5lLCBzbyBpdCBtdXN0IGJlIHNvbHVibGUgaW4gd2F0ZXIuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">34. A compound is hygroscopic if it absorbs water from the air. According to Student l's hypothesis, which of the following compounds is hygroscopic?
-<div class = "choice">F. Urea</div>
-<div class = "choice">G. AgCl</div>
-<div class = "choice">H. NH<sub>4</sub>Cl</div>
-<div class = "choice">J. NH<sub>4</sub>OCN</div>
-</div>
-###################
-<div class = "quiz">35. Which of the students' hypotheses, if either, would be weakened if it were determined that Pl was NOT AgCl ?
-<div class = "choice">A. Student l's only</div>
-<div class = "choice">B. Student 2's only</div>
-<div class = "choice">C. Both Student l's and Student 2's</div>
-<div class = "choice">D. Neither Student l's nor Student 2's</div>
-</div>
-###################
-<div class = "quiz">36. Based on the data collected for P2, which of the following compounds represents a possible structure for P2?
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '86'height = '68'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '100'height = '67'/></div>
-<div class = "choice">H. [NH<sub>4</sub><sup>+</sup>][CN<sup>-</sup>]</div>
-<div class = "choice">J. [N<sub>2</sub>H<sub>5</sub><sup>+</sup>][OCN<sup>-</sup>]</div>
-</div>
-###################
-<div class = "quiz">37. In arguing that urea is soluble in water, Student 2 makes which of the following assumptions?
-<div class = "choice">A. Mammalian urine is a water-based solution.</div>
-<div class = "choice">B. Mammalian urine contains many dissolved salts.</div>
-<div class = "choice">C. Urea dissociates when dissolved in water.</div>
-<div class = "choice">D. Urea absorbs water from the atmosphere.</div>
-</div>
-###################
-<div class = "quiz">38. Which of the following claims about the compounds discussed in the passage, if true, would NOT be consistent with Student 2's hypothesis?
-<div class = "choice">F. AgCl is a salt.</div>
-<div class = "choice">G. NH<sub>4</sub>OCN is a salt.</div>
-<div class = "choice">H. NH<sub>4</sub>Cl is a salt.</div>
-<div class = "choice">J. Urea is a salt.</div>
-</div>
-###################
-<div class = "quiz">39. Compounds that have 'the same chemical formula but different chemical structures are called isomers. Based on the information in the passage, which of the following pairs of compounds are isomers?
-<div class = "choice">A. Silver chloride and silver cyanate</div>
-<div class = "choice">B. Silver cyanate and ammonium chloride</div>
-<div class = "choice">C. Ammonium chloride and 'ammonium cyanate</div>
-<div class = "choice">D. Ammonium cyanate and urea</div>
-</div>
-###################
-<div class = "quiz">40. According to both Students l and 2, what solid was observed to form when the NH<sub>4</sub>Cl and AgOCN were dissolved together in water?
-<div class = "choice">F. NH<sub>4</sub>OCN</div>
-<div class = "choice">G. Urea</div>
-<div class = "choice">H. AgCI</div>
-<div class = "choice">J. CH<sub>4</sub>N<sub>2</sub>O</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQSBjb21wb3VuZCBpcyBoeWdyb3Njb3BpYyBpZiBpdCBhYnNvcmJzIHdhdGVyIGZyb20gdGhlIGFpci4gQWNjb3JkaW5nIHRvIFN0dWRlbnQgbCdzIGh5cG90aGVzaXMsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY29tcG91bmRzIGlzIGh5Z3Jvc2NvcGljPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFVyZWE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFnQ2w8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5IPHN1Yj40PC9zdWI+Q2w8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5IPHN1Yj40PC9zdWI+T0NOPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gV2hpY2ggb2YgdGhlIHN0dWRlbnRzJyBoeXBvdGhlc2VzLCBpZiBlaXRoZXIsIHdvdWxkIGJlIHdlYWtlbmVkIGlmIGl0IHdlcmUgZGV0ZXJtaW5lZCB0aGF0IFBsIHdhcyBOT1QgQWdDbCA/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFN0dWRlbnQgbCdzIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN0dWRlbnQgMidzIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJvdGggU3R1ZGVudCBsJ3MgYW5kIFN0dWRlbnQgMidzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5laXRoZXIgU3R1ZGVudCBsJ3Mgbm9yIFN0dWRlbnQgMidzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQmFzZWQgb24gdGhlIGRhdGEgY29sbGVjdGVkIGZvciBQMiwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjb21wb3VuZHMgcmVwcmVzZW50cyBhIHBvc3NpYmxlIHN0cnVjdHVyZSBmb3IgUDI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMjAxLnBuZycgd2lkdGggPSAnODYnaGVpZ2h0ID0gJzY4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMjAyLnBuZycgd2lkdGggPSAnMTAwJ2hlaWdodCA9ICc2NycvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFtOSDxzdWI+NDwvc3ViPjxzdXA+Kzwvc3VwPl1bQ048c3VwPi08L3N1cD5dPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFtOPHN1Yj4yPC9zdWI+SDxzdWI+NTwvc3ViPjxzdXA+Kzwvc3VwPl1bT0NOPHN1cD4tPC9zdXA+XTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gSW4gYXJndWluZyB0aGF0IHVyZWEgaXMgc29sdWJsZSBpbiB3YXRlciwgU3R1ZGVudCAyIG1ha2VzIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgYXNzdW1wdGlvbnM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE1hbW1hbGlhbiB1cmluZSBpcyBhIHdhdGVyLWJhc2VkIHNvbHV0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE1hbW1hbGlhbiB1cmluZSBjb250YWlucyBtYW55IGRpc3NvbHZlZCBzYWx0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFVyZWEgZGlzc29jaWF0ZXMgd2hlbiBkaXNzb2x2ZWQgaW4gd2F0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFVyZWEgYWJzb3JicyB3YXRlciBmcm9tIHRoZSBhdG1vc3BoZXJlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjbGFpbXMgYWJvdXQgdGhlIGNvbXBvdW5kcyBkaXNjdXNzZWQgaW4gdGhlIHBhc3NhZ2UsIGlmIHRydWUsIHdvdWxkIE5PVCBiZSBjb25zaXN0ZW50IHdpdGggU3R1ZGVudCAyJ3MgaHlwb3RoZXNpcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEFnQ2wgaXMgYSBzYWx0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE5IPHN1Yj40PC9zdWI+T0NOIGlzIGEgc2FsdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5IPHN1Yj40PC9zdWI+Q2wgaXMgYSBzYWx0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFVyZWEgaXMgYSBzYWx0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQ29tcG91bmRzIHRoYXQgaGF2ZSAndGhlIHNhbWUgY2hlbWljYWwgZm9ybXVsYSBidXQgZGlmZmVyZW50IGNoZW1pY2FsIHN0cnVjdHVyZXMgYXJlIGNhbGxlZCBpc29tZXJzLiBCYXNlZCBvbiB0aGUgaW5mb3JtYXRpb24gaW4gdGhlIHBhc3NhZ2UsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgcGFpcnMgb2YgY29tcG91bmRzIGFyZSBpc29tZXJzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNpbHZlciBjaGxvcmlkZSBhbmQgc2lsdmVyIGN5YW5hdGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNpbHZlciBjeWFuYXRlIGFuZCBhbW1vbml1bSBjaGxvcmlkZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFtbW9uaXVtIGNobG9yaWRlIGFuZCAnYW1tb25pdW0gY3lhbmF0ZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFtbW9uaXVtIGN5YW5hdGUgYW5kIHVyZWE8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIGJvdGggU3R1ZGVudHMgbCBhbmQgMiwgd2hhdCBzb2xpZCB3YXMgb2JzZXJ2ZWQgdG8gZm9ybSB3aGVuIHRoZSBOSDxzdWI+NDwvc3ViPkNsIGFuZCBBZ09DTiB3ZXJlIGRpc3NvbHZlZCB0b2dldGhlciBpbiB3YXRlcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5IPHN1Yj40PC9zdWI+T0NOPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFVyZWE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFnQ0k8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIENIPHN1Yj40PC9zdWI+TjxzdWI+Mjwvc3ViPk88L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,99 +1,99 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from the article "India Resounding in New York" by Jon Pareles (©2004 by The New York Times Company).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When Bombay Dreams, musical about making it in the Indian film capital known as Bollywood, was imported from London to Broadway in 2004, it introduced some listeners to the madcap eclecticism of filmi, the song-and-dance numbers that punctuate Bolly-wood's sprawling musicals. But Broadway was the last to know about the rendezvous of Indian and Western music. The profound improvisations of South Asian classical music have long been welcome in New York. City's concert halls. Jazz musicians have been absorbing ideas and collaborating with Indian musicians at least since the 1960's. Hip-hop has latched onto Indian rhythms. In New York's clubs, the sounds of Bolly-wood and other South Asian fusions have been drawing crowds for years.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIGFydGljbGUgIkluZGlhIFJlc291bmRpbmcgaW4gTmV3IFlvcmsiIGJ5IEpvbiBQYXJlbGVzICjCqTIwMDQgYnkgVGhlIE5ldyBZb3JrIFRpbWVzIENvbXBhbnkpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gQm9tYmF5IERyZWFtcywgbXVzaWNhbCBhYm91dCBtYWtpbmcgaXQgaW4gdGhlIEluZGlhbiBmaWxtIGNhcGl0YWwga25vd24gYXMgQm9sbHl3b29kLCB3YXMgaW1wb3J0ZWQgZnJvbSBMb25kb24gdG8gQnJvYWR3YXkgaW4gMjAwNCwgaXQgaW50cm9kdWNlZCBzb21lIGxpc3RlbmVycyB0byB0aGUgbWFkY2FwIGVjbGVjdGljaXNtIG9mIGZpbG1pLCB0aGUgc29uZy1hbmQtZGFuY2UgbnVtYmVycyB0aGF0IHB1bmN0dWF0ZSBCb2xseS13b29kJ3Mgc3ByYXdsaW5nIG11c2ljYWxzLiBCdXQgQnJvYWR3YXkgd2FzIHRoZSBsYXN0IHRvIGtub3cgYWJvdXQgdGhlIHJlbmRlenZvdXMgb2YgSW5kaWFuIGFuZCBXZXN0ZXJuIG11c2ljLiBUaGUgcHJvZm91bmQgaW1wcm92aXNhdGlvbnMgb2YgU291dGggQXNpYW4gY2xhc3NpY2FsIG11c2ljIGhhdmUgbG9uZyBiZWVuIHdlbGNvbWUgaW4gTmV3IFlvcmsuIENpdHkncyBjb25jZXJ0IGhhbGxzLiBKYXp6IG11c2ljaWFucyBoYXZlIGJlZW4gYWJzb3JiaW5nIGlkZWFzIGFuZCBjb2xsYWJvcmF0aW5nIHdpdGggSW5kaWFuIG11c2ljaWFucyBhdCBsZWFzdCBzaW5jZSB0aGUgMTk2MCdzLiBIaXAtaG9wIGhhcyBsYXRjaGVkIG9udG8gSW5kaWFuIHJoeXRobXMuIEluIE5ldyBZb3JrJ3MgY2x1YnMsIHRoZSBzb3VuZHMgb2YgQm9sbHktd29vZCBhbmQgb3RoZXIgU291dGggQXNpYW4gZnVzaW9ucyBoYXZlIGJlZW4gZHJhd2luZyBjcm93ZHMgZm9yIHllYXJzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As often happens, the music follows demographics. In the 1960's, a change in immigration law brought a wave of white-collar Indians and Pakistanis  and Bangladeshis to the United States. Now their sons and daughters are establishing their place in the arts as well as in the wider American economy, and they are making sense of a musical upbringing that is likely to include Bollywood tunes alongside hip-hop, Western classical music, Indian classical music, rock and jazz.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIG9mdGVuIGhhcHBlbnMsIHRoZSBtdXNpYyBmb2xsb3dzIGRlbW9ncmFwaGljcy4gSW4gdGhlIDE5NjAncywgYSBjaGFuZ2UgaW4gaW1taWdyYXRpb24gbGF3IGJyb3VnaHQgYSB3YXZlIG9mIHdoaXRlLWNvbGxhciBJbmRpYW5zIGFuZCBQYWtpc3RhbmlzICBhbmQgQmFuZ2xhZGVzaGlzIHRvIHRoZSBVbml0ZWQgU3RhdGVzLiBOb3cgdGhlaXIgc29ucyBhbmQgZGF1Z2h0ZXJzIGFyZSBlc3RhYmxpc2hpbmcgdGhlaXIgcGxhY2UgaW4gdGhlIGFydHMgYXMgd2VsbCBhcyBpbiB0aGUgd2lkZXIgQW1lcmljYW4gZWNvbm9teSwgYW5kIHRoZXkgYXJlIG1ha2luZyBzZW5zZSBvZiBhIG11c2ljYWwgdXBicmluZ2luZyB0aGF0IGlzIGxpa2VseSB0byBpbmNsdWRlIEJvbGx5d29vZCB0dW5lcyBhbG9uZ3NpZGUgaGlwLWhvcCwgV2VzdGVybiBjbGFzc2ljYWwgbXVzaWMsIEluZGlhbiBjbGFzc2ljYWwgbXVzaWMsIHJvY2sgYW5kIGphenouPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For South Asian and Asian-American musicians, producers and .disc jockeys who have been building their own scene in New York, the latest East-West hybrids are not just occasion for musical connections and experiments. They are also affirmations of an identity that grows ever more complex and cosmopolitan. Vijay Iyer, a pianist who brings his Indian background to jazz, said: <font id=28>"Making music is very much aligned with activism and sociopolitical cultural work, and that actually is something that does unite this community. It's not just making music to be cool or look hip or be sexy, but actually to make a difference in the world. Especially in New York, that's a mobilizing force for the South Asian community."</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBTb3V0aCBBc2lhbiBhbmQgQXNpYW4tQW1lcmljYW4gbXVzaWNpYW5zLCBwcm9kdWNlcnMgYW5kIC5kaXNjIGpvY2tleXMgd2hvIGhhdmUgYmVlbiBidWlsZGluZyB0aGVpciBvd24gc2NlbmUgaW4gTmV3IFlvcmssIHRoZSBsYXRlc3QgRWFzdC1XZXN0IGh5YnJpZHMgYXJlIG5vdCBqdXN0IG9jY2FzaW9uIGZvciBtdXNpY2FsIGNvbm5lY3Rpb25zIGFuZCBleHBlcmltZW50cy4gVGhleSBhcmUgYWxzbyBhZmZpcm1hdGlvbnMgb2YgYW4gaWRlbnRpdHkgdGhhdCBncm93cyBldmVyIG1vcmUgY29tcGxleCBhbmQgY29zbW9wb2xpdGFuLiBWaWpheSBJeWVyLCBhIHBpYW5pc3Qgd2hvIGJyaW5ncyBoaXMgSW5kaWFuIGJhY2tncm91bmQgdG8gamF6eiwgc2FpZDogPGZvbnQgaWQ9Mjg+Ik1ha2luZyBtdXNpYyBpcyB2ZXJ5IG11Y2ggYWxpZ25lZCB3aXRoIGFjdGl2aXNtIGFuZCBzb2Npb3BvbGl0aWNhbCBjdWx0dXJhbCB3b3JrLCBhbmQgdGhhdCBhY3R1YWxseSBpcyBzb21ldGhpbmcgdGhhdCBkb2VzIHVuaXRlIHRoaXMgY29tbXVuaXR5LiBJdCdzIG5vdCBqdXN0IG1ha2luZyBtdXNpYyB0byBiZSBjb29sIG9yIGxvb2sgaGlwIG9yIGJlIHNleHksIGJ1dCBhY3R1YWxseSB0byBtYWtlIGEgZGlmZmVyZW5jZSBpbiB0aGUgd29ybGQuIEVzcGVjaWFsbHkgaW4gTmV3IFlvcmssIHRoYXQncyBhIG1vYmlsaXppbmcgZm9yY2UgZm9yIHRoZSBTb3V0aCBBc2lhbiBjb21tdW5pdHkuIjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The New York wave of South Asian music was preceded by influential South Asian hybrids from England. The documentary Mutiny: Asians Storm British Music details the way established Indian and Pakistani communities in London confronted racism with music. In the 1970's and 80's, bands in London merged Indian elements—notably a 4/4 Punjabi beat called bhangra—with other music that connoted resistance, like punk, reggae and hip-hop. And in the 1990's, studio wizards came up with styles that became known as Asian Underground, which swirled together South Asian music with the beats and textures of electronica.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBOZXcgWW9yayB3YXZlIG9mIFNvdXRoIEFzaWFuIG11c2ljIHdhcyBwcmVjZWRlZCBieSBpbmZsdWVudGlhbCBTb3V0aCBBc2lhbiBoeWJyaWRzIGZyb20gRW5nbGFuZC4gVGhlIGRvY3VtZW50YXJ5IE11dGlueTogQXNpYW5zIFN0b3JtIEJyaXRpc2ggTXVzaWMgZGV0YWlscyB0aGUgd2F5IGVzdGFibGlzaGVkIEluZGlhbiBhbmQgUGFraXN0YW5pIGNvbW11bml0aWVzIGluIExvbmRvbiBjb25mcm9udGVkIHJhY2lzbSB3aXRoIG11c2ljLiBJbiB0aGUgMTk3MCdzIGFuZCA4MCdzLCBiYW5kcyBpbiBMb25kb24gbWVyZ2VkIEluZGlhbiBlbGVtZW50c+KAlG5vdGFibHkgYSA0LzQgUHVuamFiaSBiZWF0IGNhbGxlZCBiaGFuZ3Jh4oCUd2l0aCBvdGhlciBtdXNpYyB0aGF0IGNvbm5vdGVkIHJlc2lzdGFuY2UsIGxpa2UgcHVuaywgcmVnZ2FlIGFuZCBoaXAtaG9wLiBBbmQgaW4gdGhlIDE5OTAncywgc3R1ZGlvIHdpemFyZHMgY2FtZSB1cCB3aXRoIHN0eWxlcyB0aGF0IGJlY2FtZSBrbm93biBhcyBBc2lhbiBVbmRlcmdyb3VuZCwgd2hpY2ggc3dpcmxlZCB0b2dldGhlciBTb3V0aCBBc2lhbiBtdXNpYyB3aXRoIHRoZSBiZWF0cyBhbmQgdGV4dHVyZXMgb2YgZWxlY3Ryb25pY2EuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The music traveled to New York at such parties as DJ Rekha's Basement Bhangra. "It's very urban, very New York, and that's what makes it exciting," Rekha said. "We play, big-room hip-hop and a little bit of dancehall as well as bhangra, and the music has gotten a lot more intense. The drams are more pronounced; the production is much better. The music has come of age." Regular visitors include group of young South Asians who participate in intercollegiate bhangra competitions around the country.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBtdXNpYyB0cmF2ZWxlZCB0byBOZXcgWW9yayBhdCBzdWNoIHBhcnRpZXMgYXMgREogUmVraGEncyBCYXNlbWVudCBCaGFuZ3JhLiAiSXQncyB2ZXJ5IHVyYmFuLCB2ZXJ5IE5ldyBZb3JrLCBhbmQgdGhhdCdzIHdoYXQgbWFrZXMgaXQgZXhjaXRpbmcsIiBSZWtoYSBzYWlkLiAiV2UgcGxheSwgYmlnLXJvb20gaGlwLWhvcCBhbmQgYSBsaXR0bGUgYml0IG9mIGRhbmNlaGFsbCBhcyB3ZWxsIGFzIGJoYW5ncmEsIGFuZCB0aGUgbXVzaWMgaGFzIGdvdHRlbiBhIGxvdCBtb3JlIGludGVuc2UuIFRoZSBkcmFtcyBhcmUgbW9yZSBwcm9ub3VuY2VkOyB0aGUgcHJvZHVjdGlvbiBpcyBtdWNoIGJldHRlci4gVGhlIG11c2ljIGhhcyBjb21lIG9mIGFnZS4iIFJlZ3VsYXIgdmlzaXRvcnMgaW5jbHVkZSBncm91cCBvZiB5b3VuZyBTb3V0aCBBc2lhbnMgd2hvIHBhcnRpY2lwYXRlIGluIGludGVyY29sbGVnaWF0ZSBiaGFuZ3JhIGNvbXBldGl0aW9ucyBhcm91bmQgdGhlIGNvdW50cnkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">AR Rahman, who wrote the songs for Bombay Dreams, is one of the top modern filmi composers, but also one of the most Western-flavored. Through the decades, filmi have tossed together everything from electro to salsa to surf music to funk with vocals that hint at ancient Indian traditions, there's a <font id=24>daring shamelessness to the way they steal from and one-up their sources. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFSIFJhaG1hbiwgd2hvIHdyb3RlIHRoZSBzb25ncyBmb3IgQm9tYmF5IERyZWFtcywgaXMgb25lIG9mIHRoZSB0b3AgbW9kZXJuIGZpbG1pIGNvbXBvc2VycywgYnV0IGFsc28gb25lIG9mIHRoZSBtb3N0IFdlc3Rlcm4tZmxhdm9yZWQuIFRocm91Z2ggdGhlIGRlY2FkZXMsIGZpbG1pIGhhdmUgdG9zc2VkIHRvZ2V0aGVyIGV2ZXJ5dGhpbmcgZnJvbSBlbGVjdHJvIHRvIHNhbHNhIHRvIHN1cmYgbXVzaWMgdG8gZnVuayB3aXRoIHZvY2FscyB0aGF0IGhpbnQgYXQgYW5jaWVudCBJbmRpYW4gdHJhZGl0aW9ucywgdGhlcmUncyBhIDxmb250IGlkPTI0PmRhcmluZyBzaGFtZWxlc3NuZXNzIHRvIHRoZSB3YXkgdGhleSBzdGVhbCBmcm9tIGFuZCBvbmUtdXAgdGhlaXIgc291cmNlcy4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Iyer has collaborated with disc jockeys and Indian classical musicians as well as jazz improvisers. His own compositions and arrangements reach deep into both the labyrinthine harmonies of modern jazz and the rhythmic cycles of Indian music. Iyer grew up in Rochester, New York, surrounded by American culture as much as by the Indian music his parents had brought with them. "I went to hundreds of Indian music concerts," he said. "Without trying to pretend that I'm an expert on it, because that's something you have to devote your whole life to, it's a second language that something in my heart was really drawing me toward. It was really about trying to make sense of who I am. I'm not trying to recapitulate Indian music or pretend that I'm playing Indian music.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl5ZXIgaGFzIGNvbGxhYm9yYXRlZCB3aXRoIGRpc2Mgam9ja2V5cyBhbmQgSW5kaWFuIGNsYXNzaWNhbCBtdXNpY2lhbnMgYXMgd2VsbCBhcyBqYXp6IGltcHJvdmlzZXJzLiBIaXMgb3duIGNvbXBvc2l0aW9ucyBhbmQgYXJyYW5nZW1lbnRzIHJlYWNoIGRlZXAgaW50byBib3RoIHRoZSBsYWJ5cmludGhpbmUgaGFybW9uaWVzIG9mIG1vZGVybiBqYXp6IGFuZCB0aGUgcmh5dGhtaWMgY3ljbGVzIG9mIEluZGlhbiBtdXNpYy4gSXllciBncmV3IHVwIGluIFJvY2hlc3RlciwgTmV3IFlvcmssIHN1cnJvdW5kZWQgYnkgQW1lcmljYW4gY3VsdHVyZSBhcyBtdWNoIGFzIGJ5IHRoZSBJbmRpYW4gbXVzaWMgaGlzIHBhcmVudHMgaGFkIGJyb3VnaHQgd2l0aCB0aGVtLiAiSSB3ZW50IHRvIGh1bmRyZWRzIG9mIEluZGlhbiBtdXNpYyBjb25jZXJ0cywiIGhlIHNhaWQuICJXaXRob3V0IHRyeWluZyB0byBwcmV0ZW5kIHRoYXQgSSdtIGFuIGV4cGVydCBvbiBpdCwgYmVjYXVzZSB0aGF0J3Mgc29tZXRoaW5nIHlvdSBoYXZlIHRvIGRldm90ZSB5b3VyIHdob2xlIGxpZmUgdG8sIGl0J3MgYSBzZWNvbmQgbGFuZ3VhZ2UgdGhhdCBzb21ldGhpbmcgaW4gbXkgaGVhcnQgd2FzIHJlYWxseSBkcmF3aW5nIG1lIHRvd2FyZC4gSXQgd2FzIHJlYWxseSBhYm91dCB0cnlpbmcgdG8gbWFrZSBzZW5zZSBvZiB3aG8gSSBhbS4gSSdtIG5vdCB0cnlpbmcgdG8gcmVjYXBpdHVsYXRlIEluZGlhbiBtdXNpYyBvciBwcmV0ZW5kIHRoYXQgSSdtIHBsYXlpbmcgSW5kaWFuIG11c2ljLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"It's very trendy right now to be associated with all things South Asian," Iyer said. "I don't know how long that's going to last. But I can't escape it; this is what I am. And I'm going to be with this forever."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJdCdzIHZlcnkgdHJlbmR5IHJpZ2h0IG5vdyB0byBiZSBhc3NvY2lhdGVkIHdpdGggYWxsIHRoaW5ncyBTb3V0aCBBc2lhbiwiIEl5ZXIgc2FpZC4gIkkgZG9uJ3Qga25vdyBob3cgbG9uZyB0aGF0J3MgZ29pbmcgdG8gbGFzdC4gQnV0IEkgY2FuJ3QgZXNjYXBlIGl0OyB0aGlzIGlzIHdoYXQgSSBhbS4gQW5kIEknbSBnb2luZyB0byBiZSB3aXRoIHRoaXMgZm9yZXZlci4iPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">21. The passage devotes the LEAST attention to which of the following topics?
-<div class = "choice">A. The people making and promoting music influenced by South Asia</div>
-<div class = "choice">B. The growing influence of South Asian music on the American music scene</div>
-<div class = "choice">C. The plot of Bombay Dreams and how it makes use of song-and-dance numbers</div>
-<div class = "choice">D. The significance of the latest East-West musical hybrids for some South Asians and Asian Americans</div>
-</div>
-###################
-<div class = "quiz">22. Which of the following developments does the passage indicate occurred first chronologically?
-<div class = "choice">F. Bombay Dreams has its U.S. premiere.</div>
-<div class = "choice">G. London bands merge Indian elements with punk, reggae, and hip-hop.</div>
-<div class = "choice">H. Studio wizards develop the styles known as Asian Underground.</div>
-<div class = "choice">J. The Basement Bhangra party starts in New York.</div>
-</div>
-###################
-<div class = "quiz">23. In the passage, who most directly expresses the opinion that South Asian musical hybrids have matured musically?
-<div class = "choice">A. Iyer.</div>
-<div class = "choice">B. Rekha</div>
-<div class = "choice">C. Rahman</div>
-<div class = "choice">D. Iyer's parents</div>
-</div>
-###################
-<div class = "quiz">24. Viewed in the context of the passage, the words daring shamelessness, steal, and one-up (lines 66-67) are most likely intended by the author to convey a tone of:
-<div class = "choice">F. scorn.</div>
-<div class = "choice">G. alarm.</div>
-<div class = "choice">H. indifference.</div>
-<div class = "choice">J. appreciation.</div>
-</div>
-###################
-<div class = "quiz">25. Information about and quotations from Iyer in the passage best support the conclusion that he:
-<div class = "choice">A. emphasizes modern jazz harmonies over Indian rhythms in his compositions and arrangements.</div>
-<div class = "choice">B. considers himself an expert in Indian music after having attended hundreds of concerts where such music was played.</div>
-<div class = "choice">C. is just now starting to explore American culture after years of studying the Indian music of his parents.</div>
-<div class = "choice">D. finds Indian music personally and professionally rewarding though he doesn't feel he understands it fully.</div>
-</div>
-###################
-<div class = "quiz">26. The passage claims that collaborations between jazz and Indian musicians:
-<div class = "choice">F. began no later than the 1960s but may have occurred earlier as well.</div>
-<div class = "choice">G. started before the 1960s, the decade that saw the most collaborations.</div>
-<div class = "choice">H. ended in the 1960s when hip-hop began using Indian rhythms.</div>
-<div class = "choice">J. couldn't have started before the 1960s, the decade jazz was born.</div>
-</div>
-###################
-<div class = "quiz">27. In describing white-collar South Asians who immigrated to the United States in the 1960s, the author characterizes their chi!4ren's musical upbringing as generally being:
-<div class = "choice">A. shaped by a variety of Indian and Western musical forms.</div>
-<div class = "choice">B. focused primarily on classical traditions from India and the West.</div>
-<div class = "choice">C. directed mainly toward American musical styles, such as rock and jazz.</div>
-<div class = "choice">D. influenced first by Bollywood tunes, then later by classical music.</div>
-</div>
-###################
-<div class = "quiz">28. The quotation in lines 32-38 most strongly stresses the role of music making in:
-<div class = "choice">F. maintaining a hip image in the South Asian community.</div>
-<div class = "choice">G. bringing people together to promote change in the world.</div>
-<div class = "choice">H. uniting New Yorkers in a love of South Asian music.</div>
-<div class = "choice">J. improving the quality of entertainment throughout the world.</div>
-</div>
-###################
-<div class = "quiz">29. The passage states that the documentary, Mutiny deals with how:
-<div class = "choice">A. Indian and Pakistani communities first became established in London.</div>
-<div class = "choice">B. influential South Asian musical hybrids came to London from India and Pakistan.</div>
-<div class = "choice">C. established Indian and Pakistani ,communities in London used music to confront racism.</div>
-<div class = "choice">D. London's Indian and Pakistani residents came to appreciate the 4/4 bhangra beat.</div>
-</div>
-###################
-<div class = "quiz">30. The passage identifies Rahman as being both:
-<div class = "choice">F. hugely popular with audiences and greatly underrated by music critics.</div>
-<div class = "choice">G. highly successful as a filmi composer and strongly influenced by Western music.</div>
-<div class = "choice">H. interested in modern filmi and dedicated to preserving Indian musical traditions.</div>
-<div class = "choice">J. fond of electro and salsa and uncomfortable with surf music and funk.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIHBhc3NhZ2UgZGV2b3RlcyB0aGUgTEVBU1QgYXR0ZW50aW9uIHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdG9waWNzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBwZW9wbGUgbWFraW5nIGFuZCBwcm9tb3RpbmcgbXVzaWMgaW5mbHVlbmNlZCBieSBTb3V0aCBBc2lhPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBncm93aW5nIGluZmx1ZW5jZSBvZiBTb3V0aCBBc2lhbiBtdXNpYyBvbiB0aGUgQW1lcmljYW4gbXVzaWMgc2NlbmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBwbG90IG9mIEJvbWJheSBEcmVhbXMgYW5kIGhvdyBpdCBtYWtlcyB1c2Ugb2Ygc29uZy1hbmQtZGFuY2UgbnVtYmVyczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBzaWduaWZpY2FuY2Ugb2YgdGhlIGxhdGVzdCBFYXN0LVdlc3QgbXVzaWNhbCBoeWJyaWRzIGZvciBzb21lIFNvdXRoIEFzaWFucyBhbmQgQXNpYW4gQW1lcmljYW5zPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBkZXZlbG9wbWVudHMgZG9lcyB0aGUgcGFzc2FnZSBpbmRpY2F0ZSBvY2N1cnJlZCBmaXJzdCBjaHJvbm9sb2dpY2FsbHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEJvbWJheSBEcmVhbXMgaGFzIGl0cyBVLlMuIHByZW1pZXJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExvbmRvbiBiYW5kcyBtZXJnZSBJbmRpYW4gZWxlbWVudHMgd2l0aCBwdW5rLCByZWdnYWUsIGFuZCBoaXAtaG9wLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFN0dWRpbyB3aXphcmRzIGRldmVsb3AgdGhlIHN0eWxlcyBrbm93biBhcyBBc2lhbiBVbmRlcmdyb3VuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBCYXNlbWVudCBCaGFuZ3JhIHBhcnR5IHN0YXJ0cyBpbiBOZXcgWW9yay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSW4gdGhlIHBhc3NhZ2UsIHdobyBtb3N0IGRpcmVjdGx5IGV4cHJlc3NlcyB0aGUgb3BpbmlvbiB0aGF0IFNvdXRoIEFzaWFuIG11c2ljYWwgaHlicmlkcyBoYXZlIG1hdHVyZWQgbXVzaWNhbGx5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl5ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFJla2hhPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFJhaG1hbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl5ZXIncyBwYXJlbnRzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gVmlld2VkIGluIHRoZSBjb250ZXh0IG9mIHRoZSBwYXNzYWdlLCB0aGUgd29yZHMgZGFyaW5nIHNoYW1lbGVzc25lc3MsIHN0ZWFsLCBhbmQgb25lLXVwIChsaW5lcyA2Ni02NykgYXJlIG1vc3QgbGlrZWx5IGludGVuZGVkIGJ5IHRoZSBhdXRob3IgdG8gY29udmV5IGEgdG9uZSBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNjb3JuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFsYXJtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluZGlmZmVyZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFwcHJlY2lhdGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gSW5mb3JtYXRpb24gYWJvdXQgYW5kIHF1b3RhdGlvbnMgZnJvbSBJeWVyIGluIHRoZSBwYXNzYWdlIGJlc3Qgc3VwcG9ydCB0aGUgY29uY2x1c2lvbiB0aGF0IGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGVtcGhhc2l6ZXMgbW9kZXJuIGphenogaGFybW9uaWVzIG92ZXIgSW5kaWFuIHJoeXRobXMgaW4gaGlzIGNvbXBvc2l0aW9ucyBhbmQgYXJyYW5nZW1lbnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbnNpZGVycyBoaW1zZWxmIGFuIGV4cGVydCBpbiBJbmRpYW4gbXVzaWMgYWZ0ZXIgaGF2aW5nIGF0dGVuZGVkIGh1bmRyZWRzIG9mIGNvbmNlcnRzIHdoZXJlIHN1Y2ggbXVzaWMgd2FzIHBsYXllZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlzIGp1c3Qgbm93IHN0YXJ0aW5nIHRvIGV4cGxvcmUgQW1lcmljYW4gY3VsdHVyZSBhZnRlciB5ZWFycyBvZiBzdHVkeWluZyB0aGUgSW5kaWFuIG11c2ljIG9mIGhpcyBwYXJlbnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZpbmRzIEluZGlhbiBtdXNpYyBwZXJzb25hbGx5IGFuZCBwcm9mZXNzaW9uYWxseSByZXdhcmRpbmcgdGhvdWdoIGhlIGRvZXNuJ3QgZmVlbCBoZSB1bmRlcnN0YW5kcyBpdCBmdWxseS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gVGhlIHBhc3NhZ2UgY2xhaW1zIHRoYXQgY29sbGFib3JhdGlvbnMgYmV0d2VlbiBqYXp6IGFuZCBJbmRpYW4gbXVzaWNpYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJlZ2FuIG5vIGxhdGVyIHRoYW4gdGhlIDE5NjBzIGJ1dCBtYXkgaGF2ZSBvY2N1cnJlZCBlYXJsaWVyIGFzIHdlbGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0YXJ0ZWQgYmVmb3JlIHRoZSAxOTYwcywgdGhlIGRlY2FkZSB0aGF0IHNhdyB0aGUgbW9zdCBjb2xsYWJvcmF0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVuZGVkIGluIHRoZSAxOTYwcyB3aGVuIGhpcC1ob3AgYmVnYW4gdXNpbmcgSW5kaWFuIHJoeXRobXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvdWxkbid0IGhhdmUgc3RhcnRlZCBiZWZvcmUgdGhlIDE5NjBzLCB0aGUgZGVjYWRlIGphenogd2FzIGJvcm4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gSW4gZGVzY3JpYmluZyB3aGl0ZS1jb2xsYXIgU291dGggQXNpYW5zIHdobyBpbW1pZ3JhdGVkIHRvIHRoZSBVbml0ZWQgU3RhdGVzIGluIHRoZSAxOTYwcywgdGhlIGF1dGhvciBjaGFyYWN0ZXJpemVzIHRoZWlyIGNoaSE0cmVuJ3MgbXVzaWNhbCB1cGJyaW5naW5nIGFzIGdlbmVyYWxseSBiZWluZzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNoYXBlZCBieSBhIHZhcmlldHkgb2YgSW5kaWFuIGFuZCBXZXN0ZXJuIG11c2ljYWwgZm9ybXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZvY3VzZWQgcHJpbWFyaWx5IG9uIGNsYXNzaWNhbCB0cmFkaXRpb25zIGZyb20gSW5kaWEgYW5kIHRoZSBXZXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRpcmVjdGVkIG1haW5seSB0b3dhcmQgQW1lcmljYW4gbXVzaWNhbCBzdHlsZXMsIHN1Y2ggYXMgcm9jayBhbmQgamF6ei48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluZmx1ZW5jZWQgZmlyc3QgYnkgQm9sbHl3b29kIHR1bmVzLCB0aGVuIGxhdGVyIGJ5IGNsYXNzaWNhbCBtdXNpYy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gVGhlIHF1b3RhdGlvbiBpbiBsaW5lcyAzMi0zOCBtb3N0IHN0cm9uZ2x5IHN0cmVzc2VzIHRoZSByb2xlIG9mIG11c2ljIG1ha2luZyBpbjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1haW50YWluaW5nIGEgaGlwIGltYWdlIGluIHRoZSBTb3V0aCBBc2lhbiBjb21tdW5pdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJyaW5naW5nIHBlb3BsZSB0b2dldGhlciB0byBwcm9tb3RlIGNoYW5nZSBpbiB0aGUgd29ybGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVuaXRpbmcgTmV3IFlvcmtlcnMgaW4gYSBsb3ZlIG9mIFNvdXRoIEFzaWFuIG11c2ljLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcHJvdmluZyB0aGUgcXVhbGl0eSBvZiBlbnRlcnRhaW5tZW50IHRocm91Z2hvdXQgdGhlIHdvcmxkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgdGhlIGRvY3VtZW50YXJ5LCBNdXRpbnkgZGVhbHMgd2l0aCBob3c6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEluZGlhbiBhbmQgUGFraXN0YW5pIGNvbW11bml0aWVzIGZpcnN0IGJlY2FtZSBlc3RhYmxpc2hlZCBpbiBMb25kb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluZmx1ZW50aWFsIFNvdXRoIEFzaWFuIG11c2ljYWwgaHlicmlkcyBjYW1lIHRvIExvbmRvbiBmcm9tIEluZGlhIGFuZCBQYWtpc3Rhbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVzdGFibGlzaGVkIEluZGlhbiBhbmQgUGFraXN0YW5pICxjb21tdW5pdGllcyBpbiBMb25kb24gdXNlZCBtdXNpYyB0byBjb25mcm9udCByYWNpc20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIExvbmRvbidzIEluZGlhbiBhbmQgUGFraXN0YW5pIHJlc2lkZW50cyBjYW1lIHRvIGFwcHJlY2lhdGUgdGhlIDQvNCBiaGFuZ3JhIGJlYXQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gVGhlIHBhc3NhZ2UgaWRlbnRpZmllcyBSYWhtYW4gYXMgYmVpbmcgYm90aDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGh1Z2VseSBwb3B1bGFyIHdpdGggYXVkaWVuY2VzIGFuZCBncmVhdGx5IHVuZGVycmF0ZWQgYnkgbXVzaWMgY3JpdGljcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhpZ2hseSBzdWNjZXNzZnVsIGFzIGEgZmlsbWkgY29tcG9zZXIgYW5kIHN0cm9uZ2x5IGluZmx1ZW5jZWQgYnkgV2VzdGVybiBtdXNpYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGludGVyZXN0ZWQgaW4gbW9kZXJuIGZpbG1pIGFuZCBkZWRpY2F0ZWQgdG8gcHJlc2VydmluZyBJbmRpYW4gbXVzaWNhbCB0cmFkaXRpb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZvbmQgb2YgZWxlY3RybyBhbmQgc2Fsc2EgYW5kIHVuY29tZm9ydGFibGUgd2l0aCBzdXJmIG11c2ljIGFuZCBmdW5rLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

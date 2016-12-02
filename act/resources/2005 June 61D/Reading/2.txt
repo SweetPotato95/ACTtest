@@ -1,101 +1,101 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the book Thurgood Marshall: American Revolutionary by Juan Williams (○C 1998 by Juan Williams).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thurgood Marshall's lifework made him one of America's leading radicals. As a suit-and-tie lawyer, however, he was the unlikely leading actor in creating social change in the United States in the twentieth century. His great achievement was to expand rights for individual Americans. But he especially succeeded in creating new protections under law for America's women, children, prisoners, homeless, minorities, and immigrants. Their greater claim to full citizenship in the Republic over the last century can be directly traced to Marshall. Even the American press has Marshall to thank for an expansion of its liberties during the century.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBib29rIFRodXJnb29kIE1hcnNoYWxsOiBBbWVyaWNhbiBSZXZvbHV0aW9uYXJ5IGJ5IEp1YW4gV2lsbGlhbXMgKOKXi0MgMTk5OCBieSBKdWFuIFdpbGxpYW1zKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRodXJnb29kIE1hcnNoYWxsJ3MgbGlmZXdvcmsgbWFkZSBoaW0gb25lIG9mIEFtZXJpY2EncyBsZWFkaW5nIHJhZGljYWxzLiBBcyBhIHN1aXQtYW5kLXRpZSBsYXd5ZXIsIGhvd2V2ZXIsIGhlIHdhcyB0aGUgdW5saWtlbHkgbGVhZGluZyBhY3RvciBpbiBjcmVhdGluZyBzb2NpYWwgY2hhbmdlIGluIHRoZSBVbml0ZWQgU3RhdGVzIGluIHRoZSB0d2VudGlldGggY2VudHVyeS4gSGlzIGdyZWF0IGFjaGlldmVtZW50IHdhcyB0byBleHBhbmQgcmlnaHRzIGZvciBpbmRpdmlkdWFsIEFtZXJpY2Fucy4gQnV0IGhlIGVzcGVjaWFsbHkgc3VjY2VlZGVkIGluIGNyZWF0aW5nIG5ldyBwcm90ZWN0aW9ucyB1bmRlciBsYXcgZm9yIEFtZXJpY2EncyB3b21lbiwgY2hpbGRyZW4sIHByaXNvbmVycywgaG9tZWxlc3MsIG1pbm9yaXRpZXMsIGFuZCBpbW1pZ3JhbnRzLiBUaGVpciBncmVhdGVyIGNsYWltIHRvIGZ1bGwgY2l0aXplbnNoaXAgaW4gdGhlIFJlcHVibGljIG92ZXIgdGhlIGxhc3QgY2VudHVyeSBjYW4gYmUgZGlyZWN0bHkgdHJhY2VkIHRvIE1hcnNoYWxsLiBFdmVuIHRoZSBBbWVyaWNhbiBwcmVzcyBoYXMgTWFyc2hhbGwgdG8gdGhhbmsgZm9yIGFuIGV4cGFuc2lvbiBvZiBpdHMgbGliZXJ0aWVzIGR1cmluZyB0aGUgY2VudHVyeS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But for black Americans especially, Marshall stood as a <font id=13>colossus</font>. He guided a formerly enslaved people along the road to equal rights. Oddly, of the three leading black liberators of twentieth-century America－Thurgood Marshall, Martin Luther King, Jr., and Malcolm X－Marshall was the least well known. Dr. King gained fame as the inspiring advocate of nonviolence and mass protests. Malcolm X was the defiant black nationalist whose preachings about separatism and armed revolution were the other side of King's appeals for racial peace. But the third man in this black triumvirate stood as the one with the biggest impact on American race relations.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBmb3IgYmxhY2sgQW1lcmljYW5zIGVzcGVjaWFsbHksIE1hcnNoYWxsIHN0b29kIGFzIGEgPGZvbnQgaWQ9MTM+Y29sb3NzdXM8L2ZvbnQ+LiBIZSBndWlkZWQgYSBmb3JtZXJseSBlbnNsYXZlZCBwZW9wbGUgYWxvbmcgdGhlIHJvYWQgdG8gZXF1YWwgcmlnaHRzLiBPZGRseSwgb2YgdGhlIHRocmVlIGxlYWRpbmcgYmxhY2sgbGliZXJhdG9ycyBvZiB0d2VudGlldGgtY2VudHVyeSBBbWVyaWNh77yNVGh1cmdvb2QgTWFyc2hhbGwsIE1hcnRpbiBMdXRoZXIgS2luZywgSnIuLCBhbmQgTWFsY29sbSBY77yNTWFyc2hhbGwgd2FzIHRoZSBsZWFzdCB3ZWxsIGtub3duLiBEci4gS2luZyBnYWluZWQgZmFtZSBhcyB0aGUgaW5zcGlyaW5nIGFkdm9jYXRlIG9mIG5vbnZpb2xlbmNlIGFuZCBtYXNzIHByb3Rlc3RzLiBNYWxjb2xtIFggd2FzIHRoZSBkZWZpYW50IGJsYWNrIG5hdGlvbmFsaXN0IHdob3NlIHByZWFjaGluZ3MgYWJvdXQgc2VwYXJhdGlzbSBhbmQgYXJtZWQgcmV2b2x1dGlvbiB3ZXJlIHRoZSBvdGhlciBzaWRlIG9mIEtpbmcncyBhcHBlYWxzIGZvciByYWNpYWwgcGVhY2UuIEJ1dCB0aGUgdGhpcmQgbWFuIGluIHRoaXMgYmxhY2sgdHJpdW12aXJhdGUgc3Rvb2QgYXMgdGhlIG9uZSB3aXRoIHRoZSBiaWdnZXN0IGltcGFjdCBvbiBBbWVyaWNhbiByYWNlIHJlbGF0aW9ucy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was Marshall who ended legal segregation in the United States. He won Supreme Court victories breaking the color line in housing, transportation, and voting, all of which overturned the "separate-but-equal" apartheid of American life in the first half of the century.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBNYXJzaGFsbCB3aG8gZW5kZWQgbGVnYWwgc2VncmVnYXRpb24gaW4gdGhlIFVuaXRlZCBTdGF0ZXMuIEhlIHdvbiBTdXByZW1lIENvdXJ0IHZpY3RvcmllcyBicmVha2luZyB0aGUgY29sb3IgbGluZSBpbiBob3VzaW5nLCB0cmFuc3BvcnRhdGlvbiwgYW5kIHZvdGluZywgYWxsIG9mIHdoaWNoIG92ZXJ0dXJuZWQgdGhlICJzZXBhcmF0ZS1idXQtZXF1YWwiIGFwYXJ0aGVpZCBvZiBBbWVyaWNhbiBsaWZlIGluIHRoZSBmaXJzdCBoYWxmIG9mIHRoZSBjZW50dXJ5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was Marshall who won the most important legal case of the century, Brown v. Board of Education, ending the legal separation of black and white children in public schools. The success of the Brown case sparked the 1960s civil rights movement, led to the increased number of black high school and college graduates and the incredible rise of the black middle class in both numbers and political power in the second half of the century.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBNYXJzaGFsbCB3aG8gd29uIHRoZSBtb3N0IGltcG9ydGFudCBsZWdhbCBjYXNlIG9mIHRoZSBjZW50dXJ5LCBCcm93biB2LiBCb2FyZCBvZiBFZHVjYXRpb24sIGVuZGluZyB0aGUgbGVnYWwgc2VwYXJhdGlvbiBvZiBibGFjayBhbmQgd2hpdGUgY2hpbGRyZW4gaW4gcHVibGljIHNjaG9vbHMuIFRoZSBzdWNjZXNzIG9mIHRoZSBCcm93biBjYXNlIHNwYXJrZWQgdGhlIDE5NjBzIGNpdmlsIHJpZ2h0cyBtb3ZlbWVudCwgbGVkIHRvIHRoZSBpbmNyZWFzZWQgbnVtYmVyIG9mIGJsYWNrIGhpZ2ggc2Nob29sIGFuZCBjb2xsZWdlIGdyYWR1YXRlcyBhbmQgdGhlIGluY3JlZGlibGUgcmlzZSBvZiB0aGUgYmxhY2sgbWlkZGxlIGNsYXNzIGluIGJvdGggbnVtYmVycyBhbmQgcG9saXRpY2FsIHBvd2VyIGluIHRoZSBzZWNvbmQgaGFsZiBvZiB0aGUgY2VudHVyeS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=15>And it was Marshall, as the nation's first African-American Supreme Court justice, who promoted affirmative action－preferences, set-asides, and other race-conscious policies－as the remedy for the damage remaining from the nation's history of slavery and racial bias. Justice Marshall gave a clear signal that while legal discrimination had ended, there was more to be done to advance educational opportunity for blacks and to bridge the wide canyon of economic inequity between blacks and whites. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE1PkFuZCBpdCB3YXMgTWFyc2hhbGwsIGFzIHRoZSBuYXRpb24ncyBmaXJzdCBBZnJpY2FuLUFtZXJpY2FuIFN1cHJlbWUgQ291cnQganVzdGljZSwgd2hvIHByb21vdGVkIGFmZmlybWF0aXZlIGFjdGlvbu+8jXByZWZlcmVuY2VzLCBzZXQtYXNpZGVzLCBhbmQgb3RoZXIgcmFjZS1jb25zY2lvdXMgcG9saWNpZXPvvI1hcyB0aGUgcmVtZWR5IGZvciB0aGUgZGFtYWdlIHJlbWFpbmluZyBmcm9tIHRoZSBuYXRpb24ncyBoaXN0b3J5IG9mIHNsYXZlcnkgYW5kIHJhY2lhbCBiaWFzLiBKdXN0aWNlIE1hcnNoYWxsIGdhdmUgYSBjbGVhciBzaWduYWwgdGhhdCB3aGlsZSBsZWdhbCBkaXNjcmltaW5hdGlvbiBoYWQgZW5kZWQsIHRoZXJlIHdhcyBtb3JlIHRvIGJlIGRvbmUgdG8gYWR2YW5jZSBlZHVjYXRpb25hbCBvcHBvcnR1bml0eSBmb3IgYmxhY2tzIGFuZCB0byBicmlkZ2UgdGhlIHdpZGUgY2FueW9uIG9mIGVjb25vbWljIGluZXF1aXR5IGJldHdlZW4gYmxhY2tzIGFuZCB3aGl0ZXMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Marshall was busy in the nation's courtrooms, winning permanent changes in the rock-hard laws of segregation. He created a new legal landscape, where racial equality was an accepted principle. He worked in behalf of black Americans but built a structure of individual rights that became the cornerstone of protections for all Americans. Marshall's triumphs led black people to speak of him in biblical terms of salvation: "He brought us the Constitution as a document like Moses brought his people the Ten Commandments," the NAACP board member Juanita Jackson Mitchell once said.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hcnNoYWxsIHdhcyBidXN5IGluIHRoZSBuYXRpb24ncyBjb3VydHJvb21zLCB3aW5uaW5nIHBlcm1hbmVudCBjaGFuZ2VzIGluIHRoZSByb2NrLWhhcmQgbGF3cyBvZiBzZWdyZWdhdGlvbi4gSGUgY3JlYXRlZCBhIG5ldyBsZWdhbCBsYW5kc2NhcGUsIHdoZXJlIHJhY2lhbCBlcXVhbGl0eSB3YXMgYW4gYWNjZXB0ZWQgcHJpbmNpcGxlLiBIZSB3b3JrZWQgaW4gYmVoYWxmIG9mIGJsYWNrIEFtZXJpY2FucyBidXQgYnVpbHQgYSBzdHJ1Y3R1cmUgb2YgaW5kaXZpZHVhbCByaWdodHMgdGhhdCBiZWNhbWUgdGhlIGNvcm5lcnN0b25lIG9mIHByb3RlY3Rpb25zIGZvciBhbGwgQW1lcmljYW5zLiBNYXJzaGFsbCdzIHRyaXVtcGhzIGxlZCBibGFjayBwZW9wbGUgdG8gc3BlYWsgb2YgaGltIGluIGJpYmxpY2FsIHRlcm1zIG9mIHNhbHZhdGlvbjogIkhlIGJyb3VnaHQgdXMgdGhlIENvbnN0aXR1dGlvbiBhcyBhIGRvY3VtZW50IGxpa2UgTW9zZXMgYnJvdWdodCBoaXMgcGVvcGxlIHRoZSBUZW4gQ29tbWFuZG1lbnRzLCIgdGhlIE5BQUNQIGJvYXJkIG1lbWJlciBKdWFuaXRhIEphY2tzb24gTWl0Y2hlbGwgb25jZSBzYWlkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The key to Marshall's work was his conviction that integration－and only integration－would allow equal rights under the law to take hold. Once individual rights were accepted, in Marshall's mind, blacks and whites could rise or fall based on their own ability.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBrZXkgdG8gTWFyc2hhbGwncyB3b3JrIHdhcyBoaXMgY29udmljdGlvbiB0aGF0IGludGVncmF0aW9u77yNYW5kIG9ubHkgaW50ZWdyYXRpb27vvI13b3VsZCBhbGxvdyBlcXVhbCByaWdodHMgdW5kZXIgdGhlIGxhdyB0byB0YWtlIGhvbGQuIE9uY2UgaW5kaXZpZHVhbCByaWdodHMgd2VyZSBhY2NlcHRlZCwgaW4gTWFyc2hhbGwncyBtaW5kLCBibGFja3MgYW5kIHdoaXRlcyBjb3VsZCByaXNlIG9yIGZhbGwgYmFzZWQgb24gdGhlaXIgb3duIGFiaWxpdHkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Marshall's deep faith in the power of racial integration came out of a middle-class black perspective in turn-of-the-century Baltimore. He was the child of an activist black community that had established its own schools and fought for equal rights from the time of the Civil War. His own family, of an interracial background, had been at the forefront of demands by Baltimore blacks for equal treatment. Out of that unique family and city was born Thurgood Marshall, the architect of American race relations in the twentieth century.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hcnNoYWxsJ3MgZGVlcCBmYWl0aCBpbiB0aGUgcG93ZXIgb2YgcmFjaWFsIGludGVncmF0aW9uIGNhbWUgb3V0IG9mIGEgbWlkZGxlLWNsYXNzIGJsYWNrIHBlcnNwZWN0aXZlIGluIHR1cm4tb2YtdGhlLWNlbnR1cnkgQmFsdGltb3JlLiBIZSB3YXMgdGhlIGNoaWxkIG9mIGFuIGFjdGl2aXN0IGJsYWNrIGNvbW11bml0eSB0aGF0IGhhZCBlc3RhYmxpc2hlZCBpdHMgb3duIHNjaG9vbHMgYW5kIGZvdWdodCBmb3IgZXF1YWwgcmlnaHRzIGZyb20gdGhlIHRpbWUgb2YgdGhlIENpdmlsIFdhci4gSGlzIG93biBmYW1pbHksIG9mIGFuIGludGVycmFjaWFsIGJhY2tncm91bmQsIGhhZCBiZWVuIGF0IHRoZSBmb3JlZnJvbnQgb2YgZGVtYW5kcyBieSBCYWx0aW1vcmUgYmxhY2tzIGZvciBlcXVhbCB0cmVhdG1lbnQuIE91dCBvZiB0aGF0IHVuaXF1ZSBmYW1pbHkgYW5kIGNpdHkgd2FzIGJvcm4gVGh1cmdvb2QgTWFyc2hhbGwsIHRoZSBhcmNoaXRlY3Qgb2YgQW1lcmljYW4gcmFjZSByZWxhdGlvbnMgaW4gdGhlIHR3ZW50aWV0aCBjZW50dXJ5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thurgood Marshall lived to be eighty-four. He held high public office, but for those last thirty years of his life Marshall was reclusive, making few public appearances and rarely talking with reporters. The public knew him primarily as a distant figure whose voice was heard only in the legislative language of Supreme Court dissents. The combination of his reclu-siveness and his standing in popular culture as an elderly, establishment figure blinded much of the nation to the importance of his legacy. However, given that Marshall laid the foundation for today's racial landscape, his grand design of how race relations best work makes his life story essential for anyone delving into the subject.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRodXJnb29kIE1hcnNoYWxsIGxpdmVkIHRvIGJlIGVpZ2h0eS1mb3VyLiBIZSBoZWxkIGhpZ2ggcHVibGljIG9mZmljZSwgYnV0IGZvciB0aG9zZSBsYXN0IHRoaXJ0eSB5ZWFycyBvZiBoaXMgbGlmZSBNYXJzaGFsbCB3YXMgcmVjbHVzaXZlLCBtYWtpbmcgZmV3IHB1YmxpYyBhcHBlYXJhbmNlcyBhbmQgcmFyZWx5IHRhbGtpbmcgd2l0aCByZXBvcnRlcnMuIFRoZSBwdWJsaWMga25ldyBoaW0gcHJpbWFyaWx5IGFzIGEgZGlzdGFudCBmaWd1cmUgd2hvc2Ugdm9pY2Ugd2FzIGhlYXJkIG9ubHkgaW4gdGhlIGxlZ2lzbGF0aXZlIGxhbmd1YWdlIG9mIFN1cHJlbWUgQ291cnQgZGlzc2VudHMuIFRoZSBjb21iaW5hdGlvbiBvZiBoaXMgcmVjbHUtc2l2ZW5lc3MgYW5kIGhpcyBzdGFuZGluZyBpbiBwb3B1bGFyIGN1bHR1cmUgYXMgYW4gZWxkZXJseSwgZXN0YWJsaXNobWVudCBmaWd1cmUgYmxpbmRlZCBtdWNoIG9mIHRoZSBuYXRpb24gdG8gdGhlIGltcG9ydGFuY2Ugb2YgaGlzIGxlZ2FjeS4gSG93ZXZlciwgZ2l2ZW4gdGhhdCBNYXJzaGFsbCBsYWlkIHRoZSBmb3VuZGF0aW9uIGZvciB0b2RheSdzIHJhY2lhbCBsYW5kc2NhcGUsIGhpcyBncmFuZCBkZXNpZ24gb2YgaG93IHJhY2UgcmVsYXRpb25zIGJlc3Qgd29yayBtYWtlcyBoaXMgbGlmZSBzdG9yeSBlc3NlbnRpYWwgZm9yIGFueW9uZSBkZWx2aW5nIGludG8gdGhlIHN1YmplY3QuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. According to the passage, in his work to improve race relations, Marshall supported all of the following EXCEPT:
-<div class = "choice">A. affirmative action policies.</div>
-<div class = "choice">B. the legal process.</div>
-<div class = "choice">C. community activism.</div>
-<div class = "choice">D. creating new Supreme Court powers.</div>
-</div>
-###################
-<div class = "quiz">12. Based on the first paragraph, which of the following statements would the author make about the focus of Marshall's legal efforts?
-<div class = "choice">F. As a suit-and-tie lawyer, Marshall focused on those who had the greatest claim to citizenship.</div>
-<div class = "choice">G. Marshall was a radical who focused on the freedoms of the press in order to publicize his civil rights work.</div>
-<div class = "choice">H. Marshall worked to protect the individual rights of all Americans, focusing on those who had been denied full protection of the law.</div>
-<div class = "choice">J. Marshall's focus on social change created new rights for prisoners, children, and the homeless, who until then were not citizens of the Republic.</div>
-</div>
-###################
-<div class = "quiz">13. It can reasonably be inferred that the author refers to Marshall as a "colossus" (line 15) in order to illustrate that:
-<div class = "choice">A. within the African American community, Marshall's guidance was similar to that of Malcolm X and King.</div>
-<div class = "choice">B. by virtue of his work, Marshall was a monumental figure, especially to those in the African American community.</div>
-<div class = "choice">C. for Marshall to have won so many important legal cases, his lega training must have been colossal.</div>
-<div class = "choice">D. though Marshall's work has endured through time, it is little known to the general public.</div>
-</div>
-###################
-<div class = "quiz">14. The passage states that Marshall's legal victory in the landmark case Brown v. Board of Education paved the way for:
-<div class = "choice">F. the abrupt end of the civil rights-movement.</div>
-<div class = "choice">G. the significant rise of the African American middle class.</div>
-<div class = "choice">H. increased suits against other boards of education.</div>
-<div class = "choice">J. Marshall's triumphant retirement from the Supreme Court.</div>
-</div>
-###################
-<div class = "quiz">15. Which of the following most accurately states the main idea of the fifth paragraph (lines 42-51)?
-<div class = "choice">A. Marshall questioned the effectiveness of laws created to remedy damage done by the nation's history of racial inequity.</div>
-<div class = "choice">B. As the nation's first African American Supreme Court justice, Marshall signaled that legal discrimination had ended.</div>
-<div class = "choice">C. Marshall believed that there must be an ongoing commitment to providing increased educational and economic opportunity as well as legal equality for African Americans.</div>
-<div class = "choice">D. Marshall believed affirmative action and other race-conscious policies would not remedy the wide canyon of inequity found in the United States.</div>
-</div>
-###################
-<div class = "quiz">16. The passage indicates that all of the following elements contributed to Marshall's belief in racial integration EXCEPT:
-<div class = "choice">F. his family's middle-class status.</div>
-<div class = "choice">G. the interracial background of his family.</div>
-<div class = "choice">H. his exposure to an activist African American community.</div>
-<div class = "choice">J. the long time he was in public office.</div>
-</div>
-###################
-<div class = "quiz">17. It can reasonably be inferred from the last paragraph that Marshall's reclusive nature in his later years had which of the following effects?
-<div class = "choice">A. It undermined the validity of previous legal arguments he made before the Supreme Court.</div>
-<div class = "choice">B. It increased the nation's curiosity and his respected standing as a part of popular culture.</div>
-<div class = "choice">C. It heightened interest in his radical approach to race relations in the African American community.</div>
-<div class = "choice">D. It dimmed public understanding of the magnitude of his lifelong accomplishments.</div>
-</div>
-###################
-<div class = "quiz">18. According to the author, as the third man in the "black triumvirate," Marshall was:
-<div class = "choice">F. a supporter of both Malcolm X's separatist views and King's appeals for racial peace.</div>
-<div class = "choice">G. closer to the radical beliefs of Malcolm X than to King's.</div>
-<div class = "choice">H. the most famous of the twentieth-century "black liberators."</div>
-<div class = "choice">J. ultimately responsible for having the greatest impact on race relations.</div>
-</div>
-###################
-<div class = "quiz">19. According to the passage, Marshall believed that equal rights for all citizens could not be fully achieved without:
-<div class = "choice">A. a new legislative language.</div>
-<div class = "choice">B. nonviolent mass protests.</div>
-<div class = "choice">C. full racial integration.</div>
-<div class = "choice">D. race-neutral policies.</div>
-</div>
-###################
-<div class = "quiz">20. In the last paragraph, the author indicates that studying Marshall's lifework is essential to understanding which of the following?
-<div class = "choice">F. The development of race relations in the United States in the twentieth century</div>
-<div class = "choice">G. The roles of Malcolm X and King as African American liberators</div>
-<div class = "choice">H. The sophisticated legal definition of integration</div>
-<div class = "choice">J. The legislative language of the Supreme Court</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBpbiBoaXMgd29yayB0byBpbXByb3ZlIHJhY2UgcmVsYXRpb25zLCBNYXJzaGFsbCBzdXBwb3J0ZWQgYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFmZmlybWF0aXZlIGFjdGlvbiBwb2xpY2llcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBsZWdhbCBwcm9jZXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbW11bml0eSBhY3RpdmlzbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNyZWF0aW5nIG5ldyBTdXByZW1lIENvdXJ0IHBvd2Vycy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQmFzZWQgb24gdGhlIGZpcnN0IHBhcmFncmFwaCwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIHdvdWxkIHRoZSBhdXRob3IgbWFrZSBhYm91dCB0aGUgZm9jdXMgb2YgTWFyc2hhbGwncyBsZWdhbCBlZmZvcnRzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEFzIGEgc3VpdC1hbmQtdGllIGxhd3llciwgTWFyc2hhbGwgZm9jdXNlZCBvbiB0aG9zZSB3aG8gaGFkIHRoZSBncmVhdGVzdCBjbGFpbSB0byBjaXRpemVuc2hpcC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1hcnNoYWxsIHdhcyBhIHJhZGljYWwgd2hvIGZvY3VzZWQgb24gdGhlIGZyZWVkb21zIG9mIHRoZSBwcmVzcyBpbiBvcmRlciB0byBwdWJsaWNpemUgaGlzIGNpdmlsIHJpZ2h0cyB3b3JrLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1hcnNoYWxsIHdvcmtlZCB0byBwcm90ZWN0IHRoZSBpbmRpdmlkdWFsIHJpZ2h0cyBvZiBhbGwgQW1lcmljYW5zLCBmb2N1c2luZyBvbiB0aG9zZSB3aG8gaGFkIGJlZW4gZGVuaWVkIGZ1bGwgcHJvdGVjdGlvbiBvZiB0aGUgbGF3LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1hcnNoYWxsJ3MgZm9jdXMgb24gc29jaWFsIGNoYW5nZSBjcmVhdGVkIG5ldyByaWdodHMgZm9yIHByaXNvbmVycywgY2hpbGRyZW4sIGFuZCB0aGUgaG9tZWxlc3MsIHdobyB1bnRpbCB0aGVuIHdlcmUgbm90IGNpdGl6ZW5zIG9mIHRoZSBSZXB1YmxpYy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgYXV0aG9yIHJlZmVycyB0byBNYXJzaGFsbCBhcyBhICJjb2xvc3N1cyIgKGxpbmUgMTUpIGluIG9yZGVyIHRvIGlsbHVzdHJhdGUgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdpdGhpbiB0aGUgQWZyaWNhbiBBbWVyaWNhbiBjb21tdW5pdHksIE1hcnNoYWxsJ3MgZ3VpZGFuY2Ugd2FzIHNpbWlsYXIgdG8gdGhhdCBvZiBNYWxjb2xtIFggYW5kIEtpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJ5IHZpcnR1ZSBvZiBoaXMgd29yaywgTWFyc2hhbGwgd2FzIGEgbW9udW1lbnRhbCBmaWd1cmUsIGVzcGVjaWFsbHkgdG8gdGhvc2UgaW4gdGhlIEFmcmljYW4gQW1lcmljYW4gY29tbXVuaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZvciBNYXJzaGFsbCB0byBoYXZlIHdvbiBzbyBtYW55IGltcG9ydGFudCBsZWdhbCBjYXNlcywgaGlzIGxlZ2EgdHJhaW5pbmcgbXVzdCBoYXZlIGJlZW4gY29sb3NzYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRob3VnaCBNYXJzaGFsbCdzIHdvcmsgaGFzIGVuZHVyZWQgdGhyb3VnaCB0aW1lLCBpdCBpcyBsaXR0bGUga25vd24gdG8gdGhlIGdlbmVyYWwgcHVibGljLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgTWFyc2hhbGwncyBsZWdhbCB2aWN0b3J5IGluIHRoZSBsYW5kbWFyayBjYXNlIEJyb3duIHYuIEJvYXJkIG9mIEVkdWNhdGlvbiBwYXZlZCB0aGUgd2F5IGZvcjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBhYnJ1cHQgZW5kIG9mIHRoZSBjaXZpbCByaWdodHMtbW92ZW1lbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBzaWduaWZpY2FudCByaXNlIG9mIHRoZSBBZnJpY2FuIEFtZXJpY2FuIG1pZGRsZSBjbGFzcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlZCBzdWl0cyBhZ2FpbnN0IG90aGVyIGJvYXJkcyBvZiBlZHVjYXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1hcnNoYWxsJ3MgdHJpdW1waGFudCByZXRpcmVtZW50IGZyb20gdGhlIFN1cHJlbWUgQ291cnQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBtb3N0IGFjY3VyYXRlbHkgc3RhdGVzIHRoZSBtYWluIGlkZWEgb2YgdGhlIGZpZnRoIHBhcmFncmFwaCAobGluZXMgNDItNTEpPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE1hcnNoYWxsIHF1ZXN0aW9uZWQgdGhlIGVmZmVjdGl2ZW5lc3Mgb2YgbGF3cyBjcmVhdGVkIHRvIHJlbWVkeSBkYW1hZ2UgZG9uZSBieSB0aGUgbmF0aW9uJ3MgaGlzdG9yeSBvZiByYWNpYWwgaW5lcXVpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFzIHRoZSBuYXRpb24ncyBmaXJzdCBBZnJpY2FuIEFtZXJpY2FuIFN1cHJlbWUgQ291cnQganVzdGljZSwgTWFyc2hhbGwgc2lnbmFsZWQgdGhhdCBsZWdhbCBkaXNjcmltaW5hdGlvbiBoYWQgZW5kZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE1hcnNoYWxsIGJlbGlldmVkIHRoYXQgdGhlcmUgbXVzdCBiZSBhbiBvbmdvaW5nIGNvbW1pdG1lbnQgdG8gcHJvdmlkaW5nIGluY3JlYXNlZCBlZHVjYXRpb25hbCBhbmQgZWNvbm9taWMgb3Bwb3J0dW5pdHkgYXMgd2VsbCBhcyBsZWdhbCBlcXVhbGl0eSBmb3IgQWZyaWNhbiBBbWVyaWNhbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE1hcnNoYWxsIGJlbGlldmVkIGFmZmlybWF0aXZlIGFjdGlvbiBhbmQgb3RoZXIgcmFjZS1jb25zY2lvdXMgcG9saWNpZXMgd291bGQgbm90IHJlbWVkeSB0aGUgd2lkZSBjYW55b24gb2YgaW5lcXVpdHkgZm91bmQgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgYWxsIG9mIHRoZSBmb2xsb3dpbmcgZWxlbWVudHMgY29udHJpYnV0ZWQgdG8gTWFyc2hhbGwncyBiZWxpZWYgaW4gcmFjaWFsIGludGVncmF0aW9uIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhpcyBmYW1pbHkncyBtaWRkbGUtY2xhc3Mgc3RhdHVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBpbnRlcnJhY2lhbCBiYWNrZ3JvdW5kIG9mIGhpcyBmYW1pbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhpcyBleHBvc3VyZSB0byBhbiBhY3RpdmlzdCBBZnJpY2FuIEFtZXJpY2FuIGNvbW11bml0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBsb25nIHRpbWUgaGUgd2FzIGluIHB1YmxpYyBvZmZpY2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgbGFzdCBwYXJhZ3JhcGggdGhhdCBNYXJzaGFsbCdzIHJlY2x1c2l2ZSBuYXR1cmUgaW4gaGlzIGxhdGVyIHllYXJzIGhhZCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGVmZmVjdHM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IHVuZGVybWluZWQgdGhlIHZhbGlkaXR5IG9mIHByZXZpb3VzIGxlZ2FsIGFyZ3VtZW50cyBoZSBtYWRlIGJlZm9yZSB0aGUgU3VwcmVtZSBDb3VydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGluY3JlYXNlZCB0aGUgbmF0aW9uJ3MgY3VyaW9zaXR5IGFuZCBoaXMgcmVzcGVjdGVkIHN0YW5kaW5nIGFzIGEgcGFydCBvZiBwb3B1bGFyIGN1bHR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IGhlaWdodGVuZWQgaW50ZXJlc3QgaW4gaGlzIHJhZGljYWwgYXBwcm9hY2ggdG8gcmFjZSByZWxhdGlvbnMgaW4gdGhlIEFmcmljYW4gQW1lcmljYW4gY29tbXVuaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGRpbW1lZCBwdWJsaWMgdW5kZXJzdGFuZGluZyBvZiB0aGUgbWFnbml0dWRlIG9mIGhpcyBsaWZlbG9uZyBhY2NvbXBsaXNobWVudHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQWNjb3JkaW5nIHRvIHRoZSBhdXRob3IsIGFzIHRoZSB0aGlyZCBtYW4gaW4gdGhlICJibGFjayB0cml1bXZpcmF0ZSwiIE1hcnNoYWxsIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgc3VwcG9ydGVyIG9mIGJvdGggTWFsY29sbSBYJ3Mgc2VwYXJhdGlzdCB2aWV3cyBhbmQgS2luZydzIGFwcGVhbHMgZm9yIHJhY2lhbCBwZWFjZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNsb3NlciB0byB0aGUgcmFkaWNhbCBiZWxpZWZzIG9mIE1hbGNvbG0gWCB0aGFuIHRvIEtpbmcncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBtb3N0IGZhbW91cyBvZiB0aGUgdHdlbnRpZXRoLWNlbnR1cnkgImJsYWNrIGxpYmVyYXRvcnMuIjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHVsdGltYXRlbHkgcmVzcG9uc2libGUgZm9yIGhhdmluZyB0aGUgZ3JlYXRlc3QgaW1wYWN0IG9uIHJhY2UgcmVsYXRpb25zLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBNYXJzaGFsbCBiZWxpZXZlZCB0aGF0IGVxdWFsIHJpZ2h0cyBmb3IgYWxsIGNpdGl6ZW5zIGNvdWxkIG5vdCBiZSBmdWxseSBhY2hpZXZlZCB3aXRob3V0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgbmV3IGxlZ2lzbGF0aXZlIGxhbmd1YWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG5vbnZpb2xlbnQgbWFzcyBwcm90ZXN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZ1bGwgcmFjaWFsIGludGVncmF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJhY2UtbmV1dHJhbCBwb2xpY2llcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gSW4gdGhlIGxhc3QgcGFyYWdyYXBoLCB0aGUgYXV0aG9yIGluZGljYXRlcyB0aGF0IHN0dWR5aW5nIE1hcnNoYWxsJ3MgbGlmZXdvcmsgaXMgZXNzZW50aWFsIHRvIHVuZGVyc3RhbmRpbmcgd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBkZXZlbG9wbWVudCBvZiByYWNlIHJlbGF0aW9ucyBpbiB0aGUgVW5pdGVkIFN0YXRlcyBpbiB0aGUgdHdlbnRpZXRoIGNlbnR1cnk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSByb2xlcyBvZiBNYWxjb2xtIFggYW5kIEtpbmcgYXMgQWZyaWNhbiBBbWVyaWNhbiBsaWJlcmF0b3JzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBzb3BoaXN0aWNhdGVkIGxlZ2FsIGRlZmluaXRpb24gb2YgaW50ZWdyYXRpb248L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBsZWdpc2xhdGl2ZSBsYW5ndWFnZSBvZiB0aGUgU3VwcmVtZSBDb3VydDwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

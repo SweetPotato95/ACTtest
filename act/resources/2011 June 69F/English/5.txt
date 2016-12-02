@@ -1,134 +1,134 @@
-<h1>Coloring the Past.</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+PGgxPkNvbG9yaW5nIHRoZSBQYXN0LjwvaDE+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsxXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When we were children, my older brother and I spent many afternoons coloring at the kitchen table. <font id=61>61</font> I would hold up a carnation pink or a line green crayon, <font id=62>cover the worn label with my thumb, and asking</font> my brother what color I was holding. I was always <font id=63>surprised</font> time after time, he could not tell the difference between a pink crayon and a green one. The reason for this was that he is color-blind.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gd2Ugd2VyZSBjaGlsZHJlbiwgbXkgb2xkZXIgYnJvdGhlciBhbmQgSSBzcGVudCBtYW55IGFmdGVybm9vbnMgY29sb3JpbmcgYXQgdGhlIGtpdGNoZW4gdGFibGUuIDxmb250IGlkPTYxPjYxPC9mb250PiBJIHdvdWxkIGhvbGQgdXAgYSBjYXJuYXRpb24gcGluayBvciBhIGxpbmUgZ3JlZW4gY3JheW9uLCA8Zm9udCBpZD02Mj5jb3ZlciB0aGUgd29ybiBsYWJlbCB3aXRoIG15IHRodW1iLCBhbmQgYXNraW5nPC9mb250PiBteSBicm90aGVyIHdoYXQgY29sb3IgSSB3YXMgaG9sZGluZy4gSSB3YXMgYWx3YXlzIDxmb250IGlkPTYzPnN1cnByaXNlZDwvZm9udD4gdGltZSBhZnRlciB0aW1lLCBoZSBjb3VsZCBub3QgdGVsbCB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgcGluayBjcmF5b24gYW5kIGEgZ3JlZW4gb25lLiBUaGUgcmVhc29uIGZvciB0aGlzIHdhcyB0aGF0IGhlIGlzIGNvbG9yLWJsaW5kLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsyXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=65> [1] This is rarely the case. [2] "Color-blind" is a bit of a misnomer, as it implies that people with color blindness cannot see any colors. [3] The human eye contains rod cells, which allow us to see black and white and perceive gradations of lightness, and cone cells, which allow us to see color. [4] Almost all instances of color blindness involve only the <font id=64>eye's reception</font> of red and green. [5] Most people with color blindness cannot differentiate between red and green, but others just see these colors differently than people without color blindness. </font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTY1PiBbMV0gVGhpcyBpcyByYXJlbHkgdGhlIGNhc2UuIFsyXSAiQ29sb3ItYmxpbmQiIGlzIGEgYml0IG9mIGEgbWlzbm9tZXIsIGFzIGl0IGltcGxpZXMgdGhhdCBwZW9wbGUgd2l0aCBjb2xvciBibGluZG5lc3MgY2Fubm90IHNlZSBhbnkgY29sb3JzLiBbM10gVGhlIGh1bWFuIGV5ZSBjb250YWlucyByb2QgY2VsbHMsIHdoaWNoIGFsbG93IHVzIHRvIHNlZSBibGFjayBhbmQgd2hpdGUgYW5kIHBlcmNlaXZlIGdyYWRhdGlvbnMgb2YgbGlnaHRuZXNzLCBhbmQgY29uZSBjZWxscywgd2hpY2ggYWxsb3cgdXMgdG8gc2VlIGNvbG9yLiBbNF0gQWxtb3N0IGFsbCBpbnN0YW5jZXMgb2YgY29sb3IgYmxpbmRuZXNzIGludm9sdmUgb25seSB0aGUgPGZvbnQgaWQ9NjQ+ZXllJ3MgcmVjZXB0aW9uPC9mb250PiBvZiByZWQgYW5kIGdyZWVuLiBbNV0gTW9zdCBwZW9wbGUgd2l0aCBjb2xvciBibGluZG5lc3MgY2Fubm90IGRpZmZlcmVudGlhdGUgYmV0d2VlbiByZWQgYW5kIGdyZWVuLCBidXQgb3RoZXJzIGp1c3Qgc2VlIHRoZXNlIGNvbG9ycyBkaWZmZXJlbnRseSB0aGFuIHBlb3BsZSB3aXRob3V0IGNvbG9yIGJsaW5kbmVzcy4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlszXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Seven percent of American males are color-blind, while only 0.4 percent of American females <font id=66>are. </font> This <font id=67>conversion</font> supports the idea that the gene far color blindness is carried on the X <font id=68>chromosome, </font> men have only one X chromosome (in addition to one Y chromosome). [A] Women have two X chromosomes, <font id=69>so</font> a deficiency in <font id=70>it</font> can be compensated for by the other.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNldmVuIHBlcmNlbnQgb2YgQW1lcmljYW4gbWFsZXMgYXJlIGNvbG9yLWJsaW5kLCB3aGlsZSBvbmx5IDAuNCBwZXJjZW50IG9mIEFtZXJpY2FuIGZlbWFsZXMgPGZvbnQgaWQ9NjY+YXJlLiA8L2ZvbnQ+IFRoaXMgPGZvbnQgaWQ9Njc+Y29udmVyc2lvbjwvZm9udD4gc3VwcG9ydHMgdGhlIGlkZWEgdGhhdCB0aGUgZ2VuZSBmYXIgY29sb3IgYmxpbmRuZXNzIGlzIGNhcnJpZWQgb24gdGhlIFggPGZvbnQgaWQ9Njg+Y2hyb21vc29tZSwgPC9mb250PiBtZW4gaGF2ZSBvbmx5IG9uZSBYIGNocm9tb3NvbWUgKGluIGFkZGl0aW9uIHRvIG9uZSBZIGNocm9tb3NvbWUpLiBbQV0gV29tZW4gaGF2ZSB0d28gWCBjaHJvbW9zb21lcywgPGZvbnQgaWQ9Njk+c288L2ZvbnQ+IGEgZGVmaWNpZW5jeSBpbiA8Zm9udCBpZD03MD5pdDwvZm9udD4gY2FuIGJlIGNvbXBlbnNhdGVkIGZvciBieSB0aGUgb3RoZXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls0XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My brother can easily distinguish pure reds from pure greens <font id=71>without any difficulty. </font> [B] However, the farther these colors are from "pure" (such as carnation pink or lime green), the more difficult it is for him to tell the difference.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IGJyb3RoZXIgY2FuIGVhc2lseSBkaXN0aW5ndWlzaCBwdXJlIHJlZHMgZnJvbSBwdXJlIGdyZWVucyA8Zm9udCBpZD03MT53aXRob3V0IGFueSBkaWZmaWN1bHR5LiA8L2ZvbnQ+IFtCXSBIb3dldmVyLCB0aGUgZmFydGhlciB0aGVzZSBjb2xvcnMgYXJlIGZyb20gInB1cmUiIChzdWNoIGFzIGNhcm5hdGlvbiBwaW5rIG9yIGxpbWUgZ3JlZW4pLCB0aGUgbW9yZSBkaWZmaWN1bHQgaXQgaXMgZm9yIGhpbSB0byB0ZWxsIHRoZSBkaWZmZXJlbmNlLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5]</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls1XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It has been years since I bothered my brother with a crayon-color guessing game, but I am still intrigued by how he perceives color. [C] He <font id=72>has became</font> a successful <font id=73>painter specializing in, landscapes of exotic places</font> rendered in vivid colors. [D] He swirls bright color over canvas, transforming pats of apple red, lemon yellow, and robin's egg blue paint into dazzling and vibrant bills, beaches, and mountains, <font id=74>like visions out of fantastic dreams. </font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IGhhcyBiZWVuIHllYXJzIHNpbmNlIEkgYm90aGVyZWQgbXkgYnJvdGhlciB3aXRoIGEgY3JheW9uLWNvbG9yIGd1ZXNzaW5nIGdhbWUsIGJ1dCBJIGFtIHN0aWxsIGludHJpZ3VlZCBieSBob3cgaGUgcGVyY2VpdmVzIGNvbG9yLiBbQ10gSGUgPGZvbnQgaWQ9NzI+aGFzIGJlY2FtZTwvZm9udD4gYSBzdWNjZXNzZnVsIDxmb250IGlkPTczPnBhaW50ZXIgc3BlY2lhbGl6aW5nIGluLCBsYW5kc2NhcGVzIG9mIGV4b3RpYyBwbGFjZXM8L2ZvbnQ+IHJlbmRlcmVkIGluIHZpdmlkIGNvbG9ycy4gW0RdIEhlIHN3aXJscyBicmlnaHQgY29sb3Igb3ZlciBjYW52YXMsIHRyYW5zZm9ybWluZyBwYXRzIG9mIGFwcGxlIHJlZCwgbGVtb24geWVsbG93LCBhbmQgcm9iaW4ncyBlZ2cgYmx1ZSBwYWludCBpbnRvIGRhenpsaW5nIGFuZCB2aWJyYW50IGJpbGxzLCBiZWFjaGVzLCBhbmQgbW91bnRhaW5zLCA8Zm9udCBpZD03ND5saWtlIHZpc2lvbnMgb3V0IG9mIGZhbnRhc3RpYyBkcmVhbXMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">61. The writer wishes to add a sentence here that will clearly lead the reader into the anecdote and information to follow in this paragraph. Which of the following would best accomplish this purpose?
-<div class = "choice">A. As we colored, I liked to play a game that he didn't always enjoy.</div>
-<div class = "choice">B. We could spend hours coloring when we were young.</div>
-<div class = "choice">C. I was still learning how to color, but my brother was good at it.</div>
-<div class = "choice">D. We would talk while we colored, and often we would draw something together.</div>
-</div>
-###################
-<div class = "quiz">62.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. covering the worn label with my thumb, and ask</div>
-<div class = "choice">H. and covering the worn label with my thumb, then asking</div>
-<div class = "choice">J. covering the worn label with my thumb, ask</div>
-</div>
-###################
-<div class = "quiz">63.
-<div class = "choice">A. NO CEANGE</div>
-<div class = "choice">B. surprised,</div>
-<div class = "choice">C. surprised and</div>
-<div class = "choice">D. surprised when,</div>
-</div>
-###################
-<div class = "quiz">64.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. eye's recepting</div>
-<div class = "choice">H. eyes reception</div>
-<div class = "choice">J. eyes' recepting</div>
-</div>
-###################
-<div class = "quiz">65. For the sake of the logic and coherence of this paragraph, Sentence 1 should be placed:
-<div class = "choice">A. where it is now.</div>
-<div class = "choice">B. after Sentence 2.</div>
-<div class = "choice">C. after Sentence 3.</div>
-<div class = "choice">D. after Sentence 4.</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE.</div>
-<div class = "choice">G. have the genetic condition that is commonly known as color blindness.</div>
-<div class = "choice">H. either cannot differentiate between red and green or see these colors in an unusual way.</div>
-<div class = "choice">J. DELETE the underlined portion (ending the sentence with a period).</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. change</div>
-<div class = "choice">C. conflict</div>
-<div class = "choice">D. contrast</div>
-</div>
-###################
-<div class = "quiz">68.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. chromosome since,</div>
-<div class = "choice">H. chromosome:</div>
-<div class = "choice">J. chromosome</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. also</div>
-<div class = "choice">C. likewise</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">70.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. that</div>
-<div class = "choice">H. them</div>
-<div class = "choice">J. one</div>
-</div>
-###################
-<div class = "quiz">71.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. as long as the colors are pure.</div>
-<div class = "choice">C. and could almost always tell you whether something is pure red or pure green.</div>
-<div class = "choice">D. DELETE the underlined portion (ending the sentence with a period).</div>
-</div>
-###################
-<div class = "quiz">72.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. has become</div>
-<div class = "choice">H. would became</div>
-<div class = "choice">J. will have become</div>
-</div>
-###################
-<div class = "quiz">73.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. painter specializing in landscapes of exotic places</div>
-<div class = "choice">C. painter, specializing in, landscapes of exotic places</div>
-<div class = "choice">D. painter specializing in landscapes, of exotic places,</div>
-</div>
-###################
-<div class = "quiz">74. The writer wishes to emphasize that as a result of the way the painter sees and uses color, his landscapes have a unique visual quality. Which choice best accomplishes this purpose?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. since he prefers to paint landscapes.</div>
-<div class = "choice">H. as if he were creating true works of art.</div>
-<div class = "choice">J. with brushstrokes that seem to come effortlessly.</div>
-</div>
-###################
-<div class = "quiz">75. Upon reviewing the essay and deciding that some information has been left out, the writer composes the following sentence incorporating that information:
-He rarely chooses to use grays, browns, or any other muted tones, opting instead for hues that are closer to pure:
-If the writer were to add this sentence to the essay, the sentence would most logically be placed at Point: Question 75 asks about the preceding passage as a whole.
-<div class = "choice">A. A in Paragraph 3.</div>
-<div class = "choice">B. B in Paragraph 4.</div>
-<div class = "choice">C. C in Paragraph 5.</div>
-<div class = "choice">D. D in Paragraph 5.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4gVGhlIHdyaXRlciB3aXNoZXMgdG8gYWRkIGEgc2VudGVuY2UgaGVyZSB0aGF0IHdpbGwgY2xlYXJseSBsZWFkIHRoZSByZWFkZXIgaW50byB0aGUgYW5lY2RvdGUgYW5kIGluZm9ybWF0aW9uIHRvIGZvbGxvdyBpbiB0aGlzIHBhcmFncmFwaC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyB3b3VsZCBiZXN0IGFjY29tcGxpc2ggdGhpcyBwdXJwb3NlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFzIHdlIGNvbG9yZWQsIEkgbGlrZWQgdG8gcGxheSBhIGdhbWUgdGhhdCBoZSBkaWRuJ3QgYWx3YXlzIGVuam95LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFdlIGNvdWxkIHNwZW5kIGhvdXJzIGNvbG9yaW5nIHdoZW4gd2Ugd2VyZSB5b3VuZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEkgd2FzIHN0aWxsIGxlYXJuaW5nIGhvdyB0byBjb2xvciwgYnV0IG15IGJyb3RoZXIgd2FzIGdvb2QgYXQgaXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFdlIHdvdWxkIHRhbGsgd2hpbGUgd2UgY29sb3JlZCwgYW5kIG9mdGVuIHdlIHdvdWxkIGRyYXcgc29tZXRoaW5nIHRvZ2V0aGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvdmVyaW5nIHRoZSB3b3JuIGxhYmVsIHdpdGggbXkgdGh1bWIsIGFuZCBhc2s8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuZCBjb3ZlcmluZyB0aGUgd29ybiBsYWJlbCB3aXRoIG15IHRodW1iLCB0aGVuIGFza2luZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvdmVyaW5nIHRoZSB3b3JuIGxhYmVsIHdpdGggbXkgdGh1bWIsIGFzazwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENFQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHN1cnByaXNlZCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1cnByaXNlZCBhbmQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHN1cnByaXNlZCB3aGVuLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV5ZSdzIHJlY2VwdGluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGV5ZXMgcmVjZXB0aW9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV5ZXMnIHJlY2VwdGluZzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4gRm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBhbmQgY29oZXJlbmNlIG9mIHRoaXMgcGFyYWdyYXBoLCBTZW50ZW5jZSAxIHNob3VsZCBiZSBwbGFjZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFmdGVyIFNlbnRlbmNlIDIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFmdGVyIFNlbnRlbmNlIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFmdGVyIFNlbnRlbmNlIDQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhdmUgdGhlIGdlbmV0aWMgY29uZGl0aW9uIHRoYXQgaXMgY29tbW9ubHkga25vd24gYXMgY29sb3IgYmxpbmRuZXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVpdGhlciBjYW5ub3QgZGlmZmVyZW50aWF0ZSBiZXR3ZWVuIHJlZCBhbmQgZ3JlZW4gb3Igc2VlIHRoZXNlIGNvbG9ycyBpbiBhbiB1bnVzdWFsIHdheS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIChlbmRpbmcgdGhlIHNlbnRlbmNlIHdpdGggYSBwZXJpb2QpLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNoYW5nZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbmZsaWN0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvbnRyYXN0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNocm9tb3NvbWUgc2luY2UsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNocm9tb3NvbWU6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNocm9tb3NvbWU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFsc288L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxpa2V3aXNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZW08L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG9uZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFzIGxvbmcgYXMgdGhlIGNvbG9ycyBhcmUgcHVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuZCBjb3VsZCBhbG1vc3QgYWx3YXlzIHRlbGwgeW91IHdoZXRoZXIgc29tZXRoaW5nIGlzIHB1cmUgcmVkIG9yIHB1cmUgZ3JlZW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIChlbmRpbmcgdGhlIHNlbnRlbmNlIHdpdGggYSBwZXJpb2QpLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhcyBiZWNvbWU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvdWxkIGJlY2FtZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdpbGwgaGF2ZSBiZWNvbWU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBhaW50ZXIgc3BlY2lhbGl6aW5nIGluIGxhbmRzY2FwZXMgb2YgZXhvdGljIHBsYWNlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBhaW50ZXIsIHNwZWNpYWxpemluZyBpbiwgbGFuZHNjYXBlcyBvZiBleG90aWMgcGxhY2VzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBhaW50ZXIgc3BlY2lhbGl6aW5nIGluIGxhbmRzY2FwZXMsIG9mIGV4b3RpYyBwbGFjZXMsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4gVGhlIHdyaXRlciB3aXNoZXMgdG8gZW1waGFzaXplIHRoYXQgYXMgYSByZXN1bHQgb2YgdGhlIHdheSB0aGUgcGFpbnRlciBzZWVzIGFuZCB1c2VzIGNvbG9yLCBoaXMgbGFuZHNjYXBlcyBoYXZlIGEgdW5pcXVlIHZpc3VhbCBxdWFsaXR5LiBXaGljaCBjaG9pY2UgYmVzdCBhY2NvbXBsaXNoZXMgdGhpcyBwdXJwb3NlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNpbmNlIGhlIHByZWZlcnMgdG8gcGFpbnQgbGFuZHNjYXBlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFzIGlmIGhlIHdlcmUgY3JlYXRpbmcgdHJ1ZSB3b3JrcyBvZiBhcnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdpdGggYnJ1c2hzdHJva2VzIHRoYXQgc2VlbSB0byBjb21lIGVmZm9ydGxlc3NseS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4gVXBvbiByZXZpZXdpbmcgdGhlIGVzc2F5IGFuZCBkZWNpZGluZyB0aGF0IHNvbWUgaW5mb3JtYXRpb24gaGFzIGJlZW4gbGVmdCBvdXQsIHRoZSB3cml0ZXIgY29tcG9zZXMgdGhlIGZvbGxvd2luZyBzZW50ZW5jZSBpbmNvcnBvcmF0aW5nIHRoYXQgaW5mb3JtYXRpb246
+SGUgcmFyZWx5IGNob29zZXMgdG8gdXNlIGdyYXlzLCBicm93bnMsIG9yIGFueSBvdGhlciBtdXRlZCB0b25lcywgb3B0aW5nIGluc3RlYWQgZm9yIGh1ZXMgdGhhdCBhcmUgY2xvc2VyIHRvIHB1cmU6
+SWYgdGhlIHdyaXRlciB3ZXJlIHRvIGFkZCB0aGlzIHNlbnRlbmNlIHRvIHRoZSBlc3NheSwgdGhlIHNlbnRlbmNlIHdvdWxkIG1vc3QgbG9naWNhbGx5IGJlIHBsYWNlZCBhdCBQb2ludDogUXVlc3Rpb24gNzUgYXNrcyBhYm91dCB0aGUgcHJlY2VkaW5nIHBhc3NhZ2UgYXMgYSB3aG9sZS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgaW4gUGFyYWdyYXBoIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEIgaW4gUGFyYWdyYXBoIDQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEMgaW4gUGFyYWdyYXBoIDUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEQgaW4gUGFyYWdyYXBoIDUuPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

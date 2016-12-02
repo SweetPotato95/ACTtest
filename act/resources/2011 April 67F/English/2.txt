@@ -1,121 +1,121 @@
-<h1>Edmonia Lewis and Her Marble Cleopatra</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 1988, during a routine inspection of a salvage yard in the Chicago area, firefighter Harold Adams made a discovery that helped solve a 100-year-old mystery. Amid the debris, he came face to face with a monumental statue of a queen <font id=16>in the salvage yard.</font> The work of art had such a commanding presence that he felt compelled to bring it to the attention of <font id=17>people who might be able to identify, repair, and permanently protect it.</font></div>
+PGgxPkVkbW9uaWEgTGV3aXMgYW5kIEhlciBNYXJibGUgQ2xlb3BhdHJhPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIDE5ODgsIGR1cmluZyBhIHJvdXRpbmUgaW5zcGVjdGlvbiBvZiBhIHNhbHZhZ2UgeWFyZCBpbiB0aGUgQ2hpY2FnbyBhcmVhLCBmaXJlZmlnaHRlciBIYXJvbGQgQWRhbXMgbWFkZSBhIGRpc2NvdmVyeSB0aGF0IGhlbHBlZCBzb2x2ZSBhIDEwMC15ZWFyLW9sZCBteXN0ZXJ5LiBBbWlkIHRoZSBkZWJyaXMsIGhlIGNhbWUgZmFjZSB0byBmYWNlIHdpdGggYSBtb251bWVudGFsIHN0YXR1ZSBvZiBhIHF1ZWVuIDxmb250IGlkPTE2PmluIHRoZSBzYWx2YWdlIHlhcmQuPC9mb250PiBUaGUgd29yayBvZiBhcnQgaGFkIHN1Y2ggYSBjb21tYW5kaW5nIHByZXNlbmNlIHRoYXQgaGUgZmVsdCBjb21wZWxsZWQgdG8gYnJpbmcgaXQgdG8gdGhlIGF0dGVudGlvbiBvZiA8Zm9udCBpZD0xNz5wZW9wbGUgd2hvIG1pZ2h0IGJlIGFibGUgdG8gaWRlbnRpZnksIHJlcGFpciwgYW5kIHBlcm1hbmVudGx5IHByb3RlY3QgaXQuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Eventually, the <font id=18>statues identity</font> emerged. The woman depicted was none other than the Egyptian ruler Cleopatra. The <font id=19>artist was</font> Edmonia Lewis, born in 1840 to an Ojibway mother and African American father. As a young person, Lewis had studied at Oberlin College before moving to Boston and later Rome, where she joined a community of American sculptors living abroad. <font id=20>Carving Italian marble by hand,</font> Lewis portrayed <font id=21>Cleopatra taking, her last</font> breath. <font id=22>The Death of Cleopatra was hailed by many critics as the most impressive' sculpture' at the 1876 Centennial Exposition in Philadelphia, the event for which it had been-created. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV2ZW50dWFsbHksIHRoZSA8Zm9udCBpZD0xOD5zdGF0dWVzIGlkZW50aXR5PC9mb250PiBlbWVyZ2VkLiBUaGUgd29tYW4gZGVwaWN0ZWQgd2FzIG5vbmUgb3RoZXIgdGhhbiB0aGUgRWd5cHRpYW4gcnVsZXIgQ2xlb3BhdHJhLiBUaGUgPGZvbnQgaWQ9MTk+YXJ0aXN0IHdhczwvZm9udD4gRWRtb25pYSBMZXdpcywgYm9ybiBpbiAxODQwIHRvIGFuIE9qaWJ3YXkgbW90aGVyIGFuZCBBZnJpY2FuIEFtZXJpY2FuIGZhdGhlci4gQXMgYSB5b3VuZyBwZXJzb24sIExld2lzIGhhZCBzdHVkaWVkIGF0IE9iZXJsaW4gQ29sbGVnZSBiZWZvcmUgbW92aW5nIHRvIEJvc3RvbiBhbmQgbGF0ZXIgUm9tZSwgd2hlcmUgc2hlIGpvaW5lZCBhIGNvbW11bml0eSBvZiBBbWVyaWNhbiBzY3VscHRvcnMgbGl2aW5nIGFicm9hZC4gPGZvbnQgaWQ9MjA+Q2FydmluZyBJdGFsaWFuIG1hcmJsZSBieSBoYW5kLDwvZm9udD4gTGV3aXMgcG9ydHJheWVkIDxmb250IGlkPTIxPkNsZW9wYXRyYSB0YWtpbmcsIGhlciBsYXN0PC9mb250PiBicmVhdGguIDxmb250IGlkPTIyPlRoZSBEZWF0aCBvZiBDbGVvcGF0cmEgd2FzIGhhaWxlZCBieSBtYW55IGNyaXRpY3MgYXMgdGhlIG1vc3QgaW1wcmVzc2l2ZScgc2N1bHB0dXJlJyBhdCB0aGUgMTg3NiBDZW50ZW5uaWFsIEV4cG9zaXRpb24gaW4gUGhpbGFkZWxwaGlhLCB0aGUgZXZlbnQgZm9yIHdoaWNoIGl0IGhhZCBiZWVuLWNyZWF0ZWQuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Shortly after the exposition, the statue fell into mysterious circumstances that frustrated the art lovers who tried over the years <font id=23>to</font> locate it.Decades passed before the story of <font id=24>it's</font> journey <font id=25>were</font> pieced together. For a while, the marble <font id=26>queen had resided</font> in a Chicago saloon. Later, it marked the grave of a racehorse named Cleopatra. By the time Adams stumbled upon the two-ton statue, it was chipped, cracked, and covered with graffiti. Until it could be <font id=27>shipped</font> to restoration experts, Lewis's masterpiece was stored—alongside paper turkeys, tinsel streamers, and half-empty cans of paint—in a back room <font id=28>somewhere. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNob3J0bHkgYWZ0ZXIgdGhlIGV4cG9zaXRpb24sIHRoZSBzdGF0dWUgZmVsbCBpbnRvIG15c3RlcmlvdXMgY2lyY3Vtc3RhbmNlcyB0aGF0IGZydXN0cmF0ZWQgdGhlIGFydCBsb3ZlcnMgd2hvIHRyaWVkIG92ZXIgdGhlIHllYXJzIDxmb250IGlkPTIzPnRvPC9mb250PiBsb2NhdGUgaXQuRGVjYWRlcyBwYXNzZWQgYmVmb3JlIHRoZSBzdG9yeSBvZiA8Zm9udCBpZD0yND5pdCdzPC9mb250PiBqb3VybmV5IDxmb250IGlkPTI1PndlcmU8L2ZvbnQ+IHBpZWNlZCB0b2dldGhlci4gRm9yIGEgd2hpbGUsIHRoZSBtYXJibGUgPGZvbnQgaWQ9MjY+cXVlZW4gaGFkIHJlc2lkZWQ8L2ZvbnQ+IGluIGEgQ2hpY2FnbyBzYWxvb24uIExhdGVyLCBpdCBtYXJrZWQgdGhlIGdyYXZlIG9mIGEgcmFjZWhvcnNlIG5hbWVkIENsZW9wYXRyYS4gQnkgdGhlIHRpbWUgQWRhbXMgc3R1bWJsZWQgdXBvbiB0aGUgdHdvLXRvbiBzdGF0dWUsIGl0IHdhcyBjaGlwcGVkLCBjcmFja2VkLCBhbmQgY292ZXJlZCB3aXRoIGdyYWZmaXRpLiBVbnRpbCBpdCBjb3VsZCBiZSA8Zm9udCBpZD0yNz5zaGlwcGVkPC9mb250PiB0byByZXN0b3JhdGlvbiBleHBlcnRzLCBMZXdpcydzIG1hc3RlcnBpZWNlIHdhcyBzdG9yZWTigJRhbG9uZ3NpZGUgcGFwZXIgdHVya2V5cywgdGluc2VsIHN0cmVhbWVycywgYW5kIGhhbGYtZW1wdHkgY2FucyBvZiBwYWludOKAlGluIGEgYmFjayByb29tIDxmb250IGlkPTI4PnNvbWV3aGVyZS4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The death of Cleopatra returned to the limelight in the 1990s when, after being meticulously restored, the sculpture went on display at the National Museum of American Art in Washington, D.C. <font id=29>Where</font> it continues to inspire renewed <font id=30>appreciation all over again</font> for a bold and gifted American artist, Edmonia Lewis.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBkZWF0aCBvZiBDbGVvcGF0cmEgcmV0dXJuZWQgdG8gdGhlIGxpbWVsaWdodCBpbiB0aGUgMTk5MHMgd2hlbiwgYWZ0ZXIgYmVpbmcgbWV0aWN1bG91c2x5IHJlc3RvcmVkLCB0aGUgc2N1bHB0dXJlIHdlbnQgb24gZGlzcGxheSBhdCB0aGUgTmF0aW9uYWwgTXVzZXVtIG9mIEFtZXJpY2FuIEFydCBpbiBXYXNoaW5ndG9uLCBELkMuIDxmb250IGlkPTI5PldoZXJlPC9mb250PiBpdCBjb250aW51ZXMgdG8gaW5zcGlyZSByZW5ld2VkIDxmb250IGlkPTMwPmFwcHJlY2lhdGlvbiBhbGwgb3ZlciBhZ2FpbjwvZm9udD4gZm9yIGEgYm9sZCBhbmQgZ2lmdGVkIEFtZXJpY2FuIGFydGlzdCwgRWRtb25pYSBMZXdpcy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">16. Given that all the choices are true, which one adds new information about the physical appearance of the statue?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. as he looked around.</div>
-<div class = "choice">H. during his rounds.</div>
-<div class = "choice">J. on her throne.</div>
-</div>
-###################
-<div class = "quiz">17. Given that all the choices are true, which one provides the most specific information?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. appropriate individuals that he could identify in the hope of making a difference.</div>
-<div class = "choice">C. person s with knowledge pertaining to the relevant subject at hand.</div>
-<div class = "choice">D. others with expertise in their professional fields, like he was a professional, but in a different field.</div>
-</div>
-###################
-<div class = "quiz">18.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. statue' identity</div>
-<div class = "choice">H. statue's identity</div>
-<div class = "choice">J. identity of the statues</div>
-</div>
-###################
-<div class = "quiz">19.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. artist,</div>
-<div class = "choice">C. artist, whose name was</div>
-<div class = "choice">D. artist</div>
-</div>
-###################
-<div class = "quiz">20. The writer would like to provide information here about the method used by the artist to create the sculpture. Given that all the choices are true, which one best accomplishes the writer's purpose?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. An experienced and accomplished artist,</div>
-<div class = "choice">H. Though others had depicted the Egyptian queen in marble,</div>
-<div class = "choice">J. To complete her worthwhile project,</div>
-</div>
-###################
-<div class = "quiz">21.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Cleopatra, taking her last</div>
-<div class = "choice">C. Cleopatra taking her last</div>
-<div class = "choice">D. Cleopatra taking her last,</div>
-</div>
-###################
-<div class = "quiz">22. The writer is considering deleting the phrase "the 1876 Centennial Exposition in Philadelphia," from the preceding sentence. Should the phrase be kept or deleted?
-<div class = "choice">F. Kept, because it indicates where the statue was made.</div>
-<div class = "choice">G. Kept, because it identifies the event referred to in the sentence.</div>
-<div class = "choice">H. Deleted, because it repeats information that is already provided in the sentence.</div>
-<div class = "choice">J. Deleted, because it provides information that shifts the focus away from the sculpture.</div>
-</div>
-###################
-<div class = "quiz">23.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. in an effort to</div>
-<div class = "choice">C. to attempt to</div>
-<div class = "choice">D. regarding efforts that would</div>
-</div>
-###################
-<div class = "quiz">24.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. its'</div>
-<div class = "choice">H. its</div>
-<div class = "choice">J. whose</div>
-</div>
-###################
-<div class = "quiz">25.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. was</div>
-<div class = "choice">C. were to be</div>
-<div class = "choice">D. would of been</div>
-</div>
-###################
-<div class = "quiz">26.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. queen had resided,</div>
-<div class = "choice">H. queen, had resided</div>
-<div class = "choice">J. queen, had resided,</div>
-</div>
-###################
-<div class = "quiz">27. Which of the following alternatives to the underlined portion would be LEAST acceptable?
-<div class = "choice">A. sent</div>
-<div class = "choice">B. delivered</div>
-<div class = "choice">C. transported</div>
-<div class = "choice">D. evacuated</div>
-</div>
-###################
-<div class = "quiz">28. Given that all the choices are true, which one provides information that is new and specific?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. at a shopping mall.</div>
-<div class = "choice">H. until it could be repaired.</div>
-<div class = "choice">J. with assorted objects.</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. When</div>
-<div class = "choice">C. There</div>
-<div class = "choice">D. The point that</div>
-</div>
-###################
-<div class = "quiz">30.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. admiration and positive appreciation</div>
-<div class = "choice">H. attention to its worth again</div>
-<div class = "choice">J. appreciation</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBhZGRzIG5ldyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgcGh5c2ljYWwgYXBwZWFyYW5jZSBvZiB0aGUgc3RhdHVlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFzIGhlIGxvb2tlZCBhcm91bmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGR1cmluZyBoaXMgcm91bmRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG9uIGhlciB0aHJvbmUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyB0aGUgbW9zdCBzcGVjaWZpYyBpbmZvcm1hdGlvbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFwcHJvcHJpYXRlIGluZGl2aWR1YWxzIHRoYXQgaGUgY291bGQgaWRlbnRpZnkgaW4gdGhlIGhvcGUgb2YgbWFraW5nIGEgZGlmZmVyZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBlcnNvbiBzIHdpdGgga25vd2xlZGdlIHBlcnRhaW5pbmcgdG8gdGhlIHJlbGV2YW50IHN1YmplY3QgYXQgaGFuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG90aGVycyB3aXRoIGV4cGVydGlzZSBpbiB0aGVpciBwcm9mZXNzaW9uYWwgZmllbGRzLCBsaWtlIGhlIHdhcyBhIHByb2Zlc3Npb25hbCwgYnV0IGluIGEgZGlmZmVyZW50IGZpZWxkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0YXR1ZScgaWRlbnRpdHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0YXR1ZSdzIGlkZW50aXR5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGlkZW50aXR5IG9mIHRoZSBzdGF0dWVzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFydGlzdCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFydGlzdCwgd2hvc2UgbmFtZSB3YXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFydGlzdDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIHdyaXRlciB3b3VsZCBsaWtlIHRvIHByb3ZpZGUgaW5mb3JtYXRpb24gaGVyZSBhYm91dCB0aGUgbWV0aG9kIHVzZWQgYnkgdGhlIGFydGlzdCB0byBjcmVhdGUgdGhlIHNjdWxwdHVyZS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGFjY29tcGxpc2hlcyB0aGUgd3JpdGVyJ3MgcHVycG9zZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFuIGV4cGVyaWVuY2VkIGFuZCBhY2NvbXBsaXNoZWQgYXJ0aXN0LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRob3VnaCBvdGhlcnMgaGFkIGRlcGljdGVkIHRoZSBFZ3lwdGlhbiBxdWVlbiBpbiBtYXJibGUsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRvIGNvbXBsZXRlIGhlciB3b3J0aHdoaWxlIHByb2plY3QsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENsZW9wYXRyYSwgdGFraW5nIGhlciBsYXN0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENsZW9wYXRyYSB0YWtpbmcgaGVyIGxhc3Q8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENsZW9wYXRyYSB0YWtpbmcgaGVyIGxhc3QsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcGhyYXNlICJ0aGUgMTg3NiBDZW50ZW5uaWFsIEV4cG9zaXRpb24gaW4gUGhpbGFkZWxwaGlhLCIgZnJvbSB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLiBTaG91bGQgdGhlIHBocmFzZSBiZSBrZXB0IG9yIGRlbGV0ZWQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEtlcHQsIGJlY2F1c2UgaXQgaW5kaWNhdGVzIHdoZXJlIHRoZSBzdGF0dWUgd2FzIG1hZGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEtlcHQsIGJlY2F1c2UgaXQgaWRlbnRpZmllcyB0aGUgZXZlbnQgcmVmZXJyZWQgdG8gaW4gdGhlIHNlbnRlbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIERlbGV0ZWQsIGJlY2F1c2UgaXQgcmVwZWF0cyBpbmZvcm1hdGlvbiB0aGF0IGlzIGFscmVhZHkgcHJvdmlkZWQgaW4gdGhlIHNlbnRlbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERlbGV0ZWQsIGJlY2F1c2UgaXQgcHJvdmlkZXMgaW5mb3JtYXRpb24gdGhhdCBzaGlmdHMgdGhlIGZvY3VzIGF3YXkgZnJvbSB0aGUgc2N1bHB0dXJlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluIGFuIGVmZm9ydCB0bzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRvIGF0dGVtcHQgdG88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlZ2FyZGluZyBlZmZvcnRzIHRoYXQgd291bGQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGl0cyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGl0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdob3NlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdhczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdlcmUgdG8gYmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdvdWxkIG9mIGJlZW48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHF1ZWVuIGhhZCByZXNpZGVkLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHF1ZWVuLCBoYWQgcmVzaWRlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHF1ZWVuLCBoYWQgcmVzaWRlZCw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBiZSBMRUFTVCBhY2NlcHRhYmxlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNlbnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlbGl2ZXJlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRyYW5zcG9ydGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV2YWN1YXRlZDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyBpbmZvcm1hdGlvbiB0aGF0IGlzIG5ldyBhbmQgc3BlY2lmaWM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF0IGEgc2hvcHBpbmcgbWFsbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVudGlsIGl0IGNvdWxkIGJlIHJlcGFpcmVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdpdGggYXNzb3J0ZWQgb2JqZWN0cy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFdoZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBwb2ludCB0aGF0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFkbWlyYXRpb24gYW5kIHBvc2l0aXZlIGFwcHJlY2lhdGlvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGF0dGVudGlvbiB0byBpdHMgd29ydGggYWdhaW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFwcHJlY2lhdGlvbjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

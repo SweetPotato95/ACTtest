@@ -1,0 +1,13 @@
+﻿<h1>Public Health and Individual Freedom</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Most people want to be healthy, and most people want as much freedom as possible to do the things they want. Unfortunately, these two desires sometimes conflict. For example, smoking is prohibited from most public places, which restricts the freedom of some individuals for the sake of the health of others. Likewise, car emissions are regulated in many areas in order to reduce pollution and its health risks to others, which in turn restricts some people’s freedom to drive the vehicles they want. In a society that values both health and freedom, how do we best balance the two? How should we think about conflicts between public health and individual freedom?
+Read and carefully consider these perspectives. Each suggests a particular way of thinking about the conflict between public health and individual freedom.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Our society should strive to achieve the greatest good for the greatest number of people. When the freedom of the individual interferes with that principle, freedom must be restricted.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nothing in society is more valuable than freedom. Perhaps physical health is sometimes improved by restricting freedom, but the cost to the health of our free society is far too great to justify it.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The right to avoid health risks is a freedom, too. When we allow individual behavior to endanger others, we’ve damaged both freedom and health.</div>

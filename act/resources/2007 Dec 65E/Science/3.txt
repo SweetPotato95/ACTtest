@@ -1,56 +1,56 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿A mole is <img src='file:\$$$\resources\2007 Dec 65E\imgs\176.png' width = '75'height = '34'/> molecules or formula units of a compound. Thus, the number of sucrose molecules in 1 mole of sucrose equals the number of NaCl units in 1 mole of NaCl. Molality (m) is a unit of concentration defined as:</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7v0EgbW9sZSBpcyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxNzYucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnMzQnLz4gbW9sZWN1bGVzIG9yIGZvcm11bGEgdW5pdHMgb2YgYSBjb21wb3VuZC4gVGh1cywgdGhlIG51bWJlciBvZiBzdWNyb3NlIG1vbGVjdWxlcyBpbiAxIG1vbGUgb2Ygc3Vjcm9zZSBlcXVhbHMgdGhlIG51bWJlciBvZiBOYUNsIHVuaXRzIGluIDEgbW9sZSBvZiBOYUNsLiBNb2xhbGl0eSAobSkgaXMgYSB1bml0IG9mIGNvbmNlbnRyYXRpb24gZGVmaW5lZCBhczo8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\177.png' width = '206'height = '69'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3Ny5wbmcnIHdpZHRoID0gJzIwNidoZWlnaHQgPSAnNjknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When a substance is dissolved in a solvent, the freezing and boiling points of the solution will differ from those of the pure solvent. These changes depend on the concentration of solute particles in the solution. Figures 1 and 2 show how the freezing point and the boiling point, respectively, of <img src='file:\$$$\resources\2007 Dec 65E\imgs\178.png' width = '54'height = '38'/> at 1 atm of pressure vary with concentration</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gYSBzdWJzdGFuY2UgaXMgZGlzc29sdmVkIGluIGEgc29sdmVudCwgdGhlIGZyZWV6aW5nIGFuZCBib2lsaW5nIHBvaW50cyBvZiB0aGUgc29sdXRpb24gd2lsbCBkaWZmZXIgZnJvbSB0aG9zZSBvZiB0aGUgcHVyZSBzb2x2ZW50LiBUaGVzZSBjaGFuZ2VzIGRlcGVuZCBvbiB0aGUgY29uY2VudHJhdGlvbiBvZiBzb2x1dGUgcGFydGljbGVzIGluIHRoZSBzb2x1dGlvbi4gRmlndXJlcyAxIGFuZCAyIHNob3cgaG93IHRoZSBmcmVlemluZyBwb2ludCBhbmQgdGhlIGJvaWxpbmcgcG9pbnQsIHJlc3BlY3RpdmVseSwgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMTc4LnBuZycgd2lkdGggPSAnNTQnaGVpZ2h0ID0gJzM4Jy8+IGF0IDEgYXRtIG9mIHByZXNzdXJlIHZhcnkgd2l0aCBjb25jZW50cmF0aW9uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\179.png' width = '460'height = '525'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3OS5wbmcnIHdpZHRoID0gJzQ2MCdoZWlnaHQgPSAnNTI1Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\180.png' width = '432'height = '459'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE4MC5wbmcnIHdpZHRoID0gJzQzMidoZWlnaHQgPSAnNDU5Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">13. Based on the trends in Figure 2, which of the following aqueous solutions would have the highest boiling point?
-<div class = "choice">A. 1.20 m <img src='file:\$$$\resources\2007 Dec 65E\imgs\181.png' width = '65'height = '38'/></div>
-<div class = "choice">B. 1.40 m NaCl</div>
-<div class = "choice">C. 1.60 m sucrose</div>
-<div class = "choice">D. 1.80 m sucrose</div>
-</div>
-###################
-<div class = "quiz">14. For sucrose, which of the following values is sufficient to convert the values on the x-axes of Figures 1 and 2 to grams of solute per kg of solvent?
-<div class = "choice">F. Freezing point</div>
-<div class = "choice">G. Boiling point</div>
-<div class = "choice">H. Molar mass</div>
-<div class = "choice">J. Atomic number</div>
-</div>
-###################
-<div class = "quiz">15. Based on Figure 1, the freezing point of a solution composed of 1.20 moles of NaCl dissolved in 1 kg of <img src='file:\$$$\resources\2007 Dec 65E\imgs\182.png' width = '54'height = '38'/> would be closest to which of the following?
-<div class = "choice">A. －5.7℃</div>
-<div class = "choice">B. －4.3℃</div>
-<div class = "choice">C. －3.8℃</div>
-<div class = "choice">D. －2.2℃</div>
-</div>
-###################
-<div class = "quiz">16. Based on Figure 1, as the mass of sucrose dissolved in a given amount of solvent increases, the freezing point of the solution will:
-<div class = "choice">F. increase linearly.</div>
-<div class = "choice">G. increase, but not linearly.</div>
-<div class = "choice">H. decrease linearly.</div>
-<div class = "choice">J. decrease, but not linearly.</div>
-</div>
-###################
-<div class = "quiz">17. A student claimed that, per formula unit, adding NaCl changes the boiling point of <img src='file:\$$$\resources\2007 Dec 65E\imgs\183.png' width = '54'height = '38'/> more than adding<img src='file:\$$$\resources\2007 Dec 65E\imgs\184.png' width = '65'height = '38'/>. Does Figure 2 support this claim?
-<div class = "choice">A. No; at a given concentration, NaCl caused a smaller increase in the boiling point.</div>
-<div class = "choice">B. No; at a given concentration, NaCl caused a smaller decrease in the boiling point.</div>
-<div class = "choice">C. Yes; at a given concentration, NaCl caused a greater increase in the boiling point.</div>
-<div class = "choice">D. Yes; at a given concentration, NaCl caused a greater decrease in the boiling point.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQmFzZWQgb24gdGhlIHRyZW5kcyBpbiBGaWd1cmUgMiwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhcXVlb3VzIHNvbHV0aW9ucyB3b3VsZCBoYXZlIHRoZSBoaWdoZXN0IGJvaWxpbmcgcG9pbnQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDEuMjAgbSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxODEucG5nJyB3aWR0aCA9ICc2NSdoZWlnaHQgPSAnMzgnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEuNDAgbSBOYUNsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEuNjAgbSBzdWNyb3NlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEuODAgbSBzdWNyb3NlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gRm9yIHN1Y3Jvc2UsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdmFsdWVzIGlzIHN1ZmZpY2llbnQgdG8gY29udmVydCB0aGUgdmFsdWVzIG9uIHRoZSB4LWF4ZXMgb2YgRmlndXJlcyAxIGFuZCAyIHRvIGdyYW1zIG9mIHNvbHV0ZSBwZXIga2cgb2Ygc29sdmVudD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEZyZWV6aW5nIHBvaW50PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEJvaWxpbmcgcG9pbnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1vbGFyIG1hc3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEF0b21pYyBudW1iZXI8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQmFzZWQgb24gRmlndXJlIDEsIHRoZSBmcmVlemluZyBwb2ludCBvZiBhIHNvbHV0aW9uIGNvbXBvc2VkIG9mIDEuMjAgbW9sZXMgb2YgTmFDbCBkaXNzb2x2ZWQgaW4gMSBrZyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxODIucG5nJyB3aWR0aCA9ICc1NCdoZWlnaHQgPSAnMzgnLz4gd291bGQgYmUgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIO+8PzUuN+KEPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIO+8PzQuM+KEPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIO+8PzMuOOKEPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIO+8PzIuMuKEPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gQmFzZWQgb24gRmlndXJlIDEsIGFzIHRoZSBtYXNzIG9mIHN1Y3Jvc2UgZGlzc29sdmVkIGluIGEgZ2l2ZW4gYW1vdW50IG9mIHNvbHZlbnQgaW5jcmVhc2VzLCB0aGUgZnJlZXppbmcgcG9pbnQgb2YgdGhlIHNvbHV0aW9uIHdpbGw6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlIGxpbmVhcmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluY3JlYXNlLCBidXQgbm90IGxpbmVhcmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlY3JlYXNlIGxpbmVhcmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlY3JlYXNlLCBidXQgbm90IGxpbmVhcmx5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQSBzdHVkZW50IGNsYWltZWQgdGhhdCwgcGVyIGZvcm11bGEgdW5pdCwgYWRkaW5nIE5hQ2wgY2hhbmdlcyB0aGUgYm9pbGluZyBwb2ludCBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxODMucG5nJyB3aWR0aCA9ICc1NCdoZWlnaHQgPSAnMzgnLz4gbW9yZSB0aGFuIGFkZGluZzxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE4NC5wbmcnIHdpZHRoID0gJzY1J2hlaWdodCA9ICczOCcvPi4gRG9lcyBGaWd1cmUgMiBzdXBwb3J0IHRoaXMgY2xhaW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5vOyBhdCBhIGdpdmVuIGNvbmNlbnRyYXRpb24sIE5hQ2wgY2F1c2VkIGEgc21hbGxlciBpbmNyZWFzZSBpbiB0aGUgYm9pbGluZyBwb2ludC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5vOyBhdCBhIGdpdmVuIGNvbmNlbnRyYXRpb24sIE5hQ2wgY2F1c2VkIGEgc21hbGxlciBkZWNyZWFzZSBpbiB0aGUgYm9pbGluZyBwb2ludC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFllczsgYXQgYSBnaXZlbiBjb25jZW50cmF0aW9uLCBOYUNsIGNhdXNlZCBhIGdyZWF0ZXIgaW5jcmVhc2UgaW4gdGhlIGJvaWxpbmcgcG9pbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFllczsgYXQgYSBnaXZlbiBjb25jZW50cmF0aW9uLCBOYUNsIGNhdXNlZCBhIGdyZWF0ZXIgZGVjcmVhc2UgaW4gdGhlIGJvaWxpbmcgcG9pbnQuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

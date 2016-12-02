@@ -1,124 +1,124 @@
-﻿<h1>The Nguyen Family Restaurant</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For my friends Tran and Maya Nguyen, the distance <font id=46>between</font> Vietnam and California is more than <font id=47>it's</font> measure in miles. <font id=48>Although immigrants, </font> Tran, Maya, and their four children left much behind, including their family restaurant. <font id=49>Now</font> they want to run a restaurant is Los Angeles just as they did in Da Nang.</div>
+77s/PGgxPlRoZSBOZ3V5ZW4gRmFtaWx5IFJlc3RhdXJhbnQ8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBteSBmcmllbmRzIFRyYW4gYW5kIE1heWEgTmd1eWVuLCB0aGUgZGlzdGFuY2UgPGZvbnQgaWQ9NDY+YmV0d2VlbjwvZm9udD4gVmlldG5hbSBhbmQgQ2FsaWZvcm5pYSBpcyBtb3JlIHRoYW4gPGZvbnQgaWQ9NDc+aXQnczwvZm9udD4gbWVhc3VyZSBpbiBtaWxlcy4gPGZvbnQgaWQ9NDg+QWx0aG91Z2ggaW1taWdyYW50cywgPC9mb250PiBUcmFuLCBNYXlhLCBhbmQgdGhlaXIgZm91ciBjaGlsZHJlbiBsZWZ0IG11Y2ggYmVoaW5kLCBpbmNsdWRpbmcgdGhlaXIgZmFtaWx5IHJlc3RhdXJhbnQuIDxmb250IGlkPTQ5Pk5vdzwvZm9udD4gdGhleSB3YW50IHRvIHJ1biBhIHJlc3RhdXJhbnQgaXMgTG9zIEFuZ2VsZXMganVzdCBhcyB0aGV5IGRpZCBpbiBEYSBOYW5nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=51>When Tran visited Vietnamese restaurants in the Los Angeles area, he was <font id=50>impressed, with both, </font> their décor and their menus but shocked to learn how much it costs to rent a suitable building. </font> He knew that <font id=52>himself and Maya</font> would have to <font id=53>apply their energies to the activity of labor</font> for the money needed to sign a lease.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTUxPldoZW4gVHJhbiB2aXNpdGVkIFZpZXRuYW1lc2UgcmVzdGF1cmFudHMgaW4gdGhlIExvcyBBbmdlbGVzIGFyZWEsIGhlIHdhcyA8Zm9udCBpZD01MD5pbXByZXNzZWQsIHdpdGggYm90aCwgPC9mb250PiB0aGVpciBkw6ljb3IgYW5kIHRoZWlyIG1lbnVzIGJ1dCBzaG9ja2VkIHRvIGxlYXJuIGhvdyBtdWNoIGl0IGNvc3RzIHRvIHJlbnQgYSBzdWl0YWJsZSBidWlsZGluZy4gPC9mb250PiBIZSBrbmV3IHRoYXQgPGZvbnQgaWQ9NTI+aGltc2VsZiBhbmQgTWF5YTwvZm9udD4gd291bGQgaGF2ZSB0byA8Zm9udCBpZD01Mz5hcHBseSB0aGVpciBlbmVyZ2llcyB0byB0aGUgYWN0aXZpdHkgb2YgbGFib3I8L2ZvbnQ+IGZvciB0aGUgbW9uZXkgbmVlZGVkIHRvIHNpZ24gYSBsZWFzZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">During their first year in the United States, they found jobs and began to save money. Tran worked as a hospital <font id=54>clerk, and</font> Maya was an assembler in an electronics factory. <font id=55>Nevertheless, </font> they were a long way from what they would need. <font id=56>They knew their jobs would help them to raise the necessary funds. </font> After two years, they had more than doubled their savings but were still short of their goal.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkR1cmluZyB0aGVpciBmaXJzdCB5ZWFyIGluIHRoZSBVbml0ZWQgU3RhdGVzLCB0aGV5IGZvdW5kIGpvYnMgYW5kIGJlZ2FuIHRvIHNhdmUgbW9uZXkuIFRyYW4gd29ya2VkIGFzIGEgaG9zcGl0YWwgPGZvbnQgaWQ9NTQ+Y2xlcmssIGFuZDwvZm9udD4gTWF5YSB3YXMgYW4gYXNzZW1ibGVyIGluIGFuIGVsZWN0cm9uaWNzIGZhY3RvcnkuIDxmb250IGlkPTU1Pk5ldmVydGhlbGVzcywgPC9mb250PiB0aGV5IHdlcmUgYSBsb25nIHdheSBmcm9tIHdoYXQgdGhleSB3b3VsZCBuZWVkLiA8Zm9udCBpZD01Nj5UaGV5IGtuZXcgdGhlaXIgam9icyB3b3VsZCBoZWxwIHRoZW0gdG8gcmFpc2UgdGhlIG5lY2Vzc2FyeSBmdW5kcy4gPC9mb250PiBBZnRlciB0d28geWVhcnMsIHRoZXkgaGFkIG1vcmUgdGhhbiBkb3VibGVkIHRoZWlyIHNhdmluZ3MgYnV0IHdlcmUgc3RpbGwgc2hvcnQgb2YgdGhlaXIgZ29hbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=57>Tran worked hard at his job. </font> He decided to rent a food vendor's cart that he could manage on his days off from the hospital. He knew the perfect location on a busy street corner. In less that a week, Tran was selling cha gio (egg rolls) on that corner. Soon they rented a second cart for Maya to operate. This undertaking wasn't their dream but perhaps <font id=58>their dream would lead to it. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTU3PlRyYW4gd29ya2VkIGhhcmQgYXQgaGlzIGpvYi4gPC9mb250PiBIZSBkZWNpZGVkIHRvIHJlbnQgYSBmb29kIHZlbmRvcidzIGNhcnQgdGhhdCBoZSBjb3VsZCBtYW5hZ2Ugb24gaGlzIGRheXMgb2ZmIGZyb20gdGhlIGhvc3BpdGFsLiBIZSBrbmV3IHRoZSBwZXJmZWN0IGxvY2F0aW9uIG9uIGEgYnVzeSBzdHJlZXQgY29ybmVyLiBJbiBsZXNzIHRoYXQgYSB3ZWVrLCBUcmFuIHdhcyBzZWxsaW5nIGNoYSBnaW8gKGVnZyByb2xscykgb24gdGhhdCBjb3JuZXIuIFNvb24gdGhleSByZW50ZWQgYSBzZWNvbmQgY2FydCBmb3IgTWF5YSB0byBvcGVyYXRlLiBUaGlzIHVuZGVydGFraW5nIHdhc24ndCB0aGVpciBkcmVhbSBidXQgcGVyaGFwcyA8Zm9udCBpZD01OD50aGVpciBkcmVhbSB3b3VsZCBsZWFkIHRvIGl0LiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Recently, Maya saw what seemed to her the perfect building for rent. The neighborhood was friendly, with lots of foot <font id=59>traffic. She</font> envisioned their restaurant fitting in nicely here. But she was disappointed when she talked to the real estate <font id=60>agent—the</font> building wouldn't be available for six months. Maya went home and discussed the situation with Tran. They were discouraged but realized that they could use this time to acquire much of the equipment they would need. Last night they decided to name their future restaurant after their son, Haing. That was also the name of their restaurant back in Vietnam.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlY2VudGx5LCBNYXlhIHNhdyB3aGF0IHNlZW1lZCB0byBoZXIgdGhlIHBlcmZlY3QgYnVpbGRpbmcgZm9yIHJlbnQuIFRoZSBuZWlnaGJvcmhvb2Qgd2FzIGZyaWVuZGx5LCB3aXRoIGxvdHMgb2YgZm9vdCA8Zm9udCBpZD01OT50cmFmZmljLiBTaGU8L2ZvbnQ+IGVudmlzaW9uZWQgdGhlaXIgcmVzdGF1cmFudCBmaXR0aW5nIGluIG5pY2VseSBoZXJlLiBCdXQgc2hlIHdhcyBkaXNhcHBvaW50ZWQgd2hlbiBzaGUgdGFsa2VkIHRvIHRoZSByZWFsIGVzdGF0ZSA8Zm9udCBpZD02MD5hZ2VudOKAlHRoZTwvZm9udD4gYnVpbGRpbmcgd291bGRuJ3QgYmUgYXZhaWxhYmxlIGZvciBzaXggbW9udGhzLiBNYXlhIHdlbnQgaG9tZSBhbmQgZGlzY3Vzc2VkIHRoZSBzaXR1YXRpb24gd2l0aCBUcmFuLiBUaGV5IHdlcmUgZGlzY291cmFnZWQgYnV0IHJlYWxpemVkIHRoYXQgdGhleSBjb3VsZCB1c2UgdGhpcyB0aW1lIHRvIGFjcXVpcmUgbXVjaCBvZiB0aGUgZXF1aXBtZW50IHRoZXkgd291bGQgbmVlZC4gTGFzdCBuaWdodCB0aGV5IGRlY2lkZWQgdG8gbmFtZSB0aGVpciBmdXR1cmUgcmVzdGF1cmFudCBhZnRlciB0aGVpciBzb24sIEhhaW5nLiBUaGF0IHdhcyBhbHNvIHRoZSBuYW1lIG9mIHRoZWlyIHJlc3RhdXJhbnQgYmFjayBpbiBWaWV0bmFtLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">46.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. among</div>
-<div class = "choice">H. from</div>
-<div class = "choice">J. to</div>
-</div>
-###################
-<div class = "quiz">47.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. its'</div>
-<div class = "choice">C. its</div>
-<div class = "choice">D. his</div>
-</div>
-###################
-<div class = "quiz">48.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Concerning immigration,</div>
-<div class = "choice">H. After immigrating,</div>
-<div class = "choice">J. As immigrants,</div>
-</div>
-###################
-<div class = "quiz">49.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. In conclusion,</div>
-<div class = "choice">C. Likewise,</div>
-<div class = "choice">D. Instead</div>
-</div>
-###################
-<div class = "quiz">50.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. impressed with both</div>
-<div class = "choice">H. impressed with both,</div>
-<div class = "choice">J. impressed, with both</div>
-</div>
-###################
-<div class = "quiz">51. The writer is considering deleting the phrase "to rent a suitable building" from the preceding sentence. If the writer were to make this deletion, the paragraph would primarily lose:
-<div class = "choice">A. details that help indicate the actual and specific rental cost of a building.</div>
-<div class = "choice">B. in formation essential to understanding exactly what the phrase "it costs" refers to.</div>
-<div class = "choice">C. information that explains the relationship between the décor and the rent of a building.</div>
-<div class = "choice">D. nothing of significance, since that information is presented earlier in the paragraph.</div>
-</div>
-###################
-<div class = "quiz">52.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Maya and himself</div>
-<div class = "choice">H. Maya and him</div>
-<div class = "choice">J. he and Maya</div>
-</div>
-###################
-<div class = "quiz">53.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. employ themselves vigorously to the task at hand</div>
-<div class = "choice">C. work a long time</div>
-<div class = "choice">D. accomplish it</div>
-</div>
-###################
-<div class = "quiz">54. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. clerk, while</div>
-<div class = "choice">G. clerk where</div>
-<div class = "choice">H. clerk;</div>
-<div class = "choice">J. clerk.</div>
-</div>
-###################
-<div class = "quiz">55.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Furthermore,</div>
-<div class = "choice">C. Eventually,</div>
-<div class = "choice">D. Besides,</div>
-</div>
-###################
-<div class = "quiz">56. At this point, the writer wants to provide a specific example of the efforts being made by the Nguyens to reach their goal. Given that all the choices are true, which one would best accomplish this purpose?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Meanwhile, the children adapted to and worked hard in their new schools.</div>
-<div class = "choice">H. They postponed buying a car, relying on city buses for transportation.</div>
-<div class = "choice">J. Tran and Maya realized that these jobs were means to a worthwhile end.</div>
-</div>
-###################
-<div class = "quiz">57. Which choice would most effectively introduce this new paragraph?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Their goal meanwhile seemed just as unattainable.</div>
-<div class = "choice">C. Maya encouraged Tran not to lose hope.</div>
-<div class = "choice">D. Then one day Tran had an inspiration.</div>
-</div>
-###################
-<div class = "quiz">58. 
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. they would lead to that.</div>
-<div class = "choice">H. would lead it to that.</div>
-<div class = "choice">J. would lead to it.</div>
-</div>
-###################
-<div class = "quiz">59.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. traffic, that she</div>
-<div class = "choice">C. traffic, she</div>
-<div class = "choice">D. traffic she</div>
-</div>
-###################
-<div class = "quiz">60. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. agent. The</div>
-<div class = "choice">G. agent: the</div>
-<div class = "choice">H. agent, the</div>
-<div class = "choice">J. agent; the</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFtb25nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZyb208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRvPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGl0cyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGl0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhpczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIENvbmNlcm5pbmcgaW1taWdyYXRpb24sPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFmdGVyIGltbWlncmF0aW5nLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFzIGltbWlncmFudHMsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEluIGNvbmNsdXNpb24sPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIExpa2V3aXNlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEluc3RlYWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGltcHJlc3NlZCB3aXRoIGJvdGg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGltcHJlc3NlZCB3aXRoIGJvdGgsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcHJlc3NlZCwgd2l0aCBib3RoPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MS4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcGhyYXNlICJ0byByZW50IGEgc3VpdGFibGUgYnVpbGRpbmciIGZyb20gdGhlIHByZWNlZGluZyBzZW50ZW5jZS4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIG1ha2UgdGhpcyBkZWxldGlvbiwgdGhlIHBhcmFncmFwaCB3b3VsZCBwcmltYXJpbHkgbG9zZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRldGFpbHMgdGhhdCBoZWxwIGluZGljYXRlIHRoZSBhY3R1YWwgYW5kIHNwZWNpZmljIHJlbnRhbCBjb3N0IG9mIGEgYnVpbGRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluIGZvcm1hdGlvbiBlc3NlbnRpYWwgdG8gdW5kZXJzdGFuZGluZyBleGFjdGx5IHdoYXQgdGhlIHBocmFzZSAiaXQgY29zdHMiIHJlZmVycyB0by48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluZm9ybWF0aW9uIHRoYXQgZXhwbGFpbnMgdGhlIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIHRoZSBkw6ljb3IgYW5kIHRoZSByZW50IG9mIGEgYnVpbGRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG5vdGhpbmcgb2Ygc2lnbmlmaWNhbmNlLCBzaW5jZSB0aGF0IGluZm9ybWF0aW9uIGlzIHByZXNlbnRlZCBlYXJsaWVyIGluIHRoZSBwYXJhZ3JhcGguPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1heWEgYW5kIGhpbXNlbGY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1heWEgYW5kIGhpbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhlIGFuZCBNYXlhPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVtcGxveSB0aGVtc2VsdmVzIHZpZ29yb3VzbHkgdG8gdGhlIHRhc2sgYXQgaGFuZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdvcmsgYSBsb25nIHRpbWU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFjY29tcGxpc2ggaXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNsZXJrLCB3aGlsZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNsZXJrIHdoZXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNsZXJrOzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNsZXJrLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZ1cnRoZXJtb3JlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEV2ZW50dWFsbHksPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJlc2lkZXMsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ni4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciB3YW50cyB0byBwcm92aWRlIGEgc3BlY2lmaWMgZXhhbXBsZSBvZiB0aGUgZWZmb3J0cyBiZWluZyBtYWRlIGJ5IHRoZSBOZ3V5ZW5zIHRvIHJlYWNoIHRoZWlyIGdvYWwuIEdpdmVuIHRoYXQgYWxsIHRoZSBjaG9pY2VzIGFyZSB0cnVlLCB3aGljaCBvbmUgd291bGQgYmVzdCBhY2NvbXBsaXNoIHRoaXMgcHVycG9zZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1lYW53aGlsZSwgdGhlIGNoaWxkcmVuIGFkYXB0ZWQgdG8gYW5kIHdvcmtlZCBoYXJkIGluIHRoZWlyIG5ldyBzY2hvb2xzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZXkgcG9zdHBvbmVkIGJ1eWluZyBhIGNhciwgcmVseWluZyBvbiBjaXR5IGJ1c2VzIGZvciB0cmFuc3BvcnRhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRyYW4gYW5kIE1heWEgcmVhbGl6ZWQgdGhhdCB0aGVzZSBqb2JzIHdlcmUgbWVhbnMgdG8gYSB3b3J0aHdoaWxlIGVuZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ny4gV2hpY2ggY2hvaWNlIHdvdWxkIG1vc3QgZWZmZWN0aXZlbHkgaW50cm9kdWNlIHRoaXMgbmV3IHBhcmFncmFwaD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZWlyIGdvYWwgbWVhbndoaWxlIHNlZW1lZCBqdXN0IGFzIHVuYXR0YWluYWJsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE1heWEgZW5jb3VyYWdlZCBUcmFuIG5vdCB0byBsb3NlIGhvcGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZW4gb25lIGRheSBUcmFuIGhhZCBhbiBpbnNwaXJhdGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OC4g
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZXkgd291bGQgbGVhZCB0byB0aGF0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvdWxkIGxlYWQgaXQgdG8gdGhhdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdvdWxkIGxlYWQgdG8gaXQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRyYWZmaWMsIHRoYXQgc2hlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRyYWZmaWMsIHNoZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRyYWZmaWMgc2hlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFnZW50LiBUaGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFnZW50OiB0aGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFnZW50LCB0aGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFnZW50OyB0aGU8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

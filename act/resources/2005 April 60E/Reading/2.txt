@@ -1,92 +1,92 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from Michael J. Sandel’s article “America’s Search for a New Public Philosophy.” (?1996 by The Atlantic Monthly Company). The author argues that our current conception of democracy underlies many of our social and economic problems.</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The central idea of the public philosophy by which we live is that freedom consists in our capacity to choose our ends for ourselves. Politics should not try to form the character or cultivate the virtue of its citizens, for to do so would be to "legislate morality." Government should not affirm, through its policies or laws, any particular conception of the good life; instead it should provide a neutral framework of rights within which people can choose their own values and ends.</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIE1pY2hhZWwgSi4gU2FuZGVs4oCZcyBhcnRpY2xlIOKAnEFtZXJpY2HigJlzIFNlYXJjaCBmb3IgYSBOZXcgUHVibGljIFBoaWxvc29waHku4oA/ICg/MTk5NiBieSBUaGUgQXRsYW50aWMgTW9udGhseSBDb21wYW55KS4gVGhlIGF1dGhvciBhcmd1ZXMgdGhhdCBvdXIgY3VycmVudCBjb25jZXB0aW9uIG9mIGRlbW9jcmFjeSB1bmRlcmxpZXMgbWFueSBvZiBvdXIgc29jaWFsIGFuZCBlY29ub21pYyBwcm9ibGVtcy48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBjZW50cmFsIGlkZWEgb2YgdGhlIHB1YmxpYyBwaGlsb3NvcGh5IGJ5IHdoaWNoIHdlIGxpdmUgaXMgdGhhdCBmcmVlZG9tIGNvbnNpc3RzIGluIG91ciBjYXBhY2l0eSB0byBjaG9vc2Ugb3VyIGVuZHMgZm9yIG91cnNlbHZlcy4gUG9saXRpY3Mgc2hvdWxkIG5vdCB0cnkgdG8gZm9ybSB0aGUgY2hhcmFjdGVyIG9yIGN1bHRpdmF0ZSB0aGUgdmlydHVlIG9mIGl0cyBjaXRpemVucywgZm9yIHRvIGRvIHNvIHdvdWxkIGJlIHRvICJsZWdpc2xhdGUgbW9yYWxpdHkuIiBHb3Zlcm5tZW50IHNob3VsZCBub3QgYWZmaXJtLCB0aHJvdWdoIGl0cyBwb2xpY2llcyBvciBsYXdzLCBhbnkgcGFydGljdWxhciBjb25jZXB0aW9uIG9mIHRoZSBnb29kIGxpZmU7IGluc3RlYWQgaXQgc2hvdWxkIHByb3ZpZGUgYSBuZXV0cmFsIGZyYW1ld29yayBvZiByaWdodHMgd2l0aGluIHdoaWNoIHBlb3BsZSBjYW4gY2hvb3NlIHRoZWlyIG93biB2YWx1ZXMgYW5kIGVuZHMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=13><font id=18>The aspiration to neutrality finds prominent expression in our politics and law. Although it derives from the liberal tradition of political thought, its province is not limited to those known as liberals, rather than conservatives, in American politics; it can be found across the political spectrum. </font> Liberals invoke the ideal of neutrality when opposing school prayer or restrictions on abortion or attempts by certain groups to bring their morality into the public square. Conservatives appeal to neutrality when opposing attempts by government to impose certain moral restraints-for the sake of workers' safety or environmental protection or distributive justice-on the operation of the market economy. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTEzPjxmb250IGlkPTE4PlRoZSBhc3BpcmF0aW9uIHRvIG5ldXRyYWxpdHkgZmluZHMgcHJvbWluZW50IGV4cHJlc3Npb24gaW4gb3VyIHBvbGl0aWNzIGFuZCBsYXcuIEFsdGhvdWdoIGl0IGRlcml2ZXMgZnJvbSB0aGUgbGliZXJhbCB0cmFkaXRpb24gb2YgcG9saXRpY2FsIHRob3VnaHQsIGl0cyBwcm92aW5jZSBpcyBub3QgbGltaXRlZCB0byB0aG9zZSBrbm93biBhcyBsaWJlcmFscywgcmF0aGVyIHRoYW4gY29uc2VydmF0aXZlcywgaW4gQW1lcmljYW4gcG9saXRpY3M7IGl0IGNhbiBiZSBmb3VuZCBhY3Jvc3MgdGhlIHBvbGl0aWNhbCBzcGVjdHJ1bS4gPC9mb250PiBMaWJlcmFscyBpbnZva2UgdGhlIGlkZWFsIG9mIG5ldXRyYWxpdHkgd2hlbiBvcHBvc2luZyBzY2hvb2wgcHJheWVyIG9yIHJlc3RyaWN0aW9ucyBvbiBhYm9ydGlvbiBvciBhdHRlbXB0cyBieSBjZXJ0YWluIGdyb3VwcyB0byBicmluZyB0aGVpciBtb3JhbGl0eSBpbnRvIHRoZSBwdWJsaWMgc3F1YXJlLiBDb25zZXJ2YXRpdmVzIGFwcGVhbCB0byBuZXV0cmFsaXR5IHdoZW4gb3Bwb3NpbmcgYXR0ZW1wdHMgYnkgZ292ZXJubWVudCB0byBpbXBvc2UgY2VydGFpbiBtb3JhbCByZXN0cmFpbnRzLWZvciB0aGUgc2FrZSBvZiB3b3JrZXJzJyBzYWZldHkgb3IgZW52aXJvbm1lbnRhbCBwcm90ZWN0aW9uIG9yIGRpc3RyaWJ1dGl2ZSBqdXN0aWNlLW9uIHRoZSBvcGVyYXRpb24gb2YgdGhlIG1hcmtldCBlY29ub215LiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ideal of free choice also figures on both sides of the debate over the welfare state. Republicans have long complained that taxing the rich to pay for welfare programs for the poor is a form of coerced charity that violates people's freedom to choose what to do with their own money. Democrats have long replied that government must assure all citizens a decent level of income; housing, education, and health care, on the grounds that those who are crushed by economic necessity are not truly free to exercise choice in other domains. Despite their disagreement about how government should act to respect individual choice, both sides assume that freedom consists in the capacity of people to choose their own ends.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpZGVhbCBvZiBmcmVlIGNob2ljZSBhbHNvIGZpZ3VyZXMgb24gYm90aCBzaWRlcyBvZiB0aGUgZGViYXRlIG92ZXIgdGhlIHdlbGZhcmUgc3RhdGUuIFJlcHVibGljYW5zIGhhdmUgbG9uZyBjb21wbGFpbmVkIHRoYXQgdGF4aW5nIHRoZSByaWNoIHRvIHBheSBmb3Igd2VsZmFyZSBwcm9ncmFtcyBmb3IgdGhlIHBvb3IgaXMgYSBmb3JtIG9mIGNvZXJjZWQgY2hhcml0eSB0aGF0IHZpb2xhdGVzIHBlb3BsZSdzIGZyZWVkb20gdG8gY2hvb3NlIHdoYXQgdG8gZG8gd2l0aCB0aGVpciBvd24gbW9uZXkuIERlbW9jcmF0cyBoYXZlIGxvbmcgcmVwbGllZCB0aGF0IGdvdmVybm1lbnQgbXVzdCBhc3N1cmUgYWxsIGNpdGl6ZW5zIGEgZGVjZW50IGxldmVsIG9mIGluY29tZTsgaG91c2luZywgZWR1Y2F0aW9uLCBhbmQgaGVhbHRoIGNhcmUsIG9uIHRoZSBncm91bmRzIHRoYXQgdGhvc2Ugd2hvIGFyZSBjcnVzaGVkIGJ5IGVjb25vbWljIG5lY2Vzc2l0eSBhcmUgbm90IHRydWx5IGZyZWUgdG8gZXhlcmNpc2UgY2hvaWNlIGluIG90aGVyIGRvbWFpbnMuIERlc3BpdGUgdGhlaXIgZGlzYWdyZWVtZW50IGFib3V0IGhvdyBnb3Zlcm5tZW50IHNob3VsZCBhY3QgdG8gcmVzcGVjdCBpbmRpdmlkdWFsIGNob2ljZSwgYm90aCBzaWRlcyBhc3N1bWUgdGhhdCBmcmVlZG9tIGNvbnNpc3RzIGluIHRoZSBjYXBhY2l0eSBvZiBwZW9wbGUgdG8gY2hvb3NlIHRoZWlyIG93biBlbmRzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">So familiar is this vision of freedom that it might seem a permanent feature of the American political tradition. But as a reigning public philosophy, it is a recent arrival, a development of the past half century. Its distinctive character can best be seen by comparison with a. rival public philosophy that it gradually displaced: a version of republican political theory.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNvIGZhbWlsaWFyIGlzIHRoaXMgdmlzaW9uIG9mIGZyZWVkb20gdGhhdCBpdCBtaWdodCBzZWVtIGEgcGVybWFuZW50IGZlYXR1cmUgb2YgdGhlIEFtZXJpY2FuIHBvbGl0aWNhbCB0cmFkaXRpb24uIEJ1dCBhcyBhIHJlaWduaW5nIHB1YmxpYyBwaGlsb3NvcGh5LCBpdCBpcyBhIHJlY2VudCBhcnJpdmFsLCBhIGRldmVsb3BtZW50IG9mIHRoZSBwYXN0IGhhbGYgY2VudHVyeS4gSXRzIGRpc3RpbmN0aXZlIGNoYXJhY3RlciBjYW4gYmVzdCBiZSBzZWVuIGJ5IGNvbXBhcmlzb24gd2l0aCBhLiByaXZhbCBwdWJsaWMgcGhpbG9zb3BoeSB0aGF0IGl0IGdyYWR1YWxseSBkaXNwbGFjZWQ6IGEgdmVyc2lvbiBvZiByZXB1YmxpY2FuIHBvbGl0aWNhbCB0aGVvcnkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>Central to republican theory is the idea that liberty depends on sharing in self-government. This idea is not by itself inconsistent with liberal freedom. Participating in politics can be one among the ways in which people choose to pursue their individual ends. According to republican political theory, however, sharing in self-rule involves something more. It involves deliberating with fellow citizens about the common good and helping to shape the destiny of the political community. But to <font id=12>deliberate well about the common good</font> requires more than the capacity to choose one's ends and to respect others' rights to do the same. It requires a knowledge of public affairs and also a sense of belonging, a concern for the whole, a moral bond with the community whose fate is at stake. To share in self-rule therefore requires that citizens possess, or come to acquire, certain civic virtues. But this means that republican politics cannot be neutral toward the values and ends its citizens espouse. The republican conception of freedom, unlike the liberal conception, requires a <font id=15>formative politics</font>, a politics that cultivates in citizens the qualities of character that self-government requires. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE0PkNlbnRyYWwgdG8gcmVwdWJsaWNhbiB0aGVvcnkgaXMgdGhlIGlkZWEgdGhhdCBsaWJlcnR5IGRlcGVuZHMgb24gc2hhcmluZyBpbiBzZWxmLWdvdmVybm1lbnQuIFRoaXMgaWRlYSBpcyBub3QgYnkgaXRzZWxmIGluY29uc2lzdGVudCB3aXRoIGxpYmVyYWwgZnJlZWRvbS4gUGFydGljaXBhdGluZyBpbiBwb2xpdGljcyBjYW4gYmUgb25lIGFtb25nIHRoZSB3YXlzIGluIHdoaWNoIHBlb3BsZSBjaG9vc2UgdG8gcHVyc3VlIHRoZWlyIGluZGl2aWR1YWwgZW5kcy4gQWNjb3JkaW5nIHRvIHJlcHVibGljYW4gcG9saXRpY2FsIHRoZW9yeSwgaG93ZXZlciwgc2hhcmluZyBpbiBzZWxmLXJ1bGUgaW52b2x2ZXMgc29tZXRoaW5nIG1vcmUuIEl0IGludm9sdmVzIGRlbGliZXJhdGluZyB3aXRoIGZlbGxvdyBjaXRpemVucyBhYm91dCB0aGUgY29tbW9uIGdvb2QgYW5kIGhlbHBpbmcgdG8gc2hhcGUgdGhlIGRlc3Rpbnkgb2YgdGhlIHBvbGl0aWNhbCBjb21tdW5pdHkuIEJ1dCB0byA8Zm9udCBpZD0xMj5kZWxpYmVyYXRlIHdlbGwgYWJvdXQgdGhlIGNvbW1vbiBnb29kPC9mb250PiByZXF1aXJlcyBtb3JlIHRoYW4gdGhlIGNhcGFjaXR5IHRvIGNob29zZSBvbmUncyBlbmRzIGFuZCB0byByZXNwZWN0IG90aGVycycgcmlnaHRzIHRvIGRvIHRoZSBzYW1lLiBJdCByZXF1aXJlcyBhIGtub3dsZWRnZSBvZiBwdWJsaWMgYWZmYWlycyBhbmQgYWxzbyBhIHNlbnNlIG9mIGJlbG9uZ2luZywgYSBjb25jZXJuIGZvciB0aGUgd2hvbGUsIGEgbW9yYWwgYm9uZCB3aXRoIHRoZSBjb21tdW5pdHkgd2hvc2UgZmF0ZSBpcyBhdCBzdGFrZS4gVG8gc2hhcmUgaW4gc2VsZi1ydWxlIHRoZXJlZm9yZSByZXF1aXJlcyB0aGF0IGNpdGl6ZW5zIHBvc3Nlc3MsIG9yIGNvbWUgdG8gYWNxdWlyZSwgY2VydGFpbiBjaXZpYyB2aXJ0dWVzLiBCdXQgdGhpcyBtZWFucyB0aGF0IHJlcHVibGljYW4gcG9saXRpY3MgY2Fubm90IGJlIG5ldXRyYWwgdG93YXJkIHRoZSB2YWx1ZXMgYW5kIGVuZHMgaXRzIGNpdGl6ZW5zIGVzcG91c2UuIFRoZSByZXB1YmxpY2FuIGNvbmNlcHRpb24gb2YgZnJlZWRvbSwgdW5saWtlIHRoZSBsaWJlcmFsIGNvbmNlcHRpb24sIHJlcXVpcmVzIGEgPGZvbnQgaWQ9MTU+Zm9ybWF0aXZlIHBvbGl0aWNzPC9mb250PiwgYSBwb2xpdGljcyB0aGF0IGN1bHRpdmF0ZXMgaW4gY2l0aXplbnMgdGhlIHF1YWxpdGllcyBvZiBjaGFyYWN0ZXIgdGhhdCBzZWxmLWdvdmVybm1lbnQgcmVxdWlyZXMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Both the liberal and the republican understandings of freedom have been present throughout our <font id=17>political experience</font>, but in shifting measure and relative importance. In recent decades the civic, or formative, aspect of our politics has given way to a procedural republic, concerned less with cultivating virtue than with enabling persons to choose their own values. This shift sheds light on our present discontent. For despite its appeal, the liberal vision of freedom lacks the civic resources to sustain self-government. The public philosophy by which we live cannot secure the liberty it promises, because it cannot inspire the sense of community and civic engagement that liberty requires.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJvdGggdGhlIGxpYmVyYWwgYW5kIHRoZSByZXB1YmxpY2FuIHVuZGVyc3RhbmRpbmdzIG9mIGZyZWVkb20gaGF2ZSBiZWVuIHByZXNlbnQgdGhyb3VnaG91dCBvdXIgPGZvbnQgaWQ9MTc+cG9saXRpY2FsIGV4cGVyaWVuY2U8L2ZvbnQ+LCBidXQgaW4gc2hpZnRpbmcgbWVhc3VyZSBhbmQgcmVsYXRpdmUgaW1wb3J0YW5jZS4gSW4gcmVjZW50IGRlY2FkZXMgdGhlIGNpdmljLCBvciBmb3JtYXRpdmUsIGFzcGVjdCBvZiBvdXIgcG9saXRpY3MgaGFzIGdpdmVuIHdheSB0byBhIHByb2NlZHVyYWwgcmVwdWJsaWMsIGNvbmNlcm5lZCBsZXNzIHdpdGggY3VsdGl2YXRpbmcgdmlydHVlIHRoYW4gd2l0aCBlbmFibGluZyBwZXJzb25zIHRvIGNob29zZSB0aGVpciBvd24gdmFsdWVzLiBUaGlzIHNoaWZ0IHNoZWRzIGxpZ2h0IG9uIG91ciBwcmVzZW50IGRpc2NvbnRlbnQuIEZvciBkZXNwaXRlIGl0cyBhcHBlYWwsIHRoZSBsaWJlcmFsIHZpc2lvbiBvZiBmcmVlZG9tIGxhY2tzIHRoZSBjaXZpYyByZXNvdXJjZXMgdG8gc3VzdGFpbiBzZWxmLWdvdmVybm1lbnQuIFRoZSBwdWJsaWMgcGhpbG9zb3BoeSBieSB3aGljaCB3ZSBsaXZlIGNhbm5vdCBzZWN1cmUgdGhlIGxpYmVydHkgaXQgcHJvbWlzZXMsIGJlY2F1c2UgaXQgY2Fubm90IGluc3BpcmUgdGhlIHNlbnNlIG9mIGNvbW11bml0eSBhbmQgY2l2aWMgZW5nYWdlbWVudCB0aGF0IGxpYmVydHkgcmVxdWlyZXMuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. Which of the following offers the best description of republican political theory as it is defined in this passage?
-<div class = "choice">A. Citizens should be able to choose their own values, and should respect others' right to do the same.</div>
-<div class = "choice">B. Citizens need to participate in politics and to care for their community in order to enjoy true liberty.</div>
-<div class = "choice">C. Citizens need to be neutral about their values and beliefs in order that others not be offended.</div>
-<div class = "choice">D. Citizens must understand that choosing their own values is inconsistent with liberal freedom.</div>
-</div>
-###################
-<div class = "quiz">12. According to the passage, in order for citizens to "deliberate well about the common good" (line 54) citizens must possess all of the following EXCEPT:
-<div class = "choice">F. knowledge of public affairs.</div>
-<div class = "choice">G. a neutral framework of. rights.</div>
-<div class = "choice">H. concern for fellow citizens.</div>
-<div class = "choice">J. a sense of Civic engagement.</div>
-</div>
-###################
-<div class = "quiz">13. The main point of the second paragraph (lines 10-23) is that:
-<div class = "choice">A. liberals and conservatives have essentially the same value systems.</div>
-<div class = "choice">B. liberals and conservatives find governmental neutrality appealing for different reasons.</div>
-<div class = "choice">C. conservatives are more interested in the nation's economy than are liberals.</div>
-<div class = "choice">D. liberals are responsible for the idea that the U.S. government should be neutral.</div>
-</div>
-###################
-<div class = "quiz">14. The main point of the fifth paragraph (lines 45-66) is that:
-<div class = "choice">F. liberal and republican theories each demand that citizens take part in politics.</div>
-<div class = "choice">G. liberal and republican theories each have their good points and their bad points.</div>
-<div class = "choice">H. republican politicians tend to be more virtuous and compassionate than liberal politicians.</div>
-<div class = "choice">J. republican theory requires that citizens demonstrate a concern for the common good.</div>
-</div>
-###################
-<div class = "quiz">15. As it is used in line 65, the phrase formative politics refers to a type of politics that:
-<div class = "choice">A. promotes important civic virtues.</div>
-<div class = "choice">B. is consistent with liberal freedom.</div>
-<div class = "choice">C. is part of a procedural republic.</div>
-<div class = "choice">D. is distinct from self-rule.</div>
-</div>
-###################
-<div class = "quiz">16. If the last paragraph were deleted, what critical piece information would be lost?
-<div class = "choice">F. What the author sees as the features that distinguish between procedural and liberal republics</div>
-<div class = "choice">G. What the author sees as the centerpiece of republican political theory</div>
-<div class = "choice">H. What the auth or sees as the central weakness of our current public philosophy</div>
-<div class = "choice">J. What the author sees as the difference between liberal and republican political theories</div>
-</div>
-###################
-<div class = "quiz">17. As it is used in lines 68-69, the phrase political experience most nearly means:
-<div class = "choice">A. country's history.</div>
-<div class = "choice">B. voting patterns.</div>
-<div class = "choice">C. presidential campaigns</div>
-<div class = "choice">D. elective office</div>
-</div>
-###################
-<div class = "quiz">18. The main point being made in lines 10-15 is that:
-<div class = "choice">F. a belief in citizens' rights to choose their own values is shared by people with different politics.</div>
-<div class = "choice">G. liberals and conservatives can be found across the political spectrum.</div>
-<div class = "choice">H. the aspiration to neutrality is guaranteed by the Constitution and supported by republican theory.</div>
-<div class = "choice">J. the liberal tradition in American politics is some-what limited in its theoretical background.</div>
-</div>
-###################
-<div class = "quiz">19. The last paragraph most strongly suggests that a "procedural republic" is a republic:
-<div class = "choice">A. known for having good political procedures.</div>
-<div class = "choice">B. that has developed a formative politics.</div>
-<div class = "choice">C. based upon many rules and regulations.</div>
-<div class = "choice">D. with a neutral framework of rights.</div>
-</div>
-###################
-<div class = "quiz">20. The author of the passage claims that the liberal vision of freedom cannot provide liberty because that vision:
-<div class = "choice">F. gives citizens too many choices to consider.</div>
-<div class = "choice">G. does not teach citizens to care about community.</div>
-<div class = "choice">H. inspires moral neutrality, which is antigovernment.</div>
-<div class = "choice">J. depends too heavily on the concept of legislating morality.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBvZmZlcnMgdGhlIGJlc3QgZGVzY3JpcHRpb24gb2YgcmVwdWJsaWNhbiBwb2xpdGljYWwgdGhlb3J5IGFzIGl0IGlzIGRlZmluZWQgaW4gdGhpcyBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIENpdGl6ZW5zIHNob3VsZCBiZSBhYmxlIHRvIGNob29zZSB0aGVpciBvd24gdmFsdWVzLCBhbmQgc2hvdWxkIHJlc3BlY3Qgb3RoZXJzJyByaWdodCB0byBkbyB0aGUgc2FtZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENpdGl6ZW5zIG5lZWQgdG8gcGFydGljaXBhdGUgaW4gcG9saXRpY3MgYW5kIHRvIGNhcmUgZm9yIHRoZWlyIGNvbW11bml0eSBpbiBvcmRlciB0byBlbmpveSB0cnVlIGxpYmVydHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENpdGl6ZW5zIG5lZWQgdG8gYmUgbmV1dHJhbCBhYm91dCB0aGVpciB2YWx1ZXMgYW5kIGJlbGllZnMgaW4gb3JkZXIgdGhhdCBvdGhlcnMgbm90IGJlIG9mZmVuZGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENpdGl6ZW5zIG11c3QgdW5kZXJzdGFuZCB0aGF0IGNob29zaW5nIHRoZWlyIG93biB2YWx1ZXMgaXMgaW5jb25zaXN0ZW50IHdpdGggbGliZXJhbCBmcmVlZG9tLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBpbiBvcmRlciBmb3IgY2l0aXplbnMgdG8gImRlbGliZXJhdGUgd2VsbCBhYm91dCB0aGUgY29tbW9uIGdvb2QiIChsaW5lIDU0KSBjaXRpemVucyBtdXN0IHBvc3Nlc3MgYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGtub3dsZWRnZSBvZiBwdWJsaWMgYWZmYWlycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgbmV1dHJhbCBmcmFtZXdvcmsgb2YuIHJpZ2h0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbmNlcm4gZm9yIGZlbGxvdyBjaXRpemVucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgc2Vuc2Ugb2YgQ2l2aWMgZW5nYWdlbWVudC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIG1haW4gcG9pbnQgb2YgdGhlIHNlY29uZCBwYXJhZ3JhcGggKGxpbmVzIDEwLTIzKSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxpYmVyYWxzIGFuZCBjb25zZXJ2YXRpdmVzIGhhdmUgZXNzZW50aWFsbHkgdGhlIHNhbWUgdmFsdWUgc3lzdGVtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxpYmVyYWxzIGFuZCBjb25zZXJ2YXRpdmVzIGZpbmQgZ292ZXJubWVudGFsIG5ldXRyYWxpdHkgYXBwZWFsaW5nIGZvciBkaWZmZXJlbnQgcmVhc29ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnNlcnZhdGl2ZXMgYXJlIG1vcmUgaW50ZXJlc3RlZCBpbiB0aGUgbmF0aW9uJ3MgZWNvbm9teSB0aGFuIGFyZSBsaWJlcmFscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpYmVyYWxzIGFyZSByZXNwb25zaWJsZSBmb3IgdGhlIGlkZWEgdGhhdCB0aGUgVS5TLiBnb3Zlcm5tZW50IHNob3VsZCBiZSBuZXV0cmFsLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIG1haW4gcG9pbnQgb2YgdGhlIGZpZnRoIHBhcmFncmFwaCAobGluZXMgNDUtNjYpIGlzIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxpYmVyYWwgYW5kIHJlcHVibGljYW4gdGhlb3JpZXMgZWFjaCBkZW1hbmQgdGhhdCBjaXRpemVucyB0YWtlIHBhcnQgaW4gcG9saXRpY3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxpYmVyYWwgYW5kIHJlcHVibGljYW4gdGhlb3JpZXMgZWFjaCBoYXZlIHRoZWlyIGdvb2QgcG9pbnRzIGFuZCB0aGVpciBiYWQgcG9pbnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHJlcHVibGljYW4gcG9saXRpY2lhbnMgdGVuZCB0byBiZSBtb3JlIHZpcnR1b3VzIGFuZCBjb21wYXNzaW9uYXRlIHRoYW4gbGliZXJhbCBwb2xpdGljaWFucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlcHVibGljYW4gdGhlb3J5IHJlcXVpcmVzIHRoYXQgY2l0aXplbnMgZGVtb25zdHJhdGUgYSBjb25jZXJuIGZvciB0aGUgY29tbW9uIGdvb2QuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDY1LCB0aGUgcGhyYXNlIGZvcm1hdGl2ZSBwb2xpdGljcyByZWZlcnMgdG8gYSB0eXBlIG9mIHBvbGl0aWNzIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHByb21vdGVzIGltcG9ydGFudCBjaXZpYyB2aXJ0dWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlzIGNvbnNpc3RlbnQgd2l0aCBsaWJlcmFsIGZyZWVkb20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlzIHBhcnQgb2YgYSBwcm9jZWR1cmFsIHJlcHVibGljLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGlzIGRpc3RpbmN0IGZyb20gc2VsZi1ydWxlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gSWYgdGhlIGxhc3QgcGFyYWdyYXBoIHdlcmUgZGVsZXRlZCwgd2hhdCBjcml0aWNhbCBwaWVjZSBpbmZvcm1hdGlvbiB3b3VsZCBiZSBsb3N0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdoYXQgdGhlIGF1dGhvciBzZWVzIGFzIHRoZSBmZWF0dXJlcyB0aGF0IGRpc3Rpbmd1aXNoIGJldHdlZW4gcHJvY2VkdXJhbCBhbmQgbGliZXJhbCByZXB1YmxpY3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoYXQgdGhlIGF1dGhvciBzZWVzIGFzIHRoZSBjZW50ZXJwaWVjZSBvZiByZXB1YmxpY2FuIHBvbGl0aWNhbCB0aGVvcnk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoYXQgdGhlIGF1dGggb3Igc2VlcyBhcyB0aGUgY2VudHJhbCB3ZWFrbmVzcyBvZiBvdXIgY3VycmVudCBwdWJsaWMgcGhpbG9zb3BoeTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoYXQgdGhlIGF1dGhvciBzZWVzIGFzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gbGliZXJhbCBhbmQgcmVwdWJsaWNhbiBwb2xpdGljYWwgdGhlb3JpZXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lcyA2OC02OSwgdGhlIHBocmFzZSBwb2xpdGljYWwgZXhwZXJpZW5jZSBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvdW50cnkncyBoaXN0b3J5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHZvdGluZyBwYXR0ZXJucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByZXNpZGVudGlhbCBjYW1wYWlnbnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVsZWN0aXZlIG9mZmljZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIG1haW4gcG9pbnQgYmVpbmcgbWFkZSBpbiBsaW5lcyAxMC0xNSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgYmVsaWVmIGluIGNpdGl6ZW5zJyByaWdodHMgdG8gY2hvb3NlIHRoZWlyIG93biB2YWx1ZXMgaXMgc2hhcmVkIGJ5IHBlb3BsZSB3aXRoIGRpZmZlcmVudCBwb2xpdGljcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxpYmVyYWxzIGFuZCBjb25zZXJ2YXRpdmVzIGNhbiBiZSBmb3VuZCBhY3Jvc3MgdGhlIHBvbGl0aWNhbCBzcGVjdHJ1bS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBhc3BpcmF0aW9uIHRvIG5ldXRyYWxpdHkgaXMgZ3VhcmFudGVlZCBieSB0aGUgQ29uc3RpdHV0aW9uIGFuZCBzdXBwb3J0ZWQgYnkgcmVwdWJsaWNhbiB0aGVvcnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBsaWJlcmFsIHRyYWRpdGlvbiBpbiBBbWVyaWNhbiBwb2xpdGljcyBpcyBzb21lLXdoYXQgbGltaXRlZCBpbiBpdHMgdGhlb3JldGljYWwgYmFja2dyb3VuZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gVGhlIGxhc3QgcGFyYWdyYXBoIG1vc3Qgc3Ryb25nbHkgc3VnZ2VzdHMgdGhhdCBhICJwcm9jZWR1cmFsIHJlcHVibGljIiBpcyBhIHJlcHVibGljOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGtub3duIGZvciBoYXZpbmcgZ29vZCBwb2xpdGljYWwgcHJvY2VkdXJlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoYXQgaGFzIGRldmVsb3BlZCBhIGZvcm1hdGl2ZSBwb2xpdGljcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJhc2VkIHVwb24gbWFueSBydWxlcyBhbmQgcmVndWxhdGlvbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdpdGggYSBuZXV0cmFsIGZyYW1ld29yayBvZiByaWdodHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIGF1dGhvciBvZiB0aGUgcGFzc2FnZSBjbGFpbXMgdGhhdCB0aGUgbGliZXJhbCB2aXNpb24gb2YgZnJlZWRvbSBjYW5ub3QgcHJvdmlkZSBsaWJlcnR5IGJlY2F1c2UgdGhhdCB2aXNpb246
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGdpdmVzIGNpdGl6ZW5zIHRvbyBtYW55IGNob2ljZXMgdG8gY29uc2lkZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRvZXMgbm90IHRlYWNoIGNpdGl6ZW5zIHRvIGNhcmUgYWJvdXQgY29tbXVuaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluc3BpcmVzIG1vcmFsIG5ldXRyYWxpdHksIHdoaWNoIGlzIGFudGlnb3Zlcm5tZW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlcGVuZHMgdG9vIGhlYXZpbHkgb24gdGhlIGNvbmNlcHQgb2YgbGVnaXNsYXRpbmcgbW9yYWxpdHkuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

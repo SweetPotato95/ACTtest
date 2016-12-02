@@ -1,86 +1,86 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from The Blind Watchmaker by Richard Dawkins (?1988 by Richard Dawkins).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The South American and the African weakly elec?tric fish are quite unrelated to each other, but both live in the same kinds of waters in their respective conti?nents, waters that are too muddy for vision to be effective. The physical principle that they exploit—electric fields in water—is even more alien to our conscious?ness than that of bats and dolphins. We at least have a subjective idea of what an echo is, but we have almost no subjective idea of what it might be like to perceive an electric field. We didn't even know of the existence of electricity until a couple of centuries ago.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBUaGUgQmxpbmQgV2F0Y2htYWtlciBieSBSaWNoYXJkIERhd2tpbnMgKD8xOTg4IGJ5IFJpY2hhcmQgRGF3a2lucykuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBTb3V0aCBBbWVyaWNhbiBhbmQgdGhlIEFmcmljYW4gd2Vha2x5IGVsZWM/dHJpYyBmaXNoIGFyZSBxdWl0ZSB1bnJlbGF0ZWQgdG8gZWFjaCBvdGhlciwgYnV0IGJvdGggbGl2ZSBpbiB0aGUgc2FtZSBraW5kcyBvZiB3YXRlcnMgaW4gdGhlaXIgcmVzcGVjdGl2ZSBjb250aT9uZW50cywgd2F0ZXJzIHRoYXQgYXJlIHRvbyBtdWRkeSBmb3IgdmlzaW9uIHRvIGJlIGVmZmVjdGl2ZS4gVGhlIHBoeXNpY2FsIHByaW5jaXBsZSB0aGF0IHRoZXkgZXhwbG9pdOKAlGVsZWN0cmljIGZpZWxkcyBpbiB3YXRlcuKAlGlzIGV2ZW4gbW9yZSBhbGllbiB0byBvdXIgY29uc2Npb3VzP25lc3MgdGhhbiB0aGF0IG9mIGJhdHMgYW5kIGRvbHBoaW5zLiBXZSBhdCBsZWFzdCBoYXZlIGEgc3ViamVjdGl2ZSBpZGVhIG9mIHdoYXQgYW4gZWNobyBpcywgYnV0IHdlIGhhdmUgYWxtb3N0IG5vIHN1YmplY3RpdmUgaWRlYSBvZiB3aGF0IGl0IG1pZ2h0IGJlIGxpa2UgdG8gcGVyY2VpdmUgYW4gZWxlY3RyaWMgZmllbGQuIFdlIGRpZG4ndCBldmVuIGtub3cgb2YgdGhlIGV4aXN0ZW5jZSBvZiBlbGVjdHJpY2l0eSB1bnRpbCBhIGNvdXBsZSBvZiBjZW50dXJpZXMgYWdvLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=32>It is easy to see on the dinner plate that the mus?cles down each side of any fish are arranged as a row of segments, a <font id=37>battery</font> of muscle units. In most fish they contract successively to throw the body into sinuous waves, which propel it forward. In electric fish, both strongly and weakly electric ones, they have become a battery in the electric sense. Each segment (cell) of the battery generates a voltage. These voltages are connected up in series along the length of the fish so that, in a strongly electric fish such as an electric eel, the whole battery generates as much as 1 amp at 650 volts. An electric eel is powerful enough to knock a man out. Weakly electric fish don't need high voltages or currents for their purposes, which are purely information-gathering ones. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMyPkl0IGlzIGVhc3kgdG8gc2VlIG9uIHRoZSBkaW5uZXIgcGxhdGUgdGhhdCB0aGUgbXVzP2NsZXMgZG93biBlYWNoIHNpZGUgb2YgYW55IGZpc2ggYXJlIGFycmFuZ2VkIGFzIGEgcm93IG9mIHNlZ21lbnRzLCBhIDxmb250IGlkPTM3PmJhdHRlcnk8L2ZvbnQ+IG9mIG11c2NsZSB1bml0cy4gSW4gbW9zdCBmaXNoIHRoZXkgY29udHJhY3Qgc3VjY2Vzc2l2ZWx5IHRvIHRocm93IHRoZSBib2R5IGludG8gc2ludW91cyB3YXZlcywgd2hpY2ggcHJvcGVsIGl0IGZvcndhcmQuIEluIGVsZWN0cmljIGZpc2gsIGJvdGggc3Ryb25nbHkgYW5kIHdlYWtseSBlbGVjdHJpYyBvbmVzLCB0aGV5IGhhdmUgYmVjb21lIGEgYmF0dGVyeSBpbiB0aGUgZWxlY3RyaWMgc2Vuc2UuIEVhY2ggc2VnbWVudCAoY2VsbCkgb2YgdGhlIGJhdHRlcnkgZ2VuZXJhdGVzIGEgdm9sdGFnZS4gVGhlc2Ugdm9sdGFnZXMgYXJlIGNvbm5lY3RlZCB1cCBpbiBzZXJpZXMgYWxvbmcgdGhlIGxlbmd0aCBvZiB0aGUgZmlzaCBzbyB0aGF0LCBpbiBhIHN0cm9uZ2x5IGVsZWN0cmljIGZpc2ggc3VjaCBhcyBhbiBlbGVjdHJpYyBlZWwsIHRoZSB3aG9sZSBiYXR0ZXJ5IGdlbmVyYXRlcyBhcyBtdWNoIGFzIDEgYW1wIGF0IDY1MCB2b2x0cy4gQW4gZWxlY3RyaWMgZWVsIGlzIHBvd2VyZnVsIGVub3VnaCB0byBrbm9jayBhIG1hbiBvdXQuIFdlYWtseSBlbGVjdHJpYyBmaXNoIGRvbid0IG5lZWQgaGlnaCB2b2x0YWdlcyBvciBjdXJyZW50cyBmb3IgdGhlaXIgcHVycG9zZXMsIHdoaWNoIGFyZSBwdXJlbHkgaW5mb3JtYXRpb24tZ2F0aGVyaW5nIG9uZXMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The principle of electrolocation, as it has been called, is fairly well understood at the level of physics though not, of course, at the level of what it feels like to be an electric fish. The following account applies equally to African and South American weakly electric fish: the convergence is that thorough. Current flows from the front half of the fish, out into the water in lines that curve back and return to the tail end of the fish. There are not really discrete 'lines' but a continu?ous 'field,' an invisible cocoon of electricity surround?ing the fis's body. However, for human visualization it is easiest to think in terms of a <font id=39>family of curved lines</font> leaving the fish through a series of portholes spaced along the front half of the body, all curving round in the water and diving into the fish again at the tip of its tail. The fish has what amounts to a tiny voltmeter monitor?ing the voltage at each 'porthole.' If the fish is sus?pended in open water with no obstacles around, the lines are smooth curves. The tiny voltmeters at each porthole all register the voltage as 'normal' for their porthole. But if some obstacle appears in the vicinity, say a rock or an item of food, the lines of current that happen to hit the obstacle will be changed. This will change the voltage at any porthole whose current line is affected, and the appropriate voltmeter will register the fact. So in theory a computer, by comparing the pattern of voltages registered by the voltmeters at all the port?holes, could calculate the pattern of obstacles around the fish. This is apparently what the fish brain does. Once again, this doesn't have to mean that the fish are clever mathematicians. They have an apparatus that solves the necessary equations, just as our brains unconsciously solve equations every time we catch a ball.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBwcmluY2lwbGUgb2YgZWxlY3Ryb2xvY2F0aW9uLCBhcyBpdCBoYXMgYmVlbiBjYWxsZWQsIGlzIGZhaXJseSB3ZWxsIHVuZGVyc3Rvb2QgYXQgdGhlIGxldmVsIG9mIHBoeXNpY3MgdGhvdWdoIG5vdCwgb2YgY291cnNlLCBhdCB0aGUgbGV2ZWwgb2Ygd2hhdCBpdCBmZWVscyBsaWtlIHRvIGJlIGFuIGVsZWN0cmljIGZpc2guIFRoZSBmb2xsb3dpbmcgYWNjb3VudCBhcHBsaWVzIGVxdWFsbHkgdG8gQWZyaWNhbiBhbmQgU291dGggQW1lcmljYW4gd2Vha2x5IGVsZWN0cmljIGZpc2g6IHRoZSBjb252ZXJnZW5jZSBpcyB0aGF0IHRob3JvdWdoLiBDdXJyZW50IGZsb3dzIGZyb20gdGhlIGZyb250IGhhbGYgb2YgdGhlIGZpc2gsIG91dCBpbnRvIHRoZSB3YXRlciBpbiBsaW5lcyB0aGF0IGN1cnZlIGJhY2sgYW5kIHJldHVybiB0byB0aGUgdGFpbCBlbmQgb2YgdGhlIGZpc2guIFRoZXJlIGFyZSBub3QgcmVhbGx5IGRpc2NyZXRlICdsaW5lcycgYnV0IGEgY29udGludT9vdXMgJ2ZpZWxkLCcgYW4gaW52aXNpYmxlIGNvY29vbiBvZiBlbGVjdHJpY2l0eSBzdXJyb3VuZD9pbmcgdGhlIGZpcydzIGJvZHkuIEhvd2V2ZXIsIGZvciBodW1hbiB2aXN1YWxpemF0aW9uIGl0IGlzIGVhc2llc3QgdG8gdGhpbmsgaW4gdGVybXMgb2YgYSA8Zm9udCBpZD0zOT5mYW1pbHkgb2YgY3VydmVkIGxpbmVzPC9mb250PiBsZWF2aW5nIHRoZSBmaXNoIHRocm91Z2ggYSBzZXJpZXMgb2YgcG9ydGhvbGVzIHNwYWNlZCBhbG9uZyB0aGUgZnJvbnQgaGFsZiBvZiB0aGUgYm9keSwgYWxsIGN1cnZpbmcgcm91bmQgaW4gdGhlIHdhdGVyIGFuZCBkaXZpbmcgaW50byB0aGUgZmlzaCBhZ2FpbiBhdCB0aGUgdGlwIG9mIGl0cyB0YWlsLiBUaGUgZmlzaCBoYXMgd2hhdCBhbW91bnRzIHRvIGEgdGlueSB2b2x0bWV0ZXIgbW9uaXRvcj9pbmcgdGhlIHZvbHRhZ2UgYXQgZWFjaCAncG9ydGhvbGUuJyBJZiB0aGUgZmlzaCBpcyBzdXM/cGVuZGVkIGluIG9wZW4gd2F0ZXIgd2l0aCBubyBvYnN0YWNsZXMgYXJvdW5kLCB0aGUgbGluZXMgYXJlIHNtb290aCBjdXJ2ZXMuIFRoZSB0aW55IHZvbHRtZXRlcnMgYXQgZWFjaCBwb3J0aG9sZSBhbGwgcmVnaXN0ZXIgdGhlIHZvbHRhZ2UgYXMgJ25vcm1hbCcgZm9yIHRoZWlyIHBvcnRob2xlLiBCdXQgaWYgc29tZSBvYnN0YWNsZSBhcHBlYXJzIGluIHRoZSB2aWNpbml0eSwgc2F5IGEgcm9jayBvciBhbiBpdGVtIG9mIGZvb2QsIHRoZSBsaW5lcyBvZiBjdXJyZW50IHRoYXQgaGFwcGVuIHRvIGhpdCB0aGUgb2JzdGFjbGUgd2lsbCBiZSBjaGFuZ2VkLiBUaGlzIHdpbGwgY2hhbmdlIHRoZSB2b2x0YWdlIGF0IGFueSBwb3J0aG9sZSB3aG9zZSBjdXJyZW50IGxpbmUgaXMgYWZmZWN0ZWQsIGFuZCB0aGUgYXBwcm9wcmlhdGUgdm9sdG1ldGVyIHdpbGwgcmVnaXN0ZXIgdGhlIGZhY3QuIFNvIGluIHRoZW9yeSBhIGNvbXB1dGVyLCBieSBjb21wYXJpbmcgdGhlIHBhdHRlcm4gb2Ygdm9sdGFnZXMgcmVnaXN0ZXJlZCBieSB0aGUgdm9sdG1ldGVycyBhdCBhbGwgdGhlIHBvcnQ/aG9sZXMsIGNvdWxkIGNhbGN1bGF0ZSB0aGUgcGF0dGVybiBvZiBvYnN0YWNsZXMgYXJvdW5kIHRoZSBmaXNoLiBUaGlzIGlzIGFwcGFyZW50bHkgd2hhdCB0aGUgZmlzaCBicmFpbiBkb2VzLiBPbmNlIGFnYWluLCB0aGlzIGRvZXNuJ3QgaGF2ZSB0byBtZWFuIHRoYXQgdGhlIGZpc2ggYXJlIGNsZXZlciBtYXRoZW1hdGljaWFucy4gVGhleSBoYXZlIGFuIGFwcGFyYXR1cyB0aGF0IHNvbHZlcyB0aGUgbmVjZXNzYXJ5IGVxdWF0aW9ucywganVzdCBhcyBvdXIgYnJhaW5zIHVuY29uc2Npb3VzbHkgc29sdmUgZXF1YXRpb25zIGV2ZXJ5IHRpbWUgd2UgY2F0Y2ggYSBiYWxsLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It is very important that the fish's own body is kept absolutely rigid. The computer in the head couldn't cope with the extra distortions that would be introduced if the fish's body were bending and twisting like an ordinary fish. Electric fish have, at least twice independently, hit upon this ingenious method of navi?gation, but they have had to pay a price: they have had to give up the normal, highly efficient, fish method of swimming, throwing the whole body into serpentine waves. They have solved the problem by keeping the body stiff as a poker, but they have a single long fin all the way along the length of the body. Then instead of the whole body being thrown into waves, just the long fin is. The fish's progress through the water is rather slow, but it does move, and apparently the sacrifice of fast movement is worth it: the gains in navigation seem to outweigh the losses in speed of swimming. Fascinat?ingly, the South American electric fish have hit upon almost exactly the same solution as the African ones, but not quite. Both groups have developed a single long fin that runs the whole length of the body, but in the African fish it runs along the back whereas in the South American fish it runs along the belly.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IGlzIHZlcnkgaW1wb3J0YW50IHRoYXQgdGhlIGZpc2gncyBvd24gYm9keSBpcyBrZXB0IGFic29sdXRlbHkgcmlnaWQuIFRoZSBjb21wdXRlciBpbiB0aGUgaGVhZCBjb3VsZG4ndCBjb3BlIHdpdGggdGhlIGV4dHJhIGRpc3RvcnRpb25zIHRoYXQgd291bGQgYmUgaW50cm9kdWNlZCBpZiB0aGUgZmlzaCdzIGJvZHkgd2VyZSBiZW5kaW5nIGFuZCB0d2lzdGluZyBsaWtlIGFuIG9yZGluYXJ5IGZpc2guIEVsZWN0cmljIGZpc2ggaGF2ZSwgYXQgbGVhc3QgdHdpY2UgaW5kZXBlbmRlbnRseSwgaGl0IHVwb24gdGhpcyBpbmdlbmlvdXMgbWV0aG9kIG9mIG5hdmk/Z2F0aW9uLCBidXQgdGhleSBoYXZlIGhhZCB0byBwYXkgYSBwcmljZTogdGhleSBoYXZlIGhhZCB0byBnaXZlIHVwIHRoZSBub3JtYWwsIGhpZ2hseSBlZmZpY2llbnQsIGZpc2ggbWV0aG9kIG9mIHN3aW1taW5nLCB0aHJvd2luZyB0aGUgd2hvbGUgYm9keSBpbnRvIHNlcnBlbnRpbmUgd2F2ZXMuIFRoZXkgaGF2ZSBzb2x2ZWQgdGhlIHByb2JsZW0gYnkga2VlcGluZyB0aGUgYm9keSBzdGlmZiBhcyBhIHBva2VyLCBidXQgdGhleSBoYXZlIGEgc2luZ2xlIGxvbmcgZmluIGFsbCB0aGUgd2F5IGFsb25nIHRoZSBsZW5ndGggb2YgdGhlIGJvZHkuIFRoZW4gaW5zdGVhZCBvZiB0aGUgd2hvbGUgYm9keSBiZWluZyB0aHJvd24gaW50byB3YXZlcywganVzdCB0aGUgbG9uZyBmaW4gaXMuIFRoZSBmaXNoJ3MgcHJvZ3Jlc3MgdGhyb3VnaCB0aGUgd2F0ZXIgaXMgcmF0aGVyIHNsb3csIGJ1dCBpdCBkb2VzIG1vdmUsIGFuZCBhcHBhcmVudGx5IHRoZSBzYWNyaWZpY2Ugb2YgZmFzdCBtb3ZlbWVudCBpcyB3b3J0aCBpdDogdGhlIGdhaW5zIGluIG5hdmlnYXRpb24gc2VlbSB0byBvdXR3ZWlnaCB0aGUgbG9zc2VzIGluIHNwZWVkIG9mIHN3aW1taW5nLiBGYXNjaW5hdD9pbmdseSwgdGhlIFNvdXRoIEFtZXJpY2FuIGVsZWN0cmljIGZpc2ggaGF2ZSBoaXQgdXBvbiBhbG1vc3QgZXhhY3RseSB0aGUgc2FtZSBzb2x1dGlvbiBhcyB0aGUgQWZyaWNhbiBvbmVzLCBidXQgbm90IHF1aXRlLiBCb3RoIGdyb3VwcyBoYXZlIGRldmVsb3BlZCBhIHNpbmdsZSBsb25nIGZpbiB0aGF0IHJ1bnMgdGhlIHdob2xlIGxlbmd0aCBvZiB0aGUgYm9keSwgYnV0IGluIHRoZSBBZnJpY2FuIGZpc2ggaXQgcnVucyBhbG9uZyB0aGUgYmFjayB3aGVyZWFzIGluIHRoZSBTb3V0aCBBbWVyaWNhbiBmaXNoIGl0IHJ1bnMgYWxvbmcgdGhlIGJlbGx5LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">31. Which of the following questions about the South American and African weakly electric fish does the passage NOT directly answer?
-<div class = "choice">A. What do they use electrolocation for?</div>
-<div class = "choice">B. What effect does their differing fin location have?</div>
-<div class = "choice">C. What do the voltmeters on the fish do?</div>
-<div class = "choice">D. Why do they swim more slowly than ordinary fish?</div>
-</div>
-###################
-<div class = "quiz">32. The author does all of the following in the second paragraph (lines 12-26) EXCEPT:
-<div class = "choice">F. contrast electric fish to other types of fish.</div>
-<div class = "choice">G. compare strongly electric fish to weakly electric fish.</div>
-<div class = "choice">H. begin to explain electrolocation.</div>
-<div class = "choice">J. give an example of a weakly electric fish.</div>
-</div>
-###################
-<div class = "quiz">33. According to the author's simplified description in the passage, the flow of electric current generated by the weakly electric fish enters the water from the:
-<div class = "choice">A. tip of the tail and is reabsorbed into the head.</div>
-<div class = "choice">B. head and is reabsorbed into the portholes.</div>
-<div class = "choice">C. portholes and is reabsorbed into the portholes.</div>
-<br>
-<div class = "choice">D. portholes and is reabsorbed into the tip of the tail.</div>
-</div>
-###################
-<div class = "quiz">34. According to the passage, a weakly electric fish would know if there were a rock in its path because the:
-<div class = "choice">F. lines of current the fish generates would be in a smooth curve around the fish.</div>
-<div class = "choice">G. fish would receive a small shock when the current it generates contacted the rock.</div>
-<div class = "choice">H. current the fish generates would create a sound when it contacted objects.</div>
-<div class = "choice">J. affected lines of current generated by the fish would produce detectable changes in voltage.</div>
-</div>
-###################
-<div class = "quiz">35. The main focus of the last paragraph is on the way weakly electric fish differ from ordinary fish in terms of:
-<div class = "choice">A. the length of their bodies.</div>
-<div class = "choice">B. how they swim.</div>
-<div class = "choice">C. how they use sight.</div>
-<div class = "choice">D. the complexity of their brains.</div>
-</div>
-###################
-<div class = "quiz">36. The passage indicates that weakly electric fish have developed a system of navigation using electric fields because:
-<div class = "choice">F. as predators, it gives them an advantage over other fish.</div>
-<div class = "choice">G. it helps keep them on course during lengthy migrations.</div>
-<div class = "choice">H. they are nocturnal creatures and swim only in the dark.</div>
-<div class = "choice">J. their habitats are muddy and therefore visibility is limited.</div>
-</div>
-###################
-<div class = "quiz">37. As it is used in line 14, the word battery most nearly refers to the:
-<div class = "choice">A. arrangement of fish muscles.</div>
-<div class = "choice">B. electric field produced by fish muscles.</div>
-<div class = "choice">C. energy that propels fish forward.</div>
-<div class = "choice">D. different kinds of muscles contained in fish.</div>
-</div>
-###################
-<div class = "quiz">38. According to the passage, an electric eel is a type of:
-<div class = "choice">F. South American weakly electric fish.</div>
-<div class = "choice">G. African weakly electric fish.</div>
-<div class = "choice">H. strongly electric fish.</div>
-<div class = "choice">J. dangerous water snake.</div>
-</div>
-###################
-<div class = "quiz">39. The author indicates that he chooses to describe the electric field emitted by the weakly electric fish as a "family of curved lines" (line 38) because:
-<div class = "choice">A. that is the precise scientific terminology for the phenomenon.</div>
-<div class = "choice">B. this image is relatively easy for people to visualize.</div>
-<div class = "choice">C. cocoons are made from curved lines.</div>
-<div class = "choice">D. each line supports the others, like family members support each other.</div>
-</div>
-###################
-<div class = "quiz">40. According to the passage, successful navigation for weakly electric fish requires:
-<div class = "choice">F. frequent breaks in motion.</div>
-<div class = "choice">G. an unobstructed swimming area.</div>
-<div class = "choice">H. a rigid body.</div>
-<div class = "choice">J. rapid water currents.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgYWJvdXQgdGhlIFNvdXRoIEFtZXJpY2FuIGFuZCBBZnJpY2FuIHdlYWtseSBlbGVjdHJpYyBmaXNoIGRvZXMgdGhlIHBhc3NhZ2UgTk9UIGRpcmVjdGx5IGFuc3dlcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFdoYXQgZG8gdGhleSB1c2UgZWxlY3Ryb2xvY2F0aW9uIGZvcj88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFdoYXQgZWZmZWN0IGRvZXMgdGhlaXIgZGlmZmVyaW5nIGZpbiBsb2NhdGlvbiBoYXZlPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdoYXQgZG8gdGhlIHZvbHRtZXRlcnMgb24gdGhlIGZpc2ggZG8/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFdoeSBkbyB0aGV5IHN3aW0gbW9yZSBzbG93bHkgdGhhbiBvcmRpbmFyeSBmaXNoPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gVGhlIGF1dGhvciBkb2VzIGFsbCBvZiB0aGUgZm9sbG93aW5nIGluIHRoZSBzZWNvbmQgcGFyYWdyYXBoIChsaW5lcyAxMi0yNikgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbnRyYXN0IGVsZWN0cmljIGZpc2ggdG8gb3RoZXIgdHlwZXMgb2YgZmlzaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbXBhcmUgc3Ryb25nbHkgZWxlY3RyaWMgZmlzaCB0byB3ZWFrbHkgZWxlY3RyaWMgZmlzaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJlZ2luIHRvIGV4cGxhaW4gZWxlY3Ryb2xvY2F0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdpdmUgYW4gZXhhbXBsZSBvZiBhIHdlYWtseSBlbGVjdHJpYyBmaXNoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQWNjb3JkaW5nIHRvIHRoZSBhdXRob3IncyBzaW1wbGlmaWVkIGRlc2NyaXB0aW9uIGluIHRoZSBwYXNzYWdlLCB0aGUgZmxvdyBvZiBlbGVjdHJpYyBjdXJyZW50IGdlbmVyYXRlZCBieSB0aGUgd2Vha2x5IGVsZWN0cmljIGZpc2ggZW50ZXJzIHRoZSB3YXRlciBmcm9tIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRpcCBvZiB0aGUgdGFpbCBhbmQgaXMgcmVhYnNvcmJlZCBpbnRvIHRoZSBoZWFkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhlYWQgYW5kIGlzIHJlYWJzb3JiZWQgaW50byB0aGUgcG9ydGhvbGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBvcnRob2xlcyBhbmQgaXMgcmVhYnNvcmJlZCBpbnRvIHRoZSBwb3J0aG9sZXMuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBvcnRob2xlcyBhbmQgaXMgcmVhYnNvcmJlZCBpbnRvIHRoZSB0aXAgb2YgdGhlIHRhaWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBhIHdlYWtseSBlbGVjdHJpYyBmaXNoIHdvdWxkIGtub3cgaWYgdGhlcmUgd2VyZSBhIHJvY2sgaW4gaXRzIHBhdGggYmVjYXVzZSB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxpbmVzIG9mIGN1cnJlbnQgdGhlIGZpc2ggZ2VuZXJhdGVzIHdvdWxkIGJlIGluIGEgc21vb3RoIGN1cnZlIGFyb3VuZCB0aGUgZmlzaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZpc2ggd291bGQgcmVjZWl2ZSBhIHNtYWxsIHNob2NrIHdoZW4gdGhlIGN1cnJlbnQgaXQgZ2VuZXJhdGVzIGNvbnRhY3RlZCB0aGUgcm9jay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGN1cnJlbnQgdGhlIGZpc2ggZ2VuZXJhdGVzIHdvdWxkIGNyZWF0ZSBhIHNvdW5kIHdoZW4gaXQgY29udGFjdGVkIG9iamVjdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmZmVjdGVkIGxpbmVzIG9mIGN1cnJlbnQgZ2VuZXJhdGVkIGJ5IHRoZSBmaXNoIHdvdWxkIHByb2R1Y2UgZGV0ZWN0YWJsZSBjaGFuZ2VzIGluIHZvbHRhZ2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIG1haW4gZm9jdXMgb2YgdGhlIGxhc3QgcGFyYWdyYXBoIGlzIG9uIHRoZSB3YXkgd2Vha2x5IGVsZWN0cmljIGZpc2ggZGlmZmVyIGZyb20gb3JkaW5hcnkgZmlzaCBpbiB0ZXJtcyBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBsZW5ndGggb2YgdGhlaXIgYm9kaWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhvdyB0aGV5IHN3aW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhvdyB0aGV5IHVzZSBzaWdodC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZSBjb21wbGV4aXR5IG9mIHRoZWlyIGJyYWlucy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgd2Vha2x5IGVsZWN0cmljIGZpc2ggaGF2ZSBkZXZlbG9wZWQgYSBzeXN0ZW0gb2YgbmF2aWdhdGlvbiB1c2luZyBlbGVjdHJpYyBmaWVsZHMgYmVjYXVzZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFzIHByZWRhdG9ycywgaXQgZ2l2ZXMgdGhlbSBhbiBhZHZhbnRhZ2Ugb3ZlciBvdGhlciBmaXNoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGl0IGhlbHBzIGtlZXAgdGhlbSBvbiBjb3Vyc2UgZHVyaW5nIGxlbmd0aHkgbWlncmF0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZXkgYXJlIG5vY3R1cm5hbCBjcmVhdHVyZXMgYW5kIHN3aW0gb25seSBpbiB0aGUgZGFyay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZWlyIGhhYml0YXRzIGFyZSBtdWRkeSBhbmQgdGhlcmVmb3JlIHZpc2liaWxpdHkgaXMgbGltaXRlZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDE0LCB0aGUgd29yZCBiYXR0ZXJ5IG1vc3QgbmVhcmx5IHJlZmVycyB0byB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFycmFuZ2VtZW50IG9mIGZpc2ggbXVzY2xlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVsZWN0cmljIGZpZWxkIHByb2R1Y2VkIGJ5IGZpc2ggbXVzY2xlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVuZXJneSB0aGF0IHByb3BlbHMgZmlzaCBmb3J3YXJkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRpZmZlcmVudCBraW5kcyBvZiBtdXNjbGVzIGNvbnRhaW5lZCBpbiBmaXNoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBhbiBlbGVjdHJpYyBlZWwgaXMgYSB0eXBlIG9mOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNvdXRoIEFtZXJpY2FuIHdlYWtseSBlbGVjdHJpYyBmaXNoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFmcmljYW4gd2Vha2x5IGVsZWN0cmljIGZpc2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0cm9uZ2x5IGVsZWN0cmljIGZpc2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRhbmdlcm91cyB3YXRlciBzbmFrZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIGF1dGhvciBpbmRpY2F0ZXMgdGhhdCBoZSBjaG9vc2VzIHRvIGRlc2NyaWJlIHRoZSBlbGVjdHJpYyBmaWVsZCBlbWl0dGVkIGJ5IHRoZSB3ZWFrbHkgZWxlY3RyaWMgZmlzaCBhcyBhICJmYW1pbHkgb2YgY3VydmVkIGxpbmVzIiAobGluZSAzOCkgYmVjYXVzZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoYXQgaXMgdGhlIHByZWNpc2Ugc2NpZW50aWZpYyB0ZXJtaW5vbG9neSBmb3IgdGhlIHBoZW5vbWVub24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoaXMgaW1hZ2UgaXMgcmVsYXRpdmVseSBlYXN5IGZvciBwZW9wbGUgdG8gdmlzdWFsaXplLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvY29vbnMgYXJlIG1hZGUgZnJvbSBjdXJ2ZWQgbGluZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVhY2ggbGluZSBzdXBwb3J0cyB0aGUgb3RoZXJzLCBsaWtlIGZhbWlseSBtZW1iZXJzIHN1cHBvcnQgZWFjaCBvdGhlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBzdWNjZXNzZnVsIG5hdmlnYXRpb24gZm9yIHdlYWtseSBlbGVjdHJpYyBmaXNoIHJlcXVpcmVzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGZyZXF1ZW50IGJyZWFrcyBpbiBtb3Rpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIHVub2JzdHJ1Y3RlZCBzd2ltbWluZyBhcmVhLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGEgcmlnaWQgYm9keS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJhcGlkIHdhdGVyIGN1cnJlbnRzLjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

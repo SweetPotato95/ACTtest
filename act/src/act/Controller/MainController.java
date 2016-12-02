@@ -26,6 +26,7 @@ public class MainController{
 	private static math mathBrain;
 	private static int currentStatus;
 	private static int testIndex ;
+	private static boolean needUpdatePassage = false;
 	private static boolean isDuringTest = true;private static PrintScore ps = new PrintScore();	public MainController()
 	{
 		
@@ -51,6 +52,7 @@ public class MainController{
 	}
 	public static void handleNext(){
 //		System.out.println(questionIndex+","+splitIndex+","+partIndex);
+		needUpdatePassage = false;
 		if(partIndex >= basicInfo.getTotalPartNum()){
 			handleScore();
 			return;
@@ -88,6 +90,7 @@ public class MainController{
 		else if(basicInfo.isLastInSplit(questionIndex)){
 			questionIndex++;
 			splitIndex++;
+			needUpdatePassage = true;
 		}
 		else
 		{
@@ -100,12 +103,14 @@ public class MainController{
 	
 	public static void handleBef(){
 		//System.out.println(questionIndex+","+splitIndex+","+partIndex);
+		needUpdatePassage = false;
 		if(partIndex > basicInfo.getTotalPartNum() || isInstructionShowing || basicInfo.isFirstInPart(questionIndex)){
 			return;
 		}
 		if(basicInfo.isFirstInSplit(questionIndex)){
 			questionIndex--;
 			splitIndex--;
+			needUpdatePassage = true;
 		}
 		else{
 			questionIndex--;
@@ -244,6 +249,9 @@ public class MainController{
 	public static boolean notThisPartWriting(){
 		
 		return isDuringTest &&((partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing));
+	}
+	public static boolean needUpdatePa(){
+		return needUpdatePassage | (questionIndexinSplit(questionIndex)==0);
 	}
 	
 };

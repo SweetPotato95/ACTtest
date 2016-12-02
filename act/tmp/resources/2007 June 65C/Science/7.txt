@@ -1,0 +1,77 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Vapor pressure is the pressure exerted by the vapor above a liquid in a closed container at a given temperature and at equilibrium. At equilibrium, the .rate of evaporation equals the rate of condensation.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two students observed that the vapor pressure of <img src='file:\$$$\resources\2007 June 65C\imgs\246.png' width = '54'height = '38'/> decreased when <img src='file:\$$$\resources\2007 June 65C\imgs\247.png' width = '60'height = '29'/> was dissolved in the<img src='file:\$$$\resources\2007 June 65C\imgs\248.png' width = '54'height = '38'/>. The students then offered explanations for why this decrease occurred.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Solvent molecules are attracted to charged solute particles. This causes solvent molecules to surround solute particles forming clusters. Additional energy is needed to break solvent molecules free from these clusters. Thus, at a given temperature, the vapor pressure of the solution is lower than that of the pure liquid. The vapor pressure decreases as the concentration of charged solute panicles increases and as the magnitude of the charge on each solute particle increases. Neutral solute particles do not affect the vapor pressure of a liquid.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Vapor pressure decreases because some of the solvent particles that have sufficient energy to escape the solution's surface collide with the solute particles energy. Thus, at a given temperature, the vapor pressure of the solution is lower than that of the pure liquid. The size of the decrease in vapor pressure is directly proportional to the concentration of solute particles. A neutral solute particle decreases the vapor pressure of a liquid by the same amount as does a charged solute particle. The concentration of solute particles is the only factor that affects the vapor pressure of a liquid.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three l kg solutions were made by dissolving 1.0 mole (<img src='file:\$$$\resources\2007 June 65C\imgs\249.png' width = '82'height = '34'/>units or molecules) of glucose, <img src='file:\$$$\resources\2007 June 65C\imgs\250.png' width = '60'height = '30'/>, or<img src='file:\$$$\resources\2007 June 65C\imgs\251.png' width = '65'height = '38'/>, respectively, in distilled<img src='file:\$$$\resources\2007 June 65C\imgs\252.png' width = '54'height = '38'/>. Thus, the concentration of each solution was 1.0 mole/kg. Table 1 shows the solute particle(s) resulting from each unit (or molecule) of each substance dissolved in<img src='file:\$$$\resources\2007 June 65C\imgs\253.png' width = '54'height = '38'/>. The students then measured the vapor pressure of distilled <img src='file:\$$$\resources\2007 June 65C\imgs\254.png' width = '54'height = '38'/> and of each solution at 25℃.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="3" style="width:564.9pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="377"><p ><span lang="EN-US">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:136.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p ><span lang="EN-US">Solution </span></p></td><td style="width:144.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p ><span lang="EN-US">Solute </span></p></td><td style="width:284.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="189"><p ><span lang="EN-US">Resulting solute particle(s)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:136.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p ><span lang="EN-US">1</span></p></td><td style="width:144.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p ><span lang="EN-US">glucose</span></p></td><td style="width:284.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="189"><p ><span lang="EN-US">1 particle</span></p><p ><span lang="EN-US">(1 neutral glucose molecule)</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:136.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p ><span lang="EN-US">2</span></p></td><td style="width:144.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p ><span lang="EN-US">NaCl</span></p></td><td style="width:284.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="189"><p ><span lang="EN-US">2 particle</span></p><p ><span lang="EN-US">(1 Na<sup>+</sup></span>and 1 Cl<sup>-</sup>)</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:136.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p ><span lang="EN-US">3</span></p></td><td style="width:144.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p ><span lang="EN-US">CaCl<sub>2</sub></span></p></td><td style="width:284.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="189"><p ><span lang="EN-US">3 particle</span></p><p ><span lang="EN-US">(1 Ca<sup>2+</sup></span>and 2 Cl<sup>-</sup>)</span></p></td></tr></table></div>
+<br>
+###################
+<div class = "quiz">34. Which of the following diagrams best illustrates how Student l would describe the change that occurs when <img src='file:\$$$\resources\2007 June 65C\imgs\255.png' width = '60'height = '30'/> is dissolved in<img src='file:\$$$\resources\2007 June 65C\imgs\256.png' width = '54'height = '38'/>?
+<div class = "choice">F. <img src='file:\$$$\resources\2007 June 65C\imgs\257.png' width = '327'height = '83'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2007 June 65C\imgs\258.png' width = '317'height = '86'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2007 June 65C\imgs\259.png' width = '330'height = '88'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2007 June 65C\imgs\260.png' width = '329'height = '83'/></div>
+</div>
+###################
+<div class = "quiz">35. Do the 2 students differ in their descriptions of how solvent molecules interact with solute particles in a solution?
+<div class = "choice">A. Yes; Student I claims solvent molecules are attracted to charged solute panicles and Student 2 does not.</div>
+<div class = "choice">B. Yes; Student 2 claims solvent molecules are attracted to charged solute particles and Student 1 does not.</div>
+<div class = "choice">C. No; both students claim that the solvent molecules surround charged solute particles.</div>
+<div class = "choice">D. No; neither student discusses the interactions of solvent molecules with solute particles.</div>
+</div>
+###################
+<div class = "quiz">36. Based on Table l, how did the concentration of solute particles in Solution 3 compare to the concentration of solute particles in Solution l? The concentration of solute particles in Solution 3 was:
+<div class = "choice">F. lower; because each <img src='file:\$$$\resources\2007 June 65C\imgs\261.png' width = '65'height = '38'/> unit dissolves into fewer solute particles than does each glucose molecule.</div>
+<div class = "choice">G. lower, because each <img src='file:\$$$\resources\2007 June 65C\imgs\262.png' width = '65'height = '38'/> unit dissolves into more solute particles than does each glucose molecule.</div>
+<div class = "choice">H. higher, because each <img src='file:\$$$\resources\2007 June 65C\imgs\263.png' width = '65'height = '38'/> unit dissolves into fewer solute particles than does each glucose molecule.</div>
+<div class = "choice">J. higher, because each <img src='file:\$$$\resources\2007 June 65C\imgs\264.png' width = '65'height = '38'/> unit dissolves into more solute .particles than does each .glucose molecule.</div>
+</div>
+###################
+<div class = "quiz">37. Suppose an experiment showed that each <img src='file:\$$$\resources\2007 June 65C\imgs\265.png' width = '46'height = '34'/> in a saltwater solution exists in a cluster with 3 <img src='file:\$$$\resources\2007 June 65C\imgs\266.png' width = '54'height = '38'/> molecules. This finding would support the explanation(s) of which of the students, if either?
+<div class = "choice">A. Student l only</div>
+<div class = "choice">B. Student 2 only</div>
+<div class = "choice">C. Both students</div>
+<div class = "choice">D. Neither student</div>
+</div>
+###################
+<div class = "quiz">38. When table sugar is dissolved in pure <img src='file:\$$$\resources\2007 June 65C\imgs\267.png' width = '54'height = '38'/> at 25℃, the vapor pressure at equilibrium is lower than that of pure <img src='file:\$$$\resources\2007 June 65C\imgs\268.png' width = '54'height = '38'/> at 25℃. Because dissolved table sugar molecules are neutral, this observation contradicts the explanation of:
+<div class = "choice">F. Student l, because Student 1 claims that only charged solute particles can cause the vapor pressure to decrease.</div>
+<div class = "choice">G. Student 2. because Student 2 claims that only charged solute particles can cause the vapor pressure to decrease.</div>
+<div class = "choice">H. Student l, because .Student l claims that only uncharged solute particles can cause the vapor pressure to decrease.</div>
+<div class = "choice">J. Student 2, because Student 2 claims that only uncharged solute particles can cause the vapor pressure to decrease.</div>
+</div>
+###################
+<div class = "quiz">39. With which of the following statements about solutes would both .students agree? Adding to a liquid a substance that dissolves:
+<div class = "choice">A. and dissociates into ions will decrease the liquid's vapor pressure.</div>
+<div class = "choice">B. and dissociates into ions will increase the liquid's vapor pressure.</div>
+<div class = "choice">C. but does not dissociate into ions will decrease the liquid's vapor pressure.</div>
+<div class = "choice">D. but does not dissociate into ions will increase the liquid's vapor pressure.</div>
+</div>
+###################
+<div class = "quiz">40. Assume the following for the addition of a substance to a pure liquid:
+<img src='file:\$$$\resources\2007 June 65C\imgs\269.png' width = '351'height = '34'/>
+<img src='file:\$$$\resources\2007 June 65C\imgs\270.png' width = '406'height = '34'/>
+k=a constant
+Which of 'the following equations is most consistent with Student 2's explanation?
+<div class = "choice">F. <img src='file:\$$$\resources\2007 June 65C\imgs\271.png' width = '94'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2007 June 65C\imgs\272.png' width = '122'height = '34'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2007 June 65C\imgs\273.png' width = '84'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2007 June 65C\imgs\274.png' width = '113'height = '29'/></div>
+</div>
+###################

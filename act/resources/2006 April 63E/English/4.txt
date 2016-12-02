@@ -1,125 +1,125 @@
-<h1>A Problem Solver and an Inventor</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dr. George Franklin Grant was a brilliant, innovative dentist and a professor at Harvard University. But the achievement <font id=46>that he is most widely remembered for</font> today is his <font id=47>invention and creation</font> of the wooden golf tee.</div>
+PGgxPkEgUHJvYmxlbSBTb2x2ZXIgYW5kIGFuIEludmVudG9yPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRyLiBHZW9yZ2UgRnJhbmtsaW4gR3JhbnQgd2FzIGEgYnJpbGxpYW50LCBpbm5vdmF0aXZlIGRlbnRpc3QgYW5kIGEgcHJvZmVzc29yIGF0IEhhcnZhcmQgVW5pdmVyc2l0eS4gQnV0IHRoZSBhY2hpZXZlbWVudCA8Zm9udCBpZD00Nj50aGF0IGhlIGlzIG1vc3Qgd2lkZWx5IHJlbWVtYmVyZWQgZm9yPC9mb250PiB0b2RheSBpcyBoaXMgPGZvbnQgaWQ9NDc+aW52ZW50aW9uIGFuZCBjcmVhdGlvbjwvZm9udD4gb2YgdGhlIHdvb2RlbiBnb2xmIHRlZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An avid golfer, Dr. Grant invented and patented the tee in 1899. Before <font id=48>his</font> invention, golfers preparing to tee off (hit their first shot) had to shape a mound of moist dirt or sand to raise the golf ball off the turf in order <font id=49>to hit</font> it cleanly. Unfortunately, the ball would often roll off the handmade mound before the golfer could complete his or her swing. By both raising and stabilizing the ball, Grant's invention <font id=50>remedied</font> this problem.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuIGF2aWQgZ29sZmVyLCBEci4gR3JhbnQgaW52ZW50ZWQgYW5kIHBhdGVudGVkIHRoZSB0ZWUgaW4gMTg5OS4gQmVmb3JlIDxmb250IGlkPTQ4PmhpczwvZm9udD4gaW52ZW50aW9uLCBnb2xmZXJzIHByZXBhcmluZyB0byB0ZWUgb2ZmIChoaXQgdGhlaXIgZmlyc3Qgc2hvdCkgaGFkIHRvIHNoYXBlIGEgbW91bmQgb2YgbW9pc3QgZGlydCBvciBzYW5kIHRvIHJhaXNlIHRoZSBnb2xmIGJhbGwgb2ZmIHRoZSB0dXJmIGluIG9yZGVyIDxmb250IGlkPTQ5PnRvIGhpdDwvZm9udD4gaXQgY2xlYW5seS4gVW5mb3J0dW5hdGVseSwgdGhlIGJhbGwgd291bGQgb2Z0ZW4gcm9sbCBvZmYgdGhlIGhhbmRtYWRlIG1vdW5kIGJlZm9yZSB0aGUgZ29sZmVyIGNvdWxkIGNvbXBsZXRlIGhpcyBvciBoZXIgc3dpbmcuIEJ5IGJvdGggcmFpc2luZyBhbmQgc3RhYmlsaXppbmcgdGhlIGJhbGwsIEdyYW50J3MgaW52ZW50aW9uIDxmb250IGlkPTUwPnJlbWVkaWVkPC9mb250PiB0aGlzIHByb2JsZW0uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=51>The tee Dr. Grant invented was not marketed for commercial use. </font> After earning his doctor of dental surgery degree from Harvard University in 1870, Grant became one of Harvard's first African American professors. An internationally recognized expert in mechanical dentistry, he designed a new style of dental bridge, a device that provides support for individuals who have lost or broken teeth. Those constructed according to <font id=52>Grants design</font> fit so well and so comfortably that the general health of his patients <font id=53>have been</font> measurably improved.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTUxPlRoZSB0ZWUgRHIuIEdyYW50IGludmVudGVkIHdhcyBub3QgbWFya2V0ZWQgZm9yIGNvbW1lcmNpYWwgdXNlLiA8L2ZvbnQ+IEFmdGVyIGVhcm5pbmcgaGlzIGRvY3RvciBvZiBkZW50YWwgc3VyZ2VyeSBkZWdyZWUgZnJvbSBIYXJ2YXJkIFVuaXZlcnNpdHkgaW4gMTg3MCwgR3JhbnQgYmVjYW1lIG9uZSBvZiBIYXJ2YXJkJ3MgZmlyc3QgQWZyaWNhbiBBbWVyaWNhbiBwcm9mZXNzb3JzLiBBbiBpbnRlcm5hdGlvbmFsbHkgcmVjb2duaXplZCBleHBlcnQgaW4gbWVjaGFuaWNhbCBkZW50aXN0cnksIGhlIGRlc2lnbmVkIGEgbmV3IHN0eWxlIG9mIGRlbnRhbCBicmlkZ2UsIGEgZGV2aWNlIHRoYXQgcHJvdmlkZXMgc3VwcG9ydCBmb3IgaW5kaXZpZHVhbHMgd2hvIGhhdmUgbG9zdCBvciBicm9rZW4gdGVldGguIFRob3NlIGNvbnN0cnVjdGVkIGFjY29yZGluZyB0byA8Zm9udCBpZD01Mj5HcmFudHMgZGVzaWduPC9mb250PiBmaXQgc28gd2VsbCBhbmQgc28gY29tZm9ydGFibHkgdGhhdCB0aGUgZ2VuZXJhbCBoZWFsdGggb2YgaGlzIHBhdGllbnRzIDxmb250IGlkPTUzPmhhdmUgYmVlbjwvZm9udD4gbWVhc3VyYWJseSBpbXByb3ZlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dr. Grant's <font id=54>invention of the golf tee</font> and his innovative dental bridge may seem to be an unlikely pairing. However, each accomplishment exemplifies a characteristic common to innovators: the ability to identify and solve a problem. In both of these cases, Grant recognized <font id=55>a need</font> and focused his skills, imagination, and intelligence <font id=56>to</font> devising a way to fill that need.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRyLiBHcmFudCdzIDxmb250IGlkPTU0PmludmVudGlvbiBvZiB0aGUgZ29sZiB0ZWU8L2ZvbnQ+IGFuZCBoaXMgaW5ub3ZhdGl2ZSBkZW50YWwgYnJpZGdlIG1heSBzZWVtIHRvIGJlIGFuIHVubGlrZWx5IHBhaXJpbmcuIEhvd2V2ZXIsIGVhY2ggYWNjb21wbGlzaG1lbnQgZXhlbXBsaWZpZXMgYSBjaGFyYWN0ZXJpc3RpYyBjb21tb24gdG8gaW5ub3ZhdG9yczogdGhlIGFiaWxpdHkgdG8gaWRlbnRpZnkgYW5kIHNvbHZlIGEgcHJvYmxlbS4gSW4gYm90aCBvZiB0aGVzZSBjYXNlcywgR3JhbnQgcmVjb2duaXplZCA8Zm9udCBpZD01NT5hIG5lZWQ8L2ZvbnQ+IGFuZCBmb2N1c2VkIGhpcyBza2lsbHMsIGltYWdpbmF0aW9uLCBhbmQgaW50ZWxsaWdlbmNlIDxmb250IGlkPTU2PnRvPC9mb250PiBkZXZpc2luZyBhIHdheSB0byBmaWxsIHRoYXQgbmVlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=57>Instead, </font> Dr. George Franklin Grant made a lasting impression on the world as an innovative engineer in both of the fields he loved. A brilliant professor of <font id=58>dentistry: </font> he is best remembered for making it possible for generations of golfers <font id=59>concentrated</font> on their swings without worrying about whether their golf balls would remain in place as they swung.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTU3Pkluc3RlYWQsIDwvZm9udD4gRHIuIEdlb3JnZSBGcmFua2xpbiBHcmFudCBtYWRlIGEgbGFzdGluZyBpbXByZXNzaW9uIG9uIHRoZSB3b3JsZCBhcyBhbiBpbm5vdmF0aXZlIGVuZ2luZWVyIGluIGJvdGggb2YgdGhlIGZpZWxkcyBoZSBsb3ZlZC4gQSBicmlsbGlhbnQgcHJvZmVzc29yIG9mIDxmb250IGlkPTU4PmRlbnRpc3RyeTogPC9mb250PiBoZSBpcyBiZXN0IHJlbWVtYmVyZWQgZm9yIG1ha2luZyBpdCBwb3NzaWJsZSBmb3IgZ2VuZXJhdGlvbnMgb2YgZ29sZmVycyA8Zm9udCBpZD01OT5jb25jZW50cmF0ZWQ8L2ZvbnQ+IG9uIHRoZWlyIHN3aW5ncyB3aXRob3V0IHdvcnJ5aW5nIGFib3V0IHdoZXRoZXIgdGhlaXIgZ29sZiBiYWxscyB3b3VsZCByZW1haW4gaW4gcGxhY2UgYXMgdGhleSBzd3VuZy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">46. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. in which he is most widely remembered for</div>
-<div class = "choice">G. that he is remembered most widely for</div>
-<div class = "choice">H. for which he is most widely remembered</div>
-<div class = "choice">J. he is most widely remembered for</div>
-</div>
-###################
-<div class = "quiz">47.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. invention, which was the creation</div>
-<div class = "choice">C. invention, that is, the creation</div>
-<div class = "choice">D. invention</div>
-</div>
-###################
-<div class = "quiz">48.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. their</div>
-<div class = "choice">H. its'</div>
-<div class = "choice">J. it's</div>
-</div>
-###################
-<div class = "quiz">49.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. for hitting</div>
-<div class = "choice">C. to hitting</div>
-<div class = "choice">D. that hit</div>
-</div>
-###################
-<div class = "quiz">50. Which of the following alternatives to the underlined portion would be LEAST acceptable?
-<div class = "choice">F. corrected</div>
-<div class = "choice">G. alleviated</div>
-<div class = "choice">H. fixed</div>
-<div class = "choice">J. rescued</div>
-</div>
-###################
-<div class = "quiz">51. Given that all the choices are true, which one would best introduce the new subject of this paragraph?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Dr. Grant's achievements in the world of dentistry are equally impressive.</div>
-<div class = "choice">C. Dr. Grant believed that golf helped build discipline and friendships.</div>
-<div class = "choice">D. friends of Dr. Grant were the happy recipients of his invention.</div>
-</div>
-###################
-<div class = "quiz">52.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Grant's design</div>
-<div class = "choice">H. Grant's design,</div>
-<div class = "choice">J. Grants design,</div>
-</div>
-###################
-<div class = "quiz">53.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. was</div>
-<div class = "choice">C. are</div>
-<div class = "choice">D. were</div>
-</div>
-###################
-<div class = "quiz">54.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. invention, of the golf tee,</div>
-<div class = "choice">H. invention, of the golf tee</div>
-<div class = "choice">J. invention of the golf tee,</div>
-</div>
-###################
-<div class = "quiz">55.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. a lack of something that was needed</div>
-<div class = "choice">C. that a need was in existence</div>
-<div class = "choice">D. a need that was out there</div>
-</div>
-###################
-<div class = "quiz">56.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. at</div>
-<div class = "choice">H. on</div>
-<div class = "choice">J. for</div>
-</div>
-###################
-<div class = "quiz">57.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. In addition,</div>
-<div class = "choice">C. In contrast,</div>
-<div class = "choice">D. OMIT the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">58.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. dentistry;</div>
-<div class = "choice">H. dentistry,</div>
-<div class = "choice">J. dentistry</div>
-</div>
-###################
-<div class = "quiz">59.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. concentrating</div>
-<div class = "choice">C. concentrate</div>
-<div class = "choice">D. to concentrate</div>
-</div>
-###################
-<div class = "quiz">60. Suppose the writer's goal had been to write a brief essay documenting key innovations in golf equipment. Would this essay successfully fulfill that goal?
-Question 60 asks about the preceding passage as a whole.
-<div class = "choice">F. Yes, because it highlights an important invention that changed the way golf is played.</div>
-<div class = "choice">G. Yes, because it tells readers how and when a key innovation was introduced to the game of golf.</div>
-<div class = "choice">H. No, because it fails to mention any improvements to golf equipment other than the tee.</div>
-<div class = "choice">J. No, because it does not include information about tees made of plastic or metal.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ni4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluIHdoaWNoIGhlIGlzIG1vc3Qgd2lkZWx5IHJlbWVtYmVyZWQgZm9yPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoYXQgaGUgaXMgcmVtZW1iZXJlZCBtb3N0IHdpZGVseSBmb3I8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZvciB3aGljaCBoZSBpcyBtb3N0IHdpZGVseSByZW1lbWJlcmVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhlIGlzIG1vc3Qgd2lkZWx5IHJlbWVtYmVyZWQgZm9yPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGludmVudGlvbiwgd2hpY2ggd2FzIHRoZSBjcmVhdGlvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGludmVudGlvbiwgdGhhdCBpcywgdGhlIGNyZWF0aW9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGludmVudGlvbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZWlyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGl0cyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGl0J3M8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZvciBoaXR0aW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRvIGhpdHRpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoYXQgaGl0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBiZSBMRUFTVCBhY2NlcHRhYmxlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvcnJlY3RlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFsbGV2aWF0ZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZpeGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlc2N1ZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSB3b3VsZCBiZXN0IGludHJvZHVjZSB0aGUgbmV3IHN1YmplY3Qgb2YgdGhpcyBwYXJhZ3JhcGg/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIERyLiBHcmFudCdzIGFjaGlldmVtZW50cyBpbiB0aGUgd29ybGQgb2YgZGVudGlzdHJ5IGFyZSBlcXVhbGx5IGltcHJlc3NpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIERyLiBHcmFudCBiZWxpZXZlZCB0aGF0IGdvbGYgaGVscGVkIGJ1aWxkIGRpc2NpcGxpbmUgYW5kIGZyaWVuZHNoaXBzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZyaWVuZHMgb2YgRHIuIEdyYW50IHdlcmUgdGhlIGhhcHB5IHJlY2lwaWVudHMgb2YgaGlzIGludmVudGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEdyYW50J3MgZGVzaWduPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEdyYW50J3MgZGVzaWduLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEdyYW50cyBkZXNpZ24sPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdhczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdlcmU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGludmVudGlvbiwgb2YgdGhlIGdvbGYgdGVlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGludmVudGlvbiwgb2YgdGhlIGdvbGYgdGVlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGludmVudGlvbiBvZiB0aGUgZ29sZiB0ZWUsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgbGFjayBvZiBzb21ldGhpbmcgdGhhdCB3YXMgbmVlZGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoYXQgYSBuZWVkIHdhcyBpbiBleGlzdGVuY2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgbmVlZCB0aGF0IHdhcyBvdXQgdGhlcmU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZvcjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEluIGFkZGl0aW9uLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEluIGNvbnRyYXN0LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE9NSVQgdGhlIHVuZGVybGluZWQgcG9ydGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlbnRpc3RyeTs8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlbnRpc3RyeSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlbnRpc3RyeTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbmNlbnRyYXRpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbmNlbnRyYXRlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRvIGNvbmNlbnRyYXRlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4gU3VwcG9zZSB0aGUgd3JpdGVyJ3MgZ29hbCBoYWQgYmVlbiB0byB3cml0ZSBhIGJyaWVmIGVzc2F5IGRvY3VtZW50aW5nIGtleSBpbm5vdmF0aW9ucyBpbiBnb2xmIGVxdWlwbWVudC4gV291bGQgdGhpcyBlc3NheSBzdWNjZXNzZnVsbHkgZnVsZmlsbCB0aGF0IGdvYWw/
+UXVlc3Rpb24gNjAgYXNrcyBhYm91dCB0aGUgcHJlY2VkaW5nIHBhc3NhZ2UgYXMgYSB3aG9sZS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSBpdCBoaWdobGlnaHRzIGFuIGltcG9ydGFudCBpbnZlbnRpb24gdGhhdCBjaGFuZ2VkIHRoZSB3YXkgZ29sZiBpcyBwbGF5ZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBpdCB0ZWxscyByZWFkZXJzIGhvdyBhbmQgd2hlbiBhIGtleSBpbm5vdmF0aW9uIHdhcyBpbnRyb2R1Y2VkIHRvIHRoZSBnYW1lIG9mIGdvbGYuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIGl0IGZhaWxzIHRvIG1lbnRpb24gYW55IGltcHJvdmVtZW50cyB0byBnb2xmIGVxdWlwbWVudCBvdGhlciB0aGFuIHRoZSB0ZWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGl0IGRvZXMgbm90IGluY2x1ZGUgaW5mb3JtYXRpb24gYWJvdXQgdGVlcyBtYWRlIG9mIHBsYXN0aWMgb3IgbWV0YWwuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

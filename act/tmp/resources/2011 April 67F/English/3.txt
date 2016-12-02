@@ -1,0 +1,127 @@
+<h1>A Peachy Winter Game</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One <font id=31>winteringly</font> New England day in 1891, a Massachusetts YMCA teacher <font id=32>puzzled over how to handle</font> a difficult situation. Outside, the air was <font id=33>frigid inside, </font> the students were bursting with energy and ignoring their lessons. They were, <font id=34>however, </font> being quite disruptive.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The teacher, James Naismith, was a physical education <font id=35>instructor and</font> an ordained minister. He believed that exercising the body was as important as exercising <font id=36>the mental capacities of</font> the mind. <font id=37>Both, in his opinion</font> nourished the human spirit and build character.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aware of Naismith's philosophy, a supervisor challenged the instructor to <font id=38>invent</font> an indoor game that would encourage the use of mental and physical skills. He gave Naismith fourteen days to accomplish this task. In tackling his assignment, <font id=39>popular ball game elements were borrowed</font> of the day. <font id=40>The decision of his to start the competition</font> in the center of the playing territory, as in polo. He would place a goal at each end, as in football. A referee would return out-of-bounds balls to the <font id=41>players, </font> as in rugby.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Naismith wanted the goals placed high above the players. This setup would require the players to throw the ball in an arc to make a goal. A janitor gave Naismith two large wooden peach baskets to use as goals. Naismith attached the baskets to a running track elevated ten feet above the gymnasium floor.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Before the start of the first game, Naismith developed thirteen rules to encourage <font id=42>competition the rules reward</font> both physical ability and strategic planning. <font id=43>Instead, he</font> created an indoor game people could play vigorously and competitively, one that exercises body and mind.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">With excitement in the air, Naismith divided his class into two teams. In a historic moment, he tossed the ball straight up at center court. Players then dribbled the ball, aimed at the baskets, and scored <font id=44>points and his</font> students loved the new sport. What had started as a challenge on a winter <font id=45>day had quickly evolved</font> into the first game of basketball.</div>
+
+<br>
+###################
+<div class = "quiz">31.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. wintering</div>
+<div class = "choice">C. wintry</div>
+<div class = "choice">D. winterishly</div>
+</div>
+###################
+<div class = "quiz">32.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. puzzled, over how to handle</div>
+<div class = "choice">H. puzzled over, how to handle</div>
+<div class = "choice">J. puzzled, over how to handle,</div>
+</div>
+###################
+<div class = "quiz">33.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. frigid inside</div>
+<div class = "choice">C. frigid, inside,</div>
+<div class = "choice">D. frigid. Inside;</div>
+</div>
+###################
+<div class = "quiz">34.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. as the case may be,</div>
+<div class = "choice">H. in fact,</div>
+<div class = "choice">J. regardless of time,</div>
+</div>
+###################
+<div class = "quiz">35. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">A. instructor, Naismith was also</div>
+<div class = "choice">B. instructor, he was also</div>
+<div class = "choice">C. instructor, he was also</div>
+<div class = "choice">D. instructor. In addition, Naismith was</div>
+</div>
+###################
+<div class = "quiz">36.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. the thinking apparatus of</div>
+<div class = "choice">H. the mental attributes pertaining to</div>
+<div class = "choice">J. DELETE the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">37.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Both, in his opinion,</div>
+<div class = "choice">C. Both in his opinion;</div>
+<div class = "choice">D. Both in his opinion,</div>
+</div>
+###################
+<div class = "quiz">38. Which of the following alternatives to the underlined portion would be LEAST acceptable?
+<div class = "choice">F. design</div>
+<div class = "choice">G. come up with</div>
+<div class = "choice">H. develop</div>
+<div class = "choice">J. bring forth</div>
+</div>
+###################
+<div class = "quiz">39.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. elements from popular ball games were borrowed</div>
+<div class = "choice">C. Naismith borrowed elements from popular ball games</div>
+<div class = "choice">D. Naismith's borrowing of elements from popular ball games</div>
+</div>
+###################
+<div class = "quiz">40.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. He decided the competition would start</div>
+<div class = "choice">H. Making the decision to start the competition</div>
+<div class = "choice">J. His decision, starting the competition,</div>
+</div>
+###################
+<div class = "quiz">41.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. player's,</div>
+<div class = "choice">C. players'</div>
+<div class = "choice">D. player's</div>
+</div>
+###################
+<div class = "quiz">42.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. competition and reward</div>
+<div class = "choice">H. competition, and he also made those rules to reward</div>
+<div class = "choice">J. competition. Rewarding it with</div>
+</div>
+###################
+<div class = "quiz">43.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Nevertheless, he</div>
+<div class = "choice">C. On the other hand, he</div>
+<div class = "choice">D. He</div>
+</div>
+###################
+<div class = "quiz">44.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. points and obviously his</div>
+<div class = "choice">H. points and that day his</div>
+<div class = "choice">J. points. His</div>
+</div>
+###################
+<div class = "quiz">45.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. day, had quickly evolved</div>
+<div class = "choice">C. day and quickly evolved,</div>
+<div class = "choice">D. day; had quickly evolved</div>
+<br>
+</div>
+###################

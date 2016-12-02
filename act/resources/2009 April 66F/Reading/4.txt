@@ -1,108 +1,108 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the article "When Research is a Snow Job" by Sarah Boyle (©2002 by National Wildlife).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure is beyond comprehension: Every year, 1,000,000,000,000,000,000,000,000 (1 septillion) snowflakes fall worldwide. As the crystals fall, they encounter different atmospheric conditions that produce flakes with unique attributes. The more complex those conditions are, the more elaborate the crystals.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRe+8mlRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIGFydGljbGUgIldoZW4gUmVzZWFyY2ggaXMgYSBTbm93IEpvYiIgYnkgU2FyYWggQm95bGUgKMKpMjAwMiBieSBOYXRpb25hbCBXaWxkbGlmZSkuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmaWd1cmUgaXMgYmV5b25kIGNvbXByZWhlbnNpb246IEV2ZXJ5IHllYXIsIDEsMDAwLDAwMCwwMDAsMDAwLDAwMCwwMDAsMDAwLDAwMCAoMSBzZXB0aWxsaW9uKSBzbm93Zmxha2VzIGZhbGwgd29ybGR3aWRlLiBBcyB0aGUgY3J5c3RhbHMgZmFsbCwgdGhleSBlbmNvdW50ZXIgZGlmZmVyZW50IGF0bW9zcGhlcmljIGNvbmRpdGlvbnMgdGhhdCBwcm9kdWNlIGZsYWtlcyB3aXRoIHVuaXF1ZSBhdHRyaWJ1dGVzLiBUaGUgbW9yZSBjb21wbGV4IHRob3NlIGNvbmRpdGlvbnMgYXJlLCB0aGUgbW9yZSBlbGFib3JhdGUgdGhlIGNyeXN0YWxzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Kenneth Libbrecht is a physicist at the California Institute of Technology. Along with the work of scientists at the U.S. Department of Agriculture's Agricultural Research Service (ARS), his research is uncovering new information about the magical world of snow crystals—information that has practical applications in such diverse areas as agriculture and the production of electricity.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPktlbm5ldGggTGliYnJlY2h0IGlzIGEgcGh5c2ljaXN0IGF0IHRoZSBDYWxpZm9ybmlhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LiBBbG9uZyB3aXRoIHRoZSB3b3JrIG9mIHNjaWVudGlzdHMgYXQgdGhlIFUuUy4gRGVwYXJ0bWVudCBvZiBBZ3JpY3VsdHVyZSdzIEFncmljdWx0dXJhbCBSZXNlYXJjaCBTZXJ2aWNlIChBUlMpLCBoaXMgcmVzZWFyY2ggaXMgdW5jb3ZlcmluZyBuZXcgaW5mb3JtYXRpb24gYWJvdXQgdGhlIG1hZ2ljYWwgd29ybGQgb2Ygc25vdyBjcnlzdGFsc+KAlGluZm9ybWF0aW9uIHRoYXQgaGFzIHByYWN0aWNhbCBhcHBsaWNhdGlvbnMgaW4gc3VjaCBkaXZlcnNlIGFyZWFzIGFzIGFncmljdWx0dXJlIGFuZCB0aGUgcHJvZHVjdGlvbiBvZiBlbGVjdHJpY2l0eS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Snow crystals are individual crystals—usually in a hexagonal form—while snowflakes are collections of two or more snow crystals. Beginning as condensed water vapor, a crystal typically grows around a nucleus of dust. Its shape depends on how the six side facets—or faces—grow in relation to the top and bottom facets. If they grow relatively tall, the crystal appears column-like; if the side facets are short compared to the length of the bottom and top facets, the crystal looks platelike.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNub3cgY3J5c3RhbHMgYXJlIGluZGl2aWR1YWwgY3J5c3RhbHPigJR1c3VhbGx5IGluIGEgaGV4YWdvbmFsIGZvcm3igJR3aGlsZSBzbm93Zmxha2VzIGFyZSBjb2xsZWN0aW9ucyBvZiB0d28gb3IgbW9yZSBzbm93IGNyeXN0YWxzLiBCZWdpbm5pbmcgYXMgY29uZGVuc2VkIHdhdGVyIHZhcG9yLCBhIGNyeXN0YWwgdHlwaWNhbGx5IGdyb3dzIGFyb3VuZCBhIG51Y2xldXMgb2YgZHVzdC4gSXRzIHNoYXBlIGRlcGVuZHMgb24gaG93IHRoZSBzaXggc2lkZSBmYWNldHPigJRvciBmYWNlc+KAlGdyb3cgaW4gcmVsYXRpb24gdG8gdGhlIHRvcCBhbmQgYm90dG9tIGZhY2V0cy4gSWYgdGhleSBncm93IHJlbGF0aXZlbHkgdGFsbCwgdGhlIGNyeXN0YWwgYXBwZWFycyBjb2x1bW4tbGlrZTsgaWYgdGhlIHNpZGUgZmFjZXRzIGFyZSBzaG9ydCBjb21wYXJlZCB0byB0aGUgbGVuZ3RoIG9mIHRoZSBib3R0b20gYW5kIHRvcCBmYWNldHMsIHRoZSBjcnlzdGFsIGxvb2tzIHBsYXRlbGlrZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Currently Libbrecht is trying to crack the problem of why the crystal facets' growth varies with temperature. He believes this may have something to do with the ice surface's "quasi-liquid" layer, which affects how water molecules stick to the surface.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkN1cnJlbnRseSBMaWJicmVjaHQgaXMgdHJ5aW5nIHRvIGNyYWNrIHRoZSBwcm9ibGVtIG9mIHdoeSB0aGUgY3J5c3RhbCBmYWNldHMnIGdyb3d0aCB2YXJpZXMgd2l0aCB0ZW1wZXJhdHVyZS4gSGUgYmVsaWV2ZXMgdGhpcyBtYXkgaGF2ZSBzb21ldGhpbmcgdG8gZG8gd2l0aCB0aGUgaWNlIHN1cmZhY2UncyAicXVhc2ktbGlxdWlkIiBsYXllciwgd2hpY2ggYWZmZWN0cyBob3cgd2F0ZXIgbW9sZWN1bGVzIHN0aWNrIHRvIHRoZSBzdXJmYWNlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">By manipulating the temperature and humidity within an incubation chamber (and by adding an electric current or various gases at times), Libbrecht creates <font id=38>"designer"' snowflakes</font> in his lab. Such experiments are helping him determine how crystals form.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ5IG1hbmlwdWxhdGluZyB0aGUgdGVtcGVyYXR1cmUgYW5kIGh1bWlkaXR5IHdpdGhpbiBhbiBpbmN1YmF0aW9uIGNoYW1iZXIgKGFuZCBieSBhZGRpbmcgYW4gZWxlY3RyaWMgY3VycmVudCBvciB2YXJpb3VzIGdhc2VzIGF0IHRpbWVzKSwgTGliYnJlY2h0IGNyZWF0ZXMgPGZvbnQgaWQ9Mzg+ImRlc2lnbmVyIicgc25vd2ZsYWtlczwvZm9udD4gaW4gaGlzIGxhYi4gU3VjaCBleHBlcmltZW50cyBhcmUgaGVscGluZyBoaW0gZGV0ZXJtaW5lIGhvdyBjcnlzdGFscyBmb3JtLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">William Wergin, a retired ARS research biologist, and a colleague, Eric Erbe, were using scanning electron microscopy to look at biological problems relating to agriculture. To avoid the laborious procedure that using such equipment usually entails, the two scientists decided to freeze the tissue they were working with and look at it in the frozen state.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldpbGxpYW0gV2VyZ2luLCBhIHJldGlyZWQgQVJTIHJlc2VhcmNoIGJpb2xvZ2lzdCwgYW5kIGEgY29sbGVhZ3VlLCBFcmljIEVyYmUsIHdlcmUgdXNpbmcgc2Nhbm5pbmcgZWxlY3Ryb24gbWljcm9zY29weSB0byBsb29rIGF0IGJpb2xvZ2ljYWwgcHJvYmxlbXMgcmVsYXRpbmcgdG8gYWdyaWN1bHR1cmUuIFRvIGF2b2lkIHRoZSBsYWJvcmlvdXMgcHJvY2VkdXJlIHRoYXQgdXNpbmcgc3VjaCBlcXVpcG1lbnQgdXN1YWxseSBlbnRhaWxzLCB0aGUgdHdvIHNjaWVudGlzdHMgZGVjaWRlZCB0byBmcmVlemUgdGhlIHRpc3N1ZSB0aGV5IHdlcmUgd29ya2luZyB3aXRoIGFuZCBsb29rIGF0IGl0IGluIHRoZSBmcm96ZW4gc3RhdGUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"One day it happened to be snowing," says Wergin, "and we were looking for a specimen. We imaged some snowflakes and were very surprised to see what we did." It was the first time anyone had attempted to image snow crystals with scanning electron microscopy, which provides precise detail about the crystals' shape, structural features and <font id=33>metamorphosed conditions</font> (crystals often change once on the ground depending on the surrounding environment).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJPbmUgZGF5IGl0IGhhcHBlbmVkIHRvIGJlIHNub3dpbmcsIiBzYXlzIFdlcmdpbiwgImFuZCB3ZSB3ZXJlIGxvb2tpbmcgZm9yIGEgc3BlY2ltZW4uIFdlIGltYWdlZCBzb21lIHNub3dmbGFrZXMgYW5kIHdlcmUgdmVyeSBzdXJwcmlzZWQgdG8gc2VlIHdoYXQgd2UgZGlkLiIgSXQgd2FzIHRoZSBmaXJzdCB0aW1lIGFueW9uZSBoYWQgYXR0ZW1wdGVkIHRvIGltYWdlIHNub3cgY3J5c3RhbHMgd2l0aCBzY2FubmluZyBlbGVjdHJvbiBtaWNyb3Njb3B5LCB3aGljaCBwcm92aWRlcyBwcmVjaXNlIGRldGFpbCBhYm91dCB0aGUgY3J5c3RhbHMnIHNoYXBlLCBzdHJ1Y3R1cmFsIGZlYXR1cmVzIGFuZCA8Zm9udCBpZD0zMz5tZXRhbW9ycGhvc2VkIGNvbmRpdGlvbnM8L2ZvbnQ+IChjcnlzdGFscyBvZnRlbiBjaGFuZ2Ugb25jZSBvbiB0aGUgZ3JvdW5kIGRlcGVuZGluZyBvbiB0aGUgc3Vycm91bmRpbmcgZW52aXJvbm1lbnQpLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wergin called another ARS colleague, hydrologist Albert Rango, to see if the snow crystal magnifications had any applications for his research. Rango now uses Wergin's electron microscopy data, along with microwave satellite data, in the Snowmelt Runoff Model to predict the amount of water available in a winter snowpack. For western states such as Colorado. Montana, Utah and Wyoming about 75 percent of the annual water supply comes from snowmelt. Snowmelt water is <font id=39>critical</font> to crop irrigation rand hydroelectric power, as well as recreation and domestic water supplies, fisheries management and flood control.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldlcmdpbiBjYWxsZWQgYW5vdGhlciBBUlMgY29sbGVhZ3VlLCBoeWRyb2xvZ2lzdCBBbGJlcnQgUmFuZ28sIHRvIHNlZSBpZiB0aGUgc25vdyBjcnlzdGFsIG1hZ25pZmljYXRpb25zIGhhZCBhbnkgYXBwbGljYXRpb25zIGZvciBoaXMgcmVzZWFyY2guIFJhbmdvIG5vdyB1c2VzIFdlcmdpbidzIGVsZWN0cm9uIG1pY3Jvc2NvcHkgZGF0YSwgYWxvbmcgd2l0aCBtaWNyb3dhdmUgc2F0ZWxsaXRlIGRhdGEsIGluIHRoZSBTbm93bWVsdCBSdW5vZmYgTW9kZWwgdG8gcHJlZGljdCB0aGUgYW1vdW50IG9mIHdhdGVyIGF2YWlsYWJsZSBpbiBhIHdpbnRlciBzbm93cGFjay4gRm9yIHdlc3Rlcm4gc3RhdGVzIHN1Y2ggYXMgQ29sb3JhZG8uIE1vbnRhbmEsIFV0YWggYW5kIFd5b21pbmcgYWJvdXQgNzUgcGVyY2VudCBvZiB0aGUgYW5udWFsIHdhdGVyIHN1cHBseSBjb21lcyBmcm9tIHNub3dtZWx0LiBTbm93bWVsdCB3YXRlciBpcyA8Zm9udCBpZD0zOT5jcml0aWNhbDwvZm9udD4gdG8gY3JvcCBpcnJpZ2F0aW9uIHJhbmQgaHlkcm9lbGVjdHJpYyBwb3dlciwgYXMgd2VsbCBhcyByZWNyZWF0aW9uIGFuZCBkb21lc3RpYyB3YXRlciBzdXBwbGllcywgZmlzaGVyaWVzIG1hbmFnZW1lbnQgYW5kIGZsb29kIGNvbnRyb2wuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Before employing the scanning electron micros-copy results, the forecasted amounts of snowpack water were inaccurate whenever the size and shape of the snow crystals varied much from the norm. "The more we know about crystals," notes Rango, "the easier it will be to use microwave satellite data for predictions of the snow water equivalent."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlZm9yZSBlbXBsb3lpbmcgdGhlIHNjYW5uaW5nIGVsZWN0cm9uIG1pY3Jvcy1jb3B5IHJlc3VsdHMsIHRoZSBmb3JlY2FzdGVkIGFtb3VudHMgb2Ygc25vd3BhY2sgd2F0ZXIgd2VyZSBpbmFjY3VyYXRlIHdoZW5ldmVyIHRoZSBzaXplIGFuZCBzaGFwZSBvZiB0aGUgc25vdyBjcnlzdGFscyB2YXJpZWQgbXVjaCBmcm9tIHRoZSBub3JtLiAiVGhlIG1vcmUgd2Uga25vdyBhYm91dCBjcnlzdGFscywiIG5vdGVzIFJhbmdvLCAidGhlIGVhc2llciBpdCB3aWxsIGJlIHRvIHVzZSBtaWNyb3dhdmUgc2F0ZWxsaXRlIGRhdGEgZm9yIHByZWRpY3Rpb25zIG9mIHRoZSBzbm93IHdhdGVyIGVxdWl2YWxlbnQuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Currently, forecasts using the model are about 90 percent accurate. A 1980 study estimated that improving the prediction by 1 percent would save $38 million in irrigation and hydropower in the western. United States.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkN1cnJlbnRseSwgZm9yZWNhc3RzIHVzaW5nIHRoZSBtb2RlbCBhcmUgYWJvdXQgOTAgcGVyY2VudCBhY2N1cmF0ZS4gQSAxOTgwIHN0dWR5IGVzdGltYXRlZCB0aGF0IGltcHJvdmluZyB0aGUgcHJlZGljdGlvbiBieSAxIHBlcmNlbnQgd291bGQgc2F2ZSAkMzggbWlsbGlvbiBpbiBpcnJpZ2F0aW9uIGFuZCBoeWRyb3Bvd2VyIGluIHRoZSB3ZXN0ZXJuLiBVbml0ZWQgU3RhdGVzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Rango is also looking ahead at climate change predictions. "Following the estimates that have been made about what will happen by 2100, things are definitely warming up," he says. Temperature increases will likely result in a reduction in stream flow as overall snow accumulation decreases, winter precipitation runs off as rain, and water evaporates at a quicker rate. The gap between water supply and demand will magnify  even more, greatly increasing water's economic value, anticipates Rango.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJhbmdvIGlzIGFsc28gbG9va2luZyBhaGVhZCBhdCBjbGltYXRlIGNoYW5nZSBwcmVkaWN0aW9ucy4gIkZvbGxvd2luZyB0aGUgZXN0aW1hdGVzIHRoYXQgaGF2ZSBiZWVuIG1hZGUgYWJvdXQgd2hhdCB3aWxsIGhhcHBlbiBieSAyMTAwLCB0aGluZ3MgYXJlIGRlZmluaXRlbHkgd2FybWluZyB1cCwiIGhlIHNheXMuIFRlbXBlcmF0dXJlIGluY3JlYXNlcyB3aWxsIGxpa2VseSByZXN1bHQgaW4gYSByZWR1Y3Rpb24gaW4gc3RyZWFtIGZsb3cgYXMgb3ZlcmFsbCBzbm93IGFjY3VtdWxhdGlvbiBkZWNyZWFzZXMsIHdpbnRlciBwcmVjaXBpdGF0aW9uIHJ1bnMgb2ZmIGFzIHJhaW4sIGFuZCB3YXRlciBldmFwb3JhdGVzIGF0IGEgcXVpY2tlciByYXRlLiBUaGUgZ2FwIGJldHdlZW4gd2F0ZXIgc3VwcGx5IGFuZCBkZW1hbmQgd2lsbCBtYWduaWZ5ICBldmVuIG1vcmUsIGdyZWF0bHkgaW5jcmVhc2luZyB3YXRlcidzIGVjb25vbWljIHZhbHVlLCBhbnRpY2lwYXRlcyBSYW5nby48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Not only does the crystal research help gauge snowmelt, it is also useful in predicting avalanches, designing artificial snow, and, perhaps in the near future, examining air pollution. "You can put snow in a scanning electron microscope and tell which elements are present, such as sulfur and nitrogen," says Wergin. "You can then see what kind of pollution is in the area and possibly track the source.''</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdCBvbmx5IGRvZXMgdGhlIGNyeXN0YWwgcmVzZWFyY2ggaGVscCBnYXVnZSBzbm93bWVsdCwgaXQgaXMgYWxzbyB1c2VmdWwgaW4gcHJlZGljdGluZyBhdmFsYW5jaGVzLCBkZXNpZ25pbmcgYXJ0aWZpY2lhbCBzbm93LCBhbmQsIHBlcmhhcHMgaW4gdGhlIG5lYXIgZnV0dXJlLCBleGFtaW5pbmcgYWlyIHBvbGx1dGlvbi4gIllvdSBjYW4gcHV0IHNub3cgaW4gYSBzY2FubmluZyBlbGVjdHJvbiBtaWNyb3Njb3BlIGFuZCB0ZWxsIHdoaWNoIGVsZW1lbnRzIGFyZSBwcmVzZW50LCBzdWNoIGFzIHN1bGZ1ciBhbmQgbml0cm9nZW4sIiBzYXlzIFdlcmdpbi4gIllvdSBjYW4gdGhlbiBzZWUgd2hhdCBraW5kIG9mIHBvbGx1dGlvbiBpcyBpbiB0aGUgYXJlYSBhbmQgcG9zc2libHkgdHJhY2sgdGhlIHNvdXJjZS4nJzwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">31. It can reasonably be inferred from the passage that the information about the scientific st.udy of snow is presented primarily to:
-<div class = "choice">A. emphasize the importance of communication among scientists.</div>
-<div class = "choice">B. explain how snow crystal facets influence the snowpack in some western states.</div>
-<div class = "choice">C. showcase the varied uses of the scanning electron microscope.</div>
-<div class = "choice">D. demonstrate some of the practical applications of the study of snow crystals.</div>
-</div>
-###################
-<div class = "quiz">32. According to the passage, the use of scanning microscopy can save money by:
-<div class = "choice">F. encouraging scientists to make estimates of water requirements far into the future.</div>
-<div class = "choice">G. allowing forecasters to predict more accurately the quantity of water in the snowpack.</div>
-<div class = "choice">H. helping agricultural researchers to identify biological problems.</div>
-<div class = "choice">J. increasing the water supply for Colorado, Montana, Utah, and Wyoming by 75 percent.</div>
-</div>
-###################
-<div class = "quiz">33. It can reasonably be inferred that the phrase metamorphosed conditions (lines 47-48) refers to the:
-<div class = "choice">A. temperature and humidity at which crystals form.</div>
-<div class = "choice">B. process by which snow crystals develop from a speck of dust and water vapor.</div>
-<div class = "choice">C. state of snow crystals after they reach the ground.</div>
-<div class = "choice">D. major changes in environmental conditions.</div>
-</div>
-###################
-<div class = "quiz">34. According to the passage, the addition of electron microscopy data to the Snowmelt Runoff Model allows scientists using the model to include in their predictions detailed information about:
-<div class = "choice">F. microwave satellite data.</div>
-<div class = "choice">G. structural variations of snow crystals.</div>
-<div class = "choice">H. locations having the most snowfall.</div>
-<div class = "choice">J. biological problems related to agriculture.</div>
-</div>
-###################
-<div class = "quiz">35. According to Rango, one reason that water's economic value is likely to increase by the year 2100 is that:
-<div class = "choice">A. more water will be polluted by then.</div>
-<div class = "choice">B. less water will be, wasted due to more accurate predictions of the water supply.</div>
-<div class = "choice">C. the sulfur and nitrogen content in snow is likely to increase.</div>
-<div class = "choice">D. predicted climate changes will reduce overall snow accumulation.</div>
-</div>
-###################
-<div class = "quiz">36. According to the passage, snowflakes have infinite variety because:
-<div class = "choice">F. enormous numbers of snow crystals fall, worldwide.</div>
-<div class = "choice">G. falling snow crystals meet with varied atmospheric .conditions.</div>
-<div class = "choice">H. snow crystals fall at various rates creating unique snowflakes.</div>
-<div class = "choice">J. complexities in the atmosphere slow snow crystal development.</div>
-</div>
-###################
-<div class = "quiz">37. The passage states that snowflakes differ from snow crystals in that snowflakes:
-<div class = "choice">A. grow around a nucleus of dust.</div>
-<div class = "choice">B. combine to form snow crystals.</div>
-<div class = "choice">C. grow in relation to top and bottom facets.</div>
-<div class = "choice">D. are composed of more than one crystal.</div>
-</div>
-###################
-<div class = "quiz">38. The term "designer" snowflakes (line 32) refers directly to the fact that:
-<div class = "choice">F. no two snowflakes are alike.</div>
-<div class = "choice">G. Libbrecht produces the snowflakes in his lab.</div>
-<div class = "choice">H. snowflakes are part of the grand design of nature.</div>
-<div class = "choice">J. Libbrecht's snowflakes exhibit special beauty.</div>
-</div>
-###################
-<div class = "quiz">39. As it is used in line .59, the word critical most nearly means:
-<div class = "choice">A. evaluative.</div>
-<div class = "choice">B. faultfinding.</div>
-<div class = "choice">C. vital.</div>
-<div class = "choice">D. acute.</div>
-</div>
-###################
-<div class = "quiz">40. The passage states that research about snow crystals has helped scientists do all of the following EXCEPT:
-<div class = "choice">F. extract pollutants from snow.</div>
-<div class = "choice">G. gauge snowmelt.</div>
-<div class = "choice">H. design artificial snow.</div>
-<div class = "choice">J. predict avalanches.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IHRoZSBpbmZvcm1hdGlvbiBhYm91dCB0aGUgc2NpZW50aWZpYyBzdC51ZHkgb2Ygc25vdyBpcyBwcmVzZW50ZWQgcHJpbWFyaWx5IHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGVtcGhhc2l6ZSB0aGUgaW1wb3J0YW5jZSBvZiBjb21tdW5pY2F0aW9uIGFtb25nIHNjaWVudGlzdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4cGxhaW4gaG93IHNub3cgY3J5c3RhbCBmYWNldHMgaW5mbHVlbmNlIHRoZSBzbm93cGFjayBpbiBzb21lIHdlc3Rlcm4gc3RhdGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNob3djYXNlIHRoZSB2YXJpZWQgdXNlcyBvZiB0aGUgc2Nhbm5pbmcgZWxlY3Ryb24gbWljcm9zY29wZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlbW9uc3RyYXRlIHNvbWUgb2YgdGhlIHByYWN0aWNhbCBhcHBsaWNhdGlvbnMgb2YgdGhlIHN0dWR5IG9mIHNub3cgY3J5c3RhbHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgdXNlIG9mIHNjYW5uaW5nIG1pY3Jvc2NvcHkgY2FuIHNhdmUgbW9uZXkgYnk6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGVuY291cmFnaW5nIHNjaWVudGlzdHMgdG8gbWFrZSBlc3RpbWF0ZXMgb2Ygd2F0ZXIgcmVxdWlyZW1lbnRzIGZhciBpbnRvIHRoZSBmdXR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFsbG93aW5nIGZvcmVjYXN0ZXJzIHRvIHByZWRpY3QgbW9yZSBhY2N1cmF0ZWx5IHRoZSBxdWFudGl0eSBvZiB3YXRlciBpbiB0aGUgc25vd3BhY2suPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhlbHBpbmcgYWdyaWN1bHR1cmFsIHJlc2VhcmNoZXJzIHRvIGlkZW50aWZ5IGJpb2xvZ2ljYWwgcHJvYmxlbXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluY3JlYXNpbmcgdGhlIHdhdGVyIHN1cHBseSBmb3IgQ29sb3JhZG8sIE1vbnRhbmEsIFV0YWgsIGFuZCBXeW9taW5nIGJ5IDc1IHBlcmNlbnQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgcGhyYXNlIG1ldGFtb3JwaG9zZWQgY29uZGl0aW9ucyAobGluZXMgNDctNDgpIHJlZmVycyB0byB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRlbXBlcmF0dXJlIGFuZCBodW1pZGl0eSBhdCB3aGljaCBjcnlzdGFscyBmb3JtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByb2Nlc3MgYnkgd2hpY2ggc25vdyBjcnlzdGFscyBkZXZlbG9wIGZyb20gYSBzcGVjayBvZiBkdXN0IGFuZCB3YXRlciB2YXBvci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN0YXRlIG9mIHNub3cgY3J5c3RhbHMgYWZ0ZXIgdGhleSByZWFjaCB0aGUgZ3JvdW5kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1ham9yIGNoYW5nZXMgaW4gZW52aXJvbm1lbnRhbCBjb25kaXRpb25zLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgYWRkaXRpb24gb2YgZWxlY3Ryb24gbWljcm9zY29weSBkYXRhIHRvIHRoZSBTbm93bWVsdCBSdW5vZmYgTW9kZWwgYWxsb3dzIHNjaWVudGlzdHMgdXNpbmcgdGhlIG1vZGVsIHRvIGluY2x1ZGUgaW4gdGhlaXIgcHJlZGljdGlvbnMgZGV0YWlsZWQgaW5mb3JtYXRpb24gYWJvdXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1pY3Jvd2F2ZSBzYXRlbGxpdGUgZGF0YS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0cnVjdHVyYWwgdmFyaWF0aW9ucyBvZiBzbm93IGNyeXN0YWxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxvY2F0aW9ucyBoYXZpbmcgdGhlIG1vc3Qgc25vd2ZhbGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJpb2xvZ2ljYWwgcHJvYmxlbXMgcmVsYXRlZCB0byBhZ3JpY3VsdHVyZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQWNjb3JkaW5nIHRvIFJhbmdvLCBvbmUgcmVhc29uIHRoYXQgd2F0ZXIncyBlY29ub21pYyB2YWx1ZSBpcyBsaWtlbHkgdG8gaW5jcmVhc2UgYnkgdGhlIHllYXIgMjEwMCBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG1vcmUgd2F0ZXIgd2lsbCBiZSBwb2xsdXRlZCBieSB0aGVuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3Mgd2F0ZXIgd2lsbCBiZSwgd2FzdGVkIGR1ZSB0byBtb3JlIGFjY3VyYXRlIHByZWRpY3Rpb25zIG9mIHRoZSB3YXRlciBzdXBwbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzdWxmdXIgYW5kIG5pdHJvZ2VuIGNvbnRlbnQgaW4gc25vdyBpcyBsaWtlbHkgdG8gaW5jcmVhc2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByZWRpY3RlZCBjbGltYXRlIGNoYW5nZXMgd2lsbCByZWR1Y2Ugb3ZlcmFsbCBzbm93IGFjY3VtdWxhdGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBzbm93Zmxha2VzIGhhdmUgaW5maW5pdGUgdmFyaWV0eSBiZWNhdXNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGVub3Jtb3VzIG51bWJlcnMgb2Ygc25vdyBjcnlzdGFscyBmYWxsLCB3b3JsZHdpZGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZhbGxpbmcgc25vdyBjcnlzdGFscyBtZWV0IHdpdGggdmFyaWVkIGF0bW9zcGhlcmljIC5jb25kaXRpb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNub3cgY3J5c3RhbHMgZmFsbCBhdCB2YXJpb3VzIHJhdGVzIGNyZWF0aW5nIHVuaXF1ZSBzbm93Zmxha2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvbXBsZXhpdGllcyBpbiB0aGUgYXRtb3NwaGVyZSBzbG93IHNub3cgY3J5c3RhbCBkZXZlbG9wbWVudC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgc25vd2ZsYWtlcyBkaWZmZXIgZnJvbSBzbm93IGNyeXN0YWxzIGluIHRoYXQgc25vd2ZsYWtlczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGdyb3cgYXJvdW5kIGEgbnVjbGV1cyBvZiBkdXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbWJpbmUgdG8gZm9ybSBzbm93IGNyeXN0YWxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdyb3cgaW4gcmVsYXRpb24gdG8gdG9wIGFuZCBib3R0b20gZmFjZXRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyZSBjb21wb3NlZCBvZiBtb3JlIHRoYW4gb25lIGNyeXN0YWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIHRlcm0gImRlc2lnbmVyIiBzbm93Zmxha2VzIChsaW5lIDMyKSByZWZlcnMgZGlyZWN0bHkgdG8gdGhlIGZhY3QgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG5vIHR3byBzbm93Zmxha2VzIGFyZSBhbGlrZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExpYmJyZWNodCBwcm9kdWNlcyB0aGUgc25vd2ZsYWtlcyBpbiBoaXMgbGFiLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNub3dmbGFrZXMgYXJlIHBhcnQgb2YgdGhlIGdyYW5kIGRlc2lnbiBvZiBuYXR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIExpYmJyZWNodCdzIHNub3dmbGFrZXMgZXhoaWJpdCBzcGVjaWFsIGJlYXV0eS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIC41OSwgdGhlIHdvcmQgY3JpdGljYWwgbW9zdCBuZWFybHkgbWVhbnM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV2YWx1YXRpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZhdWx0ZmluZGluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHZpdGFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFjdXRlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgcmVzZWFyY2ggYWJvdXQgc25vdyBjcnlzdGFscyBoYXMgaGVscGVkIHNjaWVudGlzdHMgZG8gYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGV4dHJhY3QgcG9sbHV0YW50cyBmcm9tIHNub3cuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGdhdWdlIHNub3dtZWx0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlc2lnbiBhcnRpZmljaWFsIHNub3cuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByZWRpY3QgYXZhbGFuY2hlcy48L2Rpdj4=
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,98 +1,98 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the revised second edition of Demystifying Economics by Allen W. Smith (?2000 by Allen W. Smith). Gross Domestic Product (GDP) is the total dollar value of all goods and services produced in a year’s time within a country’s borders.</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Economists usually define fiscal policy as the deliberate use of government's spending and taxing powers to influence economic activity. When the government raises or lowers taxes, or changes its spending levels, in order to bring about a desired change in the level of total spending, and thus the performance of the economy, it is <font id=18>practicing</font> fiscal policy. Fiscal policy can also be defined more generally as simply the government's taxing and spending policies regardless of whether or not it is trying to bring about changes in the level of total spending in the economy.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSByZXZpc2VkIHNlY29uZCBlZGl0aW9uIG9mIERlbXlzdGlmeWluZyBFY29ub21pY3MgYnkgQWxsZW4gVy4gU21pdGggKD8yMDAwIGJ5IEFsbGVuIFcuIFNtaXRoKS4gR3Jvc3MgRG9tZXN0aWMgUHJvZHVjdCAoR0RQKSBpcyB0aGUgdG90YWwgZG9sbGFyIHZhbHVlIG9mIGFsbCBnb29kcyBhbmQgc2VydmljZXMgcHJvZHVjZWQgaW4gYSB5ZWFy4oCZcyB0aW1lIHdpdGhpbiBhIGNvdW50cnnigJlzIGJvcmRlcnMuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVjb25vbWlzdHMgdXN1YWxseSBkZWZpbmUgZmlzY2FsIHBvbGljeSBhcyB0aGUgZGVsaWJlcmF0ZSB1c2Ugb2YgZ292ZXJubWVudCdzIHNwZW5kaW5nIGFuZCB0YXhpbmcgcG93ZXJzIHRvIGluZmx1ZW5jZSBlY29ub21pYyBhY3Rpdml0eS4gV2hlbiB0aGUgZ292ZXJubWVudCByYWlzZXMgb3IgbG93ZXJzIHRheGVzLCBvciBjaGFuZ2VzIGl0cyBzcGVuZGluZyBsZXZlbHMsIGluIG9yZGVyIHRvIGJyaW5nIGFib3V0IGEgZGVzaXJlZCBjaGFuZ2UgaW4gdGhlIGxldmVsIG9mIHRvdGFsIHNwZW5kaW5nLCBhbmQgdGh1cyB0aGUgcGVyZm9ybWFuY2Ugb2YgdGhlIGVjb25vbXksIGl0IGlzIDxmb250IGlkPTE4PnByYWN0aWNpbmc8L2ZvbnQ+IGZpc2NhbCBwb2xpY3kuIEZpc2NhbCBwb2xpY3kgY2FuIGFsc28gYmUgZGVmaW5lZCBtb3JlIGdlbmVyYWxseSBhcyBzaW1wbHkgdGhlIGdvdmVybm1lbnQncyB0YXhpbmcgYW5kIHNwZW5kaW5nIHBvbGljaWVzIHJlZ2FyZGxlc3Mgb2Ygd2hldGhlciBvciBub3QgaXQgaXMgdHJ5aW5nIHRvIGJyaW5nIGFib3V0IGNoYW5nZXMgaW4gdGhlIGxldmVsIG9mIHRvdGFsIHNwZW5kaW5nIGluIHRoZSBlY29ub215LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The origin of fiscal policy as a tool to bring about deliberate changes in the performance of the economy dates back to. 1936 when a British economist, John Maynard Keynes, published a monumental book, The General Theory of Employment, Interest, and Money. Keynesian economics soon became the predominant body of economic theory in the Western world. Although his theories have undergone substantial refinement and revision, much of modern Keynesian economics is still rooted in the ideas set forth by Keynes. Keynes argued that government should play an active role in maintaining the proper level of total spending in the economy in order to minimize both unemployment and inflation. He believed that, with the proper use of the government's spending and taxing powers, the extremes of the business cycle could be avoided.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBvcmlnaW4gb2YgZmlzY2FsIHBvbGljeSBhcyBhIHRvb2wgdG8gYnJpbmcgYWJvdXQgZGVsaWJlcmF0ZSBjaGFuZ2VzIGluIHRoZSBwZXJmb3JtYW5jZSBvZiB0aGUgZWNvbm9teSBkYXRlcyBiYWNrIHRvLiAxOTM2IHdoZW4gYSBCcml0aXNoIGVjb25vbWlzdCwgSm9obiBNYXluYXJkIEtleW5lcywgcHVibGlzaGVkIGEgbW9udW1lbnRhbCBib29rLCBUaGUgR2VuZXJhbCBUaGVvcnkgb2YgRW1wbG95bWVudCwgSW50ZXJlc3QsIGFuZCBNb25leS4gS2V5bmVzaWFuIGVjb25vbWljcyBzb29uIGJlY2FtZSB0aGUgcHJlZG9taW5hbnQgYm9keSBvZiBlY29ub21pYyB0aGVvcnkgaW4gdGhlIFdlc3Rlcm4gd29ybGQuIEFsdGhvdWdoIGhpcyB0aGVvcmllcyBoYXZlIHVuZGVyZ29uZSBzdWJzdGFudGlhbCByZWZpbmVtZW50IGFuZCByZXZpc2lvbiwgbXVjaCBvZiBtb2Rlcm4gS2V5bmVzaWFuIGVjb25vbWljcyBpcyBzdGlsbCByb290ZWQgaW4gdGhlIGlkZWFzIHNldCBmb3J0aCBieSBLZXluZXMuIEtleW5lcyBhcmd1ZWQgdGhhdCBnb3Zlcm5tZW50IHNob3VsZCBwbGF5IGFuIGFjdGl2ZSByb2xlIGluIG1haW50YWluaW5nIHRoZSBwcm9wZXIgbGV2ZWwgb2YgdG90YWwgc3BlbmRpbmcgaW4gdGhlIGVjb25vbXkgaW4gb3JkZXIgdG8gbWluaW1pemUgYm90aCB1bmVtcGxveW1lbnQgYW5kIGluZmxhdGlvbi4gSGUgYmVsaWV2ZWQgdGhhdCwgd2l0aCB0aGUgcHJvcGVyIHVzZSBvZiB0aGUgZ292ZXJubWVudCdzIHNwZW5kaW5nIGFuZCB0YXhpbmcgcG93ZXJzLCB0aGUgZXh0cmVtZXMgb2YgdGhlIGJ1c2luZXNzIGN5Y2xlIGNvdWxkIGJlIGF2b2lkZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The extremes of the business cycle, which result in high unemployment or high inflation, can be very costly. During a severe recession, millions of workers become unemployed, and billions of dollars worth of potential production are permanently lost. In addition, prolonged periods of high inflation can have a devastating effect on both the economy and the people.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBleHRyZW1lcyBvZiB0aGUgYnVzaW5lc3MgY3ljbGUsIHdoaWNoIHJlc3VsdCBpbiBoaWdoIHVuZW1wbG95bWVudCBvciBoaWdoIGluZmxhdGlvbiwgY2FuIGJlIHZlcnkgY29zdGx5LiBEdXJpbmcgYSBzZXZlcmUgcmVjZXNzaW9uLCBtaWxsaW9ucyBvZiB3b3JrZXJzIGJlY29tZSB1bmVtcGxveWVkLCBhbmQgYmlsbGlvbnMgb2YgZG9sbGFycyB3b3J0aCBvZiBwb3RlbnRpYWwgcHJvZHVjdGlvbiBhcmUgcGVybWFuZW50bHkgbG9zdC4gSW4gYWRkaXRpb24sIHByb2xvbmdlZCBwZXJpb2RzIG9mIGhpZ2ggaW5mbGF0aW9uIGNhbiBoYXZlIGEgZGV2YXN0YXRpbmcgZWZmZWN0IG9uIGJvdGggdGhlIGVjb25vbXkgYW5kIHRoZSBwZW9wbGUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>The objectives of deliberate fiscal policy are to minimize unemployment and inflation by using the government's taxing' and spending powers to assure the correct level of total spending, and thus the proper level of Gross Domestic Product. The principal determinant of the level of the Gross Domestic Product (GDP) is the level of total spending in the economy. If the GDP is too high, the economy will experience inflation, and if it is too low, the economy will suffer from unemployment. Therefore, in order to have a healthy economy, it is important to have the proper amount of total spending so the GDP will be neither too high nor too low. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE0PlRoZSBvYmplY3RpdmVzIG9mIGRlbGliZXJhdGUgZmlzY2FsIHBvbGljeSBhcmUgdG8gbWluaW1pemUgdW5lbXBsb3ltZW50IGFuZCBpbmZsYXRpb24gYnkgdXNpbmcgdGhlIGdvdmVybm1lbnQncyB0YXhpbmcnIGFuZCBzcGVuZGluZyBwb3dlcnMgdG8gYXNzdXJlIHRoZSBjb3JyZWN0IGxldmVsIG9mIHRvdGFsIHNwZW5kaW5nLCBhbmQgdGh1cyB0aGUgcHJvcGVyIGxldmVsIG9mIEdyb3NzIERvbWVzdGljIFByb2R1Y3QuIFRoZSBwcmluY2lwYWwgZGV0ZXJtaW5hbnQgb2YgdGhlIGxldmVsIG9mIHRoZSBHcm9zcyBEb21lc3RpYyBQcm9kdWN0IChHRFApIGlzIHRoZSBsZXZlbCBvZiB0b3RhbCBzcGVuZGluZyBpbiB0aGUgZWNvbm9teS4gSWYgdGhlIEdEUCBpcyB0b28gaGlnaCwgdGhlIGVjb25vbXkgd2lsbCBleHBlcmllbmNlIGluZmxhdGlvbiwgYW5kIGlmIGl0IGlzIHRvbyBsb3csIHRoZSBlY29ub215IHdpbGwgc3VmZmVyIGZyb20gdW5lbXBsb3ltZW50LiBUaGVyZWZvcmUsIGluIG9yZGVyIHRvIGhhdmUgYSBoZWFsdGh5IGVjb25vbXksIGl0IGlzIGltcG9ydGFudCB0byBoYXZlIHRoZSBwcm9wZXIgYW1vdW50IG9mIHRvdGFsIHNwZW5kaW5nIHNvIHRoZSBHRFAgd2lsbCBiZSBuZWl0aGVyIHRvbyBoaWdoIG5vciB0b28gbG93LiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fiscal policy can be used to regulate the level of total spending. If total spending is too high, the government can lower its own spending and/or increase taxes so consumers will have less after-tax money to spend. If total spending is too low, the government can increase its own spending and/or reduce taxes, so consumers will have more after-tax money to spend. At least in theory, fiscal policy can be used to regulate the level of total spending, and thus the level of production. If GDP could be maintained at the appropriate level, it would be possible to avoid both high inflation and serious unemployment.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpc2NhbCBwb2xpY3kgY2FuIGJlIHVzZWQgdG8gcmVndWxhdGUgdGhlIGxldmVsIG9mIHRvdGFsIHNwZW5kaW5nLiBJZiB0b3RhbCBzcGVuZGluZyBpcyB0b28gaGlnaCwgdGhlIGdvdmVybm1lbnQgY2FuIGxvd2VyIGl0cyBvd24gc3BlbmRpbmcgYW5kL29yIGluY3JlYXNlIHRheGVzIHNvIGNvbnN1bWVycyB3aWxsIGhhdmUgbGVzcyBhZnRlci10YXggbW9uZXkgdG8gc3BlbmQuIElmIHRvdGFsIHNwZW5kaW5nIGlzIHRvbyBsb3csIHRoZSBnb3Zlcm5tZW50IGNhbiBpbmNyZWFzZSBpdHMgb3duIHNwZW5kaW5nIGFuZC9vciByZWR1Y2UgdGF4ZXMsIHNvIGNvbnN1bWVycyB3aWxsIGhhdmUgbW9yZSBhZnRlci10YXggbW9uZXkgdG8gc3BlbmQuIEF0IGxlYXN0IGluIHRoZW9yeSwgZmlzY2FsIHBvbGljeSBjYW4gYmUgdXNlZCB0byByZWd1bGF0ZSB0aGUgbGV2ZWwgb2YgdG90YWwgc3BlbmRpbmcsIGFuZCB0aHVzIHRoZSBsZXZlbCBvZiBwcm9kdWN0aW9uLiBJZiBHRFAgY291bGQgYmUgbWFpbnRhaW5lZCBhdCB0aGUgYXBwcm9wcmlhdGUgbGV2ZWwsIGl0IHdvdWxkIGJlIHBvc3NpYmxlIHRvIGF2b2lkIGJvdGggaGlnaCBpbmZsYXRpb24gYW5kIHNlcmlvdXMgdW5lbXBsb3ltZW50LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One example of successful use of fiscal-policy is the long period of economic expansion during the 1960s. When President John F. Kennedy took office in 1961, the economy was suffering from a recession that had begun in 1958, Kennedy brought into his administration economic advisers who were determined to use fiscal policy to bring the economy out of the recession. The first fiscal-policy measures included increased federal spending on highways, and legislation that allowed businesses to subtract from their taxes a part of the cost of new investment in factories and machines.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSBleGFtcGxlIG9mIHN1Y2Nlc3NmdWwgdXNlIG9mIGZpc2NhbC1wb2xpY3kgaXMgdGhlIGxvbmcgcGVyaW9kIG9mIGVjb25vbWljIGV4cGFuc2lvbiBkdXJpbmcgdGhlIDE5NjBzLiBXaGVuIFByZXNpZGVudCBKb2huIEYuIEtlbm5lZHkgdG9vayBvZmZpY2UgaW4gMTk2MSwgdGhlIGVjb25vbXkgd2FzIHN1ZmZlcmluZyBmcm9tIGEgcmVjZXNzaW9uIHRoYXQgaGFkIGJlZ3VuIGluIDE5NTgsIEtlbm5lZHkgYnJvdWdodCBpbnRvIGhpcyBhZG1pbmlzdHJhdGlvbiBlY29ub21pYyBhZHZpc2VycyB3aG8gd2VyZSBkZXRlcm1pbmVkIHRvIHVzZSBmaXNjYWwgcG9saWN5IHRvIGJyaW5nIHRoZSBlY29ub215IG91dCBvZiB0aGUgcmVjZXNzaW9uLiBUaGUgZmlyc3QgZmlzY2FsLXBvbGljeSBtZWFzdXJlcyBpbmNsdWRlZCBpbmNyZWFzZWQgZmVkZXJhbCBzcGVuZGluZyBvbiBoaWdod2F5cywgYW5kIGxlZ2lzbGF0aW9uIHRoYXQgYWxsb3dlZCBidXNpbmVzc2VzIHRvIHN1YnRyYWN0IGZyb20gdGhlaXIgdGF4ZXMgYSBwYXJ0IG9mIHRoZSBjb3N0IG9mIG5ldyBpbnZlc3RtZW50IGluIGZhY3RvcmllcyBhbmQgbWFjaGluZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When these measures proved insufficient, the President proposed a major tax cut. Although President Kennedy was assassinated before the tax cut was enacted, his successor, Lyndon Johnson, signed an $11 billion tax cut into law in February 1964. This large tax cut, along with substantial increases in spending for the Vietnam War, fueled an economic expansion that lasted 106 consecutive months.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gdGhlc2UgbWVhc3VyZXMgcHJvdmVkIGluc3VmZmljaWVudCwgdGhlIFByZXNpZGVudCBwcm9wb3NlZCBhIG1ham9yIHRheCBjdXQuIEFsdGhvdWdoIFByZXNpZGVudCBLZW5uZWR5IHdhcyBhc3Nhc3NpbmF0ZWQgYmVmb3JlIHRoZSB0YXggY3V0IHdhcyBlbmFjdGVkLCBoaXMgc3VjY2Vzc29yLCBMeW5kb24gSm9obnNvbiwgc2lnbmVkIGFuICQxMSBiaWxsaW9uIHRheCBjdXQgaW50byBsYXcgaW4gRmVicnVhcnkgMTk2NC4gVGhpcyBsYXJnZSB0YXggY3V0LCBhbG9uZyB3aXRoIHN1YnN0YW50aWFsIGluY3JlYXNlcyBpbiBzcGVuZGluZyBmb3IgdGhlIFZpZXRuYW0gV2FyLCBmdWVsZWQgYW4gZWNvbm9taWMgZXhwYW5zaW9uIHRoYXQgbGFzdGVkIDEwNiBjb25zZWN1dGl2ZSBtb250aHMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fiscal policy does not have such a good track record in combating inflation, however. The problem is not that proper fiscal policies cannot successfully control inflation. The problem is the political feasibility of getting the President and Congress to supp ort the proper fiscal policies during periods of inflation. Higher taxes and cuts in government programs are never popular with the public, and m any politicians do not have the guts to do what is right for the economy because such unpopular actions might cost them votes in the next election.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpc2NhbCBwb2xpY3kgZG9lcyBub3QgaGF2ZSBzdWNoIGEgZ29vZCB0cmFjayByZWNvcmQgaW4gY29tYmF0aW5nIGluZmxhdGlvbiwgaG93ZXZlci4gVGhlIHByb2JsZW0gaXMgbm90IHRoYXQgcHJvcGVyIGZpc2NhbCBwb2xpY2llcyBjYW5ub3Qgc3VjY2Vzc2Z1bGx5IGNvbnRyb2wgaW5mbGF0aW9uLiBUaGUgcHJvYmxlbSBpcyB0aGUgcG9saXRpY2FsIGZlYXNpYmlsaXR5IG9mIGdldHRpbmcgdGhlIFByZXNpZGVudCBhbmQgQ29uZ3Jlc3MgdG8gc3VwcCBvcnQgdGhlIHByb3BlciBmaXNjYWwgcG9saWNpZXMgZHVyaW5nIHBlcmlvZHMgb2YgaW5mbGF0aW9uLiBIaWdoZXIgdGF4ZXMgYW5kIGN1dHMgaW4gZ292ZXJubWVudCBwcm9ncmFtcyBhcmUgbmV2ZXIgcG9wdWxhciB3aXRoIHRoZSBwdWJsaWMsIGFuZCBtIGFueSBwb2xpdGljaWFucyBkbyBub3QgaGF2ZSB0aGUgZ3V0cyB0byBkbyB3aGF0IGlzIHJpZ2h0IGZvciB0aGUgZWNvbm9teSBiZWNhdXNlIHN1Y2ggdW5wb3B1bGFyIGFjdGlvbnMgbWlnaHQgY29zdCB0aGVtIHZvdGVzIGluIHRoZSBuZXh0IGVsZWN0aW9uLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">11. The passage's main idea is that:
-<div class = "choice">A. fiscal policy theory first recommended by Keynes ought to be the foundation of fiscal policy in the entire Western world.</div>
-<div class = "choice">B. the diligent application of fiscal policy that is based on the ideas of Keynes can be effective at regulating the economy.</div>
-<div class = "choice">C. the unwillingness of many politicians to recognize sound fiscal policy is the main reason Keynesian economics has become increasingly unpopular.</div>
-<div class = "choice">D. government should play as little role as possible in manipulating the economy with fiscal policy.</div>
-</div>
-###################
-<div class = "quiz">12. It can reasonably be inferred from the passage that the advisors President Kennedy brought into his administration were:
-<div class = "choice">F. skeptical of using tax cuts to spur the economy.</div>
-<div class = "choice">G. focused on successfully controlling inflation.</div>
-<div class = "choice">H. committed to Keynesian economics.</div>
-<div class = "choice">J. not at first popular with the public.</div>
-</div>
-###################
-<div class = "quiz">13. The main purpose of the first paragraph is to:
-<div class = "choice">A. define fiscal policy in both specific and general terms.</div>
-<div class = "choice">B. portray fiscal policy as a vague concept.</div>
-<div class = "choice">C. argue for the adoption of an unconventional definition of fiscal policy.</div>
-<div class = "choice">D. present two contradictory definitions of fiscal policy.</div>
-</div>
-###################
-<div class = "quiz">14. The main idea of the fourth paragraph (lines 36-47) is that:
-<div class = "choice">F. the total amount of spending in an economy is determined entirely by its GDP.</div>
-<div class = "choice">G. deliberate fiscal policy ought to focus more on unemployment than on inflation.</div>
-<div class = "choice">H. inflation and unemployment are both caused by a GDP that is too high.</div>
-<div class = "choice">J. the GDP of a healthy economy results from a proper amount of total spending.</div>
-</div>
-###################
-<div class = "quiz">15. The passage indicates that which of the following is true of the fiscal-policy measures introduced by President Kennedy after 1961?
-<div class = "choice">A. They were the first instances of the deliberate use of fiscal policy by a U.S. president.</div>
-<div class = "choice">B. They were designed to decrease the nation's total spending.</div>
-<div class = "choice">C. The inflation preceding them was the result of flawed fiscal policy.</div>
-<div class = "choice">D. The first of them were not effective at bringing the nation out of recession.</div>
-</div>
-###################
-<div class = "quiz">16. The last paragraph contains which of the following?
-<div class = "choice">F. A conclusion that-Keynesian economics is ineffective at controlling inflation</div>
-<div class = "choice">G. An example of a successful implementation of fiscal policy.</div>
-<div class = "choice">H. A complaint concerning the implementation of fiscal policy</div>
-<div class = "choice">J. A fact that undermines the feasibility of fiscal policy to affect unemployment</div>
-</div>
-###################
-<div class = "quiz">17. The passage's author would most likely agree with which of the following statements about fiscal policy?
-<div class = "choice">A. The extremes of the business cycle are inevitable, regardless of what fiscal policy is used.</div>
-<div class = "choice">B. Politicians should endorse good fiscal policy even at the risk of alienating voters.</div>
-<div class = "choice">C. Fiscal policy is a sound theory even while there are no examples of it being successfully implemented.</div>
-<div class = "choice">D. Fiscal policy is most effective when it is designed to bring about only small changes in the economy.</div>
-</div>
-###################
-<div class = "quiz">18. As it is used in line 7, the word practicing most nearly means:
-<div class = "choice">F. training.</div>
-<div class = "choice">G. preparing.</div>
-<div class = "choice">H. unleashing.</div>
-<div class = "choice">J. implementing.</div>
-</div>
-###################
-<div class = "quiz">19. It can reasonably be inferred from the passage that a main contribution of Keynes to economic theory was the idea that:
-<div class = "choice">A. the extremes of the business cycle are inevitable.</div>
-<div class = "choice">B. high inflation is not always bad for the economy.</div>
-<div class = "choice">C. fiscal policy can be used to change the economy's performance.</div>
-<div class = "choice">D. good fiscal policy is often hindered by politicians' personal motives.</div>
-</div>
-###################
-<div class = "quiz">20. The passage. states that if a nation's total spending is too high, the government can act to regulate this by:
-<div class = "choice">F. lowering its own sp-ending.</div>
-<div class = "choice">G. lowering taxes .on individuals.</div>
-<div class = "choice">H. encouraging businesses to invest in new factories and machines.</div>
-<div class = "choice">J. encouraging businesses to hire unemployed workers.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHBhc3NhZ2UncyBtYWluIGlkZWEgaXMgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZpc2NhbCBwb2xpY3kgdGhlb3J5IGZpcnN0IHJlY29tbWVuZGVkIGJ5IEtleW5lcyBvdWdodCB0byBiZSB0aGUgZm91bmRhdGlvbiBvZiBmaXNjYWwgcG9saWN5IGluIHRoZSBlbnRpcmUgV2VzdGVybiB3b3JsZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBkaWxpZ2VudCBhcHBsaWNhdGlvbiBvZiBmaXNjYWwgcG9saWN5IHRoYXQgaXMgYmFzZWQgb24gdGhlIGlkZWFzIG9mIEtleW5lcyBjYW4gYmUgZWZmZWN0aXZlIGF0IHJlZ3VsYXRpbmcgdGhlIGVjb25vbXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSB1bndpbGxpbmduZXNzIG9mIG1hbnkgcG9saXRpY2lhbnMgdG8gcmVjb2duaXplIHNvdW5kIGZpc2NhbCBwb2xpY3kgaXMgdGhlIG1haW4gcmVhc29uIEtleW5lc2lhbiBlY29ub21pY3MgaGFzIGJlY29tZSBpbmNyZWFzaW5nbHkgdW5wb3B1bGFyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdvdmVybm1lbnQgc2hvdWxkIHBsYXkgYXMgbGl0dGxlIHJvbGUgYXMgcG9zc2libGUgaW4gbWFuaXB1bGF0aW5nIHRoZSBlY29ub215IHdpdGggZmlzY2FsIHBvbGljeS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IHRoZSBhZHZpc29ycyBQcmVzaWRlbnQgS2VubmVkeSBicm91Z2h0IGludG8gaGlzIGFkbWluaXN0cmF0aW9uIHdlcmU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNrZXB0aWNhbCBvZiB1c2luZyB0YXggY3V0cyB0byBzcHVyIHRoZSBlY29ub215LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZvY3VzZWQgb24gc3VjY2Vzc2Z1bGx5IGNvbnRyb2xsaW5nIGluZmxhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbW1pdHRlZCB0byBLZXluZXNpYW4gZWNvbm9taWNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vdCBhdCBmaXJzdCBwb3B1bGFyIHdpdGggdGhlIHB1YmxpYy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgZmlyc3QgcGFyYWdyYXBoIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRlZmluZSBmaXNjYWwgcG9saWN5IGluIGJvdGggc3BlY2lmaWMgYW5kIGdlbmVyYWwgdGVybXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBvcnRyYXkgZmlzY2FsIHBvbGljeSBhcyBhIHZhZ3VlIGNvbmNlcHQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyZ3VlIGZvciB0aGUgYWRvcHRpb24gb2YgYW4gdW5jb252ZW50aW9uYWwgZGVmaW5pdGlvbiBvZiBmaXNjYWwgcG9saWN5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByZXNlbnQgdHdvIGNvbnRyYWRpY3RvcnkgZGVmaW5pdGlvbnMgb2YgZmlzY2FsIHBvbGljeS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIG1haW4gaWRlYSBvZiB0aGUgZm91cnRoIHBhcmFncmFwaCAobGluZXMgMzYtNDcpIGlzIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSB0b3RhbCBhbW91bnQgb2Ygc3BlbmRpbmcgaW4gYW4gZWNvbm9teSBpcyBkZXRlcm1pbmVkIGVudGlyZWx5IGJ5IGl0cyBHRFAuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlbGliZXJhdGUgZmlzY2FsIHBvbGljeSBvdWdodCB0byBmb2N1cyBtb3JlIG9uIHVuZW1wbG95bWVudCB0aGFuIG9uIGluZmxhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluZmxhdGlvbiBhbmQgdW5lbXBsb3ltZW50IGFyZSBib3RoIGNhdXNlZCBieSBhIEdEUCB0aGF0IGlzIHRvbyBoaWdoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBHRFAgb2YgYSBoZWFsdGh5IGVjb25vbXkgcmVzdWx0cyBmcm9tIGEgcHJvcGVyIGFtb3VudCBvZiB0b3RhbCBzcGVuZGluZy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyB0cnVlIG9mIHRoZSBmaXNjYWwtcG9saWN5IG1lYXN1cmVzIGludHJvZHVjZWQgYnkgUHJlc2lkZW50IEtlbm5lZHkgYWZ0ZXIgMTk2MT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZXkgd2VyZSB0aGUgZmlyc3QgaW5zdGFuY2VzIG9mIHRoZSBkZWxpYmVyYXRlIHVzZSBvZiBmaXNjYWwgcG9saWN5IGJ5IGEgVS5TLiBwcmVzaWRlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZXkgd2VyZSBkZXNpZ25lZCB0byBkZWNyZWFzZSB0aGUgbmF0aW9uJ3MgdG90YWwgc3BlbmRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBpbmZsYXRpb24gcHJlY2VkaW5nIHRoZW0gd2FzIHRoZSByZXN1bHQgb2YgZmxhd2VkIGZpc2NhbCBwb2xpY3kuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBmaXJzdCBvZiB0aGVtIHdlcmUgbm90IGVmZmVjdGl2ZSBhdCBicmluZ2luZyB0aGUgbmF0aW9uIG91dCBvZiByZWNlc3Npb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIGxhc3QgcGFyYWdyYXBoIGNvbnRhaW5zIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEEgY29uY2x1c2lvbiB0aGF0LUtleW5lc2lhbiBlY29ub21pY3MgaXMgaW5lZmZlY3RpdmUgYXQgY29udHJvbGxpbmcgaW5mbGF0aW9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFuIGV4YW1wbGUgb2YgYSBzdWNjZXNzZnVsIGltcGxlbWVudGF0aW9uIG9mIGZpc2NhbCBwb2xpY3kuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEgY29tcGxhaW50IGNvbmNlcm5pbmcgdGhlIGltcGxlbWVudGF0aW9uIG9mIGZpc2NhbCBwb2xpY3k8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEEgZmFjdCB0aGF0IHVuZGVybWluZXMgdGhlIGZlYXNpYmlsaXR5IG9mIGZpc2NhbCBwb2xpY3kgdG8gYWZmZWN0IHVuZW1wbG95bWVudDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIHBhc3NhZ2UncyBhdXRob3Igd291bGQgbW9zdCBsaWtlbHkgYWdyZWUgd2l0aCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgYWJvdXQgZmlzY2FsIHBvbGljeT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBleHRyZW1lcyBvZiB0aGUgYnVzaW5lc3MgY3ljbGUgYXJlIGluZXZpdGFibGUsIHJlZ2FyZGxlc3Mgb2Ygd2hhdCBmaXNjYWwgcG9saWN5IGlzIHVzZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFBvbGl0aWNpYW5zIHNob3VsZCBlbmRvcnNlIGdvb2QgZmlzY2FsIHBvbGljeSBldmVuIGF0IHRoZSByaXNrIG9mIGFsaWVuYXRpbmcgdm90ZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZpc2NhbCBwb2xpY3kgaXMgYSBzb3VuZCB0aGVvcnkgZXZlbiB3aGlsZSB0aGVyZSBhcmUgbm8gZXhhbXBsZXMgb2YgaXQgYmVpbmcgc3VjY2Vzc2Z1bGx5IGltcGxlbWVudGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEZpc2NhbCBwb2xpY3kgaXMgbW9zdCBlZmZlY3RpdmUgd2hlbiBpdCBpcyBkZXNpZ25lZCB0byBicmluZyBhYm91dCBvbmx5IHNtYWxsIGNoYW5nZXMgaW4gdGhlIGVjb25vbXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDcsIHRoZSB3b3JkIHByYWN0aWNpbmcgbW9zdCBuZWFybHkgbWVhbnM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRyYWluaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHByZXBhcmluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVubGVhc2hpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcGxlbWVudGluZy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IGEgbWFpbiBjb250cmlidXRpb24gb2YgS2V5bmVzIHRvIGVjb25vbWljIHRoZW9yeSB3YXMgdGhlIGlkZWEgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBleHRyZW1lcyBvZiB0aGUgYnVzaW5lc3MgY3ljbGUgYXJlIGluZXZpdGFibGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhpZ2ggaW5mbGF0aW9uIGlzIG5vdCBhbHdheXMgYmFkIGZvciB0aGUgZWNvbm9teS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZpc2NhbCBwb2xpY3kgY2FuIGJlIHVzZWQgdG8gY2hhbmdlIHRoZSBlY29ub215J3MgcGVyZm9ybWFuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdvb2QgZmlzY2FsIHBvbGljeSBpcyBvZnRlbiBoaW5kZXJlZCBieSBwb2xpdGljaWFucycgcGVyc29uYWwgbW90aXZlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIHBhc3NhZ2UuIHN0YXRlcyB0aGF0IGlmIGEgbmF0aW9uJ3MgdG90YWwgc3BlbmRpbmcgaXMgdG9vIGhpZ2gsIHRoZSBnb3Zlcm5tZW50IGNhbiBhY3QgdG8gcmVndWxhdGUgdGhpcyBieTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxvd2VyaW5nIGl0cyBvd24gc3AtZW5kaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxvd2VyaW5nIHRheGVzIC5vbiBpbmRpdmlkdWFscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVuY291cmFnaW5nIGJ1c2luZXNzZXMgdG8gaW52ZXN0IGluIG5ldyBmYWN0b3JpZXMgYW5kIG1hY2hpbmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGVuY291cmFnaW5nIGJ1c2luZXNzZXMgdG8gaGlyZSB1bmVtcGxveWVkIHdvcmtlcnMuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

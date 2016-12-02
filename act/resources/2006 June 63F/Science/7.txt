@@ -1,103 +1,103 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Introduction</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkludHJvZHVjdGlvbjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students studying a unit on motion and conservation of energy were given the following information:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnRzIHN0dWR5aW5nIGEgdW5pdCBvbiBtb3Rpb24gYW5kIGNvbnNlcnZhdGlvbiBvZiBlbmVyZ3kgd2VyZSBnaXZlbiB0aGUgZm9sbG93aW5nIGluZm9ybWF0aW9uOjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Kinetic energy (energy that changes as an object's speed changes) and gravitational potential energy (energy that changes as an object's altitude changes) are forms of mechanical energy.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPktpbmV0aWMgZW5lcmd5IChlbmVyZ3kgdGhhdCBjaGFuZ2VzIGFzIGFuIG9iamVjdCdzIHNwZWVkIGNoYW5nZXMpIGFuZCBncmF2aXRhdGlvbmFsIHBvdGVudGlhbCBlbmVyZ3kgKGVuZXJneSB0aGF0IGNoYW5nZXMgYXMgYW4gb2JqZWN0J3MgYWx0aXR1ZGUgY2hhbmdlcykgYXJlIGZvcm1zIG9mIG1lY2hhbmljYWwgZW5lcmd5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An object's total mechanical energy is the sum of its kinetic energy and its gravitational potential energy.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuIG9iamVjdCdzIHRvdGFsIG1lY2hhbmljYWwgZW5lcmd5IGlzIHRoZSBzdW0gb2YgaXRzIGtpbmV0aWMgZW5lcmd5IGFuZCBpdHMgZ3Jhdml0YXRpb25hbCBwb3RlbnRpYWwgZW5lcmd5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">If an object's total mechanical energy is constant, its total mechanical energy is said to be conserved.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPklmIGFuIG9iamVjdCdzIHRvdGFsIG1lY2hhbmljYWwgZW5lcmd5IGlzIGNvbnN0YW50LCBpdHMgdG90YWwgbWVjaGFuaWNhbCBlbmVyZ3kgaXMgc2FpZCB0byBiZSBjb25zZXJ2ZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Friction causes some of an object's total mechanical energy to be lost, in which case its total mechanical energy is not conserved.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyaWN0aW9uIGNhdXNlcyBzb21lIG9mIGFuIG9iamVjdCdzIHRvdGFsIG1lY2hhbmljYWwgZW5lcmd5IHRvIGJlIGxvc3QsIGluIHdoaWNoIGNhc2UgaXRzIHRvdGFsIG1lY2hhbmljYWwgZW5lcmd5IGlzIG5vdCBjb25zZXJ2ZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students' teacher then described the following experiment:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzdHVkZW50cycgdGVhY2hlciB0aGVuIGRlc2NyaWJlZCB0aGUgZm9sbG93aW5nIGV4cGVyaW1lbnQ6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Suppose student placed. a block upon a surface and gave the block a single push. As the block moved along the surface, the student measured the block's speed twice in. succession and found that the second measured speed was lower than the first.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN1cHBvc2Ugc3R1ZGVudCBwbGFjZWQuIGEgYmxvY2sgdXBvbiBhIHN1cmZhY2UgYW5kIGdhdmUgdGhlIGJsb2NrIGEgc2luZ2xlIHB1c2guIEFzIHRoZSBibG9jayBtb3ZlZCBhbG9uZyB0aGUgc3VyZmFjZSwgdGhlIHN0dWRlbnQgbWVhc3VyZWQgdGhlIGJsb2NrJ3Mgc3BlZWQgdHdpY2UgaW4uIHN1Y2Nlc3Npb24gYW5kIGZvdW5kIHRoYXQgdGhlIHNlY29uZCBtZWFzdXJlZCBzcGVlZCB3YXMgbG93ZXIgdGhhbiB0aGUgZmlyc3QuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Given no other information, 3 students were asked to explain the results of the 2 measurements and to predict the block's motion after the 2 measurements.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdpdmVuIG5vIG90aGVyIGluZm9ybWF0aW9uLCAzIHN0dWRlbnRzIHdlcmUgYXNrZWQgdG8gZXhwbGFpbiB0aGUgcmVzdWx0cyBvZiB0aGUgMiBtZWFzdXJlbWVudHMgYW5kIHRvIHByZWRpY3QgdGhlIGJsb2NrJ3MgbW90aW9uIGFmdGVyIHRoZSAyIG1lYXN1cmVtZW50cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnQgMTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The block was moving on a rough, horizontal surface (a surface with no incline). There was a constant frictional force between the block and the surface. This force alone caused the block to slow down at a constant rate and would have caused the block eventually to stop. Once stopped the block would have remained at rest.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBibG9jayB3YXMgbW92aW5nIG9uIGEgcm91Z2gsIGhvcml6b250YWwgc3VyZmFjZSAoYSBzdXJmYWNlIHdpdGggbm8gaW5jbGluZSkuIFRoZXJlIHdhcyBhIGNvbnN0YW50IGZyaWN0aW9uYWwgZm9yY2UgYmV0d2VlbiB0aGUgYmxvY2sgYW5kIHRoZSBzdXJmYWNlLiBUaGlzIGZvcmNlIGFsb25lIGNhdXNlZCB0aGUgYmxvY2sgdG8gc2xvdyBkb3duIGF0IGEgY29uc3RhbnQgcmF0ZSBhbmQgd291bGQgaGF2ZSBjYXVzZWQgdGhlIGJsb2NrIGV2ZW50dWFsbHkgdG8gc3RvcC4gT25jZSBzdG9wcGVkIHRoZSBibG9jayB3b3VsZCBoYXZlIHJlbWFpbmVkIGF0IHJlc3QuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnQgMjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When the 2 measurements were made, the block was moving up a frictionless, inclined surface as shown in the figure, and was slowing down at a constant rate. No air was present</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gdGhlIDIgbWVhc3VyZW1lbnRzIHdlcmUgbWFkZSwgdGhlIGJsb2NrIHdhcyBtb3ZpbmcgdXAgYSBmcmljdGlvbmxlc3MsIGluY2xpbmVkIHN1cmZhY2UgYXMgc2hvd24gaW4gdGhlIGZpZ3VyZSwgYW5kIHdhcyBzbG93aW5nIGRvd24gYXQgYSBjb25zdGFudCByYXRlLiBObyBhaXIgd2FzIHByZXNlbnQ8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\163.png' width = '260'height = '128'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjMucG5nJyB3aWR0aCA9ICcyNjAnaGVpZ2h0ID0gJzEyOCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Eventually, the block would have stopped moving up the incline; then gravity alone would have caused the block to accelerate down the incline. At any specified altitude, the block's speed going down the incline would have been the same, as its earlier speed going up the incline.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV2ZW50dWFsbHksIHRoZSBibG9jayB3b3VsZCBoYXZlIHN0b3BwZWQgbW92aW5nIHVwIHRoZSBpbmNsaW5lOyB0aGVuIGdyYXZpdHkgYWxvbmUgd291bGQgaGF2ZSBjYXVzZWQgdGhlIGJsb2NrIHRvIGFjY2VsZXJhdGUgZG93biB0aGUgaW5jbGluZS4gQXQgYW55IHNwZWNpZmllZCBhbHRpdHVkZSwgdGhlIGJsb2NrJ3Mgc3BlZWQgZ29pbmcgZG93biB0aGUgaW5jbGluZSB3b3VsZCBoYXZlIGJlZW4gdGhlIHNhbWUsIGFzIGl0cyBlYXJsaWVyIHNwZWVkIGdvaW5nIHVwIHRoZSBpbmNsaW5lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWRlbnQgMzwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The block moved on a frictionless, horizontal surface. As a result of its motion, the block encountered air resistance. Air resistance alone caused the block to slow down and lose mechanical energy. The rate at which the block slowed down depended upon the amount of air resistance it encountered. As the block's speed decreased, the amount of air resistance decreased.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBibG9jayBtb3ZlZCBvbiBhIGZyaWN0aW9ubGVzcywgaG9yaXpvbnRhbCBzdXJmYWNlLiBBcyBhIHJlc3VsdCBvZiBpdHMgbW90aW9uLCB0aGUgYmxvY2sgZW5jb3VudGVyZWQgYWlyIHJlc2lzdGFuY2UuIEFpciByZXNpc3RhbmNlIGFsb25lIGNhdXNlZCB0aGUgYmxvY2sgdG8gc2xvdyBkb3duIGFuZCBsb3NlIG1lY2hhbmljYWwgZW5lcmd5LiBUaGUgcmF0ZSBhdCB3aGljaCB0aGUgYmxvY2sgc2xvd2VkIGRvd24gZGVwZW5kZWQgdXBvbiB0aGUgYW1vdW50IG9mIGFpciByZXNpc3RhbmNlIGl0IGVuY291bnRlcmVkLiBBcyB0aGUgYmxvY2sncyBzcGVlZCBkZWNyZWFzZWQsIHRoZSBhbW91bnQgb2YgYWlyIHJlc2lzdGFuY2UgZGVjcmVhc2VkLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">34. Assume that the block was pushed and then released at time = 0. Student l's description of the block's speed over time after its release is best illustrated by which of the following graphs?
-<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\164.png' width = '158'height = '130'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\165.png' width = '139'height = '130'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\166.png' width = '145'height = '130'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\167.png' width = '156'height = '130'/></div>
-</div>
-###################
-<div class = "quiz">35. The 3 explanations of the block's motion are similar to each other in that all 3 explanations:
-<div class = "choice">A. contradicted the law of conservation of total mechanical energy.</div>
-<div class = "choice">B. were based on 2 measurements.</div>
-<div class = "choice">C. were formulated using the assumption that no friction would exist between the block and the air.</div>
-<div class = "choice">D. were formulated using the assumption that there would be no friction between the block and the surface on which it moved.</div>
-</div>
-###################
-<div class = "quiz">36. Based on the explanations of the 3 students, what did the 3 students most likely assume about the block's speed between the times the 2 measurements were made?
-<div class = "choice">F. The speed increased only.</div>
-<div class = "choice">G. The speed decreased only.</div>
-<div class = "choice">H. The speed increased, then decreased.</div>
-<div class = "choice">J. The speed changed, but with no general trend.</div>
-</div>
-###################
-<div class = "quiz">37. The teacher posed another question: Suppose, in a second experiment the student placed the block and the surface in an airless chamber. Then the student repeated the procedure from the first experiment, except that he measured the block's speed throughout the experiment. If the block's speed remained constant throughout this second experiment, the explanation(s) of which student(s) for the results of the first experiment would be best supported?
-<div class = "choice">A. Student l only</div>
-<div class = "choice">B. Student 3 only</div>
-<div class = "choice">C. Students l and 2 only</div>
-<div class = "choice">D. Students l and 3 only</div>
-</div>
-###################
-<div class = "quiz">38. Based on Student 2's explanation, the block's gravitational potential energy at the highest point on its path most likely equaled:
-<div class = "choice">F. the block's kinetic energy one-third of the way up the incline.</div>
-<div class = "choice">G. the block's gravitational potential energy two-thirds of the way up the incline.</div>
-<div class = "choice">H. the block's total mechanical energy.</div>
-<div class = "choice">J. zero.</div>
-</div>
-###################
-<div class = "quiz">39. According to Student l, while the block was moving did the block's speed affect the frictional force on the block?
-<div class = "choice">A. Yes; as the block's speed increased, the frictional force on the block decreased only.</div>
-<div class = "choice">B. Yes; as the block's speed increased the frictional force on the block increased, then decreased.</div>
-<div class = "choice">C. No; as the block's speed decreased, the frictional force on the block decreased, then increased.</div>
-<div class = "choice">D. No; as the block's speed decreased the frictional force on the block was unaffected.</div>
-</div>
-###################
-<div class = "quiz">40. Assuming that Student l's explanation is correct, while the block moved, was the total mechanical energy of the block conserved?
-<div class = "choice">F. Yes, because the block's kinetic energy increased and its gravitational potential energy remained constant.</div>
-<div class = "choice">G. Yes, because both the block's kinetic energy and its gravitational potential energy increased.</div>
-<div class = "choice">H. No, because the block's kinetic energy decreased and its gravitational potential energy remained constant.</div>
-<div class = "choice">J. No because both the block's kinetic energy and its gravitational potential energy decreased.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQXNzdW1lIHRoYXQgdGhlIGJsb2NrIHdhcyBwdXNoZWQgYW5kIHRoZW4gcmVsZWFzZWQgYXQgdGltZSA9IDAuIFN0dWRlbnQgbCdzIGRlc2NyaXB0aW9uIG9mIHRoZSBibG9jaydzIHNwZWVkIG92ZXIgdGltZSBhZnRlciBpdHMgcmVsZWFzZSBpcyBiZXN0IGlsbHVzdHJhdGVkIGJ5IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZ3JhcGhzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcxNTgnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjUucG5nJyB3aWR0aCA9ICcxMzknaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjYucG5nJyB3aWR0aCA9ICcxNDUnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjcucG5nJyB3aWR0aCA9ICcxNTYnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIDMgZXhwbGFuYXRpb25zIG9mIHRoZSBibG9jaydzIG1vdGlvbiBhcmUgc2ltaWxhciB0byBlYWNoIG90aGVyIGluIHRoYXQgYWxsIDMgZXhwbGFuYXRpb25zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbnRyYWRpY3RlZCB0aGUgbGF3IG9mIGNvbnNlcnZhdGlvbiBvZiB0b3RhbCBtZWNoYW5pY2FsIGVuZXJneS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdlcmUgYmFzZWQgb24gMiBtZWFzdXJlbWVudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdlcmUgZm9ybXVsYXRlZCB1c2luZyB0aGUgYXNzdW1wdGlvbiB0aGF0IG5vIGZyaWN0aW9uIHdvdWxkIGV4aXN0IGJldHdlZW4gdGhlIGJsb2NrIGFuZCB0aGUgYWlyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdlcmUgZm9ybXVsYXRlZCB1c2luZyB0aGUgYXNzdW1wdGlvbiB0aGF0IHRoZXJlIHdvdWxkIGJlIG5vIGZyaWN0aW9uIGJldHdlZW4gdGhlIGJsb2NrIGFuZCB0aGUgc3VyZmFjZSBvbiB3aGljaCBpdCBtb3ZlZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQmFzZWQgb24gdGhlIGV4cGxhbmF0aW9ucyBvZiB0aGUgMyBzdHVkZW50cywgd2hhdCBkaWQgdGhlIDMgc3R1ZGVudHMgbW9zdCBsaWtlbHkgYXNzdW1lIGFib3V0IHRoZSBibG9jaydzIHNwZWVkIGJldHdlZW4gdGhlIHRpbWVzIHRoZSAyIG1lYXN1cmVtZW50cyB3ZXJlIG1hZGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBzcGVlZCBpbmNyZWFzZWQgb25seS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBzcGVlZCBkZWNyZWFzZWQgb25seS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBzcGVlZCBpbmNyZWFzZWQsIHRoZW4gZGVjcmVhc2VkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBzcGVlZCBjaGFuZ2VkLCBidXQgd2l0aCBubyBnZW5lcmFsIHRyZW5kLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIHRlYWNoZXIgcG9zZWQgYW5vdGhlciBxdWVzdGlvbjogU3VwcG9zZSwgaW4gYSBzZWNvbmQgZXhwZXJpbWVudCB0aGUgc3R1ZGVudCBwbGFjZWQgdGhlIGJsb2NrIGFuZCB0aGUgc3VyZmFjZSBpbiBhbiBhaXJsZXNzIGNoYW1iZXIuIFRoZW4gdGhlIHN0dWRlbnQgcmVwZWF0ZWQgdGhlIHByb2NlZHVyZSBmcm9tIHRoZSBmaXJzdCBleHBlcmltZW50LCBleGNlcHQgdGhhdCBoZSBtZWFzdXJlZCB0aGUgYmxvY2sncyBzcGVlZCB0aHJvdWdob3V0IHRoZSBleHBlcmltZW50LiBJZiB0aGUgYmxvY2sncyBzcGVlZCByZW1haW5lZCBjb25zdGFudCB0aHJvdWdob3V0IHRoaXMgc2Vjb25kIGV4cGVyaW1lbnQsIHRoZSBleHBsYW5hdGlvbihzKSBvZiB3aGljaCBzdHVkZW50KHMpIGZvciB0aGUgcmVzdWx0cyBvZiB0aGUgZmlyc3QgZXhwZXJpbWVudCB3b3VsZCBiZSBiZXN0IHN1cHBvcnRlZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFN0dWRlbnQgbCBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN0dWRlbnQgMyBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFN0dWRlbnRzIGwgYW5kIDIgb25seTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFN0dWRlbnRzIGwgYW5kIDMgb25seTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQmFzZWQgb24gU3R1ZGVudCAyJ3MgZXhwbGFuYXRpb24sIHRoZSBibG9jaydzIGdyYXZpdGF0aW9uYWwgcG90ZW50aWFsIGVuZXJneSBhdCB0aGUgaGlnaGVzdCBwb2ludCBvbiBpdHMgcGF0aCBtb3N0IGxpa2VseSBlcXVhbGVkOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBibG9jaydzIGtpbmV0aWMgZW5lcmd5IG9uZS10aGlyZCBvZiB0aGUgd2F5IHVwIHRoZSBpbmNsaW5lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBibG9jaydzIGdyYXZpdGF0aW9uYWwgcG90ZW50aWFsIGVuZXJneSB0d28tdGhpcmRzIG9mIHRoZSB3YXkgdXAgdGhlIGluY2xpbmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBibG9jaydzIHRvdGFsIG1lY2hhbmljYWwgZW5lcmd5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHplcm8uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQWNjb3JkaW5nIHRvIFN0dWRlbnQgbCwgd2hpbGUgdGhlIGJsb2NrIHdhcyBtb3ZpbmcgZGlkIHRoZSBibG9jaydzIHNwZWVkIGFmZmVjdCB0aGUgZnJpY3Rpb25hbCBmb3JjZSBvbiB0aGUgYmxvY2s/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllczsgYXMgdGhlIGJsb2NrJ3Mgc3BlZWQgaW5jcmVhc2VkLCB0aGUgZnJpY3Rpb25hbCBmb3JjZSBvbiB0aGUgYmxvY2sgZGVjcmVhc2VkIG9ubHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllczsgYXMgdGhlIGJsb2NrJ3Mgc3BlZWQgaW5jcmVhc2VkIHRoZSBmcmljdGlvbmFsIGZvcmNlIG9uIHRoZSBibG9jayBpbmNyZWFzZWQsIHRoZW4gZGVjcmVhc2VkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vOyBhcyB0aGUgYmxvY2sncyBzcGVlZCBkZWNyZWFzZWQsIHRoZSBmcmljdGlvbmFsIGZvcmNlIG9uIHRoZSBibG9jayBkZWNyZWFzZWQsIHRoZW4gaW5jcmVhc2VkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vOyBhcyB0aGUgYmxvY2sncyBzcGVlZCBkZWNyZWFzZWQgdGhlIGZyaWN0aW9uYWwgZm9yY2Ugb24gdGhlIGJsb2NrIHdhcyB1bmFmZmVjdGVkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQXNzdW1pbmcgdGhhdCBTdHVkZW50IGwncyBleHBsYW5hdGlvbiBpcyBjb3JyZWN0LCB3aGlsZSB0aGUgYmxvY2sgbW92ZWQsIHdhcyB0aGUgdG90YWwgbWVjaGFuaWNhbCBlbmVyZ3kgb2YgdGhlIGJsb2NrIGNvbnNlcnZlZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSB0aGUgYmxvY2sncyBraW5ldGljIGVuZXJneSBpbmNyZWFzZWQgYW5kIGl0cyBncmF2aXRhdGlvbmFsIHBvdGVudGlhbCBlbmVyZ3kgcmVtYWluZWQgY29uc3RhbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBib3RoIHRoZSBibG9jaydzIGtpbmV0aWMgZW5lcmd5IGFuZCBpdHMgZ3Jhdml0YXRpb25hbCBwb3RlbnRpYWwgZW5lcmd5IGluY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBibG9jaydzIGtpbmV0aWMgZW5lcmd5IGRlY3JlYXNlZCBhbmQgaXRzIGdyYXZpdGF0aW9uYWwgcG90ZW50aWFsIGVuZXJneSByZW1haW5lZCBjb25zdGFudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vIGJlY2F1c2UgYm90aCB0aGUgYmxvY2sncyBraW5ldGljIGVuZXJneSBhbmQgaXRzIGdyYXZpdGF0aW9uYWwgcG90ZW50aWFsIGVuZXJneSBkZWNyZWFzZWQuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

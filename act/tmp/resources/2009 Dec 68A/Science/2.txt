@@ -1,0 +1,97 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 shows the life cycle of the malaria parasite. Gametocytes and sporozoites are 2 forms of the parasite.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For the parasite to survive, mosquitoes must bite humans infected with gametocytes. Therefore, 2 studies were conducted to determine whether mosquitoes are most attracted to humans infected with gametocytes.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three groups (Groups X, Y, and Z), each with 12 human subjects (Subjects 1-12), were identified (see Table 1).</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:450.6pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="300"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:135.0pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Group</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Malariainfection status of subjects</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:135.0pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>X</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>Y</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>Z</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Uninfected</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Sporozoitespresent</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Gametocytespresent</span></p></td></tr></table></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\177.png' width = '679'height = '662'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three subjects—one from each group—rested in separate, but identical, tents of mosquito netting attached to the same central chamber. A mosquito trap was inserted between the chamber and each tent to capture any mosquitoes trying to enter the tent (see Figure 2).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\178.png' width = '594'height = '512'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Dotted lines indicate mosquito netting.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the first trial 100 uninfected mosquitoes were released into the chamber. Thirty minutes later the number of mosquitoes attracted to each subject was determined. This procedure was repeated in 11 more trials until all subjects had been tested. Then, for each group, the average number of mosquitoes attracted to a subject was calculated (see Figure 3). All infected subjects were then treated to cure their sporozoite or gametocyte infections.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\179.png' width = '665'height = '368'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The procedure from Study 1 was repeated with Group X subjects and the cured subjects from Groups Y and Z. Figure 4 shows the proportion of responsive mosquitoes (those caught in a trap) that were attracted to the Group Z subjects before treatment and after being cured of their gametocyte infections.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\180.png' width = '481'height = '376'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 4</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Renaud Lacroix et al., "Malaria Infection Increases Attractiveness of Humans to Mosquitoes." ©2005 by Renaud Lacroix et al.</div>
+
+<br>
+###################
+<div class = "quiz">6. Assume that a subject's attractiveness to mosquitoes depends on body temperature. Based on Figure 4, the body temperature of which of the following Group Z subjects, with which treatment status, was most attractive to mosquitoes?
+<div class = "choice">F. Subject 1, before treatment</div>
+<div class = "choice">G. Subject 1, after cure</div>
+<div class = "choice">H. Subject 9, before treatment</div>
+<div class = "choice">J. Subject 9, after cure</div>
+</div>
+###################
+<div class = "quiz">7. Do the results of Study 1 support the hypothesis that mosquitoes are more attracted to human subjects infected with gametocytes than to human subjects infected with sporozoites or to uninfected human subjects?
+<div class = "choice">A. Yes; on average, more mosquitoes were attracted to subjects from Group X than to subjects from Group Y or Z.</div>
+<div class = "choice">B. Yes; on average, more mosquitoes were attracted to subjects from Group Z than to subjects from Group X or Y.</div>
+<div class = "choice">C. No; on average, more mosquitoes were attracted to subjects from Group X than to subjects from Group Y or Z.</div>
+<div class = "choice">D. No; on average, more mosquitoes were attracted to subjects from Group Z than to subjects from Group X or Y.</div>
+</div>
+###################
+<div class = "quiz">8. Based on Figure 4, how many of the subjects in Group Z attracted a greater proportion of the responsive mosquitoes after their infections were cured, than before they were treated?
+<div class = "choice">F. 0</div>
+<div class = "choice">G. 4</div>
+<div class = "choice">H. 8</div>
+<div class = "choice">J. 12</div>
+</div>
+###################
+<div class = "quiz">9. Which of the following is the most likely reason that subjects infected with gametocytes were tested both before and after their infections were cured?
+<div class = "choice">A. To determine whether mosquitoes were attracted to these subjects because of the subjects' infections</div>
+<div class = "choice">B. To make sure that gametocytes were found in the • red blood cells of the subjects .</div>
+<div class = "choice">C. To determine how many gametocytes were present in the subjects</div>
+<div class = "choice">D. To make sure that the mosquitoes were not killed by the drugs used to treat malaria</div>
+</div>
+###################
+<div class = "quiz">10. In Studies 1 and 2, which group—Group X or Group Y—more likely served as the standard of comparison allowing the researchers to compare the results for Group Z from Study 1 to the results for Group Z from Study 2?
+<div class = "choice">F. Group X, because the infection status of the Group X subjects was different in Study 1 and Study 2.</div>
+<div class = "choice">G. Group X, because the infection status of the Group X subjects was the same in Study 1 and Study 2.</div>
+<div class = "choice">H. Group Y, because the infection status of the Group Y subjects was different in Study 1 and Study 2.</div>
+<div class = "choice">J. Group Y, because the infection status of the Group Y subjects was the same in Study 1 and Study 2.</div>
+</div>
+###################
+<div class = "quiz">11. Which of the following procedures was most likely employed to ensure that the mosquitoes were attracted to a specific subject rather than to a specific tent?
+<div class = "choice">A. Releasing the same number of mosquitoes into each tent in each trial</div>
+<div class = "choice">B. Releasing a different number of mosquitoes into each tent in each trial</div>
+<div class = "choice">C. Assigning the subjects to tents in a random manner in each trial</div>
+<div class = "choice">D. Assigning the gametocyte subject to the same tent in each trial</div>
+<br>
+</div>
+###################

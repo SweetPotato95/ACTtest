@@ -1,0 +1,962 @@
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:85.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Team</span></p>
+</td>
+<td style="width:85.2pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Wins</span></p>
+</td>
+<td style="width:85.2pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Losses</span></p>
+</td>
+<td style="width:85.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Winning
+  rate</span></p>
+</td>
+<td style="width:85.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Home
+  win-loss record</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:85.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>New
+  York</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Baltimore</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Boston</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Toronto</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Detroit</span></p>
+</td>
+<td style="width:85.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>92</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>88</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>85</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>74</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>53</span></p>
+</td>
+<td style="width:85.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>70</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>74</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>77</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>88</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>109</span></p>
+</td>
+<td style="width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.568</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.543</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.525</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.457</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>.327</span></p>
+</td>
+<td style="width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="114">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>49-31</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>43-38</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>47-34</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>35-46</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>27-54</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:235.3pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="314">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Trial</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  (</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>)</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Reaction
+  time (sec)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>4</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>35</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>45</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>55</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>210</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>105</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>48</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:235.3pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="314">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Trial</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  (</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>)</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Reaction
+  time (sec)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>5</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>6</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>7</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>8</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>35</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>45</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>55</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>66</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>43</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>20</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>12</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:235.3pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="314">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  3</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Trial</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Concentration
+  of H<sub>2</sub>C<sub>2</sub>C<sub>4</sub> (M)</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Reaction
+  time (sec)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:40.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>9</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>10</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>11</span></p>
+</td>
+<td style="width:93.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="125">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.125</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.250</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.500</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>837</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>625</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>415</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:439.75pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="586">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:439.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="586">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:96.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="128">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Edge
+  length (mm)</span></p>
+</td>
+<td style="width:97.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Surface
+  area (mm<sup>2</sup>)</span></p>
+</td>
+<td style="width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Volume
+  (mm<sup>3</sup>)</span></p>
+</td>
+<td style="width:67.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>S/V
+  (mm<sup>-1</sup>)</span></p>
+</td>
+<td style="width:97.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Percent
+  volume dyed</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:96.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="128">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>4</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>8</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>16</span></p>
+</td>
+<td style="width:97.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>6</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>24</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>96</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>384</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1.536</span></p>
+</td>
+<td style="width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>8</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>64</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>512</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>4.096</span></p>
+</td>
+<td style="width:67.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="90">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>6</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1.5</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.75</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.375</span></p>
+</td>
+<td style="width:97.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>100</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>100</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>84</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>43</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>8</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:265.6pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="354">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:79.3pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="106">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Type</span></p>
+</td>
+<td style="width:84.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Diameter
+  (mm)</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Surface
+  area (mm<sup>2</sup>)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:79.3pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="106">
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Sea urchin</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Human</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Hummingbird</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Hen </span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Ostrich</span></p>
+</td>
+<td style="width:84.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.07</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>6</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>100</span></p>
+</td>
+<td style="width:101.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.02</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>0.03</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>100</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2.000</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>30.000</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:293.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="391">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:102.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="137">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Mass
+  of C<sub>2</sub>H<sub>6</sub>O<sub>2 </sub>(g)</span></p>
+</td>
+<td style="width:89.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="119">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Mass
+  of H<sub>2</sub>O (g)</span></p>
+</td>
+<td style="width:100.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Freezing
+  point (</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:102.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="137">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>10</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>20</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>30</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>40</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>50</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>60</span></p>
+</td>
+<td style="width:89.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="119">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>90</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>80</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>70</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>60</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>50</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>40</span></p>
+</td>
+<td style="width:100.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="135">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-3.4</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-7.9</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-14.6</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-23.8</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-36.1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>-51.2</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="7" style="width:412.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="550">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td rowspan="2" style="width:60.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Length
+  of wire (cm)</span></p>
+</td>
+<td colspan="3" style="width:182.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="243">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  </span><span lang="EN-US" style='font-size:10.5pt;mso-bidi-font-family:"Times New Roman"'>(</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>) of Block A
+  after:</span></p>
+</td>
+<td colspan="3" style="width:168.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="225">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  </span><span lang="EN-US" style='font-size:10.5pt;mso-bidi-font-family:"Times New Roman"'>(</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>) of Block B
+  after:</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1 min</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2 min</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3 min</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1 min</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2 min</span></p>
+</td>
+<td style="width:80.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3 min</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+<td style="width:60.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>10</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>20</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>30</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>79</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>88</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>91</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>66</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>80</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>85</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>54</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>72</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>78</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>18</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>9</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>6</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>15</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>10</span></p>
+</td>
+<td style="width:80.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>31</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>19</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>14</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="7" style="width:412.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="550">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Table
+  2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td rowspan="2" style="width:60.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Length
+  of wire (cm)</span></p>
+</td>
+<td colspan="3" style="width:182.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="243">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  </span><span lang="EN-US" style='font-size:10.5pt;mso-bidi-font-family:"Times New Roman"'>(</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>) of Block A
+  after:</span></p>
+</td>
+<td colspan="3" style="width:168.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="225">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Temperature
+  </span><span lang="EN-US" style='font-size:10.5pt;mso-bidi-font-family:"Times New Roman"'>(</span><span lang="EN-US" style='font-size:10.5pt;mso-ascii-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>℃</span><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>) of Block B
+  after:</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1 min</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2 min</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3 min</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>1 min</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>2 min</span></p>
+</td>
+<td style="width:80.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>3 min</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+<td style="width:60.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>10</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>20</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>30</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>61</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>79</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>85</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>45</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>65</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>75</span></p>
+</td>
+<td style="width:60.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>40</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>53</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>66</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>34</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>17</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>12</span></p>
+</td>
+<td style="width:44.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="59">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>45</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>25</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>16</span></p>
+</td>
+<td style="width:80.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>40</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>35</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>20</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:84.85pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>City</span></p>
+</td>
+<td style="width:141.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Average
+  air temperature (°F)</span></p>
+</td>
+<td style="width:119.35pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="159">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Average
+  dew point (°F)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:84.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="113">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Miami
+  Phoenix</span></p>
+</td>
+<td style="width:141.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>85</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>95</span></p>
+</td>
+<td style="width:119.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="159">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>70</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>36</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'> </span></p>
+</td>
+<td style="width:109.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Factors
+  held constant</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  3</span></p>
+</td>
+<td style="width:109.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>pH only</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature only</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature and
+  pH</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'> </span></p>
+</td>
+<td style="width:109.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Factors
+  held constant</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  3</span></p>
+</td>
+<td style="width:109.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>pH only</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature and
+  pH</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature only</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'> </span></p>
+</td>
+<td style="width:109.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Factors
+  held constant</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  3</span></p>
+</td>
+<td style="width:109.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature and
+  pH</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>pH only</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature only</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'> </span></p>
+</td>
+<td style="width:109.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Factors
+  held constant</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:55.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  1</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  2</span></p>
+<p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>Figure
+  3</span></p>
+</td>
+<td style="width:109.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="145">
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature and
+  pH</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>temperature only</span></p>
+<p  style="mso-pagination:none"><span lang="EN-US" style='font-size:10.5pt;font-family:"Times New Roman",serif'>pH only</span></p>
+</td>
+</tr>
+</table>
+***********************

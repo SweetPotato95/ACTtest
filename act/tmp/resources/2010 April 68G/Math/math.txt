@@ -1,0 +1,549 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1. On the map below, 2 parallel streets, North and South, intersect 2 other parallel streets, First and Second. The acute angle at which Second Street intersects North Street measures 55°. What is the measure of the acute angle at which First Street intersects South Street?
+<img src='file:\$$$\resources\2010 April 68G\imgs\0.png' width = '630'height = '298'/>
+<div class = "choice">A. 35°</div>
+<div class = "choice">B. 55°</div>
+<div class = "choice">C. 62.5°</div>
+<div class = "choice">D. 65°</div>
+<div class = "choice">E. 70°</div>
+</div>
+###################
+<div class = "quiz">2. Which of the following is a simplified form of the expression 4(2+ 5x)+ 9 - 2x ?
+<div class = "choice">F. 3x+ 17</div>
+<div class = "choice">G. 7x + 15</div>
+<div class = "choice">H. 18x+ 17</div>
+<div class = "choice">J. 26x+ 9</div>
+<div class = "choice">K. 35x</div>
+</div>
+###################
+<div class = "quiz">3. A point at (-2,8) in the standard (x, y) coordinate plane is shifted right 8 units and down 2 units. What are the new coordinates of the point?
+<div class = "choice">A. (-10,10)</div>
+<div class = "choice">B. (0,0)</div>
+<div class = "choice">C. (6,6)</div>
+<div class = "choice">D. (6,10)</div>
+<div class = "choice">E. ( 10,10)</div>
+</div>
+###################
+<div class = "quiz">4. To attend an annual banquet, members pay $17 per ticket while nonmembers pay $20 per ticket. What is the total amount, in dollars, from the sale of 70 member tickets and n nonmember tickets ?
+<div class = "choice">F. n+70</div>
+<div class = "choice">G. (20+17)n</div>
+<div class = "choice">H. 20(n+17)</div>
+<div class = "choice">J. 20(n+70)</div>
+<div class = "choice">K. 20n+17(70)</div>
+</div>
+###################
+<div class = "quiz">5. A coat originally priced at $80 is discounted to $60. What is the percent of discount on this coat?
+<div class = "choice">A. 13%</div>
+<div class = "choice">B. 20%</div>
+<div class = "choice">C. 25%</div>
+<div class = "choice">D. 30%</div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\1.png' width = '45'height = '60'/>%</div>
+</div>
+###################
+<div class = "quiz">6. In △ABC, ∠A and ∠C are congruent, and the measure of ∠B is 114°. What is the measure of ∠A ?
+<div class = "choice">F. 33°</div>
+<div class = "choice">G. 57°</div>
+<div class = "choice">H. 60°</div>
+<div class = "choice">J. 66°</div>
+<div class = "choice">K. 1l4°</div>
+</div>
+###################
+<div class = "quiz">7. Bella will pick l jelly bean at random out of a bag containing 28 jelly beans that are in the colors and quantities shown in the table below. Each of the jelly beans is 1 color only.
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.6pt">
+<td style="width:113.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.6pt" valign="top" width="76">
+<p align="center"  style="text-align:center"><span lang="EN-US">Color</span></p>
+</td>
+<td style="width:113.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.6pt" valign="top" width="76">
+<p align="center"  style="text-align:center"><span lang="EN-US">Quantity</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:22.6pt">
+<td style="width:113.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.6pt" valign="top" width="76">
+<p align="center"  style="text-align:center"><span lang="EN-US">Green</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">Black</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">Red</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">Orange</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">Yellow</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">Blue</span></p></td>
+<td style="width:113.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.6pt" valign="top" width="76">
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">3</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">2</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">8</span></p></td></tr>
+</table>
+What is the probability that Bella will pick a blue or yellow jelly bean?
+<div class = "choice">A.<img src='file:\$$$\resources\2010 April 68G\imgs\2.png' width = '22'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2010 April 68G\imgs\3.png' width = '24'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2010 April 68G\imgs\4.png' width = '24'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2010 April 68G\imgs\5.png' width = '24'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\6.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">8. What is an automobile's average speed, in miles per hour, if it travels 60 miles in <img src='file:\$$$\resources\2010 April 68G\imgs\7.png' width = '35'height = '65'/> hours?
+<div class = "choice">F. 30</div>
+<div class = "choice">G. 40</div>
+<div class = "choice">H. 60</div>
+<div class = "choice">J. 90</div>
+<div class = "choice">K. 120</div>
+</div>
+###################
+<div class = "quiz">9. To determine a student's overall test score for the Semester, Ms. Ackerman deletes the lowest test score and calculates the average of the remaining test scores. Niels took all 5 tests and earned the following test scores in Ms. Ackerman's class this semester: 62, 78, 83, 86, and 93. What overall test score did Niels earn in Ms. Ackerman's class this semester?
+<div class = "choice">A. 77.5</div>
+<div class = "choice">B. 80.4</div>
+<div class = "choice">C. 83.0</div>
+<div class = "choice">D. 85.0</div>
+<div class = "choice">E. 85.5</div>
+</div>
+###################
+<div class = "quiz">10. For the equation 5y+ n=m, which of the following expressions gives y in terms of m and n ?
+<div class = "choice">F.<img src='file:\$$$\resources\2010 April 68G\imgs\8.png' width = '64'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2010 April 68G\imgs\9.png' width = '61'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2010 April 68G\imgs\10.png' width = '64'height = '65'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2010 April 68G\imgs\11.png' width = '64'height = '65'/></div>
+<div class = "choice">K. m-n-5</div>
+</div>
+###################
+<div class = "quiz">11. If 5 + 2x = 19, then 3x = ?
+<div class = "choice">A. 7</div>
+<div class = "choice">B. 12</div>
+<div class = "choice">C. 15</div>
+<div class = "choice">D. 2l</div>
+<div class = "choice">E. 36</div>
+</div>
+###################
+<div class = "quiz">12. The perimeter of a square is 24 feet. What is the area of the square, in square feet?
+<div class = "choice">F. 6</div>
+<div class = "choice">G. 12</div>
+<div class = "choice">H. 36</div>
+<div class = "choice">J. 72</div>
+<div class = "choice">K. 576</div>
+</div>
+###################
+<div class = "quiz">13. What is 7% of 4.58×10<sup>6</sup> ?
+<div class = "choice">A. 32,060,000</div>
+<div class = "choice">B. 3,206,000</div>
+<div class = "choice">C. 320,600</div>
+<div class = "choice">D. 763.33</div>
+<div class = "choice">E. 76.33</div>
+</div>
+###################
+<div class = "quiz">14. Which of the following expressions is a factor of the expression x<sup>2</sup> －6x + 8 ?
+<div class = "choice">F. x－3</div>
+<div class = "choice">G. x－4</div>
+<div class = "choice">H. x－5</div>
+<div class = "choice">J. x－6</div>
+<div class = "choice">K. x－8</div>
+</div>
+###################
+<div class = "quiz">15. Given real numbers a, b, c, d, and e such that c< d, e< c, e > b, and b > a, which of these numbers is the greatest?
+<div class = "choice">A. a</div>
+<div class = "choice">B. b</div>
+<div class = "choice">C. c</div>
+<div class = "choice">D. d</div>
+<div class = "choice">E. e</div>
+</div>
+###################
+<div class = "quiz">16. A new operation, ◆, is defined on pairs of ordered pairs of integers as follows: (a,b) ◆ (c,d) =<img src='file:\$$$\resources\2010 April 68G\imgs\12.png' width = '84'height = '65'/>. What is the value of (2,1) + (4,6) ?
+<div class = "choice">F.<img src='file:\$$$\resources\2010 April 68G\imgs\13.png' width = '50'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2010 April 68G\imgs\14.png' width = '41'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2010 April 68G\imgs\15.png' width = '24'height = '65'/></div>
+<div class = "choice">J. 7 </div>
+<div class = "choice">K. 14</div>
+</div>
+###################
+<div class = "quiz">17. A high school band needs to make 3 sizes of flags—small, medium, and large—for an upcoming halftime show. The 3 sizes of flags are made by combining 1-foot squares of material that come in 2 colors. Four band members have agreed to make the flags. The information they will need is given to them in the tables below. The table with colors tells how many 1-foot squares of each color are needed for each size flag, and the table with names tells how many flags of each size that each person is to make.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">red</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">blue</span></p></td></tr><tr style="mso-yfti-irow:1;height:35.3pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">small</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.3pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td></tr><tr style="mso-yfti-irow:2;height:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">medium</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:34.4pt"><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">large</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">10</span></p></td><td style="width:132.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p></td></tr></table></div>
+
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:41.0pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">small</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">medium</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">large</span></p></td></tr><tr style="mso-yfti-irow:1;height:42.1pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Jalinda</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.1pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td></tr><tr style="mso-yfti-irow:2;height:41.0pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Lance</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.0pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">3</span></p></td></tr><tr style="mso-yfti-irow:3;height:16.4pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Hamako</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:16.4pt"><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">Dakota</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">8</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:111.4pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.4pt" valign="top" width="74"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr></table></div>
+How many l-foot squares of blue material does Lance need to make his flags?
+<div class = "choice">A. 42</div>
+<div class = "choice">B. 24</div>
+<div class = "choice">C. 20</div>
+<div class = "choice">D. 15</div>
+<div class = "choice">E. 14</div>
+</div>
+###################
+<div class = "quiz">18. What is the least common multiple of 80, 70, and 30 ?
+<div class = "choice">F. 60</div>
+<div class = "choice">G. 168</div>
+<div class = "choice">H. l80</div>
+<div class = "choice">J. 1,680</div>
+<div class = "choice">K. 168,000</div>
+</div>
+###################
+<div class = "quiz">19. The figure below shows Mark's, Cal's, and Lakecia's houses at the 3 vertices of the right triangle formed by 3 roads. The distances given in the figure are in miles. Mark and Lakecia each make a trip from Mark's house to Lakecia's house. Mark takes Grapevine Road. Lakecia takes Harbor Road to pick up Cal, and then takes Lott Road. How many miles shorter is Mark's trip than Lakecia's trip?
+<img src='file:\$$$\resources\2010 April 68G\imgs\16.png' width = '778'height = '318'/>
+<div class = "choice">A.1</div>
+<div class = "choice">B. 4</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. 7</div>
+<div class = "choice">E. 8</div>
+</div>
+###################
+<div class = "quiz">20. Which of the following is equivalent to (a<sup>8</sup>)<sup>2</sup><sup>4</sup> ?
+<div class = "choice">F. 192a</div>
+<div class = "choice">G. 32a</div>
+<div class = "choice">H. 8a<sup>2</sup><sup>4</sup></div>
+<div class = "choice">J. a<sup>3</sup><sup>2</sup></div>
+<div class = "choice">K. a<sup>l</sup><sup>9</sup><sup>2</sup></div>
+</div>
+###################
+<div class = "quiz">21. For the function h(x)= 4x<sup>2</sup>－3x, what is the value of h(-3)?
+<div class = "choice">A. －99</div>
+<div class = "choice">B. －15</div>
+<div class = "choice">C. 27</div>
+<div class = "choice">D. 45</div>
+<div class = "choice">E. 153</div>
+</div>
+###################
+<div class = "quiz">22. The Carousel Clothes Shop is advertising a sale featuring 30% off the marked price on any item. Which of the following gives the sale price, in dollars. of an item with a marked price of p dollars?
+<div class = "choice">F. 0.3p</div>
+<div class = "choice">G. p－30p</div>
+<div class = "choice">H. p－0.3</div>
+<div class = "choice">J. p+ 0.3p</div>
+<div class = "choice">K. p－0.3p</div>
+</div>
+###################
+<div class = "quiz">23. A store advertises packs of chewing gum at 5 for $1.29. At this advertised price, how much would the store charge for 2 packs of gum?
+<div class = "choice">A. $0.65</div>
+<div class = "choice">B. $0.52</div>
+<div class = "choice">C. $0.50</div>
+<div class = "choice">D. $0.26</div>
+<div class = "choice">E. $0.25</div>
+</div>
+###################
+<div class = "quiz">24. Johnny is selling lemonade. He paid $5.00 for his supplies and charges $0.50 per glass of lemonade. Johnny's profit is found by subtracting his expenses from his income. Which of the following graphs represents his profit as a function of the number of glasses of lemonade he sells?
+<div class = "choice">F. <img src='file:\$$$\resources\2010 April 68G\imgs\17.png' width = '174'height = '144'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2010 April 68G\imgs\18.png' width = '160'height = '144'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2010 April 68G\imgs\19.png' width = '160'height = '146'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2010 April 68G\imgs\20.png' width = '178'height = '140'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2010 April 68G\imgs\21.png' width = '160'height = '146'/></div>
+</div>
+###################
+<div class = "quiz">25. The positive integer n! is defined as the product of all the positive integers less than or equal to n. For example, 3! = 1(2)(3) = 6. What is the value of the expression<img src='file:\$$$\resources\2010 April 68G\imgs\22.png' width = '51'height = '65'/>?
+<div class = "choice">A. 1</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 6</div>
+<div class = "choice">D. 60</div>
+<div class = "choice">E. 120</div>
+</div>
+###################
+<div class = "quiz">26. Ms. Johnson purchased 1,000 prizes for the school Carnival for $90. Each prize costs either $0.05 or $0.25. How many of the less expensive prizes did she buy?
+<div class = "choice">F. 200</div>
+<div class = "choice">G. 360</div>
+<div class = "choice">H. 500</div>
+<div class = "choice">J. 640</div>
+<div class = "choice">K. 800</div>
+</div>
+###################
+<div class = "quiz">27. A circle with a radius of 1 inch is inscribed in a square as shown below.
+<img src='file:\$$$\resources\2010 April 68G\imgs\23.png' width = '412'height = '386'/>
+What is the area of the shaded region, in square inches?
+<div class = "choice">A. 7<img src='file:\$$$\resources\2010 April 68G\imgs\24.png' width = '22'height = '24'/></div>
+<div class = "choice">B. 8－<img src='file:\$$$\resources\2010 April 68G\imgs\25.png' width = '22'height = '24'/></div>
+<div class = "choice">C. 4－<img src='file:\$$$\resources\2010 April 68G\imgs\26.png' width = '22'height = '24'/></div>
+<div class = "choice">D. 2－<img src='file:\$$$\resources\2010 April 68G\imgs\27.png' width = '22'height = '24'/></div>
+<div class = "choice">E. 1－<img src='file:\$$$\resources\2010 April 68G\imgs\28.png' width = '22'height = '24'/></div>
+</div>
+###################
+<div class = "quiz">28. The lengths of the corresponding sides of 2 similar right triangles are in the ratio of 4:7. The hypotenuse of the smaller triangle is 20 inches long. How many inches long is the hypotenuse of the larger triangle?
+<div class = "choice">F. 11</div>
+<div class = "choice">G. 23</div>
+<div class = "choice">H. 28</div>
+<div class = "choice">J. 31</div>
+<div class = "choice">K. 35</div>
+</div>
+###################
+<div class = "quiz">29. For the polygon below, which of the following represents the length, in meters, of <img src='file:\$$$\resources\2010 April 68G\imgs\29.png' width = '41'height = '34'/> ?
+<img src='file:\$$$\resources\2010 April 68G\imgs\30.png' width = '767'height = '275'/>
+<div class = "choice">A. 20</div>
+<div class = "choice">B. 30</div>
+<div class = "choice">C.<img src='file:\$$$\resources\2010 April 68G\imgs\31.png' width = '78'height = '65'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2010 April 68G\imgs\32.png' width = '78'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\33.png' width = '72'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">30. The perimeter of a parallelogram is 76 inches, and 1 side measures 14 inches. If it can be determined, what are the lengths, in inches, of the other 3 sides?
+<div class = "choice">F. 14, 14, 34</div>
+<div class = "choice">G. 14, 17, 17</div>
+<div class = "choice">H. 14, 24, 24</div>
+<div class = "choice">J. 14, 31, 31</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">31. Which of the following is a solution statement for the inequality 3x－7< 5 + 9x ?
+<div class = "choice">A. －2 <x</div>
+<div class = "choice">B. <img src='file:\$$$\resources\2010 April 68G\imgs\34.png' width = '38'height = '65'/><x</div>
+<div class = "choice">C. －2 >x</div>
+<div class = "choice">D.1>x</div>
+<div class = "choice">E. 2 >x</div>
+</div>
+###################
+<div class = "quiz">32. The pep squad plans to make a circular sign in the shape of a basketball to hang on a wall for the game. The circle will have a radius of 4 feet. Which of the following is closest to the perimeter, in feet, of the circle ?
+<div class = "choice">F. 8</div>
+<div class = "choice">G. 13</div>
+<div class = "choice">H. 25</div>
+<div class = "choice">J. 50</div>
+<div class = "choice">K. 200</div>
+</div>
+###################
+<div class = "quiz">33. －5∣－8 +9∣= ?
+<div class = "choice">A. －85</div>
+<div class = "choice">B. －5</div>
+<div class = "choice">C. －4</div>
+<div class = "choice">D. 5</div>
+<div class = "choice">E. 85</div>
+</div>
+###################
+<div class = "quiz">34. In a large high school, some teachers teach only 1 subject, and some teachers teach more than l subject. Using the information given in the table below about the math, science, and gym teachers in the school, how many teachers teach math only?
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:64.4pt"><td style="width:131.6pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.4pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">teachers</span></p></td><td style="width:482.9pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.4pt" valign="top" width="322"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US">Subject(s)taught</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:228.2pt"><td style="width:131.6pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:228.2pt" valign="top" width="88"><p align="center"  style="text-align:center"><span lang="EN-US">12</span></p><p align="center"  style="text-align:center"><span lang="EN-US">10</span></p><p align="center"  style="text-align:center"><span lang="EN-US">20</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1</span></p></td><td style="width:482.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:228.2pt" valign="top" width="322"><p align="center"  style="text-align:center"><span lang="EN-US">atleast 1 class of math</span></p><p align="center"  style="text-align:center"><span lang="EN-US">atleast l class of gym</span></p><p align="center"  style="text-align:center"><span lang="EN-US">atleast 1 class of science</span></p><p align="center"  style="text-align:center"><span lang="EN-US">bothgym and science but not math</span></p><p align="center"  style="text-align:center"><span lang="EN-US">bothmath and science but not gym</span></p><p align="center"  style="text-align:center"><span lang="EN-US">gymonly</span></p><p align="center"  style="text-align:center"><span lang="EN-US">math,gym. and science</span></p></td></tr></table></div>
+<div class = "choice">F. l.</div>
+<div class = "choice">G. 2</div>
+<div class = "choice">H. 5</div>
+<div class = "choice">J. 16</div>
+<div class = "choice">K. 28</div>
+</div>
+###################
+<div class = "quiz">35. The Environmental Club at Forrest Hills High School grows plants in the school's greenhouse. The members of the club sell the plants raise money for the school, and Sami and Jacque are taking an inventory of the plants. The table below gives the numbers of packs of plants. For example, there are 60 packs of sunflowers with l plant per pack, 25 packs of petunias with 4 plants per pack, and 15 packs of tomatoes with 6 plants per pack. All of the packs have been counted except for the 6-plant packs of marigolds.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US">Plants</span></p><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">4-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US">Tomatoes</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Marigolds</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Petunias</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Sunflowers</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">40</span></p><p align="center"  style="text-align:center"><span lang="EN-US">25</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">15</span></p><p align="center"  style="text-align:center"><span lang="EN-US">?</span></p><p align="center"  style="text-align:center"><span lang="EN-US">100</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr></table></div>
+Jacque completes the inventory and later tells Sami that the number of marigold plants is the same as the number of petunia plants. How many 6-plant packs of marigolds are in the greenhouse?
+<div class = "choice">A. 20</div>
+<div class = "choice">B. 25</div>
+<div class = "choice">C. 70</div>
+<div class = "choice">D. 80</div>
+<div class = "choice">E. 480</div>
+</div>
+###################
+<div class = "quiz">36.The Environmental Club at Forrest Hills High School grows plants in the school's greenhouse. The members of the club sell the plants raise money for the school, and Sami and Jacque are taking an inventory of the plants. The table below gives the numbers of packs of plants. For example, there are 60 packs of sunflowers with l plant per pack, 25 packs of petunias with 4 plants per pack, and 15 packs of tomatoes with 6 plants per pack. All of the packs have been counted except for the 6-plant packs of marigolds.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US">Plants</span></p><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">4-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US">Tomatoes</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Marigolds</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Petunias</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Sunflowers</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">40</span></p><p align="center"  style="text-align:center"><span lang="EN-US">25</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">15</span></p><p align="center"  style="text-align:center"><span lang="EN-US">?</span></p><p align="center"  style="text-align:center"><span lang="EN-US">100</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr></table></div>
+Mr. Mai bought <img src='file:\$$$\resources\2010 April 68G\imgs\35.png' width = '32'height = '65'/> of the sunflower plants for $15.00. What was the price of l sunflower plant?
+<div class = "choice">F. $0.25</div>
+<div class = "choice">G. $0.40</div>
+<div class = "choice">H. $1.50</div>
+<div class = "choice">J. $2.00</div>
+<div class = "choice">K. $2.50</div>
+</div>
+###################
+<div class = "quiz">37.The Environmental Club at Forrest Hills High School grows plants in the school's greenhouse. The members of the club sell the plants raise money for the school, and Sami and Jacque are taking an inventory of the plants. The table below gives the numbers of packs of plants. For example, there are 60 packs of sunflowers with l plant per pack, 25 packs of petunias with 4 plants per pack, and 15 packs of tomatoes with 6 plants per pack. All of the packs have been counted except for the 6-plant packs of marigolds.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US">Plants</span></p><p align="center"  style="text-align:center"><span lang="EN-US"> </span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">1-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:144.6pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">4-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td><td style="width:168.7pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">Numberof</span></p><p align="center"  style="text-align:center"><span lang="EN-US">6-plant</span></p><p align="center"  style="text-align:center"><span lang="EN-US">packs</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US">Tomatoes</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Marigolds</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Petunias</span></p><p align="center"  style="text-align:center"><span lang="EN-US">Sunflowers</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">60</span></p></td><td style="width:144.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US">40</span></p><p align="center"  style="text-align:center"><span lang="EN-US">25</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td><td style="width:168.7pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="112"><p align="center"  style="text-align:center"><span lang="EN-US">15</span></p><p align="center"  style="text-align:center"><span lang="EN-US">?</span></p><p align="center"  style="text-align:center"><span lang="EN-US">100</span></p><p align="center"  style="text-align:center"><span lang="EN-US">0</span></p></td></tr></table></div>
+Helen takes all of the tomato plants in 1-pfant packs and puts them together to make as many 4-plant packs as she can. How many whole 4-plant packs of tomato plants can Helen make?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 8</div>
+<div class = "choice">D. 15</div>
+<div class = "choice">E. 30</div>
+</div>
+###################
+<div class = "quiz">38.Parallelogram WXYZ is shown in the standard (x, y) coordinate plane below. The coordinates for 3 of its vertices are W(0,0), X(a, b), and Z(c,0).
+<img src='file:\$$$\resources\2010 April 68G\imgs\36.png' width = '508'height = '345'/>
+What are the coordinates of Y ?
+<div class = "choice">F. (a ,c)</div>
+<div class = "choice">G. (b ,c)</div>
+<div class = "choice">H. (c, b)</div>
+<div class = "choice">J. (a + b, c)</div>
+<div class = "choice">K. (a + c, b)</div>
+</div>
+###################
+<div class = "quiz">39.Parallelogram WXYZ is shown in the standard (x, y) coordinate plane below. The coordinates for 3 of its vertices are W(0,0), X(a, b), and Z(c,0).
+<img src='file:\$$$\resources\2010 April 68G\imgs\36.png' width = '508'height = '345'/>
+The measure of ∠Y is 50°. What is the measure of the angle between <img src='file:\$$$\resources\2010 April 68G\imgs\37.png' width = '45'height = '36'/> and the y-axis?
+<div class = "choice">A. 35°</div>
+<div class = "choice">B. 40°</div>
+<div class = "choice">C. 45°</div>
+<div class = "choice">D. 50°</div>
+<div class = "choice">E. 55°</div>
+</div>
+###################
+<div class = "quiz">40.Parallelogram WXYZ is shown in the standard (x, y) coordinate plane below. The coordinates for 3 of its vertices are W(0,0), X(a, b), and Z(c,0).
+<img src='file:\$$$\resources\2010 April 68G\imgs\36.png' width = '508'height = '345'/>
+Parallelogram WXYZ is rotated clockwise(C) by 90°about the origin. At what ordered pair is the image of Z located?
+<div class = "choice">F. (0, －c)</div>
+<div class = "choice">G. (－c, 0)</div>
+<div class = "choice">H. (0, 0)</div>
+<div class = "choice">J. (0, c)</div>
+<div class = "choice">K. (a, b)</div>
+</div>
+###################
+<div class = "quiz">41. A liter is 1,000 cubic centimeters. Which of the following is closest to the height, in centimeters, of a cylindrical container, shown below, with diameter 10 cm and capacity l liter?
+(Note: The volume of a cylinder with radius r and height h is<img src='file:\$$$\resources\2010 April 68G\imgs\38.png' width = '55'height = '34'/>.)
+<img src='file:\$$$\resources\2010 April 68G\imgs\39.png' width = '275'height = '323'/>
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 8</div>
+<div class = "choice">C. 10</div>
+<div class = "choice">D. 13</div>
+<div class = "choice">E. 16</div>
+</div>
+###################
+<div class = "quiz">42. For World Literature class, Lenka must read Anna Karenina in 8 days. She read <img src='file:\$$$\resources\2010 April 68G\imgs\40.png' width = '32'height = '65'/> of the book each of the first 3 days. For the remaining 5 days, what fraction of the book, on average, must Lenka read per day?
+<div class = "choice">F.<img src='file:\$$$\resources\2010 April 68G\imgs\41.png' width = '22'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2010 April 68G\imgs\42.png' width = '32'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2010 April 68G\imgs\43.png' width = '36'height = '65'/></div>
+<div class = "choice">J．<img src='file:\$$$\resources\2010 April 68G\imgs\44.png' width = '36'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2010 April 68G\imgs\45.png' width = '35'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">43. Which of the following equations shows a correct use of the quadratic, formula to solve x<sup>2</sup>－5x + 3 = 0 ?
+<div class = "choice">A.<img src='file:\$$$\resources\2010 April 68G\imgs\46.png' width = '214'height = '75'/></div>
+<div class = "choice">B.  <img src='file:\$$$\resources\2010 April 68G\imgs\47.png' width = '214'height = '75'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2010 April 68G\imgs\48.png' width = '243'height = '75'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2010 April 68G\imgs\49.png' width = '228'height = '75'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\50.png' width = '228'height = '75'/></div>
+</div>
+###################
+<div class = "quiz">44. In the standard (x, y) coordinate plane, the point (1,－6) is the midpoint of the line segment with endpoints (9,－13) and (a, b). What is (a, b) ?
+<div class = "choice">F. (－7,1)</div>
+<div class = "choice">G. (－7,25)</div>
+<div class = "choice">H. (7,－1)</div>
+<div class = "choice">J. (4,－3.5)</div>
+<div class = "choice">K. (5,－9.5)</div>
+</div>
+###################
+<div class = "quiz">45. A straight l0-foot-tall ladder is leaning against a house at an angle of 75°, as shown in the figure below. Which of the following expressions gives the distance, in feet, the base of the ladder is from the house along the level ground?
+<img src='file:\$$$\resources\2010 April 68G\imgs\51.png' width = '164'height = '238'/>
+<div class = "choice">A. 10 sin 75°</div>
+<div class = "choice">B. l0 cos 75°</div>
+<div class = "choice">C. 10 tan 75°</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2010 April 68G\imgs\52.png' width = '80'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\53.png' width = '78'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">46. One of the following equations is graphed in the standard (x, y) coordinate plane below. Which one?
+<img src='file:\$$$\resources\2010 April 68G\imgs\54.png' width = '224'height = '198'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2010 April 68G\imgs\55.png' width = '129'height = '65'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2010 April 68G\imgs\56.png' width = '107'height = '65'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2010 April 68G\imgs\57.png' width = '103'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2010 April 68G\imgs\58.png' width = '120'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2010 April 68G\imgs\59.png' width = '101'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">47. The vertices of a trapezoid have the (x, y) coordinates indicated in the figure below. What is the area. in square coordinate units, of the trapezoid?
+<img src='file:\$$$\resources\2010 April 68G\imgs\60.png' width = '843'height = '366'/>
+<div class = "choice">A. 20</div>
+<div class = "choice">B. 36</div>
+<div class = "choice">C. 38</div>
+<div class = "choice">D. 42</div>
+<div class = "choice">E. 70</div>
+</div>
+###################
+<div class = "quiz">48. Mr. Cleary's algebra class is discussing slopes of lines. The class is to graph the total cost, C, of buying h hamburgers that cost 99￠each. Mr. Cleary asks the class to describe the slope between any 2 points (h, C) on the graph. Devon gives a correct response that the slope between any 2 points on this graph is always:
+<div class = "choice">F. zero.</div>
+<div class = "choice">G. the same positive value.</div>
+<div class = "choice">H. the same negative value.</div>
+<div class = "choice">J. a positive value, but the value varies.</div>
+<div class = "choice">K. a negative value, but the value varies.</div>
+</div>
+###################
+<div class = "quiz">49. The first 3 terms of a geometric sequence are 4, 10, and 25. What is the next term in the sequence?
+<div class = "choice">A. 35</div>
+<div class = "choice">B. 40</div>
+<div class = "choice">C. 55</div>
+<div class = "choice">D. 62.5</div>
+<div class = "choice">E. 70</div>
+</div>
+###################
+<div class = "quiz">50. The volume of a cube is 64 cubic centimeters. What is the total surface area, in square centimeters, of the cube?
+<div class = "choice">F. 16</div>
+<div class = "choice">G. 24</div>
+<div class = "choice">H. 64</div>
+<div class = "choice">J. 96</div>
+<div class = "choice">K. 384</div>
+</div>
+###################
+<div class = "quiz">51. In the figure below, a sector is shown shaded in a circle with radius 4 decimeters. The length of the arc of the unshaded sector is 7<img src='file:\$$$\resources\2010 April 68G\imgs\61.png' width = '22'height = '24'/> decimeters. What is the measure of the central angle of the shaded sector?
+<img src='file:\$$$\resources\2010 April 68G\imgs\62.png' width = '358'height = '350'/>
+<div class = "choice">A. 35°</div>
+<div class = "choice">B. 40°</div>
+<div class = "choice">C. 45°</div>
+<div class = "choice">D. 50°</div>
+<div class = "choice">E. 55°</div>
+</div>
+###################
+<div class = "quiz">52. In the standard (x, y) coordinate plane, the graph of which of the following equations is a circle with center (4, -2) and radius 3 coordinate units?
+<div class = "choice">F. (x + 4)<sup>2</sup> + (y - 2)<sup>2</sup>= 3</div>
+<div class = "choice">G. (x - 4)<sup>2</sup> + (y + 2)<sup>2</sup>= 3</div>
+<div class = "choice">H. (x + 4)<sup>2</sup> + (y + 2)<sup>2</sup> = 9</div>
+<div class = "choice">J. (x + 4)<sup>2</sup> + (y - 2)<sup>2</sup> = 9</div>
+<div class = "choice">K. (x - 4)<sup>2</sup> + (y+ 2)<sup>2</sup>= 9</div>
+</div>
+###################
+<div class = "quiz">53. In △ABC, the measure of ∠A is 47°, the measure of ∠B is 76°,and the length of <img src='file:\$$$\resources\2010 April 68G\imgs\63.png' width = '41'height = '36'/> is l8 centimeters. Which of the following is an expression for the length, in centimeters, of<img src='file:\$$$\resources\2010 April 68G\imgs\64.png' width = '42'height = '36'/>?
+(Note: The law of sines states that for any triangle, the ratios of the lengths of the sides to the sines of the angles opposite those sides are equal.)
+<div class = "choice">A.<img src='file:\$$$\resources\2010 April 68G\imgs\65.png' width = '101'height = '69'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2010 April 68G\imgs\66.png' width = '103'height = '69'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2010 April 68G\imgs\67.png' width = '103'height = '69'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2010 April 68G\imgs\68.png' width = '101'height = '69'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\69.png' width = '178'height = '69'/></div>
+</div>
+###################
+<div class = "quiz">54. The side of a square is l meters longer than the side of a second square. How many meters longer is the diagonal of the first square than the diagonal of the second square?
+<div class = "choice">F.<img src='file:\$$$\resources\2010 April 68G\imgs\71.png' width = '45'height = '36'/></div>
+<div class = "choice">G. 2l</div>
+<div class = "choice">H. 4l</div>
+<div class = "choice">J. l</div>
+<div class = "choice">K. l<sup>2</sup></div>
+</div>
+###################
+<div class = "quiz">55. If x≤ 2, then ︱x-2︱ = ?
+<div class = "choice">A. 0</div>
+<div class = "choice">B. x+2</div>
+<div class = "choice">C. x-2</div>
+<div class = "choice">D. -x – 2</div>
+<div class = "choice">E. -x + 2</div>
+</div>
+###################
+<div class = "quiz">56. There are 25 buildings on Elm Street. Of these 25 buildings, 10 have fewer than 6 rooms, 10 have more than 7 rooms, and 4 have more than 8 rooms. What is the total number of buildings on Elm Street that have 6, 7, or 8 rooms?
+<div class = "choice">F. 5</div>
+<div class = "choice">G. 9</div>
+<div class = "choice">H. 11</div>
+<div class = "choice">J. 14</div>
+<div class = "choice">K. 15</div>
+</div>
+###################
+<div class = "quiz">57. If cos x =<img src='file:\$$$\resources\2010 April 68G\imgs\72.png' width = '38'height = '65'/>, what is the value of cos 2x ?
+(Note: (cos x)<sup>2</sup> =<img src='file:\$$$\resources\2010 April 68G\imgs\73.png' width = '103'height = '65'/>)
+<div class = "choice">A.<img src='file:\$$$\resources\2010 April 68G\imgs\74.png' width = '38'height = '65'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2010 April 68G\imgs\75.png' width = '41'height = '65'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2010 April 68G\imgs\76.png' width = '41'height = '65'/></div>
+<div class = "choice">D.  <img src='file:\$$$\resources\2010 April 68G\imgs\77.png' width = '22'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2010 April 68G\imgs\78.png' width = '22'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">58. Let f(x)= <img src='file:\$$$\resources\2010 April 68G\imgs\79.png' width = '38'height = '38'/>and g(x) = l0x+ b. In the standard (x, y) coordinate plane, <img src='file:\$$$\resources\2010 April 68G\imgs\80.png' width = '126'height = '34'/>passes through (4,6). What is the value of b ?
+<div class = "choice">F. -4</div>
+<div class = "choice">G. -l4</div>
+<div class = "choice">H. -36</div>
+<div class = "choice">J. -37</div>
+<div class = "choice">K. -38</div>
+</div>
+###################
+<div class = "quiz">59. A plane contains 11 horizontal lines and 11 vertical lines. These lines divide the plane into disjoint regions. How many of these disjoint regions have a finite, nonzero area?
+<div class = "choice">A. 100</div>
+<div class = "choice">B. 110</div>
+<div class = "choice">C. 144</div>
+<div class = "choice">D. 156</div>
+<div class = "choice">E. 169</div>
+</div>
+###################
+<div class = "quiz">60. When a, b, and c are real numbers and ab<sup>2</sup>c<sup>4</sup> > 0, which of the following must be greater than 0 ?
+<div class = "choice">F. ac<sup>2</sup></div>
+<div class = "choice">G. ac</div>
+<div class = "choice">H. ab</div>
+<div class = "choice">J. abc</div>
+<div class = "choice">K. bc</div>
+
+</div>
+###################

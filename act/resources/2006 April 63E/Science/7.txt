@@ -1,53 +1,53 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Planets revolve around the Sun in elliptical orbits, as shown in Figure 1.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBsYW5ldHMgcmV2b2x2ZSBhcm91bmQgdGhlIFN1biBpbiBlbGxpcHRpY2FsIG9yYml0cywgYXMgc2hvd24gaW4gRmlndXJlIDEuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\132.png' width = '292'height = '295'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgQXByaWwgNjNFXGltZ3NcMTMyLnBuZycgd2lkdGggPSAnMjkyJ2hlaWdodCA9ICcyOTUnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The eccentricity of an ellipse describes its elongation; the more elongated the ellipse, the greater its eccentricity. The semimajor axis is half the length of the ellipse.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBlY2NlbnRyaWNpdHkgb2YgYW4gZWxsaXBzZSBkZXNjcmliZXMgaXRzIGVsb25nYXRpb247IHRoZSBtb3JlIGVsb25nYXRlZCB0aGUgZWxsaXBzZSwgdGhlIGdyZWF0ZXIgaXRzIGVjY2VudHJpY2l0eS4gVGhlIHNlbWltYWpvciBheGlzIGlzIGhhbGYgdGhlIGxlbmd0aCBvZiB0aGUgZWxsaXBzZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perihelion (Angle θ=0°) is the point on the orbit closest to the Sun; aphelion (θ=180°) is the point on the orbit farthest from the Sun. The speed of a planet varies with θ. The speed of a planet versus θ is shown in Figure 2 for orbits with various eccentricities and semimajor axes.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBlcmloZWxpb24gKEFuZ2xlIM64PTDCsCkgaXMgdGhlIHBvaW50IG9uIHRoZSBvcmJpdCBjbG9zZXN0IHRvIHRoZSBTdW47IGFwaGVsaW9uICjOuD0xODDCsCkgaXMgdGhlIHBvaW50IG9uIHRoZSBvcmJpdCBmYXJ0aGVzdCBmcm9tIHRoZSBTdW4uIFRoZSBzcGVlZCBvZiBhIHBsYW5ldCB2YXJpZXMgd2l0aCDOuC4gVGhlIHNwZWVkIG9mIGEgcGxhbmV0IHZlcnN1cyDOuCBpcyBzaG93biBpbiBGaWd1cmUgMiBmb3Igb3JiaXRzIHdpdGggdmFyaW91cyBlY2NlbnRyaWNpdGllcyBhbmQgc2VtaW1ham9yIGF4ZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\133.png' width = '458'height = '1053'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgQXByaWwgNjNFXGltZ3NcMTMzLnBuZycgd2lkdGggPSAnNDU4J2hlaWdodCA9ICcxMDUzJy8+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">36. Consider a planet as it travels from θ=0° to θ=359° in an orbit with a semimajor axis of 1.5×10<img src='file:\$$$\resources\2006 April 63E\imgs\134.png' width = '16'height = '42'/> km and an eccentricity of 0.10. Based on the data in Figure 2, how many times does the planet have a speed of 30 km/sec as it travels between those 2 angles?
-<div class = "choice">F. One time</div>
-<div class = "choice">G. Two times</div>
-<div class = "choice">H. Three times</div>
-<div class = "choice">J. Four times</div>
-</div>
-###################
-<div class = "quiz">37. Based on the data in Figure 2, how does the speed of a planet change while it moves from perihelion to aphelion and while it moves from aphelion to perihelion?
-<div class = "choice">A. Perihelion to aphelion speed increases         Aphelion to perihelion speed increases</div>
-<div class = "choice">B. Perihelion to aphelion speed increases         Aphelion to perihelion speed decreases</div>
-<div class = "choice">C. Perihelion to aphelion speed decreases         Aphelion to perihelion speed increases</div>
-<div class = "choice">D. Perihelion to aphelion speed decreases         Aphelion to perihelion speed decreases</div>
-</div>
-###################
-<div class = "quiz">38. A planet will escape from the solar system if its orbital speed is greater than the escape velocity. Based on the data in Figure 2, if the semimajor axis is 1.5×10<img src='file:\$$$\resources\2006 April 63E\imgs\135.png' width = '16'height = '42'/> km, the eccentricity is 0.10, and the escape velocity at perihelion is 44.2 km/sec, will the planet escape the solar system?
-<div class = "choice">F. Yes, because the planet's orbital speed at perihelion is greater than the escape velocity.</div>
-<div class = "choice">G. Yes, because the planet's orbital speed at perihelion is less than the escape velocity.</div>
-<div class = "choice">H. No, because the planet's orbital speed at perihelion is greater than the escape velocity.</div>
-<div class = "choice">J. No, because the planet's orbital speed at perihelion is less than the escape velocity.</div>
-</div>
-###################
-<div class = "quiz">39. Based on the data in Figure 2, the orbital speed of a planet will most likely remain constant if the eccentricity of the planet's orbit is:
-<div class = "choice">A. exactly 0.</div>
-<div class = "choice">B. between 0.1 and 0.5.</div>
-<div class = "choice">C. between 0.5 and 0.9.</div>
-<div class = "choice">D. exactly 1.</div>
-</div>
-###################
-<div class = "quiz">40. Based on the data in Figure 2, for a planet in an orbit around the Sun with a semimajor axis of 3.0×10<img src='file:\$$$\resources\2006 April 63E\imgs\136.png' width = '16'height = '42'/> km and an eccentricity of 0.05, the speed at θ=0° will be:
-<div class = "choice">F. less than 23 km/sec.</div>
-<div class = "choice">G. between 23 km/sec and 26 km/sec.</div>
-<div class = "choice">H. between 26 km/sec and 28 km/sec.</div>
-<div class = "choice">J. greater than 28 km/sec.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQ29uc2lkZXIgYSBwbGFuZXQgYXMgaXQgdHJhdmVscyBmcm9tIM64PTDCsCB0byDOuD0zNTnCsCBpbiBhbiBvcmJpdCB3aXRoIGEgc2VtaW1ham9yIGF4aXMgb2YgMS41w5cxMDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgQXByaWwgNjNFXGltZ3NcMTM0LnBuZycgd2lkdGggPSAnMTYnaGVpZ2h0ID0gJzQyJy8+IGttIGFuZCBhbiBlY2NlbnRyaWNpdHkgb2YgMC4xMC4gQmFzZWQgb24gdGhlIGRhdGEgaW4gRmlndXJlIDIsIGhvdyBtYW55IHRpbWVzIGRvZXMgdGhlIHBsYW5ldCBoYXZlIGEgc3BlZWQgb2YgMzAga20vc2VjIGFzIGl0IHRyYXZlbHMgYmV0d2VlbiB0aG9zZSAyIGFuZ2xlcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE9uZSB0aW1lPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFR3byB0aW1lczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRocmVlIHRpbWVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZvdXIgdGltZXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQmFzZWQgb24gdGhlIGRhdGEgaW4gRmlndXJlIDIsIGhvdyBkb2VzIHRoZSBzcGVlZCBvZiBhIHBsYW5ldCBjaGFuZ2Ugd2hpbGUgaXQgbW92ZXMgZnJvbSBwZXJpaGVsaW9uIHRvIGFwaGVsaW9uIGFuZCB3aGlsZSBpdCBtb3ZlcyBmcm9tIGFwaGVsaW9uIHRvIHBlcmloZWxpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFBlcmloZWxpb24gdG8gYXBoZWxpb24gc3BlZWQgaW5jcmVhc2VzICAgICAgICAgQXBoZWxpb24gdG8gcGVyaWhlbGlvbiBzcGVlZCBpbmNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFBlcmloZWxpb24gdG8gYXBoZWxpb24gc3BlZWQgaW5jcmVhc2VzICAgICAgICAgQXBoZWxpb24gdG8gcGVyaWhlbGlvbiBzcGVlZCBkZWNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFBlcmloZWxpb24gdG8gYXBoZWxpb24gc3BlZWQgZGVjcmVhc2VzICAgICAgICAgQXBoZWxpb24gdG8gcGVyaWhlbGlvbiBzcGVlZCBpbmNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFBlcmloZWxpb24gdG8gYXBoZWxpb24gc3BlZWQgZGVjcmVhc2VzICAgICAgICAgQXBoZWxpb24gdG8gcGVyaWhlbGlvbiBzcGVlZCBkZWNyZWFzZXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQSBwbGFuZXQgd2lsbCBlc2NhcGUgZnJvbSB0aGUgc29sYXIgc3lzdGVtIGlmIGl0cyBvcmJpdGFsIHNwZWVkIGlzIGdyZWF0ZXIgdGhhbiB0aGUgZXNjYXBlIHZlbG9jaXR5LiBCYXNlZCBvbiB0aGUgZGF0YSBpbiBGaWd1cmUgMiwgaWYgdGhlIHNlbWltYWpvciBheGlzIGlzIDEuNcOXMTA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA2IEFwcmlsIDYzRVxpbWdzXDEzNS5wbmcnIHdpZHRoID0gJzE2J2hlaWdodCA9ICc0MicvPiBrbSwgdGhlIGVjY2VudHJpY2l0eSBpcyAwLjEwLCBhbmQgdGhlIGVzY2FwZSB2ZWxvY2l0eSBhdCBwZXJpaGVsaW9uIGlzIDQ0LjIga20vc2VjLCB3aWxsIHRoZSBwbGFuZXQgZXNjYXBlIHRoZSBzb2xhciBzeXN0ZW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSB0aGUgcGxhbmV0J3Mgb3JiaXRhbCBzcGVlZCBhdCBwZXJpaGVsaW9uIGlzIGdyZWF0ZXIgdGhhbiB0aGUgZXNjYXBlIHZlbG9jaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSB0aGUgcGxhbmV0J3Mgb3JiaXRhbCBzcGVlZCBhdCBwZXJpaGVsaW9uIGlzIGxlc3MgdGhhbiB0aGUgZXNjYXBlIHZlbG9jaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBwbGFuZXQncyBvcmJpdGFsIHNwZWVkIGF0IHBlcmloZWxpb24gaXMgZ3JlYXRlciB0aGFuIHRoZSBlc2NhcGUgdmVsb2NpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIHRoZSBwbGFuZXQncyBvcmJpdGFsIHNwZWVkIGF0IHBlcmloZWxpb24gaXMgbGVzcyB0aGFuIHRoZSBlc2NhcGUgdmVsb2NpdHkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQmFzZWQgb24gdGhlIGRhdGEgaW4gRmlndXJlIDIsIHRoZSBvcmJpdGFsIHNwZWVkIG9mIGEgcGxhbmV0IHdpbGwgbW9zdCBsaWtlbHkgcmVtYWluIGNvbnN0YW50IGlmIHRoZSBlY2NlbnRyaWNpdHkgb2YgdGhlIHBsYW5ldCdzIG9yYml0IGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4YWN0bHkgMC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMC4xIGFuZCAwLjUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gMC41IGFuZCAwLjkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV4YWN0bHkgMS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQmFzZWQgb24gdGhlIGRhdGEgaW4gRmlndXJlIDIsIGZvciBhIHBsYW5ldCBpbiBhbiBvcmJpdCBhcm91bmQgdGhlIFN1biB3aXRoIGEgc2VtaW1ham9yIGF4aXMgb2YgMy4ww5cxMDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgQXByaWwgNjNFXGltZ3NcMTM2LnBuZycgd2lkdGggPSAnMTYnaGVpZ2h0ID0gJzQyJy8+IGttIGFuZCBhbiBlY2NlbnRyaWNpdHkgb2YgMC4wNSwgdGhlIHNwZWVkIGF0IM64PTDCsCB3aWxsIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAyMyBrbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJldHdlZW4gMjMga20vc2VjIGFuZCAyNiBrbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJldHdlZW4gMjYga20vc2VjIGFuZCAyOCBrbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgdGhhbiAyOCBrbS9zZWMuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

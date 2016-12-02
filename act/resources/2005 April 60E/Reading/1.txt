@@ -1,110 +1,110 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel Night Water by Helen Elaine Lee (?1996 by Helen Elaine Lee).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There had been no words for naming when she was born. She was "Girl Owens" on the stamped paper that certified her birth, and at home, she had just been "Sister," that was all. When asked to decide, at six, what she would be called, she had chosen "Sunday," the time of voices, lifted in praise.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIE5pZ2h0IFdhdGVyIGJ5IEhlbGVuIEVsYWluZSBMZWUgKD8xOTk2IGJ5IEhlbGVuIEVsYWluZSBMZWUpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXJlIGhhZCBiZWVuIG5vIHdvcmRzIGZvciBuYW1pbmcgd2hlbiBzaGUgd2FzIGJvcm4uIFNoZSB3YXMgIkdpcmwgT3dlbnMiIG9uIHRoZSBzdGFtcGVkIHBhcGVyIHRoYXQgY2VydGlmaWVkIGhlciBiaXJ0aCwgYW5kIGF0IGhvbWUsIHNoZSBoYWQganVzdCBiZWVuICJTaXN0ZXIsIiB0aGF0IHdhcyBhbGwuIFdoZW4gYXNrZWQgdG8gZGVjaWRlLCBhdCBzaXgsIHdoYXQgc2hlIHdvdWxkIGJlIGNhbGxlZCwgc2hlIGhhZCBjaG9zZW4gIlN1bmRheSwiIHRoZSB0aW1lIG9mIHZvaWNlcywgbGlmdGVkIGluIHByYWlzZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">That was one piece of the story, but other parts had gone unspoken, and some had been buried, but were not at rest. She was headed back to claim them, as she bad taken her name.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoYXQgd2FzIG9uZSBwaWVjZSBvZiB0aGUgc3RvcnksIGJ1dCBvdGhlciBwYXJ0cyBoYWQgZ29uZSB1bnNwb2tlbiwgYW5kIHNvbWUgaGFkIGJlZW4gYnVyaWVkLCBidXQgd2VyZSBub3QgYXQgcmVzdC4gU2hlIHdhcyBoZWFkZWQgYmFjayB0byBjbGFpbSB0aGVtLCBhcyBzaGUgYmFkIHRha2VuIGhlciBuYW1lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She could smell the burnt, sweet odor of the paper mill that sprawled across the edge of town, and as the train got closer, she remembered all that she saw. She felt herself entering the greens and reds and browns of is her own paintings, pulling aside her brushstrokes as if they were curtains and stepping through. There were autumn trees on fire everywhere, and she moved beyond the surface of color and texture into the hidden layers of the past, from which she had learned to speak her life with paint.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBjb3VsZCBzbWVsbCB0aGUgYnVybnQsIHN3ZWV0IG9kb3Igb2YgdGhlIHBhcGVyIG1pbGwgdGhhdCBzcHJhd2xlZCBhY3Jvc3MgdGhlIGVkZ2Ugb2YgdG93biwgYW5kIGFzIHRoZSB0cmFpbiBnb3QgY2xvc2VyLCBzaGUgcmVtZW1iZXJlZCBhbGwgdGhhdCBzaGUgc2F3LiBTaGUgZmVsdCBoZXJzZWxmIGVudGVyaW5nIHRoZSBncmVlbnMgYW5kIHJlZHMgYW5kIGJyb3ducyBvZiBpcyBoZXIgb3duIHBhaW50aW5ncywgcHVsbGluZyBhc2lkZSBoZXIgYnJ1c2hzdHJva2VzIGFzIGlmIHRoZXkgd2VyZSBjdXJ0YWlucyBhbmQgc3RlcHBpbmcgdGhyb3VnaC4gVGhlcmUgd2VyZSBhdXR1bW4gdHJlZXMgb24gZmlyZSBldmVyeXdoZXJlLCBhbmQgc2hlIG1vdmVkIGJleW9uZCB0aGUgc3VyZmFjZSBvZiBjb2xvciBhbmQgdGV4dHVyZSBpbnRvIHRoZSBoaWRkZW4gbGF5ZXJzIG9mIHRoZSBwYXN0LCBmcm9tIHdoaWNoIHNoZSBoYWQgbGVhcm5lZCB0byBzcGVhayBoZXIgbGlmZSB3aXRoIHBhaW50LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The train passed through the part of town: where she grew up. She watched as they left behind the neat, compact frame houses and hollow storage buildings. She was going back to piece together their family story of departure and return. She saw it all from the inside out, as <font id=7>native and exile</font>, woman and child. From all that she remembered and all that she was. She was Girl Owens and Sister. She was Sunday, and she was headed home.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB0cmFpbiBwYXNzZWQgdGhyb3VnaCB0aGUgcGFydCBvZiB0b3duOiB3aGVyZSBzaGUgZ3JldyB1cC4gU2hlIHdhdGNoZWQgYXMgdGhleSBsZWZ0IGJlaGluZCB0aGUgbmVhdCwgY29tcGFjdCBmcmFtZSBob3VzZXMgYW5kIGhvbGxvdyBzdG9yYWdlIGJ1aWxkaW5ncy4gU2hlIHdhcyBnb2luZyBiYWNrIHRvIHBpZWNlIHRvZ2V0aGVyIHRoZWlyIGZhbWlseSBzdG9yeSBvZiBkZXBhcnR1cmUgYW5kIHJldHVybi4gU2hlIHNhdyBpdCBhbGwgZnJvbSB0aGUgaW5zaWRlIG91dCwgYXMgPGZvbnQgaWQ9Nz5uYXRpdmUgYW5kIGV4aWxlPC9mb250Piwgd29tYW4gYW5kIGNoaWxkLiBGcm9tIGFsbCB0aGF0IHNoZSByZW1lbWJlcmVkIGFuZCBhbGwgdGhhdCBzaGUgd2FzLiBTaGUgd2FzIEdpcmwgT3dlbnMgYW5kIFNpc3Rlci4gU2hlIHdhcyBTdW5kYXksIGFuZCBzaGUgd2FzIGhlYWRlZCBob21lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Waiting for Sunday's arrival, Delta Owens stepped out onto the front porch. She hoped she would be able to find the right way to approach Sunday, with whom she had only been in touch by mail for five years. She had tried to demonstrate a persistent bond with the help 0f words put together by experts, choosing for each birthday and holiday an oversized greeting card, depending on its ornate script and polished thyme to express what she had never been able to say. Each one she had signed "Always, Delta" before addressing the envelope carefully and mailing it off to Chicago. She had heard back irregularly, receiving wood block prints or splashes of paint on wefts of heavy paper with ragged edges or on see-through skins. Each one she had turned round and round, looking for right-side up with the help of the signature. Each one she had saved. Though she hadn't known what, specifically, to make of any of them, she knew their appearance said something about the habit of love.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldhaXRpbmcgZm9yIFN1bmRheSdzIGFycml2YWwsIERlbHRhIE93ZW5zIHN0ZXBwZWQgb3V0IG9udG8gdGhlIGZyb250IHBvcmNoLiBTaGUgaG9wZWQgc2hlIHdvdWxkIGJlIGFibGUgdG8gZmluZCB0aGUgcmlnaHQgd2F5IHRvIGFwcHJvYWNoIFN1bmRheSwgd2l0aCB3aG9tIHNoZSBoYWQgb25seSBiZWVuIGluIHRvdWNoIGJ5IG1haWwgZm9yIGZpdmUgeWVhcnMuIFNoZSBoYWQgdHJpZWQgdG8gZGVtb25zdHJhdGUgYSBwZXJzaXN0ZW50IGJvbmQgd2l0aCB0aGUgaGVscCAwZiB3b3JkcyBwdXQgdG9nZXRoZXIgYnkgZXhwZXJ0cywgY2hvb3NpbmcgZm9yIGVhY2ggYmlydGhkYXkgYW5kIGhvbGlkYXkgYW4gb3ZlcnNpemVkIGdyZWV0aW5nIGNhcmQsIGRlcGVuZGluZyBvbiBpdHMgb3JuYXRlIHNjcmlwdCBhbmQgcG9saXNoZWQgdGh5bWUgdG8gZXhwcmVzcyB3aGF0IHNoZSBoYWQgbmV2ZXIgYmVlbiBhYmxlIHRvIHNheS4gRWFjaCBvbmUgc2hlIGhhZCBzaWduZWQgIkFsd2F5cywgRGVsdGEiIGJlZm9yZSBhZGRyZXNzaW5nIHRoZSBlbnZlbG9wZSBjYXJlZnVsbHkgYW5kIG1haWxpbmcgaXQgb2ZmIHRvIENoaWNhZ28uIFNoZSBoYWQgaGVhcmQgYmFjayBpcnJlZ3VsYXJseSwgcmVjZWl2aW5nIHdvb2QgYmxvY2sgcHJpbnRzIG9yIHNwbGFzaGVzIG9mIHBhaW50IG9uIHdlZnRzIG9mIGhlYXZ5IHBhcGVyIHdpdGggcmFnZ2VkIGVkZ2VzIG9yIG9uIHNlZS10aHJvdWdoIHNraW5zLiBFYWNoIG9uZSBzaGUgaGFkIHR1cm5lZCByb3VuZCBhbmQgcm91bmQsIGxvb2tpbmcgZm9yIHJpZ2h0LXNpZGUgdXAgd2l0aCB0aGUgaGVscCBvZiB0aGUgc2lnbmF0dXJlLiBFYWNoIG9uZSBzaGUgaGFkIHNhdmVkLiBUaG91Z2ggc2hlIGhhZG4ndCBrbm93biB3aGF0LCBzcGVjaWZpY2FsbHksIHRvIG1ha2Ugb2YgYW55IG9mIHRoZW0sIHNoZSBrbmV3IHRoZWlyIGFwcGVhcmFuY2Ugc2FpZCBzb21ldGhpbmcgYWJvdXQgdGhlIGhhYml0IG9mIGxvdmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">They had kept up contact despite the differences that had accumulated over the years and finally erupted in accusations and insults after Nana's death. In the wide, post-funeral quiet, after the visitors had gone home, they had both uttered things huge and unerasable.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXkgaGFkIGtlcHQgdXAgY29udGFjdCBkZXNwaXRlIHRoZSBkaWZmZXJlbmNlcyB0aGF0IGhhZCBhY2N1bXVsYXRlZCBvdmVyIHRoZSB5ZWFycyBhbmQgZmluYWxseSBlcnVwdGVkIGluIGFjY3VzYXRpb25zIGFuZCBpbnN1bHRzIGFmdGVyIE5hbmEncyBkZWF0aC4gSW4gdGhlIHdpZGUsIHBvc3QtZnVuZXJhbCBxdWlldCwgYWZ0ZXIgdGhlIHZpc2l0b3JzIGhhZCBnb25lIGhvbWUsIHRoZXkgaGFkIGJvdGggdXR0ZXJlZCB0aGluZ3MgaHVnZSBhbmQgdW5lcmFzYWJsZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She had always known how Sunday felt about home. "I'm in a little box," she had often complained while growing up, trying to express to Delta flow different she felt, how she was of it, but would never be able to stay. And Delta, who bad fought anyone who criticized her sister, had listened and comforted her, but hadn't really Understood. Sunday was the one she was different from.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBoYWQgYWx3YXlzIGtub3duIGhvdyBTdW5kYXkgZmVsdCBhYm91dCBob21lLiAiSSdtIGluIGEgbGl0dGxlIGJveCwiIHNoZSBoYWQgb2Z0ZW4gY29tcGxhaW5lZCB3aGlsZSBncm93aW5nIHVwLCB0cnlpbmcgdG8gZXhwcmVzcyB0byBEZWx0YSBmbG93IGRpZmZlcmVudCBzaGUgZmVsdCwgaG93IHNoZSB3YXMgb2YgaXQsIGJ1dCB3b3VsZCBuZXZlciBiZSBhYmxlIHRvIHN0YXkuIEFuZCBEZWx0YSwgd2hvIGJhZCBmb3VnaHQgYW55b25lIHdobyBjcml0aWNpemVkIGhlciBzaXN0ZXIsIGhhZCBsaXN0ZW5lZCBhbmQgY29tZm9ydGVkIGhlciwgYnV0IGhhZG4ndCByZWFsbHkgVW5kZXJzdG9vZC4gU3VuZGF5IHdhcyB0aGUgb25lIHNoZSB3YXMgZGlmZmVyZW50IGZyb20uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"This place pull's you down and holds you," Sunday had said. "Delta, don't you see, it pulls you down and holds you, silent and safe."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJUaGlzIHBsYWNlIHB1bGwncyB5b3UgZG93biBhbmQgaG9sZHMgeW91LCIgU3VuZGF5IGhhZCBzYWlkLiAiRGVsdGEsIGRvbid0IHlvdSBzZWUsIGl0IHB1bGxzIHlvdSBkb3duIGFuZCBob2xkcyB5b3UsIHNpbGVudCBhbmQgc2FmZS4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What Sunday said that night was condemnation of a place, but Delta absorbed it all. She was of Wake County and caught in that understanding of herself. Intoxicated with saying what had long been felt, they both spoke freely and all barriers fell. Most of the things Sunday said had not surprised Delta, but one indictment had left her open-mouthed: "You don't even see my painting," Sunday had accused, "you don't even see me at all."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoYXQgU3VuZGF5IHNhaWQgdGhhdCBuaWdodCB3YXMgY29uZGVtbmF0aW9uIG9mIGEgcGxhY2UsIGJ1dCBEZWx0YSBhYnNvcmJlZCBpdCBhbGwuIFNoZSB3YXMgb2YgV2FrZSBDb3VudHkgYW5kIGNhdWdodCBpbiB0aGF0IHVuZGVyc3RhbmRpbmcgb2YgaGVyc2VsZi4gSW50b3hpY2F0ZWQgd2l0aCBzYXlpbmcgd2hhdCBoYWQgbG9uZyBiZWVuIGZlbHQsIHRoZXkgYm90aCBzcG9rZSBmcmVlbHkgYW5kIGFsbCBiYXJyaWVycyBmZWxsLiBNb3N0IG9mIHRoZSB0aGluZ3MgU3VuZGF5IHNhaWQgaGFkIG5vdCBzdXJwcmlzZWQgRGVsdGEsIGJ1dCBvbmUgaW5kaWN0bWVudCBoYWQgbGVmdCBoZXIgb3Blbi1tb3V0aGVkOiAiWW91IGRvbid0IGV2ZW4gc2VlIG15IHBhaW50aW5nLCIgU3VuZGF5IGhhZCBhY2N1c2VkLCAieW91IGRvbid0IGV2ZW4gc2VlIG1lIGF0IGFsbC4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Delta had laughed callously at the accusation, for she knew, though she couldn't have said it, that for most of her life she had seen little else. She bad answered by calling her a misfit who thought she was better than the folks she had left behind. <font id=10>And it was Delta's recognition of her own rancor, as much as the substance of what they said, that staggered and disgraced her. She hadn't even realized all the things for which she couldn't forgive Sunday, hadn't known her own smallness until she found herself measuring her sister out loud. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRlbHRhIGhhZCBsYXVnaGVkIGNhbGxvdXNseSBhdCB0aGUgYWNjdXNhdGlvbiwgZm9yIHNoZSBrbmV3LCB0aG91Z2ggc2hlIGNvdWxkbid0IGhhdmUgc2FpZCBpdCwgdGhhdCBmb3IgbW9zdCBvZiBoZXIgbGlmZSBzaGUgaGFkIHNlZW4gbGl0dGxlIGVsc2UuIFNoZSBiYWQgYW5zd2VyZWQgYnkgY2FsbGluZyBoZXIgYSBtaXNmaXQgd2hvIHRob3VnaHQgc2hlIHdhcyBiZXR0ZXIgdGhhbiB0aGUgZm9sa3Mgc2hlIGhhZCBsZWZ0IGJlaGluZC4gPGZvbnQgaWQ9MTA+QW5kIGl0IHdhcyBEZWx0YSdzIHJlY29nbml0aW9uIG9mIGhlciBvd24gcmFuY29yLCBhcyBtdWNoIGFzIHRoZSBzdWJzdGFuY2Ugb2Ygd2hhdCB0aGV5IHNhaWQsIHRoYXQgc3RhZ2dlcmVkIGFuZCBkaXNncmFjZWQgaGVyLiBTaGUgaGFkbid0IGV2ZW4gcmVhbGl6ZWQgYWxsIHRoZSB0aGluZ3MgZm9yIHdoaWNoIHNoZSBjb3VsZG4ndCBmb3JnaXZlIFN1bmRheSwgaGFkbid0IGtub3duIGhlciBvd24gc21hbGxuZXNzIHVudGlsIHNoZSBmb3VuZCBoZXJzZWxmIG1lYXN1cmluZyBoZXIgc2lzdGVyIG91dCBsb3VkLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Finally, the rush of words had ended and they had silently straightened up and gone upstairs without repairing their trespasses. Sunday had gathered and packed her things in a wild, tearful stupor of regret and relief, while Delta cried herself to sleep with bitter remorse.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpbmFsbHksIHRoZSBydXNoIG9mIHdvcmRzIGhhZCBlbmRlZCBhbmQgdGhleSBoYWQgc2lsZW50bHkgc3RyYWlnaHRlbmVkIHVwIGFuZCBnb25lIHVwc3RhaXJzIHdpdGhvdXQgcmVwYWlyaW5nIHRoZWlyIHRyZXNwYXNzZXMuIFN1bmRheSBoYWQgZ2F0aGVyZWQgYW5kIHBhY2tlZCBoZXIgdGhpbmdzIGluIGEgd2lsZCwgdGVhcmZ1bCBzdHVwb3Igb2YgcmVncmV0IGFuZCByZWxpZWYsIHdoaWxlIERlbHRhIGNyaWVkIGhlcnNlbGYgdG8gc2xlZXAgd2l0aCBiaXR0ZXIgcmVtb3JzZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Delta pushed that night from her mind, hoping that this visit might help them leave behind their troubled history.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRlbHRhIHB1c2hlZCB0aGF0IG5pZ2h0IGZyb20gaGVyIG1pbmQsIGhvcGluZyB0aGF0IHRoaXMgdmlzaXQgbWlnaHQgaGVscCB0aGVtIGxlYXZlIGJlaGluZCB0aGVpciB0cm91YmxlZCBoaXN0b3J5LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1. Which of the following statements summary of this passage?
-<div class = "choice">A. A painter, Sun day, returns to her hometown to attend Nana's funeral and to visit her sister Delta, whom she hasn't seen for some time.</div>
-<div class = "choice">B. Two sisters try unsuccessfully to resolve their differences when one of them returns to her hometown for a visit.</div>
-<div class = "choice">C. Two sisters contemplate their relationship to each other and to their hometown just prior to a reunion between them.</div>
-<div class = "choice">D. Two sisters argue over their childhood differences after one of them considers moving from Chicago back to Wake County.</div>
-</div>
-###################
-<div class = "quiz">2. The main conflict in this passage could best be described as:
-<div class = "choice">F. Delta's struggle over her inability to express herself adequately in her paintings.</div>
-<div class = "choice">G. Sunday's internal conflict over whether she should stay away from or go back to her hometown.</div>
-<div class = "choice">H. the tension between two sisters, Delta and Sunday, who have differing views of the world.</div>
-<div class = "choice">J. the hostility between two sisters, Delta and Sunday, each of whom wants control over the other.</div>
-</div>
-###################
-<div class = "quiz">3. In this passage, the reader gains the most information about how Sunday feels about Wake County from:
-<div class = "choice">A. Sunday's words as remembered by Delta.</div>
-<div class = "choice">B. Sunday's thoughts.</div>
-<div class = "choice">C. the words Delta speaks to Sunday.</div>
-<div class = "choice">D. Delta's description of Sunday's artwork.</div>
-</div>
-###################
-<div class = "quiz">4. The point of view from which this story is told changes at the beginning of line:
-<div class = "choice">F. 21.</div>
-<div class = "choice">G. 30.</div>
-<div class = "choice">H. 55.</div>
-<div class = "choice">J. 66.</div>
-</div>
-###################
-<div class = "quiz">5. In the passage, Sunday defines herself as a painter and someone who has broken free of childhood constraints, while Delta tends to define herself as:
-<div class = "choice">A. a Homemaker, caregiver, and skilled writer in competition with her artistic sister.</div>
-<div class = "choice">B. a person who differs from the other residents of Wake County.</div>
-<div class = "choice">C. a woman who has always differed from her sister.</div>
-<div class = "choice">D. someone who is trying to become more worldly.</div>
-</div>
-###################
-<div class = "quiz">6. The first paragraph reveals all of the following details EXCEPT:
-<div class = "choice">F. who suggested that Sunday choose her own name.</div>
-<div class = "choice">G. what name had been printed on Sunday's birth certificate.</div>
-<div class = "choice">H. what the name Sunday represented to Sunday herself.</div>
-<div class = "choice">J. at what point "Sister" acquired the name Sunday.</div>
-</div>
-###################
-<div class = "quiz">7. As it is used in line 26, the phrase native and exile most directly refers to:
-<div class = "choice">A. the point of view of an artist versus that of her sister.</div>
-<div class = "choice">B. Sunday's love for and conflict with her sister Delta.</div>
-<div class = "choice">C. the period of time when Sunday was called "Sister" and the period of time after she became Sunday.</div>
-<div class = "choice">D. Sunday's childhood in Wake County and her adulthood in Chicago.</div>
-</div>
-###################
-<div class = "quiz">8. According to the passage, how did Delta interpret the paintings on paper and the block prints that Sunday sent to her?
-<div class = "choice">F. She believed they indicated Sunday's lack of skill as a painter.</div>
-<div class = "choice">G. She thought they were Sunday's way of showing that she cared about her sister.</div>
-<div class = "choice">H. She felt they represented Sunday's acceptance that Delta would never leave Wake County.</div>
-<div class = "choice">J. She believed they were proof that Sunday was a misfit.</div>
-</div>
-###################
-<div class = "quiz">9. According to the passage, Delta had once accused Sunday of:
-<div class = "choice">A. not appreciating Delta's artistic talents.</div>
-<div class = "choice">B. thinking Sunday was better than the people who lived in Wake County:</div>
-<div class = "choice">C. disgracing the family when she-moved away from Wake County.</div>
-<div class = "choice">D. creating painting's that had almost no significance in the real world.</div>
-</div>
-###################
-<div class = "quiz">10. In the context of lines 79-85, the word smallness (line 84) most nearly means:
-<div class = "choice">F. pettiness.</div>
-<div class = "choice">G. willfulness.</div>
-<div class = "choice">H. diminutive size.</div>
-<div class = "choice">J. lack of artistic talent.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgc3VtbWFyeSBvZiB0aGlzIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgcGFpbnRlciwgU3VuIGRheSwgcmV0dXJucyB0byBoZXIgaG9tZXRvd24gdG8gYXR0ZW5kIE5hbmEncyBmdW5lcmFsIGFuZCB0byB2aXNpdCBoZXIgc2lzdGVyIERlbHRhLCB3aG9tIHNoZSBoYXNuJ3Qgc2VlbiBmb3Igc29tZSB0aW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFR3byBzaXN0ZXJzIHRyeSB1bnN1Y2Nlc3NmdWxseSB0byByZXNvbHZlIHRoZWlyIGRpZmZlcmVuY2VzIHdoZW4gb25lIG9mIHRoZW0gcmV0dXJucyB0byBoZXIgaG9tZXRvd24gZm9yIGEgdmlzaXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFR3byBzaXN0ZXJzIGNvbnRlbXBsYXRlIHRoZWlyIHJlbGF0aW9uc2hpcCB0byBlYWNoIG90aGVyIGFuZCB0byB0aGVpciBob21ldG93biBqdXN0IHByaW9yIHRvIGEgcmV1bmlvbiBiZXR3ZWVuIHRoZW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFR3byBzaXN0ZXJzIGFyZ3VlIG92ZXIgdGhlaXIgY2hpbGRob29kIGRpZmZlcmVuY2VzIGFmdGVyIG9uZSBvZiB0aGVtIGNvbnNpZGVycyBtb3ZpbmcgZnJvbSBDaGljYWdvIGJhY2sgdG8gV2FrZSBDb3VudHkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBUaGUgbWFpbiBjb25mbGljdCBpbiB0aGlzIHBhc3NhZ2UgY291bGQgYmVzdCBiZSBkZXNjcmliZWQgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIERlbHRhJ3Mgc3RydWdnbGUgb3ZlciBoZXIgaW5hYmlsaXR5IHRvIGV4cHJlc3MgaGVyc2VsZiBhZGVxdWF0ZWx5IGluIGhlciBwYWludGluZ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFN1bmRheSdzIGludGVybmFsIGNvbmZsaWN0IG92ZXIgd2hldGhlciBzaGUgc2hvdWxkIHN0YXkgYXdheSBmcm9tIG9yIGdvIGJhY2sgdG8gaGVyIGhvbWV0b3duLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSB0ZW5zaW9uIGJldHdlZW4gdHdvIHNpc3RlcnMsIERlbHRhIGFuZCBTdW5kYXksIHdobyBoYXZlIGRpZmZlcmluZyB2aWV3cyBvZiB0aGUgd29ybGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBob3N0aWxpdHkgYmV0d2VlbiB0d28gc2lzdGVycywgRGVsdGEgYW5kIFN1bmRheSwgZWFjaCBvZiB3aG9tIHdhbnRzIGNvbnRyb2wgb3ZlciB0aGUgb3RoZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBJbiB0aGlzIHBhc3NhZ2UsIHRoZSByZWFkZXIgZ2FpbnMgdGhlIG1vc3QgaW5mb3JtYXRpb24gYWJvdXQgaG93IFN1bmRheSBmZWVscyBhYm91dCBXYWtlIENvdW50eSBmcm9tOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFN1bmRheSdzIHdvcmRzIGFzIHJlbWVtYmVyZWQgYnkgRGVsdGEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN1bmRheSdzIHRob3VnaHRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSB3b3JkcyBEZWx0YSBzcGVha3MgdG8gU3VuZGF5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERlbHRhJ3MgZGVzY3JpcHRpb24gb2YgU3VuZGF5J3MgYXJ0d29yay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBUaGUgcG9pbnQgb2YgdmlldyBmcm9tIHdoaWNoIHRoaXMgc3RvcnkgaXMgdG9sZCBjaGFuZ2VzIGF0IHRoZSBiZWdpbm5pbmcgb2YgbGluZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDIxLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDMwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDU1LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDY2LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBJbiB0aGUgcGFzc2FnZSwgU3VuZGF5IGRlZmluZXMgaGVyc2VsZiBhcyBhIHBhaW50ZXIgYW5kIHNvbWVvbmUgd2hvIGhhcyBicm9rZW4gZnJlZSBvZiBjaGlsZGhvb2QgY29uc3RyYWludHMsIHdoaWxlIERlbHRhIHRlbmRzIHRvIGRlZmluZSBoZXJzZWxmIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgSG9tZW1ha2VyLCBjYXJlZ2l2ZXIsIGFuZCBza2lsbGVkIHdyaXRlciBpbiBjb21wZXRpdGlvbiB3aXRoIGhlciBhcnRpc3RpYyBzaXN0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgcGVyc29uIHdobyBkaWZmZXJzIGZyb20gdGhlIG90aGVyIHJlc2lkZW50cyBvZiBXYWtlIENvdW50eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGEgd29tYW4gd2hvIGhhcyBhbHdheXMgZGlmZmVyZWQgZnJvbSBoZXIgc2lzdGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNvbWVvbmUgd2hvIGlzIHRyeWluZyB0byBiZWNvbWUgbW9yZSB3b3JsZGx5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBUaGUgZmlyc3QgcGFyYWdyYXBoIHJldmVhbHMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgZGV0YWlscyBFWENFUFQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdobyBzdWdnZXN0ZWQgdGhhdCBTdW5kYXkgY2hvb3NlIGhlciBvd24gbmFtZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoYXQgbmFtZSBoYWQgYmVlbiBwcmludGVkIG9uIFN1bmRheSdzIGJpcnRoIGNlcnRpZmljYXRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoYXQgdGhlIG5hbWUgU3VuZGF5IHJlcHJlc2VudGVkIHRvIFN1bmRheSBoZXJzZWxmLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGF0IHdoYXQgcG9pbnQgIlNpc3RlciIgYWNxdWlyZWQgdGhlIG5hbWUgU3VuZGF5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBBcyBpdCBpcyB1c2VkIGluIGxpbmUgMjYsIHRoZSBwaHJhc2UgbmF0aXZlIGFuZCBleGlsZSBtb3N0IGRpcmVjdGx5IHJlZmVycyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBwb2ludCBvZiB2aWV3IG9mIGFuIGFydGlzdCB2ZXJzdXMgdGhhdCBvZiBoZXIgc2lzdGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN1bmRheSdzIGxvdmUgZm9yIGFuZCBjb25mbGljdCB3aXRoIGhlciBzaXN0ZXIgRGVsdGEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBwZXJpb2Qgb2YgdGltZSB3aGVuIFN1bmRheSB3YXMgY2FsbGVkICJTaXN0ZXIiIGFuZCB0aGUgcGVyaW9kIG9mIHRpbWUgYWZ0ZXIgc2hlIGJlY2FtZSBTdW5kYXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFN1bmRheSdzIGNoaWxkaG9vZCBpbiBXYWtlIENvdW50eSBhbmQgaGVyIGFkdWx0aG9vZCBpbiBDaGljYWdvLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIGhvdyBkaWQgRGVsdGEgaW50ZXJwcmV0IHRoZSBwYWludGluZ3Mgb24gcGFwZXIgYW5kIHRoZSBibG9jayBwcmludHMgdGhhdCBTdW5kYXkgc2VudCB0byBoZXI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNoZSBiZWxpZXZlZCB0aGV5IGluZGljYXRlZCBTdW5kYXkncyBsYWNrIG9mIHNraWxsIGFzIGEgcGFpbnRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNoZSB0aG91Z2h0IHRoZXkgd2VyZSBTdW5kYXkncyB3YXkgb2Ygc2hvd2luZyB0aGF0IHNoZSBjYXJlZCBhYm91dCBoZXIgc2lzdGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNoZSBmZWx0IHRoZXkgcmVwcmVzZW50ZWQgU3VuZGF5J3MgYWNjZXB0YW5jZSB0aGF0IERlbHRhIHdvdWxkIG5ldmVyIGxlYXZlIFdha2UgQ291bnR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNoZSBiZWxpZXZlZCB0aGV5IHdlcmUgcHJvb2YgdGhhdCBTdW5kYXkgd2FzIGEgbWlzZml0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIERlbHRhIGhhZCBvbmNlIGFjY3VzZWQgU3VuZGF5IG9mOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG5vdCBhcHByZWNpYXRpbmcgRGVsdGEncyBhcnRpc3RpYyB0YWxlbnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoaW5raW5nIFN1bmRheSB3YXMgYmV0dGVyIHRoYW4gdGhlIHBlb3BsZSB3aG8gbGl2ZWQgaW4gV2FrZSBDb3VudHk6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRpc2dyYWNpbmcgdGhlIGZhbWlseSB3aGVuIHNoZS1tb3ZlZCBhd2F5IGZyb20gV2FrZSBDb3VudHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNyZWF0aW5nIHBhaW50aW5nJ3MgdGhhdCBoYWQgYWxtb3N0IG5vIHNpZ25pZmljYW5jZSBpbiB0aGUgcmVhbCB3b3JsZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gSW4gdGhlIGNvbnRleHQgb2YgbGluZXMgNzktODUsIHRoZSB3b3JkIHNtYWxsbmVzcyAobGluZSA4NCkgbW9zdCBuZWFybHkgbWVhbnM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHBldHRpbmVzcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdpbGxmdWxuZXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRpbWludXRpdmUgc2l6ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxhY2sgb2YgYXJ0aXN0aWMgdGFsZW50LjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

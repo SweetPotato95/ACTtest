@@ -1,71 +1,71 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polarity is a measure of the separation of charge in a molecule. Molecules are attracted to other molecules based on polarity. In liquid column chromatography, a .mixture is carried by the flow of solvent through a glass column containing an adsorbent material. If the components of the mixture have different polarities, they will interact differently with the solvent and adsorbent, causing the mixture to separate into its components, When the components elute (exit) from the column, they pass through a detector (see Figure l).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBvbGFyaXR5IGlzIGEgbWVhc3VyZSBvZiB0aGUgc2VwYXJhdGlvbiBvZiBjaGFyZ2UgaW4gYSBtb2xlY3VsZS4gTW9sZWN1bGVzIGFyZSBhdHRyYWN0ZWQgdG8gb3RoZXIgbW9sZWN1bGVzIGJhc2VkIG9uIHBvbGFyaXR5LiBJbiBsaXF1aWQgY29sdW1uIGNocm9tYXRvZ3JhcGh5LCBhIC5taXh0dXJlIGlzIGNhcnJpZWQgYnkgdGhlIGZsb3cgb2Ygc29sdmVudCB0aHJvdWdoIGEgZ2xhc3MgY29sdW1uIGNvbnRhaW5pbmcgYW4gYWRzb3JiZW50IG1hdGVyaWFsLiBJZiB0aGUgY29tcG9uZW50cyBvZiB0aGUgbWl4dHVyZSBoYXZlIGRpZmZlcmVudCBwb2xhcml0aWVzLCB0aGV5IHdpbGwgaW50ZXJhY3QgZGlmZmVyZW50bHkgd2l0aCB0aGUgc29sdmVudCBhbmQgYWRzb3JiZW50LCBjYXVzaW5nIHRoZSBtaXh0dXJlIHRvIHNlcGFyYXRlIGludG8gaXRzIGNvbXBvbmVudHMsIFdoZW4gdGhlIGNvbXBvbmVudHMgZWx1dGUgKGV4aXQpIGZyb20gdGhlIGNvbHVtbiwgdGhleSBwYXNzIHRocm91Z2ggYSBkZXRlY3RvciAoc2VlIEZpZ3VyZSBsKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\160.png' width = '188'height = '284'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjAucG5nJyB3aWR0aCA9ICcxODgnaGVpZ2h0ID0gJzI4NCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following experiments were done to study how using solvents and adsorbents of differing polarities affects the separation of a mixture. A component's elution time is the time it takes (from the start of the flow) for l00% of the component to be eluted. Table. 1 shows the relative polarities (0 being nonpolar and 10 being extremely polar) of the components of the mixture and of the solvents used.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmb2xsb3dpbmcgZXhwZXJpbWVudHMgd2VyZSBkb25lIHRvIHN0dWR5IGhvdyB1c2luZyBzb2x2ZW50cyBhbmQgYWRzb3JiZW50cyBvZiBkaWZmZXJpbmcgcG9sYXJpdGllcyBhZmZlY3RzIHRoZSBzZXBhcmF0aW9uIG9mIGEgbWl4dHVyZS4gQSBjb21wb25lbnQncyBlbHV0aW9uIHRpbWUgaXMgdGhlIHRpbWUgaXQgdGFrZXMgKGZyb20gdGhlIHN0YXJ0IG9mIHRoZSBmbG93KSBmb3IgbDAwJSBvZiB0aGUgY29tcG9uZW50IHRvIGJlIGVsdXRlZC4gVGFibGUuIDEgc2hvd3MgdGhlIHJlbGF0aXZlIHBvbGFyaXRpZXMgKDAgYmVpbmcgbm9ucG9sYXIgYW5kIDEwIGJlaW5nIGV4dHJlbWVseSBwb2xhcikgb2YgdGhlIGNvbXBvbmVudHMgb2YgdGhlIG1peHR1cmUgYW5kIG9mIHRoZSBzb2x2ZW50cyB1c2VkLjwvZGl2Pg==
 
-<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:348.2pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="232"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Substance</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Polarity</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:155.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Component</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">A</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">B</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">C</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">D</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Solvent</span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅰ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅱ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Ⅲ</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">5.6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4.2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0.4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt"> </span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">8.2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0.2</span></p></td></tr></table></div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiA+PHRhYmxlIGJvcmRlcj0iMSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBjbGFzcz0iTXNvTm9ybWFsVGFibGUiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6Y29sbGFwc2U7Ym9yZGVyOm5vbmU7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby15ZnRpLXRibGxvb2s6NDgwO21zby1wYWRkaW5nLWFsdDowY20gNS40cHQgMGNtIDUuNHB0O21zby1ib3JkZXItaW5zaWRlaDouNXB0IHNvbGlkIHdpbmRvd3RleHQ7bXNvLWJvcmRlci1pbnNpZGV2Oi41cHQgc29saWQgd2luZG93dGV4dCI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjA7bXNvLXlmdGktZmlyc3Ryb3c6eWVzIj48dGQgY29sc3Bhbj0iMiIgc3R5bGU9IndpZHRoOjM0OC4ycHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgdmFsaWduPSJ0b3AiIHdpZHRoPSIyMzIiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+VGFibGUgMTwvc3Bhbj48L3A+PC90ZD48L3RyPjx0ciBzdHlsZT0ibXNvLXlmdGktaXJvdzoxIj48dGQgc3R5bGU9IndpZHRoOjE1NS40cHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7Ym9yZGVyLXRvcDpub25lO21zby1ib3JkZXItdG9wLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgdmFsaWduPSJ0b3AiIHdpZHRoPSIxMDQiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+U3Vic3RhbmNlPC9zcGFuPjwvcD48L3RkPjx0ZCBzdHlsZT0id2lkdGg6MTkyLjhwdDtib3JkZXItdG9wOm5vbmU7Ym9yZGVyLWxlZnQ6bm9uZTtib3JkZXItYm90dG9tOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7Ym9yZGVyLXJpZ2h0OnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci10b3AtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWxlZnQtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7cGFkZGluZzowY20gNS40cHQgMGNtIDUuNHB0IiB2YWxpZ249InRvcCIgd2lkdGg9IjEyOSI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij5Qb2xhcml0eTwvc3Bhbj48L3A+PC90ZD48L3RyPjx0ciBzdHlsZT0ibXNvLXlmdGktaXJvdzoyO21zby15ZnRpLWxhc3Ryb3c6eWVzIj48dGQgc3R5bGU9IndpZHRoOjE1NS40cHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7Ym9yZGVyLXRvcDpub25lO21zby1ib3JkZXItdG9wLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgdmFsaWduPSJ0b3AiIHdpZHRoPSIxMDQiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+Q29tcG9uZW50PC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPkE8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+Qjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij5DPC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPkQ8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+U29sdmVudDwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gc3R5bGU9J21zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk65a6L5L2TO21zby1hc2NpaS1mb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIjttc28taGFuc2ktZm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiInPuKFPzwvc3Bhbj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gc3R5bGU9J21zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk65a6L5L2TO21zby1hc2NpaS1mb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIjttc28taGFuc2ktZm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiInPuKFPzwvc3Bhbj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gc3R5bGU9J21zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQ7Zm9udC1mYW1pbHk65a6L5L2TO21zby1hc2NpaS1mb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIjttc28taGFuc2ktZm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiInPuKFPzwvc3Bhbj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjwvc3Bhbj48L3A+PC90ZD48dGQgc3R5bGU9IndpZHRoOjE5Mi44cHQ7Ym9yZGVyLXRvcDpub25lO2JvcmRlci1sZWZ0Om5vbmU7Ym9yZGVyLWJvdHRvbTpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O2JvcmRlci1yaWdodDpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O21zby1ib3JkZXItdG9wLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1sZWZ0LWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgdmFsaWduPSJ0b3AiIHdpZHRoPSIxMjkiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+wqA8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+NS42PC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjQuMjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij4xLjE8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+MC40PC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPsKgPC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjguMjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij40LjE8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+MC4yPC9zcGFuPjwvcD48L3RkPjwvdHI+PC90YWJsZT48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A glass column 50 cm tall and 7 cm in diameter was packed with 3 kg of a normal-phase (highly polar) adsorbent. A mixture containing 0.2 g each of Components A-D was dissolved and then added to the top layer of the adsorbent. Solvent I was then allowed to flow through the column at a constant rate. The % eluted of each component was measured for 50 min. The procedure was repeated using Solvents Ⅱ and Ⅲ (see Figure 2)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgZ2xhc3MgY29sdW1uIDUwIGNtIHRhbGwgYW5kIDcgY20gaW4gZGlhbWV0ZXIgd2FzIHBhY2tlZCB3aXRoIDMga2cgb2YgYSBub3JtYWwtcGhhc2UgKGhpZ2hseSBwb2xhcikgYWRzb3JiZW50LiBBIG1peHR1cmUgY29udGFpbmluZyAwLjIgZyBlYWNoIG9mIENvbXBvbmVudHMgQS1EIHdhcyBkaXNzb2x2ZWQgYW5kIHRoZW4gYWRkZWQgdG8gdGhlIHRvcCBsYXllciBvZiB0aGUgYWRzb3JiZW50LiBTb2x2ZW50IEkgd2FzIHRoZW4gYWxsb3dlZCB0byBmbG93IHRocm91Z2ggdGhlIGNvbHVtbiBhdCBhIGNvbnN0YW50IHJhdGUuIFRoZSAlIGVsdXRlZCBvZiBlYWNoIGNvbXBvbmVudCB3YXMgbWVhc3VyZWQgZm9yIDUwIG1pbi4gVGhlIHByb2NlZHVyZSB3YXMgcmVwZWF0ZWQgdXNpbmcgU29sdmVudHMg4oU/IGFuZCDihT8gKHNlZSBGaWd1cmUgMik8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\161.png' width = '350'height = '398'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjEucG5nJyB3aWR0aCA9ICczNTAnaGVpZ2h0ID0gJzM5OCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment l was repeated but it a reverse-phase (nonpolar) adsorbent was used trial (see Figure 3).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgbCB3YXMgcmVwZWF0ZWQgYnV0IGl0IGEgcmV2ZXJzZS1waGFzZSAobm9ucG9sYXIpIGFkc29yYmVudCB3YXMgdXNlZCB0cmlhbCAoc2VlIEZpZ3VyZSAzKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\162.png' width = '338'height = '384'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNjIucG5nJyB3aWR0aCA9ICczMzgnaGVpZ2h0ID0gJzM4NCcvPjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">28. In Experiment l, when Solvent Ⅲ was used, exactly half the amount of Component B had eluted from the column at a time closest to:
-<div class = "choice">F. 10 min.</div>
-<div class = "choice">G. 15 min.</div>
-<div class = "choice">H. 35 min.</div>
-<div class = "choice">J. 40 min.</div>
-</div>
-###################
-<div class = "quiz">29. Component X has to polarity of 3.9. The results of Experiments l and 2 would have been most similar to those shown in Figures 2 and 3 if, in each trial, Component X had been substituted in the mixture for:
-<div class = "choice">A. Component A.</div>
-<div class = "choice">B. Component B.</div>
-<div class = "choice">C. Component C.</div>
-<div class = "choice">D. Component D.</div>
-</div>
-###################
-<div class = "quiz">30. Suppose that Experiment l will be repeated using Solvent I, but 0.2 g of Component Z (polarity = 0.7) will be part of the mixture. Which of the following best predicts the order of the elution times of the 5 components, from shortest to longest?
-<div class = "choice">F. A, B, C, Z, D</div>
-<div class = "choice">G. A, Z, B, C, D</div>
-<div class = "choice">H. D, Z, C, B, A</div>
-<div class = "choice">J. D, C, B, Z, A</div>
-</div>
-###################
-<div class = "quiz">31. The resolution of a chromatographic separation increases as the amount of time between the elutions of each of the components increases. Based on the results of Experiments l and 2, which of the following sets of conditions had the greatest resolution for the separation of the mixture?
-<div class = "choice">A. Normal-phase Solvent Ⅰ      Reverse-phase Solvent Ⅱ</div>
-<div class = "choice">B. Normal-phase Solvent Ⅰ      Reverse-phase Solvent Ⅲ</div>
-<div class = "choice">C. Normal-phase Solvent Ⅱ      Reverse-phase Solvent Ⅰ</div>
-<div class = "choice">D. Normal-phase Solvent Ⅲ      Reverse-phase Solvent Ⅰ</div>
-</div>
-###################
-<div class = "quiz">32. In Experiment l, for Solvent I, at the time when exactly 50% of the amount of Component B had eluted from the column, the percent of Component D that had eluted from the column was closest to:
-<div class = "choice">F. 10%</div>
-<div class = "choice">G. 20%.</div>
-<div class = "choice">H. 90%</div>
-<div class = "choice">J. 100%.</div>
-</div>
-###################
-<div class = "quiz">33. Suppose that Experiment 2 was repeated using a solvent with a polarity of 9.3. The elution time of Component D would roost likely be:
-<div class = "choice">A. less than 20 min</div>
-<div class = "choice">B. between 20 min and 40 min.</div>
-<div class = "choice">C. between 40 min and 50 min.</div>
-<div class = "choice">D. greater than 50 min.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gSW4gRXhwZXJpbWVudCBsLCB3aGVuIFNvbHZlbnQg4oU/IHdhcyB1c2VkLCBleGFjdGx5IGhhbGYgdGhlIGFtb3VudCBvZiBDb21wb25lbnQgQiBoYWQgZWx1dGVkIGZyb20gdGhlIGNvbHVtbiBhdCBhIHRpbWUgY2xvc2VzdCB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEwIG1pbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDE1IG1pbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDM1IG1pbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDQwIG1pbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQ29tcG9uZW50IFggaGFzIHRvIHBvbGFyaXR5IG9mIDMuOS4gVGhlIHJlc3VsdHMgb2YgRXhwZXJpbWVudHMgbCBhbmQgMiB3b3VsZCBoYXZlIGJlZW4gbW9zdCBzaW1pbGFyIHRvIHRob3NlIHNob3duIGluIEZpZ3VyZXMgMiBhbmQgMyBpZiwgaW4gZWFjaCB0cmlhbCwgQ29tcG9uZW50IFggaGFkIGJlZW4gc3Vic3RpdHV0ZWQgaW4gdGhlIG1peHR1cmUgZm9yOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIENvbXBvbmVudCBBLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENvbXBvbmVudCBCLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENvbXBvbmVudCBDLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENvbXBvbmVudCBELjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gU3VwcG9zZSB0aGF0IEV4cGVyaW1lbnQgbCB3aWxsIGJlIHJlcGVhdGVkIHVzaW5nIFNvbHZlbnQgSSwgYnV0IDAuMiBnIG9mIENvbXBvbmVudCBaIChwb2xhcml0eSA9IDAuNykgd2lsbCBiZSBwYXJ0IG9mIHRoZSBtaXh0dXJlLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGJlc3QgcHJlZGljdHMgdGhlIG9yZGVyIG9mIHRoZSBlbHV0aW9uIHRpbWVzIG9mIHRoZSA1IGNvbXBvbmVudHMsIGZyb20gc2hvcnRlc3QgdG8gbG9uZ2VzdD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEEsIEIsIEMsIFosIEQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEEsIFosIEIsIEMsIEQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEQsIFosIEMsIEIsIEE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEQsIEMsIEIsIFosIEE8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIHJlc29sdXRpb24gb2YgYSBjaHJvbWF0b2dyYXBoaWMgc2VwYXJhdGlvbiBpbmNyZWFzZXMgYXMgdGhlIGFtb3VudCBvZiB0aW1lIGJldHdlZW4gdGhlIGVsdXRpb25zIG9mIGVhY2ggb2YgdGhlIGNvbXBvbmVudHMgaW5jcmVhc2VzLiBCYXNlZCBvbiB0aGUgcmVzdWx0cyBvZiBFeHBlcmltZW50cyBsIGFuZCAyLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHNldHMgb2YgY29uZGl0aW9ucyBoYWQgdGhlIGdyZWF0ZXN0IHJlc29sdXRpb24gZm9yIHRoZSBzZXBhcmF0aW9uIG9mIHRoZSBtaXh0dXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5vcm1hbC1waGFzZSBTb2x2ZW50IOKFPyAgICAgIFJldmVyc2UtcGhhc2UgU29sdmVudCDihT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5vcm1hbC1waGFzZSBTb2x2ZW50IOKFPyAgICAgIFJldmVyc2UtcGhhc2UgU29sdmVudCDihT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vcm1hbC1waGFzZSBTb2x2ZW50IOKFPyAgICAgIFJldmVyc2UtcGhhc2UgU29sdmVudCDihT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vcm1hbC1waGFzZSBTb2x2ZW50IOKFPyAgICAgIFJldmVyc2UtcGhhc2UgU29sdmVudCDihT88L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gSW4gRXhwZXJpbWVudCBsLCBmb3IgU29sdmVudCBJLCBhdCB0aGUgdGltZSB3aGVuIGV4YWN0bHkgNTAlIG9mIHRoZSBhbW91bnQgb2YgQ29tcG9uZW50IEIgaGFkIGVsdXRlZCBmcm9tIHRoZSBjb2x1bW4sIHRoZSBwZXJjZW50IG9mIENvbXBvbmVudCBEIHRoYXQgaGFkIGVsdXRlZCBmcm9tIHRoZSBjb2x1bW4gd2FzIGNsb3Nlc3QgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIwJS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDkwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEwMCUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gU3VwcG9zZSB0aGF0IEV4cGVyaW1lbnQgMiB3YXMgcmVwZWF0ZWQgdXNpbmcgYSBzb2x2ZW50IHdpdGggYSBwb2xhcml0eSBvZiA5LjMuIFRoZSBlbHV0aW9uIHRpbWUgb2YgQ29tcG9uZW50IEQgd291bGQgcm9vc3QgbGlrZWx5IGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiAyMCBtaW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMjAgbWluIGFuZCA0MCBtaW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gNDAgbWluIGFuZCA1MCBtaW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiA1MCBtaW4uPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

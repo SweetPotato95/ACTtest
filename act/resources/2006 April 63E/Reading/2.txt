@@ -1,104 +1,104 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “NO Longer Alone: The Scientist Who Dared to Say Animals Think” by Emily Eakin (? 2001 by The New York Times).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Donald Griffin was at the Central Park Zoo watching the polar bears nuzzle a synthetic log smeared with peanut butter. Dr. Griffin observed as Gus, 800 pounds, tried to fit his nose into an enticingly sticky knothole. To the untutored eye it looked like just another feeding time at the zoo, but at Central Park the exercise with the log and snack goes by the grander name of "animal enrichment" and is intended to stimulate the bears' minds as well as their appetites. It's a concept for which the bears have Dr. Griffin, 85, in large part to thank.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlIOKAnE5PIExvbmdlciBBbG9uZTogVGhlIFNjaWVudGlzdCBXaG8gRGFyZWQgdG8gU2F5IEFuaW1hbHMgVGhpbmvigD8gYnkgRW1pbHkgRWFraW4gKD8gMjAwMSBieSBUaGUgTmV3IFlvcmsgVGltZXMpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRvbmFsZCBHcmlmZmluIHdhcyBhdCB0aGUgQ2VudHJhbCBQYXJrIFpvbyB3YXRjaGluZyB0aGUgcG9sYXIgYmVhcnMgbnV6emxlIGEgc3ludGhldGljIGxvZyBzbWVhcmVkIHdpdGggcGVhbnV0IGJ1dHRlci4gRHIuIEdyaWZmaW4gb2JzZXJ2ZWQgYXMgR3VzLCA4MDAgcG91bmRzLCB0cmllZCB0byBmaXQgaGlzIG5vc2UgaW50byBhbiBlbnRpY2luZ2x5IHN0aWNreSBrbm90aG9sZS4gVG8gdGhlIHVudHV0b3JlZCBleWUgaXQgbG9va2VkIGxpa2UganVzdCBhbm90aGVyIGZlZWRpbmcgdGltZSBhdCB0aGUgem9vLCBidXQgYXQgQ2VudHJhbCBQYXJrIHRoZSBleGVyY2lzZSB3aXRoIHRoZSBsb2cgYW5kIHNuYWNrIGdvZXMgYnkgdGhlIGdyYW5kZXIgbmFtZSBvZiAiYW5pbWFsIGVucmljaG1lbnQiIGFuZCBpcyBpbnRlbmRlZCB0byBzdGltdWxhdGUgdGhlIGJlYXJzJyBtaW5kcyBhcyB3ZWxsIGFzIHRoZWlyIGFwcGV0aXRlcy4gSXQncyBhIGNvbmNlcHQgZm9yIHdoaWNoIHRoZSBiZWFycyBoYXZlIERyLiBHcmlmZmluLCA4NSwgaW4gbGFyZ2UgcGFydCB0byB0aGFuay48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Twenty-five years ago he published a short book suggesting that humans didn't have the monopoly on thoughts and feelings, Animals, he argued, most likely had them, too.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlR3ZW50eS1maXZlIHllYXJzIGFnbyBoZSBwdWJsaXNoZWQgYSBzaG9ydCBib29rIHN1Z2dlc3RpbmcgdGhhdCBodW1hbnMgZGlkbid0IGhhdmUgdGhlIG1vbm9wb2x5IG9uIHRob3VnaHRzIGFuZCBmZWVsaW5ncywgQW5pbWFscywgaGUgYXJndWVkLCBtb3N0IGxpa2VseSBoYWQgdGhlbSwgdG9vLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Other scientists were appalled. According to the behaviorist doctrine that held sway at the time, animals were little more than "stimulus response automata," robots with a central nervous system. The idea that an ant or an elephant might have thoughts, images, experiences or beliefs was not just laughable; it was seditious.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk90aGVyIHNjaWVudGlzdHMgd2VyZSBhcHBhbGxlZC4gQWNjb3JkaW5nIHRvIHRoZSBiZWhhdmlvcmlzdCBkb2N0cmluZSB0aGF0IGhlbGQgc3dheSBhdCB0aGUgdGltZSwgYW5pbWFscyB3ZXJlIGxpdHRsZSBtb3JlIHRoYW4gInN0aW11bHVzIHJlc3BvbnNlIGF1dG9tYXRhLCIgcm9ib3RzIHdpdGggYSBjZW50cmFsIG5lcnZvdXMgc3lzdGVtLiBUaGUgaWRlYSB0aGF0IGFuIGFudCBvciBhbiBlbGVwaGFudCBtaWdodCBoYXZlIHRob3VnaHRzLCBpbWFnZXMsIGV4cGVyaWVuY2VzIG9yIGJlbGllZnMgd2FzIG5vdCBqdXN0IGxhdWdoYWJsZTsgaXQgd2FzIHNlZGl0aW91cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=13>But over the last decade along a flood of new date have emerged that would seem to have turned the tide definitively in Dr. Griffin's favor. In Arizona an African Gray parrot named Alex can identify colors and shapes as well as any preschooler. In Georgia a bonobo ape named Kanzi converses with his trainer via computer keyboard and watches Tarzan movies on television. Researchers at the Massachusetts Institute of Technology published evidence suggesting that rats dream. Animal enrichment programs featuring mental puzzles disguised as toys and treats have become a standard part of daily life at zoos. And in the spring of 2001 the University of Chicago Press issued an updated edition of Dr. Griffin's 1992 book, Animal Minds. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTEzPkJ1dCBvdmVyIHRoZSBsYXN0IGRlY2FkZSBhbG9uZyBhIGZsb29kIG9mIG5ldyBkYXRlIGhhdmUgZW1lcmdlZCB0aGF0IHdvdWxkIHNlZW0gdG8gaGF2ZSB0dXJuZWQgdGhlIHRpZGUgZGVmaW5pdGl2ZWx5IGluIERyLiBHcmlmZmluJ3MgZmF2b3IuIEluIEFyaXpvbmEgYW4gQWZyaWNhbiBHcmF5IHBhcnJvdCBuYW1lZCBBbGV4IGNhbiBpZGVudGlmeSBjb2xvcnMgYW5kIHNoYXBlcyBhcyB3ZWxsIGFzIGFueSBwcmVzY2hvb2xlci4gSW4gR2VvcmdpYSBhIGJvbm9ibyBhcGUgbmFtZWQgS2FuemkgY29udmVyc2VzIHdpdGggaGlzIHRyYWluZXIgdmlhIGNvbXB1dGVyIGtleWJvYXJkIGFuZCB3YXRjaGVzIFRhcnphbiBtb3ZpZXMgb24gdGVsZXZpc2lvbi4gUmVzZWFyY2hlcnMgYXQgdGhlIE1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgcHVibGlzaGVkIGV2aWRlbmNlIHN1Z2dlc3RpbmcgdGhhdCByYXRzIGRyZWFtLiBBbmltYWwgZW5yaWNobWVudCBwcm9ncmFtcyBmZWF0dXJpbmcgbWVudGFsIHB1enpsZXMgZGlzZ3Vpc2VkIGFzIHRveXMgYW5kIHRyZWF0cyBoYXZlIGJlY29tZSBhIHN0YW5kYXJkIHBhcnQgb2YgZGFpbHkgbGlmZSBhdCB6b29zLiBBbmQgaW4gdGhlIHNwcmluZyBvZiAyMDAxIHRoZSBVbml2ZXJzaXR5IG9mIENoaWNhZ28gUHJlc3MgaXNzdWVkIGFuIHVwZGF0ZWQgZWRpdGlvbiBvZiBEci4gR3JpZmZpbidzIDE5OTIgYm9vaywgQW5pbWFsIE1pbmRzLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">If Dr. Griffin views these developments as vindication, he is too modest to say so. "We know so very little," he said. "Scientist, including me, have come to be very cautious. Early work on primate gestures and facial expressions was grossly misinterpreted."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPklmIERyLiBHcmlmZmluIHZpZXdzIHRoZXNlIGRldmVsb3BtZW50cyBhcyB2aW5kaWNhdGlvbiwgaGUgaXMgdG9vIG1vZGVzdCB0byBzYXkgc28uICJXZSBrbm93IHNvIHZlcnkgbGl0dGxlLCIgaGUgc2FpZC4gIlNjaWVudGlzdCwgaW5jbHVkaW5nIG1lLCBoYXZlIGNvbWUgdG8gYmUgdmVyeSBjYXV0aW91cy4gRWFybHkgd29yayBvbiBwcmltYXRlIGdlc3R1cmVzIGFuZCBmYWNpYWwgZXhwcmVzc2lvbnMgd2FzIGdyb3NzbHkgbWlzaW50ZXJwcmV0ZWQuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In fact the recent findings appear to have only intensified the debate over animal consciousness. Lately, experts on the human min－philosophers and psychologists－have been weighing in alongside the scientist. For if it turns out that animals can think, then the idea that consciousness is unique to humans－a basic assumption in Western thought－becomes impossible to maintain.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGZhY3QgdGhlIHJlY2VudCBmaW5kaW5ncyBhcHBlYXIgdG8gaGF2ZSBvbmx5IGludGVuc2lmaWVkIHRoZSBkZWJhdGUgb3ZlciBhbmltYWwgY29uc2Npb3VzbmVzcy4gTGF0ZWx5LCBleHBlcnRzIG9uIHRoZSBodW1hbiBtaW7vvI1waGlsb3NvcGhlcnMgYW5kIHBzeWNob2xvZ2lzdHPvvI1oYXZlIGJlZW4gd2VpZ2hpbmcgaW4gYWxvbmdzaWRlIHRoZSBzY2llbnRpc3QuIEZvciBpZiBpdCB0dXJucyBvdXQgdGhhdCBhbmltYWxzIGNhbiB0aGluaywgdGhlbiB0aGUgaWRlYSB0aGF0IGNvbnNjaW91c25lc3MgaXMgdW5pcXVlIHRvIGh1bWFuc++8jWEgYmFzaWMgYXNzdW1wdGlvbiBpbiBXZXN0ZXJuIHRob3VnaHTvvI1iZWNvbWVzIGltcG9zc2libGUgdG8gbWFpbnRhaW4uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Clearly Gus, Alex and Kanzi aren't automatons, but just how conscious are they? Do they experience pain, desire and other sensations the way humans do? (Philosophers call this phenomenal consciousness.) Are they capable of thinking about their experiences? (Philosophers call this self-consciousness.) Do they have beliefs? What about remembering the past? Do earthworms have some form of consciousness? What about salamanders? Is it even possible to study an animal's inner life? The range of opinion on these questions is nearly as great as the number of possible answers. Tufts University philosopher Daniel C. Dennett declared the state of thinking on animal consciousness a "mess."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNsZWFybHkgR3VzLCBBbGV4IGFuZCBLYW56aSBhcmVuJ3QgYXV0b21hdG9ucywgYnV0IGp1c3QgaG93IGNvbnNjaW91cyBhcmUgdGhleT8gRG8gdGhleSBleHBlcmllbmNlIHBhaW4sIGRlc2lyZSBhbmQgb3RoZXIgc2Vuc2F0aW9ucyB0aGUgd2F5IGh1bWFucyBkbz8gKFBoaWxvc29waGVycyBjYWxsIHRoaXMgcGhlbm9tZW5hbCBjb25zY2lvdXNuZXNzLikgQXJlIHRoZXkgY2FwYWJsZSBvZiB0aGlua2luZyBhYm91dCB0aGVpciBleHBlcmllbmNlcz8gKFBoaWxvc29waGVycyBjYWxsIHRoaXMgc2VsZi1jb25zY2lvdXNuZXNzLikgRG8gdGhleSBoYXZlIGJlbGllZnM/IFdoYXQgYWJvdXQgcmVtZW1iZXJpbmcgdGhlIHBhc3Q/IERvIGVhcnRod29ybXMgaGF2ZSBzb21lIGZvcm0gb2YgY29uc2Npb3VzbmVzcz8gV2hhdCBhYm91dCBzYWxhbWFuZGVycz8gSXMgaXQgZXZlbiBwb3NzaWJsZSB0byBzdHVkeSBhbiBhbmltYWwncyBpbm5lciBsaWZlPyBUaGUgcmFuZ2Ugb2Ygb3BpbmlvbiBvbiB0aGVzZSBxdWVzdGlvbnMgaXMgbmVhcmx5IGFzIGdyZWF0IGFzIHRoZSBudW1iZXIgb2YgcG9zc2libGUgYW5zd2Vycy4gVHVmdHMgVW5pdmVyc2l0eSBwaGlsb3NvcGhlciBEYW5pZWwgQy4gRGVubmV0dCBkZWNsYXJlZCB0aGUgc3RhdGUgb2YgdGhpbmtpbmcgb24gYW5pbWFsIGNvbnNjaW91c25lc3MgYSAibWVzcy4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">On the one hand there are the pro-consciousness philosophers like Colin McGinn, a professor at Rutgers University, and Peter Singer, a professor of bioethics at Princeton and a leading animal rights advocate. These scholars believe that most if not all animals have phenomenal consciousness. "I think it's plain common sense that animals have conscious states," Mr. McGinn said. "Animals way down to insects have phenomenal consciousness. It's a primitive feature of the biological world."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uIHRoZSBvbmUgaGFuZCB0aGVyZSBhcmUgdGhlIHByby1jb25zY2lvdXNuZXNzIHBoaWxvc29waGVycyBsaWtlIENvbGluIE1jR2lubiwgYSBwcm9mZXNzb3IgYXQgUnV0Z2VycyBVbml2ZXJzaXR5LCBhbmQgUGV0ZXIgU2luZ2VyLCBhIHByb2Zlc3NvciBvZiBiaW9ldGhpY3MgYXQgUHJpbmNldG9uIGFuZCBhIGxlYWRpbmcgYW5pbWFsIHJpZ2h0cyBhZHZvY2F0ZS4gVGhlc2Ugc2Nob2xhcnMgYmVsaWV2ZSB0aGF0IG1vc3QgaWYgbm90IGFsbCBhbmltYWxzIGhhdmUgcGhlbm9tZW5hbCBjb25zY2lvdXNuZXNzLiAiSSB0aGluayBpdCdzIHBsYWluIGNvbW1vbiBzZW5zZSB0aGF0IGFuaW1hbHMgaGF2ZSBjb25zY2lvdXMgc3RhdGVzLCIgTXIuIE1jR2lubiBzYWlkLiAiQW5pbWFscyB3YXkgZG93biB0byBpbnNlY3RzIGhhdmUgcGhlbm9tZW5hbCBjb25zY2lvdXNuZXNzLiBJdCdzIGEgcHJpbWl0aXZlIGZlYXR1cmUgb2YgdGhlIGJpb2xvZ2ljYWwgd29ybGQuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=16>On the other hand there are the skeptics like Mr. Dennett and Herbert Terrace, a psychologist at Columbia University. What "are you seeing when you see sentience in a creature?" Mr. Dennett asked in a 1995 essay. "It is in fact ridiculously easy to induce powerful intuitions of not just sentience but full-blown consciousness (ripe with malevolence or curiosity or friendship) by exposing people to quite simple robots made to move in familiar mammalian ways at mammalian speeds." </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE2Pk9uIHRoZSBvdGhlciBoYW5kIHRoZXJlIGFyZSB0aGUgc2tlcHRpY3MgbGlrZSBNci4gRGVubmV0dCBhbmQgSGVyYmVydCBUZXJyYWNlLCBhIHBzeWNob2xvZ2lzdCBhdCBDb2x1bWJpYSBVbml2ZXJzaXR5LiBXaGF0ICJhcmUgeW91IHNlZWluZyB3aGVuIHlvdSBzZWUgc2VudGllbmNlIGluIGEgY3JlYXR1cmU/IiBNci4gRGVubmV0dCBhc2tlZCBpbiBhIDE5OTUgZXNzYXkuICJJdCBpcyBpbiBmYWN0IHJpZGljdWxvdXNseSBlYXN5IHRvIGluZHVjZSBwb3dlcmZ1bCBpbnR1aXRpb25zIG9mIG5vdCBqdXN0IHNlbnRpZW5jZSBidXQgZnVsbC1ibG93biBjb25zY2lvdXNuZXNzIChyaXBlIHdpdGggbWFsZXZvbGVuY2Ugb3IgY3VyaW9zaXR5IG9yIGZyaWVuZHNoaXApIGJ5IGV4cG9zaW5nIHBlb3BsZSB0byBxdWl0ZSBzaW1wbGUgcm9ib3RzIG1hZGUgdG8gbW92ZSBpbiBmYW1pbGlhciBtYW1tYWxpYW4gd2F5cyBhdCBtYW1tYWxpYW4gc3BlZWRzLiIgPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dr. Griffin appears mildly amused by the debate his work has helped unleash. During his visit to the Central Park Zoo he gave a talk to donors and trustees. "Daniel Dennett calls the pursuit of animal consciousness a wild goose chase," he told the audience with a chuckle. "But there are no neurons or synapses in the human brain that aren't also in animals. It's as difficult to disprove animal consciousness as it is to prove it."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRyLiBHcmlmZmluIGFwcGVhcnMgbWlsZGx5IGFtdXNlZCBieSB0aGUgZGViYXRlIGhpcyB3b3JrIGhhcyBoZWxwZWQgdW5sZWFzaC4gRHVyaW5nIGhpcyB2aXNpdCB0byB0aGUgQ2VudHJhbCBQYXJrIFpvbyBoZSBnYXZlIGEgdGFsayB0byBkb25vcnMgYW5kIHRydXN0ZWVzLiAiRGFuaWVsIERlbm5ldHQgY2FsbHMgdGhlIHB1cnN1aXQgb2YgYW5pbWFsIGNvbnNjaW91c25lc3MgYSB3aWxkIGdvb3NlIGNoYXNlLCIgaGUgdG9sZCB0aGUgYXVkaWVuY2Ugd2l0aCBhIGNodWNrbGUuICJCdXQgdGhlcmUgYXJlIG5vIG5ldXJvbnMgb3Igc3luYXBzZXMgaW4gdGhlIGh1bWFuIGJyYWluIHRoYXQgYXJlbid0IGFsc28gaW4gYW5pbWFscy4gSXQncyBhcyBkaWZmaWN1bHQgdG8gZGlzcHJvdmUgYW5pbWFsIGNvbnNjaW91c25lc3MgYXMgaXQgaXMgdG8gcHJvdmUgaXQuIjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">11. The passage most strongly suggests that animal enrichment programs at zoos are designed primarily to do which of the following?
-<div class = "choice">A. Offer the animals mental stimulation they might otherwise have had in the wild</div>
-<div class = "choice">B. Trick the animals into eating well-balanced diets</div>
-<div class = "choice">C. Encourage the animals to be more tolerant of humans</div>
-<div class = "choice">D. Prepare the animals for potential release into their natural habitats</div>
-</div>
-###################
-<div class = "quiz">12. Gus the polar bear's behavior with the synthetic log in the first paragraph would most likely be explained by Daniel Dennett and Herbert Terrace as which of the following?
-<div class = "choice">F. Physical response to an external stimulus</div>
-<div class = "choice">G. Mental stimulation for animal enrichment</div>
-<div class = "choice">H. Evidence of phenomenal consciousness</div>
-<div class = "choice">J. An example of self-consciousness</div>
-</div>
-###################
-<div class = "quiz">13. The examples supplied in the fourth paragraph (lines 22-35) appear most to undermine the position held by:
-<div class = "choice">A. the passage's author.</div>
-<div class = "choice">B. Donald Griffin.</div>
-<div class = "choice">C. Colin McGinn.</div>
-<div class = "choice">D. Daniel Dennett.</div>
-</div>
-###################
-<div class = "quiz">14. The passage indicates that animal rights advocates would be most likely to agree with which of the following statements?
-<div class = "choice">F. Some animal species ought to be called stimulus response automata.</div>
-<div class = "choice">G. Animal enrichment programs are well intentioned but ultimately ineffective.</div>
-<div class = "choice">H. Most animal species have some degree of phenomenal consciousness.</div>
-<div class = "choice">J. The behaviorist doctrine provides ample support for animal rights.</div>
-</div>
-###################
-<div class = "quiz">15. The passage most strongly suggests that today's controversy over whether animals think was prompted by which of the following?
-<div class = "choice">A. Early scientific work on primate gestures</div>
-<div class = "choice">B. A book written by Donald Griffin in the 1970s</div>
-<div class = "choice">C. A parrot that can identify colors</div>
-<div class = "choice">D. Programs at the Central Park Zoo</div>
-</div>
-###################
-<div class = "quiz">16. The main idea of the quotation from Daniel Dennett's essay in the ninth paragraph (lines 73-82) is that:
-<div class = "choice">F. robots can be built to act extremely similar to humans.</div>
-<div class = "choice">G. mammals are quite capable of curiosity and friendship.</div>
-<div class = "choice">H. people can easily infer attributes of consciousness from nonconscious things.</div>
-<div class = "choice">J. insects are much less likely than mammals to have phenomenal consciousness.</div>
-</div>
-###################
-<div class = "quiz">17. The primary function of the last paragraph is to:
-<div class = "choice">A. suggest that even without definite proof, Donald Griffin is not willing to relinquish his theory.</div>
-<div class = "choice">B. summarize in detail the evidence used by Donald Griffin in support of his theory.</div>
-<div class = "choice">C. illustrate Donald Griffin's resentment of Daniel Dennett's philosophical position.</div>
-<div class = "choice">D. imply that Donald Griffin is prepared to provide new evidence countering Daniel Dennett's statements.</div>
-</div>
-###################
-<div class = "quiz">18. According to the passage, stimulus response automate are:
-<div class = "choice">F. puzzles disguised as toys.</div>
-<div class = "choice">G. robots with a central nervous system.</div>
-<div class = "choice">H. parrots that can identify colors.</div>
-<div class = "choice">J. machines made to move like mammals.</div>
-</div>
-###################
-<div class = "quiz">19. According to the passage, Donald Griffin believes that scientists' early work on primate gestures and facial expressions was:
-<div class = "choice">A. overly cautious.</div>
-<div class = "choice">B. badly misconstrued.</div>
-<div class = "choice">C. somewhat laughable.</div>
-<div class = "choice">D. largely satisfactory.</div>
-</div>
-###################
-<div class = "quiz">20. According to the passage, the experience of pain and desire by humans is called which of the following by philosophers?
-<div class = "choice">F. Phenomenal consciousness</div>
-<div class = "choice">G. Stimulus response</div>
-<div class = "choice">H. Primate gestures</div>
-<div class = "choice">J. Sentience</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHBhc3NhZ2UgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0IGFuaW1hbCBlbnJpY2htZW50IHByb2dyYW1zIGF0IHpvb3MgYXJlIGRlc2lnbmVkIHByaW1hcmlseSB0byBkbyB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE9mZmVyIHRoZSBhbmltYWxzIG1lbnRhbCBzdGltdWxhdGlvbiB0aGV5IG1pZ2h0IG90aGVyd2lzZSBoYXZlIGhhZCBpbiB0aGUgd2lsZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRyaWNrIHRoZSBhbmltYWxzIGludG8gZWF0aW5nIHdlbGwtYmFsYW5jZWQgZGlldHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEVuY291cmFnZSB0aGUgYW5pbWFscyB0byBiZSBtb3JlIHRvbGVyYW50IG9mIGh1bWFuczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFByZXBhcmUgdGhlIGFuaW1hbHMgZm9yIHBvdGVudGlhbCByZWxlYXNlIGludG8gdGhlaXIgbmF0dXJhbCBoYWJpdGF0czwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gR3VzIHRoZSBwb2xhciBiZWFyJ3MgYmVoYXZpb3Igd2l0aCB0aGUgc3ludGhldGljIGxvZyBpbiB0aGUgZmlyc3QgcGFyYWdyYXBoIHdvdWxkIG1vc3QgbGlrZWx5IGJlIGV4cGxhaW5lZCBieSBEYW5pZWwgRGVubmV0dCBhbmQgSGVyYmVydCBUZXJyYWNlIGFzIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBoeXNpY2FsIHJlc3BvbnNlIHRvIGFuIGV4dGVybmFsIHN0aW11bHVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1lbnRhbCBzdGltdWxhdGlvbiBmb3IgYW5pbWFsIGVucmljaG1lbnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEV2aWRlbmNlIG9mIHBoZW5vbWVuYWwgY29uc2Npb3VzbmVzczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFuIGV4YW1wbGUgb2Ygc2VsZi1jb25zY2lvdXNuZXNzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIGV4YW1wbGVzIHN1cHBsaWVkIGluIHRoZSBmb3VydGggcGFyYWdyYXBoIChsaW5lcyAyMi0zNSkgYXBwZWFyIG1vc3QgdG8gdW5kZXJtaW5lIHRoZSBwb3NpdGlvbiBoZWxkIGJ5Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBwYXNzYWdlJ3MgYXV0aG9yLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIERvbmFsZCBHcmlmZmluLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENvbGluIE1jR2lubi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERhbmllbCBEZW5uZXR0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgYW5pbWFsIHJpZ2h0cyBhZHZvY2F0ZXMgd291bGQgYmUgbW9zdCBsaWtlbHkgdG8gYWdyZWUgd2l0aCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNvbWUgYW5pbWFsIHNwZWNpZXMgb3VnaHQgdG8gYmUgY2FsbGVkIHN0aW11bHVzIHJlc3BvbnNlIGF1dG9tYXRhLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFuaW1hbCBlbnJpY2htZW50IHByb2dyYW1zIGFyZSB3ZWxsIGludGVudGlvbmVkIGJ1dCB1bHRpbWF0ZWx5IGluZWZmZWN0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1vc3QgYW5pbWFsIHNwZWNpZXMgaGF2ZSBzb21lIGRlZ3JlZSBvZiBwaGVub21lbmFsIGNvbnNjaW91c25lc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBiZWhhdmlvcmlzdCBkb2N0cmluZSBwcm92aWRlcyBhbXBsZSBzdXBwb3J0IGZvciBhbmltYWwgcmlnaHRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIHBhc3NhZ2UgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0IHRvZGF5J3MgY29udHJvdmVyc3kgb3ZlciB3aGV0aGVyIGFuaW1hbHMgdGhpbmsgd2FzIHByb21wdGVkIGJ5IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEVhcmx5IHNjaWVudGlmaWMgd29yayBvbiBwcmltYXRlIGdlc3R1cmVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEEgYm9vayB3cml0dGVuIGJ5IERvbmFsZCBHcmlmZmluIGluIHRoZSAxOTcwczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgcGFycm90IHRoYXQgY2FuIGlkZW50aWZ5IGNvbG9yczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFByb2dyYW1zIGF0IHRoZSBDZW50cmFsIFBhcmsgWm9vPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIG1haW4gaWRlYSBvZiB0aGUgcXVvdGF0aW9uIGZyb20gRGFuaWVsIERlbm5ldHQncyBlc3NheSBpbiB0aGUgbmludGggcGFyYWdyYXBoIChsaW5lcyA3My04MikgaXMgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJvYm90cyBjYW4gYmUgYnVpbHQgdG8gYWN0IGV4dHJlbWVseSBzaW1pbGFyIHRvIGh1bWFucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1hbW1hbHMgYXJlIHF1aXRlIGNhcGFibGUgb2YgY3VyaW9zaXR5IGFuZCBmcmllbmRzaGlwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBlb3BsZSBjYW4gZWFzaWx5IGluZmVyIGF0dHJpYnV0ZXMgb2YgY29uc2Npb3VzbmVzcyBmcm9tIG5vbmNvbnNjaW91cyB0aGluZ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluc2VjdHMgYXJlIG11Y2ggbGVzcyBsaWtlbHkgdGhhbiBtYW1tYWxzIHRvIGhhdmUgcGhlbm9tZW5hbCBjb25zY2lvdXNuZXNzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIHByaW1hcnkgZnVuY3Rpb24gb2YgdGhlIGxhc3QgcGFyYWdyYXBoIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN1Z2dlc3QgdGhhdCBldmVuIHdpdGhvdXQgZGVmaW5pdGUgcHJvb2YsIERvbmFsZCBHcmlmZmluIGlzIG5vdCB3aWxsaW5nIHRvIHJlbGlucXVpc2ggaGlzIHRoZW9yeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHN1bW1hcml6ZSBpbiBkZXRhaWwgdGhlIGV2aWRlbmNlIHVzZWQgYnkgRG9uYWxkIEdyaWZmaW4gaW4gc3VwcG9ydCBvZiBoaXMgdGhlb3J5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlsbHVzdHJhdGUgRG9uYWxkIEdyaWZmaW4ncyByZXNlbnRtZW50IG9mIERhbmllbCBEZW5uZXR0J3MgcGhpbG9zb3BoaWNhbCBwb3NpdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGltcGx5IHRoYXQgRG9uYWxkIEdyaWZmaW4gaXMgcHJlcGFyZWQgdG8gcHJvdmlkZSBuZXcgZXZpZGVuY2UgY291bnRlcmluZyBEYW5pZWwgRGVubmV0dCdzIHN0YXRlbWVudHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBzdGltdWx1cyByZXNwb25zZSBhdXRvbWF0ZSBhcmU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHB1enpsZXMgZGlzZ3Vpc2VkIGFzIHRveXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJvYm90cyB3aXRoIGEgY2VudHJhbCBuZXJ2b3VzIHN5c3RlbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBhcnJvdHMgdGhhdCBjYW4gaWRlbnRpZnkgY29sb3JzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1hY2hpbmVzIG1hZGUgdG8gbW92ZSBsaWtlIG1hbW1hbHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBEb25hbGQgR3JpZmZpbiBiZWxpZXZlcyB0aGF0IHNjaWVudGlzdHMnIGVhcmx5IHdvcmsgb24gcHJpbWF0ZSBnZXN0dXJlcyBhbmQgZmFjaWFsIGV4cHJlc3Npb25zIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG92ZXJseSBjYXV0aW91cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJhZGx5IG1pc2NvbnN0cnVlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNvbWV3aGF0IGxhdWdoYWJsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxhcmdlbHkgc2F0aXNmYWN0b3J5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgZXhwZXJpZW5jZSBvZiBwYWluIGFuZCBkZXNpcmUgYnkgaHVtYW5zIGlzIGNhbGxlZCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGJ5IHBoaWxvc29waGVycz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBoZW5vbWVuYWwgY29uc2Npb3VzbmVzczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFN0aW11bHVzIHJlc3BvbnNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFByaW1hdGUgZ2VzdHVyZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNlbnRpZW5jZTwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

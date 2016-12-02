@@ -1,97 +1,97 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from Chance in the House of Fate: A Natural History of Heredity by Jennifer Ackerman (○C2001 by Jennifer Ackerman).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I once chanced on a collection of brilliantly colored paintings of- South American insects, some of them nightmarish-a giant cockroach scaling a pineapple, for example-but most of them showing the metamorphosis of moths and butterflies from egg to winged insect, the life stages presented as if they were happening all at once.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBDaGFuY2UgaW4gdGhlIEhvdXNlIG9mIEZhdGU6IEEgTmF0dXJhbCBIaXN0b3J5IG9mIEhlcmVkaXR5IGJ5IEplbm5pZmVyIEFja2VybWFuICjil4tDMjAwMSBieSBKZW5uaWZlciBBY2tlcm1hbikuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgb25jZSBjaGFuY2VkIG9uIGEgY29sbGVjdGlvbiBvZiBicmlsbGlhbnRseSBjb2xvcmVkIHBhaW50aW5ncyBvZi0gU291dGggQW1lcmljYW4gaW5zZWN0cywgc29tZSBvZiB0aGVtIG5pZ2h0bWFyaXNoLWEgZ2lhbnQgY29ja3JvYWNoIHNjYWxpbmcgYSBwaW5lYXBwbGUsIGZvciBleGFtcGxlLWJ1dCBtb3N0IG9mIHRoZW0gc2hvd2luZyB0aGUgbWV0YW1vcnBob3NpcyBvZiBtb3RocyBhbmQgYnV0dGVyZmxpZXMgZnJvbSBlZ2cgdG8gd2luZ2VkIGluc2VjdCwgdGhlIGxpZmUgc3RhZ2VzIHByZXNlbnRlZCBhcyBpZiB0aGV5IHdlcmUgaGFwcGVuaW5nIGFsbCBhdCBvbmNlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The paintings were the work of Maria Sybilla Merian, a naturalist arid artist who left her home in Amsterdam in 1699 at the age of fifty-two and sailed to South America to paint the life cycles of insects in the jungles of Suriname. The journey would have been remarkable in any century, but was especially so in the late 1600s, when savants were still poking for answers to nature's riddles in the ruins of the classical world, quoting the authority of Pliny, the natural philosopher who had confidently proposed that butterflies were born from dew, and drawing their knowledge of animals from medieval bestiaries. Birds were categorized according to notions of nobility, from most noble (eagles and hawks), to wise (owls), to big (ostriches), and on down the line. Caterpillars, if they were considered at all, were classified apart from winged insects and Jumped together with worms and serpents.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBwYWludGluZ3Mgd2VyZSB0aGUgd29yayBvZiBNYXJpYSBTeWJpbGxhIE1lcmlhbiwgYSBuYXR1cmFsaXN0IGFyaWQgYXJ0aXN0IHdobyBsZWZ0IGhlciBob21lIGluIEFtc3RlcmRhbSBpbiAxNjk5IGF0IHRoZSBhZ2Ugb2YgZmlmdHktdHdvIGFuZCBzYWlsZWQgdG8gU291dGggQW1lcmljYSB0byBwYWludCB0aGUgbGlmZSBjeWNsZXMgb2YgaW5zZWN0cyBpbiB0aGUganVuZ2xlcyBvZiBTdXJpbmFtZS4gVGhlIGpvdXJuZXkgd291bGQgaGF2ZSBiZWVuIHJlbWFya2FibGUgaW4gYW55IGNlbnR1cnksIGJ1dCB3YXMgZXNwZWNpYWxseSBzbyBpbiB0aGUgbGF0ZSAxNjAwcywgd2hlbiBzYXZhbnRzIHdlcmUgc3RpbGwgcG9raW5nIGZvciBhbnN3ZXJzIHRvIG5hdHVyZSdzIHJpZGRsZXMgaW4gdGhlIHJ1aW5zIG9mIHRoZSBjbGFzc2ljYWwgd29ybGQsIHF1b3RpbmcgdGhlIGF1dGhvcml0eSBvZiBQbGlueSwgdGhlIG5hdHVyYWwgcGhpbG9zb3BoZXIgd2hvIGhhZCBjb25maWRlbnRseSBwcm9wb3NlZCB0aGF0IGJ1dHRlcmZsaWVzIHdlcmUgYm9ybiBmcm9tIGRldywgYW5kIGRyYXdpbmcgdGhlaXIga25vd2xlZGdlIG9mIGFuaW1hbHMgZnJvbSBtZWRpZXZhbCBiZXN0aWFyaWVzLiBCaXJkcyB3ZXJlIGNhdGVnb3JpemVkIGFjY29yZGluZyB0byBub3Rpb25zIG9mIG5vYmlsaXR5LCBmcm9tIG1vc3Qgbm9ibGUgKGVhZ2xlcyBhbmQgaGF3a3MpLCB0byB3aXNlIChvd2xzKSwgdG8gYmlnIChvc3RyaWNoZXMpLCBhbmQgb24gZG93biB0aGUgbGluZS4gQ2F0ZXJwaWxsYXJzLCBpZiB0aGV5IHdlcmUgY29uc2lkZXJlZCBhdCBhbGwsIHdlcmUgY2xhc3NpZmllZCBhcGFydCBmcm9tIHdpbmdlZCBpbnNlY3RzIGFuZCBKdW1wZWQgdG9nZXRoZXIgd2l0aCB3b3JtcyBhbmQgc2VycGVudHMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From the Suriname capital, Paramaribo. Merian sailed up the Suriname River, stopping along its banks to collect caterpillars, then watching them closely for signs of metamorphosis and painting them at the <font id=39>pivotal moment</font>. Two years later, sick of heat and fever, she returned home, loaded with specimens and hundreds of paintings of iguanas and geckos, fighting snakes and frog-eating scorpions, and dozens of moths and butter-flies in various life stages on their native cassava, guava, batata, and pawpaw plants.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyb20gdGhlIFN1cmluYW1lIGNhcGl0YWwsIFBhcmFtYXJpYm8uIE1lcmlhbiBzYWlsZWQgdXAgdGhlIFN1cmluYW1lIFJpdmVyLCBzdG9wcGluZyBhbG9uZyBpdHMgYmFua3MgdG8gY29sbGVjdCBjYXRlcnBpbGxhcnMsIHRoZW4gd2F0Y2hpbmcgdGhlbSBjbG9zZWx5IGZvciBzaWducyBvZiBtZXRhbW9ycGhvc2lzIGFuZCBwYWludGluZyB0aGVtIGF0IHRoZSA8Zm9udCBpZD0zOT5waXZvdGFsIG1vbWVudDwvZm9udD4uIFR3byB5ZWFycyBsYXRlciwgc2ljayBvZiBoZWF0IGFuZCBmZXZlciwgc2hlIHJldHVybmVkIGhvbWUsIGxvYWRlZCB3aXRoIHNwZWNpbWVucyBhbmQgaHVuZHJlZHMgb2YgcGFpbnRpbmdzIG9mIGlndWFuYXMgYW5kIGdlY2tvcywgZmlnaHRpbmcgc25ha2VzIGFuZCBmcm9nLWVhdGluZyBzY29ycGlvbnMsIGFuZCBkb3plbnMgb2YgbW90aHMgYW5kIGJ1dHRlci1mbGllcyBpbiB2YXJpb3VzIGxpZmUgc3RhZ2VzIG9uIHRoZWlyIG5hdGl2ZSBjYXNzYXZhLCBndWF2YSwgYmF0YXRhLCBhbmQgcGF3cGF3IHBsYW50cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>If we are to believe her journal, Merian knew the details of metamorphosis perhaps more intimately than the savants. Her paintings and journals address the step-by-step transfiguration not just of Lepidoptera (butterflies and moths) but also of amphibians. In 1686 she had precociously noted the developmental odyssey of frogs from black grains that "fed on the white slime that surrounded them," to tiny creatures that grew little tails so that they could swim, then eyes, then, eight days later, two little feet 4ifrom the skin at the back and after a further eight days two little feet at the front… [like] small crocodiles. Thereafter the tail rotted away and they became proper frogs and jumped onto the land." </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM1PklmIHdlIGFyZSB0byBiZWxpZXZlIGhlciBqb3VybmFsLCBNZXJpYW4ga25ldyB0aGUgZGV0YWlscyBvZiBtZXRhbW9ycGhvc2lzIHBlcmhhcHMgbW9yZSBpbnRpbWF0ZWx5IHRoYW4gdGhlIHNhdmFudHMuIEhlciBwYWludGluZ3MgYW5kIGpvdXJuYWxzIGFkZHJlc3MgdGhlIHN0ZXAtYnktc3RlcCB0cmFuc2ZpZ3VyYXRpb24gbm90IGp1c3Qgb2YgTGVwaWRvcHRlcmEgKGJ1dHRlcmZsaWVzIGFuZCBtb3RocykgYnV0IGFsc28gb2YgYW1waGliaWFucy4gSW4gMTY4NiBzaGUgaGFkIHByZWNvY2lvdXNseSBub3RlZCB0aGUgZGV2ZWxvcG1lbnRhbCBvZHlzc2V5IG9mIGZyb2dzIGZyb20gYmxhY2sgZ3JhaW5zIHRoYXQgImZlZCBvbiB0aGUgd2hpdGUgc2xpbWUgdGhhdCBzdXJyb3VuZGVkIHRoZW0sIiB0byB0aW55IGNyZWF0dXJlcyB0aGF0IGdyZXcgbGl0dGxlIHRhaWxzIHNvIHRoYXQgdGhleSBjb3VsZCBzd2ltLCB0aGVuIGV5ZXMsIHRoZW4sIGVpZ2h0IGRheXMgbGF0ZXIsIHR3byBsaXR0bGUgZmVldCA0aWZyb20gdGhlIHNraW4gYXQgdGhlIGJhY2sgYW5kIGFmdGVyIGEgZnVydGhlciBlaWdodCBkYXlzIHR3byBsaXR0bGUgZmVldCBhdCB0aGUgZnJvbnTigD8gW2xpa2VdIHNtYWxsIGNyb2NvZGlsZXMuIFRoZXJlYWZ0ZXIgdGhlIHRhaWwgcm90dGVkIGF3YXkgYW5kIHRoZXkgYmVjYW1lIHByb3BlciBmcm9ncyBhbmQganVtcGVkIG9udG8gdGhlIGxhbmQuIiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Just what was going on in this rotting away wasn't discovered until 1842, not long after the discovery of animal cells. That year a German biologist, Carl Vogt, peered through a microscope at a developing midwife toad, Alytes obstetricans. Vogt saw that the individual cells of the toad's notochord were being "resorbed," as he put it, swallowed up or sucked in. But he didn't think his observations important, and they slipped into oblivion.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkp1c3Qgd2hhdCB3YXMgZ29pbmcgb24gaW4gdGhpcyByb3R0aW5nIGF3YXkgd2Fzbid0IGRpc2NvdmVyZWQgdW50aWwgMTg0Miwgbm90IGxvbmcgYWZ0ZXIgdGhlIGRpc2NvdmVyeSBvZiBhbmltYWwgY2VsbHMuIFRoYXQgeWVhciBhIEdlcm1hbiBiaW9sb2dpc3QsIENhcmwgVm9ndCwgcGVlcmVkIHRocm91Z2ggYSBtaWNyb3Njb3BlIGF0IGEgZGV2ZWxvcGluZyBtaWR3aWZlIHRvYWQsIEFseXRlcyBvYnN0ZXRyaWNhbnMuIFZvZ3Qgc2F3IHRoYXQgdGhlIGluZGl2aWR1YWwgY2VsbHMgb2YgdGhlIHRvYWQncyBub3RvY2hvcmQgd2VyZSBiZWluZyAicmVzb3JiZWQsIiBhcyBoZSBwdXQgaXQsIHN3YWxsb3dlZCB1cCBvciBzdWNrZWQgaW4uIEJ1dCBoZSBkaWRuJ3QgdGhpbmsgaGlzIG9ic2VydmF0aW9ucyBpbXBvcnRhbnQsIGFuZCB0aGV5IHNsaXBwZWQgaW50byBvYmxpdmlvbi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=37>Twenty years later, scientists observing metamorphosis in flies, ants, and beetles noted in the changing muscles and glands the wholesale death of cells. Later studies of developing bones, muscles, and other tissues in mammals suggested that the shaping of ear, eye, nose, tongue, intestinal tract, and trachea involves some removal of excess cells. By the turn of the century it was clear: to have shapely toads, butterflies, babies, one must have cell death. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM3PlR3ZW50eSB5ZWFycyBsYXRlciwgc2NpZW50aXN0cyBvYnNlcnZpbmcgbWV0YW1vcnBob3NpcyBpbiBmbGllcywgYW50cywgYW5kIGJlZXRsZXMgbm90ZWQgaW4gdGhlIGNoYW5naW5nIG11c2NsZXMgYW5kIGdsYW5kcyB0aGUgd2hvbGVzYWxlIGRlYXRoIG9mIGNlbGxzLiBMYXRlciBzdHVkaWVzIG9mIGRldmVsb3BpbmcgYm9uZXMsIG11c2NsZXMsIGFuZCBvdGhlciB0aXNzdWVzIGluIG1hbW1hbHMgc3VnZ2VzdGVkIHRoYXQgdGhlIHNoYXBpbmcgb2YgZWFyLCBleWUsIG5vc2UsIHRvbmd1ZSwgaW50ZXN0aW5hbCB0cmFjdCwgYW5kIHRyYWNoZWEgaW52b2x2ZXMgc29tZSByZW1vdmFsIG9mIGV4Y2VzcyBjZWxscy4gQnkgdGhlIHR1cm4gb2YgdGhlIGNlbnR1cnkgaXQgd2FzIGNsZWFyOiB0byBoYXZlIHNoYXBlbHkgdG9hZHMsIGJ1dHRlcmZsaWVzLCBiYWJpZXMsIG9uZSBtdXN0IGhhdmUgY2VsbCBkZWF0aC4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The idea that <font id=40>death would chaperone growth</font> was not easy to accept. But at least the role of cell death in the miracle of development seemed of minor importance. Then, in the early l970s, a ream of Scottish pathologists examined different kinds of tissue and discovered that cells have two radically different ways of expiring. Those that die accidentally, by injury or poisoning, swell up and pop like balloons-a visually 0bvious process the team called necrosis. But those that die naturally during development do so by quiet, efficient, nearly invisible means. This way of dying (which the team called apoptosis from the Greek for "a falling") may be inconspicuous, but it goes on all the time in every kind of tissue, in nearly every kind of animal.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpZGVhIHRoYXQgPGZvbnQgaWQ9NDA+ZGVhdGggd291bGQgY2hhcGVyb25lIGdyb3d0aDwvZm9udD4gd2FzIG5vdCBlYXN5IHRvIGFjY2VwdC4gQnV0IGF0IGxlYXN0IHRoZSByb2xlIG9mIGNlbGwgZGVhdGggaW4gdGhlIG1pcmFjbGUgb2YgZGV2ZWxvcG1lbnQgc2VlbWVkIG9mIG1pbm9yIGltcG9ydGFuY2UuIFRoZW4sIGluIHRoZSBlYXJseSBsOTcwcywgYSByZWFtIG9mIFNjb3R0aXNoIHBhdGhvbG9naXN0cyBleGFtaW5lZCBkaWZmZXJlbnQga2luZHMgb2YgdGlzc3VlIGFuZCBkaXNjb3ZlcmVkIHRoYXQgY2VsbHMgaGF2ZSB0d28gcmFkaWNhbGx5IGRpZmZlcmVudCB3YXlzIG9mIGV4cGlyaW5nLiBUaG9zZSB0aGF0IGRpZSBhY2NpZGVudGFsbHksIGJ5IGluanVyeSBvciBwb2lzb25pbmcsIHN3ZWxsIHVwIGFuZCBwb3AgbGlrZSBiYWxsb29ucy1hIHZpc3VhbGx5IDBidmlvdXMgcHJvY2VzcyB0aGUgdGVhbSBjYWxsZWQgbmVjcm9zaXMuIEJ1dCB0aG9zZSB0aGF0IGRpZSBuYXR1cmFsbHkgZHVyaW5nIGRldmVsb3BtZW50IGRvIHNvIGJ5IHF1aWV0LCBlZmZpY2llbnQsIG5lYXJseSBpbnZpc2libGUgbWVhbnMuIFRoaXMgd2F5IG9mIGR5aW5nICh3aGljaCB0aGUgdGVhbSBjYWxsZWQgYXBvcHRvc2lzIGZyb20gdGhlIEdyZWVrIGZvciAiYSBmYWxsaW5nIikgbWF5IGJlIGluY29uc3BpY3VvdXMsIGJ1dCBpdCBnb2VzIG9uIGFsbCB0aGUgdGltZSBpbiBldmVyeSBraW5kIG9mIHRpc3N1ZSwgaW4gbmVhcmx5IGV2ZXJ5IGtpbmQgb2YgYW5pbWFsLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Cell death is the night-side of growth. Cells die en masse at incredible speed, not just to sculpt our body structures before we are born, but throughout our life, about ten billion each day, to adjust cell numbers, eliminate the injured, and dispose of cells deemed obsolete. We don't diminish in the face of such massive, incessant loss for the simple reason that new cells are born in trade for those that die. The body precisely balances cell birth and cell death.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNlbGwgZGVhdGggaXMgdGhlIG5pZ2h0LXNpZGUgb2YgZ3Jvd3RoLiBDZWxscyBkaWUgZW4gbWFzc2UgYXQgaW5jcmVkaWJsZSBzcGVlZCwgbm90IGp1c3QgdG8gc2N1bHB0IG91ciBib2R5IHN0cnVjdHVyZXMgYmVmb3JlIHdlIGFyZSBib3JuLCBidXQgdGhyb3VnaG91dCBvdXIgbGlmZSwgYWJvdXQgdGVuIGJpbGxpb24gZWFjaCBkYXksIHRvIGFkanVzdCBjZWxsIG51bWJlcnMsIGVsaW1pbmF0ZSB0aGUgaW5qdXJlZCwgYW5kIGRpc3Bvc2Ugb2YgY2VsbHMgZGVlbWVkIG9ic29sZXRlLiBXZSBkb24ndCBkaW1pbmlzaCBpbiB0aGUgZmFjZSBvZiBzdWNoIG1hc3NpdmUsIGluY2Vzc2FudCBsb3NzIGZvciB0aGUgc2ltcGxlIHJlYXNvbiB0aGF0IG5ldyBjZWxscyBhcmUgYm9ybiBpbiB0cmFkZSBmb3IgdGhvc2UgdGhhdCBkaWUuIFRoZSBib2R5IHByZWNpc2VseSBiYWxhbmNlcyBjZWxsIGJpcnRoIGFuZCBjZWxsIGRlYXRoLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">31. The passage can best be described as an exploration of the:
-<div class = "choice">A. natural processes observed by Merian and elaborated on by subsequent researchers.</div>
-<div class = "choice">B. historical significance of Merian as a pioneering female naturalist.</div>
-<div class = "choice">C. artistic merit of Merian's paintings of animal metamorphosis.</div>
-<div class = "choice">D. developmental processes by which the frogs Merian observed grew their tails.</div>
-</div>
-###################
-<div class = "quiz">32. The author's overall tone when discussing Merian's work can best be described as:
-<div class = "choice">F. dismissive.</div>
-<div class = "choice">G. neutral.</div>
-<div class = "choice">H. admiring.</div>
-<div class = "choice">J. skeptical.</div>
-</div>
-###################
-<div class = "quiz">33. The author makes clear that her encounter with a collection of Merian's paintings was:
-<div class = "choice">A. unplanned.</div>
-<div class = "choice">B. in a museum.</div>
-<div class = "choice">C. in her youth.</div>
-<div class = "choice">D. brief.</div>
-</div>
-###################
-<div class = "quiz">34. The author characterizes the work of Pliny as an example of the kind of:
-<div class = "choice">F. impressive authority that Merian consulted when conceptualizing her paintings.</div>
-<div class = "choice">G. outdated resource that many researchers in Merian's day were still relying on.</div>
-<div class = "choice">H. ancient wisdom that fortunately had survived the decline in knowledge during medieval times.</div>
-<div class = "choice">J. fraudulent work that seventeenth-century, savants were exposing to public scorn.</div>
-</div>
-###################
-<div class = "quiz">35. It can reasonably be concluded that the quotations in the fourth paragraph (lines 35-48) are taken from:
-<div class = "choice">A. Pliny's writings.</div>
-<div class = "choice">B. Merian's journal.</div>
-<div class = "choice">C. Vogt's analysis of Alytes obstetricans.</div>
-<div class = "choice">D. an anonymous seventeenth-century savant's research paper.</div>
-</div>
-###################
-<div class = "quiz">36. Based on the passage, what reaction, if any, did Vogt's peers have to his work with Alytes obstetricans?
-<div class = "choice">F. They remained unaware of Vogt's findings, as Vogt hadn't thought them worth sharing.</div>
-<div class = "choice">G. They applauded Vogt for studying animal cells, which were a recent discovery.</div>
-<div class = "choice">H. They labeled Vogt's approach an ineffective way to study organisms microscopically.</div>
-<div class = "choice">J. They encouraged Vogt to proceed to more advanced studies of toads.</div>
-</div>
-###################
-<div class = "quiz">37. The main point of the sixth paragraph (lines 58-66) is that:
-<div class = "choice">A. many animals experience metamorphosis at some point in their life cycle.</div>
-<div class = "choice">B. cell death is critical to the proper development of insects and animals.</div>
-<div class = "choice">C. a wider array of animals needs to be studied in order to understand cell death.</div>
-<div class = "choice">D. animal organs undergo a complicated shaping process.</div>
-</div>
-###################
-<div class = "quiz">38. Which of the following claims does the author make about the rank of caterpillars in the medieval bestiaries?
-<div class = "choice">F. Caterpillars were ranked just below ostriches.</div>
-<div class = "choice">G. Caterpillars were ranked with winged insects</div>
-<div class = "choice">H. Caterpillars were ranked with worms and serpents when ranked at all.</div>
-<div class = "choice">J. Caterpillars weren't considered worthy of inclusion, let alone ranked.</div>
-</div>
-###################
-<div class = "quiz">39. It can reasonably be inferred that the phrase pivotal moment in lines 28-29 most nearly refers to a moment of:
-<div class = "choice">A. transformation.</div>
-<div class = "choice">B. extinction.</div>
-<div class = "choice">C. birth.</div>
-<div class = "choice">D. observation.</div>
-</div>
-###################
-<div class = "quiz">40. According to the passage, the notion that "death would chaperone growth" (line 67) was initially met with:
-<div class = "choice">F. relief.</div>
-<div class = "choice">G. awe.</div>
-<div class = "choice">H. curiosity.</div>
-<div class = "choice">J. resistance.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIHBhc3NhZ2UgY2FuIGJlc3QgYmUgZGVzY3JpYmVkIGFzIGFuIGV4cGxvcmF0aW9uIG9mIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG5hdHVyYWwgcHJvY2Vzc2VzIG9ic2VydmVkIGJ5IE1lcmlhbiBhbmQgZWxhYm9yYXRlZCBvbiBieSBzdWJzZXF1ZW50IHJlc2VhcmNoZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhpc3RvcmljYWwgc2lnbmlmaWNhbmNlIG9mIE1lcmlhbiBhcyBhIHBpb25lZXJpbmcgZmVtYWxlIG5hdHVyYWxpc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFydGlzdGljIG1lcml0IG9mIE1lcmlhbidzIHBhaW50aW5ncyBvZiBhbmltYWwgbWV0YW1vcnBob3Npcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRldmVsb3BtZW50YWwgcHJvY2Vzc2VzIGJ5IHdoaWNoIHRoZSBmcm9ncyBNZXJpYW4gb2JzZXJ2ZWQgZ3JldyB0aGVpciB0YWlscy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gVGhlIGF1dGhvcidzIG92ZXJhbGwgdG9uZSB3aGVuIGRpc2N1c3NpbmcgTWVyaWFuJ3Mgd29yayBjYW4gYmVzdCBiZSBkZXNjcmliZWQgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRpc21pc3NpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG5ldXRyYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFkbWlyaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNrZXB0aWNhbC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gVGhlIGF1dGhvciBtYWtlcyBjbGVhciB0aGF0IGhlciBlbmNvdW50ZXIgd2l0aCBhIGNvbGxlY3Rpb24gb2YgTWVyaWFuJ3MgcGFpbnRpbmdzIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHVucGxhbm5lZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluIGEgbXVzZXVtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluIGhlciB5b3V0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJyaWVmLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIGF1dGhvciBjaGFyYWN0ZXJpemVzIHRoZSB3b3JrIG9mIFBsaW55IGFzIGFuIGV4YW1wbGUgb2YgdGhlIGtpbmQgb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGltcHJlc3NpdmUgYXV0aG9yaXR5IHRoYXQgTWVyaWFuIGNvbnN1bHRlZCB3aGVuIGNvbmNlcHR1YWxpemluZyBoZXIgcGFpbnRpbmdzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG91dGRhdGVkIHJlc291cmNlIHRoYXQgbWFueSByZXNlYXJjaGVycyBpbiBNZXJpYW4ncyBkYXkgd2VyZSBzdGlsbCByZWx5aW5nIG9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuY2llbnQgd2lzZG9tIHRoYXQgZm9ydHVuYXRlbHkgaGFkIHN1cnZpdmVkIHRoZSBkZWNsaW5lIGluIGtub3dsZWRnZSBkdXJpbmcgbWVkaWV2YWwgdGltZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZyYXVkdWxlbnQgd29yayB0aGF0IHNldmVudGVlbnRoLWNlbnR1cnksIHNhdmFudHMgd2VyZSBleHBvc2luZyB0byBwdWJsaWMgc2Nvcm4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgY29uY2x1ZGVkIHRoYXQgdGhlIHF1b3RhdGlvbnMgaW4gdGhlIGZvdXJ0aCBwYXJhZ3JhcGggKGxpbmVzIDM1LTQ4KSBhcmUgdGFrZW4gZnJvbTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFBsaW55J3Mgd3JpdGluZ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE1lcmlhbidzIGpvdXJuYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFZvZ3QncyBhbmFseXNpcyBvZiBBbHl0ZXMgb2JzdGV0cmljYW5zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIGFub255bW91cyBzZXZlbnRlZW50aC1jZW50dXJ5IHNhdmFudCdzIHJlc2VhcmNoIHBhcGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdoYXQgcmVhY3Rpb24sIGlmIGFueSwgZGlkIFZvZ3QncyBwZWVycyBoYXZlIHRvIGhpcyB3b3JrIHdpdGggQWx5dGVzIG9ic3RldHJpY2Fucz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZXkgcmVtYWluZWQgdW5hd2FyZSBvZiBWb2d0J3MgZmluZGluZ3MsIGFzIFZvZ3QgaGFkbid0IHRob3VnaHQgdGhlbSB3b3J0aCBzaGFyaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZXkgYXBwbGF1ZGVkIFZvZ3QgZm9yIHN0dWR5aW5nIGFuaW1hbCBjZWxscywgd2hpY2ggd2VyZSBhIHJlY2VudCBkaXNjb3ZlcnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZXkgbGFiZWxlZCBWb2d0J3MgYXBwcm9hY2ggYW4gaW5lZmZlY3RpdmUgd2F5IHRvIHN0dWR5IG9yZ2FuaXNtcyBtaWNyb3Njb3BpY2FsbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZXkgZW5jb3VyYWdlZCBWb2d0IHRvIHByb2NlZWQgdG8gbW9yZSBhZHZhbmNlZCBzdHVkaWVzIG9mIHRvYWRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIG1haW4gcG9pbnQgb2YgdGhlIHNpeHRoIHBhcmFncmFwaCAobGluZXMgNTgtNjYpIGlzIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG1hbnkgYW5pbWFscyBleHBlcmllbmNlIG1ldGFtb3JwaG9zaXMgYXQgc29tZSBwb2ludCBpbiB0aGVpciBsaWZlIGN5Y2xlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNlbGwgZGVhdGggaXMgY3JpdGljYWwgdG8gdGhlIHByb3BlciBkZXZlbG9wbWVudCBvZiBpbnNlY3RzIGFuZCBhbmltYWxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGEgd2lkZXIgYXJyYXkgb2YgYW5pbWFscyBuZWVkcyB0byBiZSBzdHVkaWVkIGluIG9yZGVyIHRvIHVuZGVyc3RhbmQgY2VsbCBkZWF0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuaW1hbCBvcmdhbnMgdW5kZXJnbyBhIGNvbXBsaWNhdGVkIHNoYXBpbmcgcHJvY2Vzcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjbGFpbXMgZG9lcyB0aGUgYXV0aG9yIG1ha2UgYWJvdXQgdGhlIHJhbmsgb2YgY2F0ZXJwaWxsYXJzIGluIHRoZSBtZWRpZXZhbCBiZXN0aWFyaWVzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIENhdGVycGlsbGFycyB3ZXJlIHJhbmtlZCBqdXN0IGJlbG93IG9zdHJpY2hlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIENhdGVycGlsbGFycyB3ZXJlIHJhbmtlZCB3aXRoIHdpbmdlZCBpbnNlY3RzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIENhdGVycGlsbGFycyB3ZXJlIHJhbmtlZCB3aXRoIHdvcm1zIGFuZCBzZXJwZW50cyB3aGVuIHJhbmtlZCBhdCBhbGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIENhdGVycGlsbGFycyB3ZXJlbid0IGNvbnNpZGVyZWQgd29ydGh5IG9mIGluY2x1c2lvbiwgbGV0IGFsb25lIHJhbmtlZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgcGhyYXNlIHBpdm90YWwgbW9tZW50IGluIGxpbmVzIDI4LTI5IG1vc3QgbmVhcmx5IHJlZmVycyB0byBhIG1vbWVudCBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRyYW5zZm9ybWF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4dGluY3Rpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJpcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG9ic2VydmF0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgbm90aW9uIHRoYXQgImRlYXRoIHdvdWxkIGNoYXBlcm9uZSBncm93dGgiIChsaW5lIDY3KSB3YXMgaW5pdGlhbGx5IG1ldCB3aXRoOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJlbGllZi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF3ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGN1cmlvc2l0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlc2lzdGFuY2UuPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

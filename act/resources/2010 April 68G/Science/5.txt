@@ -1,56 +1,56 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ethylene oxide, a widely used industrial chemical, has the structure shown below:</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV0aHlsZW5lIG94aWRlLCBhIHdpZGVseSB1c2VkIGluZHVzdHJpYWwgY2hlbWljYWwsIGhhcyB0aGUgc3RydWN0dXJlIHNob3duIGJlbG93OjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\98.png' width = '149'height = '83'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcOTgucG5nJyB3aWR0aCA9ICcxNDknaGVpZ2h0ID0gJzgzJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l-3 each show how a property of solutions of, ethylene oxide in H<sub>2</sub>O varies as the concentration of ethylene oxide increases at 1 atmosphere (atm) of pressure. Concentration is given as the percent ethylene oxide by mass in H<sub>2</sub>O (% EO). Figure l shows how density at l0℃ varies with % EO. Figure 2 shows how freezing point varies with % EO. The bubble point is the lowest temperature at which bubbles of gas (in this case, ethylene oxide) form in a solution. Figure 3 shows how bubble point varies with % EO.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgbC0zIGVhY2ggc2hvdyBob3cgYSBwcm9wZXJ0eSBvZiBzb2x1dGlvbnMgb2YsIGV0aHlsZW5lIG94aWRlIGluIEg8c3ViPjI8L3N1Yj5PIHZhcmllcyBhcyB0aGUgY29uY2VudHJhdGlvbiBvZiBldGh5bGVuZSBveGlkZSBpbmNyZWFzZXMgYXQgMSBhdG1vc3BoZXJlIChhdG0pIG9mIHByZXNzdXJlLiBDb25jZW50cmF0aW9uIGlzIGdpdmVuIGFzIHRoZSBwZXJjZW50IGV0aHlsZW5lIG94aWRlIGJ5IG1hc3MgaW4gSDxzdWI+Mjwvc3ViPk8gKCUgRU8pLiBGaWd1cmUgbCBzaG93cyBob3cgZGVuc2l0eSBhdCBsMOKEPyB2YXJpZXMgd2l0aCAlIEVPLiBGaWd1cmUgMiBzaG93cyBob3cgZnJlZXppbmcgcG9pbnQgdmFyaWVzIHdpdGggJSBFTy4gVGhlIGJ1YmJsZSBwb2ludCBpcyB0aGUgbG93ZXN0IHRlbXBlcmF0dXJlIGF0IHdoaWNoIGJ1YmJsZXMgb2YgZ2FzIChpbiB0aGlzIGNhc2UsIGV0aHlsZW5lIG94aWRlKSBmb3JtIGluIGEgc29sdXRpb24uIEZpZ3VyZSAzIHNob3dzIGhvdyBidWJibGUgcG9pbnQgdmFyaWVzIHdpdGggJSBFTy48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\99.png' width = '424'height = '320'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcOTkucG5nJyB3aWR0aCA9ICc0MjQnaGVpZ2h0ID0gJzMyMCcvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\100.png' width = '477'height = '365'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTAwLnBuZycgd2lkdGggPSAnNDc3J2hlaWdodCA9ICczNjUnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\101.png' width = '476'height = '404'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTAxLnBuZycgd2lkdGggPSAnNDc2J2hlaWdodCA9ICc0MDQnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Old Word Industries, The Dow Chemical Company, Shell Chemical Company, Sunoco, Inc, and Equistar Chemicals, LP, Ethyleneoxide (2nd ed.).  1999.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIE9sZCBXb3JkIEluZHVzdHJpZXMsIFRoZSBEb3cgQ2hlbWljYWwgQ29tcGFueSwgU2hlbGwgQ2hlbWljYWwgQ29tcGFueSwgU3Vub2NvLCBJbmMsIGFuZCBFcXVpc3RhciBDaGVtaWNhbHMsIExQLCBFdGh5bGVuZW94aWRlICgybmQgZWQuKS4gIDE5OTkuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">25. According to Figure 3, the lowest temperature at which bubbles will form in a 30% EO solution at l atm is closest to which of the following?
-<div class = "choice">A. 1l℃</div>
-<div class = "choice">B. 25℃</div>
-<div class = "choice">C. 50℃</div>
-<div class = "choice">D. 97℃</div>
-</div>
-###################
-<div class = "quiz">26. At l0℃ and l atm, as % EO increases from 0% to 100%, the mass per unit volume:
-<div class = "choice">F. increases only.</div>
-<div class = "choice">G. decreases only.</div>
-<div class = "choice">H. increases, then decreases.</div>
-<div class = "choice">J. decreases, then increases.</div>
-</div>
-###################
-<div class = "quiz">27. At l atm, which of the following solutions will have the lowest melting point?
-<div class = "choice">A. 20% EO</div>
-<div class = "choice">B. 40% EO</div>
-<div class = "choice">C. 60% EO</div>
-<div class = "choice">D. 80% EO</div>
-</div>
-###################
-<div class = "quiz">28. According to Figures 2 and 3, at l atm, a solution of ethylene oxide in H<sub>2</sub>O that has a bubble point of 15℃ will have a freezing point closest to which of the following?
-<div class = "choice">F. 0℃</div>
-<div class = "choice">G. 3℃</div>
-<div class = "choice">H. 7℃</div>
-<div class = "choice">J. 10℃</div>
-</div>
-###################
-<div class = "quiz">29. Based on Figure 2, at 1 atm, which of the following solutions has a freezing point closest to the freezing  point of pure H<sub>2</sub>O ?
-<div class = "choice">A. 11% EO</div>
-<div class = "choice">B. 39% EO</div>
-<div class = "choice">C. 61% EO</div>
-<div class = "choice">D. 89% EO</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCB0aGUgbG93ZXN0IHRlbXBlcmF0dXJlIGF0IHdoaWNoIGJ1YmJsZXMgd2lsbCBmb3JtIGluIGEgMzAlIEVPIHNvbHV0aW9uIGF0IGwgYXRtIGlzIGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDFs4oQ/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDI14oQ/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDUw4oQ/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDk34oQ/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQXQgbDDihD8gYW5kIGwgYXRtLCBhcyAlIEVPIGluY3JlYXNlcyBmcm9tIDAlIHRvIDEwMCUsIHRoZSBtYXNzIHBlciB1bml0IHZvbHVtZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlcywgdGhlbiBkZWNyZWFzZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlY3JlYXNlcywgdGhlbiBpbmNyZWFzZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQXQgbCBhdG0sIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc29sdXRpb25zIHdpbGwgaGF2ZSB0aGUgbG93ZXN0IG1lbHRpbmcgcG9pbnQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIwJSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQwJSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDYwJSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDgwJSBFTzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQWNjb3JkaW5nIHRvIEZpZ3VyZXMgMiBhbmQgMywgYXQgbCBhdG0sIGEgc29sdXRpb24gb2YgZXRoeWxlbmUgb3hpZGUgaW4gSDxzdWI+Mjwvc3ViPk8gdGhhdCBoYXMgYSBidWJibGUgcG9pbnQgb2YgMTXihD8gd2lsbCBoYXZlIGEgZnJlZXppbmcgcG9pbnQgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDDihD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDPihD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDfihD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEw4oQ/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQmFzZWQgb24gRmlndXJlIDIsIGF0IDEgYXRtLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHNvbHV0aW9ucyBoYXMgYSBmcmVlemluZyBwb2ludCBjbG9zZXN0IHRvIHRoZSBmcmVlemluZyAgcG9pbnQgb2YgcHVyZSBIPHN1Yj4yPC9zdWI+TyA/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDExJSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM5JSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDYxJSBFTzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDg5JSBFTzwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

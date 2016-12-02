@@ -1,127 +1,127 @@
-<h1>Innovation and Prior Discoveries</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The <font id=61>philosopher, John Stuart Mill</font> wrote that "all good things which exist are the fruits of originality." <font id=62>However, </font> Mill probably also understood that <font id=63>the fact is that</font> no human invention is absolutely original. Every innovation—whether scientific or artistic—is influenced by prior discoveries.</div>
+PGgxPklubm92YXRpb24gYW5kIFByaW9yIERpc2NvdmVyaWVzPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSA8Zm9udCBpZD02MT5waGlsb3NvcGhlciwgSm9obiBTdHVhcnQgTWlsbDwvZm9udD4gd3JvdGUgdGhhdCAiYWxsIGdvb2QgdGhpbmdzIHdoaWNoIGV4aXN0IGFyZSB0aGUgZnJ1aXRzIG9mIG9yaWdpbmFsaXR5LiIgPGZvbnQgaWQ9NjI+SG93ZXZlciwgPC9mb250PiBNaWxsIHByb2JhYmx5IGFsc28gdW5kZXJzdG9vZCB0aGF0IDxmb250IGlkPTYzPnRoZSBmYWN0IGlzIHRoYXQ8L2ZvbnQ+IG5vIGh1bWFuIGludmVudGlvbiBpcyBhYnNvbHV0ZWx5IG9yaWdpbmFsLiBFdmVyeSBpbm5vdmF0aW9u4oCUd2hldGhlciBzY2llbnRpZmljIG9yIGFydGlzdGlj4oCUaXMgaW5mbHVlbmNlZCBieSBwcmlvciBkaXNjb3Zlcmllcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Albert Einstein is often considered the most original scientist of the modern age. <font id=64>Therefore, he </font>acknowledged his reliance on the work of others, such as mathematician Emmy Noether—who herself relied on prior discoveries. The mathematical theorem that now bears her last name <font id=65>65</font> helped <font id=66>lie the foundation for</font> quantum physics and allowed Einstein to formulate his theory of general relativity.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsYmVydCBFaW5zdGVpbiBpcyBvZnRlbiBjb25zaWRlcmVkIHRoZSBtb3N0IG9yaWdpbmFsIHNjaWVudGlzdCBvZiB0aGUgbW9kZXJuIGFnZS4gPGZvbnQgaWQ9NjQ+VGhlcmVmb3JlLCBoZSA8L2ZvbnQ+YWNrbm93bGVkZ2VkIGhpcyByZWxpYW5jZSBvbiB0aGUgd29yayBvZiBvdGhlcnMsIHN1Y2ggYXMgbWF0aGVtYXRpY2lhbiBFbW15IE5vZXRoZXLigJR3aG8gaGVyc2VsZiByZWxpZWQgb24gcHJpb3IgZGlzY292ZXJpZXMuIFRoZSBtYXRoZW1hdGljYWwgdGhlb3JlbSB0aGF0IG5vdyBiZWFycyBoZXIgbGFzdCBuYW1lIDxmb250IGlkPTY1PjY1PC9mb250PiBoZWxwZWQgPGZvbnQgaWQ9NjY+bGllIHRoZSBmb3VuZGF0aW9uIGZvcjwvZm9udD4gcXVhbnR1bSBwaHlzaWNzIGFuZCBhbGxvd2VkIEVpbnN0ZWluIHRvIGZvcm11bGF0ZSBoaXMgdGhlb3J5IG9mIGdlbmVyYWwgcmVsYXRpdml0eS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In literature, author Gertrude Stein epitomized originality. Her writing initially shocked readers because it departed from conventional grammar, storytelling, and style. Stein separated words from their fixed meanings. She used words not as representations of reality but as pure forms, <font id=67>as if</font> they were musical notes. Yet, as innovative as she was, <font id=68>borrowed</font> from the world of visual art, <font id=69>particularly</font> from the Cubist painters. Stein <font id=70>remarked, that</font> she was doing in writing what Pablo Picasso was doing in painting.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGxpdGVyYXR1cmUsIGF1dGhvciBHZXJ0cnVkZSBTdGVpbiBlcGl0b21pemVkIG9yaWdpbmFsaXR5LiBIZXIgd3JpdGluZyBpbml0aWFsbHkgc2hvY2tlZCByZWFkZXJzIGJlY2F1c2UgaXQgZGVwYXJ0ZWQgZnJvbSBjb252ZW50aW9uYWwgZ3JhbW1hciwgc3Rvcnl0ZWxsaW5nLCBhbmQgc3R5bGUuIFN0ZWluIHNlcGFyYXRlZCB3b3JkcyBmcm9tIHRoZWlyIGZpeGVkIG1lYW5pbmdzLiBTaGUgdXNlZCB3b3JkcyBub3QgYXMgcmVwcmVzZW50YXRpb25zIG9mIHJlYWxpdHkgYnV0IGFzIHB1cmUgZm9ybXMsIDxmb250IGlkPTY3PmFzIGlmPC9mb250PiB0aGV5IHdlcmUgbXVzaWNhbCBub3Rlcy4gWWV0LCBhcyBpbm5vdmF0aXZlIGFzIHNoZSB3YXMsIDxmb250IGlkPTY4PmJvcnJvd2VkPC9mb250PiBmcm9tIHRoZSB3b3JsZCBvZiB2aXN1YWwgYXJ0LCA8Zm9udCBpZD02OT5wYXJ0aWN1bGFybHk8L2ZvbnQ+IGZyb20gdGhlIEN1YmlzdCBwYWludGVycy4gU3RlaW4gPGZvbnQgaWQ9NzA+cmVtYXJrZWQsIHRoYXQ8L2ZvbnQ+IHNoZSB3YXMgZG9pbmcgaW4gd3JpdGluZyB3aGF0IFBhYmxvIFBpY2Fzc28gd2FzIGRvaW5nIGluIHBhaW50aW5nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It's often difficult to trace an innovation <font id=71>as</font> a single origin. Modern peanut butter, with its smooth, creamy texture and long shelf life, emerged <font id=72>in 1922</font> when Joseph L. Rosefield began selling his peanut butters in California. However, George A. Bayle, Jr., sold a peanut paste as early as 1890, and <font id=73>others</font> are known to have used ground or crushed peanuts centuries earlier.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0J3Mgb2Z0ZW4gZGlmZmljdWx0IHRvIHRyYWNlIGFuIGlubm92YXRpb24gPGZvbnQgaWQ9NzE+YXM8L2ZvbnQ+IGEgc2luZ2xlIG9yaWdpbi4gTW9kZXJuIHBlYW51dCBidXR0ZXIsIHdpdGggaXRzIHNtb290aCwgY3JlYW15IHRleHR1cmUgYW5kIGxvbmcgc2hlbGYgbGlmZSwgZW1lcmdlZCA8Zm9udCBpZD03Mj5pbiAxOTIyPC9mb250PiB3aGVuIEpvc2VwaCBMLiBSb3NlZmllbGQgYmVnYW4gc2VsbGluZyBoaXMgcGVhbnV0IGJ1dHRlcnMgaW4gQ2FsaWZvcm5pYS4gSG93ZXZlciwgR2VvcmdlIEEuIEJheWxlLCBKci4sIHNvbGQgYSBwZWFudXQgcGFzdGUgYXMgZWFybHkgYXMgMTg5MCwgYW5kIDxmb250IGlkPTczPm90aGVyczwvZm9udD4gYXJlIGtub3duIHRvIGhhdmUgdXNlZCBncm91bmQgb3IgY3J1c2hlZCBwZWFudXRzIGNlbnR1cmllcyBlYXJsaWVyLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although Mill praised originality, his own work drew on <font id=74>that, of fellow utilitarian philosopher</font> Jeremy Bentham. Mill and Bentham both advocated striving for the greatest good for the greatest number of people. Mill, however, <font id=75>will argue that</font> people should seek the highest quality—not only quantity—of pleasure. Mill, then, made an important contribution to philosophy—regardless of how original his ideas were.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIE1pbGwgcHJhaXNlZCBvcmlnaW5hbGl0eSwgaGlzIG93biB3b3JrIGRyZXcgb24gPGZvbnQgaWQ9NzQ+dGhhdCwgb2YgZmVsbG93IHV0aWxpdGFyaWFuIHBoaWxvc29waGVyPC9mb250PiBKZXJlbXkgQmVudGhhbS4gTWlsbCBhbmQgQmVudGhhbSBib3RoIGFkdm9jYXRlZCBzdHJpdmluZyBmb3IgdGhlIGdyZWF0ZXN0IGdvb2QgZm9yIHRoZSBncmVhdGVzdCBudW1iZXIgb2YgcGVvcGxlLiBNaWxsLCBob3dldmVyLCA8Zm9udCBpZD03NT53aWxsIGFyZ3VlIHRoYXQ8L2ZvbnQ+IHBlb3BsZSBzaG91bGQgc2VlayB0aGUgaGlnaGVzdCBxdWFsaXR54oCUbm90IG9ubHkgcXVhbnRpdHnigJRvZiBwbGVhc3VyZS4gTWlsbCwgdGhlbiwgbWFkZSBhbiBpbXBvcnRhbnQgY29udHJpYnV0aW9uIHRvIHBoaWxvc29waHnigJRyZWdhcmRsZXNzIG9mIGhvdyBvcmlnaW5hbCBoaXMgaWRlYXMgd2VyZS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. philosopher John Stuart Mill,</div>
-<div class = "choice">C. philosopher, John Stuart Mill,</div>
-<div class = "choice">D. philosopher John Stuart Mill</div>
-</div>
-###################
-<div class = "quiz">62. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. Nevertheless,</div>
-<div class = "choice">G. On the other hand,</div>
-<div class = "choice">H. Instead,</div>
-<div class = "choice">J. Still,</div>
-</div>
-###################
-<div class = "quiz">63.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. it's a fact that</div>
-<div class = "choice">C. as a matter of fact</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">64.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Even he, though,</div>
-<div class = "choice">H. In the meantime, he</div>
-<div class = "choice">J. He</div>
-</div>
-###################
-<div class = "quiz">65. At this point, the writer is considering adding the following true parenthetical information:
-(known as Noether's theorem)
-Should the writer make this addition here?
-<div class = "choice">A. Yes, because it supports the main point of this sentence.</div>
-<div class = "choice">B. Yes, because it offers evidence of Noether's innovative thinking.</div>
-<div class = "choice">C. No, because it merely restates information already provided.</div>
-<div class = "choice">D. No, because it fails to note that the theorem is in the field of mathematics.</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. lay the foundation on</div>
-<div class = "choice">H. lie the foundation on</div>
-<div class = "choice">J. lay the foundation for</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. as</div>
-<div class = "choice">C. it was as though</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">68.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. who borrowed</div>
-<div class = "choice">H. she borrowed</div>
-<div class = "choice">J. borrowing</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. most particular</div>
-<div class = "choice">C. in particularly</div>
-<div class = "choice">D. particular</div>
-</div>
-###################
-<div class = "quiz">70.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. remarked that:</div>
-<div class = "choice">H. remarked that,</div>
-<div class = "choice">J. remarked that</div>
-</div>
-###################
-<div class = "quiz">71.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. to</div>
-<div class = "choice">C. through</div>
-<div class = "choice">D. into</div>
-</div>
-###################
-<div class = "quiz">72. Which of the following placements for the underlined phrase would NOT be acceptable?
-<div class = "choice">F. Where it is now</div>
-<div class = "choice">G. After the word life (and before the comma)</div>
-<div class = "choice">H. After the word when (placing commas around the phrase)</div>
-<div class = "choice">J. After the word California (and before the period)</div>
-</div>
-###################
-<div class = "quiz">73. The writer is considering replacing the underlined word with the following phrase:
-Africans, the Chinese, and the Inca
-Given that the revision would create a true statement, should the writer make this revision here?
-<div class = "choice">A. Yes, because it adds details that help support the claim made in the paragraph's opening sentence.</div>
-<div class = "choice">B. Yes, because it proves the paragraph's point that Bayle's peanut paste was appreciated by people around the world.</div>
-<div class = "choice">C. No, because it creates a digression from the paragraph's focus on peanut butter.</div>
-<div class = "choice">D. No, because it undermines the paragraph's claim that Bayle sold a peanut paste as early as 1890.</div>
-</div>
-###################
-<div class = "quiz">74.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. that of fellow, utilitarian, philosopher</div>
-<div class = "choice">H. that, of fellow utilitarian philosopher,</div>
-<div class = "choice">J. that of fellow utilitarian philosopher</div>
-</div>
-###################
-<div class = "quiz">75.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. argued that</div>
-<div class = "choice">C. argued with</div>
-<div class = "choice">D. argues with</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBoaWxvc29waGVyIEpvaG4gU3R1YXJ0IE1pbGwsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBoaWxvc29waGVyLCBKb2huIFN0dWFydCBNaWxsLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBoaWxvc29waGVyIEpvaG4gU3R1YXJ0IE1pbGw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5ldmVydGhlbGVzcyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE9uIHRoZSBvdGhlciBoYW5kLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEluc3RlYWQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFN0aWxsLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGl0J3MgYSBmYWN0IHRoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFzIGEgbWF0dGVyIG9mIGZhY3Q8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEV2ZW4gaGUsIHRob3VnaCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEluIHRoZSBtZWFudGltZSwgaGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEhlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHBhcmVudGhldGljYWwgaW5mb3JtYXRpb246
+KGtub3duIGFzIE5vZXRoZXIncyB0aGVvcmVtKQ==
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGlzIGFkZGl0aW9uIGhlcmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBzdXBwb3J0cyB0aGUgbWFpbiBwb2ludCBvZiB0aGlzIHNlbnRlbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBvZmZlcnMgZXZpZGVuY2Ugb2YgTm9ldGhlcidzIGlubm92YXRpdmUgdGhpbmtpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IG1lcmVseSByZXN0YXRlcyBpbmZvcm1hdGlvbiBhbHJlYWR5IHByb3ZpZGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IGZhaWxzIHRvIG5vdGUgdGhhdCB0aGUgdGhlb3JlbSBpcyBpbiB0aGUgZmllbGQgb2YgbWF0aGVtYXRpY3MuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxheSB0aGUgZm91bmRhdGlvbiBvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxpZSB0aGUgZm91bmRhdGlvbiBvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxheSB0aGUgZm91bmRhdGlvbiBmb3I8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGl0IHdhcyBhcyB0aG91Z2g8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdobyBib3Jyb3dlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNoZSBib3Jyb3dlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJvcnJvd2luZzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vc3QgcGFydGljdWxhcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluIHBhcnRpY3VsYXJseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBhcnRpY3VsYXI8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJlbWFya2VkIHRoYXQ6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHJlbWFya2VkIHRoYXQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlbWFya2VkIHRoYXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRocm91Z2g8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGludG88L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBwbGFjZW1lbnRzIGZvciB0aGUgdW5kZXJsaW5lZCBwaHJhc2Ugd291bGQgTk9UIGJlIGFjY2VwdGFibGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdoZXJlIGl0IGlzIG5vdzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFmdGVyIHRoZSB3b3JkIGxpZmUgKGFuZCBiZWZvcmUgdGhlIGNvbW1hKTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFmdGVyIHRoZSB3b3JkIHdoZW4gKHBsYWNpbmcgY29tbWFzIGFyb3VuZCB0aGUgcGhyYXNlKTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFmdGVyIHRoZSB3b3JkIENhbGlmb3JuaWEgKGFuZCBiZWZvcmUgdGhlIHBlcmlvZCk8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyByZXBsYWNpbmcgdGhlIHVuZGVybGluZWQgd29yZCB3aXRoIHRoZSBmb2xsb3dpbmcgcGhyYXNlOg==
+QWZyaWNhbnMsIHRoZSBDaGluZXNlLCBhbmQgdGhlIEluY2E=
+R2l2ZW4gdGhhdCB0aGUgcmV2aXNpb24gd291bGQgY3JlYXRlIGEgdHJ1ZSBzdGF0ZW1lbnQsIHNob3VsZCB0aGUgd3JpdGVyIG1ha2UgdGhpcyByZXZpc2lvbiBoZXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBhZGRzIGRldGFpbHMgdGhhdCBoZWxwIHN1cHBvcnQgdGhlIGNsYWltIG1hZGUgaW4gdGhlIHBhcmFncmFwaCdzIG9wZW5pbmcgc2VudGVuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBwcm92ZXMgdGhlIHBhcmFncmFwaCdzIHBvaW50IHRoYXQgQmF5bGUncyBwZWFudXQgcGFzdGUgd2FzIGFwcHJlY2lhdGVkIGJ5IHBlb3BsZSBhcm91bmQgdGhlIHdvcmxkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IGNyZWF0ZXMgYSBkaWdyZXNzaW9uIGZyb20gdGhlIHBhcmFncmFwaCdzIGZvY3VzIG9uIHBlYW51dCBidXR0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IHVuZGVybWluZXMgdGhlIHBhcmFncmFwaCdzIGNsYWltIHRoYXQgQmF5bGUgc29sZCBhIHBlYW51dCBwYXN0ZSBhcyBlYXJseSBhcyAxODkwLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoYXQgb2YgZmVsbG93LCB1dGlsaXRhcmlhbiwgcGhpbG9zb3BoZXI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoYXQsIG9mIGZlbGxvdyB1dGlsaXRhcmlhbiBwaGlsb3NvcGhlciw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoYXQgb2YgZmVsbG93IHV0aWxpdGFyaWFuIHBoaWxvc29waGVyPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFyZ3VlZCB0aGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyZ3VlZCB3aXRoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyZ3VlcyB3aXRoPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,0 +1,58 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Ferromagnetic materials become magnetic when they are placed in an external magnetic field.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 are graphs of the total magnetic field, B, versus the intensity of the external magnetic field, H, for Materials X and Y, respectively. (<img src='file:\$$$\resources\2007 Dec 65E\imgs\251.png' width = '158'height = '38'/>, where <img src='file:\$$$\resources\2007 Dec 65E\imgs\252.png' width = '28'height = '38'/> is a constant and M is the ;magnetization of the material.) B varies as H is increased from zero, then decreased, then increased again, as shown by the directions of the arrows in the figures. If B is not zero when H returns to zero, a material has been magnetized.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When B or H is positive(negative), it is described as pointing north(south).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\253.png' width = '522'height = '429'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\254.png' width = '442'height = '375'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+###################
+<div class = "quiz">36. For Material X, the maximum positive value of B was obtained at an H closest to:
+<div class = "choice">F. ＋100 amperes/meter.</div>
+<div class = "choice">G. ＋200 amperes/meter.</div>
+<div class = "choice">H. ＋300 amperes/meter.</div>
+<div class = "choice">J. ＋400amperes/meter.</div>
+</div>
+###################
+<div class = "quiz">37. According to Figure 1, for Material X, when H was increasing from its most negative value and had a value of 0 amperes/meter, B had a value closest to:
+<div class = "choice">A. ＋1.3 T.</div>
+<div class = "choice">B. ＋0.5 T.</div>
+<div class = "choice">C. －0.7 T.</div>
+<div class = "choice">D. －1.1 T.</div>
+</div>
+###################
+<div class = "quiz">38. The remanence of a material is the value of B when H reaches zero after H has been decreased from its maximum positive value. According to Figure 2, the remanence of Material Y was closest to:
+<div class = "choice">F. 0.l T.</div>
+<div class = "choice">G. 0.3 T.</div>
+<div class = "choice">H. 0.5 T.</div>
+<div class = "choice">J. 0.7 T.</div>
+</div>
+###################
+<div class = "quiz">39. For a new ferromagnetic material, Z, a partial graph of B versus H is obtained.
+<img src='file:\$$$\resources\2007 Dec 65E\imgs\255.png' width = '134'height = '108'/>
+If Material Z behaves like Materials X and Y when H is varied as shown in Figures 1 and 2, the remainder of the graph of B versus H for Material Z will look most like which of the following?
+<div class = "choice">A. <img src='file:\$$$\resources\2007 Dec 65E\imgs\256.png' width = '109'height = '88'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2007 Dec 65E\imgs\258.png' width = '108'height = '83'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\257.png' width = '123'height = '83'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\259.png' width = '129'height = '85'/></div>
+</div>
+###################
+<div class = "quiz">40. Consider the most positive value of B and the most negative value of B on the graph in Figure 1. How are these two values of B related? The most negative value of B is equal to:
+<div class = "choice">F. －1 times the most positive value of B.</div>
+<div class = "choice">G. ＋1 times the most positive value of B.</div>
+<div class = "choice">H. －1 divided by the most positive value of B.</div>
+<div class = "choice">J. ＋1 divided by the most positive value of B.</div>
+<br>
+</div>
+###################

@@ -1,0 +1,58 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When DNA is heated to its melting temperature (T<sub>m</sub>) it denatures (breaks apart) into 2 strands. When cooled, the strands can relink to form. Less stable DNA, indicated by a lower T<sub>m</sub> (see Figure l).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\183.png' width = '534'height = '330'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how the absorbance of light by a solution of DNA molecules, each initially composed of 2 completely linked strands, varied as it was heated and then cooled. When the DNA began to denature, the absorbance increased sharply. When the DNA began to renature, the absorbance decreased sharply.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\184.png' width = '396'height = '408'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows how Tm for heating varied for identical solutions of DNA previously exposed to UV light for different amounts of time.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\185.png' width = '327'height = '372'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l-3 adapted from Charles M.. Lovett, Jr., Thomas N. Fitzgibbon, and Raymond Chang, "Effect of UV Irradiation on DNA as Studied by Its Thermal Denaturation." ©1989 by Division of Chemical Education, Inc., American Chemical Society.</div>
+
+<br>
+###################
+<div class = "quiz">23. According to Figure 2, as the heated DNA solution was cooled from 90℃ to 30℃, the absorbance:
+<div class = "choice">A. increased sharply, then leveled off, then decreased sharply.</div>
+<div class = "choice">B. decreased sharply, then. leveled off, then increased sharply.</div>
+<div class = "choice">C. stayed level, then increased sharply, then began to level off.</div>
+<div class = "choice">D. stayed level, then decreased sharply, then began to level off.</div>
+</div>
+###################
+<div class = "quiz">24. The following DNA molecules each consist of 2 identical strands. Based on Figure l, a solution of which DNA would most likely have the lowest melting temperature?
+<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\186.png' width = '160'height = '33'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2005 Dec 63C\imgs\187.png' width = '212'height = '33'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\188.png' width = '365'height = '52'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\189.png' width = '262'height = '33'/></div>
+</div>
+###################
+<div class = "quiz">25. A chemist claimed that for DNA molecules composed of 2 completely linked strands, the longer the DNA is exposed to UV light, the greater the number of links that are broken. Does Figure 3 support her claim?
+<div class = "choice">A. No; as exposure time increased, T<sub>m</sub> only increased.</div>
+<div class = "choice">B. No; as exposure time increased, T<sub>m</sub> only decreased.</div>
+<div class = "choice">C. Yes; as exposure time increased, T<sub>m</sub> only increased.</div>
+<div class = "choice">D. Yes; as exposure time increased, T<sub>m</sub> only decreased.</div>
+</div>
+###################
+<div class = "quiz">26. A heating/cooling curve was determined for a new solution containing only completely linked, double-stranded DNA molecules. The Tm for heating this solution was found to be l0℃ tower than the Tm for heating the solution represented in Figure 2. Which of the following best shows the heating/cooling curve of the new solution?
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\190.png' width = '100'height = '60'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\191.png' width = '137'height = '105'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\192.png' width = '125'height = '105'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\193.png' width = '130'height = '105'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\194.png' width = '109'height = '105'/></div>
+</div>
+###################
+<div class = "quiz">27. Based on Figure 1, how did the DNA molecules in the solution that was heated and cooled to produce Figure 2 compare with the DNA molecules in the solution prior to heating? Prior to  heating, each DNA molecule was
+<div class = "choice">A. 2 completely linked strands only; after heating and cooling, each DNA molecule was composed of more than 2 linked strands.</div>
+<div class = "choice">B. 2 completely linked strands only; after heating and cooling, only single strands of DNA remained.</div>
+<div class = "choice">C. more than 2 linked strands; after heating and cooling, each DNA molecule was composed of 2 completely linked strands only.</div>
+<div class = "choice">D. more than 2 linked strands; after heating and cooling, only single strands of DNA remained.</div>
+<br>
+</div>
+###################

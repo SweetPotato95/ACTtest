@@ -1,0 +1,104 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Farewell to Mr. Fix-It” by James Surowiecki (?2001 by The Conde Nast Publications Inc.).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ricardo Gomez runs an electronics-repair shop in Brooklyn. He started in the business fifteen years ago. Today, he can fix just about anything, from tape-eating VCRs to CD players with errant lasers. The one thing he can't fix is the fact that people don't seem to get things fixed anymore.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Years ago, I had more work," Gomez says. "But today prices have come down so much for things like TVs and VCRs that people would rather just buy a new one than fix an old one. That also means that I can't charge that much for repairs. It's a tough life, being a technician."</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">And it's getting tougher. The shelves at the back of Gomez's shop hold rows of TVs and VCRs with their innards spilling out, but Gomez makes just a slim profit on them. He charges around forty dollars to fix a VCR, a bit more for a stereo or a TV. There are some things he generally doesn't bother with—camcorders, some brands of disc-players—because it costs as much to buy parts as it would to buy a replacement. But at least he's still in business. By some accounts, only a fifth of the repair shops that were open fifteen years ago are around today. Even the computer-service business is slow. In the good old days, the repair trade was a business where you were guaranteed a steady stream of customers. Today, about all you're guaranteed is a long lunch break.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=11>That's because the repair business is on the wrong side of the most powerful trends in global manufacturing of the past twenty years: the sharp rise in quality and the steady decline in price. When it comes to most manufactured goods, these are the good old days. Products are more reliable and more durable than ever. In a recent survey, Consumer Reports found that, in most product categories, repair rates were' between just ten and twenty per cent.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The average life of a car is up by nearly half since 1970, All this, and stuff often actually costs less. Your run-of-the-mill VCR is forty per cent cheaper than it was seven years ago. High quality, low price: for the repair shop it's a deadly combination.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"You don't find the kinds of things you had decades ago, like toasters that could electrocute you or TVs that blew up," David Heim, the managing editor of Consumer Reports, says. "If you buy a TV, you're going to get a good picture, and if you buy a stereo you're going to get great sound. In fact, the guy who used to test stereos for us told me that you cannot buy a bad stereo. <font id=11>They don't make the parts anymore." </font></font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>Americans have become the most demanding consumers in the history of the world—we expect our machines to work. Nonetheless, we have a vestigial memory of the days when they didn't. How else to explain the fact that, every year, people shell out millions of dollars on extended warranties that they seldom get a chance to take advantage of? </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For manufacturers and retailers, warranties are easy money. Service plans usually run just two or three years and cover products that either will last much longer or are easily replaced. The consumer pays up front and rarely collects. You can see the results in the quarterly reports for any major electronics retailer. A big chunk of the profit margin comes from the sale of extended warranties. Some retailers even call customers months after a sale to offer repairs plans and warranties. Needless to say, they wouldn't make such offers if they really believed that your TV was likely to go on the fritz. But folks still bite. "People spend a lot of money for a little extra peace of mind," Heim says.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The lingering allure of warranties is understandable if you consider how recent the quality revolution is. Before the nineteen-eighties, most American corporations saw quality as something, that cost them a lot and profited them little. They believed that it didn't play a big role in a consumer's decision to buy a product, and that there was no way to make things both better and. cheaper. Japan's success in the seventies changed that. Japanese, companies, influenced by the ideas of the quality-control guru W. Edwards Deming, began winning market share by producing televisions, cameras, cars, and VCRs that were vastly superior to American products. Eventually, American companies woke up and adapted Deming as a prophet.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The impact of the quality revolution was immediate. The marketplace no longer tolerates shoddy products. Consumers have grown so accustomed to things being ever cheaper and ever more reliable that companies have to keep driving cost down and quality up just to stay in the game.</div>
+
+<br>
+###################
+<div class = "quiz">11. In the context of lines 28-49, the statement "They don't, make the parts anymore" (line 49) is used to support the idea that:
+<div class = "choice">A. it is hard for repair-shop owners to find the parts for electronic devices made before 1980.</div>
+<div class = "choice">B. no one knows as well as repair-shop owners how long it takes to receive parts from manufacturers.</div>
+<div class = "choice">C. consumers are increasingly frustrated over products that have to be replaced rather than repaired when they break down.</div>
+<div class = "choice">D. manufacturers are making products of a higher quality and durability than before.</div>
+</div>
+###################
+<div class = "quiz">12. It can reasonably be inferred from the passage that Heim's attitude toward the plight of repair workers is that they:
+<div class = "choice">F. unknowingly helped create the circumstances that are putting them business.</div>
+<div class = "choice">G. are casualties of changes in manufacturing practices that have many positive outcomes for consumers.</div>
+<div class = "choice">H. deserve the increased income from work that is a result of the widespread success of extended warranties.</div>
+<div class = "choice">J. would be wise to specialize in the advanced electronics products on the market today rather than on the products that date back a decade or more.</div>
+</div>
+###################
+<div class = "quiz">13. It can reasonably be inferred from the passage that before the 1980s, the percentage of most categories of American manufactured products that required repair was:
+<div class = "choice">A. under 10 percent.</div>
+<div class = "choice">B. between 10 and 15 percent.</div>
+<div class = "choice">C. between 15 and 20 percent.</div>
+<div class = "choice">D. 20 percent or more.</div>
+</div>
+###################
+<div class = "quiz">14. Which of the following best expresses the paradox described in the seventh paragraph (lines 50-56)?
+<div class = "choice">F. Manufacturers are selling more products than ever to American consumers but having to spend less than ever on sales promotions.</div>
+<div class = "choice">G. Americans are spending more on repairs than ever before and less than ever on adequate warranties.</div>
+<div class = "choice">H. Products are more reliable than ever, but Americans are spending a great deal on extended warranties.</div>
+<div class = "choice">J. American consumers are complaining more than ever about the quality of manufactured products, but products have never been more reliable.</div>
+</div>
+###################
+<div class = "quiz">15. According to the passage, the impact of extended warranties on the financial status of American electronics businesses is that the warranties account for a:
+<div class = "choice">A. significant loss that is usually compensated for by high sales of high-quality products.</div>
+<div class = "choice">B. small loss that is easily compensated for by skyrocketing sales of an increasingly varied range of products.</div>
+<div class = "choice">C. substantial portion of the profits earned by these companies.</div>
+<div class = "choice">D. profit or loss depending on a company's ability to identify its market.</div>
+</div>
+###################
+<div class = "quiz">16. The author traces the quality revolution back to its origins in:
+<div class = "choice">F. Japan in the 1970s.</div>
+<div class = "choice">G. Japan in the l.980s,</div>
+<div class = "choice">H. the United States in the 1970s.</div>
+<div class = "choice">J. the United States in the 1980s.</div>
+</div>
+###################
+<div class = "quiz">17. The main point of the first paragraph is that:
+<div class = "choice">A. even highly competent and experienced repair technicians are struggling under current market conditions.</div>
+<div class = "choice">B. tape-eating VCRs are harder to fix than CD players with errant lasers.</div>
+<div class = "choice">C. Gomez takes on more work to compensate for the fact that he can't increase his repair-work rates.</div>
+<div class = "choice">D. fifteen years ago Gomez could not fix a VCR but today he is an expert at it.</div>
+</div>
+###################
+<div class = "quiz">18. According to the passage, which of the following statements is accurate regarding the decline in the number of repair shops?
+<div class = "choice">F. Of the repair shops in business fifteen years ago, only one in five is still open.</div>
+<div class = "choice">G. Of the repair shops open twenty years ago, only 5 percent are still in business.</div>
+<div class = "choice">H. Twenty percent of the repair shops that specialize in TVs and VCRs are expected to close in the next five years</div>
+<div class = "choice">J. Half of the electronics repair shops in New York City are expected to close in the next ten years.</div>
+</div>
+###################
+<div class = "quiz">19. The passage states that before the 1980s, most American corporations viewed quality as all of the following EXCEPT:
+<div class = "choice">A. almost irrelevant to consumers' buying decisions.</div>
+<div class = "choice">B. some thing that could not be achieved at the same time as lowering prices:</div>
+<div class = "choice">C. something that cost them a lot.</div>
+<div class = "choice">D. an unnecessary hardship on the repair industry and therefore to be avoided.</div>
+</div>
+###################
+<div class = "quiz">20. According to the passage, Deming's role in the quality revolution is as:
+<div class = "choice">F. a spokesperson for the electronics-repair industry.</div>
+<div class = "choice">G. an American manufacturer who brought Japanese ideas to the American market.</div>
+<div class = "choice">H. an influential figure in shifting the Japanese and American manufacturing industries to produce high-quality goods for a low price.</div>
+<div class = "choice">J. a journalist for Consumer Reports focusing on the issue of international growth in the quality of manufactured goods.</div>
+<br>
+</div>
+###################

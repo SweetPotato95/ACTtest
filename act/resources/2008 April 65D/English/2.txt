@@ -1,125 +1,125 @@
-﻿
-<h1>The Amazing Monarch Migration</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The orange and black monarch <font id=16>butterfly, which</font> is the <font id=17>most easiest</font> recognized and striking butterfly species in North America. Monarchs are particularly fascinating because they are one of the few migratory butterfly species in North America.</div>
+77s/
+PGgxPlRoZSBBbWF6aW5nIE1vbmFyY2ggTWlncmF0aW9uPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBvcmFuZ2UgYW5kIGJsYWNrIG1vbmFyY2ggPGZvbnQgaWQ9MTY+YnV0dGVyZmx5LCB3aGljaDwvZm9udD4gaXMgdGhlIDxmb250IGlkPTE3Pm1vc3QgZWFzaWVzdDwvZm9udD4gcmVjb2duaXplZCBhbmQgc3RyaWtpbmcgYnV0dGVyZmx5IHNwZWNpZXMgaW4gTm9ydGggQW1lcmljYS4gTW9uYXJjaHMgYXJlIHBhcnRpY3VsYXJseSBmYXNjaW5hdGluZyBiZWNhdXNlIHRoZXkgYXJlIG9uZSBvZiB0aGUgZmV3IG1pZ3JhdG9yeSBidXR0ZXJmbHkgc3BlY2llcyBpbiBOb3J0aCBBbWVyaWNhLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>[1] In the fall, as daylight and temperatures decrease, migrating monarchs begin their long journey <font id=18>south, an extended flight.</font> [2] Many <font id=19>monarchs, west of the Rocky Mountains</font> migrate to the southern California coast, <font id=20>where</font> they overwinter in eucalyptus groves. [3] <font id=21>Besides,</font> most <font id=22>monarchs</font>, millions of them across the United States and Canada-migrate as many as three thousand miles to Oyamel fir forests near Mexico City. [4] Monarchs have smaller bodies and <font id=23>insufficiently</font> developed nervous systems than migratory birds. [5] The features of birds that help them accomplish their, long migrations are aerodynamic design, acute vision, <font id=24>and the ability to regulate their body temperature and maintain energy.</font> [6] Monarchs lack these features, and yet, in a way that defies explanation, they travel up to eighty miles in a day.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI1PlsxXSBJbiB0aGUgZmFsbCwgYXMgZGF5bGlnaHQgYW5kIHRlbXBlcmF0dXJlcyBkZWNyZWFzZSwgbWlncmF0aW5nIG1vbmFyY2hzIGJlZ2luIHRoZWlyIGxvbmcgam91cm5leSA8Zm9udCBpZD0xOD5zb3V0aCwgYW4gZXh0ZW5kZWQgZmxpZ2h0LjwvZm9udD4gWzJdIE1hbnkgPGZvbnQgaWQ9MTk+bW9uYXJjaHMsIHdlc3Qgb2YgdGhlIFJvY2t5IE1vdW50YWluczwvZm9udD4gbWlncmF0ZSB0byB0aGUgc291dGhlcm4gQ2FsaWZvcm5pYSBjb2FzdCwgPGZvbnQgaWQ9MjA+d2hlcmU8L2ZvbnQ+IHRoZXkgb3ZlcndpbnRlciBpbiBldWNhbHlwdHVzIGdyb3Zlcy4gWzNdIDxmb250IGlkPTIxPkJlc2lkZXMsPC9mb250PiBtb3N0IDxmb250IGlkPTIyPm1vbmFyY2hzPC9mb250PiwgbWlsbGlvbnMgb2YgdGhlbSBhY3Jvc3MgdGhlIFVuaXRlZCBTdGF0ZXMgYW5kIENhbmFkYS1taWdyYXRlIGFzIG1hbnkgYXMgdGhyZWUgdGhvdXNhbmQgbWlsZXMgdG8gT3lhbWVsIGZpciBmb3Jlc3RzIG5lYXIgTWV4aWNvIENpdHkuIFs0XSBNb25hcmNocyBoYXZlIHNtYWxsZXIgYm9kaWVzIGFuZCA8Zm9udCBpZD0yMz5pbnN1ZmZpY2llbnRseTwvZm9udD4gZGV2ZWxvcGVkIG5lcnZvdXMgc3lzdGVtcyB0aGFuIG1pZ3JhdG9yeSBiaXJkcy4gWzVdIFRoZSBmZWF0dXJlcyBvZiBiaXJkcyB0aGF0IGhlbHAgdGhlbSBhY2NvbXBsaXNoIHRoZWlyLCBsb25nIG1pZ3JhdGlvbnMgYXJlIGFlcm9keW5hbWljIGRlc2lnbiwgYWN1dGUgdmlzaW9uLCA8Zm9udCBpZD0yND5hbmQgdGhlIGFiaWxpdHkgdG8gcmVndWxhdGUgdGhlaXIgYm9keSB0ZW1wZXJhdHVyZSBhbmQgbWFpbnRhaW4gZW5lcmd5LjwvZm9udD4gWzZdIE1vbmFyY2hzIGxhY2sgdGhlc2UgZmVhdHVyZXMsIGFuZCB5ZXQsIGluIGEgd2F5IHRoYXQgZGVmaWVzIGV4cGxhbmF0aW9uLCB0aGV5IHRyYXZlbCB1cCB0byBlaWdodHkgbWlsZXMgaW4gYSBkYXkuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For decades, scientists have studied this phenomenon, hoping to learn how monarchs are able to fly such distances. Researchers have tagged migrating monarchs to study their flight patterns; and they've hiked to the overwintering <font id=26>sites</font> on the Mexican Plateau, where twenty thousand monarchs are sometimes found clustered on a single Oyamel fir bough.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBkZWNhZGVzLCBzY2llbnRpc3RzIGhhdmUgc3R1ZGllZCB0aGlzIHBoZW5vbWVub24sIGhvcGluZyB0byBsZWFybiBob3cgbW9uYXJjaHMgYXJlIGFibGUgdG8gZmx5IHN1Y2ggZGlzdGFuY2VzLiBSZXNlYXJjaGVycyBoYXZlIHRhZ2dlZCBtaWdyYXRpbmcgbW9uYXJjaHMgdG8gc3R1ZHkgdGhlaXIgZmxpZ2h0IHBhdHRlcm5zOyBhbmQgdGhleSd2ZSBoaWtlZCB0byB0aGUgb3ZlcndpbnRlcmluZyA8Zm9udCBpZD0yNj5zaXRlczwvZm9udD4gb24gdGhlIE1leGljYW4gUGxhdGVhdSwgd2hlcmUgdHdlbnR5IHRob3VzYW5kIG1vbmFyY2hzIGFyZSBzb21ldGltZXMgZm91bmQgY2x1c3RlcmVkIG9uIGEgc2luZ2xlIE95YW1lbCBmaXIgYm91Z2guPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists' are starting to learn more about the monarch's life cycle. <font id=27>When</font> monarchs that don't migrate to Mexico live only four to six <font id=28>weeks;</font> the migrating generations live at least eight months. After becoming reproductively active in the spring, monarchs that have' migrated begin their return journey. They lay their eggs on milkweed plants along the way and then die. Their offspring hatch, feed on the milkweed, and <font id=29>the migration is eventually continued.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdHMnIGFyZSBzdGFydGluZyB0byBsZWFybiBtb3JlIGFib3V0IHRoZSBtb25hcmNoJ3MgbGlmZSBjeWNsZS4gPGZvbnQgaWQ9Mjc+V2hlbjwvZm9udD4gbW9uYXJjaHMgdGhhdCBkb24ndCBtaWdyYXRlIHRvIE1leGljbyBsaXZlIG9ubHkgZm91ciB0byBzaXggPGZvbnQgaWQ9Mjg+d2Vla3M7PC9mb250PiB0aGUgbWlncmF0aW5nIGdlbmVyYXRpb25zIGxpdmUgYXQgbGVhc3QgZWlnaHQgbW9udGhzLiBBZnRlciBiZWNvbWluZyByZXByb2R1Y3RpdmVseSBhY3RpdmUgaW4gdGhlIHNwcmluZywgbW9uYXJjaHMgdGhhdCBoYXZlJyBtaWdyYXRlZCBiZWdpbiB0aGVpciByZXR1cm4gam91cm5leS4gVGhleSBsYXkgdGhlaXIgZWdncyBvbiBtaWxrd2VlZCBwbGFudHMgYWxvbmcgdGhlIHdheSBhbmQgdGhlbiBkaWUuIFRoZWlyIG9mZnNwcmluZyBoYXRjaCwgZmVlZCBvbiB0aGUgbWlsa3dlZWQsIGFuZCA8Zm9udCBpZD0yOT50aGUgbWlncmF0aW9uIGlzIGV2ZW50dWFsbHkgY29udGludWVkLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Researchers know they have much to learn, but with the help of new tracking devices and Internet technology that makes data available worldwide, <font id=30>they are .ready to move ahead.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlc2VhcmNoZXJzIGtub3cgdGhleSBoYXZlIG11Y2ggdG8gbGVhcm4sIGJ1dCB3aXRoIHRoZSBoZWxwIG9mIG5ldyB0cmFja2luZyBkZXZpY2VzIGFuZCBJbnRlcm5ldCB0ZWNobm9sb2d5IHRoYXQgbWFrZXMgZGF0YSBhdmFpbGFibGUgd29ybGR3aWRlLCA8Zm9udCBpZD0zMD50aGV5IGFyZSAucmVhZHkgdG8gbW92ZSBhaGVhZC48L2ZvbnQ+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">16.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. butterfly</div>
-<div class = "choice">H. butterfly</div>
-<div class = "choice">J. that butterfly,</div>
-</div>
-###################
-<div class = "quiz">17.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. most easy</div>
-<div class = "choice">C. easiest</div>
-<div class = "choice">D. most easily</div>
-</div>
-###################
-<div class = "quiz">18.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. south, which is far-reaching.</div>
-<div class = "choice">H. south.</div>
-<div class = "choice">J. south, which encompasses many miles.</div>
-</div>
-###################
-<div class = "quiz">19.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. monarchs west of the Rocky Mountains,</div>
-<div class = "choice">C. monarchs west, of the Rocky Mountains,</div>
-<div class = "choice">D. monarchs west of the Rocky Mountains</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. there</div>
-<div class = "choice">H. while</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">21.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. However,</div>
-<div class = "choice">C. Finally,</div>
-<div class = "choice">D. Therefore,</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. monarchs—</div>
-<div class = "choice">H. monarchs,</div>
-<div class = "choice">J. monarchs</div>
-</div>
-###################
-<div class = "quiz">23.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. less</div>
-<div class = "choice">C. more insufficient</div>
-<div class = "choice">D. inadequate</div>
-</div>
-###################
-<div class = "quiz">24.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. and regulating body temperature and maintaining energy with their ability.</div>
-<div class = "choice">H. with their body temperature regulation and energy maintenance ability.</div>
-<div class = "choice">J. and the regulation of body temperature and their ability to maintain energy.</div>
-</div>
-###################
-<div class = "quiz">25. The writer would like to divide this paragraph into two in order to signal the shift in focus from monarchs' migrating habits to the differences between monarchs and migratory birds. To accomplish this goal, the best place to start the new paragraph would be at the beginning of Sentence:
-<div class = "choice">A. 2</div>
-<div class = "choice">B. 3</div>
-<div class = "choice">C. 4</div>
-<div class = "choice">D. 5</div>
-</div>
-###################
-<div class = "quiz">26.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. site's</div>
-<div class = "choice">H. sites'</div>
-<div class = "choice">J. sites,</div>
-</div>
-###################
-<div class = "quiz">27.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. If</div>
-<div class = "choice">C. While</div>
-<div class = "choice">D. So that</div>
-</div>
-###################
-<div class = "quiz">28.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. weeks and</div>
-<div class = "choice">H. weeks, and while</div>
-<div class = "choice">J. weeks,</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. continuing the migration is eventual.</div>
-<div class = "choice">C. eventually continue the migration.</div>
-<div class = "choice">D. continuing eventually the migration.</div>
-</div>
-###################
-<div class = "quiz">30. Which choice would best conclude the sentence and support one of the main points of the essay?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. they are excited about learning how to use these new research tools.</div>
-<div class = "choice">H. they hope to solve the mysteries of the monarch migration.</div>
-<div class = "choice">J. they look forward to collaborating with, other researchers who are more knowledgeable in the mysteries of monarch migration.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJ1dHRlcmZseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJ1dHRlcmZseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoYXQgYnV0dGVyZmx5LDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vc3QgZWFzeTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVhc2llc3Q8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1vc3QgZWFzaWx5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNvdXRoLCB3aGljaCBpcyBmYXItcmVhY2hpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNvdXRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNvdXRoLCB3aGljaCBlbmNvbXBhc3NlcyBtYW55IG1pbGVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vbmFyY2hzIHdlc3Qgb2YgdGhlIFJvY2t5IE1vdW50YWlucyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vbmFyY2hzIHdlc3QsIG9mIHRoZSBSb2NreSBNb3VudGFpbnMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1vbmFyY2hzIHdlc3Qgb2YgdGhlIFJvY2t5IE1vdW50YWluczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoaWxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhvd2V2ZXIsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZpbmFsbHksPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZXJlZm9yZSw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1vbmFyY2hz4oA/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1vbmFyY2hzLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1vbmFyY2hzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmUgaW5zdWZmaWNpZW50PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluYWRlcXVhdGU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuZCByZWd1bGF0aW5nIGJvZHkgdGVtcGVyYXR1cmUgYW5kIG1haW50YWluaW5nIGVuZXJneSB3aXRoIHRoZWlyIGFiaWxpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdpdGggdGhlaXIgYm9keSB0ZW1wZXJhdHVyZSByZWd1bGF0aW9uIGFuZCBlbmVyZ3kgbWFpbnRlbmFuY2UgYWJpbGl0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFuZCB0aGUgcmVndWxhdGlvbiBvZiBib2R5IHRlbXBlcmF0dXJlIGFuZCB0aGVpciBhYmlsaXR5IHRvIG1haW50YWluIGVuZXJneS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gVGhlIHdyaXRlciB3b3VsZCBsaWtlIHRvIGRpdmlkZSB0aGlzIHBhcmFncmFwaCBpbnRvIHR3byBpbiBvcmRlciB0byBzaWduYWwgdGhlIHNoaWZ0IGluIGZvY3VzIGZyb20gbW9uYXJjaHMnIG1pZ3JhdGluZyBoYWJpdHMgdG8gdGhlIGRpZmZlcmVuY2VzIGJldHdlZW4gbW9uYXJjaHMgYW5kIG1pZ3JhdG9yeSBiaXJkcy4gVG8gYWNjb21wbGlzaCB0aGlzIGdvYWwsIHRoZSBiZXN0IHBsYWNlIHRvIHN0YXJ0IHRoZSBuZXcgcGFyYWdyYXBoIHdvdWxkIGJlIGF0IHRoZSBiZWdpbm5pbmcgb2YgU2VudGVuY2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNpdGUnczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNpdGVzJzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNpdGVzLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIElmPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdoaWxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNvIHRoYXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdlZWtzIGFuZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdlZWtzLCBhbmQgd2hpbGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdlZWtzLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbnRpbnVpbmcgdGhlIG1pZ3JhdGlvbiBpcyBldmVudHVhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV2ZW50dWFsbHkgY29udGludWUgdGhlIG1pZ3JhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvbnRpbnVpbmcgZXZlbnR1YWxseSB0aGUgbWlncmF0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gV2hpY2ggY2hvaWNlIHdvdWxkIGJlc3QgY29uY2x1ZGUgdGhlIHNlbnRlbmNlIGFuZCBzdXBwb3J0IG9uZSBvZiB0aGUgbWFpbiBwb2ludHMgb2YgdGhlIGVzc2F5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZXkgYXJlIGV4Y2l0ZWQgYWJvdXQgbGVhcm5pbmcgaG93IHRvIHVzZSB0aGVzZSBuZXcgcmVzZWFyY2ggdG9vbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZXkgaG9wZSB0byBzb2x2ZSB0aGUgbXlzdGVyaWVzIG9mIHRoZSBtb25hcmNoIG1pZ3JhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZXkgbG9vayBmb3J3YXJkIHRvIGNvbGxhYm9yYXRpbmcgd2l0aCwgb3RoZXIgcmVzZWFyY2hlcnMgd2hvIGFyZSBtb3JlIGtub3dsZWRnZWFibGUgaW4gdGhlIG15c3RlcmllcyBvZiBtb25hcmNoIG1pZ3JhdGlvbi48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,54 +1,54 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When an asteroid hits the surface of a planet or moon, an impact crater is formed. An asteroid that hits Earth under a specific set of conditions (including speed and angle), referred to here as Set C. forms a crater with a diameter about 20 times the asteroid's diameter. Figure 1 shows the energy released by the impact, for a range of asteroid diameters.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gYW4gYXN0ZXJvaWQgaGl0cyB0aGUgc3VyZmFjZSBvZiBhIHBsYW5ldCBvciBtb29uLCBhbiBpbXBhY3QgY3JhdGVyIGlzIGZvcm1lZC4gQW4gYXN0ZXJvaWQgdGhhdCBoaXRzIEVhcnRoIHVuZGVyIGEgc3BlY2lmaWMgc2V0IG9mIGNvbmRpdGlvbnMgKGluY2x1ZGluZyBzcGVlZCBhbmQgYW5nbGUpLCByZWZlcnJlZCB0byBoZXJlIGFzIFNldCBDLiBmb3JtcyBhIGNyYXRlciB3aXRoIGEgZGlhbWV0ZXIgYWJvdXQgMjAgdGltZXMgdGhlIGFzdGVyb2lkJ3MgZGlhbWV0ZXIuIEZpZ3VyZSAxIHNob3dzIHRoZSBlbmVyZ3kgcmVsZWFzZWQgYnkgdGhlIGltcGFjdCwgZm9yIGEgcmFuZ2Ugb2YgYXN0ZXJvaWQgZGlhbWV0ZXJzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows the average amount of time that elapses between consecutive impacts on Earth by asteroids with the same diameter, for a range of asteroid diameters. Figure 3 shows the percent of the surface of the Moon, Mercury, and Mars that is covered by impact craters, for various ranges of crater diameter.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIHNob3dzIHRoZSBhdmVyYWdlIGFtb3VudCBvZiB0aW1lIHRoYXQgZWxhcHNlcyBiZXR3ZWVuIGNvbnNlY3V0aXZlIGltcGFjdHMgb24gRWFydGggYnkgYXN0ZXJvaWRzIHdpdGggdGhlIHNhbWUgZGlhbWV0ZXIsIGZvciBhIHJhbmdlIG9mIGFzdGVyb2lkIGRpYW1ldGVycy4gRmlndXJlIDMgc2hvd3MgdGhlIHBlcmNlbnQgb2YgdGhlIHN1cmZhY2Ugb2YgdGhlIE1vb24sIE1lcmN1cnksIGFuZCBNYXJzIHRoYXQgaXMgY292ZXJlZCBieSBpbXBhY3QgY3JhdGVycywgZm9yIHZhcmlvdXMgcmFuZ2VzIG9mIGNyYXRlciBkaWFtZXRlci48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\90.png' width = '382'height = '584'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcOTAucG5nJyB3aWR0aCA9ICczODInaGVpZ2h0ID0gJzU4NCcvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\91.png' width = '402'height = '364'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcOTEucG5nJyB3aWR0aCA9ICc0MDInaGVpZ2h0ID0gJzM2NCcvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\92.png' width = '484'height = '374'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcOTIucG5nJyB3aWR0aCA9ICc0ODQnaGVpZ2h0ID0gJzM3NCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Eugene M, Shoemaker and Carolyn S. Shoemaker, "The Role of Collisions."1999 by Sky Publishing Corp.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIEV1Z2VuZSBNLCBTaG9lbWFrZXIgYW5kIENhcm9seW4gUy4gU2hvZW1ha2VyLCAiVGhlIFJvbGUgb2YgQ29sbGlzaW9ucy4iFTE5OTkgYnkgU2t5IFB1Ymxpc2hpbmcgQ29ycC48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">13. Suppose that 55 units of energy were released when a particular asteroid, under Set C conditions, hit Earth. According to Figure l. the asteroid's diameter was most likely closest to which of the following?
-<div class = "choice">A. 0.05 km</div>
-<div class = "choice">B. 0.1 km</div>
-<div class = "choice">C. 0.5 km</div>
-<div class = "choice">D. 1 km</div>
-</div>
-###################
-<div class = "quiz">14. According to Figure 2, for progressively larger asteroids, the average amount of time that elapses between consecutive impacts on Earth by asteroids with the same diameter:
-<div class = "choice">F. increases only.</div>
-<div class = "choice">G. decreases only.</div>
-<div class = "choice">H. varies, but with no general trend.</div>
-<div class = "choice">J. remains the same.</div>
-</div>
-###################
-<div class = "quiz">15. According to Figure 3, for any given range of crater diameters, the percent of the surface of Mars that is covered by impact craters with those diameters is:
-<div class = "choice">A. less than that for Mercury or the Moon.</div>
-<div class = "choice">B. less than that for Mercury but greater than that for the Moon.</div>
-<div class = "choice">C. greater than that for Mercury or the Moon.</div>
-<div class = "choice">D. greater than that for Mercury but less than that for the Moon.</div>
-</div>
-###################
-<div class = "quiz">16. Suppose an asteroid, under Set C conditions, hit Earth to form a crater 20 km in diameter. Based on Figure l and other information provided, that asteroid impact most likely released an amount of energy closest to which of the following?
-<div class = "choice">F. 1,000 energy units</div>
-<div class = "choice">G. 3,000 energy units</div>
-<div class = "choice">H. 10,000 energy units</div>
-<div class = "choice">J. 30,000 energy units</div>
-</div>
-###################
-<div class = "quiz">17. Assume that an asteroid that hit Earth 65 million years ago was l0 km in diameter. Also assume that another 10 km asteroid will hit Earth in the future. If the amount of time that elapses between these consecutive impacts is equal to the average amount of time as given by Figure 2, a 10 km diameter asteroid will next hit Earth approximately:
-<div class = "choice">A. 35 million years from now.</div>
-<div class = "choice">B. 65 million years from now.</div>
-<div class = "choice">C. 100 million years from now.</div>
-<div class = "choice">D. 135 million years from now.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gU3VwcG9zZSB0aGF0IDU1IHVuaXRzIG9mIGVuZXJneSB3ZXJlIHJlbGVhc2VkIHdoZW4gYSBwYXJ0aWN1bGFyIGFzdGVyb2lkLCB1bmRlciBTZXQgQyBjb25kaXRpb25zLCBoaXQgRWFydGguIEFjY29yZGluZyB0byBGaWd1cmUgbC4gdGhlIGFzdGVyb2lkJ3MgZGlhbWV0ZXIgd2FzIG1vc3QgbGlrZWx5IGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuMDUga208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDAuMSBrbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDAuNSBrbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEga208L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCBmb3IgcHJvZ3Jlc3NpdmVseSBsYXJnZXIgYXN0ZXJvaWRzLCB0aGUgYXZlcmFnZSBhbW91bnQgb2YgdGltZSB0aGF0IGVsYXBzZXMgYmV0d2VlbiBjb25zZWN1dGl2ZSBpbXBhY3RzIG9uIEVhcnRoIGJ5IGFzdGVyb2lkcyB3aXRoIHRoZSBzYW1lIGRpYW1ldGVyOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHZhcmllcywgYnV0IHdpdGggbm8gZ2VuZXJhbCB0cmVuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlbWFpbnMgdGhlIHNhbWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCBmb3IgYW55IGdpdmVuIHJhbmdlIG9mIGNyYXRlciBkaWFtZXRlcnMsIHRoZSBwZXJjZW50IG9mIHRoZSBzdXJmYWNlIG9mIE1hcnMgdGhhdCBpcyBjb3ZlcmVkIGJ5IGltcGFjdCBjcmF0ZXJzIHdpdGggdGhvc2UgZGlhbWV0ZXJzIGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiB0aGF0IGZvciBNZXJjdXJ5IG9yIHRoZSBNb29uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3MgdGhhbiB0aGF0IGZvciBNZXJjdXJ5IGJ1dCBncmVhdGVyIHRoYW4gdGhhdCBmb3IgdGhlIE1vb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdyZWF0ZXIgdGhhbiB0aGF0IGZvciBNZXJjdXJ5IG9yIHRoZSBNb29uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiB0aGF0IGZvciBNZXJjdXJ5IGJ1dCBsZXNzIHRoYW4gdGhhdCBmb3IgdGhlIE1vb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gU3VwcG9zZSBhbiBhc3Rlcm9pZCwgdW5kZXIgU2V0IEMgY29uZGl0aW9ucywgaGl0IEVhcnRoIHRvIGZvcm0gYSBjcmF0ZXIgMjAga20gaW4gZGlhbWV0ZXIuIEJhc2VkIG9uIEZpZ3VyZSBsIGFuZCBvdGhlciBpbmZvcm1hdGlvbiBwcm92aWRlZCwgdGhhdCBhc3Rlcm9pZCBpbXBhY3QgbW9zdCBsaWtlbHkgcmVsZWFzZWQgYW4gYW1vdW50IG9mIGVuZXJneSBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEsMDAwIGVuZXJneSB1bml0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDMsMDAwIGVuZXJneSB1bml0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEwLDAwMCBlbmVyZ3kgdW5pdHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDMwLDAwMCBlbmVyZ3kgdW5pdHM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQXNzdW1lIHRoYXQgYW4gYXN0ZXJvaWQgdGhhdCBoaXQgRWFydGggNjUgbWlsbGlvbiB5ZWFycyBhZ28gd2FzIGwwIGttIGluIGRpYW1ldGVyLiBBbHNvIGFzc3VtZSB0aGF0IGFub3RoZXIgMTAga20gYXN0ZXJvaWQgd2lsbCBoaXQgRWFydGggaW4gdGhlIGZ1dHVyZS4gSWYgdGhlIGFtb3VudCBvZiB0aW1lIHRoYXQgZWxhcHNlcyBiZXR3ZWVuIHRoZXNlIGNvbnNlY3V0aXZlIGltcGFjdHMgaXMgZXF1YWwgdG8gdGhlIGF2ZXJhZ2UgYW1vdW50IG9mIHRpbWUgYXMgZ2l2ZW4gYnkgRmlndXJlIDIsIGEgMTAga20gZGlhbWV0ZXIgYXN0ZXJvaWQgd2lsbCBuZXh0IGhpdCBFYXJ0aCBhcHByb3hpbWF0ZWx5Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDM1IG1pbGxpb24geWVhcnMgZnJvbSBub3cuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDY1IG1pbGxpb24geWVhcnMgZnJvbSBub3cuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEwMCBtaWxsaW9uIHllYXJzIGZyb20gbm93LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEzNSBtaWxsaW9uIHllYXJzIGZyb20gbm93LjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

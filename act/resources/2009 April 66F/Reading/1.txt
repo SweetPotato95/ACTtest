@@ -1,118 +1,118 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel The Fisher King by Paule Marshall (©2000 by Paule Marshall).</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIFRoZSBGaXNoZXIgS2luZyBieSBQYXVsZSBNYXJzaGFsbCAowqkyMDAwIGJ5IFBhdWxlIE1hcnNoYWxsKS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was nearing the end of the second set, the jazz show winding down when Hattie heard Abe Kaiser at the microphone call Everett Payne's name. Heard his rename and, to her surprise, saw him slowly stand up in the bullpen up front. She hadn't seen him join the other local musicians, including Shades Bowen with his tenor sax, in what was called the bullpen, which was simply a dozen or so chairs grouped near the bandstand. The young locals gathered there each Sunday evening, hoping for a chance to perform. Because toward the end of the final set, the custom was to invite one or two of them to sit in with the band. They sometimes even got to choose the tune they wanted to play.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBuZWFyaW5nIHRoZSBlbmQgb2YgdGhlIHNlY29uZCBzZXQsIHRoZSBqYXp6IHNob3cgd2luZGluZyBkb3duIHdoZW4gSGF0dGllIGhlYXJkIEFiZSBLYWlzZXIgYXQgdGhlIG1pY3JvcGhvbmUgY2FsbCBFdmVyZXR0IFBheW5lJ3MgbmFtZS4gSGVhcmQgaGlzIHJlbmFtZSBhbmQsIHRvIGhlciBzdXJwcmlzZSwgc2F3IGhpbSBzbG93bHkgc3RhbmQgdXAgaW4gdGhlIGJ1bGxwZW4gdXAgZnJvbnQuIFNoZSBoYWRuJ3Qgc2VlbiBoaW0gam9pbiB0aGUgb3RoZXIgbG9jYWwgbXVzaWNpYW5zLCBpbmNsdWRpbmcgU2hhZGVzIEJvd2VuIHdpdGggaGlzIHRlbm9yIHNheCwgaW4gd2hhdCB3YXMgY2FsbGVkIHRoZSBidWxscGVuLCB3aGljaCB3YXMgc2ltcGx5IGEgZG96ZW4gb3Igc28gY2hhaXJzIGdyb3VwZWQgbmVhciB0aGUgYmFuZHN0YW5kLiBUaGUgeW91bmcgbG9jYWxzIGdhdGhlcmVkIHRoZXJlIGVhY2ggU3VuZGF5IGV2ZW5pbmcsIGhvcGluZyBmb3IgYSBjaGFuY2UgdG8gcGVyZm9ybS4gQmVjYXVzZSB0b3dhcmQgdGhlIGVuZCBvZiB0aGUgZmluYWwgc2V0LCB0aGUgY3VzdG9tIHdhcyB0byBpbnZpdGUgb25lIG9yIHR3byBvZiB0aGVtIHRvIHNpdCBpbiB3aXRoIHRoZSBiYW5kLiBUaGV5IHNvbWV0aW1lcyBldmVuIGdvdCB0byBjaG9vc2UgdGhlIHR1bmUgdGhleSB3YW50ZWQgdG8gcGxheS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This Sunday, Everett Payne, not long out of the army, was the one being invited to sit in.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaXMgU3VuZGF5LCBFdmVyZXR0IFBheW5lLCBub3QgbG9uZyBvdXQgb2YgdGhlIGFybXksIHdhcyB0aGUgb25lIGJlaW5nIGludml0ZWQgdG8gc2l0IGluLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Breath held, Hattie watched him separate himself from the hopefuls and approach the stand, taking his time, moving with what almost seemed a deliberate pause between each step. The crowd waiting.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJyZWF0aCBoZWxkLCBIYXR0aWUgd2F0Y2hlZCBoaW0gc2VwYXJhdGUgaGltc2VsZiBmcm9tIHRoZSBob3BlZnVscyBhbmQgYXBwcm9hY2ggdGhlIHN0YW5kLCB0YWtpbmcgaGlzIHRpbWUsIG1vdmluZyB3aXRoIHdoYXQgYWxtb3N0IHNlZW1lZCBhIGRlbGliZXJhdGUgcGF1c2UgYmV0d2VlbiBlYWNoIHN0ZXAuIFRoZSBjcm93ZCB3YWl0aW5nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">That was his way, Hattie knew. His body moving absentmindedly through space, his head, his thoughts on something other than his surroundings, and his eyes like a curtain -he occasionally drew aside a fraction of an inch to peer out at the world. A world far less interesting than the music inside his head.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoYXQgd2FzIGhpcyB3YXksIEhhdHRpZSBrbmV3LiBIaXMgYm9keSBtb3ZpbmcgYWJzZW50bWluZGVkbHkgdGhyb3VnaCBzcGFjZSwgaGlzIGhlYWQsIGhpcyB0aG91Z2h0cyBvbiBzb21ldGhpbmcgb3RoZXIgdGhhbiBoaXMgc3Vycm91bmRpbmdzLCBhbmQgaGlzIGV5ZXMgbGlrZSBhIGN1cnRhaW4gLWhlIG9jY2FzaW9uYWxseSBkcmV3IGFzaWRlIGEgZnJhY3Rpb24gb2YgYW4gaW5jaCB0byBwZWVyIG91dCBhdCB0aGUgd29ybGQuIEEgd29ybGQgZmFyIGxlc3MgaW50ZXJlc3RpbmcgdGhhbiB0aGUgbXVzaWMgaW5zaWRlIGhpcyBoZWFkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She watched now as he slowly mounted the bandstand and conferred with the bassist and drummer, those two were all he would need. Then, without announcing the name of the tune he intended playing, without in any way acknowledging the audience, he sat down at the piano and brought his hands—large hands, the fingers long and splayed and slightly arched—down on the opening bars of "Sonny Boy Blue."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSB3YXRjaGVkIG5vdyBhcyBoZSBzbG93bHkgbW91bnRlZCB0aGUgYmFuZHN0YW5kIGFuZCBjb25mZXJyZWQgd2l0aCB0aGUgYmFzc2lzdCBhbmQgZHJ1bW1lciwgdGhvc2UgdHdvIHdlcmUgYWxsIGhlIHdvdWxkIG5lZWQuIFRoZW4sIHdpdGhvdXQgYW5ub3VuY2luZyB0aGUgbmFtZSBvZiB0aGUgdHVuZSBoZSBpbnRlbmRlZCBwbGF5aW5nLCB3aXRob3V0IGluIGFueSB3YXkgYWNrbm93bGVkZ2luZyB0aGUgYXVkaWVuY2UsIGhlIHNhdCBkb3duIGF0IHRoZSBwaWFubyBhbmQgYnJvdWdodCBoaXMgaGFuZHPigJRsYXJnZSBoYW5kcywgdGhlIGZpbmdlcnMgbG9uZyBhbmQgc3BsYXllZCBhbmQgc2xpZ2h0bHkgYXJjaGVk4oCUZG93biBvbiB0aGUgb3BlbmluZyBiYXJzIG9mICJTb25ueSBCb3kgQmx1ZS4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Sonny Boy Blue!" That hokey-doke tune!</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJTb25ueSBCb3kgQmx1ZSEiIFRoYXQgaG9rZXktZG9rZSB0dW5lITwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Around her, the purists looked askance at each other from behind their regulation shades and slouched deeper in their chairs in open disgust.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFyb3VuZCBoZXIsIHRoZSBwdXJpc3RzIGxvb2tlZCBhc2thbmNlIGF0IGVhY2ggb3RoZXIgZnJvbSBiZWhpbmQgdGhlaXIgcmVndWxhdGlvbiBzaGFkZXMgYW5kIHNsb3VjaGVkIGRlZXBlciBpbiB0aGVpciBjaGFpcnMgaW4gb3BlbiBkaXNndXN0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At first, hokey though it was, he played the song straight through as written, the rather long introduction, verse, and chorus. And he did so with great care, although at a slower tempo than was called for and with a formality that lent the Tin Pan Alley tune a depth and thoughtfulness no one else would have accorded it.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF0IGZpcnN0LCBob2tleSB0aG91Z2ggaXQgd2FzLCBoZSBwbGF5ZWQgdGhlIHNvbmcgc3RyYWlnaHQgdGhyb3VnaCBhcyB3cml0dGVuLCB0aGUgcmF0aGVyIGxvbmcgaW50cm9kdWN0aW9uLCB2ZXJzZSwgYW5kIGNob3J1cy4gQW5kIGhlIGRpZCBzbyB3aXRoIGdyZWF0IGNhcmUsIGFsdGhvdWdoIGF0IGEgc2xvd2VyIHRlbXBvIHRoYW4gd2FzIGNhbGxlZCBmb3IgYW5kIHdpdGggYSBmb3JtYWxpdHkgdGhhdCBsZW50IHRoZSBUaW4gUGFuIEFsbGV5IHR1bmUgYSBkZXB0aCBhbmQgdGhvdWdodGZ1bG5lc3Mgbm8gb25lIGVsc2Ugd291bGQgaGF2ZSBhY2NvcmRlZCBpdC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Quickly taking their cue from him, the bassist reached for his bow, the drummer for his brushes, the two of them also treating the original as if it were a serious piece of music.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlF1aWNrbHkgdGFraW5nIHRoZWlyIGN1ZSBmcm9tIGhpbSwgdGhlIGJhc3Npc3QgcmVhY2hlZCBmb3IgaGlzIGJvdywgdGhlIGRydW1tZXIgZm9yIGhpcyBicnVzaGVzLCB0aGUgdHdvIG9mIHRoZW0gYWxzbyB0cmVhdGluZyB0aGUgb3JpZ2luYWwgYXMgaWYgaXQgd2VyZSBhIHNlcmlvdXMgcGllY2Ugb2YgbXVzaWMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Everett Payne took his time paying his respects, to the tune as written, and once that was done, he hunched closer to the piano, angled his head sharply to the left, completely closed the curtain of his gaze, and with his hands commanding the length and breadth of the keyboard he unleashed a dazzling pyrotechnic of chords (you could almost see their colors), polyrhythms, seemingly unrelated harmonies, and ideas—fresh, brash, outrageous ideas. It was an outpouring of ideas and feelings informed by his own brand of lyricism and lit from time to time by flashes of the recognizable melody. He continued to acknowledge the little simple-minded tune, while at the same time furiously recasting and reinventing it in an image all his own.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV2ZXJldHQgUGF5bmUgdG9vayBoaXMgdGltZSBwYXlpbmcgaGlzIHJlc3BlY3RzLCB0byB0aGUgdHVuZSBhcyB3cml0dGVuLCBhbmQgb25jZSB0aGF0IHdhcyBkb25lLCBoZSBodW5jaGVkIGNsb3NlciB0byB0aGUgcGlhbm8sIGFuZ2xlZCBoaXMgaGVhZCBzaGFycGx5IHRvIHRoZSBsZWZ0LCBjb21wbGV0ZWx5IGNsb3NlZCB0aGUgY3VydGFpbiBvZiBoaXMgZ2F6ZSwgYW5kIHdpdGggaGlzIGhhbmRzIGNvbW1hbmRpbmcgdGhlIGxlbmd0aCBhbmQgYnJlYWR0aCBvZiB0aGUga2V5Ym9hcmQgaGUgdW5sZWFzaGVkIGEgZGF6emxpbmcgcHlyb3RlY2huaWMgb2YgY2hvcmRzICh5b3UgY291bGQgYWxtb3N0IHNlZSB0aGVpciBjb2xvcnMpLCBwb2x5cmh5dGhtcywgc2VlbWluZ2x5IHVucmVsYXRlZCBoYXJtb25pZXMsIGFuZCBpZGVhc+KAlGZyZXNoLCBicmFzaCwgb3V0cmFnZW91cyBpZGVhcy4gSXQgd2FzIGFuIG91dHBvdXJpbmcgb2YgaWRlYXMgYW5kIGZlZWxpbmdzIGluZm9ybWVkIGJ5IGhpcyBvd24gYnJhbmQgb2YgbHlyaWNpc20gYW5kIGxpdCBmcm9tIHRpbWUgdG8gdGltZSBieSBmbGFzaGVzIG9mIHRoZSByZWNvZ25pemFibGUgbWVsb2R5LiBIZSBjb250aW51ZWQgdG8gYWNrbm93bGVkZ2UgdGhlIGxpdHRsZSBzaW1wbGUtbWluZGVkIHR1bmUsIHdoaWxlIGF0IHRoZSBzYW1lIHRpbWUgZnVyaW91c2x5IHJlY2FzdGluZyBhbmQgcmVpbnZlbnRpbmcgaXQgaW4gYW4gaW1hZ2UgYWxsIGhpcyBvd24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=2>A collective in-suck of breath throughout the club.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI+QSBjb2xsZWN0aXZlIGluLXN1Y2sgb2YgYnJlYXRoIHRocm91Z2hvdXQgdGhlIGNsdWIuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Where, Hattie wondered, did he come by the dazzling array of ideas and wealth of feeling? What was the source? It had to do, she speculated, listening intently, with the way he held his head, angled to the left like that, tilted toward both heaven and earth. His right side, his right ear directed skyward, hearing up there, in the Upper Room among the stars Mahalia sang about, a new kind of music: splintered, atonal, profane, and possessing a wonderful dissonance that spoke to him, to his soul-case. For him, this was the true music of the spheres, of the maelstrom up there. When at the piano, he kept his right ear tuned to it at all times, letting it guide him, inspire him. His other ear? It remained earthbound, trained on the bedrock that for him was Bach and the blues.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZXJlLCBIYXR0aWUgd29uZGVyZWQsIGRpZCBoZSBjb21lIGJ5IHRoZSBkYXp6bGluZyBhcnJheSBvZiBpZGVhcyBhbmQgd2VhbHRoIG9mIGZlZWxpbmc/IFdoYXQgd2FzIHRoZSBzb3VyY2U/IEl0IGhhZCB0byBkbywgc2hlIHNwZWN1bGF0ZWQsIGxpc3RlbmluZyBpbnRlbnRseSwgd2l0aCB0aGUgd2F5IGhlIGhlbGQgaGlzIGhlYWQsIGFuZ2xlZCB0byB0aGUgbGVmdCBsaWtlIHRoYXQsIHRpbHRlZCB0b3dhcmQgYm90aCBoZWF2ZW4gYW5kIGVhcnRoLiBIaXMgcmlnaHQgc2lkZSwgaGlzIHJpZ2h0IGVhciBkaXJlY3RlZCBza3l3YXJkLCBoZWFyaW5nIHVwIHRoZXJlLCBpbiB0aGUgVXBwZXIgUm9vbSBhbW9uZyB0aGUgc3RhcnMgTWFoYWxpYSBzYW5nIGFib3V0LCBhIG5ldyBraW5kIG9mIG11c2ljOiBzcGxpbnRlcmVkLCBhdG9uYWwsIHByb2ZhbmUsIGFuZCBwb3NzZXNzaW5nIGEgd29uZGVyZnVsIGRpc3NvbmFuY2UgdGhhdCBzcG9rZSB0byBoaW0sIHRvIGhpcyBzb3VsLWNhc2UuIEZvciBoaW0sIHRoaXMgd2FzIHRoZSB0cnVlIG11c2ljIG9mIHRoZSBzcGhlcmVzLCBvZiB0aGUgbWFlbHN0cm9tIHVwIHRoZXJlLiBXaGVuIGF0IHRoZSBwaWFubywgaGUga2VwdCBoaXMgcmlnaHQgZWFyIHR1bmVkIHRvIGl0IGF0IGFsbCB0aW1lcywgbGV0dGluZyBpdCBndWlkZSBoaW0sIGluc3BpcmUgaGltLiBIaXMgb3RoZXIgZWFyPyBJdCByZW1haW5lZCBlYXJ0aGJvdW5kLCB0cmFpbmVkIG9uIHRoZSBiZWRyb2NrIHRoYXQgZm9yIGhpbSB3YXMgQmFjaCBhbmQgdGhlIGJsdWVzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Again and again he took them on a joyous, terrifying roller coaster of a ride it seemed to Hattie, and when he finally deposited them on terra firma after close to twenty minutes, everyone in Putnam Royal could only sit there as if they were in church and weren't supposed to clap. Overcome. Until finally Alvin Edwards lived on Decatur Street played trumpet in the school band leaped to his feet and renamed him.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFnYWluIGFuZCBhZ2FpbiBoZSB0b29rIHRoZW0gb24gYSBqb3lvdXMsIHRlcnJpZnlpbmcgcm9sbGVyIGNvYXN0ZXIgb2YgYSByaWRlIGl0IHNlZW1lZCB0byBIYXR0aWUsIGFuZCB3aGVuIGhlIGZpbmFsbHkgZGVwb3NpdGVkIHRoZW0gb24gdGVycmEgZmlybWEgYWZ0ZXIgY2xvc2UgdG8gdHdlbnR5IG1pbnV0ZXMsIGV2ZXJ5b25lIGluIFB1dG5hbSBSb3lhbCBjb3VsZCBvbmx5IHNpdCB0aGVyZSBhcyBpZiB0aGV5IHdlcmUgaW4gY2h1cmNoIGFuZCB3ZXJlbid0IHN1cHBvc2VkIHRvIGNsYXAuIE92ZXJjb21lLiBVbnRpbCBmaW5hbGx5IEFsdmluIEVkd2FyZHMgbGl2ZWQgb24gRGVjYXR1ciBTdHJlZXQgcGxheWVkIHRydW1wZXQgaW4gdGhlIHNjaG9vbCBiYW5kIGxlYXBlZCB0byBoaXMgZmVldCBhbmQgcmVuYW1lZCBoaW0uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Alvin brought everyone up with him. Including the purists who normally refused to applaud even genius. They too stood up in languid praise of him.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdmluIGJyb3VnaHQgZXZlcnlvbmUgdXAgd2l0aCBoaW0uIEluY2x1ZGluZyB0aGUgcHVyaXN0cyB3aG8gbm9ybWFsbHkgcmVmdXNlZCB0byBhcHBsYXVkIGV2ZW4gZ2VuaXVzLiBUaGV5IHRvbyBzdG9vZCB1cCBpbiBsYW5ndWlkIHByYWlzZSBvZiBoaW0uPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">1. It can reasonably be inferred from the passage that Shades Bowen:
-<div class = "choice">A. did not accompany Everett Payne as he played "Sonny Boy Blue."</div>
-<div class = "choice">B. had been in the army with Everett Payne.</div>
-<div class = "choice">C. was the oldest musician in the bullpen.</div>
-<div class = "choice">D. did not usually allow the local musicians to play with the band.</div>
-</div>
-###################
-<div class = "quiz">2. The main purpose of the statement in line 62 is to:
-<div class = "choice">F. illustrate the high expectations the audience initially had for Everett Payne's performance.</div>
-<div class = "choice">G. inform the reader of the audience's-reaction to Everett Payne's performance.</div>
-<div class = "choice">H. counteract the narrator's description of Everett Payne's performance.</div>
-<div class = "choice">J. provide proof that Everett Payne was well known to the audience.</div>
-</div>
-###################
-<div class = "quiz">3. The passage most strongly suggests that the second set  of the jazz shows at the club is:
-<div class = "choice">A. the final set.</div>
-<div class = "choice">B. much longer than the first set.</div>
-<div class = "choice">C. followed by a third set on Sunday nights.</div>
-<div class = "choice">D. performed solely by the musicians in the bullpen.</div>
-</div>
-###################
-<div class = "quiz">4. Which of the following details is used in the passage to indicate how the purists in the audience initially reacted to Everett Payne's choice of music?
-<div class = "choice">F. The overall silence of the audience, including the purists</div>
-<div class = "choice">G. The description of the audience's collective in-suck of breath</div>
-<div class = "choice">H. The posture the purists assumed in their seats</div>
-<div class = "choice">J. The fact that the purists stood up</div>
-</div>
-###################
-<div class = "quiz">5. According to the narrator, what did Hattie see Everett Payne do prior to playing "Sonny Boy Blue"?
-<div class = "choice">A. Move quickly from his seat to the bandstand</div>
-<div class = "choice">B. Study the audience around him</div>
-<div class = "choice">C. Confer with the bassist and the drummer</div>
-<div class = "choice">D. Announce the name of the tune he was going to play</div>
-</div>
-###################
-<div class = "quiz">6. The passage initially portrays the purists most nearly as:
-<div class = "choice">F. knowledgeable and open minded.</div>
-<div class = "choice">G. snobbish and intolerant.</div>
-<div class = "choice">H. rational and well educated.</div>
-<div class = "choice">J. inexperienced and uninhibited.</div>
-</div>
-###################
-<div class = "quiz">7. It can reasonably be inferred from the passage that Hattie believed Bach and the blues were the:
-<div class = "choice">A. musical influences that Everett Payne tried to avoid representing when he played piano.</div>
-<div class = "choice">B. foundation of Everett Payne's inventive piano playing.</div>
-<div class = "choice">C. true music of the heavens that inspired Everett Payne's creativity as a piano player.</div>
-<div class = "choice">D. reason why Everett Payne's piano-playing abilities limited him to Tin Pan Alley tunes.</div>
-</div>
-###################
-<div class = "quiz">8. According to the passage when Everett Payne first played "Sonny Boy Blue" straight through, he did so:
-<div class = "choice">F. more slowly than was intended by the composer.</div>
-<div class = "choice">G. after it had been suggested by Abe Kaiser.</div>
-<div class = "choice">H. against the wishes of the bassist and drummer.</div>
-<div class = "choice">J. without following the original tune.</div>
-</div>
-###################
-<div class = "quiz">9. According to the passage, Hattie speculated that the source of Everett Payne's musical ideas and feelings during "Sonny Boy Blue" was in:
-<div class = "choice">A. the way he tilted his head.</div>
-<div class = "choice">B. the simplemindedness of the song.</div>
-<div class = "choice">C. his ability to play with great formality.</div>
-<div class = "choice">D. his connection with the silent audience.</div>
-</div>
-###################
-<div class = "quiz">10. The narrator states that to Hattie, Everett Payne's performance was:
-<div class = "choice">F. overly slow and formal.</div>
-<div class = "choice">G. deliberate yet absentminded.</div>
-<div class = "choice">H. like a song played in a church.</div>
-<div class = "choice">J. a roller coaster of a ride.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgU2hhZGVzIEJvd2VuOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRpZCBub3QgYWNjb21wYW55IEV2ZXJldHQgUGF5bmUgYXMgaGUgcGxheWVkICJTb25ueSBCb3kgQmx1ZS4iPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhZCBiZWVuIGluIHRoZSBhcm15IHdpdGggRXZlcmV0dCBQYXluZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdhcyB0aGUgb2xkZXN0IG11c2ljaWFuIGluIHRoZSBidWxscGVuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRpZCBub3QgdXN1YWxseSBhbGxvdyB0aGUgbG9jYWwgbXVzaWNpYW5zIHRvIHBsYXkgd2l0aCB0aGUgYmFuZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBUaGUgbWFpbiBwdXJwb3NlIG9mIHRoZSBzdGF0ZW1lbnQgaW4gbGluZSA2MiBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGlsbHVzdHJhdGUgdGhlIGhpZ2ggZXhwZWN0YXRpb25zIHRoZSBhdWRpZW5jZSBpbml0aWFsbHkgaGFkIGZvciBFdmVyZXR0IFBheW5lJ3MgcGVyZm9ybWFuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluZm9ybSB0aGUgcmVhZGVyIG9mIHRoZSBhdWRpZW5jZSdzLXJlYWN0aW9uIHRvIEV2ZXJldHQgUGF5bmUncyBwZXJmb3JtYW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvdW50ZXJhY3QgdGhlIG5hcnJhdG9yJ3MgZGVzY3JpcHRpb24gb2YgRXZlcmV0dCBQYXluZSdzIHBlcmZvcm1hbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByb3ZpZGUgcHJvb2YgdGhhdCBFdmVyZXR0IFBheW5lIHdhcyB3ZWxsIGtub3duIHRvIHRoZSBhdWRpZW5jZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBUaGUgcGFzc2FnZSBtb3N0IHN0cm9uZ2x5IHN1Z2dlc3RzIHRoYXQgdGhlIHNlY29uZCBzZXQgIG9mIHRoZSBqYXp6IHNob3dzIGF0IHRoZSBjbHViIGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBmaW5hbCBzZXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG11Y2ggbG9uZ2VyIHRoYW4gdGhlIGZpcnN0IHNldC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZvbGxvd2VkIGJ5IGEgdGhpcmQgc2V0IG9uIFN1bmRheSBuaWdodHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBlcmZvcm1lZCBzb2xlbHkgYnkgdGhlIG11c2ljaWFucyBpbiB0aGUgYnVsbHBlbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGRldGFpbHMgaXMgdXNlZCBpbiB0aGUgcGFzc2FnZSB0byBpbmRpY2F0ZSBob3cgdGhlIHB1cmlzdHMgaW4gdGhlIGF1ZGllbmNlIGluaXRpYWxseSByZWFjdGVkIHRvIEV2ZXJldHQgUGF5bmUncyBjaG9pY2Ugb2YgbXVzaWM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBvdmVyYWxsIHNpbGVuY2Ugb2YgdGhlIGF1ZGllbmNlLCBpbmNsdWRpbmcgdGhlIHB1cmlzdHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBkZXNjcmlwdGlvbiBvZiB0aGUgYXVkaWVuY2UncyBjb2xsZWN0aXZlIGluLXN1Y2sgb2YgYnJlYXRoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBwb3N0dXJlIHRoZSBwdXJpc3RzIGFzc3VtZWQgaW4gdGhlaXIgc2VhdHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBmYWN0IHRoYXQgdGhlIHB1cmlzdHMgc3Rvb2QgdXA8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBBY2NvcmRpbmcgdG8gdGhlIG5hcnJhdG9yLCB3aGF0IGRpZCBIYXR0aWUgc2VlIEV2ZXJldHQgUGF5bmUgZG8gcHJpb3IgdG8gcGxheWluZyAiU29ubnkgQm95IEJsdWUiPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE1vdmUgcXVpY2tseSBmcm9tIGhpcyBzZWF0IHRvIHRoZSBiYW5kc3RhbmQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN0dWR5IHRoZSBhdWRpZW5jZSBhcm91bmQgaGltPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENvbmZlciB3aXRoIHRoZSBiYXNzaXN0IGFuZCB0aGUgZHJ1bW1lcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFubm91bmNlIHRoZSBuYW1lIG9mIHRoZSB0dW5lIGhlIHdhcyBnb2luZyB0byBwbGF5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBUaGUgcGFzc2FnZSBpbml0aWFsbHkgcG9ydHJheXMgdGhlIHB1cmlzdHMgbW9zdCBuZWFybHkgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGtub3dsZWRnZWFibGUgYW5kIG9wZW4gbWluZGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNub2JiaXNoIGFuZCBpbnRvbGVyYW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHJhdGlvbmFsIGFuZCB3ZWxsIGVkdWNhdGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluZXhwZXJpZW5jZWQgYW5kIHVuaW5oaWJpdGVkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgSGF0dGllIGJlbGlldmVkIEJhY2ggYW5kIHRoZSBibHVlcyB3ZXJlIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG11c2ljYWwgaW5mbHVlbmNlcyB0aGF0IEV2ZXJldHQgUGF5bmUgdHJpZWQgdG8gYXZvaWQgcmVwcmVzZW50aW5nIHdoZW4gaGUgcGxheWVkIHBpYW5vLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZvdW5kYXRpb24gb2YgRXZlcmV0dCBQYXluZSdzIGludmVudGl2ZSBwaWFubyBwbGF5aW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRydWUgbXVzaWMgb2YgdGhlIGhlYXZlbnMgdGhhdCBpbnNwaXJlZCBFdmVyZXR0IFBheW5lJ3MgY3JlYXRpdml0eSBhcyBhIHBpYW5vIHBsYXllci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlYXNvbiB3aHkgRXZlcmV0dCBQYXluZSdzIHBpYW5vLXBsYXlpbmcgYWJpbGl0aWVzIGxpbWl0ZWQgaGltIHRvIFRpbiBQYW4gQWxsZXkgdHVuZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2Ugd2hlbiBFdmVyZXR0IFBheW5lIGZpcnN0IHBsYXllZCAiU29ubnkgQm95IEJsdWUiIHN0cmFpZ2h0IHRocm91Z2gsIGhlIGRpZCBzbzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1vcmUgc2xvd2x5IHRoYW4gd2FzIGludGVuZGVkIGJ5IHRoZSBjb21wb3Nlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFmdGVyIGl0IGhhZCBiZWVuIHN1Z2dlc3RlZCBieSBBYmUgS2Fpc2VyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFnYWluc3QgdGhlIHdpc2hlcyBvZiB0aGUgYmFzc2lzdCBhbmQgZHJ1bW1lci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdpdGhvdXQgZm9sbG93aW5nIHRoZSBvcmlnaW5hbCB0dW5lLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIEhhdHRpZSBzcGVjdWxhdGVkIHRoYXQgdGhlIHNvdXJjZSBvZiBFdmVyZXR0IFBheW5lJ3MgbXVzaWNhbCBpZGVhcyBhbmQgZmVlbGluZ3MgZHVyaW5nICJTb25ueSBCb3kgQmx1ZSIgd2FzIGluOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSB3YXkgaGUgdGlsdGVkIGhpcyBoZWFkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBzaW1wbGVtaW5kZWRuZXNzIG9mIHRoZSBzb25nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhpcyBhYmlsaXR5IHRvIHBsYXkgd2l0aCBncmVhdCBmb3JtYWxpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhpcyBjb25uZWN0aW9uIHdpdGggdGhlIHNpbGVudCBhdWRpZW5jZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gVGhlIG5hcnJhdG9yIHN0YXRlcyB0aGF0IHRvIEhhdHRpZSwgRXZlcmV0dCBQYXluZSdzIHBlcmZvcm1hbmNlIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG92ZXJseSBzbG93IGFuZCBmb3JtYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlbGliZXJhdGUgeWV0IGFic2VudG1pbmRlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxpa2UgYSBzb25nIHBsYXllZCBpbiBhIGNodXJjaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgcm9sbGVyIGNvYXN0ZXIgb2YgYSByaWRlLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

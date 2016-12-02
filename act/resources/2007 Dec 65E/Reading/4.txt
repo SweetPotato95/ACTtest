@@ -1,106 +1,106 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article “How Cicadas Make Their Noise” by Henry C. Bennet-Clark (?1998 by Scientific American, Inc.).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The early dusk of late spring can be quite a noisy time, Every year some of the several thousand species of cicada emerge from underground, and the males begin to sing their raucous, almost deafening, song. Among these virtuosos of the insect realm, the males of one species of Australian cicada are distinguished for having the loudest insect call measured so far.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSB0aGUgYXJ0aWNsZSDigJxIb3cgQ2ljYWRhcyBNYWtlIFRoZWlyIE5vaXNl4oA/IGJ5IEhlbnJ5IEMuIEJlbm5ldC1DbGFyayAoPzE5OTggYnkgU2NpZW50aWZpYyBBbWVyaWNhbiwgSW5jLikuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBlYXJseSBkdXNrIG9mIGxhdGUgc3ByaW5nIGNhbiBiZSBxdWl0ZSBhIG5vaXN5IHRpbWUsIEV2ZXJ5IHllYXIgc29tZSBvZiB0aGUgc2V2ZXJhbCB0aG91c2FuZCBzcGVjaWVzIG9mIGNpY2FkYSBlbWVyZ2UgZnJvbSB1bmRlcmdyb3VuZCwgYW5kIHRoZSBtYWxlcyBiZWdpbiB0byBzaW5nIHRoZWlyIHJhdWNvdXMsIGFsbW9zdCBkZWFmZW5pbmcsIHNvbmcuIEFtb25nIHRoZXNlIHZpcnR1b3NvcyBvZiB0aGUgaW5zZWN0IHJlYWxtLCB0aGUgbWFsZXMgb2Ygb25lIHNwZWNpZXMgb2YgQXVzdHJhbGlhbiBjaWNhZGEgYXJlIGRpc3Rpbmd1aXNoZWQgZm9yIGhhdmluZyB0aGUgbG91ZGVzdCBpbnNlY3QgY2FsbCBtZWFzdXJlZCBzbyBmYXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>Cicadas are plant-sucking bugs. related most closely to aphids and leafhoppers. They are large—and noisy—for insects that feast on sap: the smallest are 10 millimeters (just under half an inch) long, the largest 100 millimeters (four inches). Female cicadas lay their eggs in the stems of plants or in trees. Later, the newly hatched young drop to the ground and burrow in search of plant roots to tap. They remain underground throughout their larval life, which can last many years; the 13-and 17-year life cycles of the American periodic cicadas are among the longest. When the larvae emerge, they molt into winged adults and then live for only a few weeks. During this time, the males sing to attract mates.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM0PkNpY2FkYXMgYXJlIHBsYW50LXN1Y2tpbmcgYnVncy4gcmVsYXRlZCBtb3N0IGNsb3NlbHkgdG8gYXBoaWRzIGFuZCBsZWFmaG9wcGVycy4gVGhleSBhcmUgbGFyZ2XigJRhbmQgbm9pc3nigJRmb3IgaW5zZWN0cyB0aGF0IGZlYXN0IG9uIHNhcDogdGhlIHNtYWxsZXN0IGFyZSAxMCBtaWxsaW1ldGVycyAoanVzdCB1bmRlciBoYWxmIGFuIGluY2gpIGxvbmcsIHRoZSBsYXJnZXN0IDEwMCBtaWxsaW1ldGVycyAoZm91ciBpbmNoZXMpLiBGZW1hbGUgY2ljYWRhcyBsYXkgdGhlaXIgZWdncyBpbiB0aGUgc3RlbXMgb2YgcGxhbnRzIG9yIGluIHRyZWVzLiBMYXRlciwgdGhlIG5ld2x5IGhhdGNoZWQgeW91bmcgZHJvcCB0byB0aGUgZ3JvdW5kIGFuZCBidXJyb3cgaW4gc2VhcmNoIG9mIHBsYW50IHJvb3RzIHRvIHRhcC4gVGhleSByZW1haW4gdW5kZXJncm91bmQgdGhyb3VnaG91dCB0aGVpciBsYXJ2YWwgbGlmZSwgd2hpY2ggY2FuIGxhc3QgbWFueSB5ZWFyczsgdGhlIDEzLWFuZCAxNy15ZWFyIGxpZmUgY3ljbGVzIG9mIHRoZSBBbWVyaWNhbiBwZXJpb2RpYyBjaWNhZGFzIGFyZSBhbW9uZyB0aGUgbG9uZ2VzdC4gV2hlbiB0aGUgbGFydmFlIGVtZXJnZSwgdGhleSBtb2x0IGludG8gd2luZ2VkIGFkdWx0cyBhbmQgdGhlbiBsaXZlIGZvciBvbmx5IGEgZmV3IHdlZWtzLiBEdXJpbmcgdGhpcyB0aW1lLCB0aGUgbWFsZXMgc2luZyB0byBhdHRyYWN0IG1hdGVzLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Why the insects' calling song is so loud is not entirely understood. One possibility is that the sound may saturate the ears of predators, making it hard to locate the cicada precisely. Or it may be that larger cicadas have a larger home range and need to call louder to attract a mate. We do know that the females are not hard of hearing: they hear just fine with thresholds of 30 to 40 decibels. And it is quite likely that female cicadas can discriminate between males on the basis of song quantity and quality. just as female crickets do.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoeSB0aGUgaW5zZWN0cycgY2FsbGluZyBzb25nIGlzIHNvIGxvdWQgaXMgbm90IGVudGlyZWx5IHVuZGVyc3Rvb2QuIE9uZSBwb3NzaWJpbGl0eSBpcyB0aGF0IHRoZSBzb3VuZCBtYXkgc2F0dXJhdGUgdGhlIGVhcnMgb2YgcHJlZGF0b3JzLCBtYWtpbmcgaXQgaGFyZCB0byBsb2NhdGUgdGhlIGNpY2FkYSBwcmVjaXNlbHkuIE9yIGl0IG1heSBiZSB0aGF0IGxhcmdlciBjaWNhZGFzIGhhdmUgYSBsYXJnZXIgaG9tZSByYW5nZSBhbmQgbmVlZCB0byBjYWxsIGxvdWRlciB0byBhdHRyYWN0IGEgbWF0ZS4gV2UgZG8ga25vdyB0aGF0IHRoZSBmZW1hbGVzIGFyZSBub3QgaGFyZCBvZiBoZWFyaW5nOiB0aGV5IGhlYXIganVzdCBmaW5lIHdpdGggdGhyZXNob2xkcyBvZiAzMCB0byA0MCBkZWNpYmVscy4gQW5kIGl0IGlzIHF1aXRlIGxpa2VseSB0aGF0IGZlbWFsZSBjaWNhZGFzIGNhbiBkaXNjcmltaW5hdGUgYmV0d2VlbiBtYWxlcyBvbiB0aGUgYmFzaXMgb2Ygc29uZyBxdWFudGl0eSBhbmQgcXVhbGl0eS4ganVzdCBhcyBmZW1hbGUgY3JpY2tldHMgZG8uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The key to understanding how the males make their powerful noise lies in isolating the different aspects of the sound-production mechanism. The primary equipment is a pair of domed tymbals, or drum-like structures, that sit on either side of the abdomen. Each of these elastic, <font id=39>resonant organs</font> has a row of four convex ribs that runs longitudinally up and clown its surface. These ribs are flexibly connected to one another as well as to a large oval plate at the rear of the tymbal.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBrZXkgdG8gdW5kZXJzdGFuZGluZyBob3cgdGhlIG1hbGVzIG1ha2UgdGhlaXIgcG93ZXJmdWwgbm9pc2UgbGllcyBpbiBpc29sYXRpbmcgdGhlIGRpZmZlcmVudCBhc3BlY3RzIG9mIHRoZSBzb3VuZC1wcm9kdWN0aW9uIG1lY2hhbmlzbS4gVGhlIHByaW1hcnkgZXF1aXBtZW50IGlzIGEgcGFpciBvZiBkb21lZCB0eW1iYWxzLCBvciBkcnVtLWxpa2Ugc3RydWN0dXJlcywgdGhhdCBzaXQgb24gZWl0aGVyIHNpZGUgb2YgdGhlIGFiZG9tZW4uIEVhY2ggb2YgdGhlc2UgZWxhc3RpYywgPGZvbnQgaWQ9Mzk+cmVzb25hbnQgb3JnYW5zPC9mb250PiBoYXMgYSByb3cgb2YgZm91ciBjb252ZXggcmlicyB0aGF0IHJ1bnMgbG9uZ2l0dWRpbmFsbHkgdXAgYW5kIGNsb3duIGl0cyBzdXJmYWNlLiBUaGVzZSByaWJzIGFyZSBmbGV4aWJseSBjb25uZWN0ZWQgdG8gb25lIGFub3RoZXIgYXMgd2VsbCBhcyB0byBhIGxhcmdlIG92YWwgcGxhdGUgYXQgdGhlIHJlYXIgb2YgdGhlIHR5bWJhbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Attached to each oval tymbal plate, in turn, is a large, fast muscle. The contraction of these muscles distorts the domed tymbals, creating a pulse of sound.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF0dGFjaGVkIHRvIGVhY2ggb3ZhbCB0eW1iYWwgcGxhdGUsIGluIHR1cm4sIGlzIGEgbGFyZ2UsIGZhc3QgbXVzY2xlLiBUaGUgY29udHJhY3Rpb24gb2YgdGhlc2UgbXVzY2xlcyBkaXN0b3J0cyB0aGUgZG9tZWQgdHltYmFscywgY3JlYXRpbmcgYSBwdWxzZSBvZiBzb3VuZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Because they contract so rapidly. the muscles produce enough energy in the first three milliseconds of each contraction to cause two or three of the curved ribs on each tymbal to buckle in sequence. This motion causes two or three stepwise inward movements of the oval plate. The scored elastic energy released during these stepwise movements produces a brief, loud click as the individual ribs buckle. This series of clicks merges to form a train of vibrations at the cicada's song frequency.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlY2F1c2UgdGhleSBjb250cmFjdCBzbyByYXBpZGx5LiB0aGUgbXVzY2xlcyBwcm9kdWNlIGVub3VnaCBlbmVyZ3kgaW4gdGhlIGZpcnN0IHRocmVlIG1pbGxpc2Vjb25kcyBvZiBlYWNoIGNvbnRyYWN0aW9uIHRvIGNhdXNlIHR3byBvciB0aHJlZSBvZiB0aGUgY3VydmVkIHJpYnMgb24gZWFjaCB0eW1iYWwgdG8gYnVja2xlIGluIHNlcXVlbmNlLiBUaGlzIG1vdGlvbiBjYXVzZXMgdHdvIG9yIHRocmVlIHN0ZXB3aXNlIGlud2FyZCBtb3ZlbWVudHMgb2YgdGhlIG92YWwgcGxhdGUuIFRoZSBzY29yZWQgZWxhc3RpYyBlbmVyZ3kgcmVsZWFzZWQgZHVyaW5nIHRoZXNlIHN0ZXB3aXNlIG1vdmVtZW50cyBwcm9kdWNlcyBhIGJyaWVmLCBsb3VkIGNsaWNrIGFzIHRoZSBpbmRpdmlkdWFsIHJpYnMgYnVja2xlLiBUaGlzIHNlcmllcyBvZiBjbGlja3MgbWVyZ2VzIHRvIGZvcm0gYSB0cmFpbiBvZiB2aWJyYXRpb25zIGF0IHRoZSBjaWNhZGEncyBzb25nIGZyZXF1ZW5jeS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=31>A click from the rib of a tymbal produces high sound pressures within the cicada's abdomen. In most species of cicada, this region is filled largely by an air sac. The abdomen contains a pair of thin eardrums that extend the full width of the ventral surface and serve as acoustic windows, connecting the air sac to the outside world.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMxPkEgY2xpY2sgZnJvbSB0aGUgcmliIG9mIGEgdHltYmFsIHByb2R1Y2VzIGhpZ2ggc291bmQgcHJlc3N1cmVzIHdpdGhpbiB0aGUgY2ljYWRhJ3MgYWJkb21lbi4gSW4gbW9zdCBzcGVjaWVzIG9mIGNpY2FkYSwgdGhpcyByZWdpb24gaXMgZmlsbGVkIGxhcmdlbHkgYnkgYW4gYWlyIHNhYy4gVGhlIGFiZG9tZW4gY29udGFpbnMgYSBwYWlyIG9mIHRoaW4gZWFyZHJ1bXMgdGhhdCBleHRlbmQgdGhlIGZ1bGwgd2lkdGggb2YgdGhlIHZlbnRyYWwgc3VyZmFjZSBhbmQgc2VydmUgYXMgYWNvdXN0aWMgd2luZG93cywgY29ubmVjdGluZyB0aGUgYWlyIHNhYyB0byB0aGUgb3V0c2lkZSB3b3JsZC48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The high-pressure sound pulses produced by the tymbals and ribs create a sympathetic resonance in the abdominal air sac. Because the eardrums are larger than the tymbals, they serve as an effective means of radiating the sound beyond the body—causing it to be about 20 rimes louder than if the sound were to emanate simply from the tiny tymbals. Thus, the insect manages to broadcast over a far greater range.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBoaWdoLXByZXNzdXJlIHNvdW5kIHB1bHNlcyBwcm9kdWNlZCBieSB0aGUgdHltYmFscyBhbmQgcmlicyBjcmVhdGUgYSBzeW1wYXRoZXRpYyByZXNvbmFuY2UgaW4gdGhlIGFiZG9taW5hbCBhaXIgc2FjLiBCZWNhdXNlIHRoZSBlYXJkcnVtcyBhcmUgbGFyZ2VyIHRoYW4gdGhlIHR5bWJhbHMsIHRoZXkgc2VydmUgYXMgYW4gZWZmZWN0aXZlIG1lYW5zIG9mIHJhZGlhdGluZyB0aGUgc291bmQgYmV5b25kIHRoZSBib2R54oCUY2F1c2luZyBpdCB0byBiZSBhYm91dCAyMCByaW1lcyBsb3VkZXIgdGhhbiBpZiB0aGUgc291bmQgd2VyZSB0byBlbWFuYXRlIHNpbXBseSBmcm9tIHRoZSB0aW55IHR5bWJhbHMuIFRodXMsIHRoZSBpbnNlY3QgbWFuYWdlcyB0byBicm9hZGNhc3Qgb3ZlciBhIGZhciBncmVhdGVyIHJhbmdlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although sound is <font id=35>radiated via the eardrums, the sensory part of the male ear is in a separate capsule, connected to the eardrum by way of a small canal. This separation may protect the males, preventing them from going deaf.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIHNvdW5kIGlzIDxmb250IGlkPTM1PnJhZGlhdGVkIHZpYSB0aGUgZWFyZHJ1bXMsIHRoZSBzZW5zb3J5IHBhcnQgb2YgdGhlIG1hbGUgZWFyIGlzIGluIGEgc2VwYXJhdGUgY2Fwc3VsZSwgY29ubmVjdGVkIHRvIHRoZSBlYXJkcnVtIGJ5IHdheSBvZiBhIHNtYWxsIGNhbmFsLiBUaGlzIHNlcGFyYXRpb24gbWF5IHByb3RlY3QgdGhlIG1hbGVzLCBwcmV2ZW50aW5nIHRoZW0gZnJvbSBnb2luZyBkZWFmLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The abdomen and eardrums do more, though. Than simply throw the sound into the world. They serve to maintain the quality of the all-important mating song. By extending the abdomen and by opening the opercula that cover the eardrums, the cicada can tune the abdominal resonator to the frequency of the sound pulses produced by the tymbals. The abdominal structures can therefore increase the purity or the loudness of the song. They act as what is called in musical terminology a resonant acoustic load to the tymbals—that is, they correct and balance the sound system.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBhYmRvbWVuIGFuZCBlYXJkcnVtcyBkbyBtb3JlLCB0aG91Z2guIFRoYW4gc2ltcGx5IHRocm93IHRoZSBzb3VuZCBpbnRvIHRoZSB3b3JsZC4gVGhleSBzZXJ2ZSB0byBtYWludGFpbiB0aGUgcXVhbGl0eSBvZiB0aGUgYWxsLWltcG9ydGFudCBtYXRpbmcgc29uZy4gQnkgZXh0ZW5kaW5nIHRoZSBhYmRvbWVuIGFuZCBieSBvcGVuaW5nIHRoZSBvcGVyY3VsYSB0aGF0IGNvdmVyIHRoZSBlYXJkcnVtcywgdGhlIGNpY2FkYSBjYW4gdHVuZSB0aGUgYWJkb21pbmFsIHJlc29uYXRvciB0byB0aGUgZnJlcXVlbmN5IG9mIHRoZSBzb3VuZCBwdWxzZXMgcHJvZHVjZWQgYnkgdGhlIHR5bWJhbHMuIFRoZSBhYmRvbWluYWwgc3RydWN0dXJlcyBjYW4gdGhlcmVmb3JlIGluY3JlYXNlIHRoZSBwdXJpdHkgb3IgdGhlIGxvdWRuZXNzIG9mIHRoZSBzb25nLiBUaGV5IGFjdCBhcyB3aGF0IGlzIGNhbGxlZCBpbiBtdXNpY2FsIHRlcm1pbm9sb2d5IGEgcmVzb25hbnQgYWNvdXN0aWMgbG9hZCB0byB0aGUgdHltYmFsc+KAlHRoYXQgaXMsIHRoZXkgY29ycmVjdCBhbmQgYmFsYW5jZSB0aGUgc291bmQgc3lzdGVtLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A similar mechanism seems to occur in many other species of cicada, and related sound-production systems have been described in other loud insects as well. Yet to the best of our knowledge, the males of this Australian cicada species remain the noisiest insects around.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgc2ltaWxhciBtZWNoYW5pc20gc2VlbXMgdG8gb2NjdXIgaW4gbWFueSBvdGhlciBzcGVjaWVzIG9mIGNpY2FkYSwgYW5kIHJlbGF0ZWQgc291bmQtcHJvZHVjdGlvbiBzeXN0ZW1zIGhhdmUgYmVlbiBkZXNjcmliZWQgaW4gb3RoZXIgbG91ZCBpbnNlY3RzIGFzIHdlbGwuIFlldCB0byB0aGUgYmVzdCBvZiBvdXIga25vd2xlZGdlLCB0aGUgbWFsZXMgb2YgdGhpcyBBdXN0cmFsaWFuIGNpY2FkYSBzcGVjaWVzIHJlbWFpbiB0aGUgbm9pc2llc3QgaW5zZWN0cyBhcm91bmQuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">31. Compared to the language of the first paragraph, the language of the seventh paragraph (lines 56-62) is more:
-<div class = "choice">A. informal.</div>
-<div class = "choice">B. technical.</div>
-<div class = "choice">C. vague.</div>
-<div class = "choice">D. judgmental.</div>
-</div>
-###################
-<div class = "quiz">32. Which of the following questions is NOT answered by the passage?
-<div class = "choice">F. How much time passes between the moment a female cicada lays an egg and when the egg hatches?</div>
-<div class = "choice">G. Where do cicadas spend the larval phase of their lives?</div>
-<div class = "choice">H. Where in relation to a cicada's abdomen are its domed tymbals and oval place?</div>
-<div class = "choice">J. What causes the ribs on a cicada's tymbal to buckle?</div>
-</div>
-###################
-<div class = "quiz">33. It is most reasonable to infer from the passage that cicadas in their larval stage obtain nourishment in the form of:
-<div class = "choice">A. sap from plant roots.</div>
-<div class = "choice">B. nutrients from the stems of plants.</div>
-<div class = "choice">C. protein from ocher insects.</div>
-<div class = "choice">D. berries and nectar from plants.</div>
-</div>
-###################
-<div class = "quiz">34. The primary purpose of the second paragraph (lines 8-21) is to:
-<div class = "choice">F. compare the sound-producing mechanism of cicadas to that of leafhoppers.</div>
-<div class = "choice">G. establish what distinguishes American cicadas from Australian cicadas.</div>
-<div class = "choice">H. provide an overview of the characteristics and life cycle of cicadas.</div>
-<div class = "choice">J. explain the role cicadas play in maintaining the various ecosystems they inhabit around the globe.</div>
-</div>
-###################
-<div class = "quiz">35. As it is used in line 71, the word radiated most nearly means:
-<div class = "choice">A. purified.</div>
-<div class = "choice">B. broadcast.</div>
-<div class = "choice">C. rounded.</div>
-<div class = "choice">D. detected.</div>
-</div>
-###################
-<div class = "quiz">36. Which of the following statements about the noise levels produced by cicadas is supported by the passage?
-<div class = "choice">F. The longer a cicada stays underground to develop, the more complex its sound-producing mechanism is.</div>
-<div class = "choice">G. Compared to Australian cicadas, American cicadas are louder in the spring and quieter in the summer.</div>
-<div class = "choice">H. The males of one species of Australian cicada are believed to be the loudest of all insects.</div>
-<div class = "choice">J. Female cicadas adjust the volume of their sound to the same level as chat of their maces.</div>
-</div>
-###################
-<div class = "quiz">37. The passage states that cicadas are most closely related to:
-<div class = "choice">A. aphids and leafhoppers.</div>
-<div class = "choice">B. crickets and leafhoppers.</div>
-<div class = "choice">C. crickets and dragonflies.</div>
-<div class = "choice">D. dragonflies and aphids.</div>
-</div>
-###################
-<div class = "quiz">38. Which of the following ideas is clearly presented in the passage as theory and not fact?
-<div class = "choice">F. The high-pressure sound pulses produced by the tymbals and ribs create a sympathetic resonance in the abdominal air sac.</div>
-<div class = "choice">G. The cicada's abdominal structures can increase the purity or the loudness of the cicada's song.</div>
-<div class = "choice">H. The female is not hard of hearing, so it is not because of any deafness on her part that the male sings loudly.</div>
-<div class = "choice">J. The calling song of the cicada is so loud that it saturates the ears of predators, making it difficult for the predators to locate the cicada.</div>
-</div>
-###################
-<div class = "quiz">39. The term resonant organs (line 38) refers to what part of a cicada?
-<div class = "choice">A. Eardrums</div>
-<div class = "choice">B. Tymbals</div>
-<div class = "choice">C. Oval plates</div>
-<div class = "choice">D. Air sacs</div>
-</div>
-###################
-<div class = "quiz">40. Which of the following statements best reflects the information provided in the passage about the size of the cicada's eardrums and tymbals and the effect this has on the sound of a cicada?
-<div class = "choice">F. The eardrums and the tymbals are the same size, which allows their sounds to be in tune.</div>
-<div class = "choice">G. Larger than the tymbals, the eardrums amplify the sound made by the tymbals by about twenty times.</div>
-<div class = "choice">H. The eardrums and the tymbals both collapse and expand dramatically as sound-producing muscles force air through chem.</div>
-<div class = "choice">J. Species of cicadas whose tymbals are as large as their eardrums are louder than species for whom this is not the case.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gQ29tcGFyZWQgdG8gdGhlIGxhbmd1YWdlIG9mIHRoZSBmaXJzdCBwYXJhZ3JhcGgsIHRoZSBsYW5ndWFnZSBvZiB0aGUgc2V2ZW50aCBwYXJhZ3JhcGggKGxpbmVzIDU2LTYyKSBpcyBtb3JlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluZm9ybWFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRlY2huaWNhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHZhZ3VlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGp1ZGdtZW50YWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgaXMgTk9UIGFuc3dlcmVkIGJ5IHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEhvdyBtdWNoIHRpbWUgcGFzc2VzIGJldHdlZW4gdGhlIG1vbWVudCBhIGZlbWFsZSBjaWNhZGEgbGF5cyBhbiBlZ2cgYW5kIHdoZW4gdGhlIGVnZyBoYXRjaGVzPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoZXJlIGRvIGNpY2FkYXMgc3BlbmQgdGhlIGxhcnZhbCBwaGFzZSBvZiB0aGVpciBsaXZlcz88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoZXJlIGluIHJlbGF0aW9uIHRvIGEgY2ljYWRhJ3MgYWJkb21lbiBhcmUgaXRzIGRvbWVkIHR5bWJhbHMgYW5kIG92YWwgcGxhY2U/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoYXQgY2F1c2VzIHRoZSByaWJzIG9uIGEgY2ljYWRhJ3MgdHltYmFsIHRvIGJ1Y2tsZT88L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSXQgaXMgbW9zdCByZWFzb25hYmxlIHRvIGluZmVyIGZyb20gdGhlIHBhc3NhZ2UgdGhhdCBjaWNhZGFzIGluIHRoZWlyIGxhcnZhbCBzdGFnZSBvYnRhaW4gbm91cmlzaG1lbnQgaW4gdGhlIGZvcm0gb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNhcCBmcm9tIHBsYW50IHJvb3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG51dHJpZW50cyBmcm9tIHRoZSBzdGVtcyBvZiBwbGFudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByb3RlaW4gZnJvbSBvY2hlciBpbnNlY3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJlcnJpZXMgYW5kIG5lY3RhciBmcm9tIHBsYW50cy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIHByaW1hcnkgcHVycG9zZSBvZiB0aGUgc2Vjb25kIHBhcmFncmFwaCAobGluZXMgOC0yMSkgaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbXBhcmUgdGhlIHNvdW5kLXByb2R1Y2luZyBtZWNoYW5pc20gb2YgY2ljYWRhcyB0byB0aGF0IG9mIGxlYWZob3BwZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVzdGFibGlzaCB3aGF0IGRpc3Rpbmd1aXNoZXMgQW1lcmljYW4gY2ljYWRhcyBmcm9tIEF1c3RyYWxpYW4gY2ljYWRhcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHByb3ZpZGUgYW4gb3ZlcnZpZXcgb2YgdGhlIGNoYXJhY3RlcmlzdGljcyBhbmQgbGlmZSBjeWNsZSBvZiBjaWNhZGFzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV4cGxhaW4gdGhlIHJvbGUgY2ljYWRhcyBwbGF5IGluIG1haW50YWluaW5nIHRoZSB2YXJpb3VzIGVjb3N5c3RlbXMgdGhleSBpbmhhYml0IGFyb3VuZCB0aGUgZ2xvYmUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDcxLCB0aGUgd29yZCByYWRpYXRlZCBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHB1cmlmaWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJyb2FkY2FzdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJvdW5kZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRldGVjdGVkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IHRoZSBub2lzZSBsZXZlbHMgcHJvZHVjZWQgYnkgY2ljYWRhcyBpcyBzdXBwb3J0ZWQgYnkgdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBsb25nZXIgYSBjaWNhZGEgc3RheXMgdW5kZXJncm91bmQgdG8gZGV2ZWxvcCwgdGhlIG1vcmUgY29tcGxleCBpdHMgc291bmQtcHJvZHVjaW5nIG1lY2hhbmlzbSBpcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIENvbXBhcmVkIHRvIEF1c3RyYWxpYW4gY2ljYWRhcywgQW1lcmljYW4gY2ljYWRhcyBhcmUgbG91ZGVyIGluIHRoZSBzcHJpbmcgYW5kIHF1aWV0ZXIgaW4gdGhlIHN1bW1lci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBtYWxlcyBvZiBvbmUgc3BlY2llcyBvZiBBdXN0cmFsaWFuIGNpY2FkYSBhcmUgYmVsaWV2ZWQgdG8gYmUgdGhlIGxvdWRlc3Qgb2YgYWxsIGluc2VjdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZlbWFsZSBjaWNhZGFzIGFkanVzdCB0aGUgdm9sdW1lIG9mIHRoZWlyIHNvdW5kIHRvIHRoZSBzYW1lIGxldmVsIGFzIGNoYXQgb2YgdGhlaXIgbWFjZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgY2ljYWRhcyBhcmUgbW9zdCBjbG9zZWx5IHJlbGF0ZWQgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFwaGlkcyBhbmQgbGVhZmhvcHBlcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNyaWNrZXRzIGFuZCBsZWFmaG9wcGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNyaWNrZXRzIGFuZCBkcmFnb25mbGllcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRyYWdvbmZsaWVzIGFuZCBhcGhpZHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpZGVhcyBpcyBjbGVhcmx5IHByZXNlbnRlZCBpbiB0aGUgcGFzc2FnZSBhcyB0aGVvcnkgYW5kIG5vdCBmYWN0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBoaWdoLXByZXNzdXJlIHNvdW5kIHB1bHNlcyBwcm9kdWNlZCBieSB0aGUgdHltYmFscyBhbmQgcmlicyBjcmVhdGUgYSBzeW1wYXRoZXRpYyByZXNvbmFuY2UgaW4gdGhlIGFiZG9taW5hbCBhaXIgc2FjLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBjaWNhZGEncyBhYmRvbWluYWwgc3RydWN0dXJlcyBjYW4gaW5jcmVhc2UgdGhlIHB1cml0eSBvciB0aGUgbG91ZG5lc3Mgb2YgdGhlIGNpY2FkYSdzIHNvbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBmZW1hbGUgaXMgbm90IGhhcmQgb2YgaGVhcmluZywgc28gaXQgaXMgbm90IGJlY2F1c2Ugb2YgYW55IGRlYWZuZXNzIG9uIGhlciBwYXJ0IHRoYXQgdGhlIG1hbGUgc2luZ3MgbG91ZGx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBjYWxsaW5nIHNvbmcgb2YgdGhlIGNpY2FkYSBpcyBzbyBsb3VkIHRoYXQgaXQgc2F0dXJhdGVzIHRoZSBlYXJzIG9mIHByZWRhdG9ycywgbWFraW5nIGl0IGRpZmZpY3VsdCBmb3IgdGhlIHByZWRhdG9ycyB0byBsb2NhdGUgdGhlIGNpY2FkYS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHRlcm0gcmVzb25hbnQgb3JnYW5zIChsaW5lIDM4KSByZWZlcnMgdG8gd2hhdCBwYXJ0IG9mIGEgY2ljYWRhPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEVhcmRydW1zPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFR5bWJhbHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE92YWwgcGxhdGVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFpciBzYWNzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgcmVmbGVjdHMgdGhlIGluZm9ybWF0aW9uIHByb3ZpZGVkIGluIHRoZSBwYXNzYWdlIGFib3V0IHRoZSBzaXplIG9mIHRoZSBjaWNhZGEncyBlYXJkcnVtcyBhbmQgdHltYmFscyBhbmQgdGhlIGVmZmVjdCB0aGlzIGhhcyBvbiB0aGUgc291bmQgb2YgYSBjaWNhZGE/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBlYXJkcnVtcyBhbmQgdGhlIHR5bWJhbHMgYXJlIHRoZSBzYW1lIHNpemUsIHdoaWNoIGFsbG93cyB0aGVpciBzb3VuZHMgdG8gYmUgaW4gdHVuZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExhcmdlciB0aGFuIHRoZSB0eW1iYWxzLCB0aGUgZWFyZHJ1bXMgYW1wbGlmeSB0aGUgc291bmQgbWFkZSBieSB0aGUgdHltYmFscyBieSBhYm91dCB0d2VudHkgdGltZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBlYXJkcnVtcyBhbmQgdGhlIHR5bWJhbHMgYm90aCBjb2xsYXBzZSBhbmQgZXhwYW5kIGRyYW1hdGljYWxseSBhcyBzb3VuZC1wcm9kdWNpbmcgbXVzY2xlcyBmb3JjZSBhaXIgdGhyb3VnaCBjaGVtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNwZWNpZXMgb2YgY2ljYWRhcyB3aG9zZSB0eW1iYWxzIGFyZSBhcyBsYXJnZSBhcyB0aGVpciBlYXJkcnVtcyBhcmUgbG91ZGVyIHRoYW4gc3BlY2llcyBmb3Igd2hvbSB0aGlzIGlzIG5vdCB0aGUgY2FzZS48L2Rpdj4=
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,128 +1,128 @@
-<h1>Coming to America</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Though it was fifteen years ago, I still remember my journey from China to the United States when I was seven years old. On the tarmac outside the crowded airport in Shanghai, I mustered the last of my feigned courage to wave goodbye to my grandparents and boarded the plane. The plane taxied a long way, then quickly sped up, gave a sudden jolt, and lifted off.</div>
+PGgxPkNvbWluZyB0byBBbWVyaWNhPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRob3VnaCBpdCB3YXMgZmlmdGVlbiB5ZWFycyBhZ28sIEkgc3RpbGwgcmVtZW1iZXIgbXkgam91cm5leSBmcm9tIENoaW5hIHRvIHRoZSBVbml0ZWQgU3RhdGVzIHdoZW4gSSB3YXMgc2V2ZW4geWVhcnMgb2xkLiBPbiB0aGUgdGFybWFjIG91dHNpZGUgdGhlIGNyb3dkZWQgYWlycG9ydCBpbiBTaGFuZ2hhaSwgSSBtdXN0ZXJlZCB0aGUgbGFzdCBvZiBteSBmZWlnbmVkIGNvdXJhZ2UgdG8gd2F2ZSBnb29kYnllIHRvIG15IGdyYW5kcGFyZW50cyBhbmQgYm9hcmRlZCB0aGUgcGxhbmUuIFRoZSBwbGFuZSB0YXhpZWQgYSBsb25nIHdheSwgdGhlbiBxdWlja2x5IHNwZWQgdXAsIGdhdmUgYSBzdWRkZW4gam9sdCwgYW5kIGxpZnRlZCBvZmYuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=15>Seeing dark storm clouds ahead,</font> drops of rain began to streak my window. Feeling so much force. against me, I shut my eyes in search of familiar memories <font id=16>I would recognize.</font> I called up visions of Grandma singing lullabies to me, of delicious meals at the Spring and Autumn festivals, and of my schoolmates walking with me to school.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE1PlNlZWluZyBkYXJrIHN0b3JtIGNsb3VkcyBhaGVhZCw8L2ZvbnQ+IGRyb3BzIG9mIHJhaW4gYmVnYW4gdG8gc3RyZWFrIG15IHdpbmRvdy4gRmVlbGluZyBzbyBtdWNoIGZvcmNlLiBhZ2FpbnN0IG1lLCBJIHNodXQgbXkgZXllcyBpbiBzZWFyY2ggb2YgZmFtaWxpYXIgbWVtb3JpZXMgPGZvbnQgaWQ9MTY+SSB3b3VsZCByZWNvZ25pemUuPC9mb250PiBJIGNhbGxlZCB1cCB2aXNpb25zIG9mIEdyYW5kbWEgc2luZ2luZyBsdWxsYWJpZXMgdG8gbWUsIG9mIGRlbGljaW91cyBtZWFscyBhdCB0aGUgU3ByaW5nIGFuZCBBdXR1bW4gZmVzdGl2YWxzLCBhbmQgb2YgbXkgc2Nob29sbWF0ZXMgd2Fsa2luZyB3aXRoIG1lIHRvIHNjaG9vbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=17>I was traveling from my home in Shanghai to New York City.</font> I was to join my parents, who had gone to pursue graduate degrees <font id=18>to the United States</font> when I was just three. But I was quite nervous about living with these people <font id=19>whom I could barely remember.</font> Suddenly I felt empty, acutely aware that I was leaving the only home I'd ever <font id=20>known.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE3Pkkgd2FzIHRyYXZlbGluZyBmcm9tIG15IGhvbWUgaW4gU2hhbmdoYWkgdG8gTmV3IFlvcmsgQ2l0eS48L2ZvbnQ+IEkgd2FzIHRvIGpvaW4gbXkgcGFyZW50cywgd2hvIGhhZCBnb25lIHRvIHB1cnN1ZSBncmFkdWF0ZSBkZWdyZWVzIDxmb250IGlkPTE4PnRvIHRoZSBVbml0ZWQgU3RhdGVzPC9mb250PiB3aGVuIEkgd2FzIGp1c3QgdGhyZWUuIEJ1dCBJIHdhcyBxdWl0ZSBuZXJ2b3VzIGFib3V0IGxpdmluZyB3aXRoIHRoZXNlIHBlb3BsZSA8Zm9udCBpZD0xOT53aG9tIEkgY291bGQgYmFyZWx5IHJlbWVtYmVyLjwvZm9udD4gU3VkZGVubHkgSSBmZWx0IGVtcHR5LCBhY3V0ZWx5IGF3YXJlIHRoYXQgSSB3YXMgbGVhdmluZyB0aGUgb25seSBob21lIEknZCBldmVyIDxmb250IGlkPTIwPmtub3duLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As the plane gained <font id=21>altitude and the</font> dark storm clouds <font id=22>have given</font> way to a deep blue sky. Images of home quickly filled that blue void. I saw myself blowing out candles at my <font id=23>grandparents</font> table on my seventh birthday. We <font id=24>made do with</font> dumplings. duck, and a small white cake. I can still picture the two beaming faces across the table－Grandpa with his knowing grin and Grandma with her plump cheeks dimpling as she <font id=25>smiled both</font> congratulating me on my good fortune of going to live in the United States. <font id=26>26</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIHRoZSBwbGFuZSBnYWluZWQgPGZvbnQgaWQ9MjE+YWx0aXR1ZGUgYW5kIHRoZTwvZm9udD4gZGFyayBzdG9ybSBjbG91ZHMgPGZvbnQgaWQ9MjI+aGF2ZSBnaXZlbjwvZm9udD4gd2F5IHRvIGEgZGVlcCBibHVlIHNreS4gSW1hZ2VzIG9mIGhvbWUgcXVpY2tseSBmaWxsZWQgdGhhdCBibHVlIHZvaWQuIEkgc2F3IG15c2VsZiBibG93aW5nIG91dCBjYW5kbGVzIGF0IG15IDxmb250IGlkPTIzPmdyYW5kcGFyZW50czwvZm9udD4gdGFibGUgb24gbXkgc2V2ZW50aCBiaXJ0aGRheS4gV2UgPGZvbnQgaWQ9MjQ+bWFkZSBkbyB3aXRoPC9mb250PiBkdW1wbGluZ3MuIGR1Y2ssIGFuZCBhIHNtYWxsIHdoaXRlIGNha2UuIEkgY2FuIHN0aWxsIHBpY3R1cmUgdGhlIHR3byBiZWFtaW5nIGZhY2VzIGFjcm9zcyB0aGUgdGFibGXvvI1HcmFuZHBhIHdpdGggaGlzIGtub3dpbmcgZ3JpbiBhbmQgR3JhbmRtYSB3aXRoIGhlciBwbHVtcCBjaGVla3MgZGltcGxpbmcgYXMgc2hlIDxmb250IGlkPTI1PnNtaWxlZCBib3RoPC9mb250PiBjb25ncmF0dWxhdGluZyBtZSBvbiBteSBnb29kIGZvcnR1bmUgb2YgZ29pbmcgdG8gbGl2ZSBpbiB0aGUgVW5pdGVkIFN0YXRlcy4gPGZvbnQgaWQ9MjY+MjY8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Twenty-four hours after leaving Shanghai, I finally got off the plane in New York. A <font id=27>woman recognized me</font> from pictures as my mother rushed toward me, wrapped me in her arms, and gently spun around with me. I immediately felt <font id=28>safe and at home in</font> her arms.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlR3ZW50eS1mb3VyIGhvdXJzIGFmdGVyIGxlYXZpbmcgU2hhbmdoYWksIEkgZmluYWxseSBnb3Qgb2ZmIHRoZSBwbGFuZSBpbiBOZXcgWW9yay4gQSA8Zm9udCBpZD0yNz53b21hbiByZWNvZ25pemVkIG1lPC9mb250PiBmcm9tIHBpY3R1cmVzIGFzIG15IG1vdGhlciBydXNoZWQgdG93YXJkIG1lLCB3cmFwcGVkIG1lIGluIGhlciBhcm1zLCBhbmQgZ2VudGx5IHNwdW4gYXJvdW5kIHdpdGggbWUuIEkgaW1tZWRpYXRlbHkgZmVsdCA8Zm9udCBpZD0yOD5zYWZlIGFuZCBhdCBob21lIGluPC9mb250PiBoZXIgYXJtcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Now, as I reflect on that fateful trip, I am proud of the bravery of that little boy who left the security of his childhood home for a new life. <font id=29>29</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdywgYXMgSSByZWZsZWN0IG9uIHRoYXQgZmF0ZWZ1bCB0cmlwLCBJIGFtIHByb3VkIG9mIHRoZSBicmF2ZXJ5IG9mIHRoYXQgbGl0dGxlIGJveSB3aG8gbGVmdCB0aGUgc2VjdXJpdHkgb2YgaGlzIGNoaWxkaG9vZCBob21lIGZvciBhIG5ldyBsaWZlLiA8Zm9udCBpZD0yOT4yOTwvZm9udD48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">15.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Heading into dark storm clouds,</div>
-<div class = "choice">C. As we headed into dark storm clouds,</div>
-<div class = "choice">D. Frightened by dark storm clouds ahead,</div>
-</div>
-###################
-<div class = "quiz">16.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. to recognize.</div>
-<div class = "choice">H. to remember.</div>
-<div class = "choice">J. DELETE the underlined portion and end the sentence with a period.</div>
-</div>
-###################
-<div class = "quiz">17. Given that all the choices are true, which one provides material most relevant to what follows paragraph?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. My school had been just a few blocks from my grandparents' house.</div>
-<div class = "choice">C. The Spring Festival, also known as Chinese New Year, was my favorite.</div>
-<div class = "choice">D. My best friend had lived next door with his parents and brothers and sisters.</div>
-</div>
-###################
-<div class = "quiz">18. The best placement for the underlined portion would be:
-<div class = "choice">F. where it is now.</div>
-<div class = "choice">G. after the word parents (and before the comma).</div>
-<div class = "choice">H. after the word gone.</div>
-<div class = "choice">J. after the word three (and before the period).</div>
-</div>
-###################
-<div class = "quiz">19. Which choice most logically supports the first part of this sentence?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. whom I missed so dearly.</div>
-<div class = "choice">C. who were living in the United States.</div>
-<div class = "choice">D. who were my parents.</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. knew.</div>
-<div class = "choice">H. knowing.</div>
-<div class = "choice">J. knowledge.</div>
-</div>
-###################
-<div class = "quiz">21.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. altitude; the</div>
-<div class = "choice">C. altitude. The</div>
-<div class = "choice">D. altitude, the</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. had gave</div>
-<div class = "choice">H. gave</div>
-<div class = "choice">J. give</div>
-</div>
-###################
-<div class = "quiz">23.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. grandparents'</div>
-<div class = "choice">C. grandparent's</div>
-<div class = "choice">D. grandparents's</div>
-</div>
-###################
-<div class = "quiz">24. Which choice most effectively expresses their great enjoyment of the food?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. were fine with</div>
-<div class = "choice">H. forced down</div>
-<div class = "choice">J. feasted on</div>
-</div>
-###################
-<div class = "quiz">25.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. smiled. Both</div>
-<div class = "choice">C. smiled—both</div>
-<div class = "choice">D. smiled; both</div>
-</div>
-###################
-<div class = "quiz">26. At this point, the writer is considering adding the following true statement:
-In Chinese, the word fu means "good fortune." Should the writer make this addition here?
-<div class = "choice">F. Yes; because it clarifies what the narrator believes were the grandparents' true feelings.</div>
-<div class = "choice">G. Yes, because it supports the rest of the paragraph by explaining a Chinese birthday tradition.</div>
-<div class = "choice">H. No, because it would distract readers from the main focus of this paragraph.</div>
-<div class = "choice">J. No, because it creates confusion about what language the narrator will speak in the United States.</div>
-</div>
-###################
-<div class = "quiz">27.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. woman, recognizing me</div>
-<div class = "choice">C. woman, I recognized,</div>
-<div class = "choice">D. woman I recognized</div>
-</div>
-###################
-<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. safely at home in</div>
-<div class = "choice">G. at home in the safety of</div>
-<div class = "choice">H. safely home in</div>
-<div class = "choice">J. home safety in</div>
-</div>
-###################
-<div class = "quiz">29. Which of the following sentences, if added here, would most effectively express one of the main ideas of the essay?
-<div class = "choice">A. Since that day, my experiences have proved that anything worthwhile requires a little courage.</div>
-<div class = "choice">B. Knowing I had left China for good, I realized that I had taken my childhood home for granted.</div>
-<div class = "choice">C. My newfound freedom from my grandparents' overprotectiveness helped me become successful.</div>
-<div class = "choice">D. Truly, grandparents can affect a child's perspective on life and feelings of worth.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhlYWRpbmcgaW50byBkYXJrIHN0b3JtIGNsb3Vkcyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFzIHdlIGhlYWRlZCBpbnRvIGRhcmsgc3Rvcm0gY2xvdWRzLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEZyaWdodGVuZWQgYnkgZGFyayBzdG9ybSBjbG91ZHMgYWhlYWQsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRvIHJlY29nbml6ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRvIHJlbWVtYmVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIGFuZCBlbmQgdGhlIHNlbnRlbmNlIHdpdGggYSBwZXJpb2QuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyBtYXRlcmlhbCBtb3N0IHJlbGV2YW50IHRvIHdoYXQgZm9sbG93cyBwYXJhZ3JhcGg/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE15IHNjaG9vbCBoYWQgYmVlbiBqdXN0IGEgZmV3IGJsb2NrcyBmcm9tIG15IGdyYW5kcGFyZW50cycgaG91c2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBTcHJpbmcgRmVzdGl2YWwsIGFsc28ga25vd24gYXMgQ2hpbmVzZSBOZXcgWWVhciwgd2FzIG15IGZhdm9yaXRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE15IGJlc3QgZnJpZW5kIGhhZCBsaXZlZCBuZXh0IGRvb3Igd2l0aCBoaXMgcGFyZW50cyBhbmQgYnJvdGhlcnMgYW5kIHNpc3RlcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIGJlc3QgcGxhY2VtZW50IGZvciB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFmdGVyIHRoZSB3b3JkIHBhcmVudHMgKGFuZCBiZWZvcmUgdGhlIGNvbW1hKS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFmdGVyIHRoZSB3b3JkIGdvbmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmdGVyIHRoZSB3b3JkIHRocmVlIChhbmQgYmVmb3JlIHRoZSBwZXJpb2QpLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gV2hpY2ggY2hvaWNlIG1vc3QgbG9naWNhbGx5IHN1cHBvcnRzIHRoZSBmaXJzdCBwYXJ0IG9mIHRoaXMgc2VudGVuY2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdob20gSSBtaXNzZWQgc28gZGVhcmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdobyB3ZXJlIGxpdmluZyBpbiB0aGUgVW5pdGVkIFN0YXRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdobyB3ZXJlIG15IHBhcmVudHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGtuZXcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGtub3dpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGtub3dsZWRnZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFsdGl0dWRlOyB0aGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFsdGl0dWRlLiBUaGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFsdGl0dWRlLCB0aGU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhZCBnYXZlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdhdmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdpdmU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGdyYW5kcGFyZW50cyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdyYW5kcGFyZW50J3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyYW5kcGFyZW50cydzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gV2hpY2ggY2hvaWNlIG1vc3QgZWZmZWN0aXZlbHkgZXhwcmVzc2VzIHRoZWlyIGdyZWF0IGVuam95bWVudCBvZiB0aGUgZm9vZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdlcmUgZmluZSB3aXRoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZvcmNlZCBkb3duPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZlYXN0ZWQgb248L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNtaWxlZC4gQm90aDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNtaWxlZOKAlGJvdGg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNtaWxlZDsgYm90aDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudDo=
+SW4gQ2hpbmVzZSwgdGhlIHdvcmQgZnUgbWVhbnMgImdvb2QgZm9ydHVuZS4iIFNob3VsZCB0aGUgd3JpdGVyIG1ha2UgdGhpcyBhZGRpdGlvbiBoZXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllczsgYmVjYXVzZSBpdCBjbGFyaWZpZXMgd2hhdCB0aGUgbmFycmF0b3IgYmVsaWV2ZXMgd2VyZSB0aGUgZ3JhbmRwYXJlbnRzJyB0cnVlIGZlZWxpbmdzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBpdCBzdXBwb3J0cyB0aGUgcmVzdCBvZiB0aGUgcGFyYWdyYXBoIGJ5IGV4cGxhaW5pbmcgYSBDaGluZXNlIGJpcnRoZGF5IHRyYWRpdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIGl0IHdvdWxkIGRpc3RyYWN0IHJlYWRlcnMgZnJvbSB0aGUgbWFpbiBmb2N1cyBvZiB0aGlzIHBhcmFncmFwaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGl0IGNyZWF0ZXMgY29uZnVzaW9uIGFib3V0IHdoYXQgbGFuZ3VhZ2UgdGhlIG5hcnJhdG9yIHdpbGwgc3BlYWsgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvbWFuLCByZWNvZ25pemluZyBtZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdvbWFuLCBJIHJlY29nbml6ZWQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdvbWFuIEkgcmVjb2duaXplZDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNhZmVseSBhdCBob21lIGluPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF0IGhvbWUgaW4gdGhlIHNhZmV0eSBvZjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNhZmVseSBob21lIGluPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhvbWUgc2FmZXR5IGluPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzZW50ZW5jZXMsIGlmIGFkZGVkIGhlcmUsIHdvdWxkIG1vc3QgZWZmZWN0aXZlbHkgZXhwcmVzcyBvbmUgb2YgdGhlIG1haW4gaWRlYXMgb2YgdGhlIGVzc2F5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNpbmNlIHRoYXQgZGF5LCBteSBleHBlcmllbmNlcyBoYXZlIHByb3ZlZCB0aGF0IGFueXRoaW5nIHdvcnRod2hpbGUgcmVxdWlyZXMgYSBsaXR0bGUgY291cmFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEtub3dpbmcgSSBoYWQgbGVmdCBDaGluYSBmb3IgZ29vZCwgSSByZWFsaXplZCB0aGF0IEkgaGFkIHRha2VuIG15IGNoaWxkaG9vZCBob21lIGZvciBncmFudGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE15IG5ld2ZvdW5kIGZyZWVkb20gZnJvbSBteSBncmFuZHBhcmVudHMnIG92ZXJwcm90ZWN0aXZlbmVzcyBoZWxwZWQgbWUgYmVjb21lIHN1Y2Nlc3NmdWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRydWx5LCBncmFuZHBhcmVudHMgY2FuIGFmZmVjdCBhIGNoaWxkJ3MgcGVyc3BlY3RpdmUgb24gbGlmZSBhbmQgZmVlbGluZ3Mgb2Ygd29ydGguPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

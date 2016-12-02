@@ -1,58 +1,58 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Ferromagnetic materials become magnetic when they are placed in an external magnetic field.</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7v0ZlcnJvbWFnbmV0aWMgbWF0ZXJpYWxzIGJlY29tZSBtYWduZXRpYyB3aGVuIHRoZXkgYXJlIHBsYWNlZCBpbiBhbiBleHRlcm5hbCBtYWduZXRpYyBmaWVsZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 are graphs of the total magnetic field, B, versus the intensity of the external magnetic field, H, for Materials X and Y, respectively. (<img src='file:\$$$\resources\2007 Dec 65E\imgs\251.png' width = '158'height = '38'/>, where <img src='file:\$$$\resources\2007 Dec 65E\imgs\252.png' width = '28'height = '38'/> is a constant and M is the ;magnetization of the material.) B varies as H is increased from zero, then decreased, then increased again, as shown by the directions of the arrows in the figures. If B is not zero when H returns to zero, a material has been magnetized.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMSBhbmQgMiBhcmUgZ3JhcGhzIG9mIHRoZSB0b3RhbCBtYWduZXRpYyBmaWVsZCwgQiwgdmVyc3VzIHRoZSBpbnRlbnNpdHkgb2YgdGhlIGV4dGVybmFsIG1hZ25ldGljIGZpZWxkLCBILCBmb3IgTWF0ZXJpYWxzIFggYW5kIFksIHJlc3BlY3RpdmVseS4gKDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1MS5wbmcnIHdpZHRoID0gJzE1OCdoZWlnaHQgPSAnMzgnLz4sIHdoZXJlIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1Mi5wbmcnIHdpZHRoID0gJzI4J2hlaWdodCA9ICczOCcvPiBpcyBhIGNvbnN0YW50IGFuZCBNIGlzIHRoZSA7bWFnbmV0aXphdGlvbiBvZiB0aGUgbWF0ZXJpYWwuKSBCIHZhcmllcyBhcyBIIGlzIGluY3JlYXNlZCBmcm9tIHplcm8sIHRoZW4gZGVjcmVhc2VkLCB0aGVuIGluY3JlYXNlZCBhZ2FpbiwgYXMgc2hvd24gYnkgdGhlIGRpcmVjdGlvbnMgb2YgdGhlIGFycm93cyBpbiB0aGUgZmlndXJlcy4gSWYgQiBpcyBub3QgemVybyB3aGVuIEggcmV0dXJucyB0byB6ZXJvLCBhIG1hdGVyaWFsIGhhcyBiZWVuIG1hZ25ldGl6ZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When B or H is positive(negative), it is described as pointing north(south).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gQiBvciBIIGlzIHBvc2l0aXZlKG5lZ2F0aXZlKSwgaXQgaXMgZGVzY3JpYmVkIGFzIHBvaW50aW5nIG5vcnRoKHNvdXRoKS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\253.png' width = '522'height = '429'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1My5wbmcnIHdpZHRoID0gJzUyMidoZWlnaHQgPSAnNDI5Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\254.png' width = '442'height = '375'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1NC5wbmcnIHdpZHRoID0gJzQ0MidoZWlnaHQgPSAnMzc1Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">36. For Material X, the maximum positive value of B was obtained at an H closest to:
-<div class = "choice">F. ＋100 amperes/meter.</div>
-<div class = "choice">G. ＋200 amperes/meter.</div>
-<div class = "choice">H. ＋300 amperes/meter.</div>
-<div class = "choice">J. ＋400amperes/meter.</div>
-</div>
-###################
-<div class = "quiz">37. According to Figure 1, for Material X, when H was increasing from its most negative value and had a value of 0 amperes/meter, B had a value closest to:
-<div class = "choice">A. ＋1.3 T.</div>
-<div class = "choice">B. ＋0.5 T.</div>
-<div class = "choice">C. －0.7 T.</div>
-<div class = "choice">D. －1.1 T.</div>
-</div>
-###################
-<div class = "quiz">38. The remanence of a material is the value of B when H reaches zero after H has been decreased from its maximum positive value. According to Figure 2, the remanence of Material Y was closest to:
-<div class = "choice">F. 0.l T.</div>
-<div class = "choice">G. 0.3 T.</div>
-<div class = "choice">H. 0.5 T.</div>
-<div class = "choice">J. 0.7 T.</div>
-</div>
-###################
-<div class = "quiz">39. For a new ferromagnetic material, Z, a partial graph of B versus H is obtained.
-<img src='file:\$$$\resources\2007 Dec 65E\imgs\255.png' width = '134'height = '108'/>
-If Material Z behaves like Materials X and Y when H is varied as shown in Figures 1 and 2, the remainder of the graph of B versus H for Material Z will look most like which of the following?
-<div class = "choice">A. <img src='file:\$$$\resources\2007 Dec 65E\imgs\256.png' width = '109'height = '88'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2007 Dec 65E\imgs\258.png' width = '108'height = '83'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\257.png' width = '123'height = '83'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\259.png' width = '129'height = '85'/></div>
-</div>
-###################
-<div class = "quiz">40. Consider the most positive value of B and the most negative value of B on the graph in Figure 1. How are these two values of B related? The most negative value of B is equal to:
-<div class = "choice">F. －1 times the most positive value of B.</div>
-<div class = "choice">G. ＋1 times the most positive value of B.</div>
-<div class = "choice">H. －1 divided by the most positive value of B.</div>
-<div class = "choice">J. ＋1 divided by the most positive value of B.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gRm9yIE1hdGVyaWFsIFgsIHRoZSBtYXhpbXVtIHBvc2l0aXZlIHZhbHVlIG9mIEIgd2FzIG9idGFpbmVkIGF0IGFuIEggY2xvc2VzdCB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIO+8PzEwMCBhbXBlcmVzL21ldGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIO+8PzIwMCBhbXBlcmVzL21ldGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIO+8PzMwMCBhbXBlcmVzL21ldGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIO+8PzQwMGFtcGVyZXMvbWV0ZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCBmb3IgTWF0ZXJpYWwgWCwgd2hlbiBIIHdhcyBpbmNyZWFzaW5nIGZyb20gaXRzIG1vc3QgbmVnYXRpdmUgdmFsdWUgYW5kIGhhZCBhIHZhbHVlIG9mIDAgYW1wZXJlcy9tZXRlciwgQiBoYWQgYSB2YWx1ZSBjbG9zZXN0IHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIO+8PzEuMyBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIO+8PzAuNSBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIO+8PzAuNyBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIO+8PzEuMSBULjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIHJlbWFuZW5jZSBvZiBhIG1hdGVyaWFsIGlzIHRoZSB2YWx1ZSBvZiBCIHdoZW4gSCByZWFjaGVzIHplcm8gYWZ0ZXIgSCBoYXMgYmVlbiBkZWNyZWFzZWQgZnJvbSBpdHMgbWF4aW11bSBwb3NpdGl2ZSB2YWx1ZS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCB0aGUgcmVtYW5lbmNlIG9mIE1hdGVyaWFsIFkgd2FzIGNsb3Nlc3QgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAubCBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAuMyBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDAuNSBULjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDAuNyBULjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gRm9yIGEgbmV3IGZlcnJvbWFnbmV0aWMgbWF0ZXJpYWwsIFosIGEgcGFydGlhbCBncmFwaCBvZiBCIHZlcnN1cyBIIGlzIG9idGFpbmVkLg==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjU1LnBuZycgd2lkdGggPSAnMTM0J2hlaWdodCA9ICcxMDgnLz4=
+SWYgTWF0ZXJpYWwgWiBiZWhhdmVzIGxpa2UgTWF0ZXJpYWxzIFggYW5kIFkgd2hlbiBIIGlzIHZhcmllZCBhcyBzaG93biBpbiBGaWd1cmVzIDEgYW5kIDIsIHRoZSByZW1haW5kZXIgb2YgdGhlIGdyYXBoIG9mIEIgdmVyc3VzIEggZm9yIE1hdGVyaWFsIFogd2lsbCBsb29rIG1vc3QgbGlrZSB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1Ni5wbmcnIHdpZHRoID0gJzEwOSdoZWlnaHQgPSAnODgnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1OC5wbmcnIHdpZHRoID0gJzEwOCdoZWlnaHQgPSAnODMnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1Ny5wbmcnIHdpZHRoID0gJzEyMydoZWlnaHQgPSAnODMnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1OS5wbmcnIHdpZHRoID0gJzEyOSdoZWlnaHQgPSAnODUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQ29uc2lkZXIgdGhlIG1vc3QgcG9zaXRpdmUgdmFsdWUgb2YgQiBhbmQgdGhlIG1vc3QgbmVnYXRpdmUgdmFsdWUgb2YgQiBvbiB0aGUgZ3JhcGggaW4gRmlndXJlIDEuIEhvdyBhcmUgdGhlc2UgdHdvIHZhbHVlcyBvZiBCIHJlbGF0ZWQ/IFRoZSBtb3N0IG5lZ2F0aXZlIHZhbHVlIG9mIEIgaXMgZXF1YWwgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIO+8PzEgdGltZXMgdGhlIG1vc3QgcG9zaXRpdmUgdmFsdWUgb2YgQi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIO+8PzEgdGltZXMgdGhlIG1vc3QgcG9zaXRpdmUgdmFsdWUgb2YgQi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIO+8PzEgZGl2aWRlZCBieSB0aGUgbW9zdCBwb3NpdGl2ZSB2YWx1ZSBvZiBCLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIO+8PzEgZGl2aWRlZCBieSB0aGUgbW9zdCBwb3NpdGl2ZSB2YWx1ZSBvZiBCLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,88 +1,88 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from Just Six Numbers: The Deep Forces That Shape the Universe by Martin Rees (? 2000 by Martin Rees).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Sun is fuelled by conversion of hydrogen (the simplest atom, whose nucleus consists of one proton) into helium (the second-simplest nucleus, consisting of two protons and two neutrons). Attempts to harness fusion as a power source ('controlled fusion') have so far been stymied by the difficulty of achieving the requisite temperatures of many millions of degrees. It is even more of a problem to confine this ultra-hot gas physically in a laboratory－it would obviously melt any solid container－and it has instead to be trapped by magnetic forces. But the Sun is so massive that gravity holds down the overlying cooler layers, and thereby 'keeps the lid on' the high-pressure core. The Sun has adjusted its structure so that nuclear power is generated in the core, and diffuses outward, at just the rate needed to balance the heat lost from the surface－heat that is the basis for life on Earth.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBKdXN0IFNpeCBOdW1iZXJzOiBUaGUgRGVlcCBGb3JjZXMgVGhhdCBTaGFwZSB0aGUgVW5pdmVyc2UgYnkgTWFydGluIFJlZXMgKD8gMjAwMCBieSBNYXJ0aW4gUmVlcykuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBTdW4gaXMgZnVlbGxlZCBieSBjb252ZXJzaW9uIG9mIGh5ZHJvZ2VuICh0aGUgc2ltcGxlc3QgYXRvbSwgd2hvc2UgbnVjbGV1cyBjb25zaXN0cyBvZiBvbmUgcHJvdG9uKSBpbnRvIGhlbGl1bSAodGhlIHNlY29uZC1zaW1wbGVzdCBudWNsZXVzLCBjb25zaXN0aW5nIG9mIHR3byBwcm90b25zIGFuZCB0d28gbmV1dHJvbnMpLiBBdHRlbXB0cyB0byBoYXJuZXNzIGZ1c2lvbiBhcyBhIHBvd2VyIHNvdXJjZSAoJ2NvbnRyb2xsZWQgZnVzaW9uJykgaGF2ZSBzbyBmYXIgYmVlbiBzdHltaWVkIGJ5IHRoZSBkaWZmaWN1bHR5IG9mIGFjaGlldmluZyB0aGUgcmVxdWlzaXRlIHRlbXBlcmF0dXJlcyBvZiBtYW55IG1pbGxpb25zIG9mIGRlZ3JlZXMuIEl0IGlzIGV2ZW4gbW9yZSBvZiBhIHByb2JsZW0gdG8gY29uZmluZSB0aGlzIHVsdHJhLWhvdCBnYXMgcGh5c2ljYWxseSBpbiBhIGxhYm9yYXRvcnnvvI1pdCB3b3VsZCBvYnZpb3VzbHkgbWVsdCBhbnkgc29saWQgY29udGFpbmVy77yNYW5kIGl0IGhhcyBpbnN0ZWFkIHRvIGJlIHRyYXBwZWQgYnkgbWFnbmV0aWMgZm9yY2VzLiBCdXQgdGhlIFN1biBpcyBzbyBtYXNzaXZlIHRoYXQgZ3Jhdml0eSBob2xkcyBkb3duIHRoZSBvdmVybHlpbmcgY29vbGVyIGxheWVycywgYW5kIHRoZXJlYnkgJ2tlZXBzIHRoZSBsaWQgb24nIHRoZSBoaWdoLXByZXNzdXJlIGNvcmUuIFRoZSBTdW4gaGFzIGFkanVzdGVkIGl0cyBzdHJ1Y3R1cmUgc28gdGhhdCBudWNsZWFyIHBvd2VyIGlzIGdlbmVyYXRlZCBpbiB0aGUgY29yZSwgYW5kIGRpZmZ1c2VzIG91dHdhcmQsIGF0IGp1c3QgdGhlIHJhdGUgbmVlZGVkIHRvIGJhbGFuY2UgdGhlIGhlYXQgbG9zdCBmcm9tIHRoZSBzdXJmYWNl77yNaGVhdCB0aGF0IGlzIHRoZSBiYXNpcyBmb3IgbGlmZSBvbiBFYXJ0aC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This fuel has kept the Sun shining for nearly five billion years. But when it stars to run out, in another five billion years or so, the Sun's core will contract, and the outer layers expand. For a hundred million years－a brief interval relative to its overall lifetime－the Sun will brighten up and expand into the kind of star known as a 'red giant', engulfing the inner planets and vaporizing any life that remains on Earth. Some of its outer layers will be blown off, but the core will then settle down as a white dwarf, shining with a dull blue glow, no brighter than a full moon today, on the parched remains of the Solar System.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaXMgZnVlbCBoYXMga2VwdCB0aGUgU3VuIHNoaW5pbmcgZm9yIG5lYXJseSBmaXZlIGJpbGxpb24geWVhcnMuIEJ1dCB3aGVuIGl0IHN0YXJzIHRvIHJ1biBvdXQsIGluIGFub3RoZXIgZml2ZSBiaWxsaW9uIHllYXJzIG9yIHNvLCB0aGUgU3VuJ3MgY29yZSB3aWxsIGNvbnRyYWN0LCBhbmQgdGhlIG91dGVyIGxheWVycyBleHBhbmQuIEZvciBhIGh1bmRyZWQgbWlsbGlvbiB5ZWFyc++8jWEgYnJpZWYgaW50ZXJ2YWwgcmVsYXRpdmUgdG8gaXRzIG92ZXJhbGwgbGlmZXRpbWXvvI10aGUgU3VuIHdpbGwgYnJpZ2h0ZW4gdXAgYW5kIGV4cGFuZCBpbnRvIHRoZSBraW5kIG9mIHN0YXIga25vd24gYXMgYSAncmVkIGdpYW50JywgZW5ndWxmaW5nIHRoZSBpbm5lciBwbGFuZXRzIGFuZCB2YXBvcml6aW5nIGFueSBsaWZlIHRoYXQgcmVtYWlucyBvbiBFYXJ0aC4gU29tZSBvZiBpdHMgb3V0ZXIgbGF5ZXJzIHdpbGwgYmUgYmxvd24gb2ZmLCBidXQgdGhlIGNvcmUgd2lsbCB0aGVuIHNldHRsZSBkb3duIGFzIGEgd2hpdGUgZHdhcmYsIHNoaW5pbmcgd2l0aCBhIGR1bGwgYmx1ZSBnbG93LCBubyBicmlnaHRlciB0aGFuIGEgZnVsbCBtb29uIHRvZGF5LCBvbiB0aGUgcGFyY2hlZCByZW1haW5zIG9mIHRoZSBTb2xhciBTeXN0ZW0uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>Astrophysicists have computed what the inside of our Sun should be like, and have achieved a gratifying fit with its observed radius, brightness, temperature and so forth. They can tell us confidently what conditions prevail in its deep interior; they can also calculate how it will evolve over the next few billion years. Obviously these calculations can't be checked directly. We can, however, observe other stars like the Sun that are at different stages in their evolution. Having a single 'snapshot' of each star's life is not a fatal handicap if we have a large sample, born at different times, available for study. In the same way, a newly landed Martian wouldn't take long to infer the life-cycle of humans (or of trees), by observing large numbers at different stages. Even among the nearby stars, we can discern some that are still youngsters, no more that a million years old, and others in a near-terminal state, which may already have swallowed up any retinue of planets that they once possessed. Such inferences are based on the assumption that atoms and their nuclei are the same everywhere. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM1PkFzdHJvcGh5c2ljaXN0cyBoYXZlIGNvbXB1dGVkIHdoYXQgdGhlIGluc2lkZSBvZiBvdXIgU3VuIHNob3VsZCBiZSBsaWtlLCBhbmQgaGF2ZSBhY2hpZXZlZCBhIGdyYXRpZnlpbmcgZml0IHdpdGggaXRzIG9ic2VydmVkIHJhZGl1cywgYnJpZ2h0bmVzcywgdGVtcGVyYXR1cmUgYW5kIHNvIGZvcnRoLiBUaGV5IGNhbiB0ZWxsIHVzIGNvbmZpZGVudGx5IHdoYXQgY29uZGl0aW9ucyBwcmV2YWlsIGluIGl0cyBkZWVwIGludGVyaW9yOyB0aGV5IGNhbiBhbHNvIGNhbGN1bGF0ZSBob3cgaXQgd2lsbCBldm9sdmUgb3ZlciB0aGUgbmV4dCBmZXcgYmlsbGlvbiB5ZWFycy4gT2J2aW91c2x5IHRoZXNlIGNhbGN1bGF0aW9ucyBjYW4ndCBiZSBjaGVja2VkIGRpcmVjdGx5LiBXZSBjYW4sIGhvd2V2ZXIsIG9ic2VydmUgb3RoZXIgc3RhcnMgbGlrZSB0aGUgU3VuIHRoYXQgYXJlIGF0IGRpZmZlcmVudCBzdGFnZXMgaW4gdGhlaXIgZXZvbHV0aW9uLiBIYXZpbmcgYSBzaW5nbGUgJ3NuYXBzaG90JyBvZiBlYWNoIHN0YXIncyBsaWZlIGlzIG5vdCBhIGZhdGFsIGhhbmRpY2FwIGlmIHdlIGhhdmUgYSBsYXJnZSBzYW1wbGUsIGJvcm4gYXQgZGlmZmVyZW50IHRpbWVzLCBhdmFpbGFibGUgZm9yIHN0dWR5LiBJbiB0aGUgc2FtZSB3YXksIGEgbmV3bHkgbGFuZGVkIE1hcnRpYW4gd291bGRuJ3QgdGFrZSBsb25nIHRvIGluZmVyIHRoZSBsaWZlLWN5Y2xlIG9mIGh1bWFucyAob3Igb2YgdHJlZXMpLCBieSBvYnNlcnZpbmcgbGFyZ2UgbnVtYmVycyBhdCBkaWZmZXJlbnQgc3RhZ2VzLiBFdmVuIGFtb25nIHRoZSBuZWFyYnkgc3RhcnMsIHdlIGNhbiBkaXNjZXJuIHNvbWUgdGhhdCBhcmUgc3RpbGwgeW91bmdzdGVycywgbm8gbW9yZSB0aGF0IGEgbWlsbGlvbiB5ZWFycyBvbGQsIGFuZCBvdGhlcnMgaW4gYSBuZWFyLXRlcm1pbmFsIHN0YXRlLCB3aGljaCBtYXkgYWxyZWFkeSBoYXZlIHN3YWxsb3dlZCB1cCBhbnkgcmV0aW51ZSBvZiBwbGFuZXRzIHRoYXQgdGhleSBvbmNlIHBvc3Nlc3NlZC4gU3VjaCBpbmZlcmVuY2VzIGFyZSBiYXNlZCBvbiB0aGUgYXNzdW1wdGlvbiB0aGF0IGF0b21zIGFuZCB0aGVpciBudWNsZWkgYXJlIHRoZSBzYW1lIGV2ZXJ5d2hlcmUuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Astrophysicists can compute, just as easily as the Sun's evolution, the life-cycle of a star that is (say) half, twice, or ten times the mass of the Sun. Smaller stars burn their fuel more slowly. In contrast, stars ten times as heavy as the Sun－the four blue Trapezium stars in the constellation of Orion, for instance－shine thousands of times more brightly, and consume their fuel more quickly. Their lifetimes are much shorter than the Sun's, and they expire in a more violent way, by exploding as supernovae. They become, for a few weeks, as bright as several billion suns. Their outer layers, blown off at 20,000 kilometres per second, form a blast wave that ploughs into the surrounding interstellar gas.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzdHJvcGh5c2ljaXN0cyBjYW4gY29tcHV0ZSwganVzdCBhcyBlYXNpbHkgYXMgdGhlIFN1bidzIGV2b2x1dGlvbiwgdGhlIGxpZmUtY3ljbGUgb2YgYSBzdGFyIHRoYXQgaXMgKHNheSkgaGFsZiwgdHdpY2UsIG9yIHRlbiB0aW1lcyB0aGUgbWFzcyBvZiB0aGUgU3VuLiBTbWFsbGVyIHN0YXJzIGJ1cm4gdGhlaXIgZnVlbCBtb3JlIHNsb3dseS4gSW4gY29udHJhc3QsIHN0YXJzIHRlbiB0aW1lcyBhcyBoZWF2eSBhcyB0aGUgU3Vu77yNdGhlIGZvdXIgYmx1ZSBUcmFwZXppdW0gc3RhcnMgaW4gdGhlIGNvbnN0ZWxsYXRpb24gb2YgT3Jpb24sIGZvciBpbnN0YW5jZe+8jXNoaW5lIHRob3VzYW5kcyBvZiB0aW1lcyBtb3JlIGJyaWdodGx5LCBhbmQgY29uc3VtZSB0aGVpciBmdWVsIG1vcmUgcXVpY2tseS4gVGhlaXIgbGlmZXRpbWVzIGFyZSBtdWNoIHNob3J0ZXIgdGhhbiB0aGUgU3VuJ3MsIGFuZCB0aGV5IGV4cGlyZSBpbiBhIG1vcmUgdmlvbGVudCB3YXksIGJ5IGV4cGxvZGluZyBhcyBzdXBlcm5vdmFlLiBUaGV5IGJlY29tZSwgZm9yIGEgZmV3IHdlZWtzLCBhcyBicmlnaHQgYXMgc2V2ZXJhbCBiaWxsaW9uIHN1bnMuIFRoZWlyIG91dGVyIGxheWVycywgYmxvd24gb2ZmIGF0IDIwLDAwMCBraWxvbWV0cmVzIHBlciBzZWNvbmQsIGZvcm0gYSBibGFzdCB3YXZlIHRoYXQgcGxvdWdocyBpbnRvIHRoZSBzdXJyb3VuZGluZyBpbnRlcnN0ZWxsYXIgZ2FzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Supernovae represent cataclysmic events in the life of the stars, involving some 'extreme' physical processes; so supernovae naturally fascinate astronomers. But only one person in ten thousand is an astronomer. What possible relevance could these stellar explosions thousands of light-years away have to <font id=38>all the others</font>, whose business lies purely on or near the Earth's surface? The surprising answer is that they are fundamental to everyone's environment. Without them, we would never have existed. Supernovae have created the 'mix' of atoms that the Earth is made of and that are the building blocks for the intricate chemistry of life. Ever since Darwin, we've been aware of the evolution and selection that preceded our emergence, and of our links with the rest of the biosphere. Astronomers now trace our Earth's origins back to stars that died before the Solar System formed. These ancient stars made the atoms of which we and our planet are composed.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN1cGVybm92YWUgcmVwcmVzZW50IGNhdGFjbHlzbWljIGV2ZW50cyBpbiB0aGUgbGlmZSBvZiB0aGUgc3RhcnMsIGludm9sdmluZyBzb21lICdleHRyZW1lJyBwaHlzaWNhbCBwcm9jZXNzZXM7IHNvIHN1cGVybm92YWUgbmF0dXJhbGx5IGZhc2NpbmF0ZSBhc3Ryb25vbWVycy4gQnV0IG9ubHkgb25lIHBlcnNvbiBpbiB0ZW4gdGhvdXNhbmQgaXMgYW4gYXN0cm9ub21lci4gV2hhdCBwb3NzaWJsZSByZWxldmFuY2UgY291bGQgdGhlc2Ugc3RlbGxhciBleHBsb3Npb25zIHRob3VzYW5kcyBvZiBsaWdodC15ZWFycyBhd2F5IGhhdmUgdG8gPGZvbnQgaWQ9Mzg+YWxsIHRoZSBvdGhlcnM8L2ZvbnQ+LCB3aG9zZSBidXNpbmVzcyBsaWVzIHB1cmVseSBvbiBvciBuZWFyIHRoZSBFYXJ0aCdzIHN1cmZhY2U/IFRoZSBzdXJwcmlzaW5nIGFuc3dlciBpcyB0aGF0IHRoZXkgYXJlIGZ1bmRhbWVudGFsIHRvIGV2ZXJ5b25lJ3MgZW52aXJvbm1lbnQuIFdpdGhvdXQgdGhlbSwgd2Ugd291bGQgbmV2ZXIgaGF2ZSBleGlzdGVkLiBTdXBlcm5vdmFlIGhhdmUgY3JlYXRlZCB0aGUgJ21peCcgb2YgYXRvbXMgdGhhdCB0aGUgRWFydGggaXMgbWFkZSBvZiBhbmQgdGhhdCBhcmUgdGhlIGJ1aWxkaW5nIGJsb2NrcyBmb3IgdGhlIGludHJpY2F0ZSBjaGVtaXN0cnkgb2YgbGlmZS4gRXZlciBzaW5jZSBEYXJ3aW4sIHdlJ3ZlIGJlZW4gYXdhcmUgb2YgdGhlIGV2b2x1dGlvbiBhbmQgc2VsZWN0aW9uIHRoYXQgcHJlY2VkZWQgb3VyIGVtZXJnZW5jZSwgYW5kIG9mIG91ciBsaW5rcyB3aXRoIHRoZSByZXN0IG9mIHRoZSBiaW9zcGhlcmUuIEFzdHJvbm9tZXJzIG5vdyB0cmFjZSBvdXIgRWFydGgncyBvcmlnaW5zIGJhY2sgdG8gc3RhcnMgdGhhdCBkaWVkIGJlZm9yZSB0aGUgU29sYXIgU3lzdGVtIGZvcm1lZC4gVGhlc2UgYW5jaWVudCBzdGFycyBtYWRlIHRoZSBhdG9tcyBvZiB3aGljaCB3ZSBhbmQgb3VyIHBsYW5ldCBhcmUgY29tcG9zZWQuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">31. The primary purpose of the passage is to:
-<div class = "choice">A. encourage readers to become aware of specific stars and constellations in other solar systems.</div>
-<div class = "choice">B. showcase new information astrophysicists have learned through direct observation of the Sun's core.</div>
-<div class = "choice">C. convince readers that the work of astrophysicists is inconclusive with respect to the origin of Earth and its inhabitants.</div>
-<div class = "choice">D. describe the evolution and demise of stars and the effects their deaths have for the planets and life.</div>
-</div>
-###################
-<div class = "quiz">32. The passage mentions astrophysicists calculating all of the following about stars EXCEPT:
-<div class = "choice">F. what the inside of the Sun should be like.</div>
-<div class = "choice">G. how the Sun will evolve over the next few billion years.</div>
-<div class = "choice">H. what the life cycle of a star bigger or smaller than the Sun is.</div>
-<div class = "choice">J. how long the Sun will emit a dull blue glow.</div>
-</div>
-###################
-<div class = "quiz">33. Information in the first paragraph indicates that "controlled fusion" requires all of the following EXCEPT:
-<div class = "choice">A. the transformation of atomic nuclei.</div>
-<div class = "choice">B. ultra-hot temperatures.</div>
-<div class = "choice">C. the Sun as the fuel source.</div>
-<div class = "choice">D. magnetic containment of helium.</div>
-</div>
-###################
-<div class = "quiz">34. According to the passage, what is the last described event in the Sun's life cycle?
-<div class = "choice">F. It will shine thousands of times more brightly.</div>
-<div class = "choice">G. Its core will become a white dwarf.</div>
-<div class = "choice">H. Its outer layers will be ejected from the Solar System.</div>
-<div class = "choice">J. It will explode as a supernova.</div>
-</div>
-###################
-<div class = "quiz">35. In the context of the third paragraph (lines 30-50), lines 38-41 primarily serve to emphasize the:
-<div class = "choice">A. ability of astrophysicists to locate stars that have the same features and birth date as the Sun.</div>
-<div class = "choice">B. difficulty of getting clear photographs of the Sun as it undergoes changes in its structure.</div>
-<div class = "choice">C. method used by astrophysicists to verify computations about the Sun.</div>
-<div class = "choice">D. fatal mistakes astrophysicists make when observing large sample sets over an extended period of time.</div>
-</div>
-###################
-<div class = "quiz">36. Which of the following questions is NOT answered by information given in the passage?
-<div class = "choice">F. What is one characteristic of a white dwarf?</div>
-<div class = "choice">G. What assumption do astrophysicists make in order to compute the evolution of the Sun?</div>
-<div class = "choice">H. Why is the Sun so massive in comparison to Earth?</div>
-<div class = "choice">J. Why are astronomers fascinated by supernovae?</div>
-</div>
-###################
-<div class = "quiz">37. The main purpose of the last paragraph is to:
-<div class = "choice">A. stress the significance of supernovae to humans and to the formation of Earth.</div>
-<div class = "choice">B. present a detailed account of cataclysmic events in the Solar System.</div>
-<div class = "choice">C. expose the flaws of Darwin's theories of evolution and selection.</div>
-<div class = "choice">D. persuade readers to become amateur astronomers.</div>
-</div>
-###################
-<div class = "quiz">38. As it is used in lines 70-71, the phrase all the others most likely refers to:
-<div class = "choice">F. the stellar explosions near Earth.</div>
-<div class = "choice">G. the planets in the Solar System.</div>
-<div class = "choice">H. astrophysicists and astronomers.</div>
-<div class = "choice">J. most people on Earth.</div>
-</div>
-###################
-<div class = "quiz">39. The author would most likely agree with which of the following statements?
-<div class = "choice">A. Fusion will not be used as a power source in the future because of opposition by industrial leaders.</div>
-<div class = "choice">B. The age of stars is inferred by calculating their proximity to the Sun.</div>
-<div class = "choice">C. The Trapezium stars in the constellation Orion will have a longer life span than the Sun.</div>
-<div class = "choice">D. Earth and its inhabitants are made up of particles from primordial stars.</div>
-</div>
-###################
-<div class = "quiz">40. The passage most nearly indicates that attempts to harness fusion as a power source have been:
-<div class = "choice">F. remarkably successful.</div>
-<div class = "choice">G. unsuccessful to date.</div>
-<div class = "choice">H. hindered by financial issues.</div>
-<div class = "choice">J. inconsistent across trails.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIHByaW1hcnkgcHVycG9zZSBvZiB0aGUgcGFzc2FnZSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGVuY291cmFnZSByZWFkZXJzIHRvIGJlY29tZSBhd2FyZSBvZiBzcGVjaWZpYyBzdGFycyBhbmQgY29uc3RlbGxhdGlvbnMgaW4gb3RoZXIgc29sYXIgc3lzdGVtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNob3djYXNlIG5ldyBpbmZvcm1hdGlvbiBhc3Ryb3BoeXNpY2lzdHMgaGF2ZSBsZWFybmVkIHRocm91Z2ggZGlyZWN0IG9ic2VydmF0aW9uIG9mIHRoZSBTdW4ncyBjb3JlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnZpbmNlIHJlYWRlcnMgdGhhdCB0aGUgd29yayBvZiBhc3Ryb3BoeXNpY2lzdHMgaXMgaW5jb25jbHVzaXZlIHdpdGggcmVzcGVjdCB0byB0aGUgb3JpZ2luIG9mIEVhcnRoIGFuZCBpdHMgaW5oYWJpdGFudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJlIHRoZSBldm9sdXRpb24gYW5kIGRlbWlzZSBvZiBzdGFycyBhbmQgdGhlIGVmZmVjdHMgdGhlaXIgZGVhdGhzIGhhdmUgZm9yIHRoZSBwbGFuZXRzIGFuZCBsaWZlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gVGhlIHBhc3NhZ2UgbWVudGlvbnMgYXN0cm9waHlzaWNpc3RzIGNhbGN1bGF0aW5nIGFsbCBvZiB0aGUgZm9sbG93aW5nIGFib3V0IHN0YXJzIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoYXQgdGhlIGluc2lkZSBvZiB0aGUgU3VuIHNob3VsZCBiZSBsaWtlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhvdyB0aGUgU3VuIHdpbGwgZXZvbHZlIG92ZXIgdGhlIG5leHQgZmV3IGJpbGxpb24geWVhcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoYXQgdGhlIGxpZmUgY3ljbGUgb2YgYSBzdGFyIGJpZ2dlciBvciBzbWFsbGVyIHRoYW4gdGhlIFN1biBpcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhvdyBsb25nIHRoZSBTdW4gd2lsbCBlbWl0IGEgZHVsbCBibHVlIGdsb3cuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSW5mb3JtYXRpb24gaW4gdGhlIGZpcnN0IHBhcmFncmFwaCBpbmRpY2F0ZXMgdGhhdCAiY29udHJvbGxlZCBmdXNpb24iIHJlcXVpcmVzIGFsbCBvZiB0aGUgZm9sbG93aW5nIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSB0cmFuc2Zvcm1hdGlvbiBvZiBhdG9taWMgbnVjbGVpLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHVsdHJhLWhvdCB0ZW1wZXJhdHVyZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBTdW4gYXMgdGhlIGZ1ZWwgc291cmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1hZ25ldGljIGNvbnRhaW5tZW50IG9mIGhlbGl1bS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGF0IGlzIHRoZSBsYXN0IGRlc2NyaWJlZCBldmVudCBpbiB0aGUgU3VuJ3MgbGlmZSBjeWNsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IHdpbGwgc2hpbmUgdGhvdXNhbmRzIG9mIHRpbWVzIG1vcmUgYnJpZ2h0bHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0cyBjb3JlIHdpbGwgYmVjb21lIGEgd2hpdGUgZHdhcmYuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0cyBvdXRlciBsYXllcnMgd2lsbCBiZSBlamVjdGVkIGZyb20gdGhlIFNvbGFyIFN5c3RlbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0IHdpbGwgZXhwbG9kZSBhcyBhIHN1cGVybm92YS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gSW4gdGhlIGNvbnRleHQgb2YgdGhlIHRoaXJkIHBhcmFncmFwaCAobGluZXMgMzAtNTApLCBsaW5lcyAzOC00MSBwcmltYXJpbHkgc2VydmUgdG8gZW1waGFzaXplIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFiaWxpdHkgb2YgYXN0cm9waHlzaWNpc3RzIHRvIGxvY2F0ZSBzdGFycyB0aGF0IGhhdmUgdGhlIHNhbWUgZmVhdHVyZXMgYW5kIGJpcnRoIGRhdGUgYXMgdGhlIFN1bi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRpZmZpY3VsdHkgb2YgZ2V0dGluZyBjbGVhciBwaG90b2dyYXBocyBvZiB0aGUgU3VuIGFzIGl0IHVuZGVyZ29lcyBjaGFuZ2VzIGluIGl0cyBzdHJ1Y3R1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1ldGhvZCB1c2VkIGJ5IGFzdHJvcGh5c2ljaXN0cyB0byB2ZXJpZnkgY29tcHV0YXRpb25zIGFib3V0IHRoZSBTdW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZhdGFsIG1pc3Rha2VzIGFzdHJvcGh5c2ljaXN0cyBtYWtlIHdoZW4gb2JzZXJ2aW5nIGxhcmdlIHNhbXBsZSBzZXRzIG92ZXIgYW4gZXh0ZW5kZWQgcGVyaW9kIG9mIHRpbWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgaXMgTk9UIGFuc3dlcmVkIGJ5IGluZm9ybWF0aW9uIGdpdmVuIGluIHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdoYXQgaXMgb25lIGNoYXJhY3RlcmlzdGljIG9mIGEgd2hpdGUgZHdhcmY/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoYXQgYXNzdW1wdGlvbiBkbyBhc3Ryb3BoeXNpY2lzdHMgbWFrZSBpbiBvcmRlciB0byBjb21wdXRlIHRoZSBldm9sdXRpb24gb2YgdGhlIFN1bj88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoeSBpcyB0aGUgU3VuIHNvIG1hc3NpdmUgaW4gY29tcGFyaXNvbiB0byBFYXJ0aD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoeSBhcmUgYXN0cm9ub21lcnMgZmFzY2luYXRlZCBieSBzdXBlcm5vdmFlPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgbGFzdCBwYXJhZ3JhcGggaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN0cmVzcyB0aGUgc2lnbmlmaWNhbmNlIG9mIHN1cGVybm92YWUgdG8gaHVtYW5zIGFuZCB0byB0aGUgZm9ybWF0aW9uIG9mIEVhcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByZXNlbnQgYSBkZXRhaWxlZCBhY2NvdW50IG9mIGNhdGFjbHlzbWljIGV2ZW50cyBpbiB0aGUgU29sYXIgU3lzdGVtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV4cG9zZSB0aGUgZmxhd3Mgb2YgRGFyd2luJ3MgdGhlb3JpZXMgb2YgZXZvbHV0aW9uIGFuZCBzZWxlY3Rpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBlcnN1YWRlIHJlYWRlcnMgdG8gYmVjb21lIGFtYXRldXIgYXN0cm9ub21lcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lcyA3MC03MSwgdGhlIHBocmFzZSBhbGwgdGhlIG90aGVycyBtb3N0IGxpa2VseSByZWZlcnMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBzdGVsbGFyIGV4cGxvc2lvbnMgbmVhciBFYXJ0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBwbGFuZXRzIGluIHRoZSBTb2xhciBTeXN0ZW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFzdHJvcGh5c2ljaXN0cyBhbmQgYXN0cm9ub21lcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1vc3QgcGVvcGxlIG9uIEVhcnRoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIGF1dGhvciB3b3VsZCBtb3N0IGxpa2VseSBhZ3JlZSB3aXRoIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEZ1c2lvbiB3aWxsIG5vdCBiZSB1c2VkIGFzIGEgcG93ZXIgc291cmNlIGluIHRoZSBmdXR1cmUgYmVjYXVzZSBvZiBvcHBvc2l0aW9uIGJ5IGluZHVzdHJpYWwgbGVhZGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBhZ2Ugb2Ygc3RhcnMgaXMgaW5mZXJyZWQgYnkgY2FsY3VsYXRpbmcgdGhlaXIgcHJveGltaXR5IHRvIHRoZSBTdW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBUcmFwZXppdW0gc3RhcnMgaW4gdGhlIGNvbnN0ZWxsYXRpb24gT3Jpb24gd2lsbCBoYXZlIGEgbG9uZ2VyIGxpZmUgc3BhbiB0aGFuIHRoZSBTdW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEVhcnRoIGFuZCBpdHMgaW5oYWJpdGFudHMgYXJlIG1hZGUgdXAgb2YgcGFydGljbGVzIGZyb20gcHJpbW9yZGlhbCBzdGFycy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gVGhlIHBhc3NhZ2UgbW9zdCBuZWFybHkgaW5kaWNhdGVzIHRoYXQgYXR0ZW1wdHMgdG8gaGFybmVzcyBmdXNpb24gYXMgYSBwb3dlciBzb3VyY2UgaGF2ZSBiZWVuOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJlbWFya2FibHkgc3VjY2Vzc2Z1bC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHVuc3VjY2Vzc2Z1bCB0byBkYXRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhpbmRlcmVkIGJ5IGZpbmFuY2lhbCBpc3N1ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluY29uc2lzdGVudCBhY3Jvc3MgdHJhaWxzLjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

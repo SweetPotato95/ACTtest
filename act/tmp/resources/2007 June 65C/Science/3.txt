@@ -1,0 +1,50 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A mercury thermometer, at an initial temperature of 20℃, was placed in 30℃ water, and the temperature registered by the thermometer was recorded over time. This procedure was repeated using water samples at 40℃ and 50℃ (see Figure l). Next, the same thermometer, at an initial temperature of 50℃ was placed in an air sample at 20℃, and the temperature registered by the thermometer was recorded over time. This procedure was repeated using air samples at 30℃ and 40℃ (see Figure 2).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(Note: Assume that the designated temperatures of the water samples and air samples did not change during the measurements.)</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\225.png' width = '657'height = '986'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 adapted from Volker Thomsen. "Response Time of a Thermometer." ©1998 by American Association of Physics Teachers.</div>
+
+<br>
+###################
+<div class = "quiz">12. Based on Figure 2, at 250 sec, the thermometer reading in the 40℃ air most likely was closest to which of the following?
+<div class = "choice">F. 24℃</div>
+<div class = "choice">G. 32℃</div>
+<div class = "choice">H. 41℃</div>
+<div class = "choice">J. 53℃</div>
+</div>
+###################
+<div class = "quiz">13. When the thermometer was in the 50℃water, in the time interval between 2 sec and 3 sec, approximately how rapidly, in℃/sec, was the temperature registered by the thermometer changing?
+<div class = "choice">A. 1℃/sec</div>
+<div class = "choice">B. 4℃/sec</div>
+<div class = "choice">C. 40℃/sec</div>
+<div class = "choice">D. 45℃/sec</div>
+</div>
+###################
+<div class = "quiz">14. According to Figure 2, for an air temperature .of 20℃, over which of the following time intervals was :he thermometer reading 'changing most rapidly? .
+<div class = "choice">F. 0-100 sec</div>
+<div class = "choice">G. 100-200 sec</div>
+<div class = "choice">H. 200-300 sec</div>
+<div class = "choice">J. 300-400 sec</div>
+</div>
+###################
+<div class = "quiz">15. Based on Figure 2, for the thermometer placed in 30℃ air, the average kinetic energy of the mercury atoms in the thermometer was greatest at which of the following times?
+<div class = "choice">A. 100 sec</div>
+<div class = "choice">B. 300 sec</div>
+<div class = "choice">C.500 sec</div>
+<div class = "choice">D.700 sec</div>
+</div>
+###################
+<div class = "quiz">16. Based on Figure 2, if the thermometer, at an initial temperature of 50℃, had been placed in an air sample at 10℃, how long would it most likely have taken the thermometer reading to reach 10℃?
+<div class = "choice">F. Less than 5 sec</div>
+<div class = "choice">G. Between 5 sec and 15 sec</div>
+<div class = "choice">H. Between 100 sec and 300 sec</div>
+<div class = "choice">J. Greater than 300 sec</div>
+<br>
+</div>
+###################

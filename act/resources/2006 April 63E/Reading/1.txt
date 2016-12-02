@@ -1,116 +1,116 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel Monkey King by Patricia Chao (? 1997 by Patricia Chao).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It's my tenth birthday. Ma doesn't get a cake or presents because we're busy getting ready to go to visit our Nai-nai in San Diego. That is, my sister, Marty, and I are going while Ma and Daddy spend the summer in Taiwan, where my father has a teaching job. In the front of the tunnel to the plane Ma hands us over to the stewardess, who wears white gloves. Marty cries but I don't.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIE1vbmtleSBLaW5nIGJ5IFBhdHJpY2lhIENoYW8gKD8gMTk5NyBieSBQYXRyaWNpYSBDaGFvKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0J3MgbXkgdGVudGggYmlydGhkYXkuIE1hIGRvZXNuJ3QgZ2V0IGEgY2FrZSBvciBwcmVzZW50cyBiZWNhdXNlIHdlJ3JlIGJ1c3kgZ2V0dGluZyByZWFkeSB0byBnbyB0byB2aXNpdCBvdXIgTmFpLW5haSBpbiBTYW4gRGllZ28uIFRoYXQgaXMsIG15IHNpc3RlciwgTWFydHksIGFuZCBJIGFyZSBnb2luZyB3aGlsZSBNYSBhbmQgRGFkZHkgc3BlbmQgdGhlIHN1bW1lciBpbiBUYWl3YW4sIHdoZXJlIG15IGZhdGhlciBoYXMgYSB0ZWFjaGluZyBqb2IuIEluIHRoZSBmcm9udCBvZiB0aGUgdHVubmVsIHRvIHRoZSBwbGFuZSBNYSBoYW5kcyB1cyBvdmVyIHRvIHRoZSBzdGV3YXJkZXNzLCB3aG8gd2VhcnMgd2hpdGUgZ2xvdmVzLiBNYXJ0eSBjcmllcyBidXQgSSBkb24ndC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">During the flight the stewardess keeps coming over with childrens magazines, coloring books, magnetic tic-tac-toe. Not that we need distractions; we sit quietly, buckling our seat belts when the sign says to. Most of the way I read Eight Cousins, feeling my sister's hot skull pressed against my shoulder as she sleeps.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkR1cmluZyB0aGUgZmxpZ2h0IHRoZSBzdGV3YXJkZXNzIGtlZXBzIGNvbWluZyBvdmVyIHdpdGggY2hpbGRyZW5zIG1hZ2F6aW5lcywgY29sb3JpbmcgYm9va3MsIG1hZ25ldGljIHRpYy10YWMtdG9lLiBOb3QgdGhhdCB3ZSBuZWVkIGRpc3RyYWN0aW9uczsgd2Ugc2l0IHF1aWV0bHksIGJ1Y2tsaW5nIG91ciBzZWF0IGJlbHRzIHdoZW4gdGhlIHNpZ24gc2F5cyB0by4gTW9zdCBvZiB0aGUgd2F5IEkgcmVhZCBFaWdodCBDb3VzaW5zLCBmZWVsaW5nIG15IHNpc3RlcidzIGhvdCBza3VsbCBwcmVzc2VkIGFnYWluc3QgbXkgc2hvdWxkZXIgYXMgc2hlIHNsZWVwcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My Nai-nai is so glad to see us, she has tears in her eyes. "Ni kan!" she says to her cousin Su-yi, who has ocme to the airport too because our grandmother doesn't drive. Nai-nai used to live with Su-yi, but now she has a separate house on the same street.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IE5haS1uYWkgaXMgc28gZ2xhZCB0byBzZWUgdXMsIHNoZSBoYXMgdGVhcnMgaW4gaGVyIGV5ZXMuICJOaSBrYW4hIiBzaGUgc2F5cyB0byBoZXIgY291c2luIFN1LXlpLCB3aG8gaGFzIG9jbWUgdG8gdGhlIGFpcnBvcnQgdG9vIGJlY2F1c2Ugb3VyIGdyYW5kbW90aGVyIGRvZXNuJ3QgZHJpdmUuIE5haS1uYWkgdXNlZCB0byBsaXZlIHdpdGggU3UteWksIGJ1dCBub3cgc2hlIGhhcyBhIHNlcGFyYXRlIGhvdXNlIG9uIHRoZSBzYW1lIHN0cmVldC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ma has warned us not to tire Nai-nai out. But my grandmother is inexhaustible. Mornings, when she comes to wake us, she's already dressed, hair up, face powdered, lipstick on. The first night when she tucks us in Marty asks, "When do you go to bed?" and Nai-nai answers: "Very, very late. Old lady doesn't need much sleep."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hIGhhcyB3YXJuZWQgdXMgbm90IHRvIHRpcmUgTmFpLW5haSBvdXQuIEJ1dCBteSBncmFuZG1vdGhlciBpcyBpbmV4aGF1c3RpYmxlLiBNb3JuaW5ncywgd2hlbiBzaGUgY29tZXMgdG8gd2FrZSB1cywgc2hlJ3MgYWxyZWFkeSBkcmVzc2VkLCBoYWlyIHVwLCBmYWNlIHBvd2RlcmVkLCBsaXBzdGljayBvbi4gVGhlIGZpcnN0IG5pZ2h0IHdoZW4gc2hlIHR1Y2tzIHVzIGluIE1hcnR5IGFza3MsICJXaGVuIGRvIHlvdSBnbyB0byBiZWQ/IiBhbmQgTmFpLW5haSBhbnN3ZXJzOiAiVmVyeSwgdmVyeSBsYXRlLiBPbGQgbGFkeSBkb2Vzbid0IG5lZWQgbXVjaCBzbGVlcC4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over my grandmother's shoulder I am watching the curtains, patterned with cobalt and fuchsia primroses, dancing over the open window. I have brought Piggy, although I am way too old. Marty left her doll on her pillow at home. <font id=7>Nai-nai doesn't make fun of me. </font> "Poor old man," she says, when she notices Piggy's tattered chest. She looks in her drawers and finds a baby T-shirt I can dress him in.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk92ZXIgbXkgZ3JhbmRtb3RoZXIncyBzaG91bGRlciBJIGFtIHdhdGNoaW5nIHRoZSBjdXJ0YWlucywgcGF0dGVybmVkIHdpdGggY29iYWx0IGFuZCBmdWNoc2lhIHByaW1yb3NlcywgZGFuY2luZyBvdmVyIHRoZSBvcGVuIHdpbmRvdy4gSSBoYXZlIGJyb3VnaHQgUGlnZ3ksIGFsdGhvdWdoIEkgYW0gd2F5IHRvbyBvbGQuIE1hcnR5IGxlZnQgaGVyIGRvbGwgb24gaGVyIHBpbGxvdyBhdCBob21lLiA8Zm9udCBpZD03Pk5haS1uYWkgZG9lc24ndCBtYWtlIGZ1biBvZiBtZS4gPC9mb250PiAiUG9vciBvbGQgbWFuLCIgc2hlIHNheXMsIHdoZW4gc2hlIG5vdGljZXMgUGlnZ3kncyB0YXR0ZXJlZCBjaGVzdC4gU2hlIGxvb2tzIGluIGhlciBkcmF3ZXJzIGFuZCBmaW5kcyBhIGJhYnkgVC1zaGlydCBJIGNhbiBkcmVzcyBoaW0gaW4uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Marty and I play softball and kickball with the kids on our street. Sometimes we go to the beach, along with a lot of other kids in bathing suits, crowded into the back of a station wagon that smells like hot rubber and coconut lotion. It is the most beautiful ocean I have ever seen, with all different kinds of blue in it, rolling like fluted glass toward us.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hcnR5IGFuZCBJIHBsYXkgc29mdGJhbGwgYW5kIGtpY2tiYWxsIHdpdGggdGhlIGtpZHMgb24gb3VyIHN0cmVldC4gU29tZXRpbWVzIHdlIGdvIHRvIHRoZSBiZWFjaCwgYWxvbmcgd2l0aCBhIGxvdCBvZiBvdGhlciBraWRzIGluIGJhdGhpbmcgc3VpdHMsIGNyb3dkZWQgaW50byB0aGUgYmFjayBvZiBhIHN0YXRpb24gd2Fnb24gdGhhdCBzbWVsbHMgbGlrZSBob3QgcnViYmVyIGFuZCBjb2NvbnV0IGxvdGlvbi4gSXQgaXMgdGhlIG1vc3QgYmVhdXRpZnVsIG9jZWFuIEkgaGF2ZSBldmVyIHNlZW4sIHdpdGggYWxsIGRpZmZlcmVudCBraW5kcyBvZiBibHVlIGluIGl0LCByb2xsaW5nIGxpa2UgZmx1dGVkIGdsYXNzIHRvd2FyZCB1cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I tell the other kids about the Gulf of Mexico, where Aunty Mabel and Uncle Richard live. There were things waiting there in that warm flat water, crabs who'd clamp your toes no matter how carefully you stepped. Then I tell them about the beach in Monterey, where I was born, with all the wildflowers in the spring, and of course the seals.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgdGVsbCB0aGUgb3RoZXIga2lkcyBhYm91dCB0aGUgR3VsZiBvZiBNZXhpY28sIHdoZXJlIEF1bnR5IE1hYmVsIGFuZCBVbmNsZSBSaWNoYXJkIGxpdmUuIFRoZXJlIHdlcmUgdGhpbmdzIHdhaXRpbmcgdGhlcmUgaW4gdGhhdCB3YXJtIGZsYXQgd2F0ZXIsIGNyYWJzIHdobydkIGNsYW1wIHlvdXIgdG9lcyBubyBtYXR0ZXIgaG93IGNhcmVmdWxseSB5b3Ugc3RlcHBlZC4gVGhlbiBJIHRlbGwgdGhlbSBhYm91dCB0aGUgYmVhY2ggaW4gTW9udGVyZXksIHdoZXJlIEkgd2FzIGJvcm4sIHdpdGggYWxsIHRoZSB3aWxkZmxvd2VycyBpbiB0aGUgc3ByaW5nLCBhbmQgb2YgY291cnNlIHRoZSBzZWFscy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=3>Marty and I get very tan, and Nai-nai scolds us. But she softens when she sees how hungry we are after our days at the beach, how we wolf everything down, no matter how strange. When we first got here we were picky, polite. Nai-nai corrected the way Marty held her chopsticks and made her cry. Our grandmother serves the meal in courses, unlike Ma; who sets everything down on the table at once.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM+TWFydHkgYW5kIEkgZ2V0IHZlcnkgdGFuLCBhbmQgTmFpLW5haSBzY29sZHMgdXMuIEJ1dCBzaGUgc29mdGVucyB3aGVuIHNoZSBzZWVzIGhvdyBodW5ncnkgd2UgYXJlIGFmdGVyIG91ciBkYXlzIGF0IHRoZSBiZWFjaCwgaG93IHdlIHdvbGYgZXZlcnl0aGluZyBkb3duLCBubyBtYXR0ZXIgaG93IHN0cmFuZ2UuIFdoZW4gd2UgZmlyc3QgZ290IGhlcmUgd2Ugd2VyZSBwaWNreSwgcG9saXRlLiBOYWktbmFpIGNvcnJlY3RlZCB0aGUgd2F5IE1hcnR5IGhlbGQgaGVyIGNob3BzdGlja3MgYW5kIG1hZGUgaGVyIGNyeS4gT3VyIGdyYW5kbW90aGVyIHNlcnZlcyB0aGUgbWVhbCBpbiBjb3Vyc2VzLCB1bmxpa2UgTWE7IHdobyBzZXRzIGV2ZXJ5dGhpbmcgZG93biBvbiB0aGUgdGFibGUgYXQgb25jZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Now we compromise. Marty is allowed to use a fork, and Nai-nai sometimes gives in to our pleas at the grocery store. One night she even makes hamburgers, following the recipe from Joy of Cooking, although we forget to get buns so we have to have them on toast. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdyB3ZSBjb21wcm9taXNlLiBNYXJ0eSBpcyBhbGxvd2VkIHRvIHVzZSBhIGZvcmssIGFuZCBOYWktbmFpIHNvbWV0aW1lcyBnaXZlcyBpbiB0byBvdXIgcGxlYXMgYXQgdGhlIGdyb2Nlcnkgc3RvcmUuIE9uZSBuaWdodCBzaGUgZXZlbiBtYWtlcyBoYW1idXJnZXJzLCBmb2xsb3dpbmcgdGhlIHJlY2lwZSBmcm9tIEpveSBvZiBDb29raW5nLCBhbHRob3VnaCB3ZSBmb3JnZXQgdG8gZ2V0IGJ1bnMgc28gd2UgaGF2ZSB0byBoYXZlIHRoZW0gb24gdG9hc3QuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=4>On the first rainy, Nai-nai climbs the stepladder and takes out boxes from the top shelf of her bedroom closed. They are filled with presents from her admirers, back in her youth when she was a lieder singer. She kept everything: dried sprays of orchids, brittle and black-edged; a collection of music boxes from Switzerland; perfume, never opened, the bottoms of the crystal flasks coated brown. I imagine the perfume to be like orange juice concentrate: if you added water it would be as good as fresh. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTQ+T24gdGhlIGZpcnN0IHJhaW55LCBOYWktbmFpIGNsaW1icyB0aGUgc3RlcGxhZGRlciBhbmQgdGFrZXMgb3V0IGJveGVzIGZyb20gdGhlIHRvcCBzaGVsZiBvZiBoZXIgYmVkcm9vbSBjbG9zZWQuIFRoZXkgYXJlIGZpbGxlZCB3aXRoIHByZXNlbnRzIGZyb20gaGVyIGFkbWlyZXJzLCBiYWNrIGluIGhlciB5b3V0aCB3aGVuIHNoZSB3YXMgYSBsaWVkZXIgc2luZ2VyLiBTaGUga2VwdCBldmVyeXRoaW5nOiBkcmllZCBzcHJheXMgb2Ygb3JjaGlkcywgYnJpdHRsZSBhbmQgYmxhY2stZWRnZWQ7IGEgY29sbGVjdGlvbiBvZiBtdXNpYyBib3hlcyBmcm9tIFN3aXR6ZXJsYW5kOyBwZXJmdW1lLCBuZXZlciBvcGVuZWQsIHRoZSBib3R0b21zIG9mIHRoZSBjcnlzdGFsIGZsYXNrcyBjb2F0ZWQgYnJvd24uIEkgaW1hZ2luZSB0aGUgcGVyZnVtZSB0byBiZSBsaWtlIG9yYW5nZSBqdWljZSBjb25jZW50cmF0ZTogaWYgeW91IGFkZGVkIHdhdGVyIGl0IHdvdWxkIGJlIGFzIGdvb2QgYXMgZnJlc2guIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She shows us photographs of our parents' wedding. "Handsome couple," she says. My mother doesn't look too different, except for more makeup and wavy hair, but my father is <font id=9>unrecognizable</font>. The man in the picture has dark, thick hair and a smooth, confident face, as if nothing bad had ever happened to him.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBzaG93cyB1cyBwaG90b2dyYXBocyBvZiBvdXIgcGFyZW50cycgd2VkZGluZy4gIkhhbmRzb21lIGNvdXBsZSwiIHNoZSBzYXlzLiBNeSBtb3RoZXIgZG9lc24ndCBsb29rIHRvbyBkaWZmZXJlbnQsIGV4Y2VwdCBmb3IgbW9yZSBtYWtldXAgYW5kIHdhdnkgaGFpciwgYnV0IG15IGZhdGhlciBpcyA8Zm9udCBpZD05PnVucmVjb2duaXphYmxlPC9mb250Pi4gVGhlIG1hbiBpbiB0aGUgcGljdHVyZSBoYXMgZGFyaywgdGhpY2sgaGFpciBhbmQgYSBzbW9vdGgsIGNvbmZpZGVudCBmYWNlLCBhcyBpZiBub3RoaW5nIGJhZCBoYWQgZXZlciBoYXBwZW5lZCB0byBoaW0uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My hair is long but I am not allowed to wear it loose except at night. Nai-nai washes it for me in the kitchen sink. I force myself to stand very still, although I get a crick in my neck and the water from the spray nozzle tickles.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IGhhaXIgaXMgbG9uZyBidXQgSSBhbSBub3QgYWxsb3dlZCB0byB3ZWFyIGl0IGxvb3NlIGV4Y2VwdCBhdCBuaWdodC4gTmFpLW5haSB3YXNoZXMgaXQgZm9yIG1lIGluIHRoZSBraXRjaGVuIHNpbmsuIEkgZm9yY2UgbXlzZWxmIHRvIHN0YW5kIHZlcnkgc3RpbGwsIGFsdGhvdWdoIEkgZ2V0IGEgY3JpY2sgaW4gbXkgbmVjayBhbmQgdGhlIHdhdGVyIGZyb20gdGhlIHNwcmF5IG5venpsZSB0aWNrbGVzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Once, after my hair had dried enough to brush out, Nai-nai puts it up into a bun like hers. I watch her in the dresser mirror, trying to memorize the motions, butt my grandmother is too fast. When she's done she gives me the hand mirror so that I can examine the back of my head. I see that she has anchored the bun with a single pale green hairpin, like an arrow through a valetine.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uY2UsIGFmdGVyIG15IGhhaXIgaGFkIGRyaWVkIGVub3VnaCB0byBicnVzaCBvdXQsIE5haS1uYWkgcHV0cyBpdCB1cCBpbnRvIGEgYnVuIGxpa2UgaGVycy4gSSB3YXRjaCBoZXIgaW4gdGhlIGRyZXNzZXIgbWlycm9yLCB0cnlpbmcgdG8gbWVtb3JpemUgdGhlIG1vdGlvbnMsIGJ1dHQgbXkgZ3JhbmRtb3RoZXIgaXMgdG9vIGZhc3QuIFdoZW4gc2hlJ3MgZG9uZSBzaGUgZ2l2ZXMgbWUgdGhlIGhhbmQgbWlycm9yIHNvIHRoYXQgSSBjYW4gZXhhbWluZSB0aGUgYmFjayBvZiBteSBoZWFkLiBJIHNlZSB0aGF0IHNoZSBoYXMgYW5jaG9yZWQgdGhlIGJ1biB3aXRoIGEgc2luZ2xlIHBhbGUgZ3JlZW4gaGFpcnBpbiwgbGlrZSBhbiBhcnJvdyB0aHJvdWdoIGEgdmFsZXRpbmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"It's jade," my grandmother says, patting my shoulder. "You keep."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJdCdzIGphZGUsIiBteSBncmFuZG1vdGhlciBzYXlzLCBwYXR0aW5nIG15IHNob3VsZGVyLiAiWW91IGtlZXAuIjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1. The narrator's use of sensory details, such as the color of the curtains and the smell of the station wagon, most strongly suggests that:
-<div class = "choice">A. she is too young to comprehend her world in anything but sensory images.</div>
-<div class = "choice">B. the separation from her parents is so upsetting that she is strikingly aware of her physical surroundings.</div>
-<div class = "choice">C. the routine nature of the trip causes her to fully notice small changes in her surroundings since her last visit.</div>
-<div class = "choice">D. vivid images best represent what she appreciates about the experiences of her trip.</div>
-</div>
-###################
-<div class = "quiz">2. It can reasonably be inferred from the passage that the narrator views the children who live on Nai-nai's street as:
-<div class = "choice">F. spoilsports unwilling to participate in activities that would make the summer days even more enjoyable.</div>
-<div class = "choice">G. friends who often vocalize what intrigues them about the ocean's beautiful appearance.</div>
-<div class = "choice">H. companions with whom to share the memorable stories of her life.</div>
-<div class = "choice">J. children who have been deprived of the wonderful opportunity to play on the beach.</div>
-</div>
-###################
-<div class = "quiz">3. As depicted in the eighth and ninth paragraphs (lines 49-61), the relationship between the girls and their grandmother is best described by which of the following statements?
-<div class = "choice">A. The girls are reluctantly adjusting to their grandmother's ways.</div>
-<div class = "choice">B. The girls and their grandmother are learning to accept each other in new ways.</div>
-<div class = "choice">C. The grandmother is exhausted from trying to entertain and care for the girls.</div>
-<div class = "choice">D. The grandmother, though loving, is rigid about what she considers correct.</div>
-</div>
-###################
-<div class = "quiz">4. Details in the tenth paragraph (lines 62-71) most strongly suggest that the grandmother:
-<div class = "choice">F. hopes the girls will pursue careers as singers or actors.</div>
-<div class = "choice">G. hopes the girls will keep and preserve the presents she received as a lieder singer.</div>
-<div class = "choice">H. exaggerates the experiences in her life in a way the narrator enjoys.</div>
-<div class = "choice">J. has a lively past she wants the girls to learn about.</div>
-</div>
-###################
-<div class = "quiz">5. The narrator's imaginative way of viewing her surroundings is best revealed by her description of the:
-<div class = "choice">A. baby T-shirt.</div>
-<div class = "choice">B. stewardess's white gloves.</div>
-<div class = "choice">C. coconut lotion.</div>
-<div class = "choice">D. perfume.</div>
-</div>
-###################
-<div class = "quiz">6. Which of the following statements about why the narrator and Marty will spend the summer with Nai-nai is supported by the passage?
-<div class = "choice">F. They are taking a special trip planned for the narrator's birthday.</div>
-<div class = "choice">G. Their parents will be in Taiwan, so the girls need a place to stay.</div>
-<div class = "choice">H. Their parents believe it is important for the girls to learn more about Nai-nai's past.</div>
-<div class = "choice">J. Nai-nai lives by the ocean, where there is more to do in the summer than at their parent' house.</div>
-</div>
-###################
-<div class = "quiz">7. Which of the following statements most nearly captures the sentiment behind the narrator's comment "Nai-nai doesn't make fun of me" (line 31)?
-<div class = "choice">A. "Nai-nai knows how it feels to be laughed at."</div>
-<div class = "choice">B. "Nai-nai knows why I would like a baby T-shirt."</div>
-<div class = "choice">C. "Nai-nai understands why I ask when she goes to bed."</div>
-<div class = "choice">D. "Nai-nai understands why I bring Piggy."</div>
-</div>
-###################
-<div class = "quiz">8. It can reasonably be inferred from the passage that which of the following events happened first in the narrator's life?
-<div class = "choice">F. She visited Aunty Mabel and Uncle Richard.</div>
-<div class = "choice">G. She visited Nai-nai at Su-yi's house.</div>
-<div class = "choice">H. She lived in Monterey.</div>
-<div class = "choice">J. She lived in Taiwan.</div>
-</div>
-###################
-<div class = "quiz">9. In line 75, the narrator describes her father as "unrecognizable," which most nearly suggests that she:
-<div class = "choice">A. does not recognize her father because he has often been away from home.</div>
-<div class = "choice">B. is aware of the changes in her father's appearance.</div>
-<div class = "choice">C. is unsure that the man in the picture is her father.</div>
-<div class = "choice">D. does not recognize her father because to her surprise he looks younger now than he does in the picture.</div>
-</div>
-###################
-<div class = "quiz">10. It can most reasonably be inferred from the passage that the narrator's father:
-<div class = "choice">F. has faced many instances of misfortune in his life.</div>
-<div class = "choice">G. becomes distressed when Marty cries before the trip.</div>
-<div class = "choice">H. views his wedding day as the turning point of his life.</div>
-<div class = "choice">J. has contemplated moving to San Diego with his family.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgbmFycmF0b3IncyB1c2Ugb2Ygc2Vuc29yeSBkZXRhaWxzLCBzdWNoIGFzIHRoZSBjb2xvciBvZiB0aGUgY3VydGFpbnMgYW5kIHRoZSBzbWVsbCBvZiB0aGUgc3RhdGlvbiB3YWdvbiwgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNoZSBpcyB0b28geW91bmcgdG8gY29tcHJlaGVuZCBoZXIgd29ybGQgaW4gYW55dGhpbmcgYnV0IHNlbnNvcnkgaW1hZ2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBzZXBhcmF0aW9uIGZyb20gaGVyIHBhcmVudHMgaXMgc28gdXBzZXR0aW5nIHRoYXQgc2hlIGlzIHN0cmlraW5nbHkgYXdhcmUgb2YgaGVyIHBoeXNpY2FsIHN1cnJvdW5kaW5ncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSByb3V0aW5lIG5hdHVyZSBvZiB0aGUgdHJpcCBjYXVzZXMgaGVyIHRvIGZ1bGx5IG5vdGljZSBzbWFsbCBjaGFuZ2VzIGluIGhlciBzdXJyb3VuZGluZ3Mgc2luY2UgaGVyIGxhc3QgdmlzaXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHZpdmlkIGltYWdlcyBiZXN0IHJlcHJlc2VudCB3aGF0IHNoZSBhcHByZWNpYXRlcyBhYm91dCB0aGUgZXhwZXJpZW5jZXMgb2YgaGVyIHRyaXAuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgdGhlIG5hcnJhdG9yIHZpZXdzIHRoZSBjaGlsZHJlbiB3aG8gbGl2ZSBvbiBOYWktbmFpJ3Mgc3RyZWV0IGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNwb2lsc3BvcnRzIHVud2lsbGluZyB0byBwYXJ0aWNpcGF0ZSBpbiBhY3Rpdml0aWVzIHRoYXQgd291bGQgbWFrZSB0aGUgc3VtbWVyIGRheXMgZXZlbiBtb3JlIGVuam95YWJsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZyaWVuZHMgd2hvIG9mdGVuIHZvY2FsaXplIHdoYXQgaW50cmlndWVzIHRoZW0gYWJvdXQgdGhlIG9jZWFuJ3MgYmVhdXRpZnVsIGFwcGVhcmFuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbXBhbmlvbnMgd2l0aCB3aG9tIHRvIHNoYXJlIHRoZSBtZW1vcmFibGUgc3RvcmllcyBvZiBoZXIgbGlmZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNoaWxkcmVuIHdobyBoYXZlIGJlZW4gZGVwcml2ZWQgb2YgdGhlIHdvbmRlcmZ1bCBvcHBvcnR1bml0eSB0byBwbGF5IG9uIHRoZSBiZWFjaC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBBcyBkZXBpY3RlZCBpbiB0aGUgZWlnaHRoIGFuZCBuaW50aCBwYXJhZ3JhcGhzIChsaW5lcyA0OS02MSksIHRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiB0aGUgZ2lybHMgYW5kIHRoZWlyIGdyYW5kbW90aGVyIGlzIGJlc3QgZGVzY3JpYmVkIGJ5IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBnaXJscyBhcmUgcmVsdWN0YW50bHkgYWRqdXN0aW5nIHRvIHRoZWlyIGdyYW5kbW90aGVyJ3Mgd2F5cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBnaXJscyBhbmQgdGhlaXIgZ3JhbmRtb3RoZXIgYXJlIGxlYXJuaW5nIHRvIGFjY2VwdCBlYWNoIG90aGVyIGluIG5ldyB3YXlzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBncmFuZG1vdGhlciBpcyBleGhhdXN0ZWQgZnJvbSB0cnlpbmcgdG8gZW50ZXJ0YWluIGFuZCBjYXJlIGZvciB0aGUgZ2lybHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBncmFuZG1vdGhlciwgdGhvdWdoIGxvdmluZywgaXMgcmlnaWQgYWJvdXQgd2hhdCBzaGUgY29uc2lkZXJzIGNvcnJlY3QuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBEZXRhaWxzIGluIHRoZSB0ZW50aCBwYXJhZ3JhcGggKGxpbmVzIDYyLTcxKSBtb3N0IHN0cm9uZ2x5IHN1Z2dlc3QgdGhhdCB0aGUgZ3JhbmRtb3RoZXI6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhvcGVzIHRoZSBnaXJscyB3aWxsIHB1cnN1ZSBjYXJlZXJzIGFzIHNpbmdlcnMgb3IgYWN0b3JzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhvcGVzIHRoZSBnaXJscyB3aWxsIGtlZXAgYW5kIHByZXNlcnZlIHRoZSBwcmVzZW50cyBzaGUgcmVjZWl2ZWQgYXMgYSBsaWVkZXIgc2luZ2VyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGV4YWdnZXJhdGVzIHRoZSBleHBlcmllbmNlcyBpbiBoZXIgbGlmZSBpbiBhIHdheSB0aGUgbmFycmF0b3IgZW5qb3lzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhcyBhIGxpdmVseSBwYXN0IHNoZSB3YW50cyB0aGUgZ2lybHMgdG8gbGVhcm4gYWJvdXQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBUaGUgbmFycmF0b3IncyBpbWFnaW5hdGl2ZSB3YXkgb2Ygdmlld2luZyBoZXIgc3Vycm91bmRpbmdzIGlzIGJlc3QgcmV2ZWFsZWQgYnkgaGVyIGRlc2NyaXB0aW9uIG9mIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGJhYnkgVC1zaGlydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHN0ZXdhcmRlc3MncyB3aGl0ZSBnbG92ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvY29udXQgbG90aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBlcmZ1bWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgYWJvdXQgd2h5IHRoZSBuYXJyYXRvciBhbmQgTWFydHkgd2lsbCBzcGVuZCB0aGUgc3VtbWVyIHdpdGggTmFpLW5haSBpcyBzdXBwb3J0ZWQgYnkgdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZXkgYXJlIHRha2luZyBhIHNwZWNpYWwgdHJpcCBwbGFubmVkIGZvciB0aGUgbmFycmF0b3IncyBiaXJ0aGRheS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZWlyIHBhcmVudHMgd2lsbCBiZSBpbiBUYWl3YW4sIHNvIHRoZSBnaXJscyBuZWVkIGEgcGxhY2UgdG8gc3RheS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZWlyIHBhcmVudHMgYmVsaWV2ZSBpdCBpcyBpbXBvcnRhbnQgZm9yIHRoZSBnaXJscyB0byBsZWFybiBtb3JlIGFib3V0IE5haS1uYWkncyBwYXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5haS1uYWkgbGl2ZXMgYnkgdGhlIG9jZWFuLCB3aGVyZSB0aGVyZSBpcyBtb3JlIHRvIGRvIGluIHRoZSBzdW1tZXIgdGhhbiBhdCB0aGVpciBwYXJlbnQnIGhvdXNlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgbW9zdCBuZWFybHkgY2FwdHVyZXMgdGhlIHNlbnRpbWVudCBiZWhpbmQgdGhlIG5hcnJhdG9yJ3MgY29tbWVudCAiTmFpLW5haSBkb2Vzbid0IG1ha2UgZnVuIG9mIG1lIiAobGluZSAzMSk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuICJOYWktbmFpIGtub3dzIGhvdyBpdCBmZWVscyB0byBiZSBsYXVnaGVkIGF0LiI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuICJOYWktbmFpIGtub3dzIHdoeSBJIHdvdWxkIGxpa2UgYSBiYWJ5IFQtc2hpcnQuIjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuICJOYWktbmFpIHVuZGVyc3RhbmRzIHdoeSBJIGFzayB3aGVuIHNoZSBnb2VzIHRvIGJlZC4iPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuICJOYWktbmFpIHVuZGVyc3RhbmRzIHdoeSBJIGJyaW5nIFBpZ2d5LiI8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBJdCBjYW4gcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBldmVudHMgaGFwcGVuZWQgZmlyc3QgaW4gdGhlIG5hcnJhdG9yJ3MgbGlmZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNoZSB2aXNpdGVkIEF1bnR5IE1hYmVsIGFuZCBVbmNsZSBSaWNoYXJkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNoZSB2aXNpdGVkIE5haS1uYWkgYXQgU3UteWkncyBob3VzZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNoZSBsaXZlZCBpbiBNb250ZXJleS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNoZSBsaXZlZCBpbiBUYWl3YW4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBJbiBsaW5lIDc1LCB0aGUgbmFycmF0b3IgZGVzY3JpYmVzIGhlciBmYXRoZXIgYXMgInVucmVjb2duaXphYmxlLCIgd2hpY2ggbW9zdCBuZWFybHkgc3VnZ2VzdHMgdGhhdCBzaGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRvZXMgbm90IHJlY29nbml6ZSBoZXIgZmF0aGVyIGJlY2F1c2UgaGUgaGFzIG9mdGVuIGJlZW4gYXdheSBmcm9tIGhvbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlzIGF3YXJlIG9mIHRoZSBjaGFuZ2VzIGluIGhlciBmYXRoZXIncyBhcHBlYXJhbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlzIHVuc3VyZSB0aGF0IHRoZSBtYW4gaW4gdGhlIHBpY3R1cmUgaXMgaGVyIGZhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRvZXMgbm90IHJlY29nbml6ZSBoZXIgZmF0aGVyIGJlY2F1c2UgdG8gaGVyIHN1cnByaXNlIGhlIGxvb2tzIHlvdW5nZXIgbm93IHRoYW4gaGUgZG9lcyBpbiB0aGUgcGljdHVyZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gSXQgY2FuIG1vc3QgcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSBwYXNzYWdlIHRoYXQgdGhlIG5hcnJhdG9yJ3MgZmF0aGVyOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhhcyBmYWNlZCBtYW55IGluc3RhbmNlcyBvZiBtaXNmb3J0dW5lIGluIGhpcyBsaWZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlY29tZXMgZGlzdHJlc3NlZCB3aGVuIE1hcnR5IGNyaWVzIGJlZm9yZSB0aGUgdHJpcC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHZpZXdzIGhpcyB3ZWRkaW5nIGRheSBhcyB0aGUgdHVybmluZyBwb2ludCBvZiBoaXMgbGlmZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhcyBjb250ZW1wbGF0ZWQgbW92aW5nIHRvIFNhbiBEaWVnbyB3aXRoIGhpcyBmYW1pbHkuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -8,7 +8,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import sun.misc.BASE64Decoder;
+import sun.misc.BASE64Encoder;
+
 public class readText {
+	public static BASE64Decoder bd = new BASE64Decoder();
 	public static String readWriting(){
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
@@ -168,6 +172,8 @@ public class readText {
 			reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename),"UTF-8"));  
 			String tmpstring = null;
 			while((tmpstring = reader.readLine()) != null){
+				//System.out.println(tmpstring);
+				tmpstring = new String(bd.decodeBuffer(tmpstring));
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
@@ -236,6 +242,8 @@ public class readText {
 			String ques = "";
 			tmpoptions = new ArrayList<String>();
 			while((tmpstring = reader.readLine()) != null){
+				tmpstring = new String(bd.decodeBuffer(tmpstring));
+				System.out.println(tmpstring);
 				tmpstring = tmpstring.trim();
 				tmpstring = tmpstring.replace("$$$", path);
 				if (tmpstring.startsWith("####")){

@@ -1,0 +1,524 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1. What is the value of x when<img src='file:\$$$\resources\2012 April 70G\imgs\0.png' width = '139'height = '71'/>？
+<div class = "choice">A. -9</div>
+<div class = "choice">B. -4</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 9</div>
+<div class = "choice">E. 39</div>
+</div>
+###################
+<div class = "quiz">2. A bowl contains 100 jelly beans, of which 42 are red， 36 are blue, and 22 are green. What is the probability that a jelly bean picked at random from the bowl will NOT be red?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\1.png' width = '36'height = '71'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\2.png' width = '38'height = '71'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\3.png' width = '36'height = '71'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\4.png' width = '38'height = '71'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\5.png' width = '36'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">3. For what value of x is the equation 3.6x+7.99 = 1.03－2.4x true?
+<div class = "choice">A. -58</div>
+<div class = "choice">B. -5.8</div>
+<div class = "choice">C. -1.16</div>
+<div class = "choice">D. 1.16</div>
+<div class = "choice">E. 5.8</div>
+</div>
+###################
+<div class = "quiz">4. In the figure below, the measure of ∠XAB is 150º; the measure of ∠YCB is 81º; and X, A, C, and Y are collinear. What is the measure of ∠B ?
+<img src='file:\$$$\resources\2012 April 70G\imgs\6.png' width = '661'height = '324'/>
+<div class = "choice">F. 30º</div>
+<div class = "choice">G. 51º</div>
+<div class = "choice">H. 60º</div>
+<div class = "choice">J. 69º</div>
+<div class = "choice">K. 77º</div>
+</div>
+###################
+<div class = "quiz">5. Which of the following numbers is a solution to<img src='file:\$$$\resources\2012 April 70G\imgs\7.png' width = '130'height = '40'/>?
+<div class = "choice">A. -8</div>
+<div class = "choice">B. 2</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\8.png' width = '74'height = '38'/></div>
+<div class = "choice">E. 8</div>
+</div>
+###################
+<div class = "quiz">6.|6-4|-|3-7|=?
+<div class = "choice">F. -6</div>
+<div class = "choice">G. -2</div>
+<div class = "choice">H. 2</div>
+<div class = "choice">J. 6</div>
+<div class = "choice">K. 20</div>
+</div>
+###################
+<div class = "quiz">7. Dakota bought a pair of shoes that had an original price of $70.00. The store offered a 20% discount on the original price of the shoes, and Dakota paid 6% sales tax on the discounted price of the shoes. How much did Dakota pay for the shoes, including tax?
+<div class = "choice">A. $51.80</div>
+<div class = "choice">B. $52.64</div>
+<div class = "choice">C. $59.36</div>
+<div class = "choice">D. $60.20</div>
+<div class = "choice">E. $79.80</div>
+</div>
+###################
+<div class = "quiz">8. What is the value of <img src='file:\$$$\resources\2012 April 70G\imgs\9.png' width = '153'height = '44'/> when x=-3 and y=2?
+<div class = "choice">F. -63</div>
+<div class = "choice">G. -57</div>
+<div class = "choice">H. 57</div>
+<div class = "choice">J. 63</div>
+<div class = "choice">K. 81</div>
+</div>
+###################
+<div class = "quiz">9. A toy car travels at a constant rate of 11 inches every 5 seconds. At this rate, which of the following is closest to the number of feet the car travels in 2 minutes?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 13</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">10. A toy car travels at a constant rate of 11 inches every 5 seconds. At this rate, which of the following is closest to the number of feet the car travels in 2 minutes?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 13</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">11. A toy car travels at a constant rate of 11 inches every 5 seconds. At this rate, which of the following is closest to the number of feet the car travels in 2 minutes?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 13</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">12. A toy car travels at a constant rate of 11 inches every 5 seconds. At this rate, which of the following is closest to the number of feet the car travels in 2 minutes?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 13</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">13. A toy car travels at a constant rate of 11 inches every 5 seconds. At this rate, which of the following is closest to the number of feet the car travels in 2 minutes?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 13</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 24</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">14. In the plane shown in the figure below, lines m and n are cut by transversal line t. The 8 angles at the intersections of these lines are labeled. Which of the following statements, when it is true, CANNOT always be used to prove that lines m and n are parallel?
+<img src='file:\$$$\resources\2012 April 70G\imgs\10.png' width = '661'height = '355'/>
+<div class = "choice">F. ∠1=∠5</div>
+<div class = "choice">G. ∠1=∠7</div>
+<div class = "choice">H. ∠1=∠8</div>
+<div class = "choice">J. ∠2=∠7</div>
+<div class = "choice">K. ∠4=∠5</div>
+</div>
+###################
+<div class = "quiz">15. The dimensions of the right triangle shown below are in feet. What is the area, in square feet, of the triangle?
+<img src='file:\$$$\resources\2012 April 70G\imgs\11.png' width = '605'height = '408'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\12.png' width = '68'height = '40'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\13.png' width = '68'height = '40'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\14.png' width = '117'height = '40'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\15.png' width = '80'height = '40'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\16.png' width = '41'height = '40'/></div>
+</div>
+###################
+<div class = "quiz">16. If<img src='file:\$$$\resources\2012 April 70G\imgs\17.png' width = '174'height = '44'/>, what is f(-3)?
+<div class = "choice">F. -11</div>
+<div class = "choice">G. -5</div>
+<div class = "choice">H. 7</div>
+<div class = "choice">J. 10</div>
+<div class = "choice">K. 13</div>
+</div>
+###################
+<div class = "quiz">17. What is the length, in feet, of the side of a square whose area, in square feet, is equal to the area of a 25-foot-by-16-foot rectangle?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\18.png' width = '50'height = '36'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\19.png' width = '61'height = '38'/></div>
+<div class = "choice">C. 9</div>
+<div class = "choice">D. 20</div>
+<div class = "choice">E. 400</div>
+</div>
+###################
+<div class = "quiz">18. The graph below shows the number of ski boats sold each month by Martin's Marine Supply. The number near each point is the actual number of ski boats sold for the month corresponding with the point. The curve represents a model equation that comes close to fitting the actual numbers sold by month.
+Martin's Marine Supply Ski Boat Sales May 2005-July 2006
+<img src='file:\$$$\resources\2012 April 70G\imgs\20.png' width = '331'height = '269'/>
+One of the following is the value for September 2005 on the model curve. Which one?
+<div class = "choice">F. 5</div>
+<div class = "choice">G. 20</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 27</div>
+<div class = "choice">K. 35</div>
+</div>
+###################
+<div class = "quiz">19. The graph below shows the number of ski boats sold each month by Martin's Marine Supply. The number near each point is the actual number of ski boats sold for the month corresponding with the point. The curve represents a model equation that comes close to fitting the actual numbers sold by month.
+Martin's Marine Supply Ski Boat Sales May 2005-July 2006
+<img src='file:\$$$\resources\2012 April 70G\imgs\20.png' width = '331'height = '269'/>
+What is the average number of ski boats actually sold per month between and including the months of January 2006 and April 2006?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\21.png' width = '46'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\22.png' width = '50'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\23.png' width = '50'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\24.png' width = '50'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\25.png' width = '50'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">20. The graph below shows the number of ski boats sold each month by Martin's Marine Supply. The number near each point is the actual number of ski boats sold for the month corresponding with the point. The curve represents a model equation that comes close to fitting the actual numbers sold by month.
+Martin's Marine Supply Ski Boat Sales May 2005-July 2006
+<img src='file:\$$$\resources\2012 April 70G\imgs\20.png' width = '331'height = '269'/>
+During the period shown in the graph, each ski boat sold for exactly $30,000 before sales tax. On January l, 2006, the sales tax was increased from 6% to 7%. How much more was the total sales tax on the actual number of ski boats sold in July 2006 than on the actual number sold in July 2005?
+<div class = "choice">F. $3,600</div>
+<div class = "choice">G. $5,400</div>
+<div class = "choice">H. $6,300</div>
+<div class = "choice">J. $9,000</div>
+<div class = "choice">K. $9,900</div>
+</div>
+###################
+<div class = "quiz">21. For nonzero real numbers a, b, and c, the expression <img src='file:\$$$\resources\2012 April 70G\imgs\26.png' width = '82'height = '82'/> is equivalent to:
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\27.png' width = '56'height = '82'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\28.png' width = '56'height = '82'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\29.png' width = '70'height = '82'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\30.png' width = '88'height = '88'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\31.png' width = '93'height = '40'/></div>
+</div>
+###################
+<div class = "quiz">22. Akiko's average heart rate is 70 beats per minute. In scientific notation, how many times would her heart beat in 24 hours?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\32.png' width = '98'height = '40'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\33.png' width = '98'height = '40'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\34.png' width = '91'height = '40'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\35.png' width = '113'height = '40'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\36.png' width = '112'height = '40'/></div>
+</div>
+###################
+<div class = "quiz">23. The lengths of the 3 sides of a triangle are in the ratio 5:6:9. The perimeter of the triangle is 100 inches. What is the length, in inches, of the longest side of the triangle?
+<div class = "choice">A. 10</div>
+<div class = "choice">B. 25</div>
+<div class = "choice">C. 30</div>
+<div class = "choice">D. 45</div>
+<div class = "choice">E. 50</div>
+</div>
+###################
+<div class = "quiz">24. Given that sin <img src='file:\$$$\resources\2012 April 70G\imgs\37.png' width = '78'height = '65'/> which of the following values could tan A equal?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\38.png' width = '36'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\39.png' width = '36'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\40.png' width = '36'height = '65'/></div>
+<div class = "choice">J. 4</div>
+<div class = "choice">K. 5</div>
+</div>
+###################
+<div class = "quiz">25. Which of the following sets of 3 numbers could be the side lengths, in meters, of a right triangle?
+<div class = "choice">A. 1, 1, 1</div>
+<div class = "choice">B. 2, 3, 5</div>
+<div class = "choice">C. 3, 4, 7</div>
+<div class = "choice">D. 4, 9, 13</div>
+<div class = "choice">E. 6, 8, 10</div>
+</div>
+###################
+<div class = "quiz">26. When graphed in the standard (x,y) coordinate plane, the line 2x+3y-1=0 has a slope of:
+<div class = "choice">F. -2</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\41.png' width = '41'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\42.png' width = '24'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\43.png' width = '24'height = '65'/></div>
+<div class = "choice">K. 2</div>
+</div>
+###################
+<div class = "quiz">27. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2012 April 70G\imgs\44.png' width = '495'height = '44'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\45.png' width = '129'height = '40'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\46.png' width = '130'height = '40'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\47.png' width = '80'height = '40'/></div>
+<div class = "choice">D. 8x+3</div>
+<div class = "choice">E. 2x+3</div>
+</div>
+###################
+<div class = "quiz">28. Jason will have a rectangular concrete patio constructed beside his house, as shown below. The patio will have a length of 18 feet, and the top surface of the patio will have an area of 270 square feet. The patio will be constructed so that one side of the patio is against a side of Jason's house.
+<img src='file:\$$$\resources\2012 April 70G\imgs\48.png' width = '522'height = '403'/>
+The patio will have a thickness of 6 inches. The patio will consist of how many cubic feet of concrete?
+<div class = "choice">F. 45</div>
+<div class = "choice">G. 90</div>
+<div class = "choice">H. 108</div>
+<div class = "choice">J. 117</div>
+<div class = "choice">K. 135</div>
+</div>
+###################
+<div class = "quiz">29. Jason will have a rectangular concrete patio constructed beside his house, as shown below. The patio will have a length of 18 feet, and the top surface of the patio will have an area of 270 square feet. The patio will be constructed so that one side of the patio is against a side of Jason's house.
+<img src='file:\$$$\resources\2012 April 70G\imgs\48.png' width = '522'height = '403'/>
+Jason chooses Tully's Concrete Finishing to seal his patio. Tully's Concrete Finishing uses the formula C=3.5A+120 to calculate the charge, C dollars, to seal a patio, where A square feet is the area of the top surface of the patio. 'What will be the charge for sealing Jason's patio?
+<div class = "choice">A. $ 483</div>
+<div class = "choice">B. $ 945</div>
+<div class = "choice">C. $1,065</div>
+<div class = "choice">D. $1,128</div>
+<div class = "choice">E. $1.365</div>
+</div>
+###################
+<div class = "quiz">30. Jason will have a rectangular concrete patio constructed beside his house, as shown below. The patio will have a length of 18 feet, and the top surface of the patio will have an area of 270 square feet. The patio will be constructed so that one side of the patio is against a side of Jason's house.
+<img src='file:\$$$\resources\2012 April 70G\imgs\48.png' width = '522'height = '403'/>
+Jason will plant shrubs along the portion of the perimeter of the patio that is NOT against his house. What is the length, in feet, of that portion?
+<div class = "choice">F. 33</div>
+<div class = "choice">G. 43.5</div>
+<div class = "choice">H. 48</div>
+<div class = "choice">J. 51</div>
+<div class = "choice">K. 66</div>
+</div>
+###################
+<div class = "quiz">31. An airplane taking off from .an airport climbs at a constant angle of ascent so that it will reach an altitude of 10,000 feet when the airplane has flown 8 miles, as illustrated in the figure below. Which of the following expressions gives the angle of ascent?
+(Note: 1 mile=5,280 feet)
+<img src='file:\$$$\resources\2012 April 70G\imgs\49.png' width = '661'height = '183'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\50.png' width = '169'height = '75'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\51.png' width = '192'height = '75'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\52.png' width = '188'height = '75'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\53.png' width = '192'height = '75'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\54.png' width = '192'height = '75'/></div>
+</div>
+###################
+<div class = "quiz">32. Which of the following inequalities orders the 4 numbers<img src='file:\$$$\resources\2012 April 70G\imgs\55.png' width = '72'height = '65'/>, and <img src='file:\$$$\resources\2012 April 70G\imgs\56.png' width = '22'height = '65'/> from largest to smallest?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\57.png' width = '186'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\58.png' width = '186'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\59.png' width = '186'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\60.png' width = '186'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\61.png' width = '186'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">33. What is the 7th term of the geometric sequence l. -2, 4, -8,…?
+<div class = "choice">A. -32</div>
+<div class = "choice">B. -10</div>
+<div class = "choice">C. 16</div>
+<div class = "choice">D. 56</div>
+<div class = "choice">E. 64</div>
+</div>
+###################
+<div class = "quiz">34. The hypotenuse of △POM is<img src='file:\$$$\resources\2012 April 70G\imgs\62.png' width = '46'height = '34'/>. Which of the following statements could be true about △POM?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\63.png' width = '107'height = '36'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\64.png' width = '103'height = '36'/></div>
+<div class = "choice">H. ∠M is a right angle.</div>
+<div class = "choice">J. The 3 sides of △POM are congruent.</div>
+<div class = "choice">K. The 3 interior angles of △POM are congruent.</div>
+</div>
+###################
+<div class = "quiz">35. Let △ABC and △DEF be similar triangles such that the scale factor of △ABC to △DEF is<img src='file:\$$$\resources\2012 April 70G\imgs\65.png' width = '24'height = '65'/>. The perimeter of △ABC is 20 inches. What is the perimeter of △DEF, in inches?
+<div class = "choice">A. 13</div>
+<div class = "choice">B. 25</div>
+<div class = "choice">C. 30</div>
+<div class = "choice">D. 40</div>
+<div class = "choice">E. 45</div>
+</div>
+###################
+<div class = "quiz">36. Planter's Greenhouse estimates its profit by subtracting its overhead costs from 40% of its net sales. Which of the following equations represents this relationship between estimated profit (P), net sales (S), and overhead costs (C) of Planter's Greenhouse?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\66.png' width = '149'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\67.png' width = '149'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\68.png' width = '149'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\69.png' width = '132'height = '29'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\70.png' width = '132'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">37. In right triangle △PQR shown below, <img src='file:\$$$\resources\2012 April 70G\imgs\71.png' width = '41'height = '40'/>is 450 feet long and the measure of ∠R is 35º. What is the length, in feet, of<img src='file:\$$$\resources\2012 April 70G\imgs\72.png' width = '41'height = '40'/>?
+<img src='file:\$$$\resources\2012 April 70G\imgs\73.png' width = '286'height = '202'/>
+<div class = "choice">A. 450 sin 35º</div>
+<div class = "choice">B. 450 tan 35º</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\74.png' width = '78'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\75.png' width = '80'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\76.png' width = '80'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">38. Which of the following is equivalent to<img src='file:\$$$\resources\2012 April 70G\imgs\77.png' width = '143'height = '65'/>?
+<div class = "choice">F. x>0</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\78.png' width = '61'height = '65'/></div>
+<div class = "choice">H. x>l</div>
+<div class = "choice">J. x>3</div>
+<div class = "choice">K. x>6</div>
+</div>
+###################
+<div class = "quiz">39. Sofia and Lance are contributing a total of $2,500 per year to help their nephew pay for college. Each year, Lance contributes <img src='file:\$$$\resources\2012 April 70G\imgs\79.png' width = '35'height = '65'/> times the amount Sofia contributes. What is the amount, in dollars, Lance will contribute over a period of 4 years?
+<div class = "choice">A. $1,250</div>
+<div class = "choice">B. $1,875</div>
+<div class = "choice">C. $4,000</div>
+<div class = "choice">D. $5,000</div>
+<div class = "choice">E. $6,000</div>
+</div>
+###################
+<div class = "quiz">40. Which of the following is the least common denominator for<img src='file:\$$$\resources\2012 April 70G\imgs\80.png' width = '159'height = '71'/>?
+<div class = "choice">F. (x-2)</div>
+<div class = "choice">G. 4(x+2)</div>
+<div class = "choice">H. (x-2)(x+2)</div>
+<div class = "choice">J. 4(x-2)(x+2)</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\81.png' width = '166'height = '44'/></div>
+</div>
+###################
+<div class = "quiz">41. The circle shown below has a diameter of 6 cm. What is the area, in square centimeters, of the circle?
+<img src='file:\$$$\resources\2012 April 70G\imgs\82.png' width = '364'height = '332'/>
+<div class = "choice">A. 3π</div>
+<div class = "choice">B. 6π</div>
+<div class = "choice">C. 9π</div>
+<div class = "choice">D.12π</div>
+<div class = "choice">E.36π</div>
+</div>
+###################
+<div class = "quiz">42. Which of the following is an equation of the line that passes through (10,-2) and (-2,-5) in the standard (x, y) coordinate plane?
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\83.png' width = '120'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\84.png' width = '120'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\85.png' width = '116'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\86.png' width = '136'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\87.png' width = '139'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">43. A health club surveyed 175 members about which types of equipment they had used in the past month. Of the 175 members, 117 had used treadmills, 89 had used stationary bikes, and 53 had used both types of equipment. Some members had used neither type of equipment. Of the 175 members, how many had used treadmills, stationary bikes, or both?
+<div class = "choice">A. 53</div>
+<div class = "choice">B. 81</div>
+<div class = "choice">C. 122</div>
+<div class = "choice">D. 134</div>
+<div class = "choice">E. 153</div>
+</div>
+###################
+<div class = "quiz">44. What is the largest 2-digit integer that is divisible by 7 and is a multiple of 3?
+<div class = "choice">F. 21</div>
+<div class = "choice">G. 42</div>
+<div class = "choice">H. 84</div>
+<div class = "choice">J. 98</div>
+<div class = "choice">K. 105</div>
+</div>
+###################
+<div class = "quiz">45. In the standard (x, y) coordinate plane, the line <img src='file:\$$$\resources\2012 April 70G\imgs\88.png' width = '116'height = '65'/> is perpendicular to the line:
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\89.png' width = '124'height = '34'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\90.png' width = '110'height = '34'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\91.png' width = '132'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\92.png' width = '116'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\93.png' width = '80'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">46. An emergency helicopter is located 2 miles north and 4 miles east of City Center. There is an emergency 22 miles south and 6 miles west of City Center. Which of the following is the distance, in miles, between the helicopter and the emergency?
+<div class = "choice">F. 20</div>
+<div class = "choice">G. 22</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 26</div>
+<div class = "choice">K. 34</div>
+</div>
+###################
+<div class = "quiz">47. The 3 statements given below are all true about certain positive integers x, y, and z.
+1.x is an even prime number
+2.6<y<9
+3.z is a perfect square such that 10<z<20
+Which of the following integers could be the value of<img src='file:\$$$\resources\2012 April 70G\imgs\94.png' width = '35'height = '65'/>?
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 32</div>
+<div class = "choice">C. 48</div>
+<div class = "choice">D. 56</div>
+<div class = "choice">E. 72</div>
+</div>
+###################
+<div class = "quiz">48. The shaded region in the standard (x, y) coordinate plane below is bounded by a parabola and a line. The shaded region and its boundary is the solution set of which of the following systems of inequalities?
+<img src='file:\$$$\resources\2012 April 70G\imgs\95.png' width = '217'height = '274'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2012 April 70G\imgs\96.png' width = '123'height = '81'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2012 April 70G\imgs\97.png' width = '123'height = '81'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2012 April 70G\imgs\98.png' width = '123'height = '81'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\99.png' width = '123'height = '81'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\100.png' width = '123'height = '81'/></div>
+</div>
+###################
+<div class = "quiz">49. What is the value of y in the solution of the system of equations below?
+x+y=-a
+x-y=b
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\101.png' width = '101'height = '71'/></div>
+<div class = "choice">B. b-a</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\102.png' width = '60'height = '65'/></div>
+<div class = "choice">D. a+b</div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\103.png' width = '60'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">50. In the circle shown below, central angle ∠AOB measures 45º, and arc <img src='file:\$$$\resources\2012 April 70G\imgs\104.png' width = '41'height = '36'/>is n centimeters long. How many centimeters long is the circle's radius?
+<img src='file:\$$$\resources\2012 April 70G\imgs\105.png' width = '478'height = '408'/>
+<div class = "choice">F. 2</div>
+<div class = "choice">G. 4</div>
+<div class = "choice">H. 8</div>
+<div class = "choice">J. 16</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2012 April 70G\imgs\106.png' width = '51'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">51. The solution to ax=b is x=3. The solution to ax-2=b is x=8. What is the value of a?
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\107.png' width = '24'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\108.png' width = '24'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\109.png' width = '22'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\110.png' width = '22'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\111.png' width = '22'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">52. Consider the equation<img src='file:\$$$\resources\2012 April 70G\imgs\112.png' width = '158'height = '40'/>. When solved for x, this equation will have exactly one real solution for which of the following values of k?
+<div class = "choice">F. -9</div>
+<div class = "choice">G. -3</div>
+<div class = "choice">H. 6</div>
+<div class = "choice">J. 9</div>
+<div class = "choice">K. 36</div>
+</div>
+###################
+<div class = "quiz">53. In the distance that Molly pushed the wheelbarrow shown below, the wheel rotated <img src='file:\$$$\resources\2012 April 70G\imgs\113.png' width = '38'height = '65'/> radians. The distance that Molly pushed the wheelbarrow is what fraction of the circumference of the wheel?
+<img src='file:\$$$\resources\2012 April 70G\imgs\114.png' width = '286'height = '203'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\115.png' width = '24'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\116.png' width = '24'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\117.png' width = '24'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\118.png' width = '24'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\119.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">54. The domain of the function <img src='file:\$$$\resources\2012 April 70G\imgs\120.png' width = '172'height = '69'/> contains all real values of x EXCEPT:
+<div class = "choice">F. 0</div>
+<div class = "choice">G. 0 and 100</div>
+<div class = "choice">H. 0 and <img src='file:\$$$\resources\2012 April 70G\imgs\121.png' width = '45'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2012 April 70G\imgs\122.png' width = '64'height = '65'/>and <img src='file:\$$$\resources\2012 April 70G\imgs\123.png' width = '45'height = '65'/></div>
+<div class = "choice">K.-100 and 100</div>
+</div>
+###################
+<div class = "quiz">55. In the figure below, E lies <img src='file:\$$$\resources\2012 April 70G\imgs\124.png' width = '22'height = '65'/> of the way from B to C on rectangle ABCD. The area of △AED is what fraction of the area of rectangle ABCD ?
+<img src='file:\$$$\resources\2012 April 70G\imgs\125.png' width = '260'height = '186'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\126.png' width = '24'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\127.png' width = '24'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\128.png' width = '24'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\129.png' width = '22'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\130.png' width = '32'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">56. A right square pyramid with equilateral triangular faces is shown in the figure below. The slant height of the pyramid is <img src='file:\$$$\resources\2012 April 70G\imgs\131.png' width = '46'height = '38'/> inches. What is the total length, in inches, of all 8 edges of the pyramid?
+<img src='file:\$$$\resources\2012 April 70G\imgs\132.png' width = '488'height = '308'/>
+<div class = "choice">F. 12</div>
+<div class = "choice">G. 21</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 36</div>
+<div class = "choice">K. 48</div>
+</div>
+###################
+<div class = "quiz">57. A circle in the standard (x, y) coordinate plane intersects the x-axis at (-7,0) and (l,0). The radius of the circle is 5 coordinate units. Which of the following could be the center of the circle?
+Ⅰ. (-3,-3)
+Ⅱ. (-3,0)
+Ⅲ. (-3,3)
+<div class = "choice">A. Ⅰ only</div>
+<div class = "choice">B. Ⅱ only</div>
+<div class = "choice">C. Ⅲ only</div>
+<div class = "choice">D. Ⅰ and Ⅲ only</div>
+<div class = "choice">E. Ⅰ, Ⅱ, and Ⅲ</div>
+</div>
+###################
+<div class = "quiz">58. What percent of the even numbers from 2 to 50, inclusive, have a units digit that is twice the tens digit?
+<div class = "choice">F. 4%</div>
+<div class = "choice">G. 5%</div>
+<div class = "choice">H. 8%</div>
+<div class = "choice">J. 16%</div>
+<div class = "choice">K. 20%</div>
+</div>
+###################
+<div class = "quiz">59. The graphs of f(x) and g(x) are shown in the standard (x, y) coordinate planes below. One of the following expressions represents g(x) in terms of f(x). Which one?
+<img src='file:\$$$\resources\2012 April 70G\imgs\133.png' width = '661'height = '357'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2012 April 70G\imgs\134.png' width = '148'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2012 April 70G\imgs\135.png' width = '148'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2012 April 70G\imgs\136.png' width = '148'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2012 April 70G\imgs\137.png' width = '126'height = '34'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2012 April 70G\imgs\138.png' width = '126'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">60. A news anchor made the true statement below.
+If it is raining, then the parade is canceled.
+Which of the following statements is logically equivalent to the news anchor's statement?
+<div class = "choice">F. If it is not raining, then the parade is not canceled.</div>
+<div class = "choice">G. The parade is canceled if and only if it is raining.</div>
+<div class = "choice">H. lf it is not raining, then the parade is canceled.</div>
+<div class = "choice">J. If the parade is canceled, then it is raining.</div>
+<div class = "choice">K. If the parade is not canceled, then it is not raining.</div>
+
+</div>
+###################

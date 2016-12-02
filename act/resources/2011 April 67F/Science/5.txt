@@ -1,55 +1,55 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A binary phase diagram (BPD) shows how the phases of a mixture of 2 chemicals vary with temperature and composition at 1 atmosphere (atm) of pressure. The phases include the solid (s) phase of each chemical and the liquid (l) solution phase of the 2 chemicals. The eutectic is the point where all 4 regions of the BPD intersect. It indicates the conditions at which all the phases represented in the 4 regions exist in equilibrium. When a mixture is at equilibrium, no net phase change occurs. Figure 1 is a BPD for durene and biphenyl. Figure 2 is a BPD for durene and naphthalene.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgYmluYXJ5IHBoYXNlIGRpYWdyYW0gKEJQRCkgc2hvd3MgaG93IHRoZSBwaGFzZXMgb2YgYSBtaXh0dXJlIG9mIDIgY2hlbWljYWxzIHZhcnkgd2l0aCB0ZW1wZXJhdHVyZSBhbmQgY29tcG9zaXRpb24gYXQgMSBhdG1vc3BoZXJlIChhdG0pIG9mIHByZXNzdXJlLiBUaGUgcGhhc2VzIGluY2x1ZGUgdGhlIHNvbGlkIChzKSBwaGFzZSBvZiBlYWNoIGNoZW1pY2FsIGFuZCB0aGUgbGlxdWlkIChsKSBzb2x1dGlvbiBwaGFzZSBvZiB0aGUgMiBjaGVtaWNhbHMuIFRoZSBldXRlY3RpYyBpcyB0aGUgcG9pbnQgd2hlcmUgYWxsIDQgcmVnaW9ucyBvZiB0aGUgQlBEIGludGVyc2VjdC4gSXQgaW5kaR9jYXRlcyB0aGUgY29uZGl0aW9ucyBhdCB3aGljaCBhbGwgdGhlIHBoYXNlcyByZXByZXNlbnRlZCBpbiB0aGUgNCByZWdpb25zIGV4aXN0IGluIGVxdWlsaWJyaXVtLiBXaGVuIGEgbWl4dHVyZSBpcyBhdCBlcXVpbGlicml1bSwgbm8gbmV0IHBoYXNlIGNoYW5nZSBvY2N1cnMuIEZpZ3VyZSAxIGlzIGEgQlBEIGZvciBkdXJlbmUgYW5kIGJpcGhlbnlsLiBGaWd1cmUgMiBpcyBhIEJQRCBmb3IgZHVyZW5lIGFuZCBuYXBodGhhbGVuZS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\246.png' width = '437'height = '498'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjQ2LnBuZycgd2lkdGggPSAnNDM3J2hlaWdodCA9ICc0OTgnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\247.png' width = '452'height = '489'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjQ3LnBuZycgd2lkdGggPSAnNDUyJ2hlaWdodCA9ICc0ODknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Jürgen Gallus et al., "Binary Solid-Liquid Phase Diagrams of Selected Organic Compounds." ©2001 by Division of Chemical Education, Inc., American Chemical Society.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIErDvHJnZW4gR2FsbHVzIGV0IGFsLiwgIkJpbmFyeSBTb2xpZC1MaXF1aWQgUGhhc2UgRGlhZ3JhbXMgb2YgU2VsZWN0ZWQgT3JnYW5pYyBDb21wb3VuZHMuIiDCqTIwMDEgYnkgRGl2aXNpb24gb2YgQ2hlbWljYWwgRWR1Y2F0aW9uLCBJbmMuLCBBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">25. According to Figure 2, at 1 atm, solid will NOT be present in a durene-naphthalene mixture at 55°C that contains which of the following percents durene by mass?
-<div class = "choice">A. 30%</div>
-<div class = "choice">B. 50%</div>
-<div class = "choice">C. 70%</div>
-<div class = "choice">D. 90%</div>
-</div>
-###################
-<div class = "quiz">26. According to Figure 1, at 1 atm, a durene-biphenyl mixture that is 70% durene by mass at 50°C will be a:
-<div class = "choice">F. liquid solution only.</div>
-<div class = "choice">G. mixture of a liquid solution and solid biphenyl.</div>
-<div class = "choice">H. mixture of a liquid solution and solid durene.</div>
-<div class = "choice">J. mixture of solid durene and solid biphenyl.</div>
-</div>
-###################
-<div class = "quiz">27. Consider a durene-biphenyl mixture at 1 atm that is 40% durene by mass. According to Figure 1, solid durene, solid biphenyl, and a liquid solution will all be present in equilibrium at a temperature closest to which of the following?
-<div class = "choice">A. 42°C</div>
-<div class = "choice">B. 52°C</div>
-<div class = "choice">C. 69°C</div>
-<div class = "choice">D. 79°C</div>
-</div>
-###################
-<div class = "quiz">28. A durene-biphenyl mixture that is 60% durene by mass at 90°C was slowly cooled to 20°C, then slowly heated to 70°C (all at 1 atm). Based on Figure 1, at the end of thin procedure the mixture consisted of:
-<div class = "choice">F. liquid solution only.</div>
-<div class = "choice">G. liquid solution and solid biphenyl.</div>
-<div class = "choice">H. liquid solution and solid durene.</div>
-<div class = "choice">J. solid durene and solid biphenyl.</div>
-</div>
-###################
-<div class = "quiz">29. Based on Figures 1 and 2, the melting point of durene is closest to which of the following?
-<div class = "choice">A. 19°C</div>
-<div class = "choice">B. 39°C</div>
-<div class = "choice">C. 59°C</div>
-<div class = "choice">D. 79°C</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCBhdCAxIGF0bSwgc29saWQgd2lsbCBOT1QgYmUgcHJlc2VudCBpbiBhIGR1cmVuZS1uYXBodGhhbGVuZSBtaXh0dXJlIGF0IDU1wrBDIHRoYXQgY29udGFpbnMgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBwZXJjZW50cyBkdXJlbmUgYnkgbWFzcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDMwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDUwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDcwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDkwJTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCBhdCAxIGF0bSwgYSBkdXJlbmUtYmlwaGVueWwgbWl4dHVyZSB0aGF0IGlzIDcwJSBkdXJlbmUgYnkgbWFzcyBhdCA1MMKwQyB3aWxsIGJlIGE6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxpcXVpZCBzb2x1dGlvbiBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1peHR1cmUgb2YgYSBsaXF1aWQgc29sdXRpb24gYW5kIHNvbGlkIGJpcGhlbnlsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1peHR1cmUgb2YgYSBsaXF1aWQgc29sdXRpb24gYW5kIHNvbGlkIGR1cmVuZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1peHR1cmUgb2Ygc29saWQgZHVyZW5lIGFuZCBzb2xpZCBiaXBoZW55bC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQ29uc2lkZXIgYSBkdXJlbmUtYmlwaGVueWwgbWl4dHVyZSBhdCAxIGF0bSB0aGF0IGlzIDQwJSBkdXJlbmUgYnkgbWFzcy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCBzb2xpZCBkdXJlbmUsIHNvbGlkIGJpcGhlbnlsLCBhbmQgYSBsaXF1aWQgc29sdXRpb24gd2lsbCBhbGwgYmUgcHJlc2VudCBpbiBlcXVpbGlicml1bSBhdCBhIHRlbXBlcmF0dXJlIGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDQywrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDUywrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDY5wrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDc5wrBDPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQSBkdXJlbmUtYmlwaGVueWwgbWl4dHVyZSB0aGF0IGlzIDYwJSBkdXJlbmUgYnkgbWFzcyBhdCA5MMKwQyB3YXMgc2xvd2x5IGNvb2xlZCB0byAyMMKwQywgdGhlbiBzbG93bHkgaGVhdGVkIHRvIDcwwrBDIChhbGwgYXQgMSBhdG0pLiBCYXNlZCBvbiBGaWd1cmUgMSwgYXQgdGhlIGVuZCBvZiB0aGluIHByb2NlZHVyZSB0aGUgbWl4dHVyZSBjb25zaXN0ZWQgb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxpcXVpZCBzb2x1dGlvbiBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxpcXVpZCBzb2x1dGlvbiBhbmQgc29saWQgYmlwaGVueWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxpcXVpZCBzb2x1dGlvbiBhbmQgc29saWQgZHVyZW5lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNvbGlkIGR1cmVuZSBhbmQgc29saWQgYmlwaGVueWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQmFzZWQgb24gRmlndXJlcyAxIGFuZCAyLCB0aGUgbWVsdGluZyBwb2ludCBvZiBkdXJlbmUgaXMgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE5wrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM5wrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDU5wrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDc5wrBDPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

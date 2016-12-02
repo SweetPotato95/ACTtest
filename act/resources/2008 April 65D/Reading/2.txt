@@ -1,98 +1,98 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "The Trouble with Fries" by Malcolm Gladwell（©2001 by The Condé Nast Publications Inc.)</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It is entirely possible, right now, to make a delicious French fry that does not carry with it a death sentence. A French fry can be much more than a delivery vehicle for fat.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlICJUaGUgVHJvdWJsZSB3aXRoIEZyaWVzIiBieSBNYWxjb2xtIEdsYWR3ZWxs77yIwj8yMDAxIGJ5IFRoZSBDb25kw6kgTmFzdCBQdWJsaWNhdGlvbnMgSW5jLik8L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IGlzIGVudGlyZWx5IHBvc3NpYmxlLCByaWdodCBub3csIHRvIG1ha2UgYSBkZWxpY2lvdXMgRnJlbmNoIGZyeSB0aGF0IGRvZXMgbm90IGNhcnJ5IHdpdGggaXQgYSBkZWF0aCBzZW50ZW5jZS4gQSBGcmVuY2ggZnJ5IGNhbiBiZSBtdWNoIG1vcmUgdGhhbiBhIGRlbGl2ZXJ5IHZlaGljbGUgZm9yIGZhdC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Is it really that simple, though? Consider the cautionary tale of the efforts of a group of food scientists at Auburn University more than a decade ago to come up with a better hamburger. The Auburn team wanted to create a leaner beef that tasted as good as regular ground beef. They couldn't just remove the fat, because .that would leave the meat dry and mealy. They wanted to replace the fat. The goal of the Auburn scientists was to cut about two-thirds of the fat from normal ground beef, which meant that they needed to find something to add to the beef that would hold an equivalent amount of water—and continue to retain that water even as the beef was being grilled. Their choice? Seaweed, or, more precisely, carrageenan. They also selected some basic flavor enhancers, designed to make up for the lost fat "taste." The result was a beef patty that was roughly three-quarters water, twenty per cent protein, five per cent or so fat, and a quarter of a per cent seaweed. They called it AU Lean.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPklzIGl0IHJlYWxseSB0aGF0IHNpbXBsZSwgdGhvdWdoPyBDb25zaWRlciB0aGUgY2F1dGlvbmFyeSB0YWxlIG9mIHRoZSBlZmZvcnRzIG9mIGEgZ3JvdXAgb2YgZm9vZCBzY2llbnRpc3RzIGF0IEF1YnVybiBVbml2ZXJzaXR5IG1vcmUgdGhhbiBhIGRlY2FkZSBhZ28gdG8gY29tZSB1cCB3aXRoIGEgYmV0dGVyIGhhbWJ1cmdlci4gVGhlIEF1YnVybiB0ZWFtIHdhbnRlZCB0byBjcmVhdGUgYSBsZWFuZXIgYmVlZiB0aGF0IHRhc3RlZCBhcyBnb29kIGFzIHJlZ3VsYXIgZ3JvdW5kIGJlZWYuIFRoZXkgY291bGRuJ3QganVzdCByZW1vdmUgdGhlIGZhdCwgYmVjYXVzZSAudGhhdCB3b3VsZCBsZWF2ZSB0aGUgbWVhdCBkcnkgYW5kIG1lYWx5LiBUaGV5IHdhbnRlZCB0byByZXBsYWNlIHRoZSBmYXQuIFRoZSBnb2FsIG9mIHRoZSBBdWJ1cm4gc2NpZW50aXN0cyB3YXMgdG8gY3V0IGFib3V0IHR3by10aGlyZHMgb2YgdGhlIGZhdCBmcm9tIG5vcm1hbCBncm91bmQgYmVlZiwgd2hpY2ggbWVhbnQgdGhhdCB0aGV5IG5lZWRlZCB0byBmaW5kIHNvbWV0aGluZyB0byBhZGQgdG8gdGhlIGJlZWYgdGhhdCB3b3VsZCBob2xkIGFuIGVxdWl2YWxlbnQgYW1vdW50IG9mIHdhdGVy4oCUYW5kIGNvbnRpbnVlIHRvIHJldGFpbiB0aGF0IHdhdGVyIGV2ZW4gYXMgdGhlIGJlZWYgd2FzIGJlaW5nIGdyaWxsZWQuIFRoZWlyIGNob2ljZT8gU2Vhd2VlZCwgb3IsIG1vcmUgcHJlY2lzZWx5LCBjYXJyYWdlZW5hbi4gVGhleSBhbHNvIHNlbGVjdGVkIHNvbWUgYmFzaWMgZmxhdm9yIGVuaGFuY2VycywgZGVzaWduZWQgdG8gbWFrZSB1cCBmb3IgdGhlIGxvc3QgZmF0ICJ0YXN0ZS4iIFRoZSByZXN1bHQgd2FzIGEgYmVlZiBwYXR0eSB0aGF0IHdhcyByb3VnaGx5IHRocmVlLXF1YXJ0ZXJzIHdhdGVyLCB0d2VudHkgcGVyIGNlbnQgcHJvdGVpbiwgZml2ZSBwZXIgY2VudCBvciBzbyBmYXQsIGFuZCBhIHF1YXJ0ZXIgb2YgYSBwZXIgY2VudCBzZWF3ZWVkLiBUaGV5IGNhbGxlZCBpdCBBVSBMZWFuLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It didn't take the Auburn scientists long to realize that they had created something special. They began doing blind taste comparisons of AU Lean burgers and .traditional twenty-per-cent-fat burgers. Time after time, the AU Lean burgers won. <font id=12>Next, they took their invention into the field. They recruited a hundred families and supplied them with three kinds of ground beef for home cooking over consecutive three-week intervals— regular "market" ground-beef with twenty per cent fat, ground beef, with five per cent fat, and AU Lean. The families were asked to rate the different kinds of beef, without knowing which was which. Again, the AU Lean won hands down.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IGRpZG4ndCB0YWtlIHRoZSBBdWJ1cm4gc2NpZW50aXN0cyBsb25nIHRvIHJlYWxpemUgdGhhdCB0aGV5IGhhZCBjcmVhdGVkIHNvbWV0aGluZyBzcGVjaWFsLiBUaGV5IGJlZ2FuIGRvaW5nIGJsaW5kIHRhc3RlIGNvbXBhcmlzb25zIG9mIEFVIExlYW4gYnVyZ2VycyBhbmQgLnRyYWRpdGlvbmFsIHR3ZW50eS1wZXItY2VudC1mYXQgYnVyZ2Vycy4gVGltZSBhZnRlciB0aW1lLCB0aGUgQVUgTGVhbiBidXJnZXJzIHdvbi4gPGZvbnQgaWQ9MTI+TmV4dCwgdGhleSB0b29rIHRoZWlyIGludmVudGlvbiBpbnRvIHRoZSBmaWVsZC4gVGhleSByZWNydWl0ZWQgYSBodW5kcmVkIGZhbWlsaWVzIGFuZCBzdXBwbGllZCB0aGVtIHdpdGggdGhyZWUga2luZHMgb2YgZ3JvdW5kIGJlZWYgZm9yIGhvbWUgY29va2luZyBvdmVyIGNvbnNlY3V0aXZlIHRocmVlLXdlZWsgaW50ZXJ2YWxz4oA/IHJlZ3VsYXIgIm1hcmtldCIgZ3JvdW5kLWJlZWYgd2l0aCB0d2VudHkgcGVyIGNlbnQgZmF0LCBncm91bmQgYmVlZiwgd2l0aCBmaXZlIHBlciBjZW50IGZhdCwgYW5kIEFVIExlYW4uIFRoZSBmYW1pbGllcyB3ZXJlIGFza2VkIHRvIHJhdGUgdGhlIGRpZmZlcmVudCBraW5kcyBvZiBiZWVmLCB3aXRob3V0IGtub3dpbmcgd2hpY2ggd2FzIHdoaWNoLiBBZ2FpbiwgdGhlIEFVIExlYW4gd29uIGhhbmRzIGRvd24uPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=20>What the Auburn team showed was that, even though people love the taste and feel of fat—and naturally gravitate toward high-fat food—they can be fooled into thinking there is a lot of fat in something when there isn't. When the group tried to lower the fat in AU Lean below five per cent, people didn't like it anymore. But, within the relatively broad range of between five and twenty-five per cent, you can add water, and some flavoring and most people can't tell the difference.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTIwPldoYXQgdGhlIEF1YnVybiB0ZWFtIHNob3dlZCB3YXMgdGhhdCwgZXZlbiB0aG91Z2ggcGVvcGxlIGxvdmUgdGhlIHRhc3RlIGFuZCBmZWVsIG9mIGZhdOKAlGFuZCBuYXR1cmFsbHkgZ3Jhdml0YXRlIHRvd2FyZCBoaWdoLWZhdCBmb29k4oCUdGhleSBjYW4gYmUgZm9vbGVkIGludG8gdGhpbmtpbmcgdGhlcmUgaXMgYSBsb3Qgb2YgZmF0IGluIHNvbWV0aGluZyB3aGVuIHRoZXJlIGlzbid0LiBXaGVuIHRoZSBncm91cCB0cmllZCB0byBsb3dlciB0aGUgZmF0IGluIEFVIExlYW4gYmVsb3cgZml2ZSBwZXIgY2VudCwgcGVvcGxlIGRpZG4ndCBsaWtlIGl0IGFueW1vcmUuIEJ1dCwgd2l0aGluIHRoZSByZWxhdGl2ZWx5IGJyb2FkIHJhbmdlIG9mIGJldHdlZW4gZml2ZSBhbmQgdHdlbnR5LWZpdmUgcGVyIGNlbnQsIHlvdSBjYW4gYWRkIHdhdGVyLCBhbmQgc29tZSBmbGF2b3JpbmcgYW5kIG1vc3QgcGVvcGxlIGNhbid0IHRlbGwgdGhlIGRpZmZlcmVuY2UuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What's more, people appear to be more sensitive to the volume of food they consume than to its calorie content. Barbara Rolls, a nutritionist at Penn State, has demonstrated this principle with satiety studies. She feeds one group of people a high-volume snack and another group a low-volume snack. Even though the two snacks have the same calorie count, she finds that people who eat the high-volume snack feel more satisfied. Eating AU Lean, in short, isn't going to leave you with a craving for more calories; you'll feel just as full.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoYXQncyBtb3JlLCBwZW9wbGUgYXBwZWFyIHRvIGJlIG1vcmUgc2Vuc2l0aXZlIHRvIHRoZSB2b2x1bWUgb2YgZm9vZCB0aGV5IGNvbnN1bWUgdGhhbiB0byBpdHMgY2Fsb3JpZSBjb250ZW50LiBCYXJiYXJhIFJvbGxzLCBhIG51dHJpdGlvbmlzdCBhdCBQZW5uIFN0YXRlLCBoYXMgZGVtb25zdHJhdGVkIHRoaXMgcHJpbmNpcGxlIHdpdGggc2F0aWV0eSBzdHVkaWVzLiBTaGUgZmVlZHMgb25lIGdyb3VwIG9mIHBlb3BsZSBhIGhpZ2gtdm9sdW1lIHNuYWNrIGFuZCBhbm90aGVyIGdyb3VwIGEgbG93LXZvbHVtZSBzbmFjay4gRXZlbiB0aG91Z2ggdGhlIHR3byBzbmFja3MgaGF2ZSB0aGUgc2FtZSBjYWxvcmllIGNvdW50LCBzaGUgZmluZHMgdGhhdCBwZW9wbGUgd2hvIGVhdCB0aGUgaGlnaC12b2x1bWUgc25hY2sgZmVlbCBtb3JlIHNhdGlzZmllZC4gRWF0aW5nIEFVIExlYW4sIGluIHNob3J0LCBpc24ndCBnb2luZyB0byBsZWF2ZSB5b3Ugd2l0aCBhIGNyYXZpbmcgZm9yIG1vcmUgY2Fsb3JpZXM7IHlvdSdsbCBmZWVsIGp1c3QgYXMgZnVsbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For anyone looking to improve the quality of fast food, all this is heartening news. It means that you should be able to put low-fat cheese and low-fat mayonnaise in a fast-food hamburger without anyone's complaining. <font id=13>It also means that there's no particular reason to use twenty-per-cent-fat ground beef, in a fast- food burger.</font> In 1990, using just this argument, the Auburn team suggested to McDonald's that it make a hamburger out of AU Lean. Shortly thereafter, McDonald's came out with the McLean Deluxe. Other fast-food houses scrambled to follow suit. Nutritionists were delighted. And fast food appeared on the verge of a revolution.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBhbnlvbmUgbG9va2luZyB0byBpbXByb3ZlIHRoZSBxdWFsaXR5IG9mIGZhc3QgZm9vZCwgYWxsIHRoaXMgaXMgaGVhcnRlbmluZyBuZXdzLiBJdCBtZWFucyB0aGF0IHlvdSBzaG91bGQgYmUgYWJsZSB0byBwdXQgbG93LWZhdCBjaGVlc2UgYW5kIGxvdy1mYXQgbWF5b25uYWlzZSBpbiBhIGZhc3QtZm9vZCBoYW1idXJnZXIgd2l0aG91dCBhbnlvbmUncyBjb21wbGFpbmluZy4gPGZvbnQgaWQ9MTM+SXQgYWxzbyBtZWFucyB0aGF0IHRoZXJlJ3Mgbm8gcGFydGljdWxhciByZWFzb24gdG8gdXNlIHR3ZW50eS1wZXItY2VudC1mYXQgZ3JvdW5kIGJlZWYsIGluIGEgZmFzdC0gZm9vZCBidXJnZXIuPC9mb250PiBJbiAxOTkwLCB1c2luZyBqdXN0IHRoaXMgYXJndW1lbnQsIHRoZSBBdWJ1cm4gdGVhbSBzdWdnZXN0ZWQgdG8gTWNEb25hbGQncyB0aGF0IGl0IG1ha2UgYSBoYW1idXJnZXIgb3V0IG9mIEFVIExlYW4uIFNob3J0bHkgdGhlcmVhZnRlciwgTWNEb25hbGQncyBjYW1lIG91dCB3aXRoIHRoZSBNY0xlYW4gRGVsdXhlLiBPdGhlciBmYXN0LWZvb2QgaG91c2VzIHNjcmFtYmxlZCB0byBmb2xsb3cgc3VpdC4gTnV0cml0aW9uaXN0cyB3ZXJlIGRlbGlnaHRlZC4gQW5kIGZhc3QgZm9vZCBhcHBlYXJlZCBvbiB0aGUgdmVyZ2Ugb2YgYSByZXZvbHV0aW9uLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Only, it wasn't. The McLean was a flop, and four years later it was off the market. What happened? Part of the problem appears to have been that McDonald's rushed the burger to market before many of the production kinks had been worked out. More important, though, was the psychological handicap the burger faced. People liked AU Lean in blind taste tests because they didn't know it was AU Lean; they were fooled into thinking it was regular ground beef. But nobody was fooled when it came to the McLean Deluxe. It was sold as the healthy choice—<font id=17>and who goes to McDonald's for health food?</font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9ubHksIGl0IHdhc24ndC4gVGhlIE1jTGVhbiB3YXMgYSBmbG9wLCBhbmQgZm91ciB5ZWFycyBsYXRlciBpdCB3YXMgb2ZmIHRoZSBtYXJrZXQuIFdoYXQgaGFwcGVuZWQ/IFBhcnQgb2YgdGhlIHByb2JsZW0gYXBwZWFycyB0byBoYXZlIGJlZW4gdGhhdCBNY0RvbmFsZCdzIHJ1c2hlZCB0aGUgYnVyZ2VyIHRvIG1hcmtldCBiZWZvcmUgbWFueSBvZiB0aGUgcHJvZHVjdGlvbiBraW5rcyBoYWQgYmVlbiB3b3JrZWQgb3V0LiBNb3JlIGltcG9ydGFudCwgdGhvdWdoLCB3YXMgdGhlIHBzeWNob2xvZ2ljYWwgaGFuZGljYXAgdGhlIGJ1cmdlciBmYWNlZC4gUGVvcGxlIGxpa2VkIEFVIExlYW4gaW4gYmxpbmQgdGFzdGUgdGVzdHMgYmVjYXVzZSB0aGV5IGRpZG4ndCBrbm93IGl0IHdhcyBBVSBMZWFuOyB0aGV5IHdlcmUgZm9vbGVkIGludG8gdGhpbmtpbmcgaXQgd2FzIHJlZ3VsYXIgZ3JvdW5kIGJlZWYuIEJ1dCBub2JvZHkgd2FzIGZvb2xlZCB3aGVuIGl0IGNhbWUgdG8gdGhlIE1jTGVhbiBEZWx1eGUuIEl0IHdhcyBzb2xkIGFzIHRoZSBoZWFsdGh5IGNob2ljZeKAPzxmb250IGlkPTE3PmFuZCB3aG8gZ29lcyB0byBNY0RvbmFsZCdzIGZvciBoZWFsdGggZm9vZD88L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This is sobering news for those interested in improving the American diet. For years, the nutrition movement in this country has' made transparency one of its principal goals: it has assumed that the best way to help people improve their diets is to tell them precisely what's in their food, to label certain foods good and certain foods bad. But transparency can backfire, because sometimes nothing is more deadly for our taste buds than the knowledge that what we are eating is good for us.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaXMgaXMgc29iZXJpbmcgbmV3cyBmb3IgdGhvc2UgaW50ZXJlc3RlZCBpbiBpbXByb3ZpbmcgdGhlIEFtZXJpY2FuIGRpZXQuIEZvciB5ZWFycywgdGhlIG51dHJpdGlvbiBtb3ZlbWVudCBpbiB0aGlzIGNvdW50cnkgaGFzJyBtYWRlIHRyYW5zcGFyZW5jeSBvbmUgb2YgaXRzIHByaW5jaXBhbCBnb2FsczogaXQgaGFzIGFzc3VtZWQgdGhhdCB0aGUgYmVzdCB3YXkgdG8gaGVscCBwZW9wbGUgaW1wcm92ZSB0aGVpciBkaWV0cyBpcyB0byB0ZWxsIHRoZW0gcHJlY2lzZWx5IHdoYXQncyBpbiB0aGVpciBmb29kLCB0byBsYWJlbCBjZXJ0YWluIGZvb2RzIGdvb2QgYW5kIGNlcnRhaW4gZm9vZHMgYmFkLiBCdXQgdHJhbnNwYXJlbmN5IGNhbiBiYWNrZmlyZSwgYmVjYXVzZSBzb21ldGltZXMgbm90aGluZyBpcyBtb3JlIGRlYWRseSBmb3Igb3VyIHRhc3RlIGJ1ZHMgdGhhbiB0aGUga25vd2xlZGdlIHRoYXQgd2hhdCB3ZSBhcmUgZWF0aW5nIGlzIGdvb2QgZm9yIHVzLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">11. The author most nearly portrays the Auburn scientists as:
-<div class = "choice">A. severe critics of the fast-food industry's practices.</div>
-<div class = "choice">B. enthusiastic promoters of their promising work,.</div>
-<div class = "choice">C. diligent researchers uninterested in the practical application of their work.</div>
-<div class = "choice">D. clever innovators more interested in nutrition than in how food tastes.</div>
-</div>
-###################
-<div class = "quiz">12. It can reasonably be inferred from the passage that changing which of the following conditions of the experiment described in lines 28-36 would have had the biggest effect on the outcome?
-<div class = "choice">F. Altering the order in. which the families received, the three kinds of ground beef</div>
-<div class = "choice">G. Using two hundred families instead of one hundred in the study</div>
-<div class = "choice">H. Telling the families which kind of ground beef they were getting each time</div>
-<div class = "choice">J. Lengthening the time the families used each type of ground beef</div>
-</div>
-###################
-<div class = "quiz">13. The statement in lines 61-63 most likely, represents the view of all of the following groups EXCEPT:
-<div class = "choice">A. McDonald's officials introducing the McLean Deluxe to the public..</div>
-<div class = "choice">B. the Auburn scientists, who had research to support 'these conclusions.</div>
-<div class = "choice">C. nutritionists who saw the potential health benefits of AU Lean.</div>
-<div class = "choice">D. fast-food company executives at the time this article was published.</div>
-</div>
-###################
-<div class = "quiz">14. According to the passage, carrageenan's role in AU Lean was as a:
-<div class = "choice">F. flavor enhancer.</div>
-<div class = "choice">G. substitute for fat.</div>
-<div class = "choice">H. source of protein.</div>
-<div class = "choice">J. replacement for seaweed.</div>
-</div>
-###################
-<div class = "quiz">15. The author implies that for an AU Lean hamburger to seem as satisfying as a hamburger made from regular ground beef, the most important factor would be keeping which of the following the same?
-<div class = "choice">A. Volume</div>
-<div class = "choice">B. Calorie content</div>
-<div class = "choice">C. Percent of fat</div>
-<div class = "choice">D. Method of cooking</div>
-</div>
-###################
-<div class = "quiz">16. The author indicates that the main cause of the failure of the McLean Deluxe was that:
-<div class = "choice">F. McDonald's failed to promote, it through advertising.</div>
-<div class = "choice">G. it was rushed, to market before production problems were solved.</div>
-<div class = "choice">H. people believed that it was made from "market" hamburger.</div>
-<div class = "choice">J. people knew that it was supposed to be good for them.</div>
-</div>
-###################
-<div class = "quiz">17. The author most likely intends the question in lines 80-81 to be read:
-<div class = "choice">A. rhetorically; he believes the answer is self-evident and negative.</div>
-<div class = "choice">B. ironically; he finds it surprising that people really wanted the healthy choice.</div>
-<div class = "choice">C. genuinely; he is unsure about whether people enjoy healthy fast food.</div>
-<div class = "choice">D. critically; he objects to fast-food restaurants selling AU Lean.</div>
-</div>
-###################
-<div class = "quiz">18. It can reasonably be inferred from the last paragraph that: the author thinks that, in the future, the nutrition movement should:
-<div class = "choice">F. make its goals more transparent.</div>
-<div class = "choice">G. reconsider its goal of transparency.</div>
-<div class = "choice">H. label foods as either good or bad.</div>
-<div class = "choice">J. tell people exactly what is in. their food.</div>
-</div>
-###################
-<div class = "quiz">19. According to the passage, which of the following elements makes up the highest percent of AU Lean?
-<div class = "choice">A. Fat</div>
-<div class = "choice">B. Seaweed</div>
-<div class = "choice">C. Water</div>
-<div class = "choice">D. Protein</div>
-</div>
-###################
-<div class = "quiz">20. According to information in the fourth paragraph (lines 37-46), which of the following comparisons between a 20-percent-fat hamburger and. an 8-percent-fat hamburger with added water arid flavorings would most people make?
-<div class = "choice">F. The 20-percent-fat hamburger would taste slightly better.</div>
-<div class = "choice">G. The 8-percent:fat hamburger would taste slightly better..</div>
-<div class = "choice">H. The 8-percerit-fat hamburger would taste significantly better.</div>
-<div class = "choice">J. The two hamburgers would taste the same.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIGF1dGhvciBtb3N0IG5lYXJseSBwb3J0cmF5cyB0aGUgQXVidXJuIHNjaWVudGlzdHMgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNldmVyZSBjcml0aWNzIG9mIHRoZSBmYXN0LWZvb2QgaW5kdXN0cnkncyBwcmFjdGljZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVudGh1c2lhc3RpYyBwcm9tb3RlcnMgb2YgdGhlaXIgcHJvbWlzaW5nIHdvcmssLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRpbGlnZW50IHJlc2VhcmNoZXJzIHVuaW50ZXJlc3RlZCBpbiB0aGUgcHJhY3RpY2FsIGFwcGxpY2F0aW9uIG9mIHRoZWlyIHdvcmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNsZXZlciBpbm5vdmF0b3JzIG1vcmUgaW50ZXJlc3RlZCBpbiBudXRyaXRpb24gdGhhbiBpbiBob3cgZm9vZCB0YXN0ZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IGNoYW5naW5nIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY29uZGl0aW9ucyBvZiB0aGUgZXhwZXJpbWVudCBkZXNjcmliZWQgaW4gbGluZXMgMjgtMzYgd291bGQgaGF2ZSBoYWQgdGhlIGJpZ2dlc3QgZWZmZWN0IG9uIHRoZSBvdXRjb21lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEFsdGVyaW5nIHRoZSBvcmRlciBpbi4gd2hpY2ggdGhlIGZhbWlsaWVzIHJlY2VpdmVkLCB0aGUgdGhyZWUga2luZHMgb2YgZ3JvdW5kIGJlZWY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFVzaW5nIHR3byBodW5kcmVkIGZhbWlsaWVzIGluc3RlYWQgb2Ygb25lIGh1bmRyZWQgaW4gdGhlIHN0dWR5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRlbGxpbmcgdGhlIGZhbWlsaWVzIHdoaWNoIGtpbmQgb2YgZ3JvdW5kIGJlZWYgdGhleSB3ZXJlIGdldHRpbmcgZWFjaCB0aW1lPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIExlbmd0aGVuaW5nIHRoZSB0aW1lIHRoZSBmYW1pbGllcyB1c2VkIGVhY2ggdHlwZSBvZiBncm91bmQgYmVlZjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIHN0YXRlbWVudCBpbiBsaW5lcyA2MS02MyBtb3N0IGxpa2VseSwgcmVwcmVzZW50cyB0aGUgdmlldyBvZiBhbGwgb2YgdGhlIGZvbGxvd2luZyBncm91cHMgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE1jRG9uYWxkJ3Mgb2ZmaWNpYWxzIGludHJvZHVjaW5nIHRoZSBNY0xlYW4gRGVsdXhlIHRvIHRoZSBwdWJsaWMuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBBdWJ1cm4gc2NpZW50aXN0cywgd2hvIGhhZCByZXNlYXJjaCB0byBzdXBwb3J0ICd0aGVzZSBjb25jbHVzaW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG51dHJpdGlvbmlzdHMgd2hvIHNhdyB0aGUgcG90ZW50aWFsIGhlYWx0aCBiZW5lZml0cyBvZiBBVSBMZWFuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZhc3QtZm9vZCBjb21wYW55IGV4ZWN1dGl2ZXMgYXQgdGhlIHRpbWUgdGhpcyBhcnRpY2xlIHdhcyBwdWJsaXNoZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBjYXJyYWdlZW5hbidzIHJvbGUgaW4gQVUgTGVhbiB3YXMgYXMgYTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGZsYXZvciBlbmhhbmNlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1YnN0aXR1dGUgZm9yIGZhdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNvdXJjZSBvZiBwcm90ZWluLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlcGxhY2VtZW50IGZvciBzZWF3ZWVkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIGF1dGhvciBpbXBsaWVzIHRoYXQgZm9yIGFuIEFVIExlYW4gaGFtYnVyZ2VyIHRvIHNlZW0gYXMgc2F0aXNmeWluZyBhcyBhIGhhbWJ1cmdlciBtYWRlIGZyb20gcmVndWxhciBncm91bmQgYmVlZiwgdGhlIG1vc3QgaW1wb3J0YW50IGZhY3RvciB3b3VsZCBiZSBrZWVwaW5nIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdGhlIHNhbWU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFZvbHVtZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENhbG9yaWUgY29udGVudDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFBlcmNlbnQgb2YgZmF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE1ldGhvZCBvZiBjb29raW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIGF1dGhvciBpbmRpY2F0ZXMgdGhhdCB0aGUgbWFpbiBjYXVzZSBvZiB0aGUgZmFpbHVyZSBvZiB0aGUgTWNMZWFuIERlbHV4ZSB3YXMgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE1jRG9uYWxkJ3MgZmFpbGVkIHRvIHByb21vdGUsIGl0IHRocm91Z2ggYWR2ZXJ0aXNpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGl0IHdhcyBydXNoZWQsIHRvIG1hcmtldCBiZWZvcmUgcHJvZHVjdGlvbiBwcm9ibGVtcyB3ZXJlIHNvbHZlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBlb3BsZSBiZWxpZXZlZCB0aGF0IGl0IHdhcyBtYWRlIGZyb20gIm1hcmtldCIgaGFtYnVyZ2VyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBlb3BsZSBrbmV3IHRoYXQgaXQgd2FzIHN1cHBvc2VkIHRvIGJlIGdvb2QgZm9yIHRoZW0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIGF1dGhvciBtb3N0IGxpa2VseSBpbnRlbmRzIHRoZSBxdWVzdGlvbiBpbiBsaW5lcyA4MC04MSB0byBiZSByZWFkOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHJoZXRvcmljYWxseTsgaGUgYmVsaWV2ZXMgdGhlIGFuc3dlciBpcyBzZWxmLWV2aWRlbnQgYW5kIG5lZ2F0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlyb25pY2FsbHk7IGhlIGZpbmRzIGl0IHN1cnByaXNpbmcgdGhhdCBwZW9wbGUgcmVhbGx5IHdhbnRlZCB0aGUgaGVhbHRoeSBjaG9pY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdlbnVpbmVseTsgaGUgaXMgdW5zdXJlIGFib3V0IHdoZXRoZXIgcGVvcGxlIGVuam95IGhlYWx0aHkgZmFzdCBmb29kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNyaXRpY2FsbHk7IGhlIG9iamVjdHMgdG8gZmFzdC1mb29kIHJlc3RhdXJhbnRzIHNlbGxpbmcgQVUgTGVhbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgbGFzdCBwYXJhZ3JhcGggdGhhdDogdGhlIGF1dGhvciB0aGlua3MgdGhhdCwgaW4gdGhlIGZ1dHVyZSwgdGhlIG51dHJpdGlvbiBtb3ZlbWVudCBzaG91bGQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1ha2UgaXRzIGdvYWxzIG1vcmUgdHJhbnNwYXJlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJlY29uc2lkZXIgaXRzIGdvYWwgb2YgdHJhbnNwYXJlbmN5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxhYmVsIGZvb2RzIGFzIGVpdGhlciBnb29kIG9yIGJhZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRlbGwgcGVvcGxlIGV4YWN0bHkgd2hhdCBpcyBpbi4gdGhlaXIgZm9vZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGVsZW1lbnRzIG1ha2VzIHVwIHRoZSBoaWdoZXN0IHBlcmNlbnQgb2YgQVUgTGVhbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEZhdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNlYXdlZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdhdGVyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFByb3RlaW48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIGluZm9ybWF0aW9uIGluIHRoZSBmb3VydGggcGFyYWdyYXBoIChsaW5lcyAzNy00NiksIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY29tcGFyaXNvbnMgYmV0d2VlbiBhIDIwLXBlcmNlbnQtZmF0IGhhbWJ1cmdlciBhbmQuIGFuIDgtcGVyY2VudC1mYXQgaGFtYnVyZ2VyIHdpdGggYWRkZWQgd2F0ZXIgYXJpZCBmbGF2b3JpbmdzIHdvdWxkIG1vc3QgcGVvcGxlIG1ha2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSAyMC1wZXJjZW50LWZhdCBoYW1idXJnZXIgd291bGQgdGFzdGUgc2xpZ2h0bHkgYmV0dGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSA4LXBlcmNlbnQ6ZmF0IGhhbWJ1cmdlciB3b3VsZCB0YXN0ZSBzbGlnaHRseSBiZXR0ZXIuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSA4LXBlcmNlcml0LWZhdCBoYW1idXJnZXIgd291bGQgdGFzdGUgc2lnbmlmaWNhbnRseSBiZXR0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSB0d28gaGFtYnVyZ2VycyB3b3VsZCB0YXN0ZSB0aGUgc2FtZS48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,97 +1,97 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "In a Lonely Place” by Martha Nussbaum (○c2006 by The Nation).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nussbaum is reviewing the biography The Solitude of Self by Vivian Gornick.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlICJJbiBhIExvbmVseSBQbGFjZeKAPyBieSBNYXJ0aGEgTnVzc2JhdW0gKOKXi2MyMDA2IGJ5IFRoZSBOYXRpb24pLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk51c3NiYXVtIGlzIHJldmlld2luZyB0aGUgYmlvZ3JhcGh5IFRoZSBTb2xpdHVkZSBvZiBTZWxmIGJ5IFZpdmlhbiBHb3JuaWNrLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 1840 the young Elizabeth Cady Stanton attended the World Anti-Slavery Convention in London with her new husband. an abolitionist politician. At least she tried to attend it. On her arrival at the convention site, the people in charge refused to seat her because she was a woman. <font id=12>All the women were required to withdraw to the periphery, where, Vivian Gornick writes in her new book on Stanton, The Solitude of Self, "they could see but not be seen, hear but not be heard."</font> Most of the men, including her husband, went along with this arrangement, unwilling to complicate discussion of the all-important antislavery issue. Only a few, notably the prominent abolitionist William Lloyd Garrison, refused to participate on terms that excluded women. <font id=17>Stanton recalled later that it was on this day that she realized for the first time that"in the eyes of the world I was not as I was in my own eyes, I was only a woman."</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIDE4NDAgdGhlIHlvdW5nIEVsaXphYmV0aCBDYWR5IFN0YW50b24gYXR0ZW5kZWQgdGhlIFdvcmxkIEFudGktU2xhdmVyeSBDb252ZW50aW9uIGluIExvbmRvbiB3aXRoIGhlciBuZXcgaHVzYmFuZC4gYW4gYWJvbGl0aW9uaXN0IHBvbGl0aWNpYW4uIEF0IGxlYXN0IHNoZSB0cmllZCB0byBhdHRlbmQgaXQuIE9uIGhlciBhcnJpdmFsIGF0IHRoZSBjb252ZW50aW9uIHNpdGUsIHRoZSBwZW9wbGUgaW4gY2hhcmdlIHJlZnVzZWQgdG8gc2VhdCBoZXIgYmVjYXVzZSBzaGUgd2FzIGEgd29tYW4uIDxmb250IGlkPTEyPkFsbCB0aGUgd29tZW4gd2VyZSByZXF1aXJlZCB0byB3aXRoZHJhdyB0byB0aGUgcGVyaXBoZXJ5LCB3aGVyZSwgVml2aWFuIEdvcm5pY2sgd3JpdGVzIGluIGhlciBuZXcgYm9vayBvbiBTdGFudG9uLCBUaGUgU29saXR1ZGUgb2YgU2VsZiwgInRoZXkgY291bGQgc2VlIGJ1dCBub3QgYmUgc2VlbiwgaGVhciBidXQgbm90IGJlIGhlYXJkLiI8L2ZvbnQ+IE1vc3Qgb2YgdGhlIG1lbiwgaW5jbHVkaW5nIGhlciBodXNiYW5kLCB3ZW50IGFsb25nIHdpdGggdGhpcyBhcnJhbmdlbWVudCwgdW53aWxsaW5nIHRvIGNvbXBsaWNhdGUgZGlzY3Vzc2lvbiBvZiB0aGUgYWxsLWltcG9ydGFudCBhbnRpc2xhdmVyeSBpc3N1ZS4gT25seSBhIGZldywgbm90YWJseSB0aGUgcHJvbWluZW50IGFib2xpdGlvbmlzdCBXaWxsaWFtIExsb3lkIEdhcnJpc29uLCByZWZ1c2VkIHRvIHBhcnRpY2lwYXRlIG9uIHRlcm1zIHRoYXQgZXhjbHVkZWQgd29tZW4uIDxmb250IGlkPTE3PlN0YW50b24gcmVjYWxsZWQgbGF0ZXIgdGhhdCBpdCB3YXMgb24gdGhpcyBkYXkgdGhhdCBzaGUgcmVhbGl6ZWQgZm9yIHRoZSBmaXJzdCB0aW1lIHRoYXQiaW4gdGhlIGV5ZXMgb2YgdGhlIHdvcmxkIEkgd2FzIG5vdCBhcyBJIHdhcyBpbiBteSBvd24gZXllcywgSSB3YXMgb25seSBhIHdvbWFuLiI8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">So began the career of one of America's greatest radicals. Perhaps, however, it really began much earlier. When Stanton, around age 12, heard of a local woman who had suffered outrageous but legally sanctioned injustice at the hands of her dead husband's son, she grabbed a knife and cut the offending passage out of the law book on her father's desk. Her father told her that she could work to change the law but that, in Gornick's words, defacing the book was "not only forbidden . . . it was also useless." <font id=14>She reflects that at this point it was "already too late: an educated, upright, law-and-order household had spawned a daughter who was going to cut the laws out of the books with a knife."</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNvIGJlZ2FuIHRoZSBjYXJlZXIgb2Ygb25lIG9mIEFtZXJpY2EncyBncmVhdGVzdCByYWRpY2Fscy4gUGVyaGFwcywgaG93ZXZlciwgaXQgcmVhbGx5IGJlZ2FuIG11Y2ggZWFybGllci4gV2hlbiBTdGFudG9uLCBhcm91bmQgYWdlIDEyLCBoZWFyZCBvZiBhIGxvY2FsIHdvbWFuIHdobyBoYWQgc3VmZmVyZWQgb3V0cmFnZW91cyBidXQgbGVnYWxseSBzYW5jdGlvbmVkIGluanVzdGljZSBhdCB0aGUgaGFuZHMgb2YgaGVyIGRlYWQgaHVzYmFuZCdzIHNvbiwgc2hlIGdyYWJiZWQgYSBrbmlmZSBhbmQgY3V0IHRoZSBvZmZlbmRpbmcgcGFzc2FnZSBvdXQgb2YgdGhlIGxhdyBib29rIG9uIGhlciBmYXRoZXIncyBkZXNrLiBIZXIgZmF0aGVyIHRvbGQgaGVyIHRoYXQgc2hlIGNvdWxkIHdvcmsgdG8gY2hhbmdlIHRoZSBsYXcgYnV0IHRoYXQsIGluIEdvcm5pY2sncyB3b3JkcywgZGVmYWNpbmcgdGhlIGJvb2sgd2FzICJub3Qgb25seSBmb3JiaWRkZW4gLiAuIC4gaXQgd2FzIGFsc28gdXNlbGVzcy4iIDxmb250IGlkPTE0PlNoZSByZWZsZWN0cyB0aGF0IGF0IHRoaXMgcG9pbnQgaXQgd2FzICJhbHJlYWR5IHRvbyBsYXRlOiBhbiBlZHVjYXRlZCwgdXByaWdodCwgbGF3LWFuZC1vcmRlciBob3VzZWhvbGQgaGFkIHNwYXduZWQgYSBkYXVnaHRlciB3aG8gd2FzIGdvaW5nIHRvIGN1dCB0aGUgbGF3cyBvdXQgb2YgdGhlIGJvb2tzIHdpdGggYSBrbmlmZS4iPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gornick loves Stanton's uncompromising radicalism, her inextinguishable and rather joyous sense of outrage. In this woman who raised seven children during the day and wrote at night, her prolific output fueled by an abiding passion for justice, Gornick finds the archetype of the feminist movement she knew in the 1970s, with its creative energy, its excitement at having identified the problem to be solved. Stanton, Gornick argues, is the model for this revolutionary feminism. because she was the one who always refused to scale back her just demands out of political expediency, who remained faithful to the radical vision of full equality.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdvcm5pY2sgbG92ZXMgU3RhbnRvbidzIHVuY29tcHJvbWlzaW5nIHJhZGljYWxpc20sIGhlciBpbmV4dGluZ3Vpc2hhYmxlIGFuZCByYXRoZXIgam95b3VzIHNlbnNlIG9mIG91dHJhZ2UuIEluIHRoaXMgd29tYW4gd2hvIHJhaXNlZCBzZXZlbiBjaGlsZHJlbiBkdXJpbmcgdGhlIGRheSBhbmQgd3JvdGUgYXQgbmlnaHQsIGhlciBwcm9saWZpYyBvdXRwdXQgZnVlbGVkIGJ5IGFuIGFiaWRpbmcgcGFzc2lvbiBmb3IganVzdGljZSwgR29ybmljayBmaW5kcyB0aGUgYXJjaGV0eXBlIG9mIHRoZSBmZW1pbmlzdCBtb3ZlbWVudCBzaGUga25ldyBpbiB0aGUgMTk3MHMsIHdpdGggaXRzIGNyZWF0aXZlIGVuZXJneSwgaXRzIGV4Y2l0ZW1lbnQgYXQgaGF2aW5nIGlkZW50aWZpZWQgdGhlIHByb2JsZW0gdG8gYmUgc29sdmVkLiBTdGFudG9uLCBHb3JuaWNrIGFyZ3VlcywgaXMgdGhlIG1vZGVsIGZvciB0aGlzIHJldm9sdXRpb25hcnkgZmVtaW5pc20uIGJlY2F1c2Ugc2hlIHdhcyB0aGUgb25lIHdobyBhbHdheXMgcmVmdXNlZCB0byBzY2FsZSBiYWNrIGhlciBqdXN0IGRlbWFuZHMgb3V0IG9mIHBvbGl0aWNhbCBleHBlZGllbmN5LCB3aG8gcmVtYWluZWQgZmFpdGhmdWwgdG8gdGhlIHJhZGljYWwgdmlzaW9uIG9mIGZ1bGwgZXF1YWxpdHkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Stanton's revolutionary life was not entirely happy. Although she and her husband initially shared political passions, they gradually grew' apart, and the whole abolitionist movement, with its insistence that slavery had to be the sole focus of attention, came to seem to her deeply compromised. Stanton's radical demand for equality for both blacks and women lost her, moreover, the friendship of many feminist women, who were willing to postpone the suffrage fight lo be on good terms with powerful men and to preserve solidarity with the abolitionist cause. Nonetheless, Stanton loved her life and her enduring friendships, and she loved her struggle. In 1878, after recalling the exhausting efforts she and other feminists had expended in the cause, she then says, "And all our theme is as fresh and absorbing as it was the day we started…In this struggle for justice we have deepened and broadened our own lives, and extended the horizon of our vision."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0YW50b24ncyByZXZvbHV0aW9uYXJ5IGxpZmUgd2FzIG5vdCBlbnRpcmVseSBoYXBweS4gQWx0aG91Z2ggc2hlIGFuZCBoZXIgaHVzYmFuZCBpbml0aWFsbHkgc2hhcmVkIHBvbGl0aWNhbCBwYXNzaW9ucywgdGhleSBncmFkdWFsbHkgZ3JldycgYXBhcnQsIGFuZCB0aGUgd2hvbGUgYWJvbGl0aW9uaXN0IG1vdmVtZW50LCB3aXRoIGl0cyBpbnNpc3RlbmNlIHRoYXQgc2xhdmVyeSBoYWQgdG8gYmUgdGhlIHNvbGUgZm9jdXMgb2YgYXR0ZW50aW9uLCBjYW1lIHRvIHNlZW0gdG8gaGVyIGRlZXBseSBjb21wcm9taXNlZC4gU3RhbnRvbidzIHJhZGljYWwgZGVtYW5kIGZvciBlcXVhbGl0eSBmb3IgYm90aCBibGFja3MgYW5kIHdvbWVuIGxvc3QgaGVyLCBtb3Jlb3ZlciwgdGhlIGZyaWVuZHNoaXAgb2YgbWFueSBmZW1pbmlzdCB3b21lbiwgd2hvIHdlcmUgd2lsbGluZyB0byBwb3N0cG9uZSB0aGUgc3VmZnJhZ2UgZmlnaHQgbG8gYmUgb24gZ29vZCB0ZXJtcyB3aXRoIHBvd2VyZnVsIG1lbiBhbmQgdG8gcHJlc2VydmUgc29saWRhcml0eSB3aXRoIHRoZSBhYm9saXRpb25pc3QgY2F1c2UuIE5vbmV0aGVsZXNzLCBTdGFudG9uIGxvdmVkIGhlciBsaWZlIGFuZCBoZXIgZW5kdXJpbmcgZnJpZW5kc2hpcHMsIGFuZCBzaGUgbG92ZWQgaGVyIHN0cnVnZ2xlLiBJbiAxODc4LCBhZnRlciByZWNhbGxpbmcgdGhlIGV4aGF1c3RpbmcgZWZmb3J0cyBzaGUgYW5kIG90aGVyIGZlbWluaXN0cyBoYWQgZXhwZW5kZWQgaW4gdGhlIGNhdXNlLCBzaGUgdGhlbiBzYXlzLCAiQW5kIGFsbCBvdXIgdGhlbWUgaXMgYXMgZnJlc2ggYW5kIGFic29yYmluZyBhcyBpdCB3YXMgdGhlIGRheSB3ZSBzdGFydGVk4oCmSW4gdGhpcyBzdHJ1Z2dsZSBmb3IganVzdGljZSB3ZSBoYXZlIGRlZXBlbmVkIGFuZCBicm9hZGVuZWQgb3VyIG93biBsaXZlcywgYW5kIGV4dGVuZGVkIHRoZSBob3Jpem9uIG9mIG91ciB2aXNpb24uIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gornick's account of Stanton's life is exhilarating and deftly written. She follows Stanton from her rebellious childhood through the early days of her engagement with abolitionism to that moment of conversion in London when' she realizes that women aren't respected. even in the abolitionist movement. From there, the road leads to the famous meeting at Seneca Falls in l848,</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdvcm5pY2sncyBhY2NvdW50IG9mIFN0YW50b24ncyBsaWZlIGlzIGV4aGlsYXJhdGluZyBhbmQgZGVmdGx5IHdyaXR0ZW4uIFNoZSBmb2xsb3dzIFN0YW50b24gZnJvbSBoZXIgcmViZWxsaW91cyBjaGlsZGhvb2QgdGhyb3VnaCB0aGUgZWFybHkgZGF5cyBvZiBoZXIgZW5nYWdlbWVudCB3aXRoIGFib2xpdGlvbmlzbSB0byB0aGF0IG1vbWVudCBvZiBjb252ZXJzaW9uIGluIExvbmRvbiB3aGVuJyBzaGUgcmVhbGl6ZXMgdGhhdCB3b21lbiBhcmVuJ3QgcmVzcGVjdGVkLiBldmVuIGluIHRoZSBhYm9saXRpb25pc3QgbW92ZW1lbnQuIEZyb20gdGhlcmUsIHRoZSByb2FkIGxlYWRzIHRvIHRoZSBmYW1vdXMgbWVldGluZyBhdCBTZW5lY2EgRmFsbHMgaW4gbDg0OCw8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">the first women's rights convention in the United States. when Stanton boldly showed her radical colors, demanding suffrage for women. The next fifty-four years (she died in 1902) were filled with passionate speech-making and activism. as Stanton traveled tirelessly around the country on the lecture circuit with her friend Susan B. Anthony. <font id=19>In one seven-month period, for example, they lectured 148 times in 140 towns in ten states.</font> Gornick vividly conveys the combination of constructive anger and ceaseless activity that marked Stanton's relationship to the world around her, and she makes her refusal to surrender her radical demands seem deeply right. Gornick makes a good case that Stanton is indeed the key precursor to the feminist movement of the late twentieth century, which refused to compromise while at the same time maintaining a hopeful attitude to the potential of law as a force for social reform.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPnRoZSBmaXJzdCB3b21lbidzIHJpZ2h0cyBjb252ZW50aW9uIGluIHRoZSBVbml0ZWQgU3RhdGVzLiB3aGVuIFN0YW50b24gYm9sZGx5IHNob3dlZCBoZXIgcmFkaWNhbCBjb2xvcnMsIGRlbWFuZGluZyBzdWZmcmFnZSBmb3Igd29tZW4uIFRoZSBuZXh0IGZpZnR5LWZvdXIgeWVhcnMgKHNoZSBkaWVkIGluIDE5MDIpIHdlcmUgZmlsbGVkIHdpdGggcGFzc2lvbmF0ZSBzcGVlY2gtbWFraW5nIGFuZCBhY3RpdmlzbS4gYXMgU3RhbnRvbiB0cmF2ZWxlZCB0aXJlbGVzc2x5IGFyb3VuZCB0aGUgY291bnRyeSBvbiB0aGUgbGVjdHVyZSBjaXJjdWl0IHdpdGggaGVyIGZyaWVuZCBTdXNhbiBCLiBBbnRob255LiA8Zm9udCBpZD0xOT5JbiBvbmUgc2V2ZW4tbW9udGggcGVyaW9kLCBmb3IgZXhhbXBsZSwgdGhleSBsZWN0dXJlZCAxNDggdGltZXMgaW4gMTQwIHRvd25zIGluIHRlbiBzdGF0ZXMuPC9mb250PiBHb3JuaWNrIHZpdmlkbHkgY29udmV5cyB0aGUgY29tYmluYXRpb24gb2YgY29uc3RydWN0aXZlIGFuZ2VyIGFuZCBjZWFzZWxlc3MgYWN0aXZpdHkgdGhhdCBtYXJrZWQgU3RhbnRvbidzIHJlbGF0aW9uc2hpcCB0byB0aGUgd29ybGQgYXJvdW5kIGhlciwgYW5kIHNoZSBtYWtlcyBoZXIgcmVmdXNhbCB0byBzdXJyZW5kZXIgaGVyIHJhZGljYWwgZGVtYW5kcyBzZWVtIGRlZXBseSByaWdodC4gR29ybmljayBtYWtlcyBhIGdvb2QgY2FzZSB0aGF0IFN0YW50b24gaXMgaW5kZWVkIHRoZSBrZXkgcHJlY3Vyc29yIHRvIHRoZSBmZW1pbmlzdCBtb3ZlbWVudCBvZiB0aGUgbGF0ZSB0d2VudGlldGggY2VudHVyeSwgd2hpY2ggcmVmdXNlZCB0byBjb21wcm9taXNlIHdoaWxlIGF0IHRoZSBzYW1lIHRpbWUgbWFpbnRhaW5pbmcgYSBob3BlZnVsIGF0dGl0dWRlIHRvIHRoZSBwb3RlbnRpYWwgb2YgbGF3IGFzIGEgZm9yY2UgZm9yIHNvY2lhbCByZWZvcm0uPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. The passage's author most strongly implies that over time, Stanton's relationship with her husband:
-<div class = "choice">A. grew gradually stronger as they found a shared passion in abolitionism.</div>
-<div class = "choice">B. grew gradually weaker as their interests and priorities diverged.</div>
-<div class = "choice">C. worsened after an l840 antislavery convention in London. then slowly improved.</div>
-<div class = "choice">D. ended abruptly after an 1840 antislavery convention in London.</div>
-</div>
-###################
-<div class = "quiz">12. According to the passage, who approved of the action described in lines 6-10?
-<div class = "choice">F. Garrison</div>
-<div class = "choice">G. Stanton herself</div>
-<div class = "choice">H. Gornick</div>
-<div class = "choice">J. Most of the men at the 1840 antislavery convention in London</div>
-</div>
-###################
-<div class = "quiz">13. As portrayed in the passage, the reaction of Stanton's father to her cutting out a passage from a book is best described as:
-<div class = "choice">A. proud and thankful.</div>
-<div class = "choice">B. concerned but hopeful.</div>
-<div class = "choice">C. sympathetic but critical.</div>
-<div class = "choice">D. angry and afraid.</div>
-</div>
-###################
-<div class = "quiz">14. In the statement in lines 28-31, Gornick most strongly stresses :
-<div class = "choice">F. the love for the law and education that Stanton shared with her father.</div>
-<div class = "choice">G. how overprotective parents led Stanton to act out at home and at school.</div>
-<div class = "choice">H. how a happy home life led Stanton to become involved in political activism.</div>
-<div class = "choice">J. the contrast between Stanton's conventional home life and her rebellious behavior.</div>
-</div>
-###################
-<div class = "quiz">15. According to the passage, Gornick believes that Stanton is the model for the type of feminism found in the 1970s because Stanton:
-<div class = "choice">A. wanted nothing more than a quiet, private life as a writer and parent.</div>
-<div class = "choice">B. tempered her passion for justice with a sense of compassion.</div>
-<div class = "choice">C. refused to compromise her strongly held, radical belief in full equality.</div>
-<div class = "choice">D. was realistic about the limits of what reformers could accomplish.</div>
-</div>
-###################
-<div class = "quiz">16. The passage most strongly suggests that Stanton looked back on her life with:
-<div class = "choice">F. deep satisfaction.</div>
-<div class = "choice">G. reluctant acceptance.</div>
-<div class = "choice">H. mild regret.</div>
-<div class = "choice">J. weary bitterness.</div>
-</div>
-###################
-<div class = "quiz">17. Lines 15-18 most nearly mean that Stanton:
-<div class = "choice">A. had been aware since childhood of the restrictions that society placed on women.</div>
-<div class = "choice">B. abruptly discovered that just being a woman reduced her value in many people's eyes.</div>
-<div class = "choice">C. was devastated to learn that even Garrison thought less of her because she was a woman.</div>
-<div class = "choice">D. slowly began to question whether women had fewer rights than men because of their gender.</div>
-</div>
-###################
-<div class = "quiz">18. The passage's author characterizes Stanton at the Seneca Falls convention most nearly as:
-<div class = "choice">F. uncharacteristically outspoken on the issue of women's suffrage.</div>
-<div class = "choice">G. surprisingly unclear about her position on voting rights for women.</div>
-<div class = "choice">H. boldly engaged in a range of issues related to women's rights.</div>
-<div class = "choice">J. impressively insistent on the right of women to vote.</div>
-</div>
-###################
-<div class = "quiz">19. For the passage's author, lines 75-77 mainly serve to support her earlier point that:
-<div class = "choice">A. Stanton and Anthony were close friends who enjoyed travel.</div>
-<div class = "choice">B. Stanton was a relentless promoter of the causes she believed in.</div>
-<div class = "choice">C. lectures were a popular form of entertainment in the nineteenth century.</div>
-<div class = "choice">D. Stanton ruined her health in the cause of feminism.</div>
-</div>
-###################
-<div class = "quiz">20. Another reviewer of Gornick's book sums up Stanton in this way:
-An icon of the American feminist movement, Elizabeth Cady Stanton devoted her life to the cause of women's suffrage, ... traveling ceaselessly, speaking passionately about the issue that she felt should define her generation.
-How does this account of Stanton compare to that of the passage's author?
-<div class = "choice">F. Both offer a similar and positive assessment of Stanton's work as a feminist.</div>
-<div class = "choice">G. Both offer a similar and negative assessment of Stanton's work as a feminist.</div>
-<div class = "choice">H. This account stresses Stanton's commitment to Women's suffrage, while the passage's author</div>
-questions it.
-<div class = "choice">J. This account mentions Stanton's extensive travel, while the passage's author doesn't.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHBhc3NhZ2UncyBhdXRob3IgbW9zdCBzdHJvbmdseSBpbXBsaWVzIHRoYXQgb3ZlciB0aW1lLCBTdGFudG9uJ3MgcmVsYXRpb25zaGlwIHdpdGggaGVyIGh1c2JhbmQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGdyZXcgZ3JhZHVhbGx5IHN0cm9uZ2VyIGFzIHRoZXkgZm91bmQgYSBzaGFyZWQgcGFzc2lvbiBpbiBhYm9saXRpb25pc20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGdyZXcgZ3JhZHVhbGx5IHdlYWtlciBhcyB0aGVpciBpbnRlcmVzdHMgYW5kIHByaW9yaXRpZXMgZGl2ZXJnZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdvcnNlbmVkIGFmdGVyIGFuIGw4NDAgYW50aXNsYXZlcnkgY29udmVudGlvbiBpbiBMb25kb24uIHRoZW4gc2xvd2x5IGltcHJvdmVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVuZGVkIGFicnVwdGx5IGFmdGVyIGFuIDE4NDAgYW50aXNsYXZlcnkgY29udmVudGlvbiBpbiBMb25kb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aG8gYXBwcm92ZWQgb2YgdGhlIGFjdGlvbiBkZXNjcmliZWQgaW4gbGluZXMgNi0xMD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEdhcnJpc29uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFN0YW50b24gaGVyc2VsZjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEdvcm5pY2s8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1vc3Qgb2YgdGhlIG1lbiBhdCB0aGUgMTg0MCBhbnRpc2xhdmVyeSBjb252ZW50aW9uIGluIExvbmRvbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQXMgcG9ydHJheWVkIGluIHRoZSBwYXNzYWdlLCB0aGUgcmVhY3Rpb24gb2YgU3RhbnRvbidzIGZhdGhlciB0byBoZXIgY3V0dGluZyBvdXQgYSBwYXNzYWdlIGZyb20gYSBib29rIGlzIGJlc3QgZGVzY3JpYmVkIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHByb3VkIGFuZCB0aGFua2Z1bC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbmNlcm5lZCBidXQgaG9wZWZ1bC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN5bXBhdGhldGljIGJ1dCBjcml0aWNhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuZ3J5IGFuZCBhZnJhaWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gSW4gdGhlIHN0YXRlbWVudCBpbiBsaW5lcyAyOC0zMSwgR29ybmljayBtb3N0IHN0cm9uZ2x5IHN0cmVzc2VzIDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBsb3ZlIGZvciB0aGUgbGF3IGFuZCBlZHVjYXRpb24gdGhhdCBTdGFudG9uIHNoYXJlZCB3aXRoIGhlciBmYXRoZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhvdyBvdmVycHJvdGVjdGl2ZSBwYXJlbnRzIGxlZCBTdGFudG9uIHRvIGFjdCBvdXQgYXQgaG9tZSBhbmQgYXQgc2Nob29sLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhvdyBhIGhhcHB5IGhvbWUgbGlmZSBsZWQgU3RhbnRvbiB0byBiZWNvbWUgaW52b2x2ZWQgaW4gcG9saXRpY2FsIGFjdGl2aXNtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBjb250cmFzdCBiZXR3ZWVuIFN0YW50b24ncyBjb252ZW50aW9uYWwgaG9tZSBsaWZlIGFuZCBoZXIgcmViZWxsaW91cyBiZWhhdmlvci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBHb3JuaWNrIGJlbGlldmVzIHRoYXQgU3RhbnRvbiBpcyB0aGUgbW9kZWwgZm9yIHRoZSB0eXBlIG9mIGZlbWluaXNtIGZvdW5kIGluIHRoZSAxOTcwcyBiZWNhdXNlIFN0YW50b246
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdhbnRlZCBub3RoaW5nIG1vcmUgdGhhbiBhIHF1aWV0LCBwcml2YXRlIGxpZmUgYXMgYSB3cml0ZXIgYW5kIHBhcmVudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRlbXBlcmVkIGhlciBwYXNzaW9uIGZvciBqdXN0aWNlIHdpdGggYSBzZW5zZSBvZiBjb21wYXNzaW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJlZnVzZWQgdG8gY29tcHJvbWlzZSBoZXIgc3Ryb25nbHkgaGVsZCwgcmFkaWNhbCBiZWxpZWYgaW4gZnVsbCBlcXVhbGl0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdhcyByZWFsaXN0aWMgYWJvdXQgdGhlIGxpbWl0cyBvZiB3aGF0IHJlZm9ybWVycyBjb3VsZCBhY2NvbXBsaXNoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIHBhc3NhZ2UgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0IFN0YW50b24gbG9va2VkIGJhY2sgb24gaGVyIGxpZmUgd2l0aDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlZXAgc2F0aXNmYWN0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJlbHVjdGFudCBhY2NlcHRhbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1pbGQgcmVncmV0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdlYXJ5IGJpdHRlcm5lc3MuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gTGluZXMgMTUtMTggbW9zdCBuZWFybHkgbWVhbiB0aGF0IFN0YW50b246
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGhhZCBiZWVuIGF3YXJlIHNpbmNlIGNoaWxkaG9vZCBvZiB0aGUgcmVzdHJpY3Rpb25zIHRoYXQgc29jaWV0eSBwbGFjZWQgb24gd29tZW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFicnVwdGx5IGRpc2NvdmVyZWQgdGhhdCBqdXN0IGJlaW5nIGEgd29tYW4gcmVkdWNlZCBoZXIgdmFsdWUgaW4gbWFueSBwZW9wbGUncyBleWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdhcyBkZXZhc3RhdGVkIHRvIGxlYXJuIHRoYXQgZXZlbiBHYXJyaXNvbiB0aG91Z2h0IGxlc3Mgb2YgaGVyIGJlY2F1c2Ugc2hlIHdhcyBhIHdvbWFuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNsb3dseSBiZWdhbiB0byBxdWVzdGlvbiB3aGV0aGVyIHdvbWVuIGhhZCBmZXdlciByaWdodHMgdGhhbiBtZW4gYmVjYXVzZSBvZiB0aGVpciBnZW5kZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIHBhc3NhZ2UncyBhdXRob3IgY2hhcmFjdGVyaXplcyBTdGFudG9uIGF0IHRoZSBTZW5lY2EgRmFsbHMgY29udmVudGlvbiBtb3N0IG5lYXJseSBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVuY2hhcmFjdGVyaXN0aWNhbGx5IG91dHNwb2tlbiBvbiB0aGUgaXNzdWUgb2Ygd29tZW4ncyBzdWZmcmFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1cnByaXNpbmdseSB1bmNsZWFyIGFib3V0IGhlciBwb3NpdGlvbiBvbiB2b3RpbmcgcmlnaHRzIGZvciB3b21lbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJvbGRseSBlbmdhZ2VkIGluIGEgcmFuZ2Ugb2YgaXNzdWVzIHJlbGF0ZWQgdG8gd29tZW4ncyByaWdodHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcHJlc3NpdmVseSBpbnNpc3RlbnQgb24gdGhlIHJpZ2h0IG9mIHdvbWVuIHRvIHZvdGUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gRm9yIHRoZSBwYXNzYWdlJ3MgYXV0aG9yLCBsaW5lcyA3NS03NyBtYWlubHkgc2VydmUgdG8gc3VwcG9ydCBoZXIgZWFybGllciBwb2ludCB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFN0YW50b24gYW5kIEFudGhvbnkgd2VyZSBjbG9zZSBmcmllbmRzIHdobyBlbmpveWVkIHRyYXZlbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFN0YW50b24gd2FzIGEgcmVsZW50bGVzcyBwcm9tb3RlciBvZiB0aGUgY2F1c2VzIHNoZSBiZWxpZXZlZCBpbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxlY3R1cmVzIHdlcmUgYSBwb3B1bGFyIGZvcm0gb2YgZW50ZXJ0YWlubWVudCBpbiB0aGUgbmluZXRlZW50aCBjZW50dXJ5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFN0YW50b24gcnVpbmVkIGhlciBoZWFsdGggaW4gdGhlIGNhdXNlIG9mIGZlbWluaXNtLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQW5vdGhlciByZXZpZXdlciBvZiBHb3JuaWNrJ3MgYm9vayBzdW1zIHVwIFN0YW50b24gaW4gdGhpcyB3YXk6
+QW4gaWNvbiBvZiB0aGUgQW1lcmljYW4gZmVtaW5pc3QgbW92ZW1lbnQsIEVsaXphYmV0aCBDYWR5IFN0YW50b24gZGV2b3RlZCBoZXIgbGlmZSB0byB0aGUgY2F1c2Ugb2Ygd29tZW4ncyBzdWZmcmFnZSwgLi4uIHRyYXZlbGluZyBjZWFzZWxlc3NseSwgc3BlYWtpbmcgcGFzc2lvbmF0ZWx5IGFib3V0IHRoZSBpc3N1ZSB0aGF0IHNoZSBmZWx0IHNob3VsZCBkZWZpbmUgaGVyIGdlbmVyYXRpb24u
+SG93IGRvZXMgdGhpcyBhY2NvdW50IG9mIFN0YW50b24gY29tcGFyZSB0byB0aGF0IG9mIHRoZSBwYXNzYWdlJ3MgYXV0aG9yPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEJvdGggb2ZmZXIgYSBzaW1pbGFyIGFuZCBwb3NpdGl2ZSBhc3Nlc3NtZW50IG9mIFN0YW50b24ncyB3b3JrIGFzIGEgZmVtaW5pc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEJvdGggb2ZmZXIgYSBzaW1pbGFyIGFuZCBuZWdhdGl2ZSBhc3Nlc3NtZW50IG9mIFN0YW50b24ncyB3b3JrIGFzIGEgZmVtaW5pc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoaXMgYWNjb3VudCBzdHJlc3NlcyBTdGFudG9uJ3MgY29tbWl0bWVudCB0byBXb21lbidzIHN1ZmZyYWdlLCB3aGlsZSB0aGUgcGFzc2FnZSdzIGF1dGhvcjwvZGl2Pg==
+cXVlc3Rpb25zIGl0Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoaXMgYWNjb3VudCBtZW50aW9ucyBTdGFudG9uJ3MgZXh0ZW5zaXZlIHRyYXZlbCwgd2hpbGUgdGhlIHBhc3NhZ2UncyBhdXRob3IgZG9lc24ndC48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

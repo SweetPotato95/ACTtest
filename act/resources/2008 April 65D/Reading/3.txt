@@ -1,96 +1,96 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from The Piano Shop on the Left Bank by Thad Carhart (©2001 by Thad Carhart).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">No one knows exactly when the piano was invented. The generally accepted date is around 1700. There is little doubt, however, about its inventor, an instrument maker in Florence, Italy, named Bartolomeo Cristofori, who developed a way of making a struck string resound loudly. Before Cristofori, keyboard instruments were unsatisfactory for different reasons: clavichords, whose strings are struck, were small and delicate, and their greatly reduced volume made them suitable only for small gatherings. Harpsichords, while larger and therefore considerably louder, had one overriding limitation: since the string is plucked, the force wi.th. which the key is depressed is unrelated to the volume of the sound produced. Dynamic control of each note was not possible.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gVGhlIFBpYW5vIFNob3Agb24gdGhlIExlZnQgQmFuayBieSBUaGFkIENhcmhhcnQgKMKpMjAwMSBieSBUaGFkIENhcmhhcnQpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vIG9uZSBrbm93cyBleGFjdGx5IHdoZW4gdGhlIHBpYW5vIHdhcyBpbnZlbnRlZC4gVGhlIGdlbmVyYWxseSBhY2NlcHRlZCBkYXRlIGlzIGFyb3VuZCAxNzAwLiBUaGVyZSBpcyBsaXR0bGUgZG91YnQsIGhvd2V2ZXIsIGFib3V0IGl0cyBpbnZlbnRvciwgYW4gaW5zdHJ1bWVudCBtYWtlciBpbiBGbG9yZW5jZSwgSXRhbHksIG5hbWVkIEJhcnRvbG9tZW8gQ3Jpc3RvZm9yaSwgd2hvIGRldmVsb3BlZCBhIHdheSBvZiBtYWtpbmcgYSBzdHJ1Y2sgc3RyaW5nIHJlc291bmQgbG91ZGx5LiBCZWZvcmUgQ3Jpc3RvZm9yaSwga2V5Ym9hcmQgaW5zdHJ1bWVudHMgd2VyZSB1bnNhdGlzZmFjdG9yeSBmb3IgZGlmZmVyZW50IHJlYXNvbnM6IGNsYXZpY2hvcmRzLCB3aG9zZSBzdHJpbmdzIGFyZSBzdHJ1Y2ssIHdlcmUgc21hbGwgYW5kIGRlbGljYXRlLCBhbmQgdGhlaXIgZ3JlYXRseSByZWR1Y2VkIHZvbHVtZSBtYWRlIHRoZW0gc3VpdGFibGUgb25seSBmb3Igc21hbGwgZ2F0aGVyaW5ncy4gSGFycHNpY2hvcmRzLCB3aGlsZSBsYXJnZXIgYW5kIHRoZXJlZm9yZSBjb25zaWRlcmFibHkgbG91ZGVyLCBoYWQgb25lIG92ZXJyaWRpbmcgbGltaXRhdGlvbjogc2luY2UgdGhlIHN0cmluZyBpcyBwbHVja2VkLCB0aGUgZm9yY2Ugd2kudGguIHdoaWNoIHRoZSBrZXkgaXMgZGVwcmVzc2VkIGlzIHVucmVsYXRlZCB0byB0aGUgdm9sdW1lIG9mIHRoZSBzb3VuZCBwcm9kdWNlZC4gRHluYW1pYyBjb250cm9sIG9mIGVhY2ggbm90ZSB3YXMgbm90IHBvc3NpYmxlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=21>What was needed—and what Cristofori invented—was an instrument as large and robust as the big harpsichords that would also allow the dynamic range that before had only been available on the flimsy clavichords. The first piano was described by a contemporary musician in 1711 as a "gravicembalo col piano e forte," a "harpsichord with soft and loud." This was the essential breakthrough, but it took decades for the seed to find fertile ground, and it did so riot in Italy but in eighteenth-century Germany.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTIxPldoYXQgd2FzIG5lZWRlZOKAlGFuZCB3aGF0IENyaXN0b2ZvcmkgaW52ZW50ZWTigJR3YXMgYW4gaW5zdHJ1bWVudCBhcyBsYXJnZSBhbmQgcm9idXN0IGFzIHRoZSBiaWcgaGFycHNpY2hvcmRzIHRoYXQgd291bGQgYWxzbyBhbGxvdyB0aGUgZHluYW1pYyByYW5nZSB0aGF0IGJlZm9yZSBoYWQgb25seSBiZWVuIGF2YWlsYWJsZSBvbiB0aGUgZmxpbXN5IGNsYXZpY2hvcmRzLiBUaGUgZmlyc3QgcGlhbm8gd2FzIGRlc2NyaWJlZCBieSBhIGNvbnRlbXBvcmFyeSBtdXNpY2lhbiBpbiAxNzExIGFzIGEgImdyYXZpY2VtYmFsbyBjb2wgcGlhbm8gZSBmb3J0ZSwiIGEgImhhcnBzaWNob3JkIHdpdGggc29mdCBhbmQgbG91ZC4iIFRoaXMgd2FzIHRoZSBlc3NlbnRpYWwgYnJlYWt0aHJvdWdoLCBidXQgaXQgdG9vayBkZWNhZGVzIGZvciB0aGUgc2VlZCB0byBmaW5kIGZlcnRpbGUgZ3JvdW5kLCBhbmQgaXQgZGlkIHNvIHJpb3QgaW4gSXRhbHkgYnV0IGluIGVpZ2h0ZWVudGgtY2VudHVyeSBHZXJtYW55LjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">German instrument makers incorporated <font id=25>Cristofori's breakthrough</font> into a series of increasingly powerful keyboard instruments that were true pianos. Johann Sebastian Bach was impressed by the first piano he tried, but he pointed out limitations that still needed to be worked on: a heavy action and a treble that was not loud enough. Two of his sons, Carl Philipp Emanuel and Johann Christian, championed the instrument in the next generation; by the time Johann Christian Bach gave England's first solo piano performance in 1768, the triumph of this, new keyboard instrument over the harpsichord was assured.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdlcm1hbiBpbnN0cnVtZW50IG1ha2VycyBpbmNvcnBvcmF0ZWQgPGZvbnQgaWQ9MjU+Q3Jpc3RvZm9yaSdzIGJyZWFrdGhyb3VnaDwvZm9udD4gaW50byBhIHNlcmllcyBvZiBpbmNyZWFzaW5nbHkgcG93ZXJmdWwga2V5Ym9hcmQgaW5zdHJ1bWVudHMgdGhhdCB3ZXJlIHRydWUgcGlhbm9zLiBKb2hhbm4gU2ViYXN0aWFuIEJhY2ggd2FzIGltcHJlc3NlZCBieSB0aGUgZmlyc3QgcGlhbm8gaGUgdHJpZWQsIGJ1dCBoZSBwb2ludGVkIG91dCBsaW1pdGF0aW9ucyB0aGF0IHN0aWxsIG5lZWRlZCB0byBiZSB3b3JrZWQgb246IGEgaGVhdnkgYWN0aW9uIGFuZCBhIHRyZWJsZSB0aGF0IHdhcyBub3QgbG91ZCBlbm91Z2guIFR3byBvZiBoaXMgc29ucywgQ2FybCBQaGlsaXBwIEVtYW51ZWwgYW5kIEpvaGFubiBDaHJpc3RpYW4sIGNoYW1waW9uZWQgdGhlIGluc3RydW1lbnQgaW4gdGhlIG5leHQgZ2VuZXJhdGlvbjsgYnkgdGhlIHRpbWUgSm9oYW5uIENocmlzdGlhbiBCYWNoIGdhdmUgRW5nbGFuZCdzIGZpcnN0IHNvbG8gcGlhbm8gcGVyZm9ybWFuY2UgaW4gMTc2OCwgdGhlIHRyaXVtcGggb2YgdGhpcywgbmV3IGtleWJvYXJkIGluc3RydW1lbnQgb3ZlciB0aGUgaGFycHNpY2hvcmQgd2FzIGFzc3VyZWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The role of the keyboard as a solo instrument came to the fore musically. It was no longer just another part of the ensemble, and its unique volume freed it from the confines of the drawing room to which the harpsichord had almost always been consigned. Haydn and Mozart both wrote masterful sonatas for the new instrument, its keyboard was greatly expanded, and its dynamic range—the single feature that most distinguished it from the harpsichord—was exploited fully. A whole new technique stressing fluidity was developed for the piano, and Mozart wrote: "It should flow like oil." Solo concerts became the norm rather than, the exception, and a class of instrumentalists with technique and power arrived on the scene.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByb2xlIG9mIHRoZSBrZXlib2FyZCBhcyBhIHNvbG8gaW5zdHJ1bWVudCBjYW1lIHRvIHRoZSBmb3JlIG11c2ljYWxseS4gSXQgd2FzIG5vIGxvbmdlciBqdXN0IGFub3RoZXIgcGFydCBvZiB0aGUgZW5zZW1ibGUsIGFuZCBpdHMgdW5pcXVlIHZvbHVtZSBmcmVlZCBpdCBmcm9tIHRoZSBjb25maW5lcyBvZiB0aGUgZHJhd2luZyByb29tIHRvIHdoaWNoIHRoZSBoYXJwc2ljaG9yZCBoYWQgYWxtb3N0IGFsd2F5cyBiZWVuIGNvbnNpZ25lZC4gSGF5ZG4gYW5kIE1vemFydCBib3RoIHdyb3RlIG1hc3RlcmZ1bCBzb25hdGFzIGZvciB0aGUgbmV3IGluc3RydW1lbnQsIGl0cyBrZXlib2FyZCB3YXMgZ3JlYXRseSBleHBhbmRlZCwgYW5kIGl0cyBkeW5hbWljIHJhbmdl4oCUdGhlIHNpbmdsZSBmZWF0dXJlIHRoYXQgbW9zdCBkaXN0aW5ndWlzaGVkIGl0IGZyb20gdGhlIGhhcnBzaWNob3Jk4oCUd2FzIGV4cGxvaXRlZCBmdWxseS4gQSB3aG9sZSBuZXcgdGVjaG5pcXVlIHN0cmVzc2luZyBmbHVpZGl0eSB3YXMgZGV2ZWxvcGVkIGZvciB0aGUgcGlhbm8sIGFuZCBNb3phcnQgd3JvdGU6ICJJdCBzaG91bGQgZmxvdyBsaWtlIG9pbC4iIFNvbG8gY29uY2VydHMgYmVjYW1lIHRoZSBub3JtIHJhdGhlciB0aGFuLCB0aGUgZXhjZXB0aW9uLCBhbmQgYSBjbGFzcyBvZiBpbnN0cnVtZW50YWxpc3RzIHdpdGggdGVjaG5pcXVlIGFuZCBwb3dlciBhcnJpdmVkIG9uIHRoZSBzY2VuZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What had been a tinkerer's offshoot among harpsichord makers became an industry in its own right. London and Vienna were its focal points. The two capitals gave rise to distinct schools of piano building, the principal difference having to do with how the action—the intricate mechanism, that activates the hammers to strike the strings—was conceived and assembled. Viennese pianos were generally softer, with a refined singing tone that allowed the .melody to come to the fore; the pianos themselves had delicate cabinetry. English pianos, on the other hand, had a more, robust tone, with a stronger action and greater tension in the strings; they had solid cases and sturdy frames. The great Viennese composers of the classical era—Haydn, Mozart, Beethoven—played Viennese pianos, but the transition- to the stronger instruments of the English school can be seen in Beethoven's last piano sonatas.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoYXQgaGFkIGJlZW4gYSB0aW5rZXJlcidzIG9mZnNob290IGFtb25nIGhhcnBzaWNob3JkIG1ha2VycyBiZWNhbWUgYW4gaW5kdXN0cnkgaW4gaXRzIG93biByaWdodC4gTG9uZG9uIGFuZCBWaWVubmEgd2VyZSBpdHMgZm9jYWwgcG9pbnRzLiBUaGUgdHdvIGNhcGl0YWxzIGdhdmUgcmlzZSB0byBkaXN0aW5jdCBzY2hvb2xzIG9mIHBpYW5vIGJ1aWxkaW5nLCB0aGUgcHJpbmNpcGFsIGRpZmZlcmVuY2UgaGF2aW5nIHRvIGRvIHdpdGggaG93IHRoZSBhY3Rpb27igJR0aGUgaW50cmljYXRlIG1lY2hhbmlzbSwgdGhhdCBhY3RpdmF0ZXMgdGhlIGhhbW1lcnMgdG8gc3RyaWtlIHRoZSBzdHJpbmdz4oCUd2FzIGNvbmNlaXZlZCBhbmQgYXNzZW1ibGVkLiBWaWVubmVzZSBwaWFub3Mgd2VyZSBnZW5lcmFsbHkgc29mdGVyLCB3aXRoIGEgcmVmaW5lZCBzaW5naW5nIHRvbmUgdGhhdCBhbGxvd2VkIHRoZSAubWVsb2R5IHRvIGNvbWUgdG8gdGhlIGZvcmU7IHRoZSBwaWFub3MgdGhlbXNlbHZlcyBoYWQgZGVsaWNhdGUgY2FiaW5ldHJ5LiBFbmdsaXNoIHBpYW5vcywgb24gdGhlIG90aGVyIGhhbmQsIGhhZCBhIG1vcmUsIHJvYnVzdCB0b25lLCB3aXRoIGEgc3Ryb25nZXIgYWN0aW9uIGFuZCBncmVhdGVyIHRlbnNpb24gaW4gdGhlIHN0cmluZ3M7IHRoZXkgaGFkIHNvbGlkIGNhc2VzIGFuZCBzdHVyZHkgZnJhbWVzLiBUaGUgZ3JlYXQgVmllbm5lc2UgY29tcG9zZXJzIG9mIHRoZSBjbGFzc2ljYWwgZXJh4oCUSGF5ZG4sIE1vemFydCwgQmVldGhvdmVu4oCUcGxheWVkIFZpZW5uZXNlIHBpYW5vcywgYnV0IHRoZSB0cmFuc2l0aW9uLSB0byB0aGUgc3Ryb25nZXIgaW5zdHJ1bWVudHMgb2YgdGhlIEVuZ2xpc2ggc2Nob29sIGNhbiBiZSBzZWVuIGluIEJlZXRob3ZlbidzIGxhc3QgcGlhbm8gc29uYXRhcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Beethoven was known for the increasing dynamic contrasts in his works for piano, from whisper to thunder, and he sometimes destroyed the fragile Viennese pianos when playing his music. He had a strong influence on the direction of piano manufacture, and as early as 1796 he expressed his frustration with the overly delicate styles of playing that were a holdover from harpsichords.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlZXRob3ZlbiB3YXMga25vd24gZm9yIHRoZSBpbmNyZWFzaW5nIGR5bmFtaWMgY29udHJhc3RzIGluIGhpcyB3b3JrcyBmb3IgcGlhbm8sIGZyb20gd2hpc3BlciB0byB0aHVuZGVyLCBhbmQgaGUgc29tZXRpbWVzIGRlc3Ryb3llZCB0aGUgZnJhZ2lsZSBWaWVubmVzZSBwaWFub3Mgd2hlbiBwbGF5aW5nIGhpcyBtdXNpYy4gSGUgaGFkIGEgc3Ryb25nIGluZmx1ZW5jZSBvbiB0aGUgZGlyZWN0aW9uIG9mIHBpYW5vIG1hbnVmYWN0dXJlLCBhbmQgYXMgZWFybHkgYXMgMTc5NiBoZSBleHByZXNzZWQgaGlzIGZydXN0cmF0aW9uIHdpdGggdGhlIG92ZXJseSBkZWxpY2F0ZSBzdHlsZXMgb2YgcGxheWluZyB0aGF0IHdlcmUgYSBob2xkb3ZlciBmcm9tIGhhcnBzaWNob3Jkcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 1818, Broadwood, the pre-eminent English manufacturer of the day, offered him a grand piano that incorporated all of the latest features: stronger case and frame, trichord stringing, more responsive action. This piano, too, Beethoven damaged with the fervor of his playing (a contemporary reported that "the broken strings were jumbled up like a thorn bush in a storm"), but he remained attached to it until his death in 1827. He imagined music unlike anything his contemporaries were writing; the Hammerklavier sonata from this period still strikes many as a revelation of the piano's <font id=27>extreme limits</font> of power and expressiveness.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIDE4MTgsIEJyb2Fkd29vZCwgdGhlIHByZS1lbWluZW50IEVuZ2xpc2ggbWFudWZhY3R1cmVyIG9mIHRoZSBkYXksIG9mZmVyZWQgaGltIGEgZ3JhbmQgcGlhbm8gdGhhdCBpbmNvcnBvcmF0ZWQgYWxsIG9mIHRoZSBsYXRlc3QgZmVhdHVyZXM6IHN0cm9uZ2VyIGNhc2UgYW5kIGZyYW1lLCB0cmljaG9yZCBzdHJpbmdpbmcsIG1vcmUgcmVzcG9uc2l2ZSBhY3Rpb24uIFRoaXMgcGlhbm8sIHRvbywgQmVldGhvdmVuIGRhbWFnZWQgd2l0aCB0aGUgZmVydm9yIG9mIGhpcyBwbGF5aW5nIChhIGNvbnRlbXBvcmFyeSByZXBvcnRlZCB0aGF0ICJ0aGUgYnJva2VuIHN0cmluZ3Mgd2VyZSBqdW1ibGVkIHVwIGxpa2UgYSB0aG9ybiBidXNoIGluIGEgc3Rvcm0iKSwgYnV0IGhlIHJlbWFpbmVkIGF0dGFjaGVkIHRvIGl0IHVudGlsIGhpcyBkZWF0aCBpbiAxODI3LiBIZSBpbWFnaW5lZCBtdXNpYyB1bmxpa2UgYW55dGhpbmcgaGlzIGNvbnRlbXBvcmFyaWVzIHdlcmUgd3JpdGluZzsgdGhlIEhhbW1lcmtsYXZpZXIgc29uYXRhIGZyb20gdGhpcyBwZXJpb2Qgc3RpbGwgc3RyaWtlcyBtYW55IGFzIGEgcmV2ZWxhdGlvbiBvZiB0aGUgcGlhbm8ncyA8Zm9udCBpZD0yNz5leHRyZW1lIGxpbWl0czwvZm9udD4gb2YgcG93ZXIgYW5kIGV4cHJlc3NpdmVuZXNzLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">21. Which of the following statements best describes how the second paragraph (lines 16-25) functions in relation to the first paragraph?
-<div class = "choice">A. It moves further back in time to provide background for the circumstances described in the first paragraph.</div>
-<div class = "choice">B. It focuses on the general, public's reaction to the developments described in the first paragraph.</div>
-<div class = "choice">C. It provides the other side of the argument presented in the first paragraph.</div>
-<div class = "choice">D. It describes the solution to the problem presented in the first paragraph.</div>
-</div>
-###################
-<div class = "quiz">22. Which of the following questions is NOT answered by the passage?
-<div class = "choice">F. Who invented the piano?</div>
-<div class = "choice">G. What were keyboard instruments like before 1700?</div>
-<div class = "choice">H. What are the beginning and ending dates of the classical era?</div>
-<div class = "choice">J. What is action as it relates to keyboard instruments?</div>
-</div>
-###################
-<div class = "quiz">23. Based on the passage, the author would most likely agree that both Beethoven and Cristofori were:
-<div class = "choice">A. tremendous innovators in ways that dramatically affected the. music world.</div>
-<div class = "choice">B. world-class musicians who gained recognition in their time.</div>
-<div class = "choice">C. contributors to the advancement of the piano who were appreciated only after their deaths.</div>
-<div class = "choice">D. musicians who found more fame outside their native countries than inside.</div>
-</div>
-###################
-<div class = "quiz">24. For purposes of the passage, the significance of eighteenth-century Germany is that it was there:
-<div class = "choice">F. Cristofori had his breakthrough.</div>
-<div class = "choice">G. instrument makers improved upon ideas of piano making that had originated in Italy.</div>
-<div class = "choice">H. the best harpsichords and clavichords were originally produced.</div>
-<div class = "choice">J. the first major split occurred among piano makers over the best way to design keyboards.</div>
-</div>
-###################
-<div class = "quiz">25. As it is used in line 27, the phrase Cristofori's breakthrough most nearly refers to the:
-<div class = "choice">A. instrument maker's decision to let leading musicians initiate changes to. standard piano design.</div>
-<div class = "choice">B. creation of pianos whose strings could be plucked loudly or softly, depending on the effect desired.</div>
-<div class = "choice">C. piano's release from the confines of the drawing room to larger performance spaces.</div>
-<div class = "choice">D. development of a keyboard instrument that offered the dynamic range, of the clavichord and the loudness of the harpsichord.</div>
-</div>
-###################
-<div class = "quiz">26. It can most reasonably be inferred, from the passage that which of the following was a direct expression of others' deep respect for Beethoven?
-<div class = "choice">F. The grand piano manufactured by Broad wood whose strings the composer damaged</div>
-<div class = "choice">G. The way Viennese pianos were built before the classical era.</div>
-<div class = "choice">H. The sonatas written and performed by Haydn and Mozart</div>
-<div class = "choice">J. The piano schools established in London and Vienna</div>
-</div>
-###################
-<div class = "quiz">27. As it is used in line 88, the phrase extreme limits most nearly means:
-<div class = "choice">A. harsh rules.</div>
-<div class = "choice">B. far reaches.</div>
-<div class = "choice">C. high notes.</div>
-<div class = "choice">D. drastic shortcomings.</div>
-</div>
-###################
-<div class = "quiz">28. According to the passage, Johann Sebastian Bach's reaction to the first piano he .played was:
-<div class = "choice">F. disapproval of its loudness, accompanied by appreciation of its fluidity.</div>
-<div class = "choice">G. mild irritation over the singing quality of the notes.</div>
-<div class = "choice">H. genuine respect, accompanied by observations about problems.</div>
-<div class = "choice">J. amusement that the fervor of his playing damaged the strings.</div>
-</div>
-###################
-<div class = "quiz">29. According to the passage, the piano was better suited than the harpsichord to:
-<div class = "choice">A. solo performances.</div>
-<div class = "choice">B. drawing room concerts.</div>
-<div class = "choice">C. delicate cabinetry.</div>
-<div class = "choice">D. church music.</div>
-</div>
-###################
-<div class = "quiz">30. According to the passage, the Hammerklavier sonata is a composition by Beethoven that:
-<div class = "choice">F. sounds as dramatic on the clavichord as on the piano.</div>
-<div class = "choice">G. reveals the composer's remarkable awareness and use of the piano's full capacities.</div>
-<div class = "choice">H. gained more favor in England than in Vienna until Vienna imported English pianos.</div>
-<div class = "choice">J. first inspired Mozart to compose for piano.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgZGVzY3JpYmVzIGhvdyB0aGUgc2Vjb25kIHBhcmFncmFwaCAobGluZXMgMTYtMjUpIGZ1bmN0aW9ucyBpbiByZWxhdGlvbiB0byB0aGUgZmlyc3QgcGFyYWdyYXBoPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IG1vdmVzIGZ1cnRoZXIgYmFjayBpbiB0aW1lIHRvIHByb3ZpZGUgYmFja2dyb3VuZCBmb3IgdGhlIGNpcmN1bXN0YW5jZXMgZGVzY3JpYmVkIGluIHRoZSBmaXJzdCBwYXJhZ3JhcGguPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGZvY3VzZXMgb24gdGhlIGdlbmVyYWwsIHB1YmxpYydzIHJlYWN0aW9uIHRvIHRoZSBkZXZlbG9wbWVudHMgZGVzY3JpYmVkIGluIHRoZSBmaXJzdCBwYXJhZ3JhcGguPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IHByb3ZpZGVzIHRoZSBvdGhlciBzaWRlIG9mIHRoZSBhcmd1bWVudCBwcmVzZW50ZWQgaW4gdGhlIGZpcnN0IHBhcmFncmFwaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGRlc2NyaWJlcyB0aGUgc29sdXRpb24gdG8gdGhlIHByb2JsZW0gcHJlc2VudGVkIGluIHRoZSBmaXJzdCBwYXJhZ3JhcGguPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgaXMgTk9UIGFuc3dlcmVkIGJ5IHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdobyBpbnZlbnRlZCB0aGUgcGlhbm8/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoYXQgd2VyZSBrZXlib2FyZCBpbnN0cnVtZW50cyBsaWtlIGJlZm9yZSAxNzAwPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoYXQgYXJlIHRoZSBiZWdpbm5pbmcgYW5kIGVuZGluZyBkYXRlcyBvZiB0aGUgY2xhc3NpY2FsIGVyYT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoYXQgaXMgYWN0aW9uIGFzIGl0IHJlbGF0ZXMgdG8ga2V5Ym9hcmQgaW5zdHJ1bWVudHM/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHRoZSBhdXRob3Igd291bGQgbW9zdCBsaWtlbHkgYWdyZWUgdGhhdCBib3RoIEJlZXRob3ZlbiBhbmQgQ3Jpc3RvZm9yaSB3ZXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRyZW1lbmRvdXMgaW5ub3ZhdG9ycyBpbiB3YXlzIHRoYXQgZHJhbWF0aWNhbGx5IGFmZmVjdGVkIHRoZS4gbXVzaWMgd29ybGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvcmxkLWNsYXNzIG11c2ljaWFucyB3aG8gZ2FpbmVkIHJlY29nbml0aW9uIGluIHRoZWlyIHRpbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnRyaWJ1dG9ycyB0byB0aGUgYWR2YW5jZW1lbnQgb2YgdGhlIHBpYW5vIHdobyB3ZXJlIGFwcHJlY2lhdGVkIG9ubHkgYWZ0ZXIgdGhlaXIgZGVhdGhzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG11c2ljaWFucyB3aG8gZm91bmQgbW9yZSBmYW1lIG91dHNpZGUgdGhlaXIgbmF0aXZlIGNvdW50cmllcyB0aGFuIGluc2lkZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gRm9yIHB1cnBvc2VzIG9mIHRoZSBwYXNzYWdlLCB0aGUgc2lnbmlmaWNhbmNlIG9mIGVpZ2h0ZWVudGgtY2VudHVyeSBHZXJtYW55IGlzIHRoYXQgaXQgd2FzIHRoZXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIENyaXN0b2ZvcmkgaGFkIGhpcyBicmVha3Rocm91Z2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluc3RydW1lbnQgbWFrZXJzIGltcHJvdmVkIHVwb24gaWRlYXMgb2YgcGlhbm8gbWFraW5nIHRoYXQgaGFkIG9yaWdpbmF0ZWQgaW4gSXRhbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBiZXN0IGhhcnBzaWNob3JkcyBhbmQgY2xhdmljaG9yZHMgd2VyZSBvcmlnaW5hbGx5IHByb2R1Y2VkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBmaXJzdCBtYWpvciBzcGxpdCBvY2N1cnJlZCBhbW9uZyBwaWFubyBtYWtlcnMgb3ZlciB0aGUgYmVzdCB3YXkgdG8gZGVzaWduIGtleWJvYXJkcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDI3LCB0aGUgcGhyYXNlIENyaXN0b2ZvcmkncyBicmVha3Rocm91Z2ggbW9zdCBuZWFybHkgcmVmZXJzIHRvIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluc3RydW1lbnQgbWFrZXIncyBkZWNpc2lvbiB0byBsZXQgbGVhZGluZyBtdXNpY2lhbnMgaW5pdGlhdGUgY2hhbmdlcyB0by4gc3RhbmRhcmQgcGlhbm8gZGVzaWduLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNyZWF0aW9uIG9mIHBpYW5vcyB3aG9zZSBzdHJpbmdzIGNvdWxkIGJlIHBsdWNrZWQgbG91ZGx5IG9yIHNvZnRseSwgZGVwZW5kaW5nIG9uIHRoZSBlZmZlY3QgZGVzaXJlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBpYW5vJ3MgcmVsZWFzZSBmcm9tIHRoZSBjb25maW5lcyBvZiB0aGUgZHJhd2luZyByb29tIHRvIGxhcmdlciBwZXJmb3JtYW5jZSBzcGFjZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRldmVsb3BtZW50IG9mIGEga2V5Ym9hcmQgaW5zdHJ1bWVudCB0aGF0IG9mZmVyZWQgdGhlIGR5bmFtaWMgcmFuZ2UsIG9mIHRoZSBjbGF2aWNob3JkIGFuZCB0aGUgbG91ZG5lc3Mgb2YgdGhlIGhhcnBzaWNob3JkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gSXQgY2FuIG1vc3QgcmVhc29uYWJseSBiZSBpbmZlcnJlZCwgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgd2FzIGEgZGlyZWN0IGV4cHJlc3Npb24gb2Ygb3RoZXJzJyBkZWVwIHJlc3BlY3QgZm9yIEJlZXRob3Zlbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBncmFuZCBwaWFubyBtYW51ZmFjdHVyZWQgYnkgQnJvYWQgd29vZCB3aG9zZSBzdHJpbmdzIHRoZSBjb21wb3NlciBkYW1hZ2VkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSB3YXkgVmllbm5lc2UgcGlhbm9zIHdlcmUgYnVpbHQgYmVmb3JlIHRoZSBjbGFzc2ljYWwgZXJhLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBzb25hdGFzIHdyaXR0ZW4gYW5kIHBlcmZvcm1lZCBieSBIYXlkbiBhbmQgTW96YXJ0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBwaWFubyBzY2hvb2xzIGVzdGFibGlzaGVkIGluIExvbmRvbiBhbmQgVmllbm5hPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDg4LCB0aGUgcGhyYXNlIGV4dHJlbWUgbGltaXRzIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGhhcnNoIHJ1bGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZhciByZWFjaGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhpZ2ggbm90ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRyYXN0aWMgc2hvcnRjb21pbmdzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBKb2hhbm4gU2ViYXN0aWFuIEJhY2gncyByZWFjdGlvbiB0byB0aGUgZmlyc3QgcGlhbm8gaGUgLnBsYXllZCB3YXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRpc2FwcHJvdmFsIG9mIGl0cyBsb3VkbmVzcywgYWNjb21wYW5pZWQgYnkgYXBwcmVjaWF0aW9uIG9mIGl0cyBmbHVpZGl0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1pbGQgaXJyaXRhdGlvbiBvdmVyIHRoZSBzaW5naW5nIHF1YWxpdHkgb2YgdGhlIG5vdGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdlbnVpbmUgcmVzcGVjdCwgYWNjb21wYW5pZWQgYnkgb2JzZXJ2YXRpb25zIGFib3V0IHByb2JsZW1zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFtdXNlbWVudCB0aGF0IHRoZSBmZXJ2b3Igb2YgaGlzIHBsYXlpbmcgZGFtYWdlZCB0aGUgc3RyaW5ncy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgcGlhbm8gd2FzIGJldHRlciBzdWl0ZWQgdGhhbiB0aGUgaGFycHNpY2hvcmQgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNvbG8gcGVyZm9ybWFuY2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRyYXdpbmcgcm9vbSBjb25jZXJ0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRlbGljYXRlIGNhYmluZXRyeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNodXJjaCBtdXNpYy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgSGFtbWVya2xhdmllciBzb25hdGEgaXMgYSBjb21wb3NpdGlvbiBieSBCZWV0aG92ZW4gdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNvdW5kcyBhcyBkcmFtYXRpYyBvbiB0aGUgY2xhdmljaG9yZCBhcyBvbiB0aGUgcGlhbm8uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJldmVhbHMgdGhlIGNvbXBvc2VyJ3MgcmVtYXJrYWJsZSBhd2FyZW5lc3MgYW5kIHVzZSBvZiB0aGUgcGlhbm8ncyBmdWxsIGNhcGFjaXRpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdhaW5lZCBtb3JlIGZhdm9yIGluIEVuZ2xhbmQgdGhhbiBpbiBWaWVubmEgdW50aWwgVmllbm5hIGltcG9ydGVkIEVuZ2xpc2ggcGlhbm9zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZpcnN0IGluc3BpcmVkIE1vemFydCB0byBjb21wb3NlIGZvciBwaWFuby48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

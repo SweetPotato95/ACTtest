@@ -1,121 +1,121 @@
-<h1>At Home in a Language</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When I was a child growing up in Delhi, <font id=30>India My</font> parents and I <font id=31>will have spent</font> our summers in Calcutta, India, visiting my grandparents, aunts, uncles, and cousins. We took the train over eight hundred miles from Delhi to Calcutta, which I considered a treat <font id=32> as</font> itself. I loved the dining car, the cozy sleeping berth in our cabin, <font id=33>and</font> the gentle rocking motion of the train that would <font id=34>lull</font> me to sleep at night. <font id=35>As an adult, I prefer to travel by car. </font> When we arrived at the Calcutta station the next morning, we were welcomed announcing train arrivals and departures over the intercom <font id=36>by the sound of the Bengali language. </font></div>
+PGgxPkF0IEhvbWUgaW4gYSBMYW5ndWFnZTwvaDE+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gSSB3YXMgYSBjaGlsZCBncm93aW5nIHVwIGluIERlbGhpLCA8Zm9udCBpZD0zMD5JbmRpYSBNeTwvZm9udD4gcGFyZW50cyBhbmQgSSA8Zm9udCBpZD0zMT53aWxsIGhhdmUgc3BlbnQ8L2ZvbnQ+IG91ciBzdW1tZXJzIGluIENhbGN1dHRhLCBJbmRpYSwgdmlzaXRpbmcgbXkgZ3JhbmRwYXJlbnRzLCBhdW50cywgdW5jbGVzLCBhbmQgY291c2lucy4gV2UgdG9vayB0aGUgdHJhaW4gb3ZlciBlaWdodCBodW5kcmVkIG1pbGVzIGZyb20gRGVsaGkgdG8gQ2FsY3V0dGEsIHdoaWNoIEkgY29uc2lkZXJlZCBhIHRyZWF0IDxmb250IGlkPTMyPiBhczwvZm9udD4gaXRzZWxmLiBJIGxvdmVkIHRoZSBkaW5pbmcgY2FyLCB0aGUgY296eSBzbGVlcGluZyBiZXJ0aCBpbiBvdXIgY2FiaW4sIDxmb250IGlkPTMzPmFuZDwvZm9udD4gdGhlIGdlbnRsZSByb2NraW5nIG1vdGlvbiBvZiB0aGUgdHJhaW4gdGhhdCB3b3VsZCA8Zm9udCBpZD0zND5sdWxsPC9mb250PiBtZSB0byBzbGVlcCBhdCBuaWdodC4gPGZvbnQgaWQ9MzU+QXMgYW4gYWR1bHQsIEkgcHJlZmVyIHRvIHRyYXZlbCBieSBjYXIuIDwvZm9udD4gV2hlbiB3ZSBhcnJpdmVkIGF0IHRoZSBDYWxjdXR0YSBzdGF0aW9uIHRoZSBuZXh0IG1vcm5pbmcsIHdlIHdlcmUgd2VsY29tZWQgYW5ub3VuY2luZyB0cmFpbiBhcnJpdmFscyBhbmQgZGVwYXJ0dXJlcyBvdmVyIHRoZSBpbnRlcmNvbSA8Zm9udCBpZD0zNj5ieSB0aGUgc291bmQgb2YgdGhlIEJlbmdhbGkgbGFuZ3VhZ2UuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Back in Delhi, the language most people commonly spoke was Hindi. Though I spoke Hindi fluently, it wasn't my first language. My parents were born in Calcutta, where most people spoke Bengali. They had lived there for years before they got married and moved to <font id=37>Delhi, where Hindi was widely spoken. </font> Because my parents had grown up speaking Bengali, we spoke Bengali, not Hindi, in our house. It was not surprising, then, that hearing Bengali on the streets of Calcutta made me feel right at home.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJhY2sgaW4gRGVsaGksIHRoZSBsYW5ndWFnZSBtb3N0IHBlb3BsZSBjb21tb25seSBzcG9rZSB3YXMgSGluZGkuIFRob3VnaCBJIHNwb2tlIEhpbmRpIGZsdWVudGx5LCBpdCB3YXNuJ3QgbXkgZmlyc3QgbGFuZ3VhZ2UuIE15IHBhcmVudHMgd2VyZSBib3JuIGluIENhbGN1dHRhLCB3aGVyZSBtb3N0IHBlb3BsZSBzcG9rZSBCZW5nYWxpLiBUaGV5IGhhZCBsaXZlZCB0aGVyZSBmb3IgeWVhcnMgYmVmb3JlIHRoZXkgZ290IG1hcnJpZWQgYW5kIG1vdmVkIHRvIDxmb250IGlkPTM3PkRlbGhpLCB3aGVyZSBIaW5kaSB3YXMgd2lkZWx5IHNwb2tlbi4gPC9mb250PiBCZWNhdXNlIG15IHBhcmVudHMgaGFkIGdyb3duIHVwIHNwZWFraW5nIEJlbmdhbGksIHdlIHNwb2tlIEJlbmdhbGksIG5vdCBIaW5kaSwgaW4gb3VyIGhvdXNlLiBJdCB3YXMgbm90IHN1cnByaXNpbmcsIHRoZW4sIHRoYXQgaGVhcmluZyBCZW5nYWxpIG9uIHRoZSBzdHJlZXRzIG9mIENhbGN1dHRhIG1hZGUgbWUgZmVlbCByaWdodCBhdCBob21lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Being in Calcutta was a comfort to me because <font id=38>I could speak</font> almost exclusively in my first language. Store clerks, cab drivers, bus drivers, schoolchildren, families picnicking in the parks: it seemed like everybody in Calcutta spoke Bengali. It only took me a day or two to adjust to not having to manage two languages. Communicating with such ease was a <font id=39>relief; </font> in Delhi I felt split in half, but in Calcutta I <font id=40>really felt like two people. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlaW5nIGluIENhbGN1dHRhIHdhcyBhIGNvbWZvcnQgdG8gbWUgYmVjYXVzZSA8Zm9udCBpZD0zOD5JIGNvdWxkIHNwZWFrPC9mb250PiBhbG1vc3QgZXhjbHVzaXZlbHkgaW4gbXkgZmlyc3QgbGFuZ3VhZ2UuIFN0b3JlIGNsZXJrcywgY2FiIGRyaXZlcnMsIGJ1cyBkcml2ZXJzLCBzY2hvb2xjaGlsZHJlbiwgZmFtaWxpZXMgcGljbmlja2luZyBpbiB0aGUgcGFya3M6IGl0IHNlZW1lZCBsaWtlIGV2ZXJ5Ym9keSBpbiBDYWxjdXR0YSBzcG9rZSBCZW5nYWxpLiBJdCBvbmx5IHRvb2sgbWUgYSBkYXkgb3IgdHdvIHRvIGFkanVzdCB0byBub3QgaGF2aW5nIHRvIG1hbmFnZSB0d28gbGFuZ3VhZ2VzLiBDb21tdW5pY2F0aW5nIHdpdGggc3VjaCBlYXNlIHdhcyBhIDxmb250IGlkPTM5PnJlbGllZjsgPC9mb250PiBpbiBEZWxoaSBJIGZlbHQgc3BsaXQgaW4gaGFsZiwgYnV0IGluIENhbGN1dHRhIEkgPGZvbnQgaWQ9NDA+cmVhbGx5IGZlbHQgbGlrZSB0d28gcGVvcGxlLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I also <font id=41>found life in my grandparents' house</font> easy to get used to. Their house was always <font id=42>overflowing with</font> members of my father's family. Being an only child, I <font id=43> savored</font> this time spent with relatives. My aunts and uncles loved to tease me and tell me jokes and stories. I would skip through the rooms of my grandparents' sprawling house with my cousins, <font id=44>thrilled to have all that extra space in which to play games and have fun. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgYWxzbyA8Zm9udCBpZD00MT5mb3VuZCBsaWZlIGluIG15IGdyYW5kcGFyZW50cycgaG91c2U8L2ZvbnQ+IGVhc3kgdG8gZ2V0IHVzZWQgdG8uIFRoZWlyIGhvdXNlIHdhcyBhbHdheXMgPGZvbnQgaWQ9NDI+b3ZlcmZsb3dpbmcgd2l0aDwvZm9udD4gbWVtYmVycyBvZiBteSBmYXRoZXIncyBmYW1pbHkuIEJlaW5nIGFuIG9ubHkgY2hpbGQsIEkgPGZvbnQgaWQ9NDM+IHNhdm9yZWQ8L2ZvbnQ+IHRoaXMgdGltZSBzcGVudCB3aXRoIHJlbGF0aXZlcy4gTXkgYXVudHMgYW5kIHVuY2xlcyBsb3ZlZCB0byB0ZWFzZSBtZSBhbmQgdGVsbCBtZSBqb2tlcyBhbmQgc3Rvcmllcy4gSSB3b3VsZCBza2lwIHRocm91Z2ggdGhlIHJvb21zIG9mIG15IGdyYW5kcGFyZW50cycgc3ByYXdsaW5nIGhvdXNlIHdpdGggbXkgY291c2lucywgPGZvbnQgaWQ9NDQ+dGhyaWxsZWQgdG8gaGF2ZSBhbGwgdGhhdCBleHRyYSBzcGFjZSBpbiB3aGljaCB0byBwbGF5IGdhbWVzIGFuZCBoYXZlIGZ1bi4gPC9mb250PjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">30.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. India, So my</div>
-<div class = "choice">H. India; my</div>
-<div class = "choice">J. India, my</div>
-</div>
-###################
-<div class = "quiz">31.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. would spend</div>
-<div class = "choice">C. have spent</div>
-<div class = "choice">D. will be spending</div>
-</div>
-###################
-<div class = "quiz">32.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. to</div>
-<div class = "choice">H. for</div>
-<div class = "choice">J. in</div>
-</div>
-###################
-<div class = "quiz">33.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. which</div>
-<div class = "choice">C. since</div>
-<div class = "choice">D. whereas</div>
-</div>
-###################
-<div class = "quiz">34.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. lulled</div>
-<div class = "choice">H. of lulled</div>
-<div class = "choice">J. have lulled</div>
-</div>
-###################
-<div class = "quiz">35. The writer is considering deleting the preceding sentence. Should the sentence be kept or deleted?
-<div class = "choice">A. Kept, because it gives the reader further insight into the narrator's personality.</div>
-<div class = "choice">B. Kept, because it sharpens the essay's focus on favorite modes of transportation.</div>
-<div class = "choice">C. Deleted, because it disrupts the narration of past events in the paragraph.</div>
-<div class = "choice">D. Deleted, because it inserts a personal element into an otherwise impersonal essay.</div>
-</div>
-###################
-<div class = "quiz">36. The best placement for the underlined portion would be:
-<div class = "choice">F. where it is now.</div>
-<div class = "choice">G. after the word arrived.</div>
-<div class = "choice">H. after the word welcomed.</div>
-<div class = "choice">J. after the word arrivals.</div>
-</div>
-###################
-<div class = "quiz">37.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Delhi, where most people speak Hindi.</div>
-<div class = "choice">C. Delhi, a city in India.</div>
-<div class = "choice">D. Delhi.</div>
-</div>
-###################
-<div class = "quiz">38.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. could communicate and discourse</div>
-<div class = "choice">H. could shoot the breeze</div>
-<div class = "choice">J. could, you know, speak</div>
-</div>
-###################
-<div class = "quiz">39.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. relief,</div>
-<div class = "choice">C. relief</div>
-<div class = "choice">D. relief and</div>
-</div>
-###################
-<div class = "quiz">40. Which choice most logically completes the contrast between the way the narrator felt in Calcutta and in Delhi?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. remembered how this felt.</div>
-<div class = "choice">H. felt like I was split in fourths.</div>
-<div class = "choice">J. felt confident and whole.</div>
-</div>
-###################
-<div class = "quiz">41.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. found, life in my grandparents' house</div>
-<div class = "choice">C. found, life in my grandparents' house,</div>
-<div class = "choice">D. found life in my grandparents' house,</div>
-</div>
-###################
-<div class = "quiz">42. Which choice most effectively emphasizes the fact that the narrator's father has a large family?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. comfortably accommodating</div>
-<div class = "choice">H. visited by</div>
-<div class = "choice">J. a familiar haunt of</div>
-</div>
-###################
-<div class = "quiz">43. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">A. relished</div>
-<div class = "choice">B. tasted</div>
-<div class = "choice">C. reveled in</div>
-<div class = "choice">D. delighted in</div>
-</div>
-###################
-<div class = "quiz">44. Given that all the choices are true, which one best concludes the sentence and the essay while reinforcing the essay's main idea?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. all of us shouting, screaming, and laughing in Bengali.</div>
-<div class = "choice">H. all of us making memories that will be with us our entire lives.</div>
-<div class = "choice">J. investigating the many things my grandparents had collected.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEluZGlhLCBTbyBteTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEluZGlhOyBteTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEluZGlhLCBteTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvdWxkIHNwZW5kPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhdmUgc3BlbnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdpbGwgYmUgc3BlbmRpbmc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZvcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdoaWNoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNpbmNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdoZXJlYXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGx1bGxlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9mIGx1bGxlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhdmUgbHVsbGVkPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLiBTaG91bGQgdGhlIHNlbnRlbmNlIGJlIGtlcHQgb3IgZGVsZXRlZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEtlcHQsIGJlY2F1c2UgaXQgZ2l2ZXMgdGhlIHJlYWRlciBmdXJ0aGVyIGluc2lnaHQgaW50byB0aGUgbmFycmF0b3IncyBwZXJzb25hbGl0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEtlcHQsIGJlY2F1c2UgaXQgc2hhcnBlbnMgdGhlIGVzc2F5J3MgZm9jdXMgb24gZmF2b3JpdGUgbW9kZXMgb2YgdHJhbnNwb3J0YXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIERlbGV0ZWQsIGJlY2F1c2UgaXQgZGlzcnVwdHMgdGhlIG5hcnJhdGlvbiBvZiBwYXN0IGV2ZW50cyBpbiB0aGUgcGFyYWdyYXBoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERlbGV0ZWQsIGJlY2F1c2UgaXQgaW5zZXJ0cyBhIHBlcnNvbmFsIGVsZW1lbnQgaW50byBhbiBvdGhlcndpc2UgaW1wZXJzb25hbCBlc3NheS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gVGhlIGJlc3QgcGxhY2VtZW50IGZvciB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFmdGVyIHRoZSB3b3JkIGFycml2ZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFmdGVyIHRoZSB3b3JkIHdlbGNvbWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmdGVyIHRoZSB3b3JkIGFycml2YWxzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIERlbGhpLCB3aGVyZSBtb3N0IHBlb3BsZSBzcGVhayBIaW5kaS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIERlbGhpLCBhIGNpdHkgaW4gSW5kaWEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERlbGhpLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvdWxkIGNvbW11bmljYXRlIGFuZCBkaXNjb3Vyc2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvdWxkIHNob290IHRoZSBicmVlemU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvdWxkLCB5b3Uga25vdywgc3BlYWs8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlbGllZiw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJlbGllZjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlbGllZiBhbmQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gV2hpY2ggY2hvaWNlIG1vc3QgbG9naWNhbGx5IGNvbXBsZXRlcyB0aGUgY29udHJhc3QgYmV0d2VlbiB0aGUgd2F5IHRoZSBuYXJyYXRvciBmZWx0IGluIENhbGN1dHRhIGFuZCBpbiBEZWxoaT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJlbWVtYmVyZWQgaG93IHRoaXMgZmVsdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZlbHQgbGlrZSBJIHdhcyBzcGxpdCBpbiBmb3VydGhzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZlbHQgY29uZmlkZW50IGFuZCB3aG9sZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZvdW5kLCBsaWZlIGluIG15IGdyYW5kcGFyZW50cycgaG91c2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZvdW5kLCBsaWZlIGluIG15IGdyYW5kcGFyZW50cycgaG91c2UsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZvdW5kIGxpZmUgaW4gbXkgZ3JhbmRwYXJlbnRzJyBob3VzZSw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Mi4gV2hpY2ggY2hvaWNlIG1vc3QgZWZmZWN0aXZlbHkgZW1waGFzaXplcyB0aGUgZmFjdCB0aGF0IHRoZSBuYXJyYXRvcidzIGZhdGhlciBoYXMgYSBsYXJnZSBmYW1pbHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbWZvcnRhYmx5IGFjY29tbW9kYXRpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHZpc2l0ZWQgYnk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgZmFtaWxpYXIgaGF1bnQgb2Y8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40My4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHJlbGlzaGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRhc3RlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJldmVsZWQgaW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlbGlnaHRlZCBpbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGNvbmNsdWRlcyB0aGUgc2VudGVuY2UgYW5kIHRoZSBlc3NheSB3aGlsZSByZWluZm9yY2luZyB0aGUgZXNzYXkncyBtYWluIGlkZWE/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFsbCBvZiB1cyBzaG91dGluZywgc2NyZWFtaW5nLCBhbmQgbGF1Z2hpbmcgaW4gQmVuZ2FsaS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFsbCBvZiB1cyBtYWtpbmcgbWVtb3JpZXMgdGhhdCB3aWxsIGJlIHdpdGggdXMgb3VyIGVudGlyZSBsaXZlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGludmVzdGlnYXRpbmcgdGhlIG1hbnkgdGhpbmdzIG15IGdyYW5kcGFyZW50cyBoYWQgY29sbGVjdGVkLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

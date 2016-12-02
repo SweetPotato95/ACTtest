@@ -1,101 +1,101 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Design for Living” by Polly Shulman (?2000 by Scientific American, Inc.).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At 85. Jeanne Calment of Arles. France, took up fencing. She outlived all her descendants. Asked at 115 how she saw her future, she quipped, "Short. Very short." But she was wrong: she lived seven more years, dying on August 4, 1997. at 122 years, the longest verifiable life span of any human being.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlIOKAnERlc2lnbiBmb3IgTGl2aW5n4oA/IGJ5IFBvbGx5IFNodWxtYW4gKD8yMDAwIGJ5IFNjaWVudGlmaWMgQW1lcmljYW4sIEluYy4pLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF0IDg1LiBKZWFubmUgQ2FsbWVudCBvZiBBcmxlcy4gRnJhbmNlLCB0b29rIHVwIGZlbmNpbmcuIFNoZSBvdXRsaXZlZCBhbGwgaGVyIGRlc2NlbmRhbnRzLiBBc2tlZCBhdCAxMTUgaG93IHNoZSBzYXcgaGVyIGZ1dHVyZSwgc2hlIHF1aXBwZWQsICJTaG9ydC4gVmVyeSBzaG9ydC4iIEJ1dCBzaGUgd2FzIHdyb25nOiBzaGUgbGl2ZWQgc2V2ZW4gbW9yZSB5ZWFycywgZHlpbmcgb24gQXVndXN0IDQsIDE5OTcuIGF0IDEyMiB5ZWFycywgdGhlIGxvbmdlc3QgdmVyaWZpYWJsZSBsaWZlIHNwYW4gb2YgYW55IGh1bWFuIGJlaW5nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Richard M. Suzman, an associate director at the National Institute on Aging. claims the rate of disability in all populations. including the oldest old, has been dropping since 1982. Demographers. geneticists and medical researchers hope that studying "the superstars of longevity" will yield vital clues to how all of us can live longer. Healthier lives.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJpY2hhcmQgTS4gU3V6bWFuLCBhbiBhc3NvY2lhdGUgZGlyZWN0b3IgYXQgdGhlIE5hdGlvbmFsIEluc3RpdHV0ZSBvbiBBZ2luZy4gY2xhaW1zIHRoZSByYXRlIG9mIGRpc2FiaWxpdHkgaW4gYWxsIHBvcHVsYXRpb25zLiBpbmNsdWRpbmcgdGhlIG9sZGVzdCBvbGQsIGhhcyBiZWVuIGRyb3BwaW5nIHNpbmNlIDE5ODIuIERlbW9ncmFwaGVycy4gZ2VuZXRpY2lzdHMgYW5kIG1lZGljYWwgcmVzZWFyY2hlcnMgaG9wZSB0aGF0IHN0dWR5aW5nICJ0aGUgc3VwZXJzdGFycyBvZiBsb25nZXZpdHkiIHdpbGwgeWllbGQgdml0YWwgY2x1ZXMgdG8gaG93IGFsbCBvZiB1cyBjYW4gbGl2ZSBsb25nZXIuIEhlYWx0aGllciBsaXZlcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To Leonard W. Poon of the Georgia Centenarian Study. there is no secret to longevity. Poon and his colleagues followed 144 cognitively intact. Independently living centenarians. Some were compared with groups of people in their 60s and 80s from similar backgrounds; others were interviewed and tested every six months for what remained of their lives. He believes the most important lesson of the study is the qualities that stood out among the oldest old.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvIExlb25hcmQgVy4gUG9vbiBvZiB0aGUgR2VvcmdpYSBDZW50ZW5hcmlhbiBTdHVkeS4gdGhlcmUgaXMgbm8gc2VjcmV0IHRvIGxvbmdldml0eS4gUG9vbiBhbmQgaGlzIGNvbGxlYWd1ZXMgZm9sbG93ZWQgMTQ0IGNvZ25pdGl2ZWx5IGludGFjdC4gSW5kZXBlbmRlbnRseSBsaXZpbmcgY2VudGVuYXJpYW5zLiBTb21lIHdlcmUgY29tcGFyZWQgd2l0aCBncm91cHMgb2YgcGVvcGxlIGluIHRoZWlyIDYwcyBhbmQgODBzIGZyb20gc2ltaWxhciBiYWNrZ3JvdW5kczsgb3RoZXJzIHdlcmUgaW50ZXJ2aWV3ZWQgYW5kIHRlc3RlZCBldmVyeSBzaXggbW9udGhzIGZvciB3aGF0IHJlbWFpbmVkIG9mIHRoZWlyIGxpdmVzLiBIZSBiZWxpZXZlcyB0aGUgbW9zdCBpbXBvcnRhbnQgbGVzc29uIG9mIHRoZSBzdHVkeSBpcyB0aGUgcXVhbGl0aWVzIHRoYXQgc3Rvb2Qgb3V0IGFtb25nIHRoZSBvbGRlc3Qgb2xkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For example. few of the centenarians in the study smoked. were obese or drank heavily, They remained active throughout life, ate breakfast regularly, and consumed plenty. of vitamin A and carotenoids by eating fruits and vegetables. "In terms of psychology and attitudes. they've resolved whatever issues they have, they're sure of themselves. and they want to have their way." Learning about the diversity of characteristics that centenarians share, Poon thinks, "<font id=19>isn't a bad result</font>, because anyone can find one factor relevant to their lives, one thing that's possible to change. The diversity gives all of us hope to be able to live longer."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBleGFtcGxlLiBmZXcgb2YgdGhlIGNlbnRlbmFyaWFucyBpbiB0aGUgc3R1ZHkgc21va2VkLiB3ZXJlIG9iZXNlIG9yIGRyYW5rIGhlYXZpbHksIFRoZXkgcmVtYWluZWQgYWN0aXZlIHRocm91Z2hvdXQgbGlmZSwgYXRlIGJyZWFrZmFzdCByZWd1bGFybHksIGFuZCBjb25zdW1lZCBwbGVudHkuIG9mIHZpdGFtaW4gQSBhbmQgY2Fyb3Rlbm9pZHMgYnkgZWF0aW5nIGZydWl0cyBhbmQgdmVnZXRhYmxlcy4gIkluIHRlcm1zIG9mIHBzeWNob2xvZ3kgYW5kIGF0dGl0dWRlcy4gdGhleSd2ZSByZXNvbHZlZCB3aGF0ZXZlciBpc3N1ZXMgdGhleSBoYXZlLCB0aGV5J3JlIHN1cmUgb2YgdGhlbXNlbHZlcy4gYW5kIHRoZXkgd2FudCB0byBoYXZlIHRoZWlyIHdheS4iIExlYXJuaW5nIGFib3V0IHRoZSBkaXZlcnNpdHkgb2YgY2hhcmFjdGVyaXN0aWNzIHRoYXQgY2VudGVuYXJpYW5zIHNoYXJlLCBQb29uIHRoaW5rcywgIjxmb250IGlkPTE5Pmlzbid0IGEgYmFkIHJlc3VsdDwvZm9udD4sIGJlY2F1c2UgYW55b25lIGNhbiBmaW5kIG9uZSBmYWN0b3IgcmVsZXZhbnQgdG8gdGhlaXIgbGl2ZXMsIG9uZSB0aGluZyB0aGF0J3MgcG9zc2libGUgdG8gY2hhbmdlLiBUaGUgZGl2ZXJzaXR5IGdpdmVzIGFsbCBvZiB1cyBob3BlIHRvIGJlIGFibGUgdG8gbGl2ZSBsb25nZXIuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Poon. a psychologist by training. considers motivation and attitude as important as genes. But Thomas T. Perls, director of the New England Centenarian Study, believes some genes can guarantee their lucky recipients a better chance to live a long. healthy life, and he means to find them. Siblings or centenarians in his study have a five times greater chance than average of living to their early 90s and a 15 times greater chance of living to 100. Of course, siblings share environmental factors as well as genes. Could some of these be responsible? "Is it the chicken soup their morn makes?" Perls asks. "No, because their parents also live unusually long."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBvb24uIGEgcHN5Y2hvbG9naXN0IGJ5IHRyYWluaW5nLiBjb25zaWRlcnMgbW90aXZhdGlvbiBhbmQgYXR0aXR1ZGUgYXMgaW1wb3J0YW50IGFzIGdlbmVzLiBCdXQgVGhvbWFzIFQuIFBlcmxzLCBkaXJlY3RvciBvZiB0aGUgTmV3IEVuZ2xhbmQgQ2VudGVuYXJpYW4gU3R1ZHksIGJlbGlldmVzIHNvbWUgZ2VuZXMgY2FuIGd1YXJhbnRlZSB0aGVpciBsdWNreSByZWNpcGllbnRzIGEgYmV0dGVyIGNoYW5jZSB0byBsaXZlIGEgbG9uZy4gaGVhbHRoeSBsaWZlLCBhbmQgaGUgbWVhbnMgdG8gZmluZCB0aGVtLiBTaWJsaW5ncyBvciBjZW50ZW5hcmlhbnMgaW4gaGlzIHN0dWR5IGhhdmUgYSBmaXZlIHRpbWVzIGdyZWF0ZXIgY2hhbmNlIHRoYW4gYXZlcmFnZSBvZiBsaXZpbmcgdG8gdGhlaXIgZWFybHkgOTBzIGFuZCBhIDE1IHRpbWVzIGdyZWF0ZXIgY2hhbmNlIG9mIGxpdmluZyB0byAxMDAuIE9mIGNvdXJzZSwgc2libGluZ3Mgc2hhcmUgZW52aXJvbm1lbnRhbCBmYWN0b3JzIGFzIHdlbGwgYXMgZ2VuZXMuIENvdWxkIHNvbWUgb2YgdGhlc2UgYmUgcmVzcG9uc2libGU/ICJJcyBpdCB0aGUgY2hpY2tlbiBzb3VwIHRoZWlyIG1vcm4gbWFrZXM/IiBQZXJscyBhc2tzLiAiTm8sIGJlY2F1c2UgdGhlaXIgcGFyZW50cyBhbHNvIGxpdmUgdW51c3VhbGx5IGxvbmcuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nir Barzilai. a gerontologist who collaborates with Perls's group. is looking for longevity genes as well. He and his colleagues study "founder populations"—small, generically isolated groups that gradually expanded to large numbers, all the while marrying within the community. One collaborator hunts through the genes of the Amish; Barzilai does the same with Ashkenazi Jews. The fact that members of such groups share large amounts of genetic material makes it easier to find relevant genes. The geneticists compare the genes of long-lived group members with those of members with short or normal-length lives. Because these people have so much genetic material in common, any genes found in the long-lived group but not in the short- or normal-lived group have a good chance of being the ones the scientists are looking for.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5pciBCYXJ6aWxhaS4gYSBnZXJvbnRvbG9naXN0IHdobyBjb2xsYWJvcmF0ZXMgd2l0aCBQZXJscydzIGdyb3VwLiBpcyBsb29raW5nIGZvciBsb25nZXZpdHkgZ2VuZXMgYXMgd2VsbC4gSGUgYW5kIGhpcyBjb2xsZWFndWVzIHN0dWR5ICJmb3VuZGVyIHBvcHVsYXRpb25zIuKAlHNtYWxsLCBnZW5lcmljYWxseSBpc29sYXRlZCBncm91cHMgdGhhdCBncmFkdWFsbHkgZXhwYW5kZWQgdG8gbGFyZ2UgbnVtYmVycywgYWxsIHRoZSB3aGlsZSBtYXJyeWluZyB3aXRoaW4gdGhlIGNvbW11bml0eS4gT25lIGNvbGxhYm9yYXRvciBodW50cyB0aHJvdWdoIHRoZSBnZW5lcyBvZiB0aGUgQW1pc2g7IEJhcnppbGFpIGRvZXMgdGhlIHNhbWUgd2l0aCBBc2hrZW5hemkgSmV3cy4gVGhlIGZhY3QgdGhhdCBtZW1iZXJzIG9mIHN1Y2ggZ3JvdXBzIHNoYXJlIGxhcmdlIGFtb3VudHMgb2YgZ2VuZXRpYyBtYXRlcmlhbCBtYWtlcyBpdCBlYXNpZXIgdG8gZmluZCByZWxldmFudCBnZW5lcy4gVGhlIGdlbmV0aWNpc3RzIGNvbXBhcmUgdGhlIGdlbmVzIG9mIGxvbmctbGl2ZWQgZ3JvdXAgbWVtYmVycyB3aXRoIHRob3NlIG9mIG1lbWJlcnMgd2l0aCBzaG9ydCBvciBub3JtYWwtbGVuZ3RoIGxpdmVzLiBCZWNhdXNlIHRoZXNlIHBlb3BsZSBoYXZlIHNvIG11Y2ggZ2VuZXRpYyBtYXRlcmlhbCBpbiBjb21tb24sIGFueSBnZW5lcyBmb3VuZCBpbiB0aGUgbG9uZy1saXZlZCBncm91cCBidXQgbm90IGluIHRoZSBzaG9ydC0gb3Igbm9ybWFsLWxpdmVkIGdyb3VwIGhhdmUgYSBnb29kIGNoYW5jZSBvZiBiZWluZyB0aGUgb25lcyB0aGUgc2NpZW50aXN0cyBhcmUgbG9va2luZyBmb3IuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It's important to Barzilai to find out what functions those genes perform, then develop medicines to mimic them. "If they have to do with oxidation, we'll try to manipulate oxidation. If they increase levels of HDL—that's the beneficial kind of cholesterol—maybe we can increase HDL. I had a 102-year-old who had a very high grade cancer, with a prognosis of two months, but she lived with it for five or six years. Maybe something in her genes protected her from this cancer." If so, understanding how that protection worked could help doctors develop cancer-fighting drugs.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0J3MgaW1wb3J0YW50IHRvIEJhcnppbGFpIHRvIGZpbmQgb3V0IHdoYXQgZnVuY3Rpb25zIHRob3NlIGdlbmVzIHBlcmZvcm0sIHRoZW4gZGV2ZWxvcCBtZWRpY2luZXMgdG8gbWltaWMgdGhlbS4gIklmIHRoZXkgaGF2ZSB0byBkbyB3aXRoIG94aWRhdGlvbiwgd2UnbGwgdHJ5IHRvIG1hbmlwdWxhdGUgb3hpZGF0aW9uLiBJZiB0aGV5IGluY3JlYXNlIGxldmVscyBvZiBIREzigJR0aGF0J3MgdGhlIGJlbmVmaWNpYWwga2luZCBvZiBjaG9sZXN0ZXJvbOKAlG1heWJlIHdlIGNhbiBpbmNyZWFzZSBIREwuIEkgaGFkIGEgMTAyLXllYXItb2xkIHdobyBoYWQgYSB2ZXJ5IGhpZ2ggZ3JhZGUgY2FuY2VyLCB3aXRoIGEgcHJvZ25vc2lzIG9mIHR3byBtb250aHMsIGJ1dCBzaGUgbGl2ZWQgd2l0aCBpdCBmb3IgZml2ZSBvciBzaXggeWVhcnMuIE1heWJlIHNvbWV0aGluZyBpbiBoZXIgZ2VuZXMgcHJvdGVjdGVkIGhlciBmcm9tIHRoaXMgY2FuY2VyLiIgSWYgc28sIHVuZGVyc3RhbmRpbmcgaG93IHRoYXQgcHJvdGVjdGlvbiB3b3JrZWQgY291bGQgaGVscCBkb2N0b3JzIGRldmVsb3AgY2FuY2VyLWZpZ2h0aW5nIGRydWdzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Barzilai and his team have been quizzing their centenarians for shared characteristics and, like Poon, have found a lot of diversity. Barzilai says, "One thing they seemed to have in common was some form of flexibility. Many of them had very hard lives. They rolled with the punches, got up and continued with a good attitude."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJhcnppbGFpIGFuZCBoaXMgdGVhbSBoYXZlIGJlZW4gcXVpenppbmcgdGhlaXIgY2VudGVuYXJpYW5zIGZvciBzaGFyZWQgY2hhcmFjdGVyaXN0aWNzIGFuZCwgbGlrZSBQb29uLCBoYXZlIGZvdW5kIGEgbG90IG9mIGRpdmVyc2l0eS4gQmFyemlsYWkgc2F5cywgIk9uZSB0aGluZyB0aGV5IHNlZW1lZCB0byBoYXZlIGluIGNvbW1vbiB3YXMgc29tZSBmb3JtIG9mIGZsZXhpYmlsaXR5LiBNYW55IG9mIHRoZW0gaGFkIHZlcnkgaGFyZCBsaXZlcy4gVGhleSByb2xsZWQgd2l0aCB0aGUgcHVuY2hlcywgZ290IHVwIGFuZCBjb250aW51ZWQgd2l0aCBhIGdvb2QgYXR0aXR1ZGUuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One problem is to separate cause from effect. Did Barzilai's and Poon's centenarians live longer because they rolled with the punches, or did 10 decades of experience give them the wisdom to accept experiences that would have thrown them for a loop in their youth? Centenarian researchers would like to go back in time and interview their subjects at 20, 50, 80—but of course, they can't.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSBwcm9ibGVtIGlzIHRvIHNlcGFyYXRlIGNhdXNlIGZyb20gZWZmZWN0LiBEaWQgQmFyemlsYWkncyBhbmQgUG9vbidzIGNlbnRlbmFyaWFucyBsaXZlIGxvbmdlciBiZWNhdXNlIHRoZXkgcm9sbGVkIHdpdGggdGhlIHB1bmNoZXMsIG9yIGRpZCAxMCBkZWNhZGVzIG9mIGV4cGVyaWVuY2UgZ2l2ZSB0aGVtIHRoZSB3aXNkb20gdG8gYWNjZXB0IGV4cGVyaWVuY2VzIHRoYXQgd291bGQgaGF2ZSB0aHJvd24gdGhlbSBmb3IgYSBsb29wIGluIHRoZWlyIHlvdXRoPyBDZW50ZW5hcmlhbiByZXNlYXJjaGVycyB3b3VsZCBsaWtlIHRvIGdvIGJhY2sgaW4gdGltZSBhbmQgaW50ZXJ2aWV3IHRoZWlyIHN1YmplY3RzIGF0IDIwLCA1MCwgODDigJRidXQgb2YgY291cnNlLCB0aGV5IGNhbid0LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">11. The passage's focus is primarily on the:
-<div class = "choice">A. conflicting views of Poon and Perls regarding the influence of genes on longevity,</div>
-<div class = "choice">B. efforts of geneticists and medical researchers to determine the rate of disability in all populations.</div>
-<div class = "choice">C. studies conducted by Poon, Perls, and Barzilai relating to longevity.</div>
-<div class = "choice">D. the study of "founder populations" in the search for longevity genes.</div>
-</div>
-###################
-<div class = "quiz">12. Based on the passage, one of the similarities between the subjects in Poon's study and the subjects in Barzilai's study is that both groups were:
-<div class = "choice">F. devoted to active, healthy lifestyles.</div>
-<div class = "choice">G. considered genetically isolated.</div>
-<div class = "choice">H. described as having positive attitudes.</div>
-<div class = "choice">J. interviewed every six months.</div>
-</div>
-###################
-<div class = "quiz">13. Which of the following questions is NOT answered by the passage?
-<div class = "choice">A. According to Perls's study, what is the likelihood that siblings of centenarians will live exceptionally long lives?</div>
-<div class = "choice">B. How have "founder populations" been used in the study of longevity genes?</div>
-<div class = "choice">C. To Poon. how important are motivation and attitude in longevity?</div>
-<div class = "choice">D. To what extent have Suzman's findings on disability rates directly influenced studies by Poon and Barzilai?</div>
-</div>
-###################
-<div class = "quiz">14. The passage most strongly suggests that the ultimate goal of Barzilai's study was to:
-<div class = "choice">F. compare the genes of the Amish and Ashkenazi Jews to identify shared genetic material.</div>
-<div class = "choice">G. develop drugs that would mimic the functions of life-extending genes.</div>
-<div class = "choice">H. disprove Poon's theory that genes can guarantee a better chance of living a longer life.</div>
-<div class = "choice">J. discover what role diversity plays in helping certain groups live longer lives.</div>
-</div>
-###################
-<div class = "quiz">15. Which of the following statements best summarizes Perls's theory, as it is described in the passage?
-<div class = "choice">A. Generics. not environment, primarily determines longevity.</div>
-<div class = "choice">B. Environment plays just as strong a role as genetics in longevity.</div>
-<div class = "choice">C. Siblings of centenarians. but not their parents, have a better chance of living to l00.</div>
-<div class = "choice">D. Siblings of centenarians tend to live longer-than-normal lives due to positive environmental influences.</div>
-</div>
-###################
-<div class = "quiz">16. If the last paragraph were deleted, the passage would primarily lose details that indicate:
-<div class = "choice">F. Barzilai and Poon worked with the same group of centenarians in their respective studies.</div>
-<div class = "choice">G. subjects in longevity studies are interviewed in their 20s. 50s, and 80s.</div>
-<div class = "choice">H. Barzilai's and Poon's studies are relatively inconclusive in determining causes and effects.</div>
-<div class = "choice">J. centenarians are more flexible in their later years than they were in their youth.</div>
-</div>
-###################
-<div class = "quiz">17. The main purpose of the first paragraph is to:
-<div class = "choice">A. demonstrate that anticipating the end of life can actually lead a person to live longer.</div>
-<div class = "choice">B. point out Calment's resignation to the circumstances of her life.</div>
-<div class = "choice">C. suggest that athletes are more likely than non-athletes to live long lives.</div>
-<div class = "choice">D. provide an anecdote to introduce the various accounts of longevity studies.</div>
-</div>
-###################
-<div class = "quiz">18. According to the passage, the 144 subjects in Poon's study shared all of the following characteristics EXCEPT:
-<div class = "choice">F. being centenarians.</div>
-<div class = "choice">G. being rested regularly.</div>
-<div class = "choice">H. being cognitively intact.</div>
-<div class = "choice">J. living independently.</div>
-</div>
-###################
-<div class = "quiz">19. According to Poon, learning about the diversity of traits centenarians share "isn't a bad result" (line 31) because this means that people:
-<div class = "choice">A. can overcome the negative effects of an unhealthy lifestyle through positive thinking.</div>
-<div class = "choice">B. have a better chance of finding something to change that is relevant to their own lives.</div>
-<div class = "choice">C. can guarantee their own longevity by continually changing their behaviors.</div>
-<div class = "choice">D. are powerless to change their fates—they either have the traits for longevity or they don't</div>
-</div>
-###################
-<div class = "quiz">20. According to the passage, which of the following pairs of researchers collaborates in the study of longevity genes?
-<div class = "choice">F. Perls and Barzilai</div>
-<div class = "choice">G. Suzman and Barzilai</div>
-<div class = "choice">H. Poon and Perls</div>
-<div class = "choice">J. Suzman and Perls</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHBhc3NhZ2UncyBmb2N1cyBpcyBwcmltYXJpbHkgb24gdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbmZsaWN0aW5nIHZpZXdzIG9mIFBvb24gYW5kIFBlcmxzIHJlZ2FyZGluZyB0aGUgaW5mbHVlbmNlIG9mIGdlbmVzIG9uIGxvbmdldml0eSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVmZm9ydHMgb2YgZ2VuZXRpY2lzdHMgYW5kIG1lZGljYWwgcmVzZWFyY2hlcnMgdG8gZGV0ZXJtaW5lIHRoZSByYXRlIG9mIGRpc2FiaWxpdHkgaW4gYWxsIHBvcHVsYXRpb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN0dWRpZXMgY29uZHVjdGVkIGJ5IFBvb24sIFBlcmxzLCBhbmQgQmFyemlsYWkgcmVsYXRpbmcgdG8gbG9uZ2V2aXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZSBzdHVkeSBvZiAiZm91bmRlciBwb3B1bGF0aW9ucyIgaW4gdGhlIHNlYXJjaCBmb3IgbG9uZ2V2aXR5IGdlbmVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIG9uZSBvZiB0aGUgc2ltaWxhcml0aWVzIGJldHdlZW4gdGhlIHN1YmplY3RzIGluIFBvb24ncyBzdHVkeSBhbmQgdGhlIHN1YmplY3RzIGluIEJhcnppbGFpJ3Mgc3R1ZHkgaXMgdGhhdCBib3RoIGdyb3VwcyB3ZXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRldm90ZWQgdG8gYWN0aXZlLCBoZWFsdGh5IGxpZmVzdHlsZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbnNpZGVyZWQgZ2VuZXRpY2FsbHkgaXNvbGF0ZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlc2NyaWJlZCBhcyBoYXZpbmcgcG9zaXRpdmUgYXR0aXR1ZGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGludGVydmlld2VkIGV2ZXJ5IHNpeCBtb250aHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgaXMgTk9UIGFuc3dlcmVkIGJ5IHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFjY29yZGluZyB0byBQZXJscydzIHN0dWR5LCB3aGF0IGlzIHRoZSBsaWtlbGlob29kIHRoYXQgc2libGluZ3Mgb2YgY2VudGVuYXJpYW5zIHdpbGwgbGl2ZSBleGNlcHRpb25hbGx5IGxvbmcgbGl2ZXM/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhvdyBoYXZlICJmb3VuZGVyIHBvcHVsYXRpb25zIiBiZWVuIHVzZWQgaW4gdGhlIHN0dWR5IG9mIGxvbmdldml0eSBnZW5lcz88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRvIFBvb24uIGhvdyBpbXBvcnRhbnQgYXJlIG1vdGl2YXRpb24gYW5kIGF0dGl0dWRlIGluIGxvbmdldml0eT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRvIHdoYXQgZXh0ZW50IGhhdmUgU3V6bWFuJ3MgZmluZGluZ3Mgb24gZGlzYWJpbGl0eSByYXRlcyBkaXJlY3RseSBpbmZsdWVuY2VkIHN0dWRpZXMgYnkgUG9vbiBhbmQgQmFyemlsYWk/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIHBhc3NhZ2UgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0IHRoZSB1bHRpbWF0ZSBnb2FsIG9mIEJhcnppbGFpJ3Mgc3R1ZHkgd2FzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbXBhcmUgdGhlIGdlbmVzIG9mIHRoZSBBbWlzaCBhbmQgQXNoa2VuYXppIEpld3MgdG8gaWRlbnRpZnkgc2hhcmVkIGdlbmV0aWMgbWF0ZXJpYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRldmVsb3AgZHJ1Z3MgdGhhdCB3b3VsZCBtaW1pYyB0aGUgZnVuY3Rpb25zIG9mIGxpZmUtZXh0ZW5kaW5nIGdlbmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRpc3Byb3ZlIFBvb24ncyB0aGVvcnkgdGhhdCBnZW5lcyBjYW4gZ3VhcmFudGVlIGEgYmV0dGVyIGNoYW5jZSBvZiBsaXZpbmcgYSBsb25nZXIgbGlmZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRpc2NvdmVyIHdoYXQgcm9sZSBkaXZlcnNpdHkgcGxheXMgaW4gaGVscGluZyBjZXJ0YWluIGdyb3VwcyBsaXZlIGxvbmdlciBsaXZlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3Qgc3VtbWFyaXplcyBQZXJscydzIHRoZW9yeSwgYXMgaXQgaXMgZGVzY3JpYmVkIGluIHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEdlbmVyaWNzLiBub3QgZW52aXJvbm1lbnQsIHByaW1hcmlseSBkZXRlcm1pbmVzIGxvbmdldml0eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEVudmlyb25tZW50IHBsYXlzIGp1c3QgYXMgc3Ryb25nIGEgcm9sZSBhcyBnZW5ldGljcyBpbiBsb25nZXZpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFNpYmxpbmdzIG9mIGNlbnRlbmFyaWFucy4gYnV0IG5vdCB0aGVpciBwYXJlbnRzLCBoYXZlIGEgYmV0dGVyIGNoYW5jZSBvZiBsaXZpbmcgdG8gbDAwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNpYmxpbmdzIG9mIGNlbnRlbmFyaWFucyB0ZW5kIHRvIGxpdmUgbG9uZ2VyLXRoYW4tbm9ybWFsIGxpdmVzIGR1ZSB0byBwb3NpdGl2ZSBlbnZpcm9ubWVudGFsIGluZmx1ZW5jZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gSWYgdGhlIGxhc3QgcGFyYWdyYXBoIHdlcmUgZGVsZXRlZCwgdGhlIHBhc3NhZ2Ugd291bGQgcHJpbWFyaWx5IGxvc2UgZGV0YWlscyB0aGF0IGluZGljYXRlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEJhcnppbGFpIGFuZCBQb29uIHdvcmtlZCB3aXRoIHRoZSBzYW1lIGdyb3VwIG9mIGNlbnRlbmFyaWFucyBpbiB0aGVpciByZXNwZWN0aXZlIHN0dWRpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1YmplY3RzIGluIGxvbmdldml0eSBzdHVkaWVzIGFyZSBpbnRlcnZpZXdlZCBpbiB0aGVpciAyMHMuIDUwcywgYW5kIDgwcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEJhcnppbGFpJ3MgYW5kIFBvb24ncyBzdHVkaWVzIGFyZSByZWxhdGl2ZWx5IGluY29uY2x1c2l2ZSBpbiBkZXRlcm1pbmluZyBjYXVzZXMgYW5kIGVmZmVjdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNlbnRlbmFyaWFucyBhcmUgbW9yZSBmbGV4aWJsZSBpbiB0aGVpciBsYXRlciB5ZWFycyB0aGFuIHRoZXkgd2VyZSBpbiB0aGVpciB5b3V0aC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgZmlyc3QgcGFyYWdyYXBoIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRlbW9uc3RyYXRlIHRoYXQgYW50aWNpcGF0aW5nIHRoZSBlbmQgb2YgbGlmZSBjYW4gYWN0dWFsbHkgbGVhZCBhIHBlcnNvbiB0byBsaXZlIGxvbmdlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBvaW50IG91dCBDYWxtZW50J3MgcmVzaWduYXRpb24gdG8gdGhlIGNpcmN1bXN0YW5jZXMgb2YgaGVyIGxpZmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1Z2dlc3QgdGhhdCBhdGhsZXRlcyBhcmUgbW9yZSBsaWtlbHkgdGhhbiBub24tYXRobGV0ZXMgdG8gbGl2ZSBsb25nIGxpdmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByb3ZpZGUgYW4gYW5lY2RvdGUgdG8gaW50cm9kdWNlIHRoZSB2YXJpb3VzIGFjY291bnRzIG9mIGxvbmdldml0eSBzdHVkaWVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgMTQ0IHN1YmplY3RzIGluIFBvb24ncyBzdHVkeSBzaGFyZWQgYWxsIG9mIHRoZSBmb2xsb3dpbmcgY2hhcmFjdGVyaXN0aWNzIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJlaW5nIGNlbnRlbmFyaWFucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlaW5nIHJlc3RlZCByZWd1bGFybHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJlaW5nIGNvZ25pdGl2ZWx5IGludGFjdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxpdmluZyBpbmRlcGVuZGVudGx5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIFBvb24sIGxlYXJuaW5nIGFib3V0IHRoZSBkaXZlcnNpdHkgb2YgdHJhaXRzIGNlbnRlbmFyaWFucyBzaGFyZSAiaXNuJ3QgYSBiYWQgcmVzdWx0IiAobGluZSAzMSkgYmVjYXVzZSB0aGlzIG1lYW5zIHRoYXQgcGVvcGxlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNhbiBvdmVyY29tZSB0aGUgbmVnYXRpdmUgZWZmZWN0cyBvZiBhbiB1bmhlYWx0aHkgbGlmZXN0eWxlIHRocm91Z2ggcG9zaXRpdmUgdGhpbmtpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhdmUgYSBiZXR0ZXIgY2hhbmNlIG9mIGZpbmRpbmcgc29tZXRoaW5nIHRvIGNoYW5nZSB0aGF0IGlzIHJlbGV2YW50IHRvIHRoZWlyIG93biBsaXZlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNhbiBndWFyYW50ZWUgdGhlaXIgb3duIGxvbmdldml0eSBieSBjb250aW51YWxseSBjaGFuZ2luZyB0aGVpciBiZWhhdmlvcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyZSBwb3dlcmxlc3MgdG8gY2hhbmdlIHRoZWlyIGZhdGVz4oCUdGhleSBlaXRoZXIgaGF2ZSB0aGUgdHJhaXRzIGZvciBsb25nZXZpdHkgb3IgdGhleSBkb24ndDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHBhaXJzIG9mIHJlc2VhcmNoZXJzIGNvbGxhYm9yYXRlcyBpbiB0aGUgc3R1ZHkgb2YgbG9uZ2V2aXR5IGdlbmVzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBlcmxzIGFuZCBCYXJ6aWxhaTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFN1em1hbiBhbmQgQmFyemlsYWk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFBvb24gYW5kIFBlcmxzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFN1em1hbiBhbmQgUGVybHM8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

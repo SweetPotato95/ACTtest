@@ -1,104 +1,104 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Farewell to Mr. Fix-It” by James Surowiecki (?2001 by The Conde Nast Publications Inc.).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ricardo Gomez runs an electronics-repair shop in Brooklyn. He started in the business fifteen years ago. Today, he can fix just about anything, from tape-eating VCRs to CD players with errant lasers. The one thing he can't fix is the fact that people don't seem to get things fixed anymore.</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlIOKAnEZhcmV3ZWxsIHRvIE1yLiBGaXgtSXTigD8gYnkgSmFtZXMgU3Vyb3dpZWNraSAoPzIwMDEgYnkgVGhlIENvbmRlIE5hc3QgUHVibGljYXRpb25zIEluYy4pLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJpY2FyZG8gR29tZXogcnVucyBhbiBlbGVjdHJvbmljcy1yZXBhaXIgc2hvcCBpbiBCcm9va2x5bi4gSGUgc3RhcnRlZCBpbiB0aGUgYnVzaW5lc3MgZmlmdGVlbiB5ZWFycyBhZ28uIFRvZGF5LCBoZSBjYW4gZml4IGp1c3QgYWJvdXQgYW55dGhpbmcsIGZyb20gdGFwZS1lYXRpbmcgVkNScyB0byBDRCBwbGF5ZXJzIHdpdGggZXJyYW50IGxhc2Vycy4gVGhlIG9uZSB0aGluZyBoZSBjYW4ndCBmaXggaXMgdGhlIGZhY3QgdGhhdCBwZW9wbGUgZG9uJ3Qgc2VlbSB0byBnZXQgdGhpbmdzIGZpeGVkIGFueW1vcmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Years ago, I had more work," Gomez says. "But today prices have come down so much for things like TVs and VCRs that people would rather just buy a new one than fix an old one. That also means that I can't charge that much for repairs. It's a tough life, being a technician."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJZZWFycyBhZ28sIEkgaGFkIG1vcmUgd29yaywiIEdvbWV6IHNheXMuICJCdXQgdG9kYXkgcHJpY2VzIGhhdmUgY29tZSBkb3duIHNvIG11Y2ggZm9yIHRoaW5ncyBsaWtlIFRWcyBhbmQgVkNScyB0aGF0IHBlb3BsZSB3b3VsZCByYXRoZXIganVzdCBidXkgYSBuZXcgb25lIHRoYW4gZml4IGFuIG9sZCBvbmUuIFRoYXQgYWxzbyBtZWFucyB0aGF0IEkgY2FuJ3QgY2hhcmdlIHRoYXQgbXVjaCBmb3IgcmVwYWlycy4gSXQncyBhIHRvdWdoIGxpZmUsIGJlaW5nIGEgdGVjaG5pY2lhbi4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">And it's getting tougher. The shelves at the back of Gomez's shop hold rows of TVs and VCRs with their innards spilling out, but Gomez makes just a slim profit on them. He charges around forty dollars to fix a VCR, a bit more for a stereo or a TV. There are some things he generally doesn't bother with—camcorders, some brands of disc-players—because it costs as much to buy parts as it would to buy a replacement. But at least he's still in business. By some accounts, only a fifth of the repair shops that were open fifteen years ago are around today. Even the computer-service business is slow. In the good old days, the repair trade was a business where you were guaranteed a steady stream of customers. Today, about all you're guaranteed is a long lunch break.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuZCBpdCdzIGdldHRpbmcgdG91Z2hlci4gVGhlIHNoZWx2ZXMgYXQgdGhlIGJhY2sgb2YgR29tZXoncyBzaG9wIGhvbGQgcm93cyBvZiBUVnMgYW5kIFZDUnMgd2l0aCB0aGVpciBpbm5hcmRzIHNwaWxsaW5nIG91dCwgYnV0IEdvbWV6IG1ha2VzIGp1c3QgYSBzbGltIHByb2ZpdCBvbiB0aGVtLiBIZSBjaGFyZ2VzIGFyb3VuZCBmb3J0eSBkb2xsYXJzIHRvIGZpeCBhIFZDUiwgYSBiaXQgbW9yZSBmb3IgYSBzdGVyZW8gb3IgYSBUVi4gVGhlcmUgYXJlIHNvbWUgdGhpbmdzIGhlIGdlbmVyYWxseSBkb2Vzbid0IGJvdGhlciB3aXRo4oCUY2FtY29yZGVycywgc29tZSBicmFuZHMgb2YgZGlzYy1wbGF5ZXJz4oCUYmVjYXVzZSBpdCBjb3N0cyBhcyBtdWNoIHRvIGJ1eSBwYXJ0cyBhcyBpdCB3b3VsZCB0byBidXkgYSByZXBsYWNlbWVudC4gQnV0IGF0IGxlYXN0IGhlJ3Mgc3RpbGwgaW4gYnVzaW5lc3MuIEJ5IHNvbWUgYWNjb3VudHMsIG9ubHkgYSBmaWZ0aCBvZiB0aGUgcmVwYWlyIHNob3BzIHRoYXQgd2VyZSBvcGVuIGZpZnRlZW4geWVhcnMgYWdvIGFyZSBhcm91bmQgdG9kYXkuIEV2ZW4gdGhlIGNvbXB1dGVyLXNlcnZpY2UgYnVzaW5lc3MgaXMgc2xvdy4gSW4gdGhlIGdvb2Qgb2xkIGRheXMsIHRoZSByZXBhaXIgdHJhZGUgd2FzIGEgYnVzaW5lc3Mgd2hlcmUgeW91IHdlcmUgZ3VhcmFudGVlZCBhIHN0ZWFkeSBzdHJlYW0gb2YgY3VzdG9tZXJzLiBUb2RheSwgYWJvdXQgYWxsIHlvdSdyZSBndWFyYW50ZWVkIGlzIGEgbG9uZyBsdW5jaCBicmVhay48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=11>That's because the repair business is on the wrong side of the most powerful trends in global manufacturing of the past twenty years: the sharp rise in quality and the steady decline in price. When it comes to most manufactured goods, these are the good old days. Products are more reliable and more durable than ever. In a recent survey, Consumer Reports found that, in most product categories, repair rates were' between just ten and twenty per cent.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTExPlRoYXQncyBiZWNhdXNlIHRoZSByZXBhaXIgYnVzaW5lc3MgaXMgb24gdGhlIHdyb25nIHNpZGUgb2YgdGhlIG1vc3QgcG93ZXJmdWwgdHJlbmRzIGluIGdsb2JhbCBtYW51ZmFjdHVyaW5nIG9mIHRoZSBwYXN0IHR3ZW50eSB5ZWFyczogdGhlIHNoYXJwIHJpc2UgaW4gcXVhbGl0eSBhbmQgdGhlIHN0ZWFkeSBkZWNsaW5lIGluIHByaWNlLiBXaGVuIGl0IGNvbWVzIHRvIG1vc3QgbWFudWZhY3R1cmVkIGdvb2RzLCB0aGVzZSBhcmUgdGhlIGdvb2Qgb2xkIGRheXMuIFByb2R1Y3RzIGFyZSBtb3JlIHJlbGlhYmxlIGFuZCBtb3JlIGR1cmFibGUgdGhhbiBldmVyLiBJbiBhIHJlY2VudCBzdXJ2ZXksIENvbnN1bWVyIFJlcG9ydHMgZm91bmQgdGhhdCwgaW4gbW9zdCBwcm9kdWN0IGNhdGVnb3JpZXMsIHJlcGFpciByYXRlcyB3ZXJlJyBiZXR3ZWVuIGp1c3QgdGVuIGFuZCB0d2VudHkgcGVyIGNlbnQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The average life of a car is up by nearly half since 1970, All this, and stuff often actually costs less. Your run-of-the-mill VCR is forty per cent cheaper than it was seven years ago. High quality, low price: for the repair shop it's a deadly combination.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBhdmVyYWdlIGxpZmUgb2YgYSBjYXIgaXMgdXAgYnkgbmVhcmx5IGhhbGYgc2luY2UgMTk3MCwgQWxsIHRoaXMsIGFuZCBzdHVmZiBvZnRlbiBhY3R1YWxseSBjb3N0cyBsZXNzLiBZb3VyIHJ1bi1vZi10aGUtbWlsbCBWQ1IgaXMgZm9ydHkgcGVyIGNlbnQgY2hlYXBlciB0aGFuIGl0IHdhcyBzZXZlbiB5ZWFycyBhZ28uIEhpZ2ggcXVhbGl0eSwgbG93IHByaWNlOiBmb3IgdGhlIHJlcGFpciBzaG9wIGl0J3MgYSBkZWFkbHkgY29tYmluYXRpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"You don't find the kinds of things you had decades ago, like toasters that could electrocute you or TVs that blew up," David Heim, the managing editor of Consumer Reports, says. "If you buy a TV, you're going to get a good picture, and if you buy a stereo you're going to get great sound. In fact, the guy who used to test stereos for us told me that you cannot buy a bad stereo. <font id=11>They don't make the parts anymore." </font></font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJZb3UgZG9uJ3QgZmluZCB0aGUga2luZHMgb2YgdGhpbmdzIHlvdSBoYWQgZGVjYWRlcyBhZ28sIGxpa2UgdG9hc3RlcnMgdGhhdCBjb3VsZCBlbGVjdHJvY3V0ZSB5b3Ugb3IgVFZzIHRoYXQgYmxldyB1cCwiIERhdmlkIEhlaW0sIHRoZSBtYW5hZ2luZyBlZGl0b3Igb2YgQ29uc3VtZXIgUmVwb3J0cywgc2F5cy4gIklmIHlvdSBidXkgYSBUViwgeW91J3JlIGdvaW5nIHRvIGdldCBhIGdvb2QgcGljdHVyZSwgYW5kIGlmIHlvdSBidXkgYSBzdGVyZW8geW91J3JlIGdvaW5nIHRvIGdldCBncmVhdCBzb3VuZC4gSW4gZmFjdCwgdGhlIGd1eSB3aG8gdXNlZCB0byB0ZXN0IHN0ZXJlb3MgZm9yIHVzIHRvbGQgbWUgdGhhdCB5b3UgY2Fubm90IGJ1eSBhIGJhZCBzdGVyZW8uIDxmb250IGlkPTExPlRoZXkgZG9uJ3QgbWFrZSB0aGUgcGFydHMgYW55bW9yZS4iIDwvZm9udD48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>Americans have become the most demanding consumers in the history of the world—we expect our machines to work. Nonetheless, we have a vestigial memory of the days when they didn't. How else to explain the fact that, every year, people shell out millions of dollars on extended warranties that they seldom get a chance to take advantage of? </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE0PkFtZXJpY2FucyBoYXZlIGJlY29tZSB0aGUgbW9zdCBkZW1hbmRpbmcgY29uc3VtZXJzIGluIHRoZSBoaXN0b3J5IG9mIHRoZSB3b3JsZOKAlHdlIGV4cGVjdCBvdXIgbWFjaGluZXMgdG8gd29yay4gTm9uZXRoZWxlc3MsIHdlIGhhdmUgYSB2ZXN0aWdpYWwgbWVtb3J5IG9mIHRoZSBkYXlzIHdoZW4gdGhleSBkaWRuJ3QuIEhvdyBlbHNlIHRvIGV4cGxhaW4gdGhlIGZhY3QgdGhhdCwgZXZlcnkgeWVhciwgcGVvcGxlIHNoZWxsIG91dCBtaWxsaW9ucyBvZiBkb2xsYXJzIG9uIGV4dGVuZGVkIHdhcnJhbnRpZXMgdGhhdCB0aGV5IHNlbGRvbSBnZXQgYSBjaGFuY2UgdG8gdGFrZSBhZHZhbnRhZ2Ugb2Y/IDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For manufacturers and retailers, warranties are easy money. Service plans usually run just two or three years and cover products that either will last much longer or are easily replaced. The consumer pays up front and rarely collects. You can see the results in the quarterly reports for any major electronics retailer. A big chunk of the profit margin comes from the sale of extended warranties. Some retailers even call customers months after a sale to offer repairs plans and warranties. Needless to say, they wouldn't make such offers if they really believed that your TV was likely to go on the fritz. But folks still bite. "People spend a lot of money for a little extra peace of mind," Heim says.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBtYW51ZmFjdHVyZXJzIGFuZCByZXRhaWxlcnMsIHdhcnJhbnRpZXMgYXJlIGVhc3kgbW9uZXkuIFNlcnZpY2UgcGxhbnMgdXN1YWxseSBydW4ganVzdCB0d28gb3IgdGhyZWUgeWVhcnMgYW5kIGNvdmVyIHByb2R1Y3RzIHRoYXQgZWl0aGVyIHdpbGwgbGFzdCBtdWNoIGxvbmdlciBvciBhcmUgZWFzaWx5IHJlcGxhY2VkLiBUaGUgY29uc3VtZXIgcGF5cyB1cCBmcm9udCBhbmQgcmFyZWx5IGNvbGxlY3RzLiBZb3UgY2FuIHNlZSB0aGUgcmVzdWx0cyBpbiB0aGUgcXVhcnRlcmx5IHJlcG9ydHMgZm9yIGFueSBtYWpvciBlbGVjdHJvbmljcyByZXRhaWxlci4gQSBiaWcgY2h1bmsgb2YgdGhlIHByb2ZpdCBtYXJnaW4gY29tZXMgZnJvbSB0aGUgc2FsZSBvZiBleHRlbmRlZCB3YXJyYW50aWVzLiBTb21lIHJldGFpbGVycyBldmVuIGNhbGwgY3VzdG9tZXJzIG1vbnRocyBhZnRlciBhIHNhbGUgdG8gb2ZmZXIgcmVwYWlycyBwbGFucyBhbmQgd2FycmFudGllcy4gTmVlZGxlc3MgdG8gc2F5LCB0aGV5IHdvdWxkbid0IG1ha2Ugc3VjaCBvZmZlcnMgaWYgdGhleSByZWFsbHkgYmVsaWV2ZWQgdGhhdCB5b3VyIFRWIHdhcyBsaWtlbHkgdG8gZ28gb24gdGhlIGZyaXR6LiBCdXQgZm9sa3Mgc3RpbGwgYml0ZS4gIlBlb3BsZSBzcGVuZCBhIGxvdCBvZiBtb25leSBmb3IgYSBsaXR0bGUgZXh0cmEgcGVhY2Ugb2YgbWluZCwiIEhlaW0gc2F5cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The lingering allure of warranties is understandable if you consider how recent the quality revolution is. Before the nineteen-eighties, most American corporations saw quality as something, that cost them a lot and profited them little. They believed that it didn't play a big role in a consumer's decision to buy a product, and that there was no way to make things both better and. cheaper. Japan's success in the seventies changed that. Japanese, companies, influenced by the ideas of the quality-control guru W. Edwards Deming, began winning market share by producing televisions, cameras, cars, and VCRs that were vastly superior to American products. Eventually, American companies woke up and adapted Deming as a prophet.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBsaW5nZXJpbmcgYWxsdXJlIG9mIHdhcnJhbnRpZXMgaXMgdW5kZXJzdGFuZGFibGUgaWYgeW91IGNvbnNpZGVyIGhvdyByZWNlbnQgdGhlIHF1YWxpdHkgcmV2b2x1dGlvbiBpcy4gQmVmb3JlIHRoZSBuaW5ldGVlbi1laWdodGllcywgbW9zdCBBbWVyaWNhbiBjb3Jwb3JhdGlvbnMgc2F3IHF1YWxpdHkgYXMgc29tZXRoaW5nLCB0aGF0IGNvc3QgdGhlbSBhIGxvdCBhbmQgcHJvZml0ZWQgdGhlbSBsaXR0bGUuIFRoZXkgYmVsaWV2ZWQgdGhhdCBpdCBkaWRuJ3QgcGxheSBhIGJpZyByb2xlIGluIGEgY29uc3VtZXIncyBkZWNpc2lvbiB0byBidXkgYSBwcm9kdWN0LCBhbmQgdGhhdCB0aGVyZSB3YXMgbm8gd2F5IHRvIG1ha2UgdGhpbmdzIGJvdGggYmV0dGVyIGFuZC4gY2hlYXBlci4gSmFwYW4ncyBzdWNjZXNzIGluIHRoZSBzZXZlbnRpZXMgY2hhbmdlZCB0aGF0LiBKYXBhbmVzZSwgY29tcGFuaWVzLCBpbmZsdWVuY2VkIGJ5IHRoZSBpZGVhcyBvZiB0aGUgcXVhbGl0eS1jb250cm9sIGd1cnUgVy4gRWR3YXJkcyBEZW1pbmcsIGJlZ2FuIHdpbm5pbmcgbWFya2V0IHNoYXJlIGJ5IHByb2R1Y2luZyB0ZWxldmlzaW9ucywgY2FtZXJhcywgY2FycywgYW5kIFZDUnMgdGhhdCB3ZXJlIHZhc3RseSBzdXBlcmlvciB0byBBbWVyaWNhbiBwcm9kdWN0cy4gRXZlbnR1YWxseSwgQW1lcmljYW4gY29tcGFuaWVzIHdva2UgdXAgYW5kIGFkYXB0ZWQgRGVtaW5nIGFzIGEgcHJvcGhldC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The impact of the quality revolution was immediate. The marketplace no longer tolerates shoddy products. Consumers have grown so accustomed to things being ever cheaper and ever more reliable that companies have to keep driving cost down and quality up just to stay in the game.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpbXBhY3Qgb2YgdGhlIHF1YWxpdHkgcmV2b2x1dGlvbiB3YXMgaW1tZWRpYXRlLiBUaGUgbWFya2V0cGxhY2Ugbm8gbG9uZ2VyIHRvbGVyYXRlcyBzaG9kZHkgcHJvZHVjdHMuIENvbnN1bWVycyBoYXZlIGdyb3duIHNvIGFjY3VzdG9tZWQgdG8gdGhpbmdzIGJlaW5nIGV2ZXIgY2hlYXBlciBhbmQgZXZlciBtb3JlIHJlbGlhYmxlIHRoYXQgY29tcGFuaWVzIGhhdmUgdG8ga2VlcCBkcml2aW5nIGNvc3QgZG93biBhbmQgcXVhbGl0eSB1cCBqdXN0IHRvIHN0YXkgaW4gdGhlIGdhbWUuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. In the context of lines 28-49, the statement "They don't, make the parts anymore" (line 49) is used to support the idea that:
-<div class = "choice">A. it is hard for repair-shop owners to find the parts for electronic devices made before 1980.</div>
-<div class = "choice">B. no one knows as well as repair-shop owners how long it takes to receive parts from manufacturers.</div>
-<div class = "choice">C. consumers are increasingly frustrated over products that have to be replaced rather than repaired when they break down.</div>
-<div class = "choice">D. manufacturers are making products of a higher quality and durability than before.</div>
-</div>
-###################
-<div class = "quiz">12. It can reasonably be inferred from the passage that Heim's attitude toward the plight of repair workers is that they:
-<div class = "choice">F. unknowingly helped create the circumstances that are putting them business.</div>
-<div class = "choice">G. are casualties of changes in manufacturing practices that have many positive outcomes for consumers.</div>
-<div class = "choice">H. deserve the increased income from work that is a result of the widespread success of extended warranties.</div>
-<div class = "choice">J. would be wise to specialize in the advanced electronics products on the market today rather than on the products that date back a decade or more.</div>
-</div>
-###################
-<div class = "quiz">13. It can reasonably be inferred from the passage that before the 1980s, the percentage of most categories of American manufactured products that required repair was:
-<div class = "choice">A. under 10 percent.</div>
-<div class = "choice">B. between 10 and 15 percent.</div>
-<div class = "choice">C. between 15 and 20 percent.</div>
-<div class = "choice">D. 20 percent or more.</div>
-</div>
-###################
-<div class = "quiz">14. Which of the following best expresses the paradox described in the seventh paragraph (lines 50-56)?
-<div class = "choice">F. Manufacturers are selling more products than ever to American consumers but having to spend less than ever on sales promotions.</div>
-<div class = "choice">G. Americans are spending more on repairs than ever before and less than ever on adequate warranties.</div>
-<div class = "choice">H. Products are more reliable than ever, but Americans are spending a great deal on extended warranties.</div>
-<div class = "choice">J. American consumers are complaining more than ever about the quality of manufactured products, but products have never been more reliable.</div>
-</div>
-###################
-<div class = "quiz">15. According to the passage, the impact of extended warranties on the financial status of American electronics businesses is that the warranties account for a:
-<div class = "choice">A. significant loss that is usually compensated for by high sales of high-quality products.</div>
-<div class = "choice">B. small loss that is easily compensated for by skyrocketing sales of an increasingly varied range of products.</div>
-<div class = "choice">C. substantial portion of the profits earned by these companies.</div>
-<div class = "choice">D. profit or loss depending on a company's ability to identify its market.</div>
-</div>
-###################
-<div class = "quiz">16. The author traces the quality revolution back to its origins in:
-<div class = "choice">F. Japan in the 1970s.</div>
-<div class = "choice">G. Japan in the l.980s,</div>
-<div class = "choice">H. the United States in the 1970s.</div>
-<div class = "choice">J. the United States in the 1980s.</div>
-</div>
-###################
-<div class = "quiz">17. The main point of the first paragraph is that:
-<div class = "choice">A. even highly competent and experienced repair technicians are struggling under current market conditions.</div>
-<div class = "choice">B. tape-eating VCRs are harder to fix than CD players with errant lasers.</div>
-<div class = "choice">C. Gomez takes on more work to compensate for the fact that he can't increase his repair-work rates.</div>
-<div class = "choice">D. fifteen years ago Gomez could not fix a VCR but today he is an expert at it.</div>
-</div>
-###################
-<div class = "quiz">18. According to the passage, which of the following statements is accurate regarding the decline in the number of repair shops?
-<div class = "choice">F. Of the repair shops in business fifteen years ago, only one in five is still open.</div>
-<div class = "choice">G. Of the repair shops open twenty years ago, only 5 percent are still in business.</div>
-<div class = "choice">H. Twenty percent of the repair shops that specialize in TVs and VCRs are expected to close in the next five years</div>
-<div class = "choice">J. Half of the electronics repair shops in New York City are expected to close in the next ten years.</div>
-</div>
-###################
-<div class = "quiz">19. The passage states that before the 1980s, most American corporations viewed quality as all of the following EXCEPT:
-<div class = "choice">A. almost irrelevant to consumers' buying decisions.</div>
-<div class = "choice">B. some thing that could not be achieved at the same time as lowering prices:</div>
-<div class = "choice">C. something that cost them a lot.</div>
-<div class = "choice">D. an unnecessary hardship on the repair industry and therefore to be avoided.</div>
-</div>
-###################
-<div class = "quiz">20. According to the passage, Deming's role in the quality revolution is as:
-<div class = "choice">F. a spokesperson for the electronics-repair industry.</div>
-<div class = "choice">G. an American manufacturer who brought Japanese ideas to the American market.</div>
-<div class = "choice">H. an influential figure in shifting the Japanese and American manufacturing industries to produce high-quality goods for a low price.</div>
-<div class = "choice">J. a journalist for Consumer Reports focusing on the issue of international growth in the quality of manufactured goods.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gSW4gdGhlIGNvbnRleHQgb2YgbGluZXMgMjgtNDksIHRoZSBzdGF0ZW1lbnQgIlRoZXkgZG9uJ3QsIG1ha2UgdGhlIHBhcnRzIGFueW1vcmUiIChsaW5lIDQ5KSBpcyB1c2VkIHRvIHN1cHBvcnQgdGhlIGlkZWEgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGl0IGlzIGhhcmQgZm9yIHJlcGFpci1zaG9wIG93bmVycyB0byBmaW5kIHRoZSBwYXJ0cyBmb3IgZWxlY3Ryb25pYyBkZXZpY2VzIG1hZGUgYmVmb3JlIDE5ODAuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG5vIG9uZSBrbm93cyBhcyB3ZWxsIGFzIHJlcGFpci1zaG9wIG93bmVycyBob3cgbG9uZyBpdCB0YWtlcyB0byByZWNlaXZlIHBhcnRzIGZyb20gbWFudWZhY3R1cmVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnN1bWVycyBhcmUgaW5jcmVhc2luZ2x5IGZydXN0cmF0ZWQgb3ZlciBwcm9kdWN0cyB0aGF0IGhhdmUgdG8gYmUgcmVwbGFjZWQgcmF0aGVyIHRoYW4gcmVwYWlyZWQgd2hlbiB0aGV5IGJyZWFrIGRvd24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1hbnVmYWN0dXJlcnMgYXJlIG1ha2luZyBwcm9kdWN0cyBvZiBhIGhpZ2hlciBxdWFsaXR5IGFuZCBkdXJhYmlsaXR5IHRoYW4gYmVmb3JlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IEhlaW0ncyBhdHRpdHVkZSB0b3dhcmQgdGhlIHBsaWdodCBvZiByZXBhaXIgd29ya2VycyBpcyB0aGF0IHRoZXk6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVua25vd2luZ2x5IGhlbHBlZCBjcmVhdGUgdGhlIGNpcmN1bXN0YW5jZXMgdGhhdCBhcmUgcHV0dGluZyB0aGVtIGJ1c2luZXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFyZSBjYXN1YWx0aWVzIG9mIGNoYW5nZXMgaW4gbWFudWZhY3R1cmluZyBwcmFjdGljZXMgdGhhdCBoYXZlIG1hbnkgcG9zaXRpdmUgb3V0Y29tZXMgZm9yIGNvbnN1bWVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlc2VydmUgdGhlIGluY3JlYXNlZCBpbmNvbWUgZnJvbSB3b3JrIHRoYXQgaXMgYSByZXN1bHQgb2YgdGhlIHdpZGVzcHJlYWQgc3VjY2VzcyBvZiBleHRlbmRlZCB3YXJyYW50aWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdvdWxkIGJlIHdpc2UgdG8gc3BlY2lhbGl6ZSBpbiB0aGUgYWR2YW5jZWQgZWxlY3Ryb25pY3MgcHJvZHVjdHMgb24gdGhlIG1hcmtldCB0b2RheSByYXRoZXIgdGhhbiBvbiB0aGUgcHJvZHVjdHMgdGhhdCBkYXRlIGJhY2sgYSBkZWNhZGUgb3IgbW9yZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IGJlZm9yZSB0aGUgMTk4MHMsIHRoZSBwZXJjZW50YWdlIG9mIG1vc3QgY2F0ZWdvcmllcyBvZiBBbWVyaWNhbiBtYW51ZmFjdHVyZWQgcHJvZHVjdHMgdGhhdCByZXF1aXJlZCByZXBhaXIgd2FzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHVuZGVyIDEwIHBlcmNlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMTAgYW5kIDE1IHBlcmNlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gMTUgYW5kIDIwIHBlcmNlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIwIHBlcmNlbnQgb3IgbW9yZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGV4cHJlc3NlcyB0aGUgcGFyYWRveCBkZXNjcmliZWQgaW4gdGhlIHNldmVudGggcGFyYWdyYXBoIChsaW5lcyA1MC01Nik/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE1hbnVmYWN0dXJlcnMgYXJlIHNlbGxpbmcgbW9yZSBwcm9kdWN0cyB0aGFuIGV2ZXIgdG8gQW1lcmljYW4gY29uc3VtZXJzIGJ1dCBoYXZpbmcgdG8gc3BlbmQgbGVzcyB0aGFuIGV2ZXIgb24gc2FsZXMgcHJvbW90aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFtZXJpY2FucyBhcmUgc3BlbmRpbmcgbW9yZSBvbiByZXBhaXJzIHRoYW4gZXZlciBiZWZvcmUgYW5kIGxlc3MgdGhhbiBldmVyIG9uIGFkZXF1YXRlIHdhcnJhbnRpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFByb2R1Y3RzIGFyZSBtb3JlIHJlbGlhYmxlIHRoYW4gZXZlciwgYnV0IEFtZXJpY2FucyBhcmUgc3BlbmRpbmcgYSBncmVhdCBkZWFsIG9uIGV4dGVuZGVkIHdhcnJhbnRpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFtZXJpY2FuIGNvbnN1bWVycyBhcmUgY29tcGxhaW5pbmcgbW9yZSB0aGFuIGV2ZXIgYWJvdXQgdGhlIHF1YWxpdHkgb2YgbWFudWZhY3R1cmVkIHByb2R1Y3RzLCBidXQgcHJvZHVjdHMgaGF2ZSBuZXZlciBiZWVuIG1vcmUgcmVsaWFibGUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgaW1wYWN0IG9mIGV4dGVuZGVkIHdhcnJhbnRpZXMgb24gdGhlIGZpbmFuY2lhbCBzdGF0dXMgb2YgQW1lcmljYW4gZWxlY3Ryb25pY3MgYnVzaW5lc3NlcyBpcyB0aGF0IHRoZSB3YXJyYW50aWVzIGFjY291bnQgZm9yIGE6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHNpZ25pZmljYW50IGxvc3MgdGhhdCBpcyB1c3VhbGx5IGNvbXBlbnNhdGVkIGZvciBieSBoaWdoIHNhbGVzIG9mIGhpZ2gtcXVhbGl0eSBwcm9kdWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNtYWxsIGxvc3MgdGhhdCBpcyBlYXNpbHkgY29tcGVuc2F0ZWQgZm9yIGJ5IHNreXJvY2tldGluZyBzYWxlcyBvZiBhbiBpbmNyZWFzaW5nbHkgdmFyaWVkIHJhbmdlIG9mIHByb2R1Y3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1YnN0YW50aWFsIHBvcnRpb24gb2YgdGhlIHByb2ZpdHMgZWFybmVkIGJ5IHRoZXNlIGNvbXBhbmllcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByb2ZpdCBvciBsb3NzIGRlcGVuZGluZyBvbiBhIGNvbXBhbnkncyBhYmlsaXR5IHRvIGlkZW50aWZ5IGl0cyBtYXJrZXQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIGF1dGhvciB0cmFjZXMgdGhlIHF1YWxpdHkgcmV2b2x1dGlvbiBiYWNrIHRvIGl0cyBvcmlnaW5zIGluOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEphcGFuIGluIHRoZSAxOTcwcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEphcGFuIGluIHRoZSBsLjk4MHMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBVbml0ZWQgU3RhdGVzIGluIHRoZSAxOTcwcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBVbml0ZWQgU3RhdGVzIGluIHRoZSAxOTgwcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIG1haW4gcG9pbnQgb2YgdGhlIGZpcnN0IHBhcmFncmFwaCBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV2ZW4gaGlnaGx5IGNvbXBldGVudCBhbmQgZXhwZXJpZW5jZWQgcmVwYWlyIHRlY2huaWNpYW5zIGFyZSBzdHJ1Z2dsaW5nIHVuZGVyIGN1cnJlbnQgbWFya2V0IGNvbmRpdGlvbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRhcGUtZWF0aW5nIFZDUnMgYXJlIGhhcmRlciB0byBmaXggdGhhbiBDRCBwbGF5ZXJzIHdpdGggZXJyYW50IGxhc2Vycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEdvbWV6IHRha2VzIG9uIG1vcmUgd29yayB0byBjb21wZW5zYXRlIGZvciB0aGUgZmFjdCB0aGF0IGhlIGNhbid0IGluY3JlYXNlIGhpcyByZXBhaXItd29yayByYXRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZpZnRlZW4geWVhcnMgYWdvIEdvbWV6IGNvdWxkIG5vdCBmaXggYSBWQ1IgYnV0IHRvZGF5IGhlIGlzIGFuIGV4cGVydCBhdCBpdC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgaXMgYWNjdXJhdGUgcmVnYXJkaW5nIHRoZSBkZWNsaW5lIGluIHRoZSBudW1iZXIgb2YgcmVwYWlyIHNob3BzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE9mIHRoZSByZXBhaXIgc2hvcHMgaW4gYnVzaW5lc3MgZmlmdGVlbiB5ZWFycyBhZ28sIG9ubHkgb25lIGluIGZpdmUgaXMgc3RpbGwgb3Blbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE9mIHRoZSByZXBhaXIgc2hvcHMgb3BlbiB0d2VudHkgeWVhcnMgYWdvLCBvbmx5IDUgcGVyY2VudCBhcmUgc3RpbGwgaW4gYnVzaW5lc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFR3ZW50eSBwZXJjZW50IG9mIHRoZSByZXBhaXIgc2hvcHMgdGhhdCBzcGVjaWFsaXplIGluIFRWcyBhbmQgVkNScyBhcmUgZXhwZWN0ZWQgdG8gY2xvc2UgaW4gdGhlIG5leHQgZml2ZSB5ZWFyczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEhhbGYgb2YgdGhlIGVsZWN0cm9uaWNzIHJlcGFpciBzaG9wcyBpbiBOZXcgWW9yayBDaXR5IGFyZSBleHBlY3RlZCB0byBjbG9zZSBpbiB0aGUgbmV4dCB0ZW4geWVhcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgYmVmb3JlIHRoZSAxOTgwcywgbW9zdCBBbWVyaWNhbiBjb3Jwb3JhdGlvbnMgdmlld2VkIHF1YWxpdHkgYXMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFsbW9zdCBpcnJlbGV2YW50IHRvIGNvbnN1bWVycycgYnV5aW5nIGRlY2lzaW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNvbWUgdGhpbmcgdGhhdCBjb3VsZCBub3QgYmUgYWNoaWV2ZWQgYXQgdGhlIHNhbWUgdGltZSBhcyBsb3dlcmluZyBwcmljZXM6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNvbWV0aGluZyB0aGF0IGNvc3QgdGhlbSBhIGxvdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIHVubmVjZXNzYXJ5IGhhcmRzaGlwIG9uIHRoZSByZXBhaXIgaW5kdXN0cnkgYW5kIHRoZXJlZm9yZSB0byBiZSBhdm9pZGVkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBEZW1pbmcncyByb2xlIGluIHRoZSBxdWFsaXR5IHJldm9sdXRpb24gaXMgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgc3Bva2VzcGVyc29uIGZvciB0aGUgZWxlY3Ryb25pY3MtcmVwYWlyIGluZHVzdHJ5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIEFtZXJpY2FuIG1hbnVmYWN0dXJlciB3aG8gYnJvdWdodCBKYXBhbmVzZSBpZGVhcyB0byB0aGUgQW1lcmljYW4gbWFya2V0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuIGluZmx1ZW50aWFsIGZpZ3VyZSBpbiBzaGlmdGluZyB0aGUgSmFwYW5lc2UgYW5kIEFtZXJpY2FuIG1hbnVmYWN0dXJpbmcgaW5kdXN0cmllcyB0byBwcm9kdWNlIGhpZ2gtcXVhbGl0eSBnb29kcyBmb3IgYSBsb3cgcHJpY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgam91cm5hbGlzdCBmb3IgQ29uc3VtZXIgUmVwb3J0cyBmb2N1c2luZyBvbiB0aGUgaXNzdWUgb2YgaW50ZXJuYXRpb25hbCBncm93dGggaW4gdGhlIHF1YWxpdHkgb2YgbWFudWZhY3R1cmVkIGdvb2RzLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

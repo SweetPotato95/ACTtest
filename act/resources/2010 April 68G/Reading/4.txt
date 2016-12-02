@@ -1,92 +1,92 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from The Variety of Life by Colin Tudge (○c2000 by Oxford University Press).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Through all classification systems, whether devised by songbirds, professors of botany, or fishmongers, two separate sets of considerations run in parallel. The first is operational: how do you actually go about classifying? What criteria do you adopt to decide whether item A belongs in category X or category Y? A songbird weighing up a bird of prey perhaps looks for curvature of beak or length of claw-or, more probably, relies on overall impression or gestalt; and by such means it distinguishes a falcon from a cluck. For chefs, succulence on the inside and a crunchy carapace on the outside are the marks of shellfish.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBUaGUgVmFyaWV0eSBvZiBMaWZlIGJ5IENvbGluIFR1ZGdlICjil4tjMjAwMCBieSBPeGZvcmQgVW5pdmVyc2l0eSBQcmVzcykuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRocm91Z2ggYWxsIGNsYXNzaWZpY2F0aW9uIHN5c3RlbXMsIHdoZXRoZXIgZGV2aXNlZCBieSBzb25nYmlyZHMsIHByb2Zlc3NvcnMgb2YgYm90YW55LCBvciBmaXNobW9uZ2VycywgdHdvIHNlcGFyYXRlIHNldHMgb2YgY29uc2lkZXJhdGlvbnMgcnVuIGluIHBhcmFsbGVsLiBUaGUgZmlyc3QgaXMgb3BlcmF0aW9uYWw6IGhvdyBkbyB5b3UgYWN0dWFsbHkgZ28gYWJvdXQgY2xhc3NpZnlpbmc/IFdoYXQgY3JpdGVyaWEgZG8geW91IGFkb3B0IHRvIGRlY2lkZSB3aGV0aGVyIGl0ZW0gQSBiZWxvbmdzIGluIGNhdGVnb3J5IFggb3IgY2F0ZWdvcnkgWT8gQSBzb25nYmlyZCB3ZWlnaGluZyB1cCBhIGJpcmQgb2YgcHJleSBwZXJoYXBzIGxvb2tzIGZvciBjdXJ2YXR1cmUgb2YgYmVhayBvciBsZW5ndGggb2YgY2xhdy1vciwgbW9yZSBwcm9iYWJseSwgcmVsaWVzIG9uIG92ZXJhbGwgaW1wcmVzc2lvbiBvciBnZXN0YWx0OyBhbmQgYnkgc3VjaCBtZWFucyBpdCBkaXN0aW5ndWlzaGVzIGEgZmFsY29uIGZyb20gYSBjbHVjay4gRm9yIGNoZWZzLCBzdWNjdWxlbmNlIG9uIHRoZSBpbnNpZGUgYW5kIGEgY3J1bmNoeSBjYXJhcGFjZSBvbiB0aGUgb3V0c2lkZSBhcmUgdGhlIG1hcmtzIG9mIHNoZWxsZmlzaC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=32>If the criteria are made explicit, and can be repeated by other people simply by following the instructions-if, for example, they depend on qualities that can be measured, and are not judged simply according to personal taste-then those criteria can be called 'objective', But objective criteria may also be arbitrary. I might, for example, decree that all insects with legs over 2 centimetres long should be placed in a new grouping called 'mega-insects'. The criterion would be perfectly objective, in the sense that it is explicit and repeatable, Which would not be the case if I simply decreed that there should be a special category marked 'beautiful'. But although the grouping of mega-insects would be objectively defined it would also be arbitrary. Nothing very special distinguishes insects that just happen to be large, except their largeness.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMyPklmIHRoZSBjcml0ZXJpYSBhcmUgbWFkZSBleHBsaWNpdCwgYW5kIGNhbiBiZSByZXBlYXRlZCBieSBvdGhlciBwZW9wbGUgc2ltcGx5IGJ5IGZvbGxvd2luZyB0aGUgaW5zdHJ1Y3Rpb25zLWlmLCBmb3IgZXhhbXBsZSwgdGhleSBkZXBlbmQgb24gcXVhbGl0aWVzIHRoYXQgY2FuIGJlIG1lYXN1cmVkLCBhbmQgYXJlIG5vdCBqdWRnZWQgc2ltcGx5IGFjY29yZGluZyB0byBwZXJzb25hbCB0YXN0ZS10aGVuIHRob3NlIGNyaXRlcmlhIGNhbiBiZSBjYWxsZWQgJ29iamVjdGl2ZScsIEJ1dCBvYmplY3RpdmUgY3JpdGVyaWEgbWF5IGFsc28gYmUgYXJiaXRyYXJ5LiBJIG1pZ2h0LCBmb3IgZXhhbXBsZSwgZGVjcmVlIHRoYXQgYWxsIGluc2VjdHMgd2l0aCBsZWdzIG92ZXIgMiBjZW50aW1ldHJlcyBsb25nIHNob3VsZCBiZSBwbGFjZWQgaW4gYSBuZXcgZ3JvdXBpbmcgY2FsbGVkICdtZWdhLWluc2VjdHMnLiBUaGUgY3JpdGVyaW9uIHdvdWxkIGJlIHBlcmZlY3RseSBvYmplY3RpdmUsIGluIHRoZSBzZW5zZSB0aGF0IGl0IGlzIGV4cGxpY2l0IGFuZCByZXBlYXRhYmxlLCBXaGljaCB3b3VsZCBub3QgYmUgdGhlIGNhc2UgaWYgSSBzaW1wbHkgZGVjcmVlZCB0aGF0IHRoZXJlIHNob3VsZCBiZSBhIHNwZWNpYWwgY2F0ZWdvcnkgbWFya2VkICdiZWF1dGlmdWwnLiBCdXQgYWx0aG91Z2ggdGhlIGdyb3VwaW5nIG9mIG1lZ2EtaW5zZWN0cyB3b3VsZCBiZSBvYmplY3RpdmVseSBkZWZpbmVkIGl0IHdvdWxkIGFsc28gYmUgYXJiaXRyYXJ5LiBOb3RoaW5nIHZlcnkgc3BlY2lhbCBkaXN0aW5ndWlzaGVzIGluc2VjdHMgdGhhdCBqdXN0IGhhcHBlbiB0byBiZSBsYXJnZSwgZXhjZXB0IHRoZWlyIGxhcmdlbmVzcy48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Behind all classifications, too, there is inevitably a philosophy. All classifications impose some view of the world: they all make a statement. Thus a chef regards the Universe as a market: the things within it are divided up according to edibility and wholesomeness. A songbird is concerned with food, too, but also with enemies and potential mates. The many classifications devised by scientists, historically, have pursued various philosophies.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlaGluZCBhbGwgY2xhc3NpZmljYXRpb25zLCB0b28sIHRoZXJlIGlzIGluZXZpdGFibHkgYSBwaGlsb3NvcGh5LiBBbGwgY2xhc3NpZmljYXRpb25zIGltcG9zZSBzb21lIHZpZXcgb2YgdGhlIHdvcmxkOiB0aGV5IGFsbCBtYWtlIGEgc3RhdGVtZW50LiBUaHVzIGEgY2hlZiByZWdhcmRzIHRoZSBVbml2ZXJzZSBhcyBhIG1hcmtldDogdGhlIHRoaW5ncyB3aXRoaW4gaXQgYXJlIGRpdmlkZWQgdXAgYWNjb3JkaW5nIHRvIGVkaWJpbGl0eSBhbmQgd2hvbGVzb21lbmVzcy4gQSBzb25nYmlyZCBpcyBjb25jZXJuZWQgd2l0aCBmb29kLCB0b28sIGJ1dCBhbHNvIHdpdGggZW5lbWllcyBhbmQgcG90ZW50aWFsIG1hdGVzLiBUaGUgbWFueSBjbGFzc2lmaWNhdGlvbnMgZGV2aXNlZCBieSBzY2llbnRpc3RzLCBoaXN0b3JpY2FsbHksIGhhdmUgcHVyc3VlZCB2YXJpb3VzIHBoaWxvc29waGllcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Whatever criteria we adopt, however, and whatever we are classifying and for whatever purpose, all classifications tend to follow a common pattern. The items in question are first divided into big categories, and then each big category is divided into smaller categories, and so on. The result is a series of nesting groups called a hierarchy: little ones grouped within bigger ones within bigger ones still. Classifications, in short, tend to be hierarchical.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoYXRldmVyIGNyaXRlcmlhIHdlIGFkb3B0LCBob3dldmVyLCBhbmQgd2hhdGV2ZXIgd2UgYXJlIGNsYXNzaWZ5aW5nIGFuZCBmb3Igd2hhdGV2ZXIgcHVycG9zZSwgYWxsIGNsYXNzaWZpY2F0aW9ucyB0ZW5kIHRvIGZvbGxvdyBhIGNvbW1vbiBwYXR0ZXJuLiBUaGUgaXRlbXMgaW4gcXVlc3Rpb24gYXJlIGZpcnN0IGRpdmlkZWQgaW50byBiaWcgY2F0ZWdvcmllcywgYW5kIHRoZW4gZWFjaCBiaWcgY2F0ZWdvcnkgaXMgZGl2aWRlZCBpbnRvIHNtYWxsZXIgY2F0ZWdvcmllcywgYW5kIHNvIG9uLiBUaGUgcmVzdWx0IGlzIGEgc2VyaWVzIG9mIG5lc3RpbmcgZ3JvdXBzIGNhbGxlZCBhIGhpZXJhcmNoeTogbGl0dGxlIG9uZXMgZ3JvdXBlZCB3aXRoaW4gYmlnZ2VyIG9uZXMgd2l0aGluIGJpZ2dlciBvbmVzIHN0aWxsLiBDbGFzc2lmaWNhdGlvbnMsIGluIHNob3J0LCB0ZW5kIHRvIGJlIGhpZXJhcmNoaWNhbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=33>Ad hoc ways of categorizing living things are useful. Long may they persist. Practical people doing practical things need to <font id=37>carve up</font> the world in their own lays, and it is not for outsiders to cavil. The flesh of abalones (ear shells) and of lobsters are comparably tender even if those creatures are less closely related to each other than eagles are to sea squirts; so why not call them both 'shellfish'? A 'weed' is a useful category, as any farmer will attest. Each system of classification casts its own light upon the world; lay different classifications side by side and you <font id=38>illuminate from different angles</font>, and truly begin to see in three dimensions.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMzPkFkIGhvYyB3YXlzIG9mIGNhdGVnb3JpemluZyBsaXZpbmcgdGhpbmdzIGFyZSB1c2VmdWwuIExvbmcgbWF5IHRoZXkgcGVyc2lzdC4gUHJhY3RpY2FsIHBlb3BsZSBkb2luZyBwcmFjdGljYWwgdGhpbmdzIG5lZWQgdG8gPGZvbnQgaWQ9Mzc+Y2FydmUgdXA8L2ZvbnQ+IHRoZSB3b3JsZCBpbiB0aGVpciBvd24gbGF5cywgYW5kIGl0IGlzIG5vdCBmb3Igb3V0c2lkZXJzIHRvIGNhdmlsLiBUaGUgZmxlc2ggb2YgYWJhbG9uZXMgKGVhciBzaGVsbHMpIGFuZCBvZiBsb2JzdGVycyBhcmUgY29tcGFyYWJseSB0ZW5kZXIgZXZlbiBpZiB0aG9zZSBjcmVhdHVyZXMgYXJlIGxlc3MgY2xvc2VseSByZWxhdGVkIHRvIGVhY2ggb3RoZXIgdGhhbiBlYWdsZXMgYXJlIHRvIHNlYSBzcXVpcnRzOyBzbyB3aHkgbm90IGNhbGwgdGhlbSBib3RoICdzaGVsbGZpc2gnPyBBICd3ZWVkJyBpcyBhIHVzZWZ1bCBjYXRlZ29yeSwgYXMgYW55IGZhcm1lciB3aWxsIGF0dGVzdC4gRWFjaCBzeXN0ZW0gb2YgY2xhc3NpZmljYXRpb24gY2FzdHMgaXRzIG93biBsaWdodCB1cG9uIHRoZSB3b3JsZDsgbGF5IGRpZmZlcmVudCBjbGFzc2lmaWNhdGlvbnMgc2lkZSBieSBzaWRlIGFuZCB5b3UgPGZvbnQgaWQ9Mzg+aWxsdW1pbmF0ZSBmcm9tIGRpZmZlcmVudCBhbmdsZXM8L2ZvbnQ+LCBhbmQgdHJ1bHkgYmVnaW4gdG8gc2VlIGluIHRocmVlIGRpbWVuc2lvbnMuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But it is one thing simply to manipulate aspects of nature for our own convenience, and another to seek understanding. Of course, deeper understanding can lead to more subtle exploitation-and thus it is, for example, that increasing knowledge of microbes on the one hand and of the operation of DNA on the other, is currently bringing us the mixed but in general momentous benefits of biotechnology. But for true biologists, the real pleasure comes simply from knowing, and from the sense of coming closer to other living things. I am defining 'biologists' broadly: to include naturalists, in the old-fashioned sense, who like simply to observe nature, and scientists, who seek to explain its workings by proposing hypotheses and then testing them out. True biologists seek something more in nature than mere utility. They feel in their bones, and all their senses proclaim that there is an order among living things; and it is this 'natural' order that they seek to reflect in their classifications. They feel, too, that there should be criteria for classification that are not simply arbitrary, but reflect some real and important affiliations. Thus, what is often called 'natural classification is based on what biologists construe as the underlying order of nature; or that is the intention. Biologists (broadly defined) have been seeking to devise such a classification at least since the time of the Greek philosopher Aristotle.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBpdCBpcyBvbmUgdGhpbmcgc2ltcGx5IHRvIG1hbmlwdWxhdGUgYXNwZWN0cyBvZiBuYXR1cmUgZm9yIG91ciBvd24gY29udmVuaWVuY2UsIGFuZCBhbm90aGVyIHRvIHNlZWsgdW5kZXJzdGFuZGluZy4gT2YgY291cnNlLCBkZWVwZXIgdW5kZXJzdGFuZGluZyBjYW4gbGVhZCB0byBtb3JlIHN1YnRsZSBleHBsb2l0YXRpb24tYW5kIHRodXMgaXQgaXMsIGZvciBleGFtcGxlLCB0aGF0IGluY3JlYXNpbmcga25vd2xlZGdlIG9mIG1pY3JvYmVzIG9uIHRoZSBvbmUgaGFuZCBhbmQgb2YgdGhlIG9wZXJhdGlvbiBvZiBETkEgb24gdGhlIG90aGVyLCBpcyBjdXJyZW50bHkgYnJpbmdpbmcgdXMgdGhlIG1peGVkIGJ1dCBpbiBnZW5lcmFsIG1vbWVudG91cyBiZW5lZml0cyBvZiBiaW90ZWNobm9sb2d5LiBCdXQgZm9yIHRydWUgYmlvbG9naXN0cywgdGhlIHJlYWwgcGxlYXN1cmUgY29tZXMgc2ltcGx5IGZyb20ga25vd2luZywgYW5kIGZyb20gdGhlIHNlbnNlIG9mIGNvbWluZyBjbG9zZXIgdG8gb3RoZXIgbGl2aW5nIHRoaW5ncy4gSSBhbSBkZWZpbmluZyAnYmlvbG9naXN0cycgYnJvYWRseTogdG8gaW5jbHVkZSBuYXR1cmFsaXN0cywgaW4gdGhlIG9sZC1mYXNoaW9uZWQgc2Vuc2UsIHdobyBsaWtlIHNpbXBseSB0byBvYnNlcnZlIG5hdHVyZSwgYW5kIHNjaWVudGlzdHMsIHdobyBzZWVrIHRvIGV4cGxhaW4gaXRzIHdvcmtpbmdzIGJ5IHByb3Bvc2luZyBoeXBvdGhlc2VzIGFuZCB0aGVuIHRlc3RpbmcgdGhlbSBvdXQuIFRydWUgYmlvbG9naXN0cyBzZWVrIHNvbWV0aGluZyBtb3JlIGluIG5hdHVyZSB0aGFuIG1lcmUgdXRpbGl0eS4gVGhleSBmZWVsIGluIHRoZWlyIGJvbmVzLCBhbmQgYWxsIHRoZWlyIHNlbnNlcyBwcm9jbGFpbSB0aGF0IHRoZXJlIGlzIGFuIG9yZGVyIGFtb25nIGxpdmluZyB0aGluZ3M7IGFuZCBpdCBpcyB0aGlzICduYXR1cmFsJyBvcmRlciB0aGF0IHRoZXkgc2VlayB0byByZWZsZWN0IGluIHRoZWlyIGNsYXNzaWZpY2F0aW9ucy4gVGhleSBmZWVsLCB0b28sIHRoYXQgdGhlcmUgc2hvdWxkIGJlIGNyaXRlcmlhIGZvciBjbGFzc2lmaWNhdGlvbiB0aGF0IGFyZSBub3Qgc2ltcGx5IGFyYml0cmFyeSwgYnV0IHJlZmxlY3Qgc29tZSByZWFsIGFuZCBpbXBvcnRhbnQgYWZmaWxpYXRpb25zLiBUaHVzLCB3aGF0IGlzIG9mdGVuIGNhbGxlZCAnbmF0dXJhbCBjbGFzc2lmaWNhdGlvbiBpcyBiYXNlZCBvbiB3aGF0IGJpb2xvZ2lzdHMgY29uc3RydWUgYXMgdGhlIHVuZGVybHlpbmcgb3JkZXIgb2YgbmF0dXJlOyBvciB0aGF0IGlzIHRoZSBpbnRlbnRpb24uIEJpb2xvZ2lzdHMgKGJyb2FkbHkgZGVmaW5lZCkgaGF2ZSBiZWVuIHNlZWtpbmcgdG8gZGV2aXNlIHN1Y2ggYSBjbGFzc2lmaWNhdGlvbiBhdCBsZWFzdCBzaW5jZSB0aGUgdGltZSBvZiB0aGUgR3JlZWsgcGhpbG9zb3BoZXIgQXJpc3RvdGxlLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">31. The primary purpose of the passage is to:
-<div class = "choice">A. examine the hierarchical pattern for classifying items.</div>
-<div class = "choice">B. delineate between classifications that impose a view of the world and those that reflect a natural order.</div>
-<div class = "choice">C. examine the similarities and differences between how naturalists and biologists classify items.</div>
-<div class = "choice">D. describe the process of establishing, and the limitations and usefulness of, a system of classification.</div>
-</div>
-###################
-<div class = "quiz">32. The main function of the second paragraph (lines 13-28) in relation to the passage as a whole is to:
-<div class = "choice">F. describe the characteristics and a potential weakness of objective criteria.</div>
-<div class = "choice">G. introduce a new scientific concept that the remainder of the passage explores.</div>
-<div class = "choice">H. argue the need for subjective criteria, such as beauty, when classifying items.</div>
-<div class = "choice">J. restate a surprising fact about 'the origin of classification systems.</div>
-</div>
-###################
-<div class = "quiz">33. The author mentions abalones and lobsters in the fifth paragraph (lines 47-58) primarily to:
-<div class = "choice">A. explain the dissimilarity between the two types of sea creatures .</div>
-<div class = "choice">B. criticize the impractical classification systems developed by laypeople.</div>
-<div class = "choice">C. convince the reader that "shellfish" is a useless classification.</div>
-<div class = "choice">D. show that people's everyday categorizations are useful in meeting their particular needs.</div>
-</div>
-###################
-<div class = "quiz">34. According to the passage, a true biologist seeks all of the following EXCEPT:
-<div class = "choice">F. a sense of coming closer to other living things.</div>
-<div class = "choice">G. classifications that are mainly utilitarian.</div>
-<div class = "choice">H. classification criteria that are both genuine and important.</div>
-<div class = "choice">J. a natural order among living things.</div>
-</div>
-###################
-<div class = "quiz">35. According to the passage, what is the primary problem with the grouping "mega-insects"?
-<div class = "choice">A. It is arbitrary and based on a relatively unimportant quality.</div>
-<div class = "choice">B. It is subjective and based on one person's, practical needs.</div>
-<div class = "choice">C. It is established by a criterion that is not explicit or repeatable.</div>
-<div class = "choice">D. It is not considered by biologists to be objectively defined.</div>
-</div>
-###################
-<div class = "quiz">36. According to the passage, the second step in establishing a series of nesting groups is to:
-<div class = "choice">F. divide each big category into smaller categories.</div>
-<div class = "choice">G. place the subcategories into one large group.</div>
-<div class = "choice">H. separate the items in question into equal groups.</div>
-<div class = "choice">J. review subgroups for overlapping characteristics.</div>
-</div>
-###################
-<div class = "quiz">37. As it is used in line 49, the phrase carve up most nearly means:
-<div class = "choice">A. gouge.</div>
-<div class = "choice">B. minimize.</div>
-<div class = "choice">C. analyze.</div>
-<div class = "choice">D. inscribe.</div>
-</div>
-###################
-<div class = "quiz">38. In the context of the passage, the phrase "illuminate from different angles" (lines 57-58) most nearly suggests that different classification systems:
-<div class = "choice">F. convey contradictory information that is confusing to people.</div>
-<div class = "choice">G. tend to spotlight categories that are less important than others.</div>
-<div class = "choice">H. provide an array of viewpoints that broadens people's understanding.</div>
-<div class = "choice">J. can be positioned side by side to pinpoint an item's most important feature.</div>
-</div>
-###################
-<div class = "quiz">39. The passage indicates that old-fashioned naturalists differ from scientists in that naturalists:
-<div class = "choice">A. like to observe nature rather than test hypotheses about it.</div>
-<div class = "choice">B. seem to care more deeply about nature than scientists do.</div>
-<div class = "choice">C. are more interested in manipulating aspects of nature than understanding it.</div>
-<div class = "choice">D. seek to explain the intricate workings of nature through scientific tests.</div>
-</div>
-###################
-<div class = "quiz">40. Suppose a dog trainer typically divides her clients' dogs into two groups, "easy to train" and "difficult to train," based on her initial impressions of each dog on the first clay of training. Based on the passage, the author would most likely describe this classification system as:
-<div class = "choice">F. objective and easily repeated by others.</div>
-<div class = "choice">G. arbitrary and not useful to the trainer.</div>
-<div class = "choice">H. informal and inappropriately unscientific.</div>
-<div class = "choice">J. practical and meaningful to the trainer.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIHByaW1hcnkgcHVycG9zZSBvZiB0aGUgcGFzc2FnZSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4YW1pbmUgdGhlIGhpZXJhcmNoaWNhbCBwYXR0ZXJuIGZvciBjbGFzc2lmeWluZyBpdGVtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlbGluZWF0ZSBiZXR3ZWVuIGNsYXNzaWZpY2F0aW9ucyB0aGF0IGltcG9zZSBhIHZpZXcgb2YgdGhlIHdvcmxkIGFuZCB0aG9zZSB0aGF0IHJlZmxlY3QgYSBuYXR1cmFsIG9yZGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV4YW1pbmUgdGhlIHNpbWlsYXJpdGllcyBhbmQgZGlmZmVyZW5jZXMgYmV0d2VlbiBob3cgbmF0dXJhbGlzdHMgYW5kIGJpb2xvZ2lzdHMgY2xhc3NpZnkgaXRlbXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJlIHRoZSBwcm9jZXNzIG9mIGVzdGFibGlzaGluZywgYW5kIHRoZSBsaW1pdGF0aW9ucyBhbmQgdXNlZnVsbmVzcyBvZiwgYSBzeXN0ZW0gb2YgY2xhc3NpZmljYXRpb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gVGhlIG1haW4gZnVuY3Rpb24gb2YgdGhlIHNlY29uZCBwYXJhZ3JhcGggKGxpbmVzIDEzLTI4KSBpbiByZWxhdGlvbiB0byB0aGUgcGFzc2FnZSBhcyBhIHdob2xlIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlc2NyaWJlIHRoZSBjaGFyYWN0ZXJpc3RpY3MgYW5kIGEgcG90ZW50aWFsIHdlYWtuZXNzIG9mIG9iamVjdGl2ZSBjcml0ZXJpYS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGludHJvZHVjZSBhIG5ldyBzY2llbnRpZmljIGNvbmNlcHQgdGhhdCB0aGUgcmVtYWluZGVyIG9mIHRoZSBwYXNzYWdlIGV4cGxvcmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFyZ3VlIHRoZSBuZWVkIGZvciBzdWJqZWN0aXZlIGNyaXRlcmlhLCBzdWNoIGFzIGJlYXV0eSwgd2hlbiBjbGFzc2lmeWluZyBpdGVtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlc3RhdGUgYSBzdXJwcmlzaW5nIGZhY3QgYWJvdXQgJ3RoZSBvcmlnaW4gb2YgY2xhc3NpZmljYXRpb24gc3lzdGVtcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gVGhlIGF1dGhvciBtZW50aW9ucyBhYmFsb25lcyBhbmQgbG9ic3RlcnMgaW4gdGhlIGZpZnRoIHBhcmFncmFwaCAobGluZXMgNDctNTgpIHByaW1hcmlseSB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4cGxhaW4gdGhlIGRpc3NpbWlsYXJpdHkgYmV0d2VlbiB0aGUgdHdvIHR5cGVzIG9mIHNlYSBjcmVhdHVyZXMgLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNyaXRpY2l6ZSB0aGUgaW1wcmFjdGljYWwgY2xhc3NpZmljYXRpb24gc3lzdGVtcyBkZXZlbG9wZWQgYnkgbGF5cGVvcGxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnZpbmNlIHRoZSByZWFkZXIgdGhhdCAic2hlbGxmaXNoIiBpcyBhIHVzZWxlc3MgY2xhc3NpZmljYXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNob3cgdGhhdCBwZW9wbGUncyBldmVyeWRheSBjYXRlZ29yaXphdGlvbnMgYXJlIHVzZWZ1bCBpbiBtZWV0aW5nIHRoZWlyIHBhcnRpY3VsYXIgbmVlZHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBhIHRydWUgYmlvbG9naXN0IHNlZWtzIGFsbCBvZiB0aGUgZm9sbG93aW5nIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgc2Vuc2Ugb2YgY29taW5nIGNsb3NlciB0byBvdGhlciBsaXZpbmcgdGhpbmdzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNsYXNzaWZpY2F0aW9ucyB0aGF0IGFyZSBtYWlubHkgdXRpbGl0YXJpYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNsYXNzaWZpY2F0aW9uIGNyaXRlcmlhIHRoYXQgYXJlIGJvdGggZ2VudWluZSBhbmQgaW1wb3J0YW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgbmF0dXJhbCBvcmRlciBhbW9uZyBsaXZpbmcgdGhpbmdzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGF0IGlzIHRoZSBwcmltYXJ5IHByb2JsZW0gd2l0aCB0aGUgZ3JvdXBpbmcgIm1lZ2EtaW5zZWN0cyI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IGlzIGFyYml0cmFyeSBhbmQgYmFzZWQgb24gYSByZWxhdGl2ZWx5IHVuaW1wb3J0YW50IHF1YWxpdHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGlzIHN1YmplY3RpdmUgYW5kIGJhc2VkIG9uIG9uZSBwZXJzb24ncywgcHJhY3RpY2FsIG5lZWRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IGlzIGVzdGFibGlzaGVkIGJ5IGEgY3JpdGVyaW9uIHRoYXQgaXMgbm90IGV4cGxpY2l0IG9yIHJlcGVhdGFibGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGlzIG5vdCBjb25zaWRlcmVkIGJ5IGJpb2xvZ2lzdHMgdG8gYmUgb2JqZWN0aXZlbHkgZGVmaW5lZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgc2Vjb25kIHN0ZXAgaW4gZXN0YWJsaXNoaW5nIGEgc2VyaWVzIG9mIG5lc3RpbmcgZ3JvdXBzIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRpdmlkZSBlYWNoIGJpZyBjYXRlZ29yeSBpbnRvIHNtYWxsZXIgY2F0ZWdvcmllcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHBsYWNlIHRoZSBzdWJjYXRlZ29yaWVzIGludG8gb25lIGxhcmdlIGdyb3VwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNlcGFyYXRlIHRoZSBpdGVtcyBpbiBxdWVzdGlvbiBpbnRvIGVxdWFsIGdyb3Vwcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJldmlldyBzdWJncm91cHMgZm9yIG92ZXJsYXBwaW5nIGNoYXJhY3RlcmlzdGljcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDQ5LCB0aGUgcGhyYXNlIGNhcnZlIHVwIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGdvdWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1pbmltaXplLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuYWx5emUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluc2NyaWJlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gSW4gdGhlIGNvbnRleHQgb2YgdGhlIHBhc3NhZ2UsIHRoZSBwaHJhc2UgImlsbHVtaW5hdGUgZnJvbSBkaWZmZXJlbnQgYW5nbGVzIiAobGluZXMgNTctNTgpIG1vc3QgbmVhcmx5IHN1Z2dlc3RzIHRoYXQgZGlmZmVyZW50IGNsYXNzaWZpY2F0aW9uIHN5c3RlbXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbnZleSBjb250cmFkaWN0b3J5IGluZm9ybWF0aW9uIHRoYXQgaXMgY29uZnVzaW5nIHRvIHBlb3BsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRlbmQgdG8gc3BvdGxpZ2h0IGNhdGVnb3JpZXMgdGhhdCBhcmUgbGVzcyBpbXBvcnRhbnQgdGhhbiBvdGhlcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHByb3ZpZGUgYW4gYXJyYXkgb2Ygdmlld3BvaW50cyB0aGF0IGJyb2FkZW5zIHBlb3BsZSdzIHVuZGVyc3RhbmRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNhbiBiZSBwb3NpdGlvbmVkIHNpZGUgYnkgc2lkZSB0byBwaW5wb2ludCBhbiBpdGVtJ3MgbW9zdCBpbXBvcnRhbnQgZmVhdHVyZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgb2xkLWZhc2hpb25lZCBuYXR1cmFsaXN0cyBkaWZmZXIgZnJvbSBzY2llbnRpc3RzIGluIHRoYXQgbmF0dXJhbGlzdHM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxpa2UgdG8gb2JzZXJ2ZSBuYXR1cmUgcmF0aGVyIHRoYW4gdGVzdCBoeXBvdGhlc2VzIGFib3V0IGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNlZW0gdG8gY2FyZSBtb3JlIGRlZXBseSBhYm91dCBuYXR1cmUgdGhhbiBzY2llbnRpc3RzIGRvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyZSBtb3JlIGludGVyZXN0ZWQgaW4gbWFuaXB1bGF0aW5nIGFzcGVjdHMgb2YgbmF0dXJlIHRoYW4gdW5kZXJzdGFuZGluZyBpdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNlZWsgdG8gZXhwbGFpbiB0aGUgaW50cmljYXRlIHdvcmtpbmdzIG9mIG5hdHVyZSB0aHJvdWdoIHNjaWVudGlmaWMgdGVzdHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gU3VwcG9zZSBhIGRvZyB0cmFpbmVyIHR5cGljYWxseSBkaXZpZGVzIGhlciBjbGllbnRzJyBkb2dzIGludG8gdHdvIGdyb3VwcywgImVhc3kgdG8gdHJhaW4iIGFuZCAiZGlmZmljdWx0IHRvIHRyYWluLCIgYmFzZWQgb24gaGVyIGluaXRpYWwgaW1wcmVzc2lvbnMgb2YgZWFjaCBkb2cgb24gdGhlIGZpcnN0IGNsYXkgb2YgdHJhaW5pbmcuIEJhc2VkIG9uIHRoZSBwYXNzYWdlLCB0aGUgYXV0aG9yIHdvdWxkIG1vc3QgbGlrZWx5IGRlc2NyaWJlIHRoaXMgY2xhc3NpZmljYXRpb24gc3lzdGVtIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG9iamVjdGl2ZSBhbmQgZWFzaWx5IHJlcGVhdGVkIGJ5IG90aGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFyYml0cmFyeSBhbmQgbm90IHVzZWZ1bCB0byB0aGUgdHJhaW5lci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluZm9ybWFsIGFuZCBpbmFwcHJvcHJpYXRlbHkgdW5zY2llbnRpZmljLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByYWN0aWNhbCBhbmQgbWVhbmluZ2Z1bCB0byB0aGUgdHJhaW5lci48L2Rpdj4=
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,73 +1,73 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Volcanoes put sulfur into the troposphere and the stratosphere, where the sulfur reacts to form sulfate aerosols (liquid droplets suspended in air). For locations at 50°N latitude, aerosols present at altitudes below 11 km scatter incoming solar energy, resulting in cooler air, while aerosols present at higher altitudes absorb incoming solar energy, warming the air.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlZvbGNhbm9lcyBwdXQgc3VsZnVyIGludG8gdGhlIHRyb3Bvc3BoZXJlIGFuZCB0aGUgc3RyYXRvc3BoZXJlLCB3aGVyZSB0aGUgc3VsZnVyIHJlYWN0cyB0byBmb3JtIHN1bGZhdGUgYWVyb3NvbHMgKGxpcXVpZCBkcm9wbGV0cyBzdXNwZW5kZWQgaW4gYWlyKS4gRm9yIGxvY2F0aW9ucyBhdCA1MMKwTiBsYXRpdHVkZSwgYWVyb3NvbHMgcHJlc2VudCBhdCBhbHRpdHVkZXMgYmVsb3cgMTEga20gc2NhdHRlciBpbmNvbWluZyBzb2xhciBlbmVyZ3ksIHJlc3VsdGluZyBpbiBjb29sZXIgYWlyLCB3aGlsZSBhZXJvc29scyBwcmVzZW50IGF0IGhpZ2hlciBhbHRpdHVkZXMgYWJzb3JiIGluY29taW5nIHNvbGFyIGVuZXJneSwgd2FybWluZyB0aGUgYWlyLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 shows the air temperature deviation at the surface of, and at 2 different altitudes above, a particular volcano (located at 50°N latitude), before and after it erupted. Figure 2 shows the maximum surface air temperature deviation associated with the specific mass of sulfate aerosols formed in the stratosphere after each of 8 volcanoes erupted.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxIHNob3dzIHRoZSBhaXIgdGVtcGVyYXR1cmUgZGV2aWF0aW9uIGF0IHRoZSBzdXJmYWNlIG9mLCBhbmQgYXQgMiBkaWZmZXJlbnQgYWx0aXR1ZGVzIGFib3ZlLCBhIHBhcnRpY3VsYXIgdm9sY2FubyAobG9jYXRlZCBhdCA1MMKwTiBsYXRpdHVkZSksIGJlZm9yZSBhbmQgYWZ0ZXIgaXQgZXJ1cHRlZC4gRmlndXJlIDIgc2hvd3MgdGhlIG1heGltdW0gc3VyZmFjZSBhaXIgdGVtcGVyYR90dXJlIGRldmlhdGlvbiBhc3NvY2lhdGVkIHdpdGggdGhlIHNwZWNpZmljIG1hc3Mgb2Ygc3VsZmF0ZSBhZXJvc29scyBmb3JtZWQgaW4gdGhlIHN0cmF0b3NwaGVyZSBhZnRlciBlYWNoIG9mIDggdm9sY2Efbm9lcyBlcnVwdGVkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\263.png' width = '516'height = '399'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjYzLnBuZycgd2lkdGggPSAnNTE2J2hlaWdodCA9ICczOTknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: A tick mark on the x-axis indicates Jan. 1 of a given year.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdGU6IEEgdGljayBtYXJrIG9uIHRoZSB4LWF4aXMgaW5kaWNhdGVzIEphbi4gMSBvZiBhIGdpdmVuIHllYXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">*air temperature deviation at a given altitude</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiphaXIgdGVtcGVyYXR1cmUgZGV2aWF0aW9uIGF0IGEgZ2l2ZW4gYWx0aXR1ZGU8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\264.png' width = '604'height = '37'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjY0LnBuZycgd2lkdGggPSAnNjA0J2hlaWdodCA9ICczNycvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\265.png' width = '559'height = '344'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjY1LnBuZycgd2lkdGggPSAnNTU5J2hlaWdodCA9ICczNDQnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mass of sulfate aerosols formed in the stratosphere (metric tons)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hc3Mgb2Ygc3VsZmF0ZSBhZXJvc29scyBmb3JtZWQgaW4gdGhlIHN0cmF0b3NwaGVyZSAobWV0cmljIHRvbnMpPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from Haraidur Sigurdsson, "Evidence of Volcanic Loading of the Atmosphere and Climate Response." ©1990 by Elsevier Science Publishers.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxIGFkYXB0ZWQgZnJvbSBIYXJhaWR1ciBTaWd1cmRzc29uLCAiRXZpZGVuY2Ugb2YgVm9sY2FuaWMgTG9hZGluZyBvZiB0aGUgQXRtb3NwaGVyZSBhbmQgQ2xpbWF0ZSBSZXNwb25zZS4iIMKpMTk5MCBieSBFbHNldmllciBTY2llbmNlIFB1Ymxpc2hlcnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from Michael Rampino, "Supereruptions as a Threat to Civilizations on Earth-like Planets." ©2002 by Elsevier Science (USA).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIGFkYXB0ZWQgZnJvbSBNaWNoYWVsIFJhbXBpbm8sICJTdXBlcmVydXB0aW9ucyBhcyBhIFRocmVhdCB0byBDaXZpbGl6YXRpb25zIG9uIEVhcnRoLWxpa2UgUGxhbmV0cy4iIMKpMjAwMiBieSBFbHNldmllciBTY2llbmNlIChVU0EpLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">36. According to Figure 1, after the eruption, the greatest air temperature deviation at an altitude of 19 km was closest to which of the following?
-<div class = "choice">F. 5°C    </div>
-<div class = "choice">G. 6°C    </div>
-<div class = "choice">H. 7°C  </div> 
-<div class = "choice">J. 8°C</div>
-</div>
-###################
-<div class = "quiz">37. Consider the equation provided in Figure 1 and the data point for Toba in Figure 2. After Toba erupted, the surface air temperature, when at its most extreme, was approximately:
-<div class = "choice">A. 4°C above average.</div>
-<div class = "choice">B. 4°C below average.</div>
-<div class = "choice">C. 10°C above average.</div>
-<div class = "choice">D. 10°C below average.</div>
-</div>
-###################
-<div class = "quiz">38. According to Figure 1, after the eruption, the air temperature at 16 km altitude stayed more than 1°C above average for:
-<div class = "choice">F. less than 1 year.</div>
-<div class = "choice">G. between 1 year and 2 years.</div>
-<div class = "choice">H. between 2 years and 3 years.</div>
-<div class = "choice">J. more than 3 years.</div>
-</div>
-###################
-<div class = "quiz">39. Consider the volcano whose data are shown in Figure 1. Suppose that the average air temperature 16 km above that volcano is -60.0°C. Based on Figure 1, on January 1, 1984, the measured air temperature 16 km above that same volcano would have been closest to which of the following?
-<div class = "choice">A. -64.0°C</div>
-<div class = "choice">B. -60.0°C</div>
-<div class = "choice">C. -56.0°C</div>
-<div class = "choice">D. -4.0°C</div>
-</div>
-###################
-<div class = "quiz">40. In Figure 1, a value of zero for the air temperature deviation at a given altitude indicates that the measured air temperature at that altitude equaled the:
-<div class = "choice">F. maximum air temperature deviation at that altitude.</div>
-<div class = "choice">G. average air temperature deviation at that altitude.</div>
-<div class = "choice">H. maximum air temperature at that altitude.</div>
-<div class = "choice">J. average air temperature at that altitude.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCBhZnRlciB0aGUgZXJ1cHRpb24sIHRoZSBncmVhdGVzdCBhaXIgdGVtcGVyYXR1cmUgZGV2aWF0aW9uIGF0IGFuIGFsdGl0dWRlIG9mIDE5IGttIHdhcyBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDXCsEMgICAgPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDbCsEMgICAgPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDfCsEMgIDwvZGl2PiA=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDjCsEM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQ29uc2lkZXIgdGhlIGVxdWF0aW9uIHByb3ZpZGVkIGluIEZpZ3VyZSAxIGFuZCB0aGUgZGF0YSBwb2ludCBmb3IgVG9iYSBpbiBGaWd1cmUgMi4gQWZ0ZXIgVG9iYSBlcnVwdGVkLCB0aGUgc3VyZmFjZSBhaXIgdGVtcGVyYXR1cmUsIHdoZW4gYXQgaXRzIG1vc3QgZXh0cmVtZSwgd2FzIGFwcHJveGltYXRlbHk6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDTCsEMgYWJvdmUgYXZlcmFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDTCsEMgYmVsb3cgYXZlcmFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEwwrBDIGFib3ZlIGF2ZXJhZ2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEwwrBDIGJlbG93IGF2ZXJhZ2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCBhZnRlciB0aGUgZXJ1cHRpb24sIHRoZSBhaXIgdGVtH3BlcmF0dXJlIGF0IDE2IGttIGFsdGl0dWRlIHN0YXllZCBtb3JlIHRoYW4gMcKwQyBhYm92ZSBhdmVyYWdlIGZvcjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAxIHllYXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJldHdlZW4gMSB5ZWFyIGFuZCAyIHllYXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJldHdlZW4gMiB5ZWFycyBhbmQgMyB5ZWFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1vcmUgdGhhbiAzIHllYXJzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQ29uc2lkZXIgdGhlIHZvbGNhbm8gd2hvc2UgZGF0YSBhcmUgc2hvd24gaW4gRmlndXJlIDEuIFN1cHBvc2UgdGhhdCB0aGUgYXZlcmFnZSBhaXIgdGVtcGVyYXR1cmUgMTYga20gYWJvdmUgdGhhdCB2b2xjYW5vIGlzIC02MC4wwrBDLiBCYXNlZCBvbiBGaWd1cmUgMSwgb24gSmFudWFyeSAxLCAxOTg0LCB0aGUgbWVhc3VyZWQgYWlyIHRlbXBlch9hdHVyZSAxNiBrbSBhYm92ZSB0aGF0IHNhbWUgdm9sY2FubyB3b3VsZCBoYXZlIGJlZW4gY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIC02NC4wwrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIC02MC4wwrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIC01Ni4wwrBDPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIC00LjDCsEM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gSW4gRmlndXJlIDEsIGEgdmFsdWUgb2YgemVybyBmb3IgdGhlIGFpciB0ZW1wZXJhdHVyZSBkZXZpYXRpb24gYXQgYSBnaXZlbiBhbHRpdHVkZSBpbmRpY2F0ZXMgdGhhdCB0aGUgbWVhc3VyZWQgYWlyIHRlbXBlcmF0dXJlIGF0IHRoYXQgYWx0aXR1ZGUgZXF1YWxlZCB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1heGltdW0gYWlyIHRlbXBlcmF0dXJlIGRldmlhdGlvbiBhdCB0aGF0IGFsdGl0dWRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF2ZXJhZ2UgYWlyIHRlbXBlcmF0dXJlIGRldmlhdGlvbiBhdCB0aGF0IGFsdGl0dWRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1heGltdW0gYWlyIHRlbXBlcmF0dXJlIGF0IHRoYXQgYWx0aXR1ZGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGF2ZXJhZ2UgYWlyIHRlbXBlcmF0dXJlIGF0IHRoYXQgYWx0aXR1ZGUuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

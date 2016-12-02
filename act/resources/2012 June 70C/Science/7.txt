@@ -1,84 +1,84 @@
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A physicist tested various sheets for their ability to stop gamma rays (<img src='file:\$$$\resources\2012 June 70C\imgs\236.png' width = '19'height = '27'/>-rays) that had different energies. Any <img src='file:\$$$\resources\2012 June 70C\imgs\237.png' width = '19'height = '27'/>-ray that was not stopped by a sheet struck a detector (see Figure 1), which then registered a detection, or count.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgcGh5c2ljaXN0IHRlc3RlZCB2YXJpb3VzIHNoZWV0cyBmb3IgdGhlaXIgYWJpbGl0eSB0byBzdG9wIGdhbW1hIHJheXMgKDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzYucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cykgdGhhdCBoYWQgZGlmZmVyZW50IGVuZXJnaWVzLiBBbnkgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIzNy5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgdGhhdCB3YXMgbm90IHN0b3BwZWQgYnkgYSBzaGVldCBzdHJ1Y2sgYSBkZXRlY3RvciAoc2VlIEZpZ3VyZSAxKSwgd2hpY2ggdGhlbiByZWdpc3RlcmVkIGEgZGV0ZWN0aW9uLCBvciBjb3VudC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\238.png' width = '442'height = '430'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzgucG5nJyB3aWR0aCA9ICc0NDInaGVpZ2h0ID0gJzQzMCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each sheet was made of either Material 1, Material 2, or Material 3. The thickness, x, of each sheet was uniform, but sheets of the same material had different thicknesses.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVhY2ggc2hlZXQgd2FzIG1hZGUgb2YgZWl0aGVyIE1hdGVyaWFsIDEsIE1hdGVyaWFsIDIsIG9yIE1hdGVyaWFsIDMuIFRoZSB0aGlja25lc3MsIHgsIG9mIGVhY2ggc2hlZXQgd2FzIHVuaWZvcm0sIGJ1dCBzaGVldHMgb2YgdGhlIHNhbWUgbWF0ZXJpYWwgaGFkIGRpZmZlcmVudCB0aGlja25lc3Nlcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\239.png' width = '24'height = '38'/>represented the number of counts per minute (cpm) with no sheet between the <img src='file:\$$$\resources\2012 June 70C\imgs\240.png' width = '19'height = '27'/>-ray source and the detector, and I represented the cpm with 1 sheet between the source and the detector.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzkucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMzgnLz5yZXByZXNlbnRlZCB0aGUgbnVtYmVyIG9mIGNvdW50cyBwZXIgbWludXRlIChjcG0pIHdpdGggbm8gc2hlZXQgYmV0d2VlbiB0aGUgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI0MC5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgc291cmNlIGFuZCB0aGUgZGV0ZWN0b3IsIGFuZCBJIHJlcHJlc2VudGVkIHRoZSBjcG0gd2l0aCAxIHNoZWV0IGJldHdlZW4gdGhlIHNvdXJjZSBhbmQgdGhlIGRldGVjdG9yLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">First, the physicist measured <img src='file:\$$$\resources\2012 June 70C\imgs\241.png' width = '24'height = '38'/> for a source of <img src='file:\$$$\resources\2012 June 70C\imgs\242.png' width = '19'height = '27'/>-rays having an energy of 4 million electron volts (MeV). Next, with this same <img src='file:\$$$\resources\2012 June 70C\imgs\243.png' width = '19'height = '27'/>-ray source, she measured I for various sheets of Material 1, each having a different thickness x. Then, she plotted a graph of I versus x (in cm) for Material 1. Similarly, she produced graphs of I versus x for Material 2 and Material 3 (see Figure 2).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpcnN0LCB0aGUgcGh5c2ljaXN0IG1lYXN1cmVkIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNDEucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMzgnLz4gZm9yIGEgc291cmNlIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNDIucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cyBoYXZpbmcgYW4gZW5lcmd5IG9mIDQgbWlsbGlvbiBlbGVjdHJvbiB2b2x0cyAoTWVWKS4gTmV4dCwgd2l0aCB0aGlzIHNhbWUgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI0My5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgc291cmNlLCBzaGUgbWVhc3VyZWQgSSBmb3IgdmFyaW91cyBzaGVldHMgb2YgTWF0ZXJpYWwgMSwgZWFjaCBoYXZpbmcgYSBkaWZmZXJlbnQgdGhpY2tuZXNzIHguIFRoZW4sIHNoZSBwbG90dGVkIGEgZ3JhcGggb2YgSSB2ZXJzdXMgeCAoaW4gY20pIGZvciBNYXRlcmlhbCAxLiBTaW1pbGFybHksIHNoZSBwcm9kdWNlZCBncmFwaHMgb2YgSSB2ZXJzdXMgeCBmb3IgTWF0ZXJpYWwgMiBhbmQgTWF0ZXJpYWwgMyAoc2VlIEZpZ3VyZSAyKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\244.png' width = '603'height = '469'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNDQucG5nJyB3aWR0aCA9ICc2MDMnaGVpZ2h0ID0gJzQ2OScvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The physicist repeated the procedures from Experiment 1 with other sources of <img src='file:\$$$\resources\2012 June 70C\imgs\245.png' width = '19'height = '27'/>-rays having different energies. For each combination of sheet material and <img src='file:\$$$\resources\2012 June 70C\imgs\246.png' width = '19'height = '27'/>-ray energy, she produced a graph of I versus x. These graphs are not shown.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBwaHlzaWNpc3QgcmVwZWF0ZWQgdGhlIHByb2NlZHVyZXMgZnJvbSBFeHBlcmltZW50IDEgd2l0aCBvdGhlciBzb3VyY2VzIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNDUucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cyBoYXZpbmcgZGlmZmVyZW50IGVuZXJnaWVzLiBGb3IgZWFjaCBjb21iaW5hdGlvbiBvZiBzaGVldCBtYXRlcmlhbCBhbmQgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI0Ni5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgZW5lcmd5LCBzaGUgcHJvZHVjZWQgYSBncmFwaCBvZiBJIHZlcnN1cyB4LiBUaGVzZSBncmFwaHMgYXJlIG5vdCBzaG93bi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From the graphs of I versus x, she found the half-value thickness, <img src='file:\$$$\resources\2012 June 70C\imgs\247.png' width = '42'height = '38'/>, for each combination of sheet material and <img src='file:\$$$\resources\2012 June 70C\imgs\248.png' width = '19'height = '27'/>-ray energy. A sheet of thickness <img src='file:\$$$\resources\2012 June 70C\imgs\249.png' width = '42'height = '38'/> stopped half of the <img src='file:\$$$\resources\2012 June 70C\imgs\250.png' width = '19'height = '27'/>-rays striking the sheet; that is, I equaled <img src='file:\$$$\resources\2012 June 70C\imgs\251.png' width = '31'height = '65'/> . (For example, based on Figure 2, for 4 MeV <img src='file:\$$$\resources\2012 June 70C\imgs\252.png' width = '19'height = '27'/>-rays striking sheets of Material 1, <img src='file:\$$$\resources\2012 June 70C\imgs\253.png' width = '42'height = '38'/>equaled 1.0 cm.) Finally, the physicist plotted a graph of <img src='file:\$$$\resources\2012 June 70C\imgs\254.png' width = '42'height = '38'/> versus <img src='file:\$$$\resources\2012 June 70C\imgs\255.png' width = '19'height = '27'/>-ray energy for each material (see Figure 3).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyb20gdGhlIGdyYXBocyBvZiBJIHZlcnN1cyB4LCBzaGUgZm91bmQgdGhlIGhhbGYtdmFsdWUgdGhpY2tuZXNzLCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjQ3LnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+LCBmb3IgZWFjaCBjb21iaW5hdGlvbiBvZiBzaGVldCBtYXRlcmlhbCBhbmQgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI0OC5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgZW5lcmd5LiBBIHNoZWV0IG9mIHRoaWNrbmVzcyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjQ5LnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+IHN0b3BwZWQgaGFsZiBvZiB0aGUgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI1MC5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHN0cmlraW5nIHRoZSBzaGVldDsgdGhhdCBpcywgSSBlcXVhbGVkIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNTEucG5nJyB3aWR0aCA9ICczMSdoZWlnaHQgPSAnNjUnLz4gLiAoRm9yIGV4YW1wbGUsIGJhc2VkIG9uIEZpZ3VyZSAyLCBmb3IgNCBNZVYgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI1Mi5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHN0cmlraW5nIHNoZWV0cyBvZiBNYXRlcmlhbCAxLCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjUzLnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+ZXF1YWxlZCAxLjAgY20uKSBGaW5hbGx5LCB0aGUgcGh5c2ljaXN0IHBsb3R0ZWQgYSBncmFwaCBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjU0LnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+IHZlcnN1cyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjU1LnBuZycgd2lkdGggPSAnMTknaGVpZ2h0ID0gJzI3Jy8+LXJheSBlbmVyZ3kgZm9yIGVhY2ggbWF0ZXJpYWwgKHNlZSBGaWd1cmUgMykuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\256.png' width = '601'height = '408'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNTYucG5nJyB3aWR0aCA9ICc2MDEnaGVpZ2h0ID0gJzQwOCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">35. Based on the results of Experiment 2, for a given material, as <img src='file:\$$$\resources\2012 June 70C\imgs\257.png' width = '19'height = '27'/>-ray energy increased,<img src='file:\$$$\resources\2012 June 70C\imgs\258.png' width = '42'height = '38'/>:
-<div class = "choice">A. increased only.</div>
-<div class = "choice">B. decreased only.</div>
-<div class = "choice">C. varied, but with no general trend.</div>
-<div class = "choice">D. remained the same.</div>
-</div>
-###################
-<div class = "quiz">36. Based on the results of Experiment 1, <img src='file:\$$$\resources\2012 June 70C\imgs\259.png' width = '42'height = '38'/>for Material 3 and a <img src='file:\$$$\resources\2012 June 70C\imgs\260.png' width = '19'height = '27'/>-ray energy of 4 MeV was closest to which of the following values?
-<div class = "choice">F. 1.0 cm</div>
-<div class = "choice">G. 2.0 cm</div>
-<div class = "choice">H. 3.0 cm</div>
-<div class = "choice">J. 4.0 cm</div>
-</div>
-###################
-<div class = "quiz">37. Based on the results of Experiment 2, to stop a given number of <img src='file:\$$$\resources\2012 June 70C\imgs\261.png' width = '19'height = '27'/>-rays of a given energy, which sheet had to be thicker, a sheet made of Material 1 or a sheet made of Material 3?
-<div class = "choice">A. Material 1, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\262.png' width = '42'height = '38'/>for Material 1 is greater than <img src='file:\$$$\resources\2012 June 70C\imgs\263.png' width = '42'height = '38'/> for Material 3.</div>
-<div class = "choice">B. Material 1, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\264.png' width = '42'height = '38'/>for Material 1 is less than <img src='file:\$$$\resources\2012 June 70C\imgs\265.png' width = '42'height = '38'/> for Material 3.</div>
-<div class = "choice">C. Material 3, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\266.png' width = '42'height = '38'/>for Material 3 is greater than <img src='file:\$$$\resources\2012 June 70C\imgs\267.png' width = '42'height = '38'/> for Material 1.</div>
-<div class = "choice">D. Material 3, because at every energy plotted in Figure 3, <img src='file:\$$$\resources\2012 June 70C\imgs\268.png' width = '42'height = '38'/>for Material 3 is less than <img src='file:\$$$\resources\2012 June 70C\imgs\269.png' width = '42'height = '38'/> for Material 1.</div>
-</div>
-###################
-<div class = "quiz">38. Based on the description of the experiments, for <img src='file:\$$$\resources\2012 June 70C\imgs\270.png' width = '19'height = '27'/>-rays of a given energy, as the ability of materials to stop <img src='file:\$$$\resources\2012 June 70C\imgs\271.png' width = '19'height = '27'/>-rays increased, did I decrease or increase, and why?
-<div class = "choice">F. Decrease, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\272.png' width = '19'height = '27'/>-rays reaching the detector per minute increased.</div>
-<div class = "choice">G. Decrease, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\273.png' width = '19'height = '27'/>-rays reaching the detector per minute decreased.</div>
-<div class = "choice">H. Increase, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\274.png' width = '19'height = '27'/>-rays reaching the detector per minute increased.</div>
-<div class = "choice">J. Increase, because the number of <img src='file:\$$$\resources\2012 June 70C\imgs\275.png' width = '19'height = '27'/>-rays reaching the detector per minute decreased.</div>
-</div>
-###################
-<div class = "quiz">39. The physicist must prepare a sheet that will yield a detection rate of 1,000 cpm when the sheet is struck by 4 MeV <img src='file:\$$$\resources\2012 June 70C\imgs\276.png' width = '19'height = '27'/>-rays, as in Experiment 1. This sheet can be no thicker than 10.0 cm. Based on the results of Experiment 1, the physicist can satisfy these requirements by constructing the sheet out of which of the materials tested?
-<div class = "choice">A. Either Material 1 or Material 2</div>
-<div class = "choice">B. Either Material 1 or Material 3</div>
-<div class = "choice">C. Either Material 2 or Material 3</div>
-<div class = "choice">D. Either Material 1, Material 2, or Material 3</div>
-</div>
-###################
-<div class = "quiz">40. In Experiment 1, what was the value of<img src='file:\$$$\resources\2012 June 70C\imgs\277.png' width = '24'height = '38'/>?
-<div class = "choice">F. 0 cpm</div>
-<div class = "choice">G. 1 cpm</div>
-<div class = "choice">H. 4,000 cpm</div>
-<div class = "choice">J. 8,000 cpm</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQmFzZWQgb24gdGhlIHJlc3VsdHMgb2YgRXhwZXJpbWVudCAyLCBmb3IgYSBnaXZlbiBtYXRlcmlhbCwgYXMgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI1Ny5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgZW5lcmd5IGluY3JlYXNlZCw8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjU4LnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHZhcmllZCwgYnV0IHdpdGggbm8gZ2VuZXJhbCB0cmVuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlbWFpbmVkIHRoZSBzYW1lLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQmFzZWQgb24gdGhlIHJlc3VsdHMgb2YgRXhwZXJpbWVudCAxLCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjU5LnBuZycgd2lkdGggPSAnNDInaGVpZ2h0ID0gJzM4Jy8+Zm9yIE1hdGVyaWFsIDMgYW5kIGEgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI2MC5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXkgZW5lcmd5IG9mIDQgTWVWIHdhcyBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdmFsdWVzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEuMCBjbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIuMCBjbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDMuMCBjbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDQuMCBjbTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQmFzZWQgb24gdGhlIHJlc3VsdHMgb2YgRXhwZXJpbWVudCAyLCB0byBzdG9wIGEgZ2l2ZW4gbnVtYmVyIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNjEucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cyBvZiBhIGdpdmVuIGVuZXJneSwgd2hpY2ggc2hlZXQgaGFkIHRvIGJlIHRoaWNrZXIsIGEgc2hlZXQgbWFkZSBvZiBNYXRlcmlhbCAxIG9yIGEgc2hlZXQgbWFkZSBvZiBNYXRlcmlhbCAzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE1hdGVyaWFsIDEsIGJlY2F1c2UgYXQgZXZlcnkgZW5lcmd5IHBsb3R0ZWQgaW4gRmlndXJlIDMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNjIucG5nJyB3aWR0aCA9ICc0MidoZWlnaHQgPSAnMzgnLz5mb3IgTWF0ZXJpYWwgMSBpcyBncmVhdGVyIHRoYW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI2My5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczOCcvPiBmb3IgTWF0ZXJpYWwgMy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE1hdGVyaWFsIDEsIGJlY2F1c2UgYXQgZXZlcnkgZW5lcmd5IHBsb3R0ZWQgaW4gRmlndXJlIDMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNjQucG5nJyB3aWR0aCA9ICc0MidoZWlnaHQgPSAnMzgnLz5mb3IgTWF0ZXJpYWwgMSBpcyBsZXNzIHRoYW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI2NS5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczOCcvPiBmb3IgTWF0ZXJpYWwgMy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE1hdGVyaWFsIDMsIGJlY2F1c2UgYXQgZXZlcnkgZW5lcmd5IHBsb3R0ZWQgaW4gRmlndXJlIDMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNjYucG5nJyB3aWR0aCA9ICc0MidoZWlnaHQgPSAnMzgnLz5mb3IgTWF0ZXJpYWwgMyBpcyBncmVhdGVyIHRoYW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI2Ny5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczOCcvPiBmb3IgTWF0ZXJpYWwgMS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE1hdGVyaWFsIDMsIGJlY2F1c2UgYXQgZXZlcnkgZW5lcmd5IHBsb3R0ZWQgaW4gRmlndXJlIDMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNjgucG5nJyB3aWR0aCA9ICc0MidoZWlnaHQgPSAnMzgnLz5mb3IgTWF0ZXJpYWwgMyBpcyBsZXNzIHRoYW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI2OS5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczOCcvPiBmb3IgTWF0ZXJpYWwgMS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQmFzZWQgb24gdGhlIGRlc2NyaXB0aW9uIG9mIHRoZSBleHBlcmltZW50cywgZm9yIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNzAucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cyBvZiBhIGdpdmVuIGVuZXJneSwgYXMgdGhlIGFiaWxpdHkgb2YgbWF0ZXJpYWxzIHRvIHN0b3AgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI3MS5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIGluY3JlYXNlZCwgZGlkIEkgZGVjcmVhc2Ugb3IgaW5jcmVhc2UsIGFuZCB3aHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIERlY3JlYXNlLCBiZWNhdXNlIHRoZSBudW1iZXIgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI3Mi5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHJlYWNoaW5nIHRoZSBkZXRlY3RvciBwZXIgbWludXRlIGluY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIERlY3JlYXNlLCBiZWNhdXNlIHRoZSBudW1iZXIgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI3My5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHJlYWNoaW5nIHRoZSBkZXRlY3RvciBwZXIgbWludXRlIGRlY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEluY3JlYXNlLCBiZWNhdXNlIHRoZSBudW1iZXIgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI3NC5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHJlYWNoaW5nIHRoZSBkZXRlY3RvciBwZXIgbWludXRlIGluY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEluY3JlYXNlLCBiZWNhdXNlIHRoZSBudW1iZXIgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDI3NS5wbmcnIHdpZHRoID0gJzE5J2hlaWdodCA9ICcyNycvPi1yYXlzIHJlYWNoaW5nIHRoZSBkZXRlY3RvciBwZXIgbWludXRlIGRlY3JlYXNlZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHBoeXNpY2lzdCBtdXN0IHByZXBhcmUgYSBzaGVldCB0aGF0IHdpbGwgeWllbGQgYSBkZXRlY3Rpb24gcmF0ZSBvZiAxLDAwMCBjcG0gd2hlbiB0aGUgc2hlZXQgaXMgc3RydWNrIGJ5IDQgTWVWIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyNzYucG5nJyB3aWR0aCA9ICcxOSdoZWlnaHQgPSAnMjcnLz4tcmF5cywgYXMgaW4gRXhwZXJpbWVudCAxLiBUaGlzIHNoZWV0IGNhbiBiZSBubyB0aGlja2VyIHRoYW4gMTAuMCBjbS4gQmFzZWQgb24gdGhlIHJlc3VsdHMgb2YgRXhwZXJpbWVudCAxLCB0aGUgcGh5c2ljaXN0IGNhbiBzYXRpc2Z5IHRoZXNlIHJlcXVpcmVtZW50cyBieSBjb25zdHJ1Y3RpbmcgdGhlIHNoZWV0IG91dCBvZiB3aGljaCBvZiB0aGUgbWF0ZXJpYWxzIHRlc3RlZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEVpdGhlciBNYXRlcmlhbCAxIG9yIE1hdGVyaWFsIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEVpdGhlciBNYXRlcmlhbCAxIG9yIE1hdGVyaWFsIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEVpdGhlciBNYXRlcmlhbCAyIG9yIE1hdGVyaWFsIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEVpdGhlciBNYXRlcmlhbCAxLCBNYXRlcmlhbCAyLCBvciBNYXRlcmlhbCAzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gSW4gRXhwZXJpbWVudCAxLCB3aGF0IHdhcyB0aGUgdmFsdWUgb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjc3LnBuZycgd2lkdGggPSAnMjQnaGVpZ2h0ID0gJzM4Jy8+Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAgY3BtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEgY3BtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDQsMDAwIGNwbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDgsMDAwIGNwbTwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

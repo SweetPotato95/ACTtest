@@ -1,0 +1,14 @@
+﻿<h1>Declining Event Attendance</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For many years, the only way to see a large public event—a concert, a movie, a baseball game—was to attend in person. More than just a function of necessity, though, physically attending a lager event was seen as an opportunity to build community and fellowship through shared experience. In recent years, however, attendance at public events has declined steadily. Given the long standing cultural role of public events, it is worth considering what declining attendance might indicate about our shifting cultural values.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Read and carefully consider these perspective. Each suggests a particular way of thinking about declining event attendance as a reflection of shifting cultural values.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One</div>	
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">People these days value convenience over community. It’s easier to watch a game from home than to attend in person, so we do it, even though it keeps us isolated from one another. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For many people, attending an event is a luxury they can’t afford. When time and resource are scarce, we choose what’s most practical first, even if that means sacrificing community participation.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Today, physical presence isn’t necessary for participating in an event and building community. TV, the internet, and social media offer shared experience to more people than large public events ever could before.</div>

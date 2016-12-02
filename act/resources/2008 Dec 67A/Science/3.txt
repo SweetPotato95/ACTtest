@@ -1,62 +1,62 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Pore water is water in the pores, of subsurface material. Pore water chemistry in 2 wetlands—a fen and a bog—was studied during a 1990 summer drought and again the next summer, which had normal rainfall. The primary water supplies for fens and bogs are respectively, ground-water and rainfall. Figure 1 shows the methane (CH<sub>4</sub>) gas concentration in the pore water at various depths in the fen and the bog. Figures 2 and 3 show the pore water conductivity (which is directly proportional to the concentration of dissolved ions) and pH at various depths in the fen and the bog, respectively. Also shown are the locations of the water table, the peat (partially decomposed plant material) layer, and the mineral soil layer.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBvcmUgd2F0ZXIgaXMgd2F0ZXIgaW4gdGhlIHBvcmVzLCBvZiBzdWJzdXJmYWNlIG1hdGVyaWFsLiBQb3JlIHdhdGVyIGNoZW1pc3RyeSBpbiAyIHdldGxhbmRz4oCUYSBmZW4gYW5kIGEgYm9n4oCUd2FzIHN0dWRpZWQgZHVyaW5nIGEgMTk5MCBzdW1tZXIgZHJvdWdodCBhbmQgYWdhaW4gdGhlIG5leHQgc3VtbWVyLCB3aGljaCBoYWQgbm9ybWFsIHJhaW5mYWxsLiBUaGUgcHJpbWFyeSB3YXRlciBzdXBwbGllcyBmb3IgZmVucyBhbmQgYm9ncyBhcmUgcmVzcGVjdGl2ZWx5LCBncm91bmQtd2F0ZXIgYW5kIHJhaW5mYWxsLiBGaWd1cmUgMSBzaG93cyB0aGUgbWV0aGFuZSAoQ0g8c3ViPjQ8L3N1Yj4pIGdhcyBjb25jZW50cmF0aW9uIGluIHRoZSBwb3JlIHdhdGVyIGF0IHZhcmlvdXMgZGVwdGhzIGluIHRoZSBmZW4gYW5kIHRoZSBib2cuIEZpZ3VyZXMgMiBhbmQgMyBzaG93IHRoZSBwb3JlIHdhdGVyIGNvbmR1Y3Rpdml0eSAod2hpY2ggaXMgZGlyZWN0bHkgcHJvcG9ydGlvbmFsIHRvIHRoZSBjb25jZW50cmF0aW9uIG9mIGRpc3NvbHZlZCBpb25zKSBhbmQgcEggYXQgdmFyaW91cyBkZXB0aHMgaW4gdGhlIGZlbiBhbmQgdGhlIGJvZywgcmVzcGVjdGl2ZWx5LiBBbHNvIHNob3duIGFyZSB0aGUgbG9jYXRpb25zIG9mIHRoZSB3YXRlciB0YWJsZSwgdGhlIHBlYXQgKHBhcnRpYWxseSBkZWNvbXBvc2VkIHBsYW50IG1hdGVyaWFsKSBsYXllciwgYW5kIHRoZSBtaW5lcmFsIHNvaWwgbGF5ZXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\190.png' width = '582'height = '450'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE5MC5wbmcnIHdpZHRoID0gJzU4MidoZWlnaHQgPSAnNDUwJy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\191.png' width = '513'height = '316'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE5MS5wbmcnIHdpZHRoID0gJzUxMydoZWlnaHQgPSAnMzE2Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdGU6IE1pbmVyYWwgc29pbCBpcyBjb21wb3NlZCBtYWlubHkgb2YgbWluZXJhbCBtYXR0ZXIuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\192.png' width = '588'height = '304'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE5Mi5wbmcnIHdpZHRoID0gJzU4OCdoZWlnaHQgPSAnMzA0Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdGU6IE1pbmVyYWwgc29pbCBpcyBjb21wb3NlZCBtYWlubHkgb2YgbWluZXJhbCBtYXR0ZXIuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Edwin Romanowicz, Donald Siegel, and Paul Glaser, "Hydraulic Reversals and Episodic Methane Emissions During Drought Cycles in Mires." ©1993 by the Geological Society of America.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIEVkd2luIFJvbWFub3dpY3osIERvbmFsZCBTaWVnZWwsIGFuZCBQYXVsIEdsYXNlciwgIkh5ZHJhdWxpYyBSZXZlcnNhbHMgYW5kCyBFcGlzb2RpYyBNZXRoYW5lIEVtaXNzaW9ucyBEdXJpbmcgRHJvdWdodCBDeWNsZXMgaW4gTWlyZXMuIiDCqTE5OTMgYnkgdGhlIEdlb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">13. According to Figure 2, the conductivity of fen pore water in 1990 at a depth of 2.5 m was closest to which of the following?.
-<div class = "choice">A. 350 μmho/cm</div>
-<div class = "choice">B. 475μmho/cm</div>
-<div class = "choice">C. 600μmho/cm</div>
-<div class = "choice">D. 725μmho/cm</div>
-</div>
-###################
-<div class = "quiz">14. Based on Figure 2, if the pH of pore water in the fen at a depth of 2.7 m had been measured in the summer of 1991, it would most likely have been closest to which of the following?
-<div class = "choice">F. 4.0</div>
-<div class = "choice">G. 5.5</div>
-<div class = "choice">H. 7.0</div>
-<div class = "choice">J. 8.5</div>
-</div>
-###################
-<div class = "quiz">15. Which of the following is the most likely explanation for the difference in the depth of the bog water table in the 2 years?
-<div class = "choice">A. The amount of groundwater discharged to the bog was higher during the drought, and therefore the bog received more water than normal.</div>
-<div class = "choice">B. The amount of groundwater discharged to the bog was higher during the drought, and therefore the bog received less water than normal.</div>
-<div class = "choice">C. The amount of rainfall received by the bog was higher during the drought, and therefore: the bog received more water than, normal.</div>
-<div class = "choice">D. The amount of rainfall received by the bog was lower during the drought, and therefore the bog received less water than normal.</div>
-</div>
-###################
-<div class = "quiz">16. If the data in figures 2 and 3 are typical of fens and bogs in general, one would most likely make which of the following conclusions about the peat layer in a fen and in a bog?
-<div class = "choice">F. The peat layer in both a fen and a bog is completely above the water table at all times.</div>
-<div class = "choice">G. The peat layer in both .a fen and a bog is completely below the water table at all times.</div>
-<div class = "choice">H. The peat layer in a fen is thicker than the peat layer in a bog.</div>
-<div class = "choice">J. The peat layer in a fen is thinner than the peat layer in a bog.</div>
-</div>
-###################
-<div class = "quiz">17. According to Figure 1, the average concentration, of CH<sub>4</sub> over the depths from 0.0 m to 3.0 m was higher during the summer of:
-<div class = "choice">A. normal rainfall than during the summer of drought in both wetlands.</div>
-<div class = "choice">B. normal rainfall than during the summer of drought in the fen only.</div>
-<div class = "choice">C. drought than during the summer of normal rainfall -in both wetlands.</div>
-<div class = "choice">D. drought than during the summer of normal rainfall in. the bog only.</div>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCB0aGUgY29uZHVjdGl2aXR5IG9mIGZlbiBwb3JlIHdhdGVyIGluIDE5OTAgYXQgYSBkZXB0aCBvZiAyLjUgbSB3YXMgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDM1MCDOvG1oby9jbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQ3Nc68bWhvL2NtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDYwMM68bWhvL2NtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDcyNc68bWhvL2NtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQmFzZWQgb24gRmlndXJlIDIsIGlmIHRoZSBwSCBvZiBwb3JlIHdhdGVyIGluIHRoZSBmZW4gYXQgYSBkZXB0aCBvZiAyLjcgbSBoYWQgYmVlbiBtZWFzdXJlZCBpbiB0aGUgc3VtbWVyIG9mIDE5OTEsIGl0IHdvdWxkIG1vc3QgbGlrZWx5IGhhdmUgYmVlbiBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDQuMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDUuNTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDcuMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDguNTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyB0aGUgbW9zdCBsaWtlbHkgZXhwbGFuYXRpb24gZm9yIHRoZSBkaWZmZXJlbmNlIGluIHRoZSBkZXB0aCBvZiB0aGUgYm9nIHdhdGVyIHRhYmxlIGluIHRoZSAyIHllYXJzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBhbW91bnQgb2YgZ3JvdW5kd2F0ZXIgZGlzY2hhcmdlZCB0byB0aGUgYm9nIHdhcyBoaWdoZXIgZHVyaW5nIHRoZSBkcm91Z2h0LCBhbmQgdGhlcmVmb3JlIHRoZSBib2cgcmVjZWl2ZWQgbW9yZSB3YXRlciB0aGFuIG5vcm1hbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBhbW91bnQgb2YgZ3JvdW5kd2F0ZXIgZGlzY2hhcmdlZCB0byB0aGUgYm9nIHdhcyBoaWdoZXIgZHVyaW5nIHRoZSBkcm91Z2h0LCBhbmQgdGhlcmVmb3JlIHRoZSBib2cgcmVjZWl2ZWQgbGVzcyB3YXRlciB0aGFuIG5vcm1hbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBhbW91bnQgb2YgcmFpbmZhbGwgcmVjZWl2ZWQgYnkgdGhlIGJvZyB3YXMgaGlnaGVyIGR1cmluZyB0aGUgZHJvdWdodCwgYW5kIHRoZXJlZm9yZTogdGhlIGJvZyByZWNlaXZlZCBtb3JlIHdhdGVyIHRoYW4sIG5vcm1hbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBhbW91bnQgb2YgcmFpbmZhbGwgcmVjZWl2ZWQgYnkgdGhlIGJvZyB3YXMgbG93ZXIgZHVyaW5nIHRoZSBkcm91Z2h0LCBhbmQgdGhlcmVmb3JlIHRoZSBib2cgcmVjZWl2ZWQgbGVzcyB3YXRlciB0aGFuIG5vcm1hbC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gSWYgdGhlIGRhdGEgaW4gZmlndXJlcyAyIGFuZCAzIGFyZSB0eXBpY2FsIG9mIGZlbnMgYW5kIGJvZ3MgaW4gZ2VuZXJhbCwgb25lIHdvdWxkIG1vc3QgbGlrZWx5IG1ha2Ugd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjb25jbHVzaW9ucyBhYm91dCB0aGUgcGVhdCBsYXllciBpbiBhIGZlbiBhbmQgaW4gYSBib2c/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBwZWF0IGxheWVyIGluIGJvdGggYSBmZW4gYW5kIGEgYm9nIGlzIGNvbXBsZXRlbHkgYWJvdmUgdGhlIHdhdGVyIHRhYmxlIGF0IGFsbCB0aW1lcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBwZWF0IGxheWVyIGluIGJvdGggLmEgZmVuIGFuZCBhIGJvZyBpcyBjb21wbGV0ZWx5IGJlbG93IHRoZSB3YXRlciB0YWJsZSBhdCBhbGwgdGltZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBwZWF0IGxheWVyIGluIGEgZmVuIGlzIHRoaWNrZXIgdGhhbiB0aGUgcGVhdCBsYXllciBpbiBhIGJvZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBwZWF0IGxheWVyIGluIGEgZmVuIGlzIHRoaW5uZXIgdGhhbiB0aGUgcGVhdCBsYXllciBpbiBhIGJvZy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAxLCB0aGUgYXZlcmFnZSBjb25jZW50cmF0aW9uLCBvZiBDSDxzdWI+NDwvc3ViPiBvdmVyIHRoZSBkZXB0aHMgZnJvbSAwLjAgbSB0byAzLjAgbSB3YXMgaGlnaGVyIGR1cmluZyB0aGUgc3VtbWVyIG9mOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG5vcm1hbCByYWluZmFsbCB0aGFuIGR1cmluZyB0aGUgc3VtbWVyIG9mIGRyb3VnaHQgaW4gYm90aCB3ZXRsYW5kcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG5vcm1hbCByYWluZmFsbCB0aGFuIGR1cmluZyB0aGUgc3VtbWVyIG9mIGRyb3VnaHQgaW4gdGhlIGZlbiBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRyb3VnaHQgdGhhbiBkdXJpbmcgdGhlIHN1bW1lciBvZiBub3JtYWwgcmFpbmZhbGwgLWluIGJvdGggd2V0bGFuZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRyb3VnaHQgdGhhbiBkdXJpbmcgdGhlIHN1bW1lciBvZiBub3JtYWwgcmFpbmZhbGwgaW4uIHRoZSBib2cgb25seS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

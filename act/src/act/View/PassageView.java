@@ -3,6 +3,7 @@ package act.View;
 import javax.swing.*;
 import java.awt.*;
 
+import act.Controller.MainController;
 import act.Model.*;
 
 public class PassageView extends JPanel{
@@ -36,7 +37,10 @@ public class PassageView extends JPanel{
    	public void requestUpdate(int questionIndex,int splitIndex,int partIndex){
    		if(partIndex != ModelConstants.WRITING){
    			mainchoicepane.requestUpdate(questionIndex, splitIndex, partIndex);
-   			passagepane.requestUpdate(questionIndex, splitIndex, partIndex);
+   			if(MainController.needUpdatePa()){
+   				passagepane.requestUpdate(questionIndex, splitIndex, partIndex);
+   			}
+   			
    		}
    	}
 };

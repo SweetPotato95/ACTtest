@@ -1,110 +1,110 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from author Sue Miller’s essay “Virtual Reality: The Perils of Seeking a Novelist’s Facts in Her Fiction” (?1999 by The New York Times Company).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Before my last, recent book tour, I made myself memorize a quotation from an interview with author John Cheever that began. "It seems to me chat any confusion between autobiography and fiction debases fiction." <font id=24>Thus girded, armored, I hoped to silence forever the questioner who sits there in the third row waiting to ask, "How much of your work is autobiographical?"</font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gYXV0aG9yIFN1ZSBNaWxsZXLigJlzIGVzc2F5IOKAnFZpcnR1YWwgUmVhbGl0eTogVGhlIFBlcmlscyBvZiBTZWVraW5nIGEgTm92ZWxpc3TigJlzIEZhY3RzIGluIEhlciBGaWN0aW9u4oA/ICg/MTk5OSBieSBUaGUgTmV3IFlvcmsgVGltZXMgQ29tcGFueSkuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlZm9yZSBteSBsYXN0LCByZWNlbnQgYm9vayB0b3VyLCBJIG1hZGUgbXlzZWxmIG1lbW9yaXplIGEgcXVvdGF0aW9uIGZyb20gYW4gaW50ZXJ2aWV3IHdpdGggYXV0aG9yIEpvaG4gQ2hlZXZlciB0aGF0IGJlZ2FuLiAiSXQgc2VlbXMgdG8gbWUgY2hhdCBhbnkgY29uZnVzaW9uIGJldHdlZW4gYXV0b2Jpb2dyYXBoeSBhbmQgZmljdGlvbiBkZWJhc2VzIGZpY3Rpb24uIiA8Zm9udCBpZD0yND5UaHVzIGdpcmRlZCwgYXJtb3JlZCwgSSBob3BlZCB0byBzaWxlbmNlIGZvcmV2ZXIgdGhlIHF1ZXN0aW9uZXIgd2hvIHNpdHMgdGhlcmUgaW4gdGhlIHRoaXJkIHJvdyB3YWl0aW5nIHRvIGFzaywgIkhvdyBtdWNoIG9mIHlvdXIgd29yayBpcyBhdXRvYmlvZ3JhcGhpY2FsPyI8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The question bothers me because I sense in it a kind of potential diminishment—yes. Debasing—of the work I do. What the questioner seems to be somehow suggesting is that my writing is possibly no more than the stringing together of episodes lifted directly from my life, or from the lives of fascinating characters I have known.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBxdWVzdGlvbiBib3RoZXJzIG1lIGJlY2F1c2UgSSBzZW5zZSBpbiBpdCBhIGtpbmQgb2YgcG90ZW50aWFsIGRpbWluaXNobWVudOKAlHllcy4gRGViYXNpbmfigJRvZiB0aGUgd29yayBJIGRvLiBXaGF0IHRoZSBxdWVzdGlvbmVyIHNlZW1zIHRvIGJlIHNvbWVob3cgc3VnZ2VzdGluZyBpcyB0aGF0IG15IHdyaXRpbmcgaXMgcG9zc2libHkgbm8gbW9yZSB0aGFuIHRoZSBzdHJpbmdpbmcgdG9nZXRoZXIgb2YgZXBpc29kZXMgbGlmdGVkIGRpcmVjdGx5IGZyb20gbXkgbGlmZSwgb3IgZnJvbSB0aGUgbGl2ZXMgb2YgZmFzY2luYXRpbmcgY2hhcmFjdGVycyBJIGhhdmUga25vd24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Every writer has met the guy at the party who says he, too, has always wanted to write a novel, if only he had the time, because he's got such a great story to tell. And it seems to me that it's that same guy asking the question at the reading. Maybe this is why the question <font id=26>rises</font> so often: because the guy really wants to know how to do it, how to make fiction from the interesting or painful or shocking things that have happened to him.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV2ZXJ5IHdyaXRlciBoYXMgbWV0IHRoZSBndXkgYXQgdGhlIHBhcnR5IHdobyBzYXlzIGhlLCB0b28sIGhhcyBhbHdheXMgd2FudGVkIHRvIHdyaXRlIGEgbm92ZWwsIGlmIG9ubHkgaGUgaGFkIHRoZSB0aW1lLCBiZWNhdXNlIGhlJ3MgZ290IHN1Y2ggYSBncmVhdCBzdG9yeSB0byB0ZWxsLiBBbmQgaXQgc2VlbXMgdG8gbWUgdGhhdCBpdCdzIHRoYXQgc2FtZSBndXkgYXNraW5nIHRoZSBxdWVzdGlvbiBhdCB0aGUgcmVhZGluZy4gTWF5YmUgdGhpcyBpcyB3aHkgdGhlIHF1ZXN0aW9uIDxmb250IGlkPTI2PnJpc2VzPC9mb250PiBzbyBvZnRlbjogYmVjYXVzZSB0aGUgZ3V5IHJlYWxseSB3YW50cyB0byBrbm93IGhvdyB0byBkbyBpdCwgaG93IHRvIG1ha2UgZmljdGlvbiBmcm9tIHRoZSBpbnRlcmVzdGluZyBvciBwYWluZnVsIG9yIHNob2NraW5nIHRoaW5ncyB0aGF0IGhhdmUgaGFwcGVuZWQgdG8gaGltLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>There's a way in which readers are encouraged in this by writers who <font hidden id=22>(22.F)</font>embrace the cult of experience, the notion that the writer needs to have lived a certain kind of bold, engaged life, right out there on the edge of . . .well, something or other, in order to have anything worthwhile to write about. What's worthwhile? Well. war, for instance. Adventure on the high seas. or the highways, or the river. No wonder anyone who has even marginally partaken of any of these feels justified in thinking he must have a book in him. Somewhere.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI1PlRoZXJlJ3MgYSB3YXkgaW4gd2hpY2ggcmVhZGVycyBhcmUgZW5jb3VyYWdlZCBpbiB0aGlzIGJ5IHdyaXRlcnMgd2hvIDxmb250IGhpZGRlbiBpZD0yMj4oMjIuRik8L2ZvbnQ+ZW1icmFjZSB0aGUgY3VsdCBvZiBleHBlcmllbmNlLCB0aGUgbm90aW9uIHRoYXQgdGhlIHdyaXRlciBuZWVkcyB0byBoYXZlIGxpdmVkIGEgY2VydGFpbiBraW5kIG9mIGJvbGQsIGVuZ2FnZWQgbGlmZSwgcmlnaHQgb3V0IHRoZXJlIG9uIHRoZSBlZGdlIG9mIC4gLiAud2VsbCwgc29tZXRoaW5nIG9yIG90aGVyLCBpbiBvcmRlciB0byBoYXZlIGFueXRoaW5nIHdvcnRod2hpbGUgdG8gd3JpdGUgYWJvdXQuIFdoYXQncyB3b3J0aHdoaWxlPyBXZWxsLiB3YXIsIGZvciBpbnN0YW5jZS4gQWR2ZW50dXJlIG9uIHRoZSBoaWdoIHNlYXMuIG9yIHRoZSBoaWdod2F5cywgb3IgdGhlIHJpdmVyLiBObyB3b25kZXIgYW55b25lIHdobyBoYXMgZXZlbiBtYXJnaW5hbGx5IHBhcnRha2VuIG9mIGFueSBvZiB0aGVzZSBmZWVscyBqdXN0aWZpZWQgaW4gdGhpbmtpbmcgaGUgbXVzdCBoYXZlIGEgYm9vayBpbiBoaW0uIFNvbWV3aGVyZS48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But if experience were all, we would all have a book. As author Flannery O Connor said. anyone who's survived infancy has enough material for countless stories. The fact is, you can make a story of anything, anything at all. What's hard—and what's interesting—about a story is nor so much the thing that's in it. but what's made of that thing. And then, of course, <font hidden id=22>(22.G)</font>the making itself. But there is no necessary life to have lived or scene to have witnessed.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBpZiBleHBlcmllbmNlIHdlcmUgYWxsLCB3ZSB3b3VsZCBhbGwgaGF2ZSBhIGJvb2suIEFzIGF1dGhvciBGbGFubmVyeSBPIENvbm5vciBzYWlkLiBhbnlvbmUgd2hvJ3Mgc3Vydml2ZWQgaW5mYW5jeSBoYXMgZW5vdWdoIG1hdGVyaWFsIGZvciBjb3VudGxlc3Mgc3Rvcmllcy4gVGhlIGZhY3QgaXMsIHlvdSBjYW4gbWFrZSBhIHN0b3J5IG9mIGFueXRoaW5nLCBhbnl0aGluZyBhdCBhbGwuIFdoYXQncyBoYXJk4oCUYW5kIHdoYXQncyBpbnRlcmVzdGluZ+KAlGFib3V0IGEgc3RvcnkgaXMgbm9yIHNvIG11Y2ggdGhlIHRoaW5nIHRoYXQncyBpbiBpdC4gYnV0IHdoYXQncyBtYWRlIG9mIHRoYXQgdGhpbmcuIEFuZCB0aGVuLCBvZiBjb3Vyc2UsIDxmb250IGhpZGRlbiBpZD0yMj4oMjIuRyk8L2ZvbnQ+dGhlIG1ha2luZyBpdHNlbGYuIEJ1dCB0aGVyZSBpcyBubyBuZWNlc3NhcnkgbGlmZSB0byBoYXZlIGxpdmVkIG9yIHNjZW5lIHRvIGhhdmUgd2l0bmVzc2VkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But is the life's shape the shape of the fiction then? Is it all autobiographical? Do I write as I do because I've lived and worked primarily with children and families? Is it true that we have no choice but to echo what's happened to us and to those we know? Do we writers need to step out of our studies into the bright light of day, find jobs as laborers or executives or physicians or models in order to have something more exciting. something more relevant to contemporary life to write about?</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBpcyB0aGUgbGlmZSdzIHNoYXBlIHRoZSBzaGFwZSBvZiB0aGUgZmljdGlvbiB0aGVuPyBJcyBpdCBhbGwgYXV0b2Jpb2dyYXBoaWNhbD8gRG8gSSB3cml0ZSBhcyBJIGRvIGJlY2F1c2UgSSd2ZSBsaXZlZCBhbmQgd29ya2VkIHByaW1hcmlseSB3aXRoIGNoaWxkcmVuIGFuZCBmYW1pbGllcz8gSXMgaXQgdHJ1ZSB0aGF0IHdlIGhhdmUgbm8gY2hvaWNlIGJ1dCB0byBlY2hvIHdoYXQncyBoYXBwZW5lZCB0byB1cyBhbmQgdG8gdGhvc2Ugd2Uga25vdz8gRG8gd2Ugd3JpdGVycyBuZWVkIHRvIHN0ZXAgb3V0IG9mIG91ciBzdHVkaWVzIGludG8gdGhlIGJyaWdodCBsaWdodCBvZiBkYXksIGZpbmQgam9icyBhcyBsYWJvcmVycyBvciBleGVjdXRpdmVzIG9yIHBoeXNpY2lhbnMgb3IgbW9kZWxzIGluIG9yZGVyIHRvIGhhdmUgc29tZXRoaW5nIG1vcmUgZXhjaXRpbmcuIHNvbWV0aGluZyBtb3JlIHJlbGV2YW50IHRvIGNvbnRlbXBvcmFyeSBsaWZlIHRvIHdyaXRlIGFib3V0PzwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Surely not. Surely the writer's job is to make relevant the world she wishes to write about. How? By writing well and carefully and powerfully. By <font hidden id=22>(22.H)</font>using humor, or violence, or rue, to make the territory of her imagination compelling and somehow universal. And that holds true whether the territory of the imagination is close to the literal truth of her life or far from it.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN1cmVseSBub3QuIFN1cmVseSB0aGUgd3JpdGVyJ3Mgam9iIGlzIHRvIG1ha2UgcmVsZXZhbnQgdGhlIHdvcmxkIHNoZSB3aXNoZXMgdG8gd3JpdGUgYWJvdXQuIEhvdz8gQnkgd3JpdGluZyB3ZWxsIGFuZCBjYXJlZnVsbHkgYW5kIHBvd2VyZnVsbHkuIEJ5IDxmb250IGhpZGRlbiBpZD0yMj4oMjIuSCk8L2ZvbnQ+dXNpbmcgaHVtb3IsIG9yIHZpb2xlbmNlLCBvciBydWUsIHRvIG1ha2UgdGhlIHRlcnJpdG9yeSBvZiBoZXIgaW1hZ2luYXRpb24gY29tcGVsbGluZyBhbmQgc29tZWhvdyB1bml2ZXJzYWwuIEFuZCB0aGF0IGhvbGRzIHRydWUgd2hldGhlciB0aGUgdGVycml0b3J5IG9mIHRoZSBpbWFnaW5hdGlvbiBpcyBjbG9zZSB0byB0aGUgbGl0ZXJhbCB0cnV0aCBvZiBoZXIgbGlmZSBvciBmYXIgZnJvbSBpdC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sometimes the distance is minimal, minimal enough for the fiction to cause lifelong hard feelings: the use of a fictional alter ego, for example, or of changes so slight that they seem like a kind of cruel joke. Sometimes, family or friends can end up feeling misused, abused. There are certainly writers who seem nearly deliberately provocative in this way: <font id=27>the burning-bridges school of art</font>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNvbWV0aW1lcyB0aGUgZGlzdGFuY2UgaXMgbWluaW1hbCwgbWluaW1hbCBlbm91Z2ggZm9yIHRoZSBmaWN0aW9uIHRvIGNhdXNlIGxpZmVsb25nIGhhcmQgZmVlbGluZ3M6IHRoZSB1c2Ugb2YgYSBmaWN0aW9uYWwgYWx0ZXIgZWdvLCBmb3IgZXhhbXBsZSwgb3Igb2YgY2hhbmdlcyBzbyBzbGlnaHQgdGhhdCB0aGV5IHNlZW0gbGlrZSBhIGtpbmQgb2YgY3J1ZWwgam9rZS4gU29tZXRpbWVzLCBmYW1pbHkgb3IgZnJpZW5kcyBjYW4gZW5kIHVwIGZlZWxpbmcgbWlzdXNlZCwgYWJ1c2VkLiBUaGVyZSBhcmUgY2VydGFpbmx5IHdyaXRlcnMgd2hvIHNlZW0gbmVhcmx5IGRlbGliZXJhdGVseSBwcm92b2NhdGl2ZSBpbiB0aGlzIHdheTogPGZvbnQgaWQ9Mjc+dGhlIGJ1cm5pbmctYnJpZGdlcyBzY2hvb2wgb2YgYXJ0PC9mb250Pi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For the true writer, though, however close the events may be to her life, there is some distance, some remove, that allows for the shaping of the work. The shaping, after all, is what it's all about. Every reader can sense the difference between a writer who embodies meaning through the events she describes and the writer who seems simply mired in those events. It is that struggle for meaning that lets the writer <font hidden id=22>(22.J)</font>escape the tyranny of what really happened and begin to dream her fictional <font id=28>dream</font>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciB0aGUgdHJ1ZSB3cml0ZXIsIHRob3VnaCwgaG93ZXZlciBjbG9zZSB0aGUgZXZlbnRzIG1heSBiZSB0byBoZXIgbGlmZSwgdGhlcmUgaXMgc29tZSBkaXN0YW5jZSwgc29tZSByZW1vdmUsIHRoYXQgYWxsb3dzIGZvciB0aGUgc2hhcGluZyBvZiB0aGUgd29yay4gVGhlIHNoYXBpbmcsIGFmdGVyIGFsbCwgaXMgd2hhdCBpdCdzIGFsbCBhYm91dC4gRXZlcnkgcmVhZGVyIGNhbiBzZW5zZSB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgd3JpdGVyIHdobyBlbWJvZGllcyBtZWFuaW5nIHRocm91Z2ggdGhlIGV2ZW50cyBzaGUgZGVzY3JpYmVzIGFuZCB0aGUgd3JpdGVyIHdobyBzZWVtcyBzaW1wbHkgbWlyZWQgaW4gdGhvc2UgZXZlbnRzLiBJdCBpcyB0aGF0IHN0cnVnZ2xlIGZvciBtZWFuaW5nIHRoYXQgbGV0cyB0aGUgd3JpdGVyIDxmb250IGhpZGRlbiBpZD0yMj4oMjIuSik8L2ZvbnQ+ZXNjYXBlIHRoZSB0eXJhbm55IG9mIHdoYXQgcmVhbGx5IGhhcHBlbmVkIGFuZCBiZWdpbiB0byBkcmVhbSBoZXIgZmljdGlvbmFsIDxmb250IGlkPTI4PmRyZWFtPC9mb250Pi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As to what happens in the dream, in the story. well, we all have the kinds of event we prefer, but surely this is a matter of preference, not worth. You find in the story of a quest for a white whale the embodiment of the. human struggle for control, for wholeness? Fine. For me everyday life in the hands of a fine writer seems similarly charged with meaning. When I write. I want to bring a sense of that charge, that meaning. to what may fairly be called the domestic. O.K.?</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIHRvIHdoYXQgaGFwcGVucyBpbiB0aGUgZHJlYW0sIGluIHRoZSBzdG9yeS4gd2VsbCwgd2UgYWxsIGhhdmUgdGhlIGtpbmRzIG9mIGV2ZW50IHdlIHByZWZlciwgYnV0IHN1cmVseSB0aGlzIGlzIGEgbWF0dGVyIG9mIHByZWZlcmVuY2UsIG5vdCB3b3J0aC4gWW91IGZpbmQgaW4gdGhlIHN0b3J5IG9mIGEgcXVlc3QgZm9yIGEgd2hpdGUgd2hhbGUgdGhlIGVtYm9kaW1lbnQgb2YgdGhlLiBodW1hbiBzdHJ1Z2dsZSBmb3IgY29udHJvbCwgZm9yIHdob2xlbmVzcz8gRmluZS4gRm9yIG1lIGV2ZXJ5ZGF5IGxpZmUgaW4gdGhlIGhhbmRzIG9mIGEgZmluZSB3cml0ZXIgc2VlbXMgc2ltaWxhcmx5IGNoYXJnZWQgd2l0aCBtZWFuaW5nLiBXaGVuIEkgd3JpdGUuIEkgd2FudCB0byBicmluZyBhIHNlbnNlIG9mIHRoYXQgY2hhcmdlLCB0aGF0IG1lYW5pbmcuIHRvIHdoYXQgbWF5IGZhaXJseSBiZSBjYWxsZWQgdGhlIGRvbWVzdGljLiBPLksuPzwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=30>So. come on, really, how much is autobiographical?</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMwPlNvLiBjb21lIG9uLCByZWFsbHksIGhvdyBtdWNoIGlzIGF1dG9iaW9ncmFwaGljYWw/PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">All of it. None.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsbCBvZiBpdC4gTm9uZS48L2ZvbnQ+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">21. The tone of the passage could best be described as:
-<div class = "choice">A. antagonistic and inhibited.</div>
-<div class = "choice">B. distinguished and quiet.</div>
-<div class = "choice">C. humorous and carefree.</div>
-<div class = "choice">D. spirited and frank.</div>
-</div>
-###################
-<div class = "quiz">22. According to the author of the passage. readers gain false ideas about writing fiction from writers who:
-<div class = "choice">F. "embrace the cult of experience" (line 25).</div>
-<div class = "choice">G. believe that what is difficult about writing is "the making itself" (line 41).</div>
-<div class = "choice">H. write "using humor, or violence. or rue" (lines 55-56).</div>
-<div class = "choice">J. "escape the tyranny of what really happened" (lines 75-76).</div>
-</div>
-###################
-<div class = "quiz">23. It can reasonably be inferred that the author of the passage memorized the Cheever quotation so that during a book tour she would be:
-<div class = "choice">A. able to give her audiences an example of an inventive approach to writing fiction.</div>
-<div class = "choice">B. ready to answer questions about the similarities between Cheever's fiction and her own.</div>
-<div class = "choice">C. fully prepared to deal with a common issue in a definitive way.</div>
-<div class = "choice">D. better able to help her audiences understand Cheever's complex ideas.</div>
-</div>
-###################
-<div class = "quiz">24. According to the author of the passage, the questioner referred to in lines 5-7 most likely wants to:
-<div class = "choice">F. write fiction based on his or her own life.</div>
-<div class = "choice">G. change his or her life to make it a bold, engaged one worth writing about.</div>
-<div class = "choice">H. find out how the author of the passage manages time in order to have time to write.</div>
-<div class = "choice">J. create fiction using episodes from another's life.</div>
-</div>
-###################
-<div class = "quiz">25. According to the fourth paragraph (lines 24-33), the author of the passage feels that some writers believe that to write well, it is necessary to:
-<div class = "choice">A. make sure experiencing life doesn't interfere with writing.</div>
-<div class = "choice">B. become marginally involved in many worthwhile events.</div>
-<div class = "choice">C. depend on imagination.</div>
-<div class = "choice">D. live a bold and adventurous life.</div>
-</div>
-###################
-<div class = "quiz">26. As it is used in line 20, the word rises most nearly means:
-<div class = "choice">F. ascends.</div>
-<div class = "choice">G. soars.</div>
-<div class = "choice">H. swells.</div>
-<div class = "choice">J. materializes.</div>
-</div>
-###################
-<div class = "quiz">27. It can reasonably be inferred from the passage that "the burning-bridges school of art" (lines.66-67) consists of writers who:
-<div class = "choice">A. consider their fiction to be most meaningful when it offers a sympathetic portrayal of family or friends.</div>
-<div class = "choice">B. believe that a minimal distance between fiction and reality is insufficient.</div>
-<div class = "choice">C. do not like basing their writing on their own experiences.</div>
-<div class = "choice">D. almost seem to want their writing to hurt the people on whose lives it is based.</div>
-</div>
-###################
-<div class = "quiz">28. As it is used in line 77, the word dream most nearly means the:
-<div class = "choice">F. story as conceived by a writer.</div>
-<div class = "choice">G. goal of a writer.</div>
-<div class = "choice">H. real-life experience the writer wants to have.</div>
-<div class = "choice">J. image in the reader's mind.</div>
-</div>
-###################
-<div class = "quiz">29. The author of the passage indicates that she seeks to write fiction that:
-<div class = "choice">A. strings together episodes from her life.</div>
-<div class = "choice">B. brings significance to the events of domestic life.</div>
-<div class = "choice">C. reveals how to write as a "true writer."</div>
-<div class = "choice">D. helps readers understand the painful, shocking events in their lives.</div>
-</div>
-###################
-<div class = "quiz">30. If lines 88-89 were omitted from the passage, what would primarily be lost?
-<div class = "choice">F. Support for the statement made in the passage that writers do not like to share their work</div>
-<div class = "choice">G. Evidence chat the writer wants her readers to guess how much of her fiction is autobiographical</div>
-<div class = "choice">H. A return to the passage's opening question in an attempt to portray it as the wrong one to ask</div>
-<div class = "choice">J. An apology from the writer for not answering the question she poses in the beginning of the passage</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIHRvbmUgb2YgdGhlIHBhc3NhZ2UgY291bGQgYmVzdCBiZSBkZXNjcmliZWQgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFudGFnb25pc3RpYyBhbmQgaW5oaWJpdGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRpc3Rpbmd1aXNoZWQgYW5kIHF1aWV0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGh1bW9yb3VzIGFuZCBjYXJlZnJlZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNwaXJpdGVkIGFuZCBmcmFuay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQWNjb3JkaW5nIHRvIHRoZSBhdXRob3Igb2YgdGhlIHBhc3NhZ2UuIHJlYWRlcnMgZ2FpbiBmYWxzZSBpZGVhcyBhYm91dCB3cml0aW5nIGZpY3Rpb24gZnJvbSB3cml0ZXJzIHdobzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuICJlbWJyYWNlIHRoZSBjdWx0IG9mIGV4cGVyaWVuY2UiIChsaW5lIDI1KS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlbGlldmUgdGhhdCB3aGF0IGlzIGRpZmZpY3VsdCBhYm91dCB3cml0aW5nIGlzICJ0aGUgbWFraW5nIGl0c2VsZiIgKGxpbmUgNDEpLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdyaXRlICJ1c2luZyBodW1vciwgb3IgdmlvbGVuY2UuIG9yIHJ1ZSIgKGxpbmVzIDU1LTU2KS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouICJlc2NhcGUgdGhlIHR5cmFubnkgb2Ygd2hhdCByZWFsbHkgaGFwcGVuZWQiIChsaW5lcyA3NS03NikuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgYXV0aG9yIG9mIHRoZSBwYXNzYWdlIG1lbW9yaXplZCB0aGUgQ2hlZXZlciBxdW90YXRpb24gc28gdGhhdCBkdXJpbmcgYSBib29rIHRvdXIgc2hlIHdvdWxkIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFibGUgdG8gZ2l2ZSBoZXIgYXVkaWVuY2VzIGFuIGV4YW1wbGUgb2YgYW4gaW52ZW50aXZlIGFwcHJvYWNoIHRvIHdyaXRpbmcgZmljdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlYWR5IHRvIGFuc3dlciBxdWVzdGlvbnMgYWJvdXQgdGhlIHNpbWlsYXJpdGllcyBiZXR3ZWVuIENoZWV2ZXIncyBmaWN0aW9uIGFuZCBoZXIgb3duLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZ1bGx5IHByZXBhcmVkIHRvIGRlYWwgd2l0aCBhIGNvbW1vbiBpc3N1ZSBpbiBhIGRlZmluaXRpdmUgd2F5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJldHRlciBhYmxlIHRvIGhlbHAgaGVyIGF1ZGllbmNlcyB1bmRlcnN0YW5kIENoZWV2ZXIncyBjb21wbGV4IGlkZWFzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gQWNjb3JkaW5nIHRvIHRoZSBhdXRob3Igb2YgdGhlIHBhc3NhZ2UsIHRoZSBxdWVzdGlvbmVyIHJlZmVycmVkIHRvIGluIGxpbmVzIDUtNyBtb3N0IGxpa2VseSB3YW50cyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdyaXRlIGZpY3Rpb24gYmFzZWQgb24gaGlzIG9yIGhlciBvd24gbGlmZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNoYW5nZSBoaXMgb3IgaGVyIGxpZmUgdG8gbWFrZSBpdCBhIGJvbGQsIGVuZ2FnZWQgb25lIHdvcnRoIHdyaXRpbmcgYWJvdXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZpbmQgb3V0IGhvdyB0aGUgYXV0aG9yIG9mIHRoZSBwYXNzYWdlIG1hbmFnZXMgdGltZSBpbiBvcmRlciB0byBoYXZlIHRpbWUgdG8gd3JpdGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNyZWF0ZSBmaWN0aW9uIHVzaW5nIGVwaXNvZGVzIGZyb20gYW5vdGhlcidzIGxpZmUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQWNjb3JkaW5nIHRvIHRoZSBmb3VydGggcGFyYWdyYXBoIChsaW5lcyAyNC0zMyksIHRoZSBhdXRob3Igb2YgdGhlIHBhc3NhZ2UgZmVlbHMgdGhhdCBzb21lIHdyaXRlcnMgYmVsaWV2ZSB0aGF0IHRvIHdyaXRlIHdlbGwsIGl0IGlzIG5lY2Vzc2FyeSB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG1ha2Ugc3VyZSBleHBlcmllbmNpbmcgbGlmZSBkb2Vzbid0IGludGVyZmVyZSB3aXRoIHdyaXRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJlY29tZSBtYXJnaW5hbGx5IGludm9sdmVkIGluIG1hbnkgd29ydGh3aGlsZSBldmVudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRlcGVuZCBvbiBpbWFnaW5hdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpdmUgYSBib2xkIGFuZCBhZHZlbnR1cm91cyBsaWZlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDIwLCB0aGUgd29yZCByaXNlcyBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFzY2VuZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNvYXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN3ZWxscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1hdGVyaWFsaXplcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0ICJ0aGUgYnVybmluZy1icmlkZ2VzIHNjaG9vbCBvZiBhcnQiIChsaW5lcy42Ni02NykgY29uc2lzdHMgb2Ygd3JpdGVycyB3aG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbnNpZGVyIHRoZWlyIGZpY3Rpb24gdG8gYmUgbW9zdCBtZWFuaW5nZnVsIHdoZW4gaXQgb2ZmZXJzIGEgc3ltcGF0aGV0aWMgcG9ydHJheWFsIG9mIGZhbWlseSBvciBmcmllbmRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJlbGlldmUgdGhhdCBhIG1pbmltYWwgZGlzdGFuY2UgYmV0d2VlbiBmaWN0aW9uIGFuZCByZWFsaXR5IGlzIGluc3VmZmljaWVudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRvIG5vdCBsaWtlIGJhc2luZyB0aGVpciB3cml0aW5nIG9uIHRoZWlyIG93biBleHBlcmllbmNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFsbW9zdCBzZWVtIHRvIHdhbnQgdGhlaXIgd3JpdGluZyB0byBodXJ0IHRoZSBwZW9wbGUgb24gd2hvc2UgbGl2ZXMgaXQgaXMgYmFzZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDc3LCB0aGUgd29yZCBkcmVhbSBtb3N0IG5lYXJseSBtZWFucyB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHN0b3J5IGFzIGNvbmNlaXZlZCBieSBhIHdyaXRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGdvYWwgb2YgYSB3cml0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHJlYWwtbGlmZSBleHBlcmllbmNlIHRoZSB3cml0ZXIgd2FudHMgdG8gaGF2ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltYWdlIGluIHRoZSByZWFkZXIncyBtaW5kLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIGF1dGhvciBvZiB0aGUgcGFzc2FnZSBpbmRpY2F0ZXMgdGhhdCBzaGUgc2Vla3MgdG8gd3JpdGUgZmljdGlvbiB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN0cmluZ3MgdG9nZXRoZXIgZXBpc29kZXMgZnJvbSBoZXIgbGlmZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJyaW5ncyBzaWduaWZpY2FuY2UgdG8gdGhlIGV2ZW50cyBvZiBkb21lc3RpYyBsaWZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJldmVhbHMgaG93IHRvIHdyaXRlIGFzIGEgInRydWUgd3JpdGVyLiI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhlbHBzIHJlYWRlcnMgdW5kZXJzdGFuZCB0aGUgcGFpbmZ1bCwgc2hvY2tpbmcgZXZlbnRzIGluIHRoZWlyIGxpdmVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gSWYgbGluZXMgODgtODkgd2VyZSBvbWl0dGVkIGZyb20gdGhlIHBhc3NhZ2UsIHdoYXQgd291bGQgcHJpbWFyaWx5IGJlIGxvc3Q/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFN1cHBvcnQgZm9yIHRoZSBzdGF0ZW1lbnQgbWFkZSBpbiB0aGUgcGFzc2FnZSB0aGF0IHdyaXRlcnMgZG8gbm90IGxpa2UgdG8gc2hhcmUgdGhlaXIgd29yazwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEV2aWRlbmNlIGNoYXQgdGhlIHdyaXRlciB3YW50cyBoZXIgcmVhZGVycyB0byBndWVzcyBob3cgbXVjaCBvZiBoZXIgZmljdGlvbiBpcyBhdXRvYmlvZ3JhcGhpY2FsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEgcmV0dXJuIHRvIHRoZSBwYXNzYWdlJ3Mgb3BlbmluZyBxdWVzdGlvbiBpbiBhbiBhdHRlbXB0IHRvIHBvcnRyYXkgaXQgYXMgdGhlIHdyb25nIG9uZSB0byBhc2s8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFuIGFwb2xvZ3kgZnJvbSB0aGUgd3JpdGVyIGZvciBub3QgYW5zd2VyaW5nIHRoZSBxdWVzdGlvbiBzaGUgcG9zZXMgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcGFzc2FnZTwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,63 +1,63 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An RCL circuit contains an alternating current (AC) power supply, a resistor having a resistance R, a capacitor having a capacitance C, and an inductor having an inductance L (see Figure l).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuIFJDTCBjaXJjdWl0IGNvbnRhaW5zIGFuIGFsdGVybmF0aW5nIGN1cnJlbnQgKEFDKSBwb3dlciBzdXBwbHksIGEgcmVzaXN0b3IgaGF2aW5nIGEgcmVzaXN0YW5jZSBSLCBhIGNhcGFjaXRvciBoYXZpbmcgYSBjYXBhY2l0YW5jZSBDLCBhbmQgYW4gaW5kdWN0b3IgaGF2aW5nIGFuIGluZHVjdGFuY2UgTCAoc2VlIEZpZ3VyZSBsKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\104.png' width = '479'height = '329'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTA0LnBuZycgd2lkdGggPSAnNDc5J2hlaWdodCA9ICczMjknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The capacitor and inductor each possess impedance, a type of electrical resistance. The angular frequency of the current, <img src='file:\$$$\resources\2010 April 68G\imgs\105.png' width = '24'height = '24'/>, is a measure of the number of time each second that the current reverses direction.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBjYXBhY2l0b3IgYW5kIGluZHVjdG9yIGVhY2ggcG9zc2VzcyBpbXBlZGFuY2UsIGEgdHlwZSBvZiBlbGVjdHJpY2FsIHJlc2lzdGFuY2UuIFRoZSBhbmd1bGFyIGZyZXF1ZW5jeSBvZiB0aGUgY3VycmVudCwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMDUucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz4sIGlzIGEgbWVhc3VyZSBvZiB0aGUgbnVtYmVyIG9mIHRpbWUgZWFjaCBzZWNvbmQgdGhhdCB0aGUgY3VycmVudCByZXZlcnNlcyBkaXJlY3Rpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows, for specific values of C, L, and average voltage, V, how the average current, I, varies with <img src='file:\$$$\resources\2010 April 68G\imgs\106.png' width = '24'height = '24'/> and with R.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIHNob3dzLCBmb3Igc3BlY2lmaWMgdmFsdWVzIG9mIEMsIEwsIGFuZCBhdmVyYWdlIHZvbHRhZ2UsIFYsIGhvdyB0aGUgYXZlcmFnZSBjdXJyZW50LCBJLCB2YXJpZXMgd2l0aCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEwIEFwcmlsIDY4R1xpbWdzXDEwNi5wbmcnIHdpZHRoID0gJzI0J2hlaWdodCA9ICcyNCcvPiBhbmQgd2l0aCBSLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\107.png' width = '454'height = '440'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTA3LnBuZycgd2lkdGggPSAnNDU0J2hlaWdodCA9ICc0NDAnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from David Halliday and Robert Resnick, Physics, Part 2, 3rd ed. 1978 by John Wiley and Sons, Inc.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIGFkYXB0ZWQgZnJvbSBEYXZpZCBIYWxsaWRheSBhbmQgUm9iZXJ0IFJlc25pY2ssIFBoeXNpY3MsIFBhcnQgMiwgM3JkIGVkLiAVMTk3OCBieSBKb2huIFdpbGV5IGFuZCBTb25zLCBJbmMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For a given R, the peak average current, I<sub>m</sub><sub>a</sub><sub>x</sub>, occurs at the resonant angular frequency, <img src='file:\$$$\resources\2010 April 68G\imgs\108.png' width = '24'height = '24'/><sub>0</sub>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBhIGdpdmVuIFIsIHRoZSBwZWFrIGF2ZXJhZ2UgY3VycmVudCwgSTxzdWI+bTwvc3ViPjxzdWI+YTwvc3ViPjxzdWI+eDwvc3ViPiwgb2NjdXJzIGF0IHRoZSByZXNvbmFudCBhbmd1bGFyIGZyZXF1ZW5jeSwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMDgucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz48c3ViPjA8L3N1Yj4uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows how <img src='file:\$$$\resources\2010 April 68G\imgs\109.png' width = '24'height = '24'/><sub>0</sub> varies with L and C.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzIHNob3dzIGhvdyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEwIEFwcmlsIDY4R1xpbWdzXDEwOS5wbmcnIHdpZHRoID0gJzI0J2hlaWdodCA9ICcyNCcvPjxzdWI+MDwvc3ViPiB2YXJpZXMgd2l0aCBMIGFuZCBDLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\110.png' width = '406'height = '404'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTEwLnBuZycgd2lkdGggPSAnNDA2J2hlaWdodCA9ICc0MDQnLz48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">36. What is the resonant angular frequency of the RCL circuit for the conditions given in Figure 2 ?
-<div class = "choice">F. 0.90×l0<sup>7</sup> radians/sec</div>
-<div class = "choice">G. 0.95×10<sup>7</sup> radians/sec</div>
-<div class = "choice">H. 1.00×10<sup>7</sup> radians/sec</div>
-<div class = "choice">J. l.05×10<sup>7</sup> radians/sec</div>
-</div>
-###################
-<div class = "quiz">37. According to Figure 3, for C =1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, as L increases, <img src='file:\$$$\resources\2010 April 68G\imgs\111.png' width = '24'height = '24'/><sub>0</sub>:
-<div class = "choice">A. increases only.</div>
-<div class = "choice">B. decreases only.</div>
-<div class = "choice">C. varies, but with no general trend.</div>
-<div class = "choice">D. remains the same.</div>
-</div>
-###################
-<div class = "quiz">38. For the conditions specified in Figure 2 and R= 30 ohms, the resistor will generate the greatest amount of heat when <img src='file:\$$$\resources\2010 April 68G\imgs\112.png' width = '24'height = '24'/> is closest to which of the following values?
-<div class = "choice">F. 0.90×l0<sup>7</sup> radians/sec</div>
-<div class = "choice">G. 0.95×l0<sup>7</sup> radians/sec</div>
-<div class = "choice">H. 1.00×l0<sup>7</sup> radians/sec</div>
-<div class = "choice">J. 1.05×l0<sup>7</sup> radians/sec</div>
-</div>
-###################
-<div class = "quiz">39. According go Figure 2, does<img src='file:\$$$\resources\2010 April 68G\imgs\113.png' width = '24'height = '24'/><sub>0</sub> vary with R ?
-<div class = "choice">A. Yes; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\114.png' width = '24'height = '24'/><sub>0</sub> decreases.</div>
-<div class = "choice">B. Yes; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\115.png' width = '24'height = '24'/><sub>0</sub> remains the same.</div>
-<div class = "choice">C. No; as R increases, <img src='file:\$$$\resources\2010 April 68G\imgs\116.png' width = '24'height = '24'/><sub>0</sub> increases.</div>
-<div class = "choice">D. No; as R in creases, <img src='file:\$$$\resources\2010 April 68G\imgs\117.png' width = '24'height = '24'/><sub>0</sub> remains the same.</div>
-</div>
-###################
-<div class = "quiz">40. For a given L, what is the correct ranking of the values of C in Figure 3, from the C associated with the lowest <img src='file:\$$$\resources\2010 April 68G\imgs\118.png' width = '24'height = '24'/><sub>0</sub> to the C associated with the highest <img src='file:\$$$\resources\2010 April 68G\imgs\119.png' width = '24'height = '24'/><sub>0</sub>?
-<div class = "choice">F. 1.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
-<div class = "choice">G. 1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
-<div class = "choice">H. 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup><sup> </sup>farad, 3.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 1.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
-<div class = "choice">J. 3.0×l0<sup>-</sup><sup>1</sup><sup>0</sup> farad, 2.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad, 1.0×10<sup>-</sup><sup>1</sup><sup>0</sup> farad</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gV2hhdCBpcyB0aGUgcmVzb25hbnQgYW5ndWxhciBmcmVxdWVuY3kgb2YgdGhlIFJDTCBjaXJjdWl0IGZvciB0aGUgY29uZGl0aW9ucyBnaXZlbiBpbiBGaWd1cmUgMiA/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuOTDDl2wwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAuOTXDlzEwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEuMDDDlzEwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGwuMDXDlzEwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCBmb3IgQyA9MS4ww5cxMDxzdXA+LTwvc3VwPjxzdXA+MTwvc3VwPjxzdXA+MDwvc3VwPiBmYXJhZCwgYXMgTCBpbmNyZWFzZXMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTExLnBuZycgd2lkdGggPSAnMjQnaGVpZ2h0ID0gJzI0Jy8+PHN1Yj4wPC9zdWI+Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHZhcmllcywgYnV0IHdpdGggbm8gZ2VuZXJhbCB0cmVuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlbWFpbnMgdGhlIHNhbWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gRm9yIHRoZSBjb25kaXRpb25zIHNwZWNpZmllZCBpbiBGaWd1cmUgMiBhbmQgUj0gMzAgb2htcywgdGhlIHJlc2lzdG9yIHdpbGwgZ2VuZXJhdGUgdGhlIGdyZWF0ZXN0IGFtb3VudCBvZiBoZWF0IHdoZW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMTIucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz4gaXMgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHZhbHVlcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuOTDDl2wwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAuOTXDl2wwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEuMDDDl2wwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEuMDXDl2wwPHN1cD43PC9zdXA+IHJhZGlhbnMvc2VjPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gQWNjb3JkaW5nIGdvIEZpZ3VyZSAyLCBkb2VzPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMTMucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz48c3ViPjA8L3N1Yj4gdmFyeSB3aXRoIFIgPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllczsgYXMgUiBpbmNyZWFzZXMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTE0LnBuZycgd2lkdGggPSAnMjQnaGVpZ2h0ID0gJzI0Jy8+PHN1Yj4wPC9zdWI+IGRlY3JlYXNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllczsgYXMgUiBpbmNyZWFzZXMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTE1LnBuZycgd2lkdGggPSAnMjQnaGVpZ2h0ID0gJzI0Jy8+PHN1Yj4wPC9zdWI+IHJlbWFpbnMgdGhlIHNhbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vOyBhcyBSIGluY3JlYXNlcywgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMTYucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz48c3ViPjA8L3N1Yj4gaW5jcmVhc2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vOyBhcyBSIGluIGNyZWFzZXMsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcMTE3LnBuZycgd2lkdGggPSAnMjQnaGVpZ2h0ID0gJzI0Jy8+PHN1Yj4wPC9zdWI+IHJlbWFpbnMgdGhlIHNhbWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gRm9yIGEgZ2l2ZW4gTCwgd2hhdCBpcyB0aGUgY29ycmVjdCByYW5raW5nIG9mIHRoZSB2YWx1ZXMgb2YgQyBpbiBGaWd1cmUgMywgZnJvbSB0aGUgQyBhc3NvY2lhdGVkIHdpdGggdGhlIGxvd2VzdCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEwIEFwcmlsIDY4R1xpbWdzXDExOC5wbmcnIHdpZHRoID0gJzI0J2hlaWdodCA9ICcyNCcvPjxzdWI+MDwvc3ViPiB0byB0aGUgQyBhc3NvY2lhdGVkIHdpdGggdGhlIGhpZ2hlc3QgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMCBBcHJpbCA2OEdcaW1nc1wxMTkucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnMjQnLz48c3ViPjA8L3N1Yj4/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEuMMOXbDA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDIuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDMuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDMuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDIuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDIuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD48c3VwPiA8L3N1cD5mYXJhZCwgMy4ww5cxMDxzdXA+LTwvc3VwPjxzdXA+MTwvc3VwPjxzdXA+MDwvc3VwPiBmYXJhZCwgMS4ww5dsMDxzdXA+LTwvc3VwPjxzdXA+MTwvc3VwPjxzdXA+MDwvc3VwPiBmYXJhZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDMuMMOXbDA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDIuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQsIDEuMMOXMTA8c3VwPi08L3N1cD48c3VwPjE8L3N1cD48c3VwPjA8L3N1cD4gZmFyYWQ8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

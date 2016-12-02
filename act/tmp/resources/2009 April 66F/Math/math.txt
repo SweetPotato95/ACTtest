@@ -1,0 +1,525 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+###################
+<div class = "quiz">1. On level ground, a vertical rod 12 feet tall casts a shadow 4 feet long, and at the same time a nearby vertical flagpole casts a shadow 12 feet long. How many feet tall is the flagpole?
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 8</div>
+<div class = "choice">C. 12</div>
+<div class = "choice">D. 20</div>
+<div class = "choice">E. 36</div>
+</div>
+###################
+<div class = "quiz">2. The cost of a gym membership is a onetime fee of $140, plus a monthly fee of $40. Brendan wrote a $500 check to pay his gym membership for a certain number of months, including the onetime fee. How many months of membership did he pay for?
+<div class = "choice">F. 3</div>
+<div class = "choice">G. 4</div>
+<div class = "choice">H. 9</div>
+<div class = "choice">J. 12</div>
+<div class = "choice">K. 13</div>
+</div>
+###################
+<div class = "quiz">3. If<img src='file:\$$$\resources\2009 April 66F\imgs\0.png' width = '65'height = '27'/>, what is the value of<img src='file:\$$$\resources\2009 April 66F\imgs\1.png' width = '60'height = '63'/>?
+<div class = "choice">A. -6</div>
+<div class = "choice">B. -4</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\2.png' width = '35'height = '61'/></div>	
+<div class = "choice">E. 19</div>
+</div>
+###################
+<div class = "quiz">4. A museum offers a 2-hour guided group tour. For groups with fewer than 25 people the cost is $9.25 per person; for groups with 25 people or more the cost is $8.50 per person. The 27 people in the 9:00 a.m. tour group each paid $9.25 in advance. What is the total refund that the museum owes the 9:00 a.m. group?
+<div class = "choice">F. $12.50</div>
+<div class = "choice">G. $13.00</div>
+<div class = "choice">H. $18.75</div>
+<div class = "choice">J. $20.25</div>
+<div class = "choice">K. $25.00</div>
+</div>
+###################
+<div class = "quiz">5. The 13-member math dub needs to choose a student government representative. They decide that the representative, who will be chosen at random, CANNOT be any of the 3 officers of the club. What is the probability that Samara, who is a member of the club but NOT an officer, will be chosen?
+<div class = "choice">A. 0</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\3.png' width = '31'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\4.png' width = '31'height = '61'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\5.png' width = '31'height = '61'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\6.png' width = '19'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">6. What is the perimeter, in centimeters, of a rectangle with length 15 cm and width 6 cm ?
+<div class = "choice">F. 21</div>
+<div class = "choice">G. 30</div>
+<div class = "choice">H. 42</div>
+<div class = "choice">J. 90</div>
+<div class = "choice">K. 180</div>
+</div>
+###################
+<div class = "quiz">7. Tickets for a community theater production cost $6 each when bought in advance and $8 each when bought at the door. The theater group's goal is at least $2,000 in ticket sales for opening night. The theater group sold 142 opening-night tickets in advance. What is the minimum number of tickets they need to sell at the door on opening night to make their goal?
+<div class = "choice">A. 143</div>
+<div class = "choice">B. 144</div>
+<div class = "choice">C. 192</div>
+<div class = "choice">D. 250</div>
+<div class = "choice">E. 357</div>
+</div>
+###################
+<div class = "quiz">8. For what value of r is the equation <img src='file:\$$$\resources\2009 April 66F\imgs\7.png' width = '78'height = '61'/> true?
+<div class = "choice">F. 3</div>
+<div class = "choice">G. 6</div>
+<div class = "choice">H. 14</div>
+<div class = "choice">J. 15</div>
+<div class = "choice">K. 18</div>
+</div>
+###################
+<div class = "quiz">9. If<img src='file:\$$$\resources\2009 April 66F\imgs\8.png' width = '155'height = '38'/>, then<img src='file:\$$$\resources\2009 April 66F\imgs\9.png' width = '36'height = '26'/>?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\10.png' width = '50'height = '61'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\11.png' width = '45'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\12.png' width = '36'height = '61'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\13.png' width = '36'height = '61'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\14.png' width = '32'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">10. In the figure below, A, D, C, and E are collinear.<img src='file:\$$$\resources\2009 April 66F\imgs\15.png' width = '41'height = '32'/>, <img src='file:\$$$\resources\2009 April 66F\imgs\16.png' width = '38'height = '32'/>, and <img src='file:\$$$\resources\2009 April 66F\imgs\17.png' width = '38'height = '34'/> are all the same length, and the angle measure of ∠ABD is as marked. What is the degree measure of ∠BCE?
+<img src='file:\$$$\resources\2009 April 66F\imgs\18.png' width = '686'height = '256'/>
+<div class = "choice">F. 50º</div>
+<div class = "choice">G. 100º</div>
+<div class = "choice">H. 105º</div>
+<div class = "choice">J. 130º</div>
+<div class = "choice">K. 160º</div>
+</div>
+###################
+<div class = "quiz">11. If<img src='file:\$$$\resources\2009 April 66F\imgs\19.png' width = '185'height = '38'/>, then <img src='file:\$$$\resources\2009 April 66F\imgs\20.png' width = '98'height = '38'/>
+<div class = "choice">A. -54</div>
+<div class = "choice">B. -18</div>
+<div class = "choice">C. 18</div>
+<div class = "choice">D. 36</div>
+<div class = "choice">E.38</div>
+</div>
+###################
+<div class = "quiz">12. What is the least common multiple of 30, 20, and 70 ?
+<div class = "choice">F. 40</div>
+<div class = "choice">G. 42</div>
+<div class = "choice">H. 120</div>
+<div class = "choice">J. 420</div>
+<div class = "choice">K. 42,000</div>
+</div>
+###################
+<div class = "quiz">13. While doing a problem on his calculator, Tom meant to divide a number by 2, but instead he accidentally multiplied the number by 2. Which of the following calculations could Tom then do to the result on the calculator screen to obtain the result he originally wanted?
+<div class = "choice">A. Subtract the original number</div>
+<div class = "choice">B. Multiply by 2</div>
+<div class = "choice">C. Multiply by 4</div>
+<div class = "choice">D. Divide by 2</div>
+<div class = "choice">E. Divide by 4</div>
+</div>
+###################
+<div class = "quiz">14. The 8-sided figure below is divided into 5 congruent squares. The total area of the 5 squares is 125 square inches. What is the perimeter, in inches, of the figure?
+<img src='file:\$$$\resources\2009 April 66F\imgs\21.png' width = '362'height = '242'/>
+<div class = "choice">F. 25</div>
+<div class = "choice">G. 60</div>
+<div class = "choice">H. 80</div>
+<div class = "choice">J. 100</div>
+<div class = "choice">K. 125</div>
+</div>
+###################
+<div class = "quiz">15. In (ABC, ∠A measures greater than 43º and ∠B measures exactly 90°. Which of the following phrases best describes the measure of ∠C?
+<div class = "choice">A. Greater than 47°</div>
+<div class = "choice">B. Equal to 47°</div>
+<div class = "choice">C. Equal to 60°</div>
+<div class = "choice">D. Equal to 133°</div>
+<div class = "choice">E. Less than 47°</div>
+</div>
+###################
+<div class = "quiz">16. Among the following arithmetic operations, which could the symbol ◊ represent given that the equation (2 ◊ 1)<sup>4</sup> + (6 ◊ 3)<sup>2</sup> = 10 is true?
+I. Addition		II. Subtraction		III. Division
+<div class = "choice">F. I only</div>
+<div class = "choice">G. II only</div>
+<div class = "choice">H. III only</div>
+<div class = "choice">J. I and II only</div>
+<div class = "choice">K. I, II, and III</div>
+</div>
+###################
+<div class = "quiz">17. One of the following is an equation of the linear relation shown in the standard (x, y) coordinate plane below. Which equation is it?
+<img src='file:\$$$\resources\2009 April 66F\imgs\22.png' width = '319'height = '476'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\23.png' width = '65'height = '32'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\24.png' width = '65'height = '32'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\25.png' width = '98'height = '32'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\26.png' width = '97'height = '32'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\27.png' width = '98'height = '32'/></div>
+</div>
+###################
+<div class = "quiz">18. An integer, n. is added to 4. That sum is then multiplied by 8. This result is 10 less than twice the original integer. Which of the following equations represents this relationship?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\28.png' width = '169'height = '38'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\29.png' width = '169'height = '38'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2009 April 66F\imgs\30.png' width = '169'height = '38'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\31.png' width = '168'height = '27'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\32.png' width = '136'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">19. Two workers were hired to begin work at the same time. Worker A's contract called for a starting salary of $20,000 with an increase of $800 after each year of employment. Worker B's contract called for a starting salary of $15,200 with an increase of $2,000 after each year of employment. If x represents the number of full years' employment (that is, the number of yearly increases each worker has received), which of the following equations could be solved to determine the number of years until B's yearly salary equals A's yearly salary?
+15,200 + 2, 000a- =J5,200 + 800.v = (15,200 + 2,000)A- 20,000 - 15,200 20,000 + 15,200
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\33.png' width = '298'height = '29'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2009 April 66F\imgs\34.png' width = '295'height = '29'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\35.png' width = '341'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2009 April 66F\imgs\36.png' width = '309'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\37.png' width = '305'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">20. A ramp for loading trucks is 13 feet long and covers 32 feet along the level ground, as shown below. How many feet high is the highest point on the ramp?
+<img src='file:\$$$\resources\2009 April 66F\imgs\38.png' width = '677'height = '295'/>
+<div class = "choice">F. 1</div>
+<div class = "choice">G. 2</div>
+<div class = "choice">H. 4</div>
+<div class = "choice">J. 5</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\39.png' width = '36'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">21. The expression <img src='file:\$$$\resources\2009 April 66F\imgs\40.png' width = '188'height = '32'/>is equivalent to:
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\41.png' width = '46'height = '27'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\42.png' width = '60'height = '27'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\43.png' width = '60'height = '27'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\44.png' width = '61'height = '27'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\45.png' width = '64'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">22. If<img src='file:\$$$\resources\2009 April 66F\imgs\46.png' width = '98'height = '32'/>, and<img src='file:\$$$\resources\2009 April 66F\imgs\47.png' width = '94'height = '32'/>, then<img src='file:\$$$\resources\2009 April 66F\imgs\48.png' width = '38'height = '26'/>?
+<div class = "choice">F. 60</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 30</div>
+<div class = "choice">K. 40</div>
+</div>
+###################
+<div class = "quiz">23. When <img src='file:\$$$\resources\2009 April 66F\imgs\49.png' width = '87'height = '42'/> is written in the form<img src='file:\$$$\resources\2009 April 66F\imgs\50.png' width = '113'height = '32'/>, where a, b, and c are integers,<img src='file:\$$$\resources\2009 April 66F\imgs\51.png' width = '101'height = '27'/>?
+<div class = "choice">A. -17</div>
+<div class = "choice">B. -5</div>
+<div class = "choice">C. 1</div>
+<div class = "choice">D. 13</div>
+<div class = "choice">E. 25</div>
+</div>
+###################
+<div class = "quiz">24. What is the area, in square feet, of the figure below?
+<img src='file:\$$$\resources\2009 April 66F\imgs\52.png' width = '642'height = '345'/>
+<div class = "choice">F. 60</div>
+<div class = "choice">G. 80</div>
+<div class = "choice">H. 275</div>
+<div class = "choice">J. 375</div>
+<div class = "choice">K. 450</div>
+</div>
+###################
+<div class = "quiz">25. The table below gives the values of 2 functions, f and g, for various values of x. One of the functions expresses a linear relationship. What is the value of that function at x= 4?
+<div class = "para"">﻿<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:86.8pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="58"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>x</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td><td style="width:88.1pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="59"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>f(x)</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td><td style="width:91.2pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>g(x)</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:86.8pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="58"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>-2</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>-1</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>3</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>4</span></p></td><td style="width:88.1pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="59"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1.4</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1.2</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0.8</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0.6</span></p></td><td style="width:91.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0.6</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0.9</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1.3</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>1.6</span></p></td></tr></table></div>
+<div class = "choice">A. 0.2</div>
+<div class = "choice">B. 0.4</div>
+<div class = "choice">C. 1.9</div>
+<div class = "choice">D. 2.0</div>
+<div class = "choice">E. 2.2</div>
+</div>
+###################
+<div class = "quiz">26. What is the slope of the line represented by the equation<img src='file:\$$$\resources\2009 April 66F\imgs\53.png' width = '117'height = '32'/>?
+<div class = "choice">F. -14</div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\54.png' width = '22'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\55.png' width = '22'height = '61'/></div>
+<div class = "choice">J. 6</div>
+<div class = "choice">K. 14</div>
+</div>
+###################
+<div class = "quiz">27. What is the sum of the 2 solutions of the equation<img src='file:\$$$\resources\2009 April 66F\imgs\56.png' width = '136'height = '32'/>?
+<div class = "choice">A. -12</div>
+<div class = "choice">B. -4</div>
+<div class = "choice">C. -1</div>
+<div class = "choice">D. 0</div>
+<div class = "choice">E. 3</div>
+</div>
+###################
+<div class = "quiz">28. Two similar triangles have perimeters in the ratio 3:5. The sides of the smaller triangle measure 3 cm, 5 cm, and 7 cm, respectively. What is the perimeter, in centimeters, of the larger triangle?
+<div class = "choice">F. 15</div>
+<div class = "choice">G. 18</div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 25</div>
+<div class = "choice">K. 36</div>
+</div>
+###################
+<div class = "quiz">29. At a certain location, the low temperatures, m degrees Fahrenheit, for each of 7 consecutive days in January were -2ºF, 4ºF, -3ºF, 1ºF, 2°F, -5°F, and -6ºF. What was the median of these low temperatures?
+<div class = "choice">A. -2ºF</div>
+<div class = "choice">B. -1ºF</div>
+<div class = "choice">C. 1ºF</div>
+<div class = "choice">D. 3ºF</div>
+<div class = "choice">E. 4ºF</div>
+</div>
+###################
+<div class = "quiz">30. When asked his age, the algebra teacher said, "If you square my age, then subtract 23 times my age, the result is 50." How old is he?
+<div class = "choice">F. 23</div>
+<div class = "choice">G. 25</div>
+<div class = "choice">H. 27</div>
+<div class = "choice">J. 46</div>
+<div class = "choice">K. 50</div>
+</div>
+###################
+<div class = "quiz">31. The distance, d, an accelerating object travels in t seconds can be modeled by the equation<img src='file:\$$$\resources\2009 April 66F\imgs\57.png' width = '88'height = '61'/>, where a is the acceleration rate, in meters per second per second. If. a car accelerates from a stop at the rate of 20 meters per second per second and travels a distance of 80 meters, about how many seconds did the car travel?
+<div class = "choice">A. Between 1 and 2</div>
+<div class = "choice">B. Between 2 and 3</div>
+<div class = "choice">C. Between 3 and 4</div>
+<div class = "choice">D. 4</div>
+<div class = "choice">E. 8</div>
+</div>
+###################
+<div class = "quiz">32. Let a, b, c, and d be distinct positive integers. What is the 4th term of the geometric sequence below?
+<img src='file:\$$$\resources\2009 April 66F\imgs\58.png' width = '205'height = '34'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\59.png' width = '70'height = '32'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\60.png' width = '78'height = '32'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\61.png' width = '87'height = '32'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\62.png' width = '72'height = '32'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\63.png' width = '72'height = '32'/></div>
+</div>
+###################
+<div class = "quiz">33. Use the following information to answer questions 33—35.
+A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
+What fraction of the students responded that they had spent less than 3 hours studying?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\65.png' width = '42'height = '61'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\66.png' width = '22'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\67.png' width = '31'height = '61'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\68.png' width = '35'height = '61'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\69.png' width = '35'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">34. Use the following information to answer questions 33—35.
+A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
+The teacher decides to show the data in a circle graph (pie chart). What should be the measure of the central angle of the sector for 3 hours?
+<div class = "choice">F. 18º</div>
+<div class = "choice">G. 20º</div>
+<div class = "choice">H. 36º</div>
+<div class = "choice">J. 72º</div>
+<div class = "choice">K. 90º</div>
+</div>
+###################
+<div class = "quiz">35. Use the following information to answer questions 33—35.
+A survey in a study skills class asked the 20 students enrolled in the class how many hours (rounded to the nearest hour) they had spent studying on the. previous evening. The 20 responses are summarized by the histogram below.
+<img src='file:\$$$\resources\2009 April 66F\imgs\64.png' width = '425'height = '303'/>
+To the nearest tenth of an hour, what is the average number of hours for the 20 survey responses?
+<div class = "choice">A. 2.0</div>
+<div class = "choice">B. 2.1</div>
+<div class = "choice">C. 2.3</div>
+<div class = "choice">D. 2.5</div>
+<div class = "choice">E. 3.0</div>
+</div>
+###################
+<div class = "quiz">36. For all<img src='file:\$$$\resources\2009 April 66F\imgs\70.png' width = '61'height = '27'/>, <img src='file:\$$$\resources\2009 April 66F\imgs\71.png' width = '228'height = '84'/>
+<div class = "choice">F. 1</div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\72.png' width = '22'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\73.png' width = '54'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\74.png' width = '84'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\75.png' width = '101'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">37. The bottom of the basket of a hot-air balloon is parallel to the level ground. One taut tether line 144 feet long is attached to the center of the bottom of the basket and is anchored to the ground at an angle of 72°, as shown in the figure below. Which of the following expressions gives the distance, in feet, from the center of the bottom of the basket to the ground?
+<img src='file:\$$$\resources\2009 April 66F\imgs\76.png' width = '165'height = '278'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\77.png' width = '74'height = '61'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\78.png' width = '72'height = '61'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\79.png' width = '106'height = '27'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\80.png' width = '106'height = '27'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\81.png' width = '103'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">38. The coordinates of the endpoints of<img src='file:\$$$\resources\2009 April 66F\imgs\82.png' width = '42'height = '34'/>, in the standard (x, y) coordinate plane, are (-8,-3) and (2,3). What is the x-coordinate of the midpoint of<img src='file:\$$$\resources\2009 April 66F\imgs\83.png' width = '42'height = '34'/>?
+<div class = "choice">F. -6</div>
+<div class = "choice">G. -3</div>
+<div class = "choice">H. 0</div>
+<div class = "choice">J. 3</div>
+<div class = "choice">K. 5</div>
+</div>
+###################
+<div class = "quiz">39. On a map in the standard (x, y) coordinate plane, the towns of Arlington and Betelwood are represented by the points (-2,-3) and (-6,-7), respectively. Each unit on the map represents an actual distance of 10 miles. Which of the following is closest to the distance, in miles, between these 2 towns?
+<div class = "choice">A. 128</div>
+<div class = "choice">B. 57</div>
+<div class = "choice">C. 42</div>
+<div class = "choice">D. 40</div>
+<div class = "choice">E. 28</div>
+</div>
+###################
+<div class = "quiz">40. Which of the following statements is true about rational /or irrational numbers?	.
+<div class = "choice">F. The product of any 2 irrational numbers is irrational.</div>
+<div class = "choice">G. The quotient of any 2 irrational numbers is rational.</div>
+<div class = "choice">H. The product of any 2 rational numbers is irrational.</div>
+<div class = "choice">J. The quotient of any 2 rational numbers is irrational.</div>
+<div class = "choice">K. The sum of any 2 rational numbers is rational.</div>
+</div>
+###################
+<div class = "quiz">41. For the complex number i and an integer x, which of the following is a possible value of<img src='file:\$$$\resources\2009 April 66F\imgs\84.png' width = '22'height = '32'/>?
+<div class = "choice">A. 0</div>
+<div class = "choice">B. 1</div>
+<div class = "choice">C. 2</div>
+<div class = "choice">D. 3</div>
+<div class = "choice">E. 4</div>
+</div>
+###################
+<div class = "quiz">42. Consider the equation <img src='file:\$$$\resources\2009 April 66F\imgs\85.png' width = '145'height = '42'/> where x and y are both real numbers. The table below gives the values of y for selected values of x.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;font-size:38.4pt"><td style="width:124.7pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:38.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>x</span></i><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td><td style="width:129.5pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;font-size:38.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>y</span></i><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:124.7pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>-6</span></p></td><td style="width:129.5pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>83</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:124.7pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>-4</span></p></td><td style="width:129.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>51</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:124.7pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>-2</span></p></td><td style="width:129.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>27</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:124.7pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>0</span></p></td><td style="width:129.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>11</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:124.7pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>4</span></p></td><td style="width:129.5pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>3</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:124.7pt;border:solid black 1.0pt;border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>6</span></p></td><td style="width:129.5pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="86"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>11</span></p></td></tr></table></div>
+For the equation above, which of the following values of x gives the least value of y?
+<div class = "choice">F. 1</div>
+<div class = "choice">G. 2</div>
+<div class = "choice">H. 3</div>
+<div class = "choice">J. 4</div>
+<div class = "choice">K. 5</div>
+</div>
+###################
+<div class = "quiz">43. The height and radius of the right circular cylinder below are given in meters. What is the volume, in cubic meters, of the cylinder?
+<img src='file:\$$$\resources\2009 April 66F\imgs\86.png' width = '372'height = '352'/>
+<div class = "choice">A. 30π</div>
+<div class = "choice">B. 31π</div>
+<div class = "choice">C. 150π</div>
+<div class = "choice">D. 180π</div>
+<div class = "choice">E. 900π</div>
+</div>
+###################
+<div class = "quiz">44. Lines <img src='file:\$$$\resources\2009 April 66F\imgs\87.png' width = '18'height = '34'/> and <img src='file:\$$$\resources\2009 April 66F\imgs\88.png' width = '19'height = '34'/> intersect each other and 3 parallel lines, <img src='file:\$$$\resources\2009 April 66F\imgs\89.png' width = '19'height = '34'/>, <img src='file:\$$$\resources\2009 April 66F\imgs\90.png' width = '19'height = '34'/>, and <img src='file:\$$$\resources\2009 April 66F\imgs\91.png' width = '19'height = '34'/> at the points shown in the figure below. The ratio of the perimeter of (ABC to the perimeter of (AFG is 1:3. The ratio of DE to FG is 2:3. What is the ratio of AC to CE?
+<div class = "choice">F. 1:1</div>
+<div class = "choice">G. 1:2</div>
+<div class = "choice">H. 1:3</div>
+<div class = "choice">J. 2:1</div>
+<div class = "choice">K. 3:1</div>
+<img src='file:\$$$\resources\2009 April 66F\imgs\92.png' width = '808'height = '610'/>
+</div>
+###################
+<div class = "quiz">45. A rocket lifted off from a launch pad and traveled .vertically 30 kilometers, then traveled 40 kilometers at .30° from the vertical, and then traveled 100 kilometers at 45° from the vertical, as shown in the figure below. At that point, the rocket was how many kilometers above the height of the launch pad?
+<img src='file:\$$$\resources\2009 April 66F\imgs\93.png' width = '377'height = '431'/>
+<div class = "choice">A. 100</div>
+<div class = "choice">B. 170</div>
+<div class = "choice">C. 190</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\94.png' width = '130'height = '36'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\95.png' width = '166'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">46. In the standard (x, y) coordinate plane, what is the area of the circle<img src='file:\$$$\resources\2009 April 66F\imgs\96.png' width = '116'height = '36'/>?
+<div class = "choice">F. 4π</div>
+<div class = "choice">G. 8π</div>
+<div class = "choice">H. 16π</div>
+<div class = "choice">J. 64π</div>
+<div class = "choice">K. 256π</div>
+</div>
+###################
+<div class = "quiz">47. In the standard (x, y) coordinate plane below, 1 side of a rectangle, is on the x-axis, and the vertices of the opposite side of the rectangle are on the graph of the parabola<img src='file:\$$$\resources\2009 April 66F\imgs\97.png' width = '106'height = '36'/>. Let a represent any value of x such that<img src='file:\$$$\resources\2009 April 66F\imgs\98.png' width = '101'height = '36'/>. Which of the following is an expression in terms of a for the area, in square coordinate units, of any such rectangle?
+<img src='file:\$$$\resources\2009 April 66F\imgs\99.png' width = '199'height = '255'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\100.png' width = '107'height = '32'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\101.png' width = '97'height = '32'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2009 April 66F\imgs\102.png' width = '140'height = '32'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\103.png' width = '130'height = '32'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\104.png' width = '150'height = '32'/></div>
+</div>
+###################
+<div class = "quiz">48. If n is a positive integer, which of the following expressions must be an odd integer?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\105.png' width = '24'height = '32'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\106.png' width = '26'height = '32'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\107.png' width = '28'height = '27'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\108.png' width = '22'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\109.png' width = '51'height = '27'/></div>
+</div>
+###################
+<div class = "quiz">49. The value of <img src='file:\$$$\resources\2009 April 66F\imgs\110.png' width = '97'height = '75'/> is between which of the following pairs of consecutive integers?
+<div class = "choice">A. 0 and 1</div>
+<div class = "choice">B. 4 and 5</div>
+<div class = "choice">C. 5 and 6</div>
+<div class = "choice">D. 6 and 7</div>
+<div class = "choice">E. 9 and 10</div>
+</div>
+###################
+<div class = "quiz">50. Use the following information to answer questions 50-52.
+The table below shows the weekly sales totals (in thousands of dollars) for 4 departments at Pinky's Meg a market during the 5 most recent weeks. Data is missing due to a computer virus that infected the supermarket's database. The data in the table has been verified as being accurate.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td rowspan="2" style="width:164.2pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Department</span></p></td><td colspan="5" style="width:821.1pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="547"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Week number</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>3</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>4</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>5</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Meat</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>144</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>156</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>140</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Produce</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>30</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Canned goods</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>54</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>62</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>69</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>75</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:164.2pt;border:solid black 1.0pt;border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Dry goods</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>86</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>82</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>77</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>85</span></p></td></tr></table></div>
+Which of the following is closest to the percent increase in meat department sales for Pinky's Megamarket from Week 2 to Week 3 ?
+<div class = "choice">F. 1.1%</div>
+<div class = "choice">G. 6.0%</div>
+<div class = "choice">H. 7.7%</div>
+<div class = "choice">J. 8.3%</div>
+<div class = "choice">K. 12.0%</div>
+</div>
+###################
+<div class = "quiz">51. Use the following information to answer questions 50-52.
+The table below shows the weekly sales totals (in thousands of dollars) for 4 departments at Pinky's Meg a market during the 5 most recent weeks. Data is missing due to a computer virus that infected the supermarket's database. The data in the table has been verified as being accurate.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td rowspan="2" style="width:164.2pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Department</span></p></td><td colspan="5" style="width:821.1pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="547"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Week number</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>3</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>4</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>5</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Meat</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>144</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>156</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>140</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Produce</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>30</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Canned goods</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>54</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>62</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>69</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>75</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:164.2pt;border:solid black 1.0pt;border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Dry goods</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>86</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>82</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>77</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>85</span></p></td></tr></table></div>
+Prior to Week 3, the manager set the goal for meat department sales to average 150 thousand dollars per week from the beginning of Week 3 through the end of Week 6. To meet this goal, what must be the minimum meat department sales for Week 6, in thousands of dollars?
+<div class = "choice">A. 146</div>
+<div class = "choice">B. 147</div>
+<div class = "choice">C. 156</div>
+<div class = "choice">D. 159</div>
+<div class = "choice">E. 170</div>
+</div>
+###################
+<div class = "quiz">52. Use the following information to answer questions 50-52.
+The table below shows the weekly sales totals (in thousands of dollars) for 4 departments at Pinky's Meg a market during the 5 most recent weeks. Data is missing due to a computer virus that infected the supermarket's database. The data in the table has been verified as being accurate.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td rowspan="2" style="width:164.2pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Department</span></p></td><td colspan="5" style="width:821.1pt;border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="547"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Week number</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>2</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>3</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>4</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>5</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Meat</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>144</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>156</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>145</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>140</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Produce</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>30</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:164.2pt;border-top:none;border-left:solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Canned goods</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>54</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>62</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>69</span></p></td><td style="width:164.2pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>75</span></p></td><td style="width:164.3pt;border:none;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:164.2pt;border:solid black 1.0pt;border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Dry goods</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>86</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>82</span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'> </span></p></td><td style="width:164.2pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>77</span></p></td><td style="width:164.3pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-left-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="110"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>85</span></p></td></tr></table></div>
+The assistant manager recalls that produce department sales increased at a very high rate during the 5 weeks, due to a projected shortage of fruit. She says that for each week from Week 2 to Week 5, produce department sales increased 10% from the previous week. Which of the following values, in thousands of dollars, is closest to produce department sales for Week 5 ?
+<div class = "choice">F. 48</div>
+<div class = "choice">G. 44</div>
+<div class = "choice">H. 42</div>
+<div class = "choice">J. 40</div>
+<div class = "choice">K. 33</div>
+</div>
+###################
+<div class = "quiz">53. A trigonometric function with equation<img src='file:\$$$\resources\2009 April 66F\imgs\111.png' width = '158'height = '38'/>, where a, b, and c are real numbers, is graphed in the standard (x, y) coordinate plane below. The period of this function <img src='file:\$$$\resources\2009 April 66F\imgs\112.png' width = '55'height = '38'/> is the smallest positive number p such that <img src='file:\$$$\resources\2009 April 66F\imgs\113.png' width = '162'height = '38'/> for every real number x. One of the following is the period of this function. Which one is it?
+<img src='file:\$$$\resources\2009 April 66F\imgs\114.png' width = '227'height = '233'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\115.png' width = '24'height = '61'/></div>
+<div class = "choice">B. π</div>
+<div class = "choice">C. 2π</div>
+<div class = "choice">D. 4π</div>
+<div class = "choice">E. 2</div>
+</div>
+###################
+<div class = "quiz">54. The building below casts a shadow 24 yards long, and the angle of elevation from the tip of the shadow to the top of the building has a sine of<img src='file:\$$$\resources\2009 April 66F\imgs\116.png' width = '22'height = '61'/>.What is the height of the building in yards?
+<img src='file:\$$$\resources\2009 April 66F\imgs\117.png' width = '259'height = '254'/>
+<div class = "choice">F. 14.4</div>
+<div class = "choice">G. 18.0</div>
+<div class = "choice">H. 19.2</div>
+<div class = "choice">J. 30.0</div>
+<div class = "choice">K. 32.0</div>
+</div>
+###################
+<div class = "quiz">55. Which of the following is an irrational number that is a solution to the equation<img src='file:\$$$\resources\2009 April 66F\imgs\118.png' width = '143'height = '44'/>?
+<div class = "choice">A. 4</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\119.png' width = '36'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 April 66F\imgs\120.png' width = '46'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 April 66F\imgs\121.png' width = '46'height = '34'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2009 April 66F\imgs\122.png' width = '46'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">56. The graph below shows the distance Malika is from a motion detector for a period of 10 seconds. A certain order of 3 of the following 5 actions describes Malika's movement in relation to the position of the motion detector. Which order is it?
+<img src='file:\$$$\resources\2009 April 66F\imgs\123.png' width = '469'height = '402'/>
+I. Stands still for 5 seconds	II. Walks away at 4 feet per second 	III. Walks toward at 4 feet per second
+IV. Walks away at 2 feet per second 	V. Walks toward at 2 feet per second
+<div class = "choice">F. I, II, V</div>
+<div class = "choice">G. II, I, V</div>
+<div class = "choice">H. III, I, IV</div>
+<div class = "choice">J. IV, I, III</div>
+<div class = "choice">K. V, I, II</div>
+</div>
+###################
+<div class = "quiz">57. As shown in the figure below, a clock has a minute hand that measures 5 cm from its tip to the center of the clock. To the nearest centimeter, what is the distance traveled by the tip of the minute hand between 2:10 p.m. and 5:30 p.m. ?
+<img src='file:\$$$\resources\2009 April 66F\imgs\124.png' width = '654'height = '299'/>
+<div class = "choice">A. 31</div>
+<div class = "choice">B. 68</div>
+<div class = "choice">C. 101</div>
+<div class = "choice">D. 105</div>
+<div class = "choice">E. 173</div>
+</div>
+###################
+<div class = "quiz">58. For Ø, an angle whose measure is between 90° and 180°, <img src='file:\$$$\resources\2009 April 66F\imgs\125.png' width = '122'height = '61'/>,Which of the following equals<img src='file:\$$$\resources\2009 April 66F\imgs\126.png' width = '55'height = '27'/>?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\127.png' width = '50'height = '61'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\128.png' width = '50'height = '61'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\129.png' width = '50'height = '61'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\130.png' width = '35'height = '61'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2009 April 66F\imgs\131.png' width = '32'height = '61'/></div>
+</div>
+###################
+<div class = "quiz">59. Consider all pairs of positive integers w and z whose sum is 5. For how many values of w does there exist a positive integer x that satisfies both <img src='file:\$$$\resources\2009 April 66F\imgs\132.png' width = '65'height = '32'/> and<img src='file:\$$$\resources\2009 April 66F\imgs\133.png' width = '74'height = '32'/>?
+<div class = "choice">A. 0</div>
+<div class = "choice">B. 2</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. Infinitely many</div>
+</div>
+###################
+<div class = "quiz">60. A cube with edges 4 cm long is inscribed in a sphere, as shown below. What is the radius of the sphere, in centimeters?
+<img src='file:\$$$\resources\2009 April 66F\imgs\134.png' width = '425'height = '425'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2009 April 66F\imgs\135.png' width = '46'height = '36'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 April 66F\imgs\136.png' width = '46'height = '34'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 April 66F\imgs\137.png' width = '46'height = '36'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 April 66F\imgs\138.png' width = '46'height = '34'/></div>
+<div class = "choice">K. 2</div>
+</div>
+###################

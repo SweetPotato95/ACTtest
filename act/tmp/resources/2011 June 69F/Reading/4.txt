@@ -1,0 +1,94 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article “The Gas between the Stars” by Ronald J. Reynolds ( ? 2001 by Scientific American, Inc.)</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font hidden id=33>(33.A)</font>For many years, we have known that an extremely thin atmosphere called the interstellar medium envelops our galaxy, the Milky Way, and threads the space between its billions of stars. Until fairly recently, the medium seemed a <font id=33>cold, static reservoir of gas</font> <font hidden id=33>(33.D)</font>quietly waiting to condense into stars. Now we recognize the medium as a tempestuous mixture with an extreme diversity of density, temperature and ionization.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In fact, telescopes on the ground and in space are showing <font id=34>the galaxy's atmosphere to be as complex as any planet's</font>. Held by the combined gravitational pull of the stars and other matter, permeated by starlight, energetic particles and a magnetic field, the interstellar medium is continuously stirred, heated, recycled and transformed. Like any atmosphere, it has its highest density and pressure at the "bottom,: in this case the plane that defines the middle of the galaxy, where the pressure must balance the weight of the medium from "above." Dense concentrations of gas－clouds－form near the midplane, and from the densest subcondensations, stars precipitate.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When stars exhaust their muclear fuel and die, those that are at least as massive as the sun expel much of their matter back into the interstellar medium. Thus, as the galaxy ages, each generation of stars pollutes the medium with heavy elements. As in the water cycle on Earth, precipitation is followed by "evaporation," so that material can be recycled over and over again.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thinking of the interstellar medium as a true atmosphere <font id=32>brings unity to</font> some of the most pressing problems in astrophysics. First and foremost is star formation. Although astronomers have known the basic principles for decades, they still do not grasp exactly what determines when and at what rate stars precipitate from the interstellar medium. Theorists used to explain the creation of stars only in terms of the local conditions within an isolated gas cloud. Now they are considering conditions in the galaxy as a whole.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Not only do these conditions influence star formation, they are influenced by it. What one generation of stars does determines the environment in which subsequent generations are born, live and die. Understanding this feedback is another of the great challenges for researches. Feedback can be both positive and negative. On the one hand, massive stars can heat and ionize the medium and cause it to bulge out from the midplane. This expansion increases the ambient pressure, compressing the clouds and perhaps triggering their collapse into a new generation of stars. On the other hand, the heating and ionization can also agitate clouds, inhibiting the birth of new stars. When the largest stars blow up, they can even destroy the clouds that gave them birth. In fact, negative feedback could explain why the gravitational collapse of clouds into stars is so <font id=39>inefficient</font>. Typically only a few percent of a cloud's mass becomes stars.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A third conundrum is that star formation often occurs in sporadic but intense bursts. In the Milky Way the competing feedback effects almost balance out, so that stars form at an unhurried pace-just 10 per year on average. In some galaxies, however, such as the "exploding galaxy" M82, positive feedback has gained the upper hand. Starting 20 million to 50 million years ago, star formation in the central parts of M82 began running out of control, proceeding 10 times faster than before. Our galaxy, too, may have had sporadic bursts. How these starbursts occur and what turns them off must be tied to the complex relation between stars and tine tenuous atmosphere from which they precipitate.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Finally, astronomers debate how quickly the atmospheric activity is petering out. The majority of stars-those less massive than the sun, which live tens or even hundreds of billions of years-do not contribute to the feedback loops. More and more of the interstellar gas is being locked up into very long lived stars. Eventually all the spare gas in our Milky Way may be exhausted, leaving only stellar dregs behind. How soon this will happen depends on whether the Milky Way is <font id=79>a closed box</font>. Recent observations suggest that the galaxy is still an open system, both gaining and losing mass to its cosmic surroundings. High-velocity clouds of relatively unpolluted hydrogen appear to be raining down from intergalactic space, rejuvenating our galaxy. Meanwhile the galaxy may be shedding gas in the form of a high-speed wind from its outer atmosphere, much as the sun slowly sheds mass in the solar wind.</div>
+
+<br>
+###################
+<div class = "quiz">31. The author's main technique in the passage is to:
+<div class = "choice">A. state a problem and offer several competing solutions.</div>
+<div class = "choice">B. present a discovery and explore several of its implications.</div>
+<div class = "choice">C. explain two sides of a debate and argue for one of them.</div>
+<div class = "choice">D. describe a process and list in order its sequence of steps.</div>
+</div>
+###################
+<div class = "quiz">32. As it is used in line 30, the phrase brings unity to most nearly means:
+<div class = "choice">F. enlists the cooperation of.</div>
+<div class = "choice">G. ends the bitter conflict between.</div>
+<div class = "choice">H. clarifies and connects.</div>
+<div class = "choice">J. makes whole and complete.</div>
+</div>
+###################
+<div class = "quiz">33. Based on the passage, the claim that the interstellar medium is a "cold, static reservoir of gas" (line 5) is best described as:
+<div class = "choice">A. a fact that the author indicates scientists have known "for many years" (line 1).</div>
+<div class = "choice">B. a fact recently reconfirmed by study of the space between the stars.</div>
+<div class = "choice">C. an opinion once commonly held but that recent research has undermined.</div>
+<div class = "choice">D. an opinion inconsistent with the finding that the medium's gas waits "quietly" (line 5).</div>
+</div>
+###################
+<div class = "quiz">34. The author supports his claim that "the galaxy's atmosphere [is] as complex as any planet's" (lines 10-11) mainly by:
+<div class = "choice">F. comparing the galaxy's atmosphere to the atmosphere of a specific planet.</div>
+<div class = "choice">G. listing features of the galaxy's atmosphere that are shared by atmospheres in general.</div>
+<div class = "choice">H. stating that both the galaxy's atmosphere and atmospheres in general are permeated by starlight.</div>
+<div class = "choice">J. describing specific studies comparing the galaxy's atmosphere to planetary atmospheres.</div>
+</div>
+###################
+<div class = "quiz">35. It can reasonably be inferred that in the context of the passage, a positive feedback is a process that:
+<div class = "choice">A. promotes the birth of new stars.</div>
+<div class = "choice">B. agitates interstellar clouds.</div>
+<div class = "choice">C. destroys large stars.</div>
+<div class = "choice">D. cools the interstellar medium.</div>
+</div>
+###################
+<div class = "quiz">36. It can reasonably be inferred from the passage that if the Milky Way were "a closed box" (line 79), then it would:
+<div class = "choice">F. continue to gain mass from and lose mass to its surroundings.</div>
+<div class = "choice">G. expel its stellar dregs into adjoining galaxies.</div>
+<div class = "choice">H. use up all of its spare gas at some point in time.</div>
+<div class = "choice">J. lock up nearly all of its gas in short-lived stars more massive than the Sun.</div>
+</div>
+###################
+<div class = "quiz">37. The passage states that new insights about the interstellar medium have arisen as a result of information gathered from:
+<div class = "choice">A. unmanned probes studying the Milky Way's midplane.</div>
+<div class = "choice">B. experiments conducted in Earth's atmosphere.</div>
+<div class = "choice">C. theoretical computer models.</div>
+<div class = "choice">D. ground-and space-based telescopes.</div>
+</div>
+###################
+<div class = "quiz">38. The author describes the interstellar medium as all of the following EXCEPT as:
+<div class = "choice">F. being held by the combined gravitational pull of the stars and other matter.</div>
+<div class = "choice">G. having a uniform density, temperature, and ionization.</div>
+<div class = "choice">H. continuously stirred, heated, recycled, and transformed.</div>
+<div class = "choice">J. permeated by starlight, energetic particles, and a magnetic field.</div>
+</div>
+###################
+<div class = "quiz">39. In describing the process by which interstellar clouds collapse into stars as "inefficient" (line 55), the author is most directly referring to the fact that:
+<div class = "choice">A. an entire cloud is consumed in the formation of a single star.</div>
+<div class = "choice">B. stars form one at a time from clouds rather than in generations.</div>
+<div class = "choice">C. astronomers cannot readily predict which clouds will produce stars.</div>
+<div class = "choice">D. relatively little of the gas in a cloud condenses into stars.</div>
+</div>
+###################
+<div class = "quiz">40. According to the passage, which of the following statements is true about the present state of the Milky Way?
+<div class = "choice">F. Negative feedback has clearly become dominant.</div>
+<div class = "choice">G. It has become an "exploding galaxy."</div>
+<div class = "choice">H. Stars form within it at a slow, steady rate.</div>
+<div class = "choice">J. Between twenty and fifty of its stars die each year.</div>
+
+###################

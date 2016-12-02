@@ -1,101 +1,101 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel The Bonesetter’s Daughter by Amy Tan (?2001 by Amy Tan).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The setting of the passage is a small town in China during the early part of the twentieth century. The capital city of China, now known in English as Beijing, formerly was called Peking.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIFRoZSBCb25lc2V0dGVy4oCZcyBEYXVnaHRlciBieSBBbXkgVGFuICg/MjAwMSBieSBBbXkgVGFuKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzZXR0aW5nIG9mIHRoZSBwYXNzYWdlIGlzIGEgc21hbGwgdG93biBpbiBDaGluYSBkdXJpbmcgdGhlIGVhcmx5IHBhcnQgb2YgdGhlIHR3ZW50aWV0aCBjZW50dXJ5LiBUaGUgY2FwaXRhbCBjaXR5IG9mIENoaW5hLCBub3cga25vd24gaW4gRW5nbGlzaCBhcyBCZWlqaW5nLCBmb3JtZXJseSB3YXMgY2FsbGVkIFBla2luZy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When I was growing up, nearly two thousand people lived in Immortal Heart. It was crowded, packed from one edge of the valley to the other. We had a brick maker, a sack weaver, and a dye mill. We had twenty-four market days, six temple fairs, and a primary school that GaoLing and I went to when we were not helping our family at home. We had all kinds of peddlers who went from house to house, selling fresh bean curd and steamed buns, twisted dough and colorful candies. A few <font id=6>coppers</font>, that was all you needed to make your stomach as happy as a rich man's.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gSSB3YXMgZ3Jvd2luZyB1cCwgbmVhcmx5IHR3byB0aG91c2FuZCBwZW9wbGUgbGl2ZWQgaW4gSW1tb3J0YWwgSGVhcnQuIEl0IHdhcyBjcm93ZGVkLCBwYWNrZWQgZnJvbSBvbmUgZWRnZSBvZiB0aGUgdmFsbGV5IHRvIHRoZSBvdGhlci4gV2UgaGFkIGEgYnJpY2sgbWFrZXIsIGEgc2FjayB3ZWF2ZXIsIGFuZCBhIGR5ZSBtaWxsLiBXZSBoYWQgdHdlbnR5LWZvdXIgbWFya2V0IGRheXMsIHNpeCB0ZW1wbGUgZmFpcnMsIGFuZCBhIHByaW1hcnkgc2Nob29sIHRoYXQgR2FvTGluZyBhbmQgSSB3ZW50IHRvIHdoZW4gd2Ugd2VyZSBub3QgaGVscGluZyBvdXIgZmFtaWx5IGF0IGhvbWUuIFdlIGhhZCBhbGwga2luZHMgb2YgcGVkZGxlcnMgd2hvIHdlbnQgZnJvbSBob3VzZSB0byBob3VzZSwgc2VsbGluZyBmcmVzaCBiZWFuIGN1cmQgYW5kIHN0ZWFtZWQgYnVucywgdHdpc3RlZCBkb3VnaCBhbmQgY29sb3JmdWwgY2FuZGllcy4gQSBmZXcgPGZvbnQgaWQ9Nj5jb3BwZXJzPC9mb250PiwgdGhhdCB3YXMgYWxsIHlvdSBuZWVkZWQgdG8gbWFrZSB5b3VyIHN0b21hY2ggYXMgaGFwcHkgYXMgYSByaWNoIG1hbidzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Liu clan had lived in Immortal Heart fort six centuries. For that amount of time, the sons had been inkstick makers who sold their goods to travelers. They had lived in the same courtyard house that had added rooms, and later wings, when one mother four hundred years ago gave birth to eight sons, one a year. The family home grew from a simple three-pillar house to a compound with wings stretching five pillars each.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBMaXUgY2xhbiBoYWQgbGl2ZWQgaW4gSW1tb3J0YWwgSGVhcnQgZm9ydCBzaXggY2VudHVyaWVzLiBGb3IgdGhhdCBhbW91bnQgb2YgdGltZSwgdGhlIHNvbnMgaGFkIGJlZW4gaW5rc3RpY2sgbWFrZXJzIHdobyBzb2xkIHRoZWlyIGdvb2RzIHRvIHRyYXZlbGVycy4gVGhleSBoYWQgbGl2ZWQgaW4gdGhlIHNhbWUgY291cnR5YXJkIGhvdXNlIHRoYXQgaGFkIGFkZGVkIHJvb21zLCBhbmQgbGF0ZXIgd2luZ3MsIHdoZW4gb25lIG1vdGhlciBmb3VyIGh1bmRyZWQgeWVhcnMgYWdvIGdhdmUgYmlydGggdG8gZWlnaHQgc29ucywgb25lIGEgeWVhci4gVGhlIGZhbWlseSBob21lIGdyZXcgZnJvbSBhIHNpbXBsZSB0aHJlZS1waWxsYXIgaG91c2UgdG8gYSBjb21wb3VuZCB3aXRoIHdpbmdzIHN0cmV0Y2hpbmcgZml2ZSBwaWxsYXJzIGVhY2guPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">All in all, our family was successful but not so much that we caused great envy. We ate meat or bean curd at almost every meal. We had new padded jackets every winter, no holes. We had money to give for the temple, the opera, the fair. But the men of out family also had ambitions. They were always looking for more. They said that in Peking, more people wrote important documents. Those important documents required more good ink. Peking was where more of the big money was. Around 1920, Father, my uncles, and their sons went there to sell the ink. From then on, that was where they lived most of the time, in the back room of a shop in the old Pottery-Glazing District.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsbCBpbiBhbGwsIG91ciBmYW1pbHkgd2FzIHN1Y2Nlc3NmdWwgYnV0IG5vdCBzbyBtdWNoIHRoYXQgd2UgY2F1c2VkIGdyZWF0IGVudnkuIFdlIGF0ZSBtZWF0IG9yIGJlYW4gY3VyZCBhdCBhbG1vc3QgZXZlcnkgbWVhbC4gV2UgaGFkIG5ldyBwYWRkZWQgamFja2V0cyBldmVyeSB3aW50ZXIsIG5vIGhvbGVzLiBXZSBoYWQgbW9uZXkgdG8gZ2l2ZSBmb3IgdGhlIHRlbXBsZSwgdGhlIG9wZXJhLCB0aGUgZmFpci4gQnV0IHRoZSBtZW4gb2Ygb3V0IGZhbWlseSBhbHNvIGhhZCBhbWJpdGlvbnMuIFRoZXkgd2VyZSBhbHdheXMgbG9va2luZyBmb3IgbW9yZS4gVGhleSBzYWlkIHRoYXQgaW4gUGVraW5nLCBtb3JlIHBlb3BsZSB3cm90ZSBpbXBvcnRhbnQgZG9jdW1lbnRzLiBUaG9zZSBpbXBvcnRhbnQgZG9jdW1lbnRzIHJlcXVpcmVkIG1vcmUgZ29vZCBpbmsuIFBla2luZyB3YXMgd2hlcmUgbW9yZSBvZiB0aGUgYmlnIG1vbmV5IHdhcy4gQXJvdW5kIDE5MjAsIEZhdGhlciwgbXkgdW5jbGVzLCBhbmQgdGhlaXIgc29ucyB3ZW50IHRoZXJlIHRvIHNlbGwgdGhlIGluay4gRnJvbSB0aGVuIG9uLCB0aGF0IHdhcyB3aGVyZSB0aGV5IGxpdmVkIG1vc3Qgb2YgdGhlIHRpbWUsIGluIHRoZSBiYWNrIHJvb20gb2YgYSBzaG9wIGluIHRoZSBvbGQgUG90dGVyeS1HbGF6aW5nIERpc3RyaWN0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In our family, the women made the ink. We stayed home. We all worked—me, GaoLing, my aunts and girl cousins, everybody. Even the babies and Great-Granny had a job of picking out stones from the dried millet we boiled for breakfast. We gathered each day in the inkmaking studio. According to Great-Granny, the studio began as a grain shed that sat along the front wall of the courtyard house. Over the years, one generation of sons added brick walls and a tile roof. Another strengthened the beams and lengthened it by two pillars. The next tiled the floors and dug pits for storing the ingredients. Then other descendants made a cellar for keeping the inksticks away from the heat and cold.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIG91ciBmYW1pbHksIHRoZSB3b21lbiBtYWRlIHRoZSBpbmsuIFdlIHN0YXllZCBob21lLiBXZSBhbGwgd29ya2Vk4oCUbWUsIEdhb0xpbmcsIG15IGF1bnRzIGFuZCBnaXJsIGNvdXNpbnMsIGV2ZXJ5Ym9keS4gRXZlbiB0aGUgYmFiaWVzIGFuZCBHcmVhdC1HcmFubnkgaGFkIGEgam9iIG9mIHBpY2tpbmcgb3V0IHN0b25lcyBmcm9tIHRoZSBkcmllZCBtaWxsZXQgd2UgYm9pbGVkIGZvciBicmVha2Zhc3QuIFdlIGdhdGhlcmVkIGVhY2ggZGF5IGluIHRoZSBpbmttYWtpbmcgc3R1ZGlvLiBBY2NvcmRpbmcgdG8gR3JlYXQtR3Jhbm55LCB0aGUgc3R1ZGlvIGJlZ2FuIGFzIGEgZ3JhaW4gc2hlZCB0aGF0IHNhdCBhbG9uZyB0aGUgZnJvbnQgd2FsbCBvZiB0aGUgY291cnR5YXJkIGhvdXNlLiBPdmVyIHRoZSB5ZWFycywgb25lIGdlbmVyYXRpb24gb2Ygc29ucyBhZGRlZCBicmljayB3YWxscyBhbmQgYSB0aWxlIHJvb2YuIEFub3RoZXIgc3RyZW5ndGhlbmVkIHRoZSBiZWFtcyBhbmQgbGVuZ3RoZW5lZCBpdCBieSB0d28gcGlsbGFycy4gVGhlIG5leHQgdGlsZWQgdGhlIGZsb29ycyBhbmQgZHVnIHBpdHMgZm9yIHN0b3JpbmcgdGhlIGluZ3JlZGllbnRzLiBUaGVuIG90aGVyIGRlc2NlbmRhbnRzIG1hZGUgYSBjZWxsYXIgZm9yIGtlZXBpbmcgdGhlIGlua3N0aWNrcyBhd2F5IGZyb20gdGhlIGhlYXQgYW5kIGNvbGQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Because our ink was the best quality, we had to keep the tables and the floors clean year-round. With the dusty yellow winds from the Gobi Desert, this was not easy to do. The window openings had to be covered with both glass and thick paper. In the summer, we hung netting over the doorways to keep to keep out the insects. In the winter, it was sheep hides to keep out the snow.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlY2F1c2Ugb3VyIGluayB3YXMgdGhlIGJlc3QgcXVhbGl0eSwgd2UgaGFkIHRvIGtlZXAgdGhlIHRhYmxlcyBhbmQgdGhlIGZsb29ycyBjbGVhbiB5ZWFyLXJvdW5kLiBXaXRoIHRoZSBkdXN0eSB5ZWxsb3cgd2luZHMgZnJvbSB0aGUgR29iaSBEZXNlcnQsIHRoaXMgd2FzIG5vdCBlYXN5IHRvIGRvLiBUaGUgd2luZG93IG9wZW5pbmdzIGhhZCB0byBiZSBjb3ZlcmVkIHdpdGggYm90aCBnbGFzcyBhbmQgdGhpY2sgcGFwZXIuIEluIHRoZSBzdW1tZXIsIHdlIGh1bmcgbmV0dGluZyBvdmVyIHRoZSBkb29yd2F5cyB0byBrZWVwIHRvIGtlZXAgb3V0IHRoZSBpbnNlY3RzLiBJbiB0aGUgd2ludGVyLCBpdCB3YXMgc2hlZXAgaGlkZXMgdG8ga2VlcCBvdXQgdGhlIHNub3cuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I can still smell the ingredients of our ink. There were several kinds of fragrant soot: pine, cassia, camphor, and the wood of the chopped-down Immortal Tree. There was also a glue of sticky paste mixed with many oils. Then we added a sweet poisonous flower that helped resist insects and rats. That was how special our ink was, all those lasting smells.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgY2FuIHN0aWxsIHNtZWxsIHRoZSBpbmdyZWRpZW50cyBvZiBvdXIgaW5rLiBUaGVyZSB3ZXJlIHNldmVyYWwga2luZHMgb2YgZnJhZ3JhbnQgc29vdDogcGluZSwgY2Fzc2lhLCBjYW1waG9yLCBhbmQgdGhlIHdvb2Qgb2YgdGhlIGNob3BwZWQtZG93biBJbW1vcnRhbCBUcmVlLiBUaGVyZSB3YXMgYWxzbyBhIGdsdWUgb2Ygc3RpY2t5IHBhc3RlIG1peGVkIHdpdGggbWFueSBvaWxzLiBUaGVuIHdlIGFkZGVkIGEgc3dlZXQgcG9pc29ub3VzIGZsb3dlciB0aGF0IGhlbHBlZCByZXNpc3QgaW5zZWN0cyBhbmQgcmF0cy4gVGhhdCB3YXMgaG93IHNwZWNpYWwgb3VyIGluayB3YXMsIGFsbCB0aG9zZSBsYXN0aW5nIHNtZWxscy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">We made the ink a little at a time. If a fire broke out, as it had a couple of hundred years before, all the supplies and stock would not be lost at once. Each of us had at least one part in a long list of things to do. <font id=4>First there was burning and grinding, measuring and pouring. </font> Then came stirring and molding, drying and carving. And finally, wrapping and counting, storing and stacking. One season I had to wrap, only that. My mind could wander, but my fingers still moved like small machines. Another season I had to use very fine tweezers to pluck bugs that had fallen onto the sticks. Whenever GaoLing did this, she left too many dents. Precious Auntie's job was to sit at a long table and press the sooty mixture into the stone molds. When the ink was dry, she used a long, sharp tool to carve the good-luck words and drawings into the sticks. Her calligraphy was even better than Father's.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldlIG1hZGUgdGhlIGluayBhIGxpdHRsZSBhdCBhIHRpbWUuIElmIGEgZmlyZSBicm9rZSBvdXQsIGFzIGl0IGhhZCBhIGNvdXBsZSBvZiBodW5kcmVkIHllYXJzIGJlZm9yZSwgYWxsIHRoZSBzdXBwbGllcyBhbmQgc3RvY2sgd291bGQgbm90IGJlIGxvc3QgYXQgb25jZS4gRWFjaCBvZiB1cyBoYWQgYXQgbGVhc3Qgb25lIHBhcnQgaW4gYSBsb25nIGxpc3Qgb2YgdGhpbmdzIHRvIGRvLiA8Zm9udCBpZD00PkZpcnN0IHRoZXJlIHdhcyBidXJuaW5nIGFuZCBncmluZGluZywgbWVhc3VyaW5nIGFuZCBwb3VyaW5nLiA8L2ZvbnQ+IFRoZW4gY2FtZSBzdGlycmluZyBhbmQgbW9sZGluZywgZHJ5aW5nIGFuZCBjYXJ2aW5nLiBBbmQgZmluYWxseSwgd3JhcHBpbmcgYW5kIGNvdW50aW5nLCBzdG9yaW5nIGFuZCBzdGFja2luZy4gT25lIHNlYXNvbiBJIGhhZCB0byB3cmFwLCBvbmx5IHRoYXQuIE15IG1pbmQgY291bGQgd2FuZGVyLCBidXQgbXkgZmluZ2VycyBzdGlsbCBtb3ZlZCBsaWtlIHNtYWxsIG1hY2hpbmVzLiBBbm90aGVyIHNlYXNvbiBJIGhhZCB0byB1c2UgdmVyeSBmaW5lIHR3ZWV6ZXJzIHRvIHBsdWNrIGJ1Z3MgdGhhdCBoYWQgZmFsbGVuIG9udG8gdGhlIHN0aWNrcy4gV2hlbmV2ZXIgR2FvTGluZyBkaWQgdGhpcywgc2hlIGxlZnQgdG9vIG1hbnkgZGVudHMuIFByZWNpb3VzIEF1bnRpZSdzIGpvYiB3YXMgdG8gc2l0IGF0IGEgbG9uZyB0YWJsZSBhbmQgcHJlc3MgdGhlIHNvb3R5IG1peHR1cmUgaW50byB0aGUgc3RvbmUgbW9sZHMuIFdoZW4gdGhlIGluayB3YXMgZHJ5LCBzaGUgdXNlZCBhIGxvbmcsIHNoYXJwIHRvb2wgdG8gY2FydmUgdGhlIGdvb2QtbHVjayB3b3JkcyBhbmQgZHJhd2luZ3MgaW50byB0aGUgc3RpY2tzLiBIZXIgY2FsbGlncmFwaHkgd2FzIGV2ZW4gYmV0dGVyIHRoYW4gRmF0aGVyJ3MuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was boring work, but we were proud of our secret family recipe. It yielded just the right color and hardness. An inkstick of ours could last ten years or more. It did not dry out and crumble, or grow soggy with moisture. And if the sticks were stored in the coolness of a root cellar, as ours were, they could last from one great period of history into another. Those who used our ink said the same. It didn't matter how much heat or moisture or dirt from fingers soaked into the page, their words lasted, black and strong.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBib3Jpbmcgd29yaywgYnV0IHdlIHdlcmUgcHJvdWQgb2Ygb3VyIHNlY3JldCBmYW1pbHkgcmVjaXBlLiBJdCB5aWVsZGVkIGp1c3QgdGhlIHJpZ2h0IGNvbG9yIGFuZCBoYXJkbmVzcy4gQW4gaW5rc3RpY2sgb2Ygb3VycyBjb3VsZCBsYXN0IHRlbiB5ZWFycyBvciBtb3JlLiBJdCBkaWQgbm90IGRyeSBvdXQgYW5kIGNydW1ibGUsIG9yIGdyb3cgc29nZ3kgd2l0aCBtb2lzdHVyZS4gQW5kIGlmIHRoZSBzdGlja3Mgd2VyZSBzdG9yZWQgaW4gdGhlIGNvb2xuZXNzIG9mIGEgcm9vdCBjZWxsYXIsIGFzIG91cnMgd2VyZSwgdGhleSBjb3VsZCBsYXN0IGZyb20gb25lIGdyZWF0IHBlcmlvZCBvZiBoaXN0b3J5IGludG8gYW5vdGhlci4gVGhvc2Ugd2hvIHVzZWQgb3VyIGluayBzYWlkIHRoZSBzYW1lLiBJdCBkaWRuJ3QgbWF0dGVyIGhvdyBtdWNoIGhlYXQgb3IgbW9pc3R1cmUgb3IgZGlydCBmcm9tIGZpbmdlcnMgc29ha2VkIGludG8gdGhlIHBhZ2UsIHRoZWlyIHdvcmRzIGxhc3RlZCwgYmxhY2sgYW5kIHN0cm9uZy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. The point of view from which the passage is told is best described as that of:
-<div class = "choice">A. a child living in a small town in China.</div>
-<div class = "choice">B. an adult remembering her childhood in China.</div>
-<div class = "choice">C. an inkmaker describing the century-old production process she still uses.</div>
-<div class = "choice">D. a great-grandmother whose family makes ink.</div>
-</div>
-###################
-<div class = "quiz">2. According to the passage, the men in the family lived in Peking most of the time because they:
-<div class = "choice">F. wanted to write important documents in the capital.</div>
-<div class = "choice">G. made pottery in the Pottery-Glazing District.</div>
-<div class = "choice">H. were ambitious salesmen in the Pottery-Glazing District.</div>
-<div class = "choice">J. produced ink in the Pottery-Glazing District.</div>
-</div>
-###################
-<div class = "quiz">3. According to the passage, the family's ink studio consisted of a:
-<div class = "choice">A. refurbished shed, pits, and a cellar.</div>
-<div class = "choice">B. house, a courtyard, and a cellar.</div>
-<div class = "choice">C. refurbished shed, a courtyard, and a cellar.</div>
-<div class = "choice">D. storeroom, a house, and pits.</div>
-</div>
-###################
-<div class = "quiz">4. It can most reasonably be inferred from the passage that one ingredient being burned (lines 64-65) to make the ink was:
-<div class = "choice">F. millet or another grain.</div>
-<div class = "choice">G. roots from the cellar.</div>
-<div class = "choice">H. wooden beams from the compound.</div>
-<div class = "choice">J. wood from the immortal Tree.</div>
-</div>
-###################
-<div class = "quiz">5. The main purpose of the last paragraph is to:
-<div class = "choice">A. explain the importance of storing inksticks in a cool place.</div>
-<div class = "choice">B. show that the family refused to share its recipe for making ink, which remained a secret.</div>
-<div class = "choice">C. illustrate the lasting quality of the Liu clan's ink.</div>
-<div class = "choice">D. indicate that Chinese history is divided into a series of "great periods."</div>
-</div>
-###################
-<div class = "quiz">6. As it is used in line 10, the word coppers most likely refers to:
-<div class = "choice">F. ink-storage containers.</div>
-<div class = "choice">G. metal cooking pots.</div>
-<div class = "choice">H. police officers.</div>
-<div class = "choice">J. joins.</div>
-</div>
-###################
-<div class = "quiz">7. The passage makes clear that the house grew from a simple house to a compound because:
-<div class = "choice">A. the family business required more and more space.</div>
-<div class = "choice">B. one mother in the family had borne many sons.</div>
-<div class = "choice">C. the storage of ink ingredients had taken up several rooms.</div>
-<div class = "choice">D. everybody in the family worked in the inkmaking studio.</div>
-</div>
-###################
-<div class = "quiz">8. The narrator makes clear that one mark of success for her family was:
-<div class = "choice">F. eating dried millet for breakfast every day.</div>
-<div class = "choice">G. owning sheep hides to provide warmth in winter.</div>
-<div class = "choice">H. having bean curd or meat at almost every meal.</div>
-<div class = "choice">J. giving birth to a son each year for many years.</div>
-</div>
-###################
-<div class = "quiz">9. Which of the following does the passage suggest had happened about two hundred years earlier?
-<div class = "choice">A. The family had added a secret fragrance to the ink.</div>
-<div class = "choice">B. The ink and its ingredients had been damaged or lost in a fire.</div>
-<div class = "choice">C. The family had experimented with yellow-colored ink.</div>
-<div class = "choice">D. There had been an invasion of pests that had ruined the ink.</div>
-</div>
-###################
-<div class = "quiz">10. Which of the following comparisons regarding calligraphy does the narrator make?
-<div class = "choice">F. The narrator's calligraphy was better than Gaoling's.</div>
-<div class = "choice">G. Precious Auntie's calligraphy was better than Father's.</div>
-<div class = "choice">H. Great-Granny's calligraphy was better than the narrator's.</div>
-<div class = "choice">J. Father's calligraphy was the best of all the family members'.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgcG9pbnQgb2YgdmlldyBmcm9tIHdoaWNoIHRoZSBwYXNzYWdlIGlzIHRvbGQgaXMgYmVzdCBkZXNjcmliZWQgYXMgdGhhdCBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgY2hpbGQgbGl2aW5nIGluIGEgc21hbGwgdG93biBpbiBDaGluYS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIGFkdWx0IHJlbWVtYmVyaW5nIGhlciBjaGlsZGhvb2QgaW4gQ2hpbmEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGlua21ha2VyIGRlc2NyaWJpbmcgdGhlIGNlbnR1cnktb2xkIHByb2R1Y3Rpb24gcHJvY2VzcyBzaGUgc3RpbGwgdXNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgZ3JlYXQtZ3JhbmRtb3RoZXIgd2hvc2UgZmFtaWx5IG1ha2VzIGluay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIHRoZSBtZW4gaW4gdGhlIGZhbWlseSBsaXZlZCBpbiBQZWtpbmcgbW9zdCBvZiB0aGUgdGltZSBiZWNhdXNlIHRoZXk6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdhbnRlZCB0byB3cml0ZSBpbXBvcnRhbnQgZG9jdW1lbnRzIGluIHRoZSBjYXBpdGFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1hZGUgcG90dGVyeSBpbiB0aGUgUG90dGVyeS1HbGF6aW5nIERpc3RyaWN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdlcmUgYW1iaXRpb3VzIHNhbGVzbWVuIGluIHRoZSBQb3R0ZXJ5LUdsYXppbmcgRGlzdHJpY3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByb2R1Y2VkIGluayBpbiB0aGUgUG90dGVyeS1HbGF6aW5nIERpc3RyaWN0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIHRoZSBmYW1pbHkncyBpbmsgc3R1ZGlvIGNvbnNpc3RlZCBvZiBhOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHJlZnVyYmlzaGVkIHNoZWQsIHBpdHMsIGFuZCBhIGNlbGxhci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhvdXNlLCBhIGNvdXJ0eWFyZCwgYW5kIGEgY2VsbGFyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJlZnVyYmlzaGVkIHNoZWQsIGEgY291cnR5YXJkLCBhbmQgYSBjZWxsYXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHN0b3Jlcm9vbSwgYSBob3VzZSwgYW5kIHBpdHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBJdCBjYW4gbW9zdCByZWFzb25hYmx5IGJlIGluZmVycmVkIGZyb20gdGhlIHBhc3NhZ2UgdGhhdCBvbmUgaW5ncmVkaWVudCBiZWluZyBidXJuZWQgKGxpbmVzIDY0LTY1KSB0byBtYWtlIHRoZSBpbmsgd2FzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1pbGxldCBvciBhbm90aGVyIGdyYWluLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJvb3RzIGZyb20gdGhlIGNlbGxhci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvb2RlbiBiZWFtcyBmcm9tIHRoZSBjb21wb3VuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdvb2QgZnJvbSB0aGUgaW1tb3J0YWwgVHJlZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBUaGUgbWFpbiBwdXJwb3NlIG9mIHRoZSBsYXN0IHBhcmFncmFwaCBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4cGxhaW4gdGhlIGltcG9ydGFuY2Ugb2Ygc3RvcmluZyBpbmtzdGlja3MgaW4gYSBjb29sIHBsYWNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNob3cgdGhhdCB0aGUgZmFtaWx5IHJlZnVzZWQgdG8gc2hhcmUgaXRzIHJlY2lwZSBmb3IgbWFraW5nIGluaywgd2hpY2ggcmVtYWluZWQgYSBzZWNyZXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlsbHVzdHJhdGUgdGhlIGxhc3RpbmcgcXVhbGl0eSBvZiB0aGUgTGl1IGNsYW4ncyBpbmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluZGljYXRlIHRoYXQgQ2hpbmVzZSBoaXN0b3J5IGlzIGRpdmlkZWQgaW50byBhIHNlcmllcyBvZiAiZ3JlYXQgcGVyaW9kcy4iPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBBcyBpdCBpcyB1c2VkIGluIGxpbmUgMTAsIHRoZSB3b3JkIGNvcHBlcnMgbW9zdCBsaWtlbHkgcmVmZXJzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluay1zdG9yYWdlIGNvbnRhaW5lcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1ldGFsIGNvb2tpbmcgcG90cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBvbGljZSBvZmZpY2Vycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGpvaW5zLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBUaGUgcGFzc2FnZSBtYWtlcyBjbGVhciB0aGF0IHRoZSBob3VzZSBncmV3IGZyb20gYSBzaW1wbGUgaG91c2UgdG8gYSBjb21wb3VuZCBiZWNhdXNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBmYW1pbHkgYnVzaW5lc3MgcmVxdWlyZWQgbW9yZSBhbmQgbW9yZSBzcGFjZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG9uZSBtb3RoZXIgaW4gdGhlIGZhbWlseSBoYWQgYm9ybmUgbWFueSBzb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzdG9yYWdlIG9mIGluayBpbmdyZWRpZW50cyBoYWQgdGFrZW4gdXAgc2V2ZXJhbCByb29tcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV2ZXJ5Ym9keSBpbiB0aGUgZmFtaWx5IHdvcmtlZCBpbiB0aGUgaW5rbWFraW5nIHN0dWRpby48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBUaGUgbmFycmF0b3IgbWFrZXMgY2xlYXIgdGhhdCBvbmUgbWFyayBvZiBzdWNjZXNzIGZvciBoZXIgZmFtaWx5IHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGVhdGluZyBkcmllZCBtaWxsZXQgZm9yIGJyZWFrZmFzdCBldmVyeSBkYXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG93bmluZyBzaGVlcCBoaWRlcyB0byBwcm92aWRlIHdhcm10aCBpbiB3aW50ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmluZyBiZWFuIGN1cmQgb3IgbWVhdCBhdCBhbG1vc3QgZXZlcnkgbWVhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdpdmluZyBiaXJ0aCB0byBhIHNvbiBlYWNoIHllYXIgZm9yIG1hbnkgeWVhcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGRvZXMgdGhlIHBhc3NhZ2Ugc3VnZ2VzdCBoYWQgaGFwcGVuZWQgYWJvdXQgdHdvIGh1bmRyZWQgeWVhcnMgZWFybGllcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBmYW1pbHkgaGFkIGFkZGVkIGEgc2VjcmV0IGZyYWdyYW5jZSB0byB0aGUgaW5rLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBpbmsgYW5kIGl0cyBpbmdyZWRpZW50cyBoYWQgYmVlbiBkYW1hZ2VkIG9yIGxvc3QgaW4gYSBmaXJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBmYW1pbHkgaGFkIGV4cGVyaW1lbnRlZCB3aXRoIHllbGxvdy1jb2xvcmVkIGluay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZXJlIGhhZCBiZWVuIGFuIGludmFzaW9uIG9mIHBlc3RzIHRoYXQgaGFkIHJ1aW5lZCB0aGUgaW5rLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjb21wYXJpc29ucyByZWdhcmRpbmcgY2FsbGlncmFwaHkgZG9lcyB0aGUgbmFycmF0b3IgbWFrZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBuYXJyYXRvcidzIGNhbGxpZ3JhcGh5IHdhcyBiZXR0ZXIgdGhhbiBHYW9saW5nJ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFByZWNpb3VzIEF1bnRpZSdzIGNhbGxpZ3JhcGh5IHdhcyBiZXR0ZXIgdGhhbiBGYXRoZXIncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEdyZWF0LUdyYW5ueSdzIGNhbGxpZ3JhcGh5IHdhcyBiZXR0ZXIgdGhhbiB0aGUgbmFycmF0b3Incy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZhdGhlcidzIGNhbGxpZ3JhcGh5IHdhcyB0aGUgYmVzdCBvZiBhbGwgdGhlIGZhbWlseSBtZW1iZXJzJy48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

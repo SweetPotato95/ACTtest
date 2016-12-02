@@ -1,94 +1,94 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from “Were Dinosaurs Cold Blooded?” by Brendan J. Koerner (○c 1997 by U.S. News and World Report Inc.). Warm-blooded creatures maintain a nearly constant body temperature under most conditions.</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The claim that dinosaurs were warm blooded has divided the paleontological world into rival camps. For some, endothermy, the scientific name for warm bloodedness, is the only way to explain the dinosaurs' evolutionary success. Without the ability to keep their bodies at optimum temperatures regardless of their surroundings, they argue, dinosaurs could never have dominated the globe for 160 million years. Skeptics counter that ectothermy, the proper label for cold bloodedness, was the logical strategy for dinosaurs living in the Mesozoic Era's generally sweltering heat－and, this group claims, the only option that is supported by physiological, rather than circumstantial, evidence.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSDigJxXZXJlIERpbm9zYXVycyBDb2xkIEJsb29kZWQ/4oA/IGJ5IEJyZW5kYW4gSi4gS29lcm5lciAo4peLYyAxOTk3IGJ5IFUuUy4gTmV3cyBhbmQgV29ybGQgUmVwb3J0IEluYy4pLiBXYXJtLWJsb29kZWQgY3JlYXR1cmVzIG1haW50YWluIGEgbmVhcmx5IGNvbnN0YW50IGJvZHkgdGVtcGVyYXR1cmUgdW5kZXIgbW9zdCBjb25kaXRpb25zLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBjbGFpbSB0aGF0IGRpbm9zYXVycyB3ZXJlIHdhcm0gYmxvb2RlZCBoYXMgZGl2aWRlZCB0aGUgcGFsZW9udG9sb2dpY2FsIHdvcmxkIGludG8gcml2YWwgY2FtcHMuIEZvciBzb21lLCBlbmRvdGhlcm15LCB0aGUgc2NpZW50aWZpYyBuYW1lIGZvciB3YXJtIGJsb29kZWRuZXNzLCBpcyB0aGUgb25seSB3YXkgdG8gZXhwbGFpbiB0aGUgZGlub3NhdXJzJyBldm9sdXRpb25hcnkgc3VjY2Vzcy4gV2l0aG91dCB0aGUgYWJpbGl0eSB0byBrZWVwIHRoZWlyIGJvZGllcyBhdCBvcHRpbXVtIHRlbXBlcmF0dXJlcyByZWdhcmRsZXNzIG9mIHRoZWlyIHN1cnJvdW5kaW5ncywgdGhleSBhcmd1ZSwgZGlub3NhdXJzIGNvdWxkIG5ldmVyIGhhdmUgZG9taW5hdGVkIHRoZSBnbG9iZSBmb3IgMTYwIG1pbGxpb24geWVhcnMuIFNrZXB0aWNzIGNvdW50ZXIgdGhhdCBlY3RvdGhlcm15LCB0aGUgcHJvcGVyIGxhYmVsIGZvciBjb2xkIGJsb29kZWRuZXNzLCB3YXMgdGhlIGxvZ2ljYWwgc3RyYXRlZ3kgZm9yIGRpbm9zYXVycyBsaXZpbmcgaW4gdGhlIE1lc296b2ljIEVyYSdzIGdlbmVyYWxseSBzd2VsdGVyaW5nIGhlYXTvvI1hbmQsIHRoaXMgZ3JvdXAgY2xhaW1zLCB0aGUgb25seSBvcHRpb24gdGhhdCBpcyBzdXBwb3J0ZWQgYnkgcGh5c2lvbG9naWNhbCwgcmF0aGVyIHRoYW4gY2lyY3Vtc3RhbnRpYWwsIGV2aWRlbmNlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The revisionist view that has so captured the public imagination has long been led by Robert Bakker, a crusader against slow-moving, dimwitted, crocodilian dinosaurs. He painted a picture of dinosaurs that were every bit as endothermic as humans. Instead of spending their days lazily basking in the sun and occasionally trudging along at a torpid pace, Bakker's dinosaurs moved at constant speeds, their postures fully erect in the manner of birds and mammals. "Meateating dinosaurs related to Tyrannosaurus rex cruised at 3 to 4 miles an hour," claims Bakker, who bases his conclusion on fossilized footprints. "No turtle anywhere cruises at 3 to 4 miles an hour."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByZXZpc2lvbmlzdCB2aWV3IHRoYXQgaGFzIHNvIGNhcHR1cmVkIHRoZSBwdWJsaWMgaW1hZ2luYXRpb24gaGFzIGxvbmcgYmVlbiBsZWQgYnkgUm9iZXJ0IEJha2tlciwgYSBjcnVzYWRlciBhZ2FpbnN0IHNsb3ctbW92aW5nLCBkaW13aXR0ZWQsIGNyb2NvZGlsaWFuIGRpbm9zYXVycy4gSGUgcGFpbnRlZCBhIHBpY3R1cmUgb2YgZGlub3NhdXJzIHRoYXQgd2VyZSBldmVyeSBiaXQgYXMgZW5kb3RoZXJtaWMgYXMgaHVtYW5zLiBJbnN0ZWFkIG9mIHNwZW5kaW5nIHRoZWlyIGRheXMgbGF6aWx5IGJhc2tpbmcgaW4gdGhlIHN1biBhbmQgb2NjYXNpb25hbGx5IHRydWRnaW5nIGFsb25nIGF0IGEgdG9ycGlkIHBhY2UsIEJha2tlcidzIGRpbm9zYXVycyBtb3ZlZCBhdCBjb25zdGFudCBzcGVlZHMsIHRoZWlyIHBvc3R1cmVzIGZ1bGx5IGVyZWN0IGluIHRoZSBtYW5uZXIgb2YgYmlyZHMgYW5kIG1hbW1hbHMuICJNZWF0ZWF0aW5nIGRpbm9zYXVycyByZWxhdGVkIHRvIFR5cmFubm9zYXVydXMgcmV4IGNydWlzZWQgYXQgMyB0byA0IG1pbGVzIGFuIGhvdXIsIiBjbGFpbXMgQmFra2VyLCB3aG8gYmFzZXMgaGlzIGNvbmNsdXNpb24gb24gZm9zc2lsaXplZCBmb290cHJpbnRzLiAiTm8gdHVydGxlIGFueXdoZXJlIGNydWlzZXMgYXQgMyB0byA0IG1pbGVzIGFuIGhvdXIuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>Bakker and his <font id=33>acolytes</font> also point to dinosaurs relatively fast growth as evidence of endothermy. Mammals and birds, which develop quickly compared with ectothermic reptiles, have bones characterized by microscopic channels that apper complex and crystallike under the microscope. These elegant patterns form when growing bone meets and meshes with connective tissue, capturing blood vessels in dense, woven structures called Haversian canals. Armand de Ricqlè's, a University of Paris anatomist, found that dinosaur bones exhibited those same intricate channels rather than the simpler, less dense structures common to reptiles. "We see the same well-vascularized bone in mammals but not in turtles and crocodiles," says Kevin Padian, a paleontologist at the University of California-Berkeley. "The way the bones grew, dinosaurs seem to have been active all the time." That pace of activity, argue Bakker and his cohorts, is the telltale sign of warm bloodedness. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM0PkJha2tlciBhbmQgaGlzIDxmb250IGlkPTMzPmFjb2x5dGVzPC9mb250PiBhbHNvIHBvaW50IHRvIGRpbm9zYXVycyByZWxhdGl2ZWx5IGZhc3QgZ3Jvd3RoIGFzIGV2aWRlbmNlIG9mIGVuZG90aGVybXkuIE1hbW1hbHMgYW5kIGJpcmRzLCB3aGljaCBkZXZlbG9wIHF1aWNrbHkgY29tcGFyZWQgd2l0aCBlY3RvdGhlcm1pYyByZXB0aWxlcywgaGF2ZSBib25lcyBjaGFyYWN0ZXJpemVkIGJ5IG1pY3Jvc2NvcGljIGNoYW5uZWxzIHRoYXQgYXBwZXIgY29tcGxleCBhbmQgY3J5c3RhbGxpa2UgdW5kZXIgdGhlIG1pY3Jvc2NvcGUuIFRoZXNlIGVsZWdhbnQgcGF0dGVybnMgZm9ybSB3aGVuIGdyb3dpbmcgYm9uZSBtZWV0cyBhbmQgbWVzaGVzIHdpdGggY29ubmVjdGl2ZSB0aXNzdWUsIGNhcHR1cmluZyBibG9vZCB2ZXNzZWxzIGluIGRlbnNlLCB3b3ZlbiBzdHJ1Y3R1cmVzIGNhbGxlZCBIYXZlcnNpYW4gY2FuYWxzLiBBcm1hbmQgZGUgUmljcWzDqCdzLCBhIFVuaXZlcnNpdHkgb2YgUGFyaXMgYW5hdG9taXN0LCBmb3VuZCB0aGF0IGRpbm9zYXVyIGJvbmVzIGV4aGliaXRlZCB0aG9zZSBzYW1lIGludHJpY2F0ZSBjaGFubmVscyByYXRoZXIgdGhhbiB0aGUgc2ltcGxlciwgbGVzcyBkZW5zZSBzdHJ1Y3R1cmVzIGNvbW1vbiB0byByZXB0aWxlcy4gIldlIHNlZSB0aGUgc2FtZSB3ZWxsLXZhc2N1bGFyaXplZCBib25lIGluIG1hbW1hbHMgYnV0IG5vdCBpbiB0dXJ0bGVzIGFuZCBjcm9jb2RpbGVzLCIgc2F5cyBLZXZpbiBQYWRpYW4sIGEgcGFsZW9udG9sb2dpc3QgYXQgdGhlIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYS1CZXJrZWxleS4gIlRoZSB3YXkgdGhlIGJvbmVzIGdyZXcsIGRpbm9zYXVycyBzZWVtIHRvIGhhdmUgYmVlbiBhY3RpdmUgYWxsIHRoZSB0aW1lLiIgVGhhdCBwYWNlIG9mIGFjdGl2aXR5LCBhcmd1ZSBCYWtrZXIgYW5kIGhpcyBjb2hvcnRzLCBpcyB0aGUgdGVsbHRhbGUgc2lnbiBvZiB3YXJtIGJsb29kZWRuZXNzLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=31>Many within the scientific community remain wary of Bakker's claims. Since measurements show that endotherms require up to 20 times more food than ectotherms, some question how the gigantic dinosaurs could possibly have eaten enough if they were warm blooded.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMxPk1hbnkgd2l0aGluIHRoZSBzY2llbnRpZmljIGNvbW11bml0eSByZW1haW4gd2FyeSBvZiBCYWtrZXIncyBjbGFpbXMuIFNpbmNlIG1lYXN1cmVtZW50cyBzaG93IHRoYXQgZW5kb3RoZXJtcyByZXF1aXJlIHVwIHRvIDIwIHRpbWVzIG1vcmUgZm9vZCB0aGFuIGVjdG90aGVybXMsIHNvbWUgcXVlc3Rpb24gaG93IHRoZSBnaWdhbnRpYyBkaW5vc2F1cnMgY291bGQgcG9zc2libHkgaGF2ZSBlYXRlbiBlbm91Z2ggaWYgdGhleSB3ZXJlIHdhcm0gYmxvb2RlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>The evidence based on bone structures has come under fire, too. Tomasz Owerkowicz, a Harvard University researcher, has asserted that the dense canals that de Ricqles detected could have resulted from physical exertion rather than endothermy. In an ingenious experimept, Owerkowicz gave cold-blooded monitor lizards regular treadmill workouts and then compared their bones with those of nonaerobicized contemporaries. The well-exercised group showed the same kind of complex channels characteristic of mammals, birds, and de Ricqle's dinosaurs, suggesting that Haversian canals are causally linked to an active Jifestyle rather than warm bloodedness. <font id=36>South African histologist Anusuya Chinsamy has also countered some of the bone structure argument, contending that dinosaur bones exhibit bands called lines of arrested growth. These are characteristic of modern-day ectotherms, whose growth rate speeds up and slows down according to seasonal temperature fluctuations. Chinsamy concluded that dinosaurs grew at a more reptilian pace than envisioned by the Bakkerites. </font></font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM1PlRoZSBldmlkZW5jZSBiYXNlZCBvbiBib25lIHN0cnVjdHVyZXMgaGFzIGNvbWUgdW5kZXIgZmlyZSwgdG9vLiBUb21hc3ogT3dlcmtvd2ljeiwgYSBIYXJ2YXJkIFVuaXZlcnNpdHkgcmVzZWFyY2hlciwgaGFzIGFzc2VydGVkIHRoYXQgdGhlIGRlbnNlIGNhbmFscyB0aGF0IGRlIFJpY3FsZXMgZGV0ZWN0ZWQgY291bGQgaGF2ZSByZXN1bHRlZCBmcm9tIHBoeXNpY2FsIGV4ZXJ0aW9uIHJhdGhlciB0aGFuIGVuZG90aGVybXkuIEluIGFuIGluZ2VuaW91cyBleHBlcmltZXB0LCBPd2Vya293aWN6IGdhdmUgY29sZC1ibG9vZGVkIG1vbml0b3IgbGl6YXJkcyByZWd1bGFyIHRyZWFkbWlsbCB3b3Jrb3V0cyBhbmQgdGhlbiBjb21wYXJlZCB0aGVpciBib25lcyB3aXRoIHRob3NlIG9mIG5vbmFlcm9iaWNpemVkIGNvbnRlbXBvcmFyaWVzLiBUaGUgd2VsbC1leGVyY2lzZWQgZ3JvdXAgc2hvd2VkIHRoZSBzYW1lIGtpbmQgb2YgY29tcGxleCBjaGFubmVscyBjaGFyYWN0ZXJpc3RpYyBvZiBtYW1tYWxzLCBiaXJkcywgYW5kIGRlIFJpY3FsZSdzIGRpbm9zYXVycywgc3VnZ2VzdGluZyB0aGF0IEhhdmVyc2lhbiBjYW5hbHMgYXJlIGNhdXNhbGx5IGxpbmtlZCB0byBhbiBhY3RpdmUgSmlmZXN0eWxlIHJhdGhlciB0aGFuIHdhcm0gYmxvb2RlZG5lc3MuIDxmb250IGlkPTM2PlNvdXRoIEFmcmljYW4gaGlzdG9sb2dpc3QgQW51c3V5YSBDaGluc2FteSBoYXMgYWxzbyBjb3VudGVyZWQgc29tZSBvZiB0aGUgYm9uZSBzdHJ1Y3R1cmUgYXJndW1lbnQsIGNvbnRlbmRpbmcgdGhhdCBkaW5vc2F1ciBib25lcyBleGhpYml0IGJhbmRzIGNhbGxlZCBsaW5lcyBvZiBhcnJlc3RlZCBncm93dGguIFRoZXNlIGFyZSBjaGFyYWN0ZXJpc3RpYyBvZiBtb2Rlcm4tZGF5IGVjdG90aGVybXMsIHdob3NlIGdyb3d0aCByYXRlIHNwZWVkcyB1cCBhbmQgc2xvd3MgZG93biBhY2NvcmRpbmcgdG8gc2Vhc29uYWwgdGVtcGVyYXR1cmUgZmx1Y3R1YXRpb25zLiBDaGluc2FteSBjb25jbHVkZWQgdGhhdCBkaW5vc2F1cnMgZ3JldyBhdCBhIG1vcmUgcmVwdGlsaWFuIHBhY2UgdGhhbiBlbnZpc2lvbmVkIGJ5IHRoZSBCYWtrZXJpdGVzLiA8L2ZvbnQ+PC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=39>The ectothermic side has sought to boost its case with hard physiological evidence. Turbinates, tiny whisps of bone or cartilage deep inside the nasal cavities of mammals and birds, make warm bloodedness possible by limiting water loss. <font id=37>Turbinates have never been found in living ectotherms－nor in dinosaurs. </font> </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM5PlRoZSBlY3RvdGhlcm1pYyBzaWRlIGhhcyBzb3VnaHQgdG8gYm9vc3QgaXRzIGNhc2Ugd2l0aCBoYXJkIHBoeXNpb2xvZ2ljYWwgZXZpZGVuY2UuIFR1cmJpbmF0ZXMsIHRpbnkgd2hpc3BzIG9mIGJvbmUgb3IgY2FydGlsYWdlIGRlZXAgaW5zaWRlIHRoZSBuYXNhbCBjYXZpdGllcyBvZiBtYW1tYWxzIGFuZCBiaXJkcywgbWFrZSB3YXJtIGJsb29kZWRuZXNzIHBvc3NpYmxlIGJ5IGxpbWl0aW5nIHdhdGVyIGxvc3MuIDxmb250IGlkPTM3PlR1cmJpbmF0ZXMgaGF2ZSBuZXZlciBiZWVuIGZvdW5kIGluIGxpdmluZyBlY3RvdGhlcm1z77yNbm9yIGluIGRpbm9zYXVycy4gPC9mb250PiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many on the cold-blooded side now use the term "gigantothermy" to describe the unique energetics of large dinosaurs. Being huge is one way to maintain a relatively constant body temperature despite cold bloodedness: Large things－which have a lot of bulk in relation to their skin area－lose heat to the outside world much more slowly than do small things. If dinosaurs were indeed cold blooded, the slow heat loss associated with gigantothermy would allow them to stay relatively warm－and avoid a reptilian torpor－when confronted by the night or an overcast day. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hbnkgb24gdGhlIGNvbGQtYmxvb2RlZCBzaWRlIG5vdyB1c2UgdGhlIHRlcm0gImdpZ2FudG90aGVybXkiIHRvIGRlc2NyaWJlIHRoZSB1bmlxdWUgZW5lcmdldGljcyBvZiBsYXJnZSBkaW5vc2F1cnMuIEJlaW5nIGh1Z2UgaXMgb25lIHdheSB0byBtYWludGFpbiBhIHJlbGF0aXZlbHkgY29uc3RhbnQgYm9keSB0ZW1wZXJhdHVyZSBkZXNwaXRlIGNvbGQgYmxvb2RlZG5lc3M6IExhcmdlIHRoaW5nc++8jXdoaWNoIGhhdmUgYSBsb3Qgb2YgYnVsayBpbiByZWxhdGlvbiB0byB0aGVpciBza2luIGFyZWHvvI1sb3NlIGhlYXQgdG8gdGhlIG91dHNpZGUgd29ybGQgbXVjaCBtb3JlIHNsb3dseSB0aGFuIGRvIHNtYWxsIHRoaW5ncy4gSWYgZGlub3NhdXJzIHdlcmUgaW5kZWVkIGNvbGQgYmxvb2RlZCwgdGhlIHNsb3cgaGVhdCBsb3NzIGFzc29jaWF0ZWQgd2l0aCBnaWdhbnRvdGhlcm15IHdvdWxkIGFsbG93IHRoZW0gdG8gc3RheSByZWxhdGl2ZWx5IHdhcm3vvI1hbmQgYXZvaWQgYSByZXB0aWxpYW4gdG9ycG9y77yNd2hlbiBjb25mcm9udGVkIGJ5IHRoZSBuaWdodCBvciBhbiBvdmVyY2FzdCBkYXkuIDwvZm9udD48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31. The function of the information provided in the passage's last four paragraphs (lines 46－89) is primarily to:
-<div class = "choice">A. provide a counterpoint to the theories advanced by Bakker and his revisionist-minded colleagues.</div>
-<div class = "choice">B. disclose information about turbinates that undermines the theories put forward by Padian and Bakker.</div>
-<div class = "choice">C. show that Haversian canals have a wholly different purpose and origin than de Ricqlès thought.</div>
-<div class = "choice">D. make clear the importance of the research done by Chinsamy and Owerkowicz.</div>
-</div>
-###################
-<div class = "quiz">32. Which of the following questions best addresses the main point of the first paragraph?
-<div class = "choice">F. Why were dinosaurs able to dominate the globe for 160 million years?</div>
-<div class = "choice">G. When did the paleontological world divide into two rival groups?</div>
-<div class = "choice">H. Why are some paleontologists skeptical about ectothermy?</div>
-<div class = "choice">J. Were dinosaurs endothermic or ectothermic?</div>
-</div>
-###################
-<div class = "quiz">33. It can reasonably be inferred that the word acolytes, as it is used in line 27, refers to paleontologists who:
-<div class = "choice">A. disagree with Bakker's theories.</div>
-<div class = "choice">B. share Bakker's revisionist views.</div>
-<div class = "choice">C. have mixed feelings about Bakker's work.</div>
-<div class = "choice">D. think dinosaurs were ectothermic.</div>
-</div>
-###################
-<div class = "quiz">34. It is clear from the third paragraph (lines 27－45) that Haversian canals can only be viewed:
-<div class = "choice">F. by scientists.</div>
-<div class = "choice">G. in dinosaurs.</div>
-<div class = "choice">H. by Bakkerites.</div>
-<div class = "choice">J. through a microscope.</div>
-</div>
-###################
-<div class = "quiz">35. It can reasonably be inferred from the fifth paragraph (lines 52－72) that the description of Owerkowicz's work functions in the passage as a whole to:
-<div class = "choice">A. demonstrate that de Ricqlès did not find Haversian canals in the dinosaurs he studied.</div>
-<div class = "choice">B. present an alternative explanation of how the dinosaurs' Haversian canals might have developed.</div>
-<div class = "choice">C. explain what caused ectothermic dinosaurs to evolve differently from endothermic dinosaurs.</div>
-<div class = "choice">D. illustrate the way in which reptiles could be made to perform in ingenious experiments.</div>
-</div>
-###################
-<div class = "quiz">36. The research by Chinsamy cited in lines 64－72 serves which of the following purposes?
-<div class = "choice">F. It enhances the findings of de Ricqlès.</div>
-<div class = "choice">G. It contradicts the theories of Owerkowicz.</div>
-<div class = "choice">H. It lends support to the theories of Owerkowicz.</div>
-<div class = "choice">J. It augments the theories of Bakker and his associates.</div>
-</div>
-###################
-<div class = "quiz">37. The fact cited in lines 77－78 is most consistent with the ideas about dinosaurs attributed to which of the following scientists?
-<div class = "choice">A. Chinsamy</div>
-<div class = "choice">B. Padian</div>
-<div class = "choice">C. Bakker</div>
-<div class = "choice">D. de Ricqlès</div>
-</div>
-###################
-<div class = "quiz">38. The passage states that the growth rate of modern ectotherms is directly related to which of the following?
-<div class = "choice">F. Their food</div>
-<div class = "choice">G. Habitat plants</div>
-<div class = "choice">H. Seasonal temperature</div>
-<div class = "choice">J. Their size</div>
-</div>
-###################
-<div class = "quiz">39. The sixth paragraph (lines 73－78) indicates that turbinates are found in all of the following EXCEPT:
-<div class = "choice">A. birds.</div>
-<div class = "choice">B. mammals.</div>
-<div class = "choice">C. endotherms.</div>
-<div class = "choice">D. ectotherms.</div>
-</div>
-###################
-<div class = "quiz">40. As it is used in the last paragraph, the term gigantothermy most nearly means that the:
-<div class = "choice">F. larger the dinosaur, the easier it is for the dinosaur to be endothermic.</div>
-<div class = "choice">G. larger the dinosaur, the easier it is for the dinosaur to retain body heat.</div>
-<div class = "choice">H. smaller the dinosaur, the more likely that that dinosaur will be ectothermic.</div>
-<div class = "choice">J. smaller the dinosaur, the more likely it will exist in a perpetual state of reptilian torpor.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIGZ1bmN0aW9uIG9mIHRoZSBpbmZvcm1hdGlvbiBwcm92aWRlZCBpbiB0aGUgcGFzc2FnZSdzIGxhc3QgZm91ciBwYXJhZ3JhcGhzIChsaW5lcyA0Nu+8Pzg5KSBpcyBwcmltYXJpbHkgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHByb3ZpZGUgYSBjb3VudGVycG9pbnQgdG8gdGhlIHRoZW9yaWVzIGFkdmFuY2VkIGJ5IEJha2tlciBhbmQgaGlzIHJldmlzaW9uaXN0LW1pbmRlZCBjb2xsZWFndWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRpc2Nsb3NlIGluZm9ybWF0aW9uIGFib3V0IHR1cmJpbmF0ZXMgdGhhdCB1bmRlcm1pbmVzIHRoZSB0aGVvcmllcyBwdXQgZm9yd2FyZCBieSBQYWRpYW4gYW5kIEJha2tlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNob3cgdGhhdCBIYXZlcnNpYW4gY2FuYWxzIGhhdmUgYSB3aG9sbHkgZGlmZmVyZW50IHB1cnBvc2UgYW5kIG9yaWdpbiB0aGFuIGRlIFJpY3Fsw6hzIHRob3VnaHQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1ha2UgY2xlYXIgdGhlIGltcG9ydGFuY2Ugb2YgdGhlIHJlc2VhcmNoIGRvbmUgYnkgQ2hpbnNhbXkgYW5kIE93ZXJrb3dpY3ouPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgYmVzdCBhZGRyZXNzZXMgdGhlIG1haW4gcG9pbnQgb2YgdGhlIGZpcnN0IHBhcmFncmFwaD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdoeSB3ZXJlIGRpbm9zYXVycyBhYmxlIHRvIGRvbWluYXRlIHRoZSBnbG9iZSBmb3IgMTYwIG1pbGxpb24geWVhcnM/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoZW4gZGlkIHRoZSBwYWxlb250b2xvZ2ljYWwgd29ybGQgZGl2aWRlIGludG8gdHdvIHJpdmFsIGdyb3Vwcz88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoeSBhcmUgc29tZSBwYWxlb250b2xvZ2lzdHMgc2tlcHRpY2FsIGFib3V0IGVjdG90aGVybXk/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdlcmUgZGlub3NhdXJzIGVuZG90aGVybWljIG9yIGVjdG90aGVybWljPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgd29yZCBhY29seXRlcywgYXMgaXQgaXMgdXNlZCBpbiBsaW5lIDI3LCByZWZlcnMgdG8gcGFsZW9udG9sb2dpc3RzIHdobzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRpc2FncmVlIHdpdGggQmFra2VyJ3MgdGhlb3JpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNoYXJlIEJha2tlcidzIHJldmlzaW9uaXN0IHZpZXdzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhdmUgbWl4ZWQgZmVlbGluZ3MgYWJvdXQgQmFra2VyJ3Mgd29yay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoaW5rIGRpbm9zYXVycyB3ZXJlIGVjdG90aGVybWljLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gSXQgaXMgY2xlYXIgZnJvbSB0aGUgdGhpcmQgcGFyYWdyYXBoIChsaW5lcyAyN++8PzQ1KSB0aGF0IEhhdmVyc2lhbiBjYW5hbHMgY2FuIG9ubHkgYmUgdmlld2VkOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJ5IHNjaWVudGlzdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluIGRpbm9zYXVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJ5IEJha2tlcml0ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRocm91Z2ggYSBtaWNyb3Njb3BlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgZmlmdGggcGFyYWdyYXBoIChsaW5lcyA1Mu+8PzcyKSB0aGF0IHRoZSBkZXNjcmlwdGlvbiBvZiBPd2Vya293aWN6J3Mgd29yayBmdW5jdGlvbnMgaW4gdGhlIHBhc3NhZ2UgYXMgYSB3aG9sZSB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRlbW9uc3RyYXRlIHRoYXQgZGUgUmljcWzDqHMgZGlkIG5vdCBmaW5kIEhhdmVyc2lhbiBjYW5hbHMgaW4gdGhlIGRpbm9zYXVycyBoZSBzdHVkaWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByZXNlbnQgYW4gYWx0ZXJuYXRpdmUgZXhwbGFuYXRpb24gb2YgaG93IHRoZSBkaW5vc2F1cnMnIEhhdmVyc2lhbiBjYW5hbHMgbWlnaHQgaGF2ZSBkZXZlbG9wZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV4cGxhaW4gd2hhdCBjYXVzZWQgZWN0b3RoZXJtaWMgZGlub3NhdXJzIHRvIGV2b2x2ZSBkaWZmZXJlbnRseSBmcm9tIGVuZG90aGVybWljIGRpbm9zYXVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGlsbHVzdHJhdGUgdGhlIHdheSBpbiB3aGljaCByZXB0aWxlcyBjb3VsZCBiZSBtYWRlIHRvIHBlcmZvcm0gaW4gaW5nZW5pb3VzIGV4cGVyaW1lbnRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gVGhlIHJlc2VhcmNoIGJ5IENoaW5zYW15IGNpdGVkIGluIGxpbmVzIDY077w/NzIgc2VydmVzIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgcHVycG9zZXM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IGVuaGFuY2VzIHRoZSBmaW5kaW5ncyBvZiBkZSBSaWNxbMOocy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0IGNvbnRyYWRpY3RzIHRoZSB0aGVvcmllcyBvZiBPd2Vya293aWN6LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0IGxlbmRzIHN1cHBvcnQgdG8gdGhlIHRoZW9yaWVzIG9mIE93ZXJrb3dpY3ouPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0IGF1Z21lbnRzIHRoZSB0aGVvcmllcyBvZiBCYWtrZXIgYW5kIGhpcyBhc3NvY2lhdGVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIGZhY3QgY2l0ZWQgaW4gbGluZXMgNzfvvD83OCBpcyBtb3N0IGNvbnNpc3RlbnQgd2l0aCB0aGUgaWRlYXMgYWJvdXQgZGlub3NhdXJzIGF0dHJpYnV0ZWQgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzY2llbnRpc3RzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIENoaW5zYW15PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFBhZGlhbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJha2tlcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlIFJpY3Fsw6hzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgdGhlIGdyb3d0aCByYXRlIG9mIG1vZGVybiBlY3RvdGhlcm1zIGlzIGRpcmVjdGx5IHJlbGF0ZWQgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZWlyIGZvb2Q8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEhhYml0YXQgcGxhbnRzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNlYXNvbmFsIHRlbXBlcmF0dXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZWlyIHNpemU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHNpeHRoIHBhcmFncmFwaCAobGluZXMgNzPvvD83OCkgaW5kaWNhdGVzIHRoYXQgdHVyYmluYXRlcyBhcmUgZm91bmQgaW4gYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGJpcmRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1hbW1hbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVuZG90aGVybXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVjdG90aGVybXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQXMgaXQgaXMgdXNlZCBpbiB0aGUgbGFzdCBwYXJhZ3JhcGgsIHRoZSB0ZXJtIGdpZ2FudG90aGVybXkgbW9zdCBuZWFybHkgbWVhbnMgdGhhdCB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxhcmdlciB0aGUgZGlub3NhdXIsIHRoZSBlYXNpZXIgaXQgaXMgZm9yIHRoZSBkaW5vc2F1ciB0byBiZSBlbmRvdGhlcm1pYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxhcmdlciB0aGUgZGlub3NhdXIsIHRoZSBlYXNpZXIgaXQgaXMgZm9yIHRoZSBkaW5vc2F1ciB0byByZXRhaW4gYm9keSBoZWF0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNtYWxsZXIgdGhlIGRpbm9zYXVyLCB0aGUgbW9yZSBsaWtlbHkgdGhhdCB0aGF0IGRpbm9zYXVyIHdpbGwgYmUgZWN0b3RoZXJtaWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNtYWxsZXIgdGhlIGRpbm9zYXVyLCB0aGUgbW9yZSBsaWtlbHkgaXQgd2lsbCBleGlzdCBpbiBhIHBlcnBldHVhbCBzdGF0ZSBvZiByZXB0aWxpYW4gdG9ycG9yLjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,94 +1,94 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article “The Gas between the Stars” by Ronald J. Reynolds ( ? 2001 by Scientific American, Inc.)</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font hidden id=33>(33.A)</font>For many years, we have known that an extremely thin atmosphere called the interstellar medium envelops our galaxy, the Milky Way, and threads the space between its billions of stars. Until fairly recently, the medium seemed a <font id=33>cold, static reservoir of gas</font> <font hidden id=33>(33.D)</font>quietly waiting to condense into stars. Now we recognize the medium as a tempestuous mixture with an extreme diversity of density, temperature and ionization.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSB0aGUgYXJ0aWNsZSDigJxUaGUgR2FzIGJldHdlZW4gdGhlIFN0YXJz4oA/IGJ5IFJvbmFsZCBKLiBSZXlub2xkcyAoID8gMjAwMSBieSBTY2llbnRpZmljIEFtZXJpY2FuLCBJbmMuKTwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGhpZGRlbiBpZD0zMz4oMzMuQSk8L2ZvbnQ+Rm9yIG1hbnkgeWVhcnMsIHdlIGhhdmUga25vd24gdGhhdCBhbiBleHRyZW1lbHkgdGhpbiBhdG1vc3BoZXJlIGNhbGxlZCB0aGUgaW50ZXJzdGVsbGFyIG1lZGl1bSBlbnZlbG9wcyBvdXIgZ2FsYXh5LCB0aGUgTWlsa3kgV2F5LCBhbmQgdGhyZWFkcyB0aGUgc3BhY2UgYmV0d2VlbiBpdHMgYmlsbGlvbnMgb2Ygc3RhcnMuIFVudGlsIGZhaXJseSByZWNlbnRseSwgdGhlIG1lZGl1bSBzZWVtZWQgYSA8Zm9udCBpZD0zMz5jb2xkLCBzdGF0aWMgcmVzZXJ2b2lyIG9mIGdhczwvZm9udD4gPGZvbnQgaGlkZGVuIGlkPTMzPigzMy5EKTwvZm9udD5xdWlldGx5IHdhaXRpbmcgdG8gY29uZGVuc2UgaW50byBzdGFycy4gTm93IHdlIHJlY29nbml6ZSB0aGUgbWVkaXVtIGFzIGEgdGVtcGVzdHVvdXMgbWl4dHVyZSB3aXRoIGFuIGV4dHJlbWUgZGl2ZXJzaXR5IG9mIGRlbnNpdHksIHRlbXBlcmF0dXJlIGFuZCBpb25pemF0aW9uLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In fact, telescopes on the ground and in space are showing <font id=34>the galaxy's atmosphere to be as complex as any planet's</font>. Held by the combined gravitational pull of the stars and other matter, permeated by starlight, energetic particles and a magnetic field, the interstellar medium is continuously stirred, heated, recycled and transformed. Like any atmosphere, it has its highest density and pressure at the "bottom,: in this case the plane that defines the middle of the galaxy, where the pressure must balance the weight of the medium from "above." Dense concentrations of gas－clouds－form near the midplane, and from the densest subcondensations, stars precipitate.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGZhY3QsIHRlbGVzY29wZXMgb24gdGhlIGdyb3VuZCBhbmQgaW4gc3BhY2UgYXJlIHNob3dpbmcgPGZvbnQgaWQ9MzQ+dGhlIGdhbGF4eSdzIGF0bW9zcGhlcmUgdG8gYmUgYXMgY29tcGxleCBhcyBhbnkgcGxhbmV0J3M8L2ZvbnQ+LiBIZWxkIGJ5IHRoZSBjb21iaW5lZCBncmF2aXRhdGlvbmFsIHB1bGwgb2YgdGhlIHN0YXJzIGFuZCBvdGhlciBtYXR0ZXIsIHBlcm1lYXRlZCBieSBzdGFybGlnaHQsIGVuZXJnZXRpYyBwYXJ0aWNsZXMgYW5kIGEgbWFnbmV0aWMgZmllbGQsIHRoZSBpbnRlcnN0ZWxsYXIgbWVkaXVtIGlzIGNvbnRpbnVvdXNseSBzdGlycmVkLCBoZWF0ZWQsIHJlY3ljbGVkIGFuZCB0cmFuc2Zvcm1lZC4gTGlrZSBhbnkgYXRtb3NwaGVyZSwgaXQgaGFzIGl0cyBoaWdoZXN0IGRlbnNpdHkgYW5kIHByZXNzdXJlIGF0IHRoZSAiYm90dG9tLDogaW4gdGhpcyBjYXNlIHRoZSBwbGFuZSB0aGF0IGRlZmluZXMgdGhlIG1pZGRsZSBvZiB0aGUgZ2FsYXh5LCB3aGVyZSB0aGUgcHJlc3N1cmUgbXVzdCBiYWxhbmNlIHRoZSB3ZWlnaHQgb2YgdGhlIG1lZGl1bSBmcm9tICJhYm92ZS4iIERlbnNlIGNvbmNlbnRyYXRpb25zIG9mIGdhc++8jWNsb3Vkc++8jWZvcm0gbmVhciB0aGUgbWlkcGxhbmUsIGFuZCBmcm9tIHRoZSBkZW5zZXN0IHN1YmNvbmRlbnNhdGlvbnMsIHN0YXJzIHByZWNpcGl0YXRlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When stars exhaust their muclear fuel and die, those that are at least as massive as the sun expel much of their matter back into the interstellar medium. Thus, as the galaxy ages, each generation of stars pollutes the medium with heavy elements. As in the water cycle on Earth, precipitation is followed by "evaporation," so that material can be recycled over and over again.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gc3RhcnMgZXhoYXVzdCB0aGVpciBtdWNsZWFyIGZ1ZWwgYW5kIGRpZSwgdGhvc2UgdGhhdCBhcmUgYXQgbGVhc3QgYXMgbWFzc2l2ZSBhcyB0aGUgc3VuIGV4cGVsIG11Y2ggb2YgdGhlaXIgbWF0dGVyIGJhY2sgaW50byB0aGUgaW50ZXJzdGVsbGFyIG1lZGl1bS4gVGh1cywgYXMgdGhlIGdhbGF4eSBhZ2VzLCBlYWNoIGdlbmVyYXRpb24gb2Ygc3RhcnMgcG9sbHV0ZXMgdGhlIG1lZGl1bSB3aXRoIGhlYXZ5IGVsZW1lbnRzLiBBcyBpbiB0aGUgd2F0ZXIgY3ljbGUgb24gRWFydGgsIHByZWNpcGl0YXRpb24gaXMgZm9sbG93ZWQgYnkgImV2YXBvcmF0aW9uLCIgc28gdGhhdCBtYXRlcmlhbCBjYW4gYmUgcmVjeWNsZWQgb3ZlciBhbmQgb3ZlciBhZ2Fpbi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thinking of the interstellar medium as a true atmosphere <font id=32>brings unity to</font> some of the most pressing problems in astrophysics. First and foremost is star formation. Although astronomers have known the basic principles for decades, they still do not grasp exactly what determines when and at what rate stars precipitate from the interstellar medium. Theorists used to explain the creation of stars only in terms of the local conditions within an isolated gas cloud. Now they are considering conditions in the galaxy as a whole.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaW5raW5nIG9mIHRoZSBpbnRlcnN0ZWxsYXIgbWVkaXVtIGFzIGEgdHJ1ZSBhdG1vc3BoZXJlIDxmb250IGlkPTMyPmJyaW5ncyB1bml0eSB0bzwvZm9udD4gc29tZSBvZiB0aGUgbW9zdCBwcmVzc2luZyBwcm9ibGVtcyBpbiBhc3Ryb3BoeXNpY3MuIEZpcnN0IGFuZCBmb3JlbW9zdCBpcyBzdGFyIGZvcm1hdGlvbi4gQWx0aG91Z2ggYXN0cm9ub21lcnMgaGF2ZSBrbm93biB0aGUgYmFzaWMgcHJpbmNpcGxlcyBmb3IgZGVjYWRlcywgdGhleSBzdGlsbCBkbyBub3QgZ3Jhc3AgZXhhY3RseSB3aGF0IGRldGVybWluZXMgd2hlbiBhbmQgYXQgd2hhdCByYXRlIHN0YXJzIHByZWNpcGl0YXRlIGZyb20gdGhlIGludGVyc3RlbGxhciBtZWRpdW0uIFRoZW9yaXN0cyB1c2VkIHRvIGV4cGxhaW4gdGhlIGNyZWF0aW9uIG9mIHN0YXJzIG9ubHkgaW4gdGVybXMgb2YgdGhlIGxvY2FsIGNvbmRpdGlvbnMgd2l0aGluIGFuIGlzb2xhdGVkIGdhcyBjbG91ZC4gTm93IHRoZXkgYXJlIGNvbnNpZGVyaW5nIGNvbmRpdGlvbnMgaW4gdGhlIGdhbGF4eSBhcyBhIHdob2xlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Not only do these conditions influence star formation, they are influenced by it. What one generation of stars does determines the environment in which subsequent generations are born, live and die. Understanding this feedback is another of the great challenges for researches. Feedback can be both positive and negative. On the one hand, massive stars can heat and ionize the medium and cause it to bulge out from the midplane. This expansion increases the ambient pressure, compressing the clouds and perhaps triggering their collapse into a new generation of stars. On the other hand, the heating and ionization can also agitate clouds, inhibiting the birth of new stars. When the largest stars blow up, they can even destroy the clouds that gave them birth. In fact, negative feedback could explain why the gravitational collapse of clouds into stars is so <font id=39>inefficient</font>. Typically only a few percent of a cloud's mass becomes stars.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vdCBvbmx5IGRvIHRoZXNlIGNvbmRpdGlvbnMgaW5mbHVlbmNlIHN0YXIgZm9ybWF0aW9uLCB0aGV5IGFyZSBpbmZsdWVuY2VkIGJ5IGl0LiBXaGF0IG9uZSBnZW5lcmF0aW9uIG9mIHN0YXJzIGRvZXMgZGV0ZXJtaW5lcyB0aGUgZW52aXJvbm1lbnQgaW4gd2hpY2ggc3Vic2VxdWVudCBnZW5lcmF0aW9ucyBhcmUgYm9ybiwgbGl2ZSBhbmQgZGllLiBVbmRlcnN0YW5kaW5nIHRoaXMgZmVlZGJhY2sgaXMgYW5vdGhlciBvZiB0aGUgZ3JlYXQgY2hhbGxlbmdlcyBmb3IgcmVzZWFyY2hlcy4gRmVlZGJhY2sgY2FuIGJlIGJvdGggcG9zaXRpdmUgYW5kIG5lZ2F0aXZlLiBPbiB0aGUgb25lIGhhbmQsIG1hc3NpdmUgc3RhcnMgY2FuIGhlYXQgYW5kIGlvbml6ZSB0aGUgbWVkaXVtIGFuZCBjYXVzZSBpdCB0byBidWxnZSBvdXQgZnJvbSB0aGUgbWlkcGxhbmUuIFRoaXMgZXhwYW5zaW9uIGluY3JlYXNlcyB0aGUgYW1iaWVudCBwcmVzc3VyZSwgY29tcHJlc3NpbmcgdGhlIGNsb3VkcyBhbmQgcGVyaGFwcyB0cmlnZ2VyaW5nIHRoZWlyIGNvbGxhcHNlIGludG8gYSBuZXcgZ2VuZXJhdGlvbiBvZiBzdGFycy4gT24gdGhlIG90aGVyIGhhbmQsIHRoZSBoZWF0aW5nIGFuZCBpb25pemF0aW9uIGNhbiBhbHNvIGFnaXRhdGUgY2xvdWRzLCBpbmhpYml0aW5nIHRoZSBiaXJ0aCBvZiBuZXcgc3RhcnMuIFdoZW4gdGhlIGxhcmdlc3Qgc3RhcnMgYmxvdyB1cCwgdGhleSBjYW4gZXZlbiBkZXN0cm95IHRoZSBjbG91ZHMgdGhhdCBnYXZlIHRoZW0gYmlydGguIEluIGZhY3QsIG5lZ2F0aXZlIGZlZWRiYWNrIGNvdWxkIGV4cGxhaW4gd2h5IHRoZSBncmF2aXRhdGlvbmFsIGNvbGxhcHNlIG9mIGNsb3VkcyBpbnRvIHN0YXJzIGlzIHNvIDxmb250IGlkPTM5PmluZWZmaWNpZW50PC9mb250Pi4gVHlwaWNhbGx5IG9ubHkgYSBmZXcgcGVyY2VudCBvZiBhIGNsb3VkJ3MgbWFzcyBiZWNvbWVzIHN0YXJzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A third conundrum is that star formation often occurs in sporadic but intense bursts. In the Milky Way the competing feedback effects almost balance out, so that stars form at an unhurried pace-just 10 per year on average. In some galaxies, however, such as the "exploding galaxy" M82, positive feedback has gained the upper hand. Starting 20 million to 50 million years ago, star formation in the central parts of M82 began running out of control, proceeding 10 times faster than before. Our galaxy, too, may have had sporadic bursts. How these starbursts occur and what turns them off must be tied to the complex relation between stars and tine tenuous atmosphere from which they precipitate.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgdGhpcmQgY29udW5kcnVtIGlzIHRoYXQgc3RhciBmb3JtYXRpb24gb2Z0ZW4gb2NjdXJzIGluIHNwb3JhZGljIGJ1dCBpbnRlbnNlIGJ1cnN0cy4gSW4gdGhlIE1pbGt5IFdheSB0aGUgY29tcGV0aW5nIGZlZWRiYWNrIGVmZmVjdHMgYWxtb3N0IGJhbGFuY2Ugb3V0LCBzbyB0aGF0IHN0YXJzIGZvcm0gYXQgYW4gdW5odXJyaWVkIHBhY2UtanVzdCAxMCBwZXIgeWVhciBvbiBhdmVyYWdlLiBJbiBzb21lIGdhbGF4aWVzLCBob3dldmVyLCBzdWNoIGFzIHRoZSAiZXhwbG9kaW5nIGdhbGF4eSIgTTgyLCBwb3NpdGl2ZSBmZWVkYmFjayBoYXMgZ2FpbmVkIHRoZSB1cHBlciBoYW5kLiBTdGFydGluZyAyMCBtaWxsaW9uIHRvIDUwIG1pbGxpb24geWVhcnMgYWdvLCBzdGFyIGZvcm1hdGlvbiBpbiB0aGUgY2VudHJhbCBwYXJ0cyBvZiBNODIgYmVnYW4gcnVubmluZyBvdXQgb2YgY29udHJvbCwgcHJvY2VlZGluZyAxMCB0aW1lcyBmYXN0ZXIgdGhhbiBiZWZvcmUuIE91ciBnYWxheHksIHRvbywgbWF5IGhhdmUgaGFkIHNwb3JhZGljIGJ1cnN0cy4gSG93IHRoZXNlIHN0YXJidXJzdHMgb2NjdXIgYW5kIHdoYXQgdHVybnMgdGhlbSBvZmYgbXVzdCBiZSB0aWVkIHRvIHRoZSBjb21wbGV4IHJlbGF0aW9uIGJldHdlZW4gc3RhcnMgYW5kIHRpbmUgdGVudW91cyBhdG1vc3BoZXJlIGZyb20gd2hpY2ggdGhleSBwcmVjaXBpdGF0ZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Finally, astronomers debate how quickly the atmospheric activity is petering out. The majority of stars-those less massive than the sun, which live tens or even hundreds of billions of years-do not contribute to the feedback loops. More and more of the interstellar gas is being locked up into very long lived stars. Eventually all the spare gas in our Milky Way may be exhausted, leaving only stellar dregs behind. How soon this will happen depends on whether the Milky Way is <font id=79>a closed box</font>. Recent observations suggest that the galaxy is still an open system, both gaining and losing mass to its cosmic surroundings. High-velocity clouds of relatively unpolluted hydrogen appear to be raining down from intergalactic space, rejuvenating our galaxy. Meanwhile the galaxy may be shedding gas in the form of a high-speed wind from its outer atmosphere, much as the sun slowly sheds mass in the solar wind.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpbmFsbHksIGFzdHJvbm9tZXJzIGRlYmF0ZSBob3cgcXVpY2tseSB0aGUgYXRtb3NwaGVyaWMgYWN0aXZpdHkgaXMgcGV0ZXJpbmcgb3V0LiBUaGUgbWFqb3JpdHkgb2Ygc3RhcnMtdGhvc2UgbGVzcyBtYXNzaXZlIHRoYW4gdGhlIHN1biwgd2hpY2ggbGl2ZSB0ZW5zIG9yIGV2ZW4gaHVuZHJlZHMgb2YgYmlsbGlvbnMgb2YgeWVhcnMtZG8gbm90IGNvbnRyaWJ1dGUgdG8gdGhlIGZlZWRiYWNrIGxvb3BzLiBNb3JlIGFuZCBtb3JlIG9mIHRoZSBpbnRlcnN0ZWxsYXIgZ2FzIGlzIGJlaW5nIGxvY2tlZCB1cCBpbnRvIHZlcnkgbG9uZyBsaXZlZCBzdGFycy4gRXZlbnR1YWxseSBhbGwgdGhlIHNwYXJlIGdhcyBpbiBvdXIgTWlsa3kgV2F5IG1heSBiZSBleGhhdXN0ZWQsIGxlYXZpbmcgb25seSBzdGVsbGFyIGRyZWdzIGJlaGluZC4gSG93IHNvb24gdGhpcyB3aWxsIGhhcHBlbiBkZXBlbmRzIG9uIHdoZXRoZXIgdGhlIE1pbGt5IFdheSBpcyA8Zm9udCBpZD03OT5hIGNsb3NlZCBib3g8L2ZvbnQ+LiBSZWNlbnQgb2JzZXJ2YXRpb25zIHN1Z2dlc3QgdGhhdCB0aGUgZ2FsYXh5IGlzIHN0aWxsIGFuIG9wZW4gc3lzdGVtLCBib3RoIGdhaW5pbmcgYW5kIGxvc2luZyBtYXNzIHRvIGl0cyBjb3NtaWMgc3Vycm91bmRpbmdzLiBIaWdoLXZlbG9jaXR5IGNsb3VkcyBvZiByZWxhdGl2ZWx5IHVucG9sbHV0ZWQgaHlkcm9nZW4gYXBwZWFyIHRvIGJlIHJhaW5pbmcgZG93biBmcm9tIGludGVyZ2FsYWN0aWMgc3BhY2UsIHJlanV2ZW5hdGluZyBvdXIgZ2FsYXh5LiBNZWFud2hpbGUgdGhlIGdhbGF4eSBtYXkgYmUgc2hlZGRpbmcgZ2FzIGluIHRoZSBmb3JtIG9mIGEgaGlnaC1zcGVlZCB3aW5kIGZyb20gaXRzIG91dGVyIGF0bW9zcGhlcmUsIG11Y2ggYXMgdGhlIHN1biBzbG93bHkgc2hlZHMgbWFzcyBpbiB0aGUgc29sYXIgd2luZC48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31. The author's main technique in the passage is to:
-<div class = "choice">A. state a problem and offer several competing solutions.</div>
-<div class = "choice">B. present a discovery and explore several of its implications.</div>
-<div class = "choice">C. explain two sides of a debate and argue for one of them.</div>
-<div class = "choice">D. describe a process and list in order its sequence of steps.</div>
-</div>
-###################
-<div class = "quiz">32. As it is used in line 30, the phrase brings unity to most nearly means:
-<div class = "choice">F. enlists the cooperation of.</div>
-<div class = "choice">G. ends the bitter conflict between.</div>
-<div class = "choice">H. clarifies and connects.</div>
-<div class = "choice">J. makes whole and complete.</div>
-</div>
-###################
-<div class = "quiz">33. Based on the passage, the claim that the interstellar medium is a "cold, static reservoir of gas" (line 5) is best described as:
-<div class = "choice">A. a fact that the author indicates scientists have known "for many years" (line 1).</div>
-<div class = "choice">B. a fact recently reconfirmed by study of the space between the stars.</div>
-<div class = "choice">C. an opinion once commonly held but that recent research has undermined.</div>
-<div class = "choice">D. an opinion inconsistent with the finding that the medium's gas waits "quietly" (line 5).</div>
-</div>
-###################
-<div class = "quiz">34. The author supports his claim that "the galaxy's atmosphere [is] as complex as any planet's" (lines 10-11) mainly by:
-<div class = "choice">F. comparing the galaxy's atmosphere to the atmosphere of a specific planet.</div>
-<div class = "choice">G. listing features of the galaxy's atmosphere that are shared by atmospheres in general.</div>
-<div class = "choice">H. stating that both the galaxy's atmosphere and atmospheres in general are permeated by starlight.</div>
-<div class = "choice">J. describing specific studies comparing the galaxy's atmosphere to planetary atmospheres.</div>
-</div>
-###################
-<div class = "quiz">35. It can reasonably be inferred that in the context of the passage, a positive feedback is a process that:
-<div class = "choice">A. promotes the birth of new stars.</div>
-<div class = "choice">B. agitates interstellar clouds.</div>
-<div class = "choice">C. destroys large stars.</div>
-<div class = "choice">D. cools the interstellar medium.</div>
-</div>
-###################
-<div class = "quiz">36. It can reasonably be inferred from the passage that if the Milky Way were "a closed box" (line 79), then it would:
-<div class = "choice">F. continue to gain mass from and lose mass to its surroundings.</div>
-<div class = "choice">G. expel its stellar dregs into adjoining galaxies.</div>
-<div class = "choice">H. use up all of its spare gas at some point in time.</div>
-<div class = "choice">J. lock up nearly all of its gas in short-lived stars more massive than the Sun.</div>
-</div>
-###################
-<div class = "quiz">37. The passage states that new insights about the interstellar medium have arisen as a result of information gathered from:
-<div class = "choice">A. unmanned probes studying the Milky Way's midplane.</div>
-<div class = "choice">B. experiments conducted in Earth's atmosphere.</div>
-<div class = "choice">C. theoretical computer models.</div>
-<div class = "choice">D. ground-and space-based telescopes.</div>
-</div>
-###################
-<div class = "quiz">38. The author describes the interstellar medium as all of the following EXCEPT as:
-<div class = "choice">F. being held by the combined gravitational pull of the stars and other matter.</div>
-<div class = "choice">G. having a uniform density, temperature, and ionization.</div>
-<div class = "choice">H. continuously stirred, heated, recycled, and transformed.</div>
-<div class = "choice">J. permeated by starlight, energetic particles, and a magnetic field.</div>
-</div>
-###################
-<div class = "quiz">39. In describing the process by which interstellar clouds collapse into stars as "inefficient" (line 55), the author is most directly referring to the fact that:
-<div class = "choice">A. an entire cloud is consumed in the formation of a single star.</div>
-<div class = "choice">B. stars form one at a time from clouds rather than in generations.</div>
-<div class = "choice">C. astronomers cannot readily predict which clouds will produce stars.</div>
-<div class = "choice">D. relatively little of the gas in a cloud condenses into stars.</div>
-</div>
-###################
-<div class = "quiz">40. According to the passage, which of the following statements is true about the present state of the Milky Way?
-<div class = "choice">F. Negative feedback has clearly become dominant.</div>
-<div class = "choice">G. It has become an "exploding galaxy."</div>
-<div class = "choice">H. Stars form within it at a slow, steady rate.</div>
-<div class = "choice">J. Between twenty and fifty of its stars die each year.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIGF1dGhvcidzIG1haW4gdGVjaG5pcXVlIGluIHRoZSBwYXNzYWdlIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN0YXRlIGEgcHJvYmxlbSBhbmQgb2ZmZXIgc2V2ZXJhbCBjb21wZXRpbmcgc29sdXRpb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByZXNlbnQgYSBkaXNjb3ZlcnkgYW5kIGV4cGxvcmUgc2V2ZXJhbCBvZiBpdHMgaW1wbGljYXRpb25zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV4cGxhaW4gdHdvIHNpZGVzIG9mIGEgZGViYXRlIGFuZCBhcmd1ZSBmb3Igb25lIG9mIHRoZW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJlIGEgcHJvY2VzcyBhbmQgbGlzdCBpbiBvcmRlciBpdHMgc2VxdWVuY2Ugb2Ygc3RlcHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDMwLCB0aGUgcGhyYXNlIGJyaW5ncyB1bml0eSB0byBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGVubGlzdHMgdGhlIGNvb3BlcmF0aW9uIG9mLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVuZHMgdGhlIGJpdHRlciBjb25mbGljdCBiZXR3ZWVuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNsYXJpZmllcyBhbmQgY29ubmVjdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1ha2VzIHdob2xlIGFuZCBjb21wbGV0ZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHRoZSBjbGFpbSB0aGF0IHRoZSBpbnRlcnN0ZWxsYXIgbWVkaXVtIGlzIGEgImNvbGQsIHN0YXRpYyByZXNlcnZvaXIgb2YgZ2FzIiAobGluZSA1KSBpcyBiZXN0IGRlc2NyaWJlZCBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgZmFjdCB0aGF0IHRoZSBhdXRob3IgaW5kaWNhdGVzIHNjaWVudGlzdHMgaGF2ZSBrbm93biAiZm9yIG1hbnkgeWVhcnMiIChsaW5lIDEpLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgZmFjdCByZWNlbnRseSByZWNvbmZpcm1lZCBieSBzdHVkeSBvZiB0aGUgc3BhY2UgYmV0d2VlbiB0aGUgc3RhcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIG9waW5pb24gb25jZSBjb21tb25seSBoZWxkIGJ1dCB0aGF0IHJlY2VudCByZXNlYXJjaCBoYXMgdW5kZXJtaW5lZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIG9waW5pb24gaW5jb25zaXN0ZW50IHdpdGggdGhlIGZpbmRpbmcgdGhhdCB0aGUgbWVkaXVtJ3MgZ2FzIHdhaXRzICJxdWlldGx5IiAobGluZSA1KS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIGF1dGhvciBzdXBwb3J0cyBoaXMgY2xhaW0gdGhhdCAidGhlIGdhbGF4eSdzIGF0bW9zcGhlcmUgW2lzXSBhcyBjb21wbGV4IGFzIGFueSBwbGFuZXQncyIgKGxpbmVzIDEwLTExKSBtYWlubHkgYnk6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbXBhcmluZyB0aGUgZ2FsYXh5J3MgYXRtb3NwaGVyZSB0byB0aGUgYXRtb3NwaGVyZSBvZiBhIHNwZWNpZmljIHBsYW5ldC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxpc3RpbmcgZmVhdHVyZXMgb2YgdGhlIGdhbGF4eSdzIGF0bW9zcGhlcmUgdGhhdCBhcmUgc2hhcmVkIGJ5IGF0bW9zcGhlcmVzIGluIGdlbmVyYWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0YXRpbmcgdGhhdCBib3RoIHRoZSBnYWxheHkncyBhdG1vc3BoZXJlIGFuZCBhdG1vc3BoZXJlcyBpbiBnZW5lcmFsIGFyZSBwZXJtZWF0ZWQgYnkgc3RhcmxpZ2h0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlc2NyaWJpbmcgc3BlY2lmaWMgc3R1ZGllcyBjb21wYXJpbmcgdGhlIGdhbGF4eSdzIGF0bW9zcGhlcmUgdG8gcGxhbmV0YXJ5IGF0bW9zcGhlcmVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCBpbiB0aGUgY29udGV4dCBvZiB0aGUgcGFzc2FnZSwgYSBwb3NpdGl2ZSBmZWVkYmFjayBpcyBhIHByb2Nlc3MgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHByb21vdGVzIHRoZSBiaXJ0aCBvZiBuZXcgc3RhcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFnaXRhdGVzIGludGVyc3RlbGxhciBjbG91ZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRlc3Ryb3lzIGxhcmdlIHN0YXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvb2xzIHRoZSBpbnRlcnN0ZWxsYXIgbWVkaXVtLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IGlmIHRoZSBNaWxreSBXYXkgd2VyZSAiYSBjbG9zZWQgYm94IiAobGluZSA3OSksIHRoZW4gaXQgd291bGQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbnRpbnVlIHRvIGdhaW4gbWFzcyBmcm9tIGFuZCBsb3NlIG1hc3MgdG8gaXRzIHN1cnJvdW5kaW5ncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV4cGVsIGl0cyBzdGVsbGFyIGRyZWdzIGludG8gYWRqb2luaW5nIGdhbGF4aWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVzZSB1cCBhbGwgb2YgaXRzIHNwYXJlIGdhcyBhdCBzb21lIHBvaW50IGluIHRpbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxvY2sgdXAgbmVhcmx5IGFsbCBvZiBpdHMgZ2FzIGluIHNob3J0LWxpdmVkIHN0YXJzIG1vcmUgbWFzc2l2ZSB0aGFuIHRoZSBTdW4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgbmV3IGluc2lnaHRzIGFib3V0IHRoZSBpbnRlcnN0ZWxsYXIgbWVkaXVtIGhhdmUgYXJpc2VuIGFzIGEgcmVzdWx0IG9mIGluZm9ybWF0aW9uIGdhdGhlcmVkIGZyb206
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHVubWFubmVkIHByb2JlcyBzdHVkeWluZyB0aGUgTWlsa3kgV2F5J3MgbWlkcGxhbmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4cGVyaW1lbnRzIGNvbmR1Y3RlZCBpbiBFYXJ0aCdzIGF0bW9zcGhlcmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZW9yZXRpY2FsIGNvbXB1dGVyIG1vZGVscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyb3VuZC1hbmQgc3BhY2UtYmFzZWQgdGVsZXNjb3Blcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gVGhlIGF1dGhvciBkZXNjcmliZXMgdGhlIGludGVyc3RlbGxhciBtZWRpdW0gYXMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJlaW5nIGhlbGQgYnkgdGhlIGNvbWJpbmVkIGdyYXZpdGF0aW9uYWwgcHVsbCBvZiB0aGUgc3RhcnMgYW5kIG90aGVyIG1hdHRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhdmluZyBhIHVuaWZvcm0gZGVuc2l0eSwgdGVtcGVyYXR1cmUsIGFuZCBpb25pemF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbnRpbnVvdXNseSBzdGlycmVkLCBoZWF0ZWQsIHJlY3ljbGVkLCBhbmQgdHJhbnNmb3JtZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBlcm1lYXRlZCBieSBzdGFybGlnaHQsIGVuZXJnZXRpYyBwYXJ0aWNsZXMsIGFuZCBhIG1hZ25ldGljIGZpZWxkLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gSW4gZGVzY3JpYmluZyB0aGUgcHJvY2VzcyBieSB3aGljaCBpbnRlcnN0ZWxsYXIgY2xvdWRzIGNvbGxhcHNlIGludG8gc3RhcnMgYXMgImluZWZmaWNpZW50IiAobGluZSA1NSksIHRoZSBhdXRob3IgaXMgbW9zdCBkaXJlY3RseSByZWZlcnJpbmcgdG8gdGhlIGZhY3QgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFuIGVudGlyZSBjbG91ZCBpcyBjb25zdW1lZCBpbiB0aGUgZm9ybWF0aW9uIG9mIGEgc2luZ2xlIHN0YXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHN0YXJzIGZvcm0gb25lIGF0IGEgdGltZSBmcm9tIGNsb3VkcyByYXRoZXIgdGhhbiBpbiBnZW5lcmF0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFzdHJvbm9tZXJzIGNhbm5vdCByZWFkaWx5IHByZWRpY3Qgd2hpY2ggY2xvdWRzIHdpbGwgcHJvZHVjZSBzdGFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlbGF0aXZlbHkgbGl0dGxlIG9mIHRoZSBnYXMgaW4gYSBjbG91ZCBjb25kZW5zZXMgaW50byBzdGFycy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgaXMgdHJ1ZSBhYm91dCB0aGUgcHJlc2VudCBzdGF0ZSBvZiB0aGUgTWlsa3kgV2F5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5lZ2F0aXZlIGZlZWRiYWNrIGhhcyBjbGVhcmx5IGJlY29tZSBkb21pbmFudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0IGhhcyBiZWNvbWUgYW4gImV4cGxvZGluZyBnYWxheHkuIjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFN0YXJzIGZvcm0gd2l0aGluIGl0IGF0IGEgc2xvdywgc3RlYWR5IHJhdGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEJldHdlZW4gdHdlbnR5IGFuZCBmaWZ0eSBvZiBpdHMgc3RhcnMgZGllIGVhY2ggeWVhci48L2Rpdj4=
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

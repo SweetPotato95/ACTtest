@@ -1,94 +1,94 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from the article “The Comics” by M. Thomas Inge (?1990 by Smithsonian Institution).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Comic art has much in common with all the other forms of literary and visual communication of the twentieth century. As in fiction, the elements of narrative, characterization, and setting are important in accomplished comic art; and as in poetry, ideas must be developed within a very short period of reading time, a few seconds for a comic strip and fifteen minutes or less for a comic book story. As in drama, a story or incident must be staged before our eyes within the artificial strictures of a box-like frame and with all the limitations of a play in terms of compressed time, dialogue, and plot development. As in a motion picture, such visual devices as cutting, framing, close-ups, and montage are used by the comic artist, and the point-of-view is free to roam the world over to places known and fantastic.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIGFydGljbGUg4oCcVGhlIENvbWljc+KAPyBieSBNLiBUaG9tYXMgSW5nZSAoPzE5OTAgYnkgU21pdGhzb25pYW4gSW5zdGl0dXRpb24pLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNvbWljIGFydCBoYXMgbXVjaCBpbiBjb21tb24gd2l0aCBhbGwgdGhlIG90aGVyIGZvcm1zIG9mIGxpdGVyYXJ5IGFuZCB2aXN1YWwgY29tbXVuaWNhdGlvbiBvZiB0aGUgdHdlbnRpZXRoIGNlbnR1cnkuIEFzIGluIGZpY3Rpb24sIHRoZSBlbGVtZW50cyBvZiBuYXJyYXRpdmUsIGNoYXJhY3Rlcml6YXRpb24sIGFuZCBzZXR0aW5nIGFyZSBpbXBvcnRhbnQgaW4gYWNjb21wbGlzaGVkIGNvbWljIGFydDsgYW5kIGFzIGluIHBvZXRyeSwgaWRlYXMgbXVzdCBiZSBkZXZlbG9wZWQgd2l0aGluIGEgdmVyeSBzaG9ydCBwZXJpb2Qgb2YgcmVhZGluZyB0aW1lLCBhIGZldyBzZWNvbmRzIGZvciBhIGNvbWljIHN0cmlwIGFuZCBmaWZ0ZWVuIG1pbnV0ZXMgb3IgbGVzcyBmb3IgYSBjb21pYyBib29rIHN0b3J5LiBBcyBpbiBkcmFtYSwgYSBzdG9yeSBvciBpbmNpZGVudCBtdXN0IGJlIHN0YWdlZCBiZWZvcmUgb3VyIGV5ZXMgd2l0aGluIHRoZSBhcnRpZmljaWFsIHN0cmljdHVyZXMgb2YgYSBib3gtbGlrZSBmcmFtZSBhbmQgd2l0aCBhbGwgdGhlIGxpbWl0YXRpb25zIG9mIGEgcGxheSBpbiB0ZXJtcyBvZiBjb21wcmVzc2VkIHRpbWUsIGRpYWxvZ3VlLCBhbmQgcGxvdCBkZXZlbG9wbWVudC4gQXMgaW4gYSBtb3Rpb24gcGljdHVyZSwgc3VjaCB2aXN1YWwgZGV2aWNlcyBhcyBjdXR0aW5nLCBmcmFtaW5nLCBjbG9zZS11cHMsIGFuZCBtb250YWdlIGFyZSB1c2VkIGJ5IHRoZSBjb21pYyBhcnRpc3QsIGFuZCB0aGUgcG9pbnQtb2YtdmlldyBpcyBmcmVlIHRvIHJvYW0gdGhlIHdvcmxkIG92ZXIgdG8gcGxhY2VzIGtub3duIGFuZCBmYW50YXN0aWMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although the comics share a good deal with other forms of artistic expression, they differ in distinct ways and provide a method of communication which is ultimately unique. For one thing, comics depend for their effectiveness on a balanced combination of word and picture, the one depending fully on the other for maximum effect. Thus some commentators have suggested that in comic strip art, if either the picture ort the text is not essential to understanding, then a proper balance is lacking.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIHRoZSBjb21pY3Mgc2hhcmUgYSBnb29kIGRlYWwgd2l0aCBvdGhlciBmb3JtcyBvZiBhcnRpc3RpYyBleHByZXNzaW9uLCB0aGV5IGRpZmZlciBpbiBkaXN0aW5jdCB3YXlzIGFuZCBwcm92aWRlIGEgbWV0aG9kIG9mIGNvbW11bmljYXRpb24gd2hpY2ggaXMgdWx0aW1hdGVseSB1bmlxdWUuIEZvciBvbmUgdGhpbmcsIGNvbWljcyBkZXBlbmQgZm9yIHRoZWlyIGVmZmVjdGl2ZW5lc3Mgb24gYSBiYWxhbmNlZCBjb21iaW5hdGlvbiBvZiB3b3JkIGFuZCBwaWN0dXJlLCB0aGUgb25lIGRlcGVuZGluZyBmdWxseSBvbiB0aGUgb3RoZXIgZm9yIG1heGltdW0gZWZmZWN0LiBUaHVzIHNvbWUgY29tbWVudGF0b3JzIGhhdmUgc3VnZ2VzdGVkIHRoYXQgaW4gY29taWMgc3RyaXAgYXJ0LCBpZiBlaXRoZXIgdGhlIHBpY3R1cmUgb3J0IHRoZSB0ZXh0IGlzIG5vdCBlc3NlbnRpYWwgdG8gdW5kZXJzdGFuZGluZywgdGhlbiBhIHByb3BlciBiYWxhbmNlIGlzIGxhY2tpbmcuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There are other essential features of comic art, which distinguish it from other art forms. For example, comic strips appear on a daily basis in newspapers delivered to homes, while comic books appear on a monthly basis in special serial publications sold at newsstands or comic book shops (and more recently a few bookstores). Both are usually printed on inexpensive paper, and while comic books generally appear in color, comic strips have traditionally been in color only on Sundays.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXJlIGFyZSBvdGhlciBlc3NlbnRpYWwgZmVhdHVyZXMgb2YgY29taWMgYXJ0LCB3aGljaCBkaXN0aW5ndWlzaCBpdCBmcm9tIG90aGVyIGFydCBmb3Jtcy4gRm9yIGV4YW1wbGUsIGNvbWljIHN0cmlwcyBhcHBlYXIgb24gYSBkYWlseSBiYXNpcyBpbiBuZXdzcGFwZXJzIGRlbGl2ZXJlZCB0byBob21lcywgd2hpbGUgY29taWMgYm9va3MgYXBwZWFyIG9uIGEgbW9udGhseSBiYXNpcyBpbiBzcGVjaWFsIHNlcmlhbCBwdWJsaWNhdGlvbnMgc29sZCBhdCBuZXdzc3RhbmRzIG9yIGNvbWljIGJvb2sgc2hvcHMgKGFuZCBtb3JlIHJlY2VudGx5IGEgZmV3IGJvb2tzdG9yZXMpLiBCb3RoIGFyZSB1c3VhbGx5IHByaW50ZWQgb24gaW5leHBlbnNpdmUgcGFwZXIsIGFuZCB3aGlsZSBjb21pYyBib29rcyBnZW5lcmFsbHkgYXBwZWFyIGluIGNvbG9yLCBjb21pYyBzdHJpcHMgaGF2ZSB0cmFkaXRpb25hbGx5IGJlZW4gaW4gY29sb3Igb25seSBvbiBTdW5kYXlzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Another distinguishing feature is that most comic strips and books feature a set of recurring characters with whom the reader becomes familiar over a period of time, with an occasional retelling of their past histories in capsule form. It is the accumulative weight of familiarity over several months or years of reading experience with the characters through which the development of personality the same throughout their lifetimes. Especially in humor, a set of stock and stereotyped players is essential to the daily comic routines, formulaic repetition being one of those techniques which most often make people laugh (as in Charlie Brown's unsuccessful attempt to kick the football held annually by Lucy in the Peanuts comic strip).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFub3RoZXIgZGlzdGluZ3Vpc2hpbmcgZmVhdHVyZSBpcyB0aGF0IG1vc3QgY29taWMgc3RyaXBzIGFuZCBib29rcyBmZWF0dXJlIGEgc2V0IG9mIHJlY3VycmluZyBjaGFyYWN0ZXJzIHdpdGggd2hvbSB0aGUgcmVhZGVyIGJlY29tZXMgZmFtaWxpYXIgb3ZlciBhIHBlcmlvZCBvZiB0aW1lLCB3aXRoIGFuIG9jY2FzaW9uYWwgcmV0ZWxsaW5nIG9mIHRoZWlyIHBhc3QgaGlzdG9yaWVzIGluIGNhcHN1bGUgZm9ybS4gSXQgaXMgdGhlIGFjY3VtdWxhdGl2ZSB3ZWlnaHQgb2YgZmFtaWxpYXJpdHkgb3ZlciBzZXZlcmFsIG1vbnRocyBvciB5ZWFycyBvZiByZWFkaW5nIGV4cGVyaWVuY2Ugd2l0aCB0aGUgY2hhcmFjdGVycyB0aHJvdWdoIHdoaWNoIHRoZSBkZXZlbG9wbWVudCBvZiBwZXJzb25hbGl0eSB0aGUgc2FtZSB0aHJvdWdob3V0IHRoZWlyIGxpZmV0aW1lcy4gRXNwZWNpYWxseSBpbiBodW1vciwgYSBzZXQgb2Ygc3RvY2sgYW5kIHN0ZXJlb3R5cGVkIHBsYXllcnMgaXMgZXNzZW50aWFsIHRvIHRoZSBkYWlseSBjb21pYyByb3V0aW5lcywgZm9ybXVsYWljIHJlcGV0aXRpb24gYmVpbmcgb25lIG9mIHRob3NlIHRlY2huaXF1ZXMgd2hpY2ggbW9zdCBvZnRlbiBtYWtlIHBlb3BsZSBsYXVnaCAoYXMgaW4gQ2hhcmxpZSBCcm93bidzIHVuc3VjY2Vzc2Z1bCBhdHRlbXB0IHRvIGtpY2sgdGhlIGZvb3RiYWxsIGhlbGQgYW5udWFsbHkgYnkgTHVjeSBpbiB0aGUgUGVhbnV0cyBjb21pYyBzdHJpcCkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Time is also treated differently in that generally it has no effect on the lives of characters in the comics. They do not grow old chronologically (with the notable exception of Gasoline Alley in which several generations of a family have grown old along with the readers). The dramatic narrative is open-ended and the action, whenever the reading experience begins, is always somewhere in the middle. Thus comics characters inhabit a world that has no beginning and no end, that remains constant and is shored up against the usual influences of change and deterioration. Only in the case of politically satiric strips, such as Doonesbury, Bloom County, or Pogo, are immediately contemporary events County, or Pogo, are immediately contemporary events and personalities reflected or depicted in the comics.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRpbWUgaXMgYWxzbyB0cmVhdGVkIGRpZmZlcmVudGx5IGluIHRoYXQgZ2VuZXJhbGx5IGl0IGhhcyBubyBlZmZlY3Qgb24gdGhlIGxpdmVzIG9mIGNoYXJhY3RlcnMgaW4gdGhlIGNvbWljcy4gVGhleSBkbyBub3QgZ3JvdyBvbGQgY2hyb25vbG9naWNhbGx5ICh3aXRoIHRoZSBub3RhYmxlIGV4Y2VwdGlvbiBvZiBHYXNvbGluZSBBbGxleSBpbiB3aGljaCBzZXZlcmFsIGdlbmVyYXRpb25zIG9mIGEgZmFtaWx5IGhhdmUgZ3Jvd24gb2xkIGFsb25nIHdpdGggdGhlIHJlYWRlcnMpLiBUaGUgZHJhbWF0aWMgbmFycmF0aXZlIGlzIG9wZW4tZW5kZWQgYW5kIHRoZSBhY3Rpb24sIHdoZW5ldmVyIHRoZSByZWFkaW5nIGV4cGVyaWVuY2UgYmVnaW5zLCBpcyBhbHdheXMgc29tZXdoZXJlIGluIHRoZSBtaWRkbGUuIFRodXMgY29taWNzIGNoYXJhY3RlcnMgaW5oYWJpdCBhIHdvcmxkIHRoYXQgaGFzIG5vIGJlZ2lubmluZyBhbmQgbm8gZW5kLCB0aGF0IHJlbWFpbnMgY29uc3RhbnQgYW5kIGlzIHNob3JlZCB1cCBhZ2FpbnN0IHRoZSB1c3VhbCBpbmZsdWVuY2VzIG9mIGNoYW5nZSBhbmQgZGV0ZXJpb3JhdGlvbi4gT25seSBpbiB0aGUgY2FzZSBvZiBwb2xpdGljYWxseSBzYXRpcmljIHN0cmlwcywgc3VjaCBhcyBEb29uZXNidXJ5LCBCbG9vbSBDb3VudHksIG9yIFBvZ28sIGFyZSBpbW1lZGlhdGVseSBjb250ZW1wb3JhcnkgZXZlbnRzIENvdW50eSwgb3IgUG9nbywgYXJlIGltbWVkaWF0ZWx5IGNvbnRlbXBvcmFyeSBldmVudHMgYW5kIHBlcnNvbmFsaXRpZXMgcmVmbGVjdGVkIG9yIGRlcGljdGVkIGluIHRoZSBjb21pY3MuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since comics characters inhabit a world of silence, due to the restrictions of the printed page which cannot allow for motion and sound, dialogue and noise require a special set of <font id=26>conventions</font>. Words are usually spoken in cloud-like puffs of smoke called balloons. Because of the limited amount of space, dialogue must be kept to an absolute minimum and the joke or story told with the fewest words possible, a continual challenge to the skills of the writer of a comic. As for sounds, the comic artist must resort to the poetic device of onomatopoeia, and while many traditional words such as slam, bang, sock, smash, or bump will serve the situation, new word coinages have proven necessary. Thus the comics have enriched American English by such contributions as wow, plop, zowie, bam, and whap. In order to convey ideas which cannot be expressed with words, the comic artist has also developed a vocabulary of visual sym?bols, such as bubble balloons for silent thoughts, stars to show pain, drops of water to express labor or worry, or radiating lines to convey pride or enlightenment. It is remarkable how effective these <font id=26>conventions</font> are in cre?ating the impression of a loud and noisy medium.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNpbmNlIGNvbWljcyBjaGFyYWN0ZXJzIGluaGFiaXQgYSB3b3JsZCBvZiBzaWxlbmNlLCBkdWUgdG8gdGhlIHJlc3RyaWN0aW9ucyBvZiB0aGUgcHJpbnRlZCBwYWdlIHdoaWNoIGNhbm5vdCBhbGxvdyBmb3IgbW90aW9uIGFuZCBzb3VuZCwgZGlhbG9ndWUgYW5kIG5vaXNlIHJlcXVpcmUgYSBzcGVjaWFsIHNldCBvZiA8Zm9udCBpZD0yNj5jb252ZW50aW9uczwvZm9udD4uIFdvcmRzIGFyZSB1c3VhbGx5IHNwb2tlbiBpbiBjbG91ZC1saWtlIHB1ZmZzIG9mIHNtb2tlIGNhbGxlZCBiYWxsb29ucy4gQmVjYXVzZSBvZiB0aGUgbGltaXRlZCBhbW91bnQgb2Ygc3BhY2UsIGRpYWxvZ3VlIG11c3QgYmUga2VwdCB0byBhbiBhYnNvbHV0ZSBtaW5pbXVtIGFuZCB0aGUgam9rZSBvciBzdG9yeSB0b2xkIHdpdGggdGhlIGZld2VzdCB3b3JkcyBwb3NzaWJsZSwgYSBjb250aW51YWwgY2hhbGxlbmdlIHRvIHRoZSBza2lsbHMgb2YgdGhlIHdyaXRlciBvZiBhIGNvbWljLiBBcyBmb3Igc291bmRzLCB0aGUgY29taWMgYXJ0aXN0IG11c3QgcmVzb3J0IHRvIHRoZSBwb2V0aWMgZGV2aWNlIG9mIG9ub21hdG9wb2VpYSwgYW5kIHdoaWxlIG1hbnkgdHJhZGl0aW9uYWwgd29yZHMgc3VjaCBhcyBzbGFtLCBiYW5nLCBzb2NrLCBzbWFzaCwgb3IgYnVtcCB3aWxsIHNlcnZlIHRoZSBzaXR1YXRpb24sIG5ldyB3b3JkIGNvaW5hZ2VzIGhhdmUgcHJvdmVuIG5lY2Vzc2FyeS4gVGh1cyB0aGUgY29taWNzIGhhdmUgZW5yaWNoZWQgQW1lcmljYW4gRW5nbGlzaCBieSBzdWNoIGNvbnRyaWJ1dGlvbnMgYXMgd293LCBwbG9wLCB6b3dpZSwgYmFtLCBhbmQgd2hhcC4gSW4gb3JkZXIgdG8gY29udmV5IGlkZWFzIHdoaWNoIGNhbm5vdCBiZSBleHByZXNzZWQgd2l0aCB3b3JkcywgdGhlIGNvbWljIGFydGlzdCBoYXMgYWxzbyBkZXZlbG9wZWQgYSB2b2NhYnVsYXJ5IG9mIHZpc3VhbCBzeW0/Ym9scywgc3VjaCBhcyBidWJibGUgYmFsbG9vbnMgZm9yIHNpbGVudCB0aG91Z2h0cywgc3RhcnMgdG8gc2hvdyBwYWluLCBkcm9wcyBvZiB3YXRlciB0byBleHByZXNzIGxhYm9yIG9yIHdvcnJ5LCBvciByYWRpYXRpbmcgbGluZXMgdG8gY29udmV5IHByaWRlIG9yIGVubGlnaHRlbm1lbnQuIEl0IGlzIHJlbWFya2FibGUgaG93IGVmZmVjdGl2ZSB0aGVzZSA8Zm9udCBpZD0yNj5jb252ZW50aW9uczwvZm9udD4gYXJlIGluIGNyZT9hdGluZyB0aGUgaW1wcmVzc2lvbiBvZiBhIGxvdWQgYW5kIG5vaXN5IG1lZGl1bS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">21. Suppose a reader had composed the following sum?mary of the passage:
-Comic art has been an important part of U.S. culture for decades, reflecting the historical and aesthetic changes within the country and its changing values.
-Would this be an effective summary of the passage?
-<div class = "choice">A. Yes, because the passage focuses on how comic artists have used their art to reflect the changing culture.</div>
-<div class = "choice">B. Yes, because the passage focuses on how comic artists have developed their own storytelling meth?ods over many decades.</div>
-<div class = "choice">C. No, because the passage focuses on the established practices that comic artists have traditionally used in comic art.</div>
-<div class = "choice">D. No, because the passage focuses on the connec?tions between comic art and film.</div>
-</div>
-###################
-<div class = "quiz">22. The primary purpose of the first paragraph is to:
-<div class = "choice">F. compare the elements of comic art to elements of other artistic forms.</div>
-<div class = "choice">G. describe the various techniques used in a wide variety of artistic forms.</div>
-<div class = "choice">H. introduce the history and development of comic art as a form of artistic expression.</div>
-<div class = "choice">J. define the limitations of various forms of artistic expression.</div>
-</div>
-###################
-<div class = "quiz">23. It can reasonably be inferred from the passage that the author believes which of the following about the publi?cation materials used in comic art?
-<div class = "choice">A. High-quality paper is necessary in the publication of the best comic art.</div>
-<div class = "choice">B. The use of color in comic art enhances the distinc?tion between pictures and words.</div>
-<div class = "choice">C. Whether color or good paper is used in comic art is irrelevant to its artistic quality.</div>
-<div class = "choice">D. The use of recyclable paper is necessary for the purest forms of comic art.</div>
-</div>
-###################
-<div class = "quiz">24. The passage makes all of the following points about time and the comics EXCEPT that:
-<div class = "choice">F. comic strips and comic books appear in print on a regular schedule.</div>
-<div class = "choice">G. readers can slow the pace of a story line by the speed at which they read the comics.</div>
-<div class = "choice">H. the dramatic narrative is open ended and the action is always somewhere in the middle.</div>
-<div class = "choice">J. the passage of time usually has little effect on the characters' lives.</div>
-</div>
-###################
-<div class = "quiz">25. Which of the following questions does the passage NOT answer?
-<div class = "choice">A. What elements do comic art and literary art share?</div>
-<div class = "choice">B. Are stock characters used in humorous comic strips?</div>
-<div class = "choice">C. How is the effect of sound created m comic art.</div>
-<div class = "choice">D. What drawing styles are most popular in comic art?</div>
-</div>
-###################
-<div class = "quiz">26. As it is used in lines 69 and 86, the word conventions most nearly means:
-<div class = "choice">F. gatherings of comic artists.</div>
-<div class = "choice">G. stereotypical situations.</div>
-<div class = "choice">H. common courtesies.</div>
-<div class = "choice">J. customary practices.</div>
-</div>
-###################
-<div class = "quiz">27. The passage mentions which one of the following poetic devices as having been used by comic artists to create linguistic effects?
-<div class = "choice">A. Rhyme</div>
-<div class = "choice">B. Onomatopoeia</div>
-<div class = "choice">C. Metaphor</div>
-<div class = "choice">D. Hyperbole</div>
-</div>
-###################
-<div class = "quiz">28. According to the passage, balance must be achieved in comics between:
-<div class = "choice">F. word and picture.</div>
-<div class = "choice">G. humor and drama.</div>
-<div class = "choice">H. sound and silence.</div>
-<div class = "choice">J. stereotyped and original characters.</div>
-</div>
-###################
-<div class = "quiz">29. The passage states that the development of the person?alities of characters in comic art occurs as a result of:
-<div class = "choice">A. dialogue.</div>
-<div class = "choice">B. descriptive character sketches.</div>
-<div class = "choice">C. familiarity over time.</div>
-<div class = "choice">D. stereotypes.</div>
-</div>
-###################
-<div class = "quiz">30. According to the passage, direct references to current real-world events and personalities are found only in which type of comic?
-<div class = "choice">F. Political satire</div>
-<div class = "choice">G. Family</div>
-<div class = "choice">H. Horror</div>
-<div class = "choice">J. Science fiction</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gU3VwcG9zZSBhIHJlYWRlciBoYWQgY29tcG9zZWQgdGhlIGZvbGxvd2luZyBzdW0/bWFyeSBvZiB0aGUgcGFzc2FnZTo=
+Q29taWMgYXJ0IGhhcyBiZWVuIGFuIGltcG9ydGFudCBwYXJ0IG9mIFUuUy4gY3VsdHVyZSBmb3IgZGVjYWRlcywgcmVmbGVjdGluZyB0aGUgaGlzdG9yaWNhbCBhbmQgYWVzdGhldGljIGNoYW5nZXMgd2l0aGluIHRoZSBjb3VudHJ5IGFuZCBpdHMgY2hhbmdpbmcgdmFsdWVzLg==
+V291bGQgdGhpcyBiZSBhbiBlZmZlY3RpdmUgc3VtbWFyeSBvZiB0aGUgcGFzc2FnZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSB0aGUgcGFzc2FnZSBmb2N1c2VzIG9uIGhvdyBjb21pYyBhcnRpc3RzIGhhdmUgdXNlZCB0aGVpciBhcnQgdG8gcmVmbGVjdCB0aGUgY2hhbmdpbmcgY3VsdHVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSB0aGUgcGFzc2FnZSBmb2N1c2VzIG9uIGhvdyBjb21pYyBhcnRpc3RzIGhhdmUgZGV2ZWxvcGVkIHRoZWlyIG93biBzdG9yeXRlbGxpbmcgbWV0aD9vZHMgb3ZlciBtYW55IGRlY2FkZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIHRoZSBwYXNzYWdlIGZvY3VzZXMgb24gdGhlIGVzdGFibGlzaGVkIHByYWN0aWNlcyB0aGF0IGNvbWljIGFydGlzdHMgaGF2ZSB0cmFkaXRpb25hbGx5IHVzZWQgaW4gY29taWMgYXJ0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIHRoZSBwYXNzYWdlIGZvY3VzZXMgb24gdGhlIGNvbm5lYz90aW9ucyBiZXR3ZWVuIGNvbWljIGFydCBhbmQgZmlsbS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gVGhlIHByaW1hcnkgcHVycG9zZSBvZiB0aGUgZmlyc3QgcGFyYWdyYXBoIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbXBhcmUgdGhlIGVsZW1lbnRzIG9mIGNvbWljIGFydCB0byBlbGVtZW50cyBvZiBvdGhlciBhcnRpc3RpYyBmb3Jtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlc2NyaWJlIHRoZSB2YXJpb3VzIHRlY2huaXF1ZXMgdXNlZCBpbiBhIHdpZGUgdmFyaWV0eSBvZiBhcnRpc3RpYyBmb3Jtcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGludHJvZHVjZSB0aGUgaGlzdG9yeSBhbmQgZGV2ZWxvcG1lbnQgb2YgY29taWMgYXJ0IGFzIGEgZm9ybSBvZiBhcnRpc3RpYyBleHByZXNzaW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlZmluZSB0aGUgbGltaXRhdGlvbnMgb2YgdmFyaW91cyBmb3JtcyBvZiBhcnRpc3RpYyBleHByZXNzaW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IHRoZSBhdXRob3IgYmVsaWV2ZXMgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhYm91dCB0aGUgcHVibGk/Y2F0aW9uIG1hdGVyaWFscyB1c2VkIGluIGNvbWljIGFydD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEhpZ2gtcXVhbGl0eSBwYXBlciBpcyBuZWNlc3NhcnkgaW4gdGhlIHB1YmxpY2F0aW9uIG9mIHRoZSBiZXN0IGNvbWljIGFydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSB1c2Ugb2YgY29sb3IgaW4gY29taWMgYXJ0IGVuaGFuY2VzIHRoZSBkaXN0aW5jP3Rpb24gYmV0d2VlbiBwaWN0dXJlcyBhbmQgd29yZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdoZXRoZXIgY29sb3Igb3IgZ29vZCBwYXBlciBpcyB1c2VkIGluIGNvbWljIGFydCBpcyBpcnJlbGV2YW50IHRvIGl0cyBhcnRpc3RpYyBxdWFsaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSB1c2Ugb2YgcmVjeWNsYWJsZSBwYXBlciBpcyBuZWNlc3NhcnkgZm9yIHRoZSBwdXJlc3QgZm9ybXMgb2YgY29taWMgYXJ0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gVGhlIHBhc3NhZ2UgbWFrZXMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgcG9pbnRzIGFib3V0IHRpbWUgYW5kIHRoZSBjb21pY3MgRVhDRVBUIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbWljIHN0cmlwcyBhbmQgY29taWMgYm9va3MgYXBwZWFyIGluIHByaW50IG9uIGEgcmVndWxhciBzY2hlZHVsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJlYWRlcnMgY2FuIHNsb3cgdGhlIHBhY2Ugb2YgYSBzdG9yeSBsaW5lIGJ5IHRoZSBzcGVlZCBhdCB3aGljaCB0aGV5IHJlYWQgdGhlIGNvbWljcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBkcmFtYXRpYyBuYXJyYXRpdmUgaXMgb3BlbiBlbmRlZCBhbmQgdGhlIGFjdGlvbiBpcyBhbHdheXMgc29tZXdoZXJlIGluIHRoZSBtaWRkbGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBwYXNzYWdlIG9mIHRpbWUgdXN1YWxseSBoYXMgbGl0dGxlIGVmZmVjdCBvbiB0aGUgY2hhcmFjdGVycycgbGl2ZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgZG9lcyB0aGUgcGFzc2FnZSBOT1QgYW5zd2VyPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFdoYXQgZWxlbWVudHMgZG8gY29taWMgYXJ0IGFuZCBsaXRlcmFyeSBhcnQgc2hhcmU/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFyZSBzdG9jayBjaGFyYWN0ZXJzIHVzZWQgaW4gaHVtb3JvdXMgY29taWMgc3RyaXBzPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEhvdyBpcyB0aGUgZWZmZWN0IG9mIHNvdW5kIGNyZWF0ZWQgbSBjb21pYyBhcnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFdoYXQgZHJhd2luZyBzdHlsZXMgYXJlIG1vc3QgcG9wdWxhciBpbiBjb21pYyBhcnQ/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lcyA2OSBhbmQgODYsIHRoZSB3b3JkIGNvbnZlbnRpb25zIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGdhdGhlcmluZ3Mgb2YgY29taWMgYXJ0aXN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0ZXJlb3R5cGljYWwgc2l0dWF0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbW1vbiBjb3VydGVzaWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGN1c3RvbWFyeSBwcmFjdGljZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gVGhlIHBhc3NhZ2UgbWVudGlvbnMgd2hpY2ggb25lIG9mIHRoZSBmb2xsb3dpbmcgcG9ldGljIGRldmljZXMgYXMgaGF2aW5nIGJlZW4gdXNlZCBieSBjb21pYyBhcnRpc3RzIHRvIGNyZWF0ZSBsaW5ndWlzdGljIGVmZmVjdHM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFJoeW1lPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE9ub21hdG9wb2VpYTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE1ldGFwaG9yPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEh5cGVyYm9sZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBiYWxhbmNlIG11c3QgYmUgYWNoaWV2ZWQgaW4gY29taWNzIGJldHdlZW46
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdvcmQgYW5kIHBpY3R1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGh1bW9yIGFuZCBkcmFtYS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNvdW5kIGFuZCBzaWxlbmNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHN0ZXJlb3R5cGVkIGFuZCBvcmlnaW5hbCBjaGFyYWN0ZXJzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgdGhlIGRldmVsb3BtZW50IG9mIHRoZSBwZXJzb24/YWxpdGllcyBvZiBjaGFyYWN0ZXJzIGluIGNvbWljIGFydCBvY2N1cnMgYXMgYSByZXN1bHQgb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRpYWxvZ3VlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlc2NyaXB0aXZlIGNoYXJhY3RlciBza2V0Y2hlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZhbWlsaWFyaXR5IG92ZXIgdGltZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHN0ZXJlb3R5cGVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBkaXJlY3QgcmVmZXJlbmNlcyB0byBjdXJyZW50IHJlYWwtd29ybGQgZXZlbnRzIGFuZCBwZXJzb25hbGl0aWVzIGFyZSBmb3VuZCBvbmx5IGluIHdoaWNoIHR5cGUgb2YgY29taWM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBvbGl0aWNhbCBzYXRpcmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEZhbWlseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEhvcnJvcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNjaWVuY2UgZmljdGlvbjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

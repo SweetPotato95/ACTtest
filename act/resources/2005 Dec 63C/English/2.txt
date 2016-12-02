@@ -1,119 +1,119 @@
-﻿<h1>A Family Craft</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The printshops where my father worked, whether in a publishing house in Vermont or in a small-town newspaper office in Idaho, always presented the same vivid experience. The tap dance of Linotype <font id=16>keys</font> the pungent scents of printing ink and cleaning chemicals, and the slapping sound of the rollers dripping with ink-<font id=17>every job has its hazards. </font></div>
+77s/PGgxPkEgRmFtaWx5IENyYWZ0PC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBwcmludHNob3BzIHdoZXJlIG15IGZhdGhlciB3b3JrZWQsIHdoZXRoZXIgaW4gYSBwdWJsaXNoaW5nIGhvdXNlIGluIFZlcm1vbnQgb3IgaW4gYSBzbWFsbC10b3duIG5ld3NwYXBlciBvZmZpY2UgaW4gSWRhaG8sIGFsd2F5cyBwcmVzZW50ZWQgdGhlIHNhbWUgdml2aWQgZXhwZXJpZW5jZS4gVGhlIHRhcCBkYW5jZSBvZiBMaW5vdHlwZSA8Zm9udCBpZD0xNj5rZXlzPC9mb250PiB0aGUgcHVuZ2VudCBzY2VudHMgb2YgcHJpbnRpbmcgaW5rIGFuZCBjbGVhbmluZyBjaGVtaWNhbHMsIGFuZCB0aGUgc2xhcHBpbmcgc291bmQgb2YgdGhlIHJvbGxlcnMgZHJpcHBpbmcgd2l0aCBpbmstPGZvbnQgaWQ9MTc+ZXZlcnkgam9iIGhhcyBpdHMgaGF6YXJkcy4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was a special occasion <font id=18>for which</font> I could visit my father at work. <font id=19>However, he</font> was a Linotype <font id=20>operator and, the Linotype machine</font> seemed formidable. My father's hands flew across an enormous keyboard that was <font id=21>unlike any I saw in other places. </font> As he typed, the machine melted chinks of metal and then formed the molten mass into lines of metal <font id=22>type, bright</font> and burning hot, these lines of type—headlines, sentences, phrases—slid out of the machine. Once cooled, these slugs (as the lines of type are called) were taken to a table where the typesetter fit them together by hand into a wooden frame the size of a newspaper page. The frame was set into 'the printing press, inked, and used to print pages. Afterward, the type was cleaned in various chemicals and <font id=23>were put</font> back into the <font id=24>Linotype to be recreated</font> as tomorrow's headlines and stories.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBhIHNwZWNpYWwgb2NjYXNpb24gPGZvbnQgaWQ9MTg+Zm9yIHdoaWNoPC9mb250PiBJIGNvdWxkIHZpc2l0IG15IGZhdGhlciBhdCB3b3JrLiA8Zm9udCBpZD0xOT5Ib3dldmVyLCBoZTwvZm9udD4gd2FzIGEgTGlub3R5cGUgPGZvbnQgaWQ9MjA+b3BlcmF0b3IgYW5kLCB0aGUgTGlub3R5cGUgbWFjaGluZTwvZm9udD4gc2VlbWVkIGZvcm1pZGFibGUuIE15IGZhdGhlcidzIGhhbmRzIGZsZXcgYWNyb3NzIGFuIGVub3Jtb3VzIGtleWJvYXJkIHRoYXQgd2FzIDxmb250IGlkPTIxPnVubGlrZSBhbnkgSSBzYXcgaW4gb3RoZXIgcGxhY2VzLiA8L2ZvbnQ+IEFzIGhlIHR5cGVkLCB0aGUgbWFjaGluZSBtZWx0ZWQgY2hpbmtzIG9mIG1ldGFsIGFuZCB0aGVuIGZvcm1lZCB0aGUgbW9sdGVuIG1hc3MgaW50byBsaW5lcyBvZiBtZXRhbCA8Zm9udCBpZD0yMj50eXBlLCBicmlnaHQ8L2ZvbnQ+IGFuZCBidXJuaW5nIGhvdCwgdGhlc2UgbGluZXMgb2YgdHlwZeKAlGhlYWRsaW5lcywgc2VudGVuY2VzLCBwaHJhc2Vz4oCUc2xpZCBvdXQgb2YgdGhlIG1hY2hpbmUuIE9uY2UgY29vbGVkLCB0aGVzZSBzbHVncyAoYXMgdGhlIGxpbmVzIG9mIHR5cGUgYXJlIGNhbGxlZCkgd2VyZSB0YWtlbiB0byBhIHRhYmxlIHdoZXJlIHRoZSB0eXBlc2V0dGVyIGZpdCB0aGVtIHRvZ2V0aGVyIGJ5IGhhbmQgaW50byBhIHdvb2RlbiBmcmFtZSB0aGUgc2l6ZSBvZiBhIG5ld3NwYXBlciBwYWdlLiBUaGUgZnJhbWUgd2FzIHNldCBpbnRvICd0aGUgcHJpbnRpbmcgcHJlc3MsIGlua2VkLCBhbmQgdXNlZCB0byBwcmludCBwYWdlcy4gQWZ0ZXJ3YXJkLCB0aGUgdHlwZSB3YXMgY2xlYW5lZCBpbiB2YXJpb3VzIGNoZW1pY2FscyBhbmQgPGZvbnQgaWQ9MjM+d2VyZSBwdXQ8L2ZvbnQ+IGJhY2sgaW50byB0aGUgPGZvbnQgaWQ9MjQ+TGlub3R5cGUgdG8gYmUgcmVjcmVhdGVkPC9mb250PiBhcyB0b21vcnJvdydzIGhlYWRsaW5lcyBhbmQgc3Rvcmllcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the early seventies, the Linotype process was phased out, and my father went to work in the business office. His company had switched to offset printing, a method that relies on photographic images rather than metal type. Since then, computers have further revolutionized the printing industry. When I process text at my computer, <font id=25>in my job, </font> I remember my father at his Linotype machine. <font id=26>When comparing his workplace to mine, it is quiet and clean. </font> The air smells of coffee, <font id=27>not tea. </font> Instead of stained and scuffed wooden tables, I'm surrounded by sleek vinyl office furniture. But <font id=28>in essence, </font> my father's work and mine are <font id=29>the most alike. </font> From him, I inherited faithfulness to the written word and care in sending it out into the world.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHRoZSBlYXJseSBzZXZlbnRpZXMsIHRoZSBMaW5vdHlwZSBwcm9jZXNzIHdhcyBwaGFzZWQgb3V0LCBhbmQgbXkgZmF0aGVyIHdlbnQgdG8gd29yayBpbiB0aGUgYnVzaW5lc3Mgb2ZmaWNlLiBIaXMgY29tcGFueSBoYWQgc3dpdGNoZWQgdG8gb2Zmc2V0IHByaW50aW5nLCBhIG1ldGhvZCB0aGF0IHJlbGllcyBvbiBwaG90b2dyYXBoaWMgaW1hZ2VzIHJhdGhlciB0aGFuIG1ldGFsIHR5cGUuIFNpbmNlIHRoZW4sIGNvbXB1dGVycyBoYXZlIGZ1cnRoZXIgcmV2b2x1dGlvbml6ZWQgdGhlIHByaW50aW5nIGluZHVzdHJ5LiBXaGVuIEkgcHJvY2VzcyB0ZXh0IGF0IG15IGNvbXB1dGVyLCA8Zm9udCBpZD0yNT5pbiBteSBqb2IsIDwvZm9udD4gSSByZW1lbWJlciBteSBmYXRoZXIgYXQgaGlzIExpbm90eXBlIG1hY2hpbmUuIDxmb250IGlkPTI2PldoZW4gY29tcGFyaW5nIGhpcyB3b3JrcGxhY2UgdG8gbWluZSwgaXQgaXMgcXVpZXQgYW5kIGNsZWFuLiA8L2ZvbnQ+IFRoZSBhaXIgc21lbGxzIG9mIGNvZmZlZSwgPGZvbnQgaWQ9Mjc+bm90IHRlYS4gPC9mb250PiBJbnN0ZWFkIG9mIHN0YWluZWQgYW5kIHNjdWZmZWQgd29vZGVuIHRhYmxlcywgSSdtIHN1cnJvdW5kZWQgYnkgc2xlZWsgdmlueWwgb2ZmaWNlIGZ1cm5pdHVyZS4gQnV0IDxmb250IGlkPTI4PmluIGVzc2VuY2UsIDwvZm9udD4gbXkgZmF0aGVyJ3Mgd29yayBhbmQgbWluZSBhcmUgPGZvbnQgaWQ9Mjk+dGhlIG1vc3QgYWxpa2UuIDwvZm9udD4gRnJvbSBoaW0sIEkgaW5oZXJpdGVkIGZhaXRoZnVsbmVzcyB0byB0aGUgd3JpdHRlbiB3b3JkIGFuZCBjYXJlIGluIHNlbmRpbmcgaXQgb3V0IGludG8gdGhlIHdvcmxkLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">16.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. keys;</div>
-<div class = "choice">H. keys,</div>
-<div class = "choice">J. keys-</div>
-</div>
-###################
-<div class = "quiz">17. Given that all the choices helps establish this essay as are true, which one best a nostalgic tribute?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. these machines are very expensive.</div>
-<div class = "choice">C. ink stains are hard to remove.</div>
-<div class = "choice">D. many such details remain with me.</div>
-</div>
-###################
-<div class = "quiz">18.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. which</div>
-<div class = "choice">H. when</div>
-<div class = "choice">J. where</div>
-</div>
-###################
-<div class = "quiz">19.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. He, on the other hand,</div>
-<div class = "choice">C. Gradually, he</div>
-<div class = "choice">D. He</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. operator and the Linotype machine,</div>
-<div class = "choice">H. operator, and the Linotype machine,</div>
-<div class = "choice">J. operator, and the Linotype machine</div>
-</div>
-###################
-<div class = "quiz">21. Given that all the choices are true, which one provides details that best help the reader visualize the keyboard?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. something amazing to behold.</div>
-<div class = "choice">C. like several typewriter keyboards spliced together.</div>
-<div class = "choice">D. like the alphabet right there just waiting to be turned into words.</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. type, then bright</div>
-<div class = "choice">H. type, they were bright</div>
-<div class = "choice">J. type. Bright</div>
-</div>
-###################
-<div class = "quiz">23.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. put</div>
-<div class = "choice">C. they were put</div>
-<div class = "choice">D. OMIT the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">24.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Linotype. To be recreated</div>
-<div class = "choice">H. Linotype. Then recreated</div>
-<div class = "choice">J. Linotype. His job to recreate</div>
-</div>
-###################
-<div class = "quiz">25. Given that all the choices are true, which one provides information that is most relevant to the contrast being established between the father's profession and the narrator's?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. as the-editor of an Internet magazine,</div>
-<div class = "choice">C. now that I have a career of my own,</div>
-<div class = "choice">D. in my professional capacity,</div>
-</div>
-###################
-<div class = "quiz">26.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Making a comparison between his workplace and mine, it is quiet and clean.</div>
-<div class = "choice">H. Compared to his workplace, my office is quiet and clean.</div>
-<div class = "choice">J. Quiet and clean compared to his workplace, which isn't.</div>
-</div>
-###################
-<div class = "quiz">27. Which choice is most consistent with the subject of the
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. an aroma that I like.</div>
-<div class = "choice">C. not ink.</div>
-<div class = "choice">D. all day.</div>
-</div>
-###################
-<div class = "quiz">28. Which of the following alternatives to the underlined portion would NOT be acceptable?     
-<div class = "choice">F. essentially,</div>
-<div class = "choice">G. in essentially,</div>
-<div class = "choice">H. fundamentally,</div>
-<div class = "choice">J. for the most part,</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. the same.</div>
-<div class = "choice">C. more of the same.</div>
-<div class = "choice">D. like the same.</div>
-</div>
-###################
-<div class = "quiz">30. Suppose one of the writer's goals had been to write an essay that reveals a connection between her profession and her father's. Would this essay fulfill that goal?
-Question 30 asks about the preceding passage as a whole.
-<div class = "choice">F. Yes, because the essay indicates that the narrator sees a similarity between her work with the written word and her father's.</div>
-<div class = "choice">G. Yes, because the essay shows how the narrator learned to operate a Linotype machine as a child and later went into a job at a printing press.</div>
-<div class = "choice">H. No, because the essay indicates that the narrator chose a different career from that of her father, even though she admired his Linotype skills.</div>
-<div class = "choice">J. No, because the essay focuses on how a Linotype machine operates, not on how the narrator chose her line of work.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGtleXM7PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGtleXMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGtleXMtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgaGVscHMgZXN0YWJsaXNoIHRoaXMgZXNzYXkgYXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGEgbm9zdGFsZ2ljIHRyaWJ1dGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZXNlIG1hY2hpbmVzIGFyZSB2ZXJ5IGV4cGVuc2l2ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluayBzdGFpbnMgYXJlIGhhcmQgdG8gcmVtb3ZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1hbnkgc3VjaCBkZXRhaWxzIHJlbWFpbiB3aXRoIG1lLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoaWNoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdoZXJlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhlLCBvbiB0aGUgb3RoZXIgaGFuZCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEdyYWR1YWxseSwgaGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEhlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG9wZXJhdG9yIGFuZCB0aGUgTGlub3R5cGUgbWFjaGluZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9wZXJhdG9yLCBhbmQgdGhlIExpbm90eXBlIG1hY2hpbmUsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG9wZXJhdG9yLCBhbmQgdGhlIExpbm90eXBlIG1hY2hpbmU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyBkZXRhaWxzIHRoYXQgYmVzdCBoZWxwIHRoZSByZWFkZXIgdmlzdWFsaXplIHRoZSBrZXlib2FyZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNvbWV0aGluZyBhbWF6aW5nIHRvIGJlaG9sZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxpa2Ugc2V2ZXJhbCB0eXBld3JpdGVyIGtleWJvYXJkcyBzcGxpY2VkIHRvZ2V0aGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpa2UgdGhlIGFscGhhYmV0IHJpZ2h0IHRoZXJlIGp1c3Qgd2FpdGluZyB0byBiZSB0dXJuZWQgaW50byB3b3Jkcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHR5cGUsIHRoZW4gYnJpZ2h0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHR5cGUsIHRoZXkgd2VyZSBicmlnaHQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHR5cGUuIEJyaWdodDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHB1dDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZXkgd2VyZSBwdXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE9NSVQgdGhlIHVuZGVybGluZWQgcG9ydGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExpbm90eXBlLiBUbyBiZSByZWNyZWF0ZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIExpbm90eXBlLiBUaGVuIHJlY3JlYXRlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIExpbm90eXBlLiBIaXMgam9iIHRvIHJlY3JlYXRlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyBpbmZvcm1hdGlvbiB0aGF0IGlzIG1vc3QgcmVsZXZhbnQgdG8gdGhlIGNvbnRyYXN0IGJlaW5nIGVzdGFibGlzaGVkIGJldHdlZW4gdGhlIGZhdGhlcidzIHByb2Zlc3Npb24gYW5kIHRoZSBuYXJyYXRvcidzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFzIHRoZS1lZGl0b3Igb2YgYW4gSW50ZXJuZXQgbWFnYXppbmUsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5vdyB0aGF0IEkgaGF2ZSBhIGNhcmVlciBvZiBteSBvd24sPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluIG15IHByb2Zlc3Npb25hbCBjYXBhY2l0eSw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1ha2luZyBhIGNvbXBhcmlzb24gYmV0d2VlbiBoaXMgd29ya3BsYWNlIGFuZCBtaW5lLCBpdCBpcyBxdWlldCBhbmQgY2xlYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIENvbXBhcmVkIHRvIGhpcyB3b3JrcGxhY2UsIG15IG9mZmljZSBpcyBxdWlldCBhbmQgY2xlYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFF1aWV0IGFuZCBjbGVhbiBjb21wYXJlZCB0byBoaXMgd29ya3BsYWNlLCB3aGljaCBpc24ndC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gV2hpY2ggY2hvaWNlIGlzIG1vc3QgY29uc2lzdGVudCB3aXRoIHRoZSBzdWJqZWN0IG9mIHRoZQ==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIGFyb21hIHRoYXQgSSBsaWtlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5vdCBpbmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFsbCBkYXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8gICAgIA==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGVzc2VudGlhbGx5LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluIGVzc2VudGlhbGx5LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZ1bmRhbWVudGFsbHksPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZvciB0aGUgbW9zdCBwYXJ0LDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBzYW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmUgb2YgdGhlIHNhbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpa2UgdGhlIHNhbWUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gU3VwcG9zZSBvbmUgb2YgdGhlIHdyaXRlcidzIGdvYWxzIGhhZCBiZWVuIHRvIHdyaXRlIGFuIGVzc2F5IHRoYXQgcmV2ZWFscyBhIGNvbm5lY3Rpb24gYmV0d2VlbiBoZXIgcHJvZmVzc2lvbiBhbmQgaGVyIGZhdGhlcidzLiBXb3VsZCB0aGlzIGVzc2F5IGZ1bGZpbGwgdGhhdCBnb2FsPw==
+UXVlc3Rpb24gMzAgYXNrcyBhYm91dCB0aGUgcHJlY2VkaW5nIHBhc3NhZ2UgYXMgYSB3aG9sZS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSB0aGUgZXNzYXkgaW5kaWNhdGVzIHRoYXQgdGhlIG5hcnJhdG9yIHNlZXMgYSBzaW1pbGFyaXR5IGJldHdlZW4gaGVyIHdvcmsgd2l0aCB0aGUgd3JpdHRlbiB3b3JkIGFuZCBoZXIgZmF0aGVyJ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSB0aGUgZXNzYXkgc2hvd3MgaG93IHRoZSBuYXJyYXRvciBsZWFybmVkIHRvIG9wZXJhdGUgYSBMaW5vdHlwZSBtYWNoaW5lIGFzIGEgY2hpbGQgYW5kIGxhdGVyIHdlbnQgaW50byBhIGpvYiBhdCBhIHByaW50aW5nIHByZXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBlc3NheSBpbmRpY2F0ZXMgdGhhdCB0aGUgbmFycmF0b3IgY2hvc2UgYSBkaWZmZXJlbnQgY2FyZWVyIGZyb20gdGhhdCBvZiBoZXIgZmF0aGVyLCBldmVuIHRob3VnaCBzaGUgYWRtaXJlZCBoaXMgTGlub3R5cGUgc2tpbGxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIHRoZSBlc3NheSBmb2N1c2VzIG9uIGhvdyBhIExpbm90eXBlIG1hY2hpbmUgb3BlcmF0ZXMsIG5vdCBvbiBob3cgdGhlIG5hcnJhdG9yIGNob3NlIGhlciBsaW5lIG9mIHdvcmsuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

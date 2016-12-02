@@ -1,72 +1,72 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets have a solid core surrounded by a massive envelope of gases. Gas-giant planets form within stellar nebulae—large, flattened clouds of gas and dust that surround newly formed stars. Planet formation begins when some of the solid material within a stellar nebula clumps rogether to form a spherical body called a planet core. Two scientists discuss bow gas-giant planets like Jupiter form from planet cores in stellar nebulae.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdhcy1naWFudCBwbGFuZXRzIGhhdmUgYSBzb2xpZCBjb3JlIHN1cnJvdW5kZWQgYnkgYSBtYXNzaXZlIGVudmVsb3BlIG9mIGdhc2VzLiBHYXMtZ2lhbnQgcGxhbmV0cyBmb3JtIHdpdGhpbiBzdGVsbGFyIG5lYnVsYWXigJRsYXJnZSwgZmxhdHRlbmVkIGNsb3VkcyBvZiBnYXMgYW5kIGR1c3QgdGhhdCBzdXJyb3VuZCBuZXdseSBmb3JtZWQgc3RhcnMuIFBsYW5ldCBmb3JtYXRpb24gYmVnaW5zIHdoZW4gc29tZSBvZiB0aGUgc29saWQgbWF0ZXJpYWwgd2l0aGluIGEgc3RlbGxhciBuZWJ1bGEgY2x1bXBzIHJvZ2V0aGVyIHRvIGZvcm0gYSBzcGhlcmljYWwgYm9keSBjYWxsZWQgYSBwbGFuZXQgY29yZS4gVHdvIHNjaWVudGlzdHMgZGlzY3VzcyBib3cgZ2FzLWdpYW50IHBsYW5ldHMgbGlrZSBKdXBpdGVyIGZvcm0gZnJvbSBwbGFuZXQgY29yZXMgaW4gc3RlbGxhciBuZWJ1bGFlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A planet core continuously attracts additional solid particles from the stellar nebula, gradually increasing its mass. If a planet core reaches a minimum mass of 10 times the mass of Earth (10<img src='file:\$$$\resources\2012 June 70C\imgs\194.png' width = '41'height = '38'/>), its gravity is then strong enough to attract and hold gases from the surrounding stellar nebula. The formation of a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\195.png' width = '41'height = '38'/> planet core takes approximately 1 million years. The time required for a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\196.png' width = '41'height = '38'/> planet core to then attract a minimum 300 <img src='file:\$$$\resources\2012 June 70C\imgs\197.png' width = '41'height = '38'/> of gases and thus become a gas-giant planet like Jupiter is 10 million to 100 million years more. Because it takes so long to form gas-giant planets like Jupiter, they are very rare in our galaxy.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgcGxhbmV0IGNvcmUgY29udGludW91c2x5IGF0dHJhY3RzIGFkZGl0aW9uYWwgc29saWQgcGFydGljbGVzIGZyb20gdGhlIHN0ZWxsYXIgbmVidWxhLCBncmFkdWFsbHkgaW5jcmVhc2luZyBpdHMgbWFzcy4gSWYgYSBwbGFuZXQgY29yZSByZWFjaGVzIGEgbWluaW11bSBtYXNzIG9mIDEwIHRpbWVzIHRoZSBtYXNzIG9mIEVhcnRoICgxMDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wxOTQucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4pLCBpdHMgZ3Jhdml0eSBpcyB0aGVuIHN0cm9uZyBlbm91Z2ggdG8gYXR0cmFjdCBhbmQgaG9sZCBnYXNlcyBmcm9tIHRoZSBzdXJyb3VuZGluZyBzdGVsbGFyIG5lYnVsYS4gVGhlIGZvcm1hdGlvbiBvZiBhIDEwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wxOTUucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gcGxhbmV0IGNvcmUgdGFrZXMgYXBwcm94aW1hdGVseSAxIG1pbGxpb24geWVhcnMuIFRoZSB0aW1lIHJlcXVpcmVkIGZvciBhIDEwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wxOTYucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gcGxhbmV0IGNvcmUgdG8gdGhlbiBhdHRyYWN0IGEgbWluaW11bSAzMDAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDE5Ny5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiBvZiBnYXNlcyBhbmQgdGh1cyBiZWNvbWUgYSBnYXMtZ2lhbnQgcGxhbmV0IGxpa2UgSnVwaXRlciBpcyAxMCBtaWxsaW9uIHRvIDEwMCBtaWxsaW9uIHllYXJzIG1vcmUuIEJlY2F1c2UgaXQgdGFrZXMgc28gbG9uZyB0byBmb3JtIGdhcy1naWFudCBwbGFuZXRzIGxpa2UgSnVwaXRlciwgdGhleSBhcmUgdmVyeSByYXJlIGluIG91ciBnYWxheHkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets form in a stellar nebula if gravity variations cause the nebula to suddenly fragment into 2 or more massive spherical clumps of gas and dust called gas-giant protoplanets (GGPP), each having a planet core at the center that is no larger than 6<img src='file:\$$$\resources\2012 June 70C\imgs\198.png' width = '41'height = '38'/>. A GGPP forms in less than 1,000 years. After formation, the GGPP contracts to form a gas-giant planet. The entire process from the start of GGPP formation to a new gas-giant planet takes only about 1 million years.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdhcy1naWFudCBwbGFuZXRzIGZvcm0gaW4gYSBzdGVsbGFyIG5lYnVsYSBpZiBncmF2aXR5IHZhcmlhdGlvbnMgY2F1c2UgdGhlIG5lYnVsYSB0byBzdWRkZW5seSBmcmFnbWVudCBpbnRvIDIgb3IgbW9yZSBtYXNzaXZlIHNwaGVyaWNhbCBjbHVtcHMgb2YgZ2FzIGFuZCBkdXN0IGNhbGxlZCBnYXMtZ2lhbnQgcHJvdG9wbGFuZXRzIChHR1BQKSwgZWFjaCBoYXZpbmcgYSBwbGFuZXQgY29yZSBhdCB0aGUgY2VudGVyIHRoYXQgaXMgbm8gbGFyZ2VyIHRoYW4gNjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wxOTgucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4uIEEgR0dQUCBmb3JtcyBpbiBsZXNzIHRoYW4gMSwwMDAgeWVhcnMuIEFmdGVyIGZvcm1hdGlvbiwgdGhlIEdHUFAgY29udHJhY3RzIHRvIGZvcm0gYSBnYXMtZ2lhbnQgcGxhbmV0LiBUaGUgZW50aXJlIHByb2Nlc3MgZnJvbSB0aGUgc3RhcnQgb2YgR0dQUCBmb3JtYXRpb24gdG8gYSBuZXcgZ2FzLWdpYW50IHBsYW5ldCB0YWtlcyBvbmx5IGFib3V0IDEgbWlsbGlvbiB5ZWFycy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Gas-giant planets like Jupiter would not have time to form as described by Scientist 1. Observations indicate that stellar nebulae around newly formed stars do not remain in existence longer than 7 million years after the stars are formed. Also, planet cores that are not part of a GGPP do not have enough momentum to keep them from spiraling into the star at the center of the nebula within 100,000 years. Gas-giant planets like Jupiter are not rare. At least 130 gas-giant planets as large as or larger than Jupiter have been identified in our galaxy.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdhcy1naWFudCBwbGFuZXRzIGxpa2UgSnVwaXRlciB3b3VsZCBub3QgaGF2ZSB0aW1lIHRvIGZvcm0gYXMgZGVzY3JpYmVkIGJ5IFNjaWVudGlzdCAxLiBPYnNlcnZhdGlvbnMgaW5kaWNhdGUgdGhhdCBzdGVsbGFyIG5lYnVsYWUgYXJvdW5kIG5ld2x5IGZvcm1lZCBzdGFycyBkbyBub3QgcmVtYWluIGluIGV4aXN0ZW5jZSBsb25nZXIgdGhhbiA3IG1pbGxpb24geWVhcnMgYWZ0ZXIgdGhlIHN0YXJzIGFyZSBmb3JtZWQuIEFsc28sIHBsYW5ldCBjb3JlcyB0aGF0IGFyZSBub3QgcGFydCBvZiBhIEdHUFAgZG8gbm90IGhhdmUgZW5vdWdoIG1vbWVudHVtIHRvIGtlZXAgdGhlbSBmcm9tIHNwaXJhbGluZyBpbnRvIHRoZSBzdGFyIGF0IHRoZSBjZW50ZXIgb2YgdGhlIG5lYnVsYSB3aXRoaW4gMTAwLDAwMCB5ZWFycy4gR2FzLWdpYW50IHBsYW5ldHMgbGlrZSBKdXBpdGVyIGFyZSBub3QgcmFyZS4gQXQgbGVhc3QgMTMwIGdhcy1naWFudCBwbGFuZXRzIGFzIGxhcmdlIGFzIG9yIGxhcmdlciB0aGFuIEp1cGl0ZXIgaGF2ZSBiZWVuIGlkZW50aWZpZWQgaW4gb3VyIGdhbGF4eS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">22. What are the 2 scientists' estimates of the mass of a planet core that later becomes the center of a gas-giant planet?
-Scientist 1  Scientist 2
-<div class = "choice">F. Scientist 1 exactly 10 <img src='file:\$$$\resources\2012 June 70C\imgs\199.png' width = '41'height = '38'/>   Scientist 2 exactly 6 <img src='file:\$$$\resources\2012 June 70C\imgs\200.png' width = '41'height = '38'/></div>
-<div class = "choice">G. Scientist 1 exactly 6 <img src='file:\$$$\resources\2012 June 70C\imgs\201.png' width = '41'height = '38'/>   Scientist 2 exactly 10 <img src='file:\$$$\resources\2012 June 70C\imgs\202.png' width = '41'height = '38'/></div>
-<div class = "choice">H. Scientist 1 at least 10 <img src='file:\$$$\resources\2012 June 70C\imgs\203.png' width = '41'height = '38'/>   Scientist 2 at most 6 <img src='file:\$$$\resources\2012 June 70C\imgs\204.png' width = '41'height = '38'/></div>
-<div class = "choice">J. Scientist 1 at least 6 <img src='file:\$$$\resources\2012 June 70C\imgs\205.png' width = '41'height = '38'/>   Scientist 2 at most 10 <img src='file:\$$$\resources\2012 June 70C\imgs\206.png' width = '41'height = '38'/></div>
-</div>
-###################
-<div class = "quiz">23. Based on Scientist 1's discussion, which of the following statements gives the most likely reason Earth is not a gas-giant planet? At the time the planets were forming in the Sun's stellar nebula, the:
-<div class = "choice">A. planet core that became Earth was not massive enough to attract and hold a sufficient amount of gases.</div>
-<div class = "choice">B. planet core that became Earth was massive enough to attract and hold a large quantity of gases.</div>
-<div class = "choice">C. nebula did not contain enough gases to form any gas-giant planets.</div>
-<div class = "choice">D. nebula contained only enough gases to form 2 gas-giant planets.</div>
-</div>
-###################
-<div class = "quiz">24. The discovery that some stellar nebulae remain in existence for more than 10 million years would contradict a statement made by:
-<div class = "choice">F. Scientist 1 only.</div>
-<div class = "choice">G. Scientist 2 only.</div>
-<div class = "choice">H. both Scientist 1 and Scientist 2.</div>
-<div class = "choice">J. neither Scientist 1 nor Scientist 2.</div>
-</div>
-###################
-<div class = "quiz">25. Suppose a planet core in a stellar nebula has, over time, attracted and held 200 <img src='file:\$$$\resources\2012 June 70C\imgs\207.png' width = '41'height = '38'/> of gases from the nebula. Would Scientist 1 be likely to claim that this planet core surrounded by 200 ME of gases is a gas-giant planet like Jupiter?
-<div class = "choice">A. Yes, because Scientist 1 claims that less than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\208.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
-<div class = "choice">B. Yes, because Scientist 1 claims that no less than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\209.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
-<div class = "choice">C. No, because Scientist 1 claims that more than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\210.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
-<div class = "choice">D. No, because Scientist 1 claims that no more than 200 <img src='file:\$$$\resources\2012 June 70C\imgs\211.png' width = '41'height = '38'/> of gases must be attracted and held by a planet core to form such a gas-giant planet.</div>
-</div>
-###################
-<div class = "quiz">26. The discovery of which of the following objects would provide the strongest support for Scientist 2's viewpoint?
-<div class = "choice">F. Several 1-million-year-old stars, none with orbiting gas-giant planets</div>
-<div class = "choice">G. Several 1-million~year-old stars, each with 2 orbiting gas-giant planets</div>
-<div class = "choice">H. Several 100-million-year-old stars, none with orbiting gas-giant planets</div>
-<div class = "choice">J. Several 100-million-year-old stars, each with 2 orbiting gas-giant planets</div>
-</div>
-###################
-<div class = "quiz">27. Assume that the gas-giant planets and the non-gas-giant planets (terrestrial planets) in another solar system in our galaxy have spatial and size relationships the same as those of the gas-giant planets and the terrestrial planets in our solar system. Given this assumption, in the other solar system, an existing gas-giant planet would most likely be:
-<div class = "choice">A. located at a greater distance from the star than would any of the terrestrial planets.</div>
-<div class = "choice">B. located at a lesser distance from the star than would any of the terrestrial planets.</div>
-<div class = "choice">C. the same diameter as the largest terrestrial planet.</div>
-<div class = "choice">D. a lesser diameter than any of the terrestrial planets.</div>
-</div>
-###################
-<div class = "quiz">28. Based on Scientist 2's discussion, in a stellar nebula, a 10 <img src='file:\$$$\resources\2012 June 70C\imgs\212.png' width = '41'height = '38'/> planet core that was NOT part of a GGPP would most likely:
-<div class = "choice">F. form a gas-giant planet in fewer than 10 million years.</div>
-<div class = "choice">G. escape from the central star's gravity and travel out into space.</div>
-<div class = "choice">H. continue to revolve around the central star at a constant distance and speed.</div>
-<div class = "choice">J. move in toward the central star and eventually be destroyed.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gV2hhdCBhcmUgdGhlIDIgc2NpZW50aXN0cycgZXN0aW1hdGVzIG9mIHRoZSBtYXNzIG9mIGEgcGxhbmV0IGNvcmUgdGhhdCBsYXRlciBiZWNvbWVzIHRoZSBjZW50ZXIgb2YgYSBnYXMtZ2lhbnQgcGxhbmV0Pw==
+U2NpZW50aXN0IDEgIFNjaWVudGlzdCAy
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNjaWVudGlzdCAxIGV4YWN0bHkgMTAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDE5OS5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiAgIFNjaWVudGlzdCAyIGV4YWN0bHkgNiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjAwLnBuZycgd2lkdGggPSAnNDEnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNjaWVudGlzdCAxIGV4YWN0bHkgNiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjAxLnBuZycgd2lkdGggPSAnNDEnaGVpZ2h0ID0gJzM4Jy8+ICAgU2NpZW50aXN0IDIgZXhhY3RseSAxMCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjAyLnBuZycgd2lkdGggPSAnNDEnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNjaWVudGlzdCAxIGF0IGxlYXN0IDEwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMDMucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gICBTY2llbnRpc3QgMiBhdCBtb3N0IDYgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIwNC5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNjaWVudGlzdCAxIGF0IGxlYXN0IDYgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIwNS5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiAgIFNjaWVudGlzdCAyIGF0IG1vc3QgMTAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIwNi5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQmFzZWQgb24gU2NpZW50aXN0IDEncyBkaXNjdXNzaW9uLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgZ2l2ZXMgdGhlIG1vc3QgbGlrZWx5IHJlYXNvbiBFYXJ0aCBpcyBub3QgYSBnYXMtZ2lhbnQgcGxhbmV0PyBBdCB0aGUgdGltZSB0aGUgcGxhbmV0cyB3ZXJlIGZvcm1pbmcgaW4gdGhlIFN1bidzIHN0ZWxsYXIgbmVidWxhLCB0aGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHBsYW5ldCBjb3JlIHRoYXQgYmVjYW1lIEVhcnRoIHdhcyBub3QgbWFzc2l2ZSBlbm91Z2ggdG8gYXR0cmFjdCBhbmQgaG9sZCBhIHN1ZmZpY2llbnQgYW1vdW50IG9mIGdhc2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBsYW5ldCBjb3JlIHRoYXQgYmVjYW1lIEVhcnRoIHdhcyBtYXNzaXZlIGVub3VnaCB0byBhdHRyYWN0IGFuZCBob2xkIGEgbGFyZ2UgcXVhbnRpdHkgb2YgZ2FzZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5lYnVsYSBkaWQgbm90IGNvbnRhaW4gZW5vdWdoIGdhc2VzIHRvIGZvcm0gYW55IGdhcy1naWFudCBwbGFuZXRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG5lYnVsYSBjb250YWluZWQgb25seSBlbm91Z2ggZ2FzZXMgdG8gZm9ybSAyIGdhcy1naWFudCBwbGFuZXRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gVGhlIGRpc2NvdmVyeSB0aGF0IHNvbWUgc3RlbGxhciBuZWJ1bGFlIHJlbWFpbiBpbiBleGlzdGVuY2UgZm9yIG1vcmUgdGhhbiAxMCBtaWxsaW9uIHllYXJzIHdvdWxkIGNvbnRyYWRpY3QgYSBzdGF0ZW1lbnQgbWFkZSBieTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNjaWVudGlzdCAxIG9ubHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNjaWVudGlzdCAyIG9ubHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJvdGggU2NpZW50aXN0IDEgYW5kIFNjaWVudGlzdCAyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5laXRoZXIgU2NpZW50aXN0IDEgbm9yIFNjaWVudGlzdCAyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gU3VwcG9zZSBhIHBsYW5ldCBjb3JlIGluIGEgc3RlbGxhciBuZWJ1bGEgaGFzLCBvdmVyIHRpbWUsIGF0dHJhY3RlZCBhbmQgaGVsZCAyMDAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIwNy5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiBvZiBnYXNlcyBmcm9tIHRoZSBuZWJ1bGEuIFdvdWxkIFNjaWVudGlzdCAxIGJlIGxpa2VseSB0byBjbGFpbSB0aGF0IHRoaXMgcGxhbmV0IGNvcmUgc3Vycm91bmRlZCBieSAyMDAgTUUgb2YgZ2FzZXMgaXMgYSBnYXMtZ2lhbnQgcGxhbmV0IGxpa2UgSnVwaXRlcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBTY2llbnRpc3QgMSBjbGFpbXMgdGhhdCBsZXNzIHRoYW4gMjAwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMDgucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gb2YgZ2FzZXMgbXVzdCBiZSBhdHRyYWN0ZWQgYW5kIGhlbGQgYnkgYSBwbGFuZXQgY29yZSB0byBmb3JtIHN1Y2ggYSBnYXMtZ2lhbnQgcGxhbmV0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBTY2llbnRpc3QgMSBjbGFpbXMgdGhhdCBubyBsZXNzIHRoYW4gMjAwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMDkucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gb2YgZ2FzZXMgbXVzdCBiZSBhdHRyYWN0ZWQgYW5kIGhlbGQgYnkgYSBwbGFuZXQgY29yZSB0byBmb3JtIHN1Y2ggYSBnYXMtZ2lhbnQgcGxhbmV0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIFNjaWVudGlzdCAxIGNsYWltcyB0aGF0IG1vcmUgdGhhbiAyMDAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIxMC5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiBvZiBnYXNlcyBtdXN0IGJlIGF0dHJhY3RlZCBhbmQgaGVsZCBieSBhIHBsYW5ldCBjb3JlIHRvIGZvcm0gc3VjaCBhIGdhcy1naWFudCBwbGFuZXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIFNjaWVudGlzdCAxIGNsYWltcyB0aGF0IG5vIG1vcmUgdGhhbiAyMDAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIxMS5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICczOCcvPiBvZiBnYXNlcyBtdXN0IGJlIGF0dHJhY3RlZCBhbmQgaGVsZCBieSBhIHBsYW5ldCBjb3JlIHRvIGZvcm0gc3VjaCBhIGdhcy1naWFudCBwbGFuZXQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gVGhlIGRpc2NvdmVyeSBvZiB3aGljaCBvZiB0aGUgZm9sbG93aW5nIG9iamVjdHMgd291bGQgcHJvdmlkZSB0aGUgc3Ryb25nZXN0IHN1cHBvcnQgZm9yIFNjaWVudGlzdCAyJ3Mgdmlld3BvaW50Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNldmVyYWwgMS1taWxsaW9uLXllYXItb2xkIHN0YXJzLCBub25lIHdpdGggb3JiaXRpbmcgZ2FzLWdpYW50IHBsYW5ldHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNldmVyYWwgMS1taWxsaW9ufnllYXItb2xkIHN0YXJzLCBlYWNoIHdpdGggMiBvcmJpdGluZyBnYXMtZ2lhbnQgcGxhbmV0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNldmVyYWwgMTAwLW1pbGxpb24teWVhci1vbGQgc3RhcnMsIG5vbmUgd2l0aCBvcmJpdGluZyBnYXMtZ2lhbnQgcGxhbmV0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNldmVyYWwgMTAwLW1pbGxpb24teWVhci1vbGQgc3RhcnMsIGVhY2ggd2l0aCAyIG9yYml0aW5nIGdhcy1naWFudCBwbGFuZXRzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQXNzdW1lIHRoYXQgdGhlIGdhcy1naWFudCBwbGFuZXRzIGFuZCB0aGUgbm9uLWdhcy1naWFudCBwbGFuZXRzICh0ZXJyZXN0cmlhbCBwbGFuZXRzKSBpbiBhbm90aGVyIHNvbGFyIHN5c3RlbSBpbiBvdXIgZ2FsYXh5IGhhdmUgc3BhdGlhbCBhbmQgc2l6ZSByZWxhdGlvbnNoaXBzIHRoZSBzYW1lIGFzIHRob3NlIG9mIHRoZSBnYXMtZ2lhbnQgcGxhbmV0cyBhbmQgdGhlIHRlcnJlc3RyaWFsIHBsYW5ldHMgaW4gb3VyIHNvbGFyIHN5c3RlbS4gR2l2ZW4gdGhpcyBhc3N1bXB0aW9uLCBpbiB0aGUgb3RoZXIgc29sYXIgc3lzdGVtLCBhbiBleGlzdGluZyBnYXMtZ2lhbnQgcGxhbmV0IHdvdWxkIG1vc3QgbGlrZWx5IGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxvY2F0ZWQgYXQgYSBncmVhdGVyIGRpc3RhbmNlIGZyb20gdGhlIHN0YXIgdGhhbiB3b3VsZCBhbnkgb2YgdGhlIHRlcnJlc3RyaWFsIHBsYW5ldHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxvY2F0ZWQgYXQgYSBsZXNzZXIgZGlzdGFuY2UgZnJvbSB0aGUgc3RhciB0aGFuIHdvdWxkIGFueSBvZiB0aGUgdGVycmVzdHJpYWwgcGxhbmV0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzYW1lIGRpYW1ldGVyIGFzIHRoZSBsYXJnZXN0IHRlcnJlc3RyaWFsIHBsYW5ldC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgbGVzc2VyIGRpYW1ldGVyIHRoYW4gYW55IG9mIHRoZSB0ZXJyZXN0cmlhbCBwbGFuZXRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQmFzZWQgb24gU2NpZW50aXN0IDIncyBkaXNjdXNzaW9uLCBpbiBhIHN0ZWxsYXIgbmVidWxhLCBhIDEwIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMTIucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzgnLz4gcGxhbmV0IGNvcmUgdGhhdCB3YXMgTk9UIHBhcnQgb2YgYSBHR1BQIHdvdWxkIG1vc3QgbGlrZWx5Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGZvcm0gYSBnYXMtZ2lhbnQgcGxhbmV0IGluIGZld2VyIHRoYW4gMTAgbWlsbGlvbiB5ZWFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVzY2FwZSBmcm9tIHRoZSBjZW50cmFsIHN0YXIncyBncmF2aXR5IGFuZCB0cmF2ZWwgb3V0IGludG8gc3BhY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbnRpbnVlIHRvIHJldm9sdmUgYXJvdW5kIHRoZSBjZW50cmFsIHN0YXIgYXQgYSBjb25zdGFudCBkaXN0YW5jZSBhbmQgc3BlZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1vdmUgaW4gdG93YXJkIHRoZSBjZW50cmFsIHN0YXIgYW5kIGV2ZW50dWFsbHkgYmUgZGVzdHJveWVkLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

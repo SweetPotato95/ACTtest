@@ -1,127 +1,127 @@
-﻿
-<h1>Swimming in Open Water</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Immersed in the icy water off the Antarctic Peninsula, Lynne Cox wasn't sure if she could accomplish her goal to be the first person to swim a mile through the glacier- strewn sea. At forty-five, she <font id=46>would of</font> been training for two years for this event, <font id=47>which</font> she hoped her preparations would pay off.</div>
+77s/
+PGgxPlN3aW1taW5nIGluIE9wZW4gV2F0ZXI8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkltbWVyc2VkIGluIHRoZSBpY3kgd2F0ZXIgb2ZmIHRoZSBBbnRhcmN0aWMgUGVuaW5zdWxhLCBMeW5uZSBDb3ggd2Fzbid0IHN1cmUgaWYgc2hlIGNvdWxkIGFjY29tcGxpc2ggaGVyIGdvYWwgdG8gYmUgdGhlIGZpcnN0IHBlcnNvbiB0byBzd2ltIGEgbWlsZSB0aHJvdWdoIHRoZSBnbGFjaWVyLSBzdHJld24gc2VhLiBBdCBmb3J0eS1maXZlLCBzaGUgPGZvbnQgaWQ9NDY+d291bGQgb2Y8L2ZvbnQ+IGJlZW4gdHJhaW5pbmcgZm9yIHR3byB5ZWFycyBmb3IgdGhpcyBldmVudCwgPGZvbnQgaWQ9NDc+d2hpY2g8L2ZvbnQ+IHNoZSBob3BlZCBoZXIgcHJlcGFyYXRpb25zIHdvdWxkIHBheSBvZmYuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Cox grew up swimming in the and Maine. When she was fifteen, she broke the men's and women's 49 record's for swimming the English Channel by finishing the twenty-seven-mile swim in less than ten hours.<font id=50>50</font>She <font id=51>could swim</font> in open water and had swum across the Cook Strait in New Zealand, around the Cape of Good Hope at the southern tip of Africa, and across Lake Titicaca from Bolivia to Peru.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNveCBncmV3IHVwIHN3aW1taW5nIGluIHRoZSBhbmQgTWFpbmUuIFdoZW4gc2hlIHdhcyBmaWZ0ZWVuLCBzaGUgYnJva2UgdGhlIG1lbidzIGFuZCB3b21lbidzIDQ5IHJlY29yZCdzIGZvciBzd2ltbWluZyB0aGUgRW5nbGlzaCBDaGFubmVsIGJ5IGZpbmlzaGluZyB0aGUgdHdlbnR5LXNldmVuLW1pbGUgc3dpbSBpbiBsZXNzIHRoYW4gdGVuIGhvdXJzLjxmb250IGlkPTUwPjUwPC9mb250PlNoZSA8Zm9udCBpZD01MT5jb3VsZCBzd2ltPC9mb250PiBpbiBvcGVuIHdhdGVyIGFuZCBoYWQgc3d1bSBhY3Jvc3MgdGhlIENvb2sgU3RyYWl0IGluIE5ldyBaZWFsYW5kLCBhcm91bmQgdGhlIENhcGUgb2YgR29vZCBIb3BlIGF0IHRoZSBzb3V0aGVybiB0aXAgb2YgQWZyaWNhLCBhbmQgYWNyb3NzIExha2UgVGl0aWNhY2EgZnJvbSBCb2xpdmlhIHRvIFBlcnUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=53>[1] Cox is fortunate that she has a natural tolerance for cold temperatures, but swimming the Antarctic—in water only slightly above freezing—demanded serious preparation. [2] This athlete studied how Antarctic animals adapt to the frigid environment. [3] Penguins' double layer of feathers acts as insulation, so she grew her hair long and piled it under her swim cap. [4] Antarctic seals rely on body fat for warmth, so Cox gained twelve pounds, <font id=52>it was weight</font> that she hoped would keep her warm in the icy water.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTUzPlsxXSBDb3ggaXMgZm9ydHVuYXRlIHRoYXQgc2hlIGhhcyBhIG5hdHVyYWwgdG9sZXJhbmNlIGZvciBjb2xkIHRlbXBlcmF0dXJlcywgYnV0IHN3aW1taW5nIHRoZSBBbnRhcmN0aWPigJRpbiB3YXRlciBvbmx5IHNsaWdodGx5IGFib3ZlIGZyZWV6aW5n4oCUZGVtYW5kZWQgc2VyaW91cyBwcmVwYXJhdGlvbi4gWzJdIFRoaXMgYXRobGV0ZSBzdHVkaWVkIGhvdyBBbnRhcmN0aWMgYW5pbWFscyBhZGFwdCB0byB0aGUgZnJpZ2lkIGVudmlyb25tZW50LiBbM10gUGVuZ3VpbnMnIGRvdWJsZSBsYXllciBvZiBmZWF0aGVycyBhY3RzIGFzIGluc3VsYXRpb24sIHNvIHNoZSBncmV3IGhlciBoYWlyIGxvbmcgYW5kIHBpbGVkIGl0IHVuZGVyIGhlciBzd2ltIGNhcC4gWzRdIEFudGFyY3RpYyBzZWFscyByZWx5IG9uIGJvZHkgZmF0IGZvciB3YXJtdGgsIHNvIENveCBnYWluZWQgdHdlbHZlIHBvdW5kcywgPGZvbnQgaWQ9NTI+aXQgd2FzIHdlaWdodDwvZm9udD4gdGhhdCBzaGUgaG9wZWQgd291bGQga2VlcCBoZXIgd2FybSBpbiB0aGUgaWN5IHdhdGVyLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In November 2002, <font id=54>a crew of</font> physicians, sailors, and expedition experts, Cox headed for Neko Harbor on the Antarctic Peninsula. There she dove into water chilled by melting glaciers and began to swim. <font id=55>Without proper training, she would have been in peril.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIE5vdmVtYmVyIDIwMDIsIDxmb250IGlkPTU0PmEgY3JldyBvZjwvZm9udD4gcGh5c2ljaWFucywgc2FpbG9ycywgYW5kIGV4cGVkaXRpb24gZXhwZXJ0cywgQ294IGhlYWRlZCBmb3IgTmVrbyBIYXJib3Igb24gdGhlIEFudGFyY3RpYyBQZW5pbnN1bGEuIFRoZXJlIHNoZSBkb3ZlIGludG8gd2F0ZXIgY2hpbGxlZCBieSBtZWx0aW5nIGdsYWNpZXJzIGFuZCBiZWdhbiB0byBzd2ltLiA8Zm9udCBpZD01NT5XaXRob3V0IHByb3BlciB0cmFpbmluZywgc2hlIHdvdWxkIGhhdmUgYmVlbiBpbiBwZXJpbC48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Her initial <font id=56>fatigue and exhaustion</font> turned into exhilaration as she moved through water that was clearer and <font id=57>blue as</font> any she'd swum in before. For a moment at the end, she considered going even farther. Cox knew, however, that the longer she stayed in the water, the longer it, would take to bring her body temperature—which fell to 95.5 degrees Fahrenheit by the end of the swim—<font id=58> back to normal.</font> A mile was good <font id=59>enough as</font> Cox closed in on the shore—and her goal—<font id=60>penguins splashed in the water with the great athlete.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlciBpbml0aWFsIDxmb250IGlkPTU2PmZhdGlndWUgYW5kIGV4aGF1c3Rpb248L2ZvbnQ+IHR1cm5lZCBpbnRvIGV4aGlsYXJhdGlvbiBhcyBzaGUgbW92ZWQgdGhyb3VnaCB3YXRlciB0aGF0IHdhcyBjbGVhcmVyIGFuZCA8Zm9udCBpZD01Nz5ibHVlIGFzPC9mb250PiBhbnkgc2hlJ2Qgc3d1bSBpbiBiZWZvcmUuIEZvciBhIG1vbWVudCBhdCB0aGUgZW5kLCBzaGUgY29uc2lkZXJlZCBnb2luZyBldmVuIGZhcnRoZXIuIENveCBrbmV3LCBob3dldmVyLCB0aGF0IHRoZSBsb25nZXIgc2hlIHN0YXllZCBpbiB0aGUgd2F0ZXIsIHRoZSBsb25nZXIgaXQsIHdvdWxkIHRha2UgdG8gYnJpbmcgaGVyIGJvZHkgdGVtcGVyYXR1cmXigJR3aGljaCBmZWxsIHRvIDk1LjUgZGVncmVlcyBGYWhyZW5oZWl0IGJ5IHRoZSBlbmQgb2YgdGhlIHN3aW3igD88Zm9udCBpZD01OD4gYmFjayB0byBub3JtYWwuPC9mb250PiBBIG1pbGUgd2FzIGdvb2QgPGZvbnQgaWQ9NTk+ZW5vdWdoIGFzPC9mb250PiBDb3ggY2xvc2VkIGluIG9uIHRoZSBzaG9yZeKAlGFuZCBoZXIgZ29hbOKAPzxmb250IGlkPTYwPnBlbmd1aW5zIHNwbGFzaGVkIGluIHRoZSB3YXRlciB3aXRoIHRoZSBncmVhdCBhdGhsZXRlLjwvZm9udD48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">46.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. had</div>
-<div class = "choice">H. have</div>
-<div class = "choice">J. had to of</div>
-</div>
-###################
-<div class = "quiz">47.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. and</div>
-<div class = "choice">C. then</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">48.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. cold, lakes of New Hampshire</div>
-<div class = "choice">H. cold lakes, of New Hampshire</div>
-<div class = "choice">J. cold, lakes of New Hampshire,</div>
-</div>
-###################
-<div class = "quiz">49.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. records</div>
-<div class = "choice">C. records'</div>
-<div class = "choice">D. records,</div>
-</div>
-###################
-<div class = "quiz">50. At this point, the writer is considering adding the following true statement:
-At its widest, the English Channel spans a distance of 150 miles.
-Should the writer make, this addition here?
-<div class = "choice">F. Yes, because it reinforces the point that Cox swam a great distance across the English Channel.</div>
-<div class = "choice">G. Yes, because it provides a logical transition to the rest of the paragraph.</div>
-<div class = "choice">H. No, because the English Channel is only one place that Cox had swum before going to Antarctica.</div>
-<div class = "choice">J. No, because it is irrelevant to the focus of the essay at this point.</div>
-</div>
-###################
-<div class = "quiz">51. Given that all the choices are true, which one best conveys Cox's attitude toward swimming and helps bring into focus the kind of swimming that appeals to her?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. loved the challenge of</div>
-<div class = "choice">C. had racked up many miles in</div>
-<div class = "choice">D. astounded many by her swimming feats in</div>
-</div>
-###################
-<div class = "quiz">52.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. she put on weight</div>
-<div class = "choice">H. she gained it so</div>
-<div class = "choice">J. weight</div>
-</div>
-###################
-<div class = "quiz">53. Which of the following sequences of sentences makes this paragraph most logical?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. 1, 4, 2, 3</div>
-<div class = "choice">C. 3, 1, 4, 2</div>
-<div class = "choice">D. 4, 3, 2, 1</div>
-</div>
-###################
-<div class = "quiz">54.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. a crew made up of</div>
-<div class = "choice">H. with a crew of</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">55. The writer wants to end this paragraph with a physical detail about the swim that emphasizes that Cox was in a harsh environment. Given that all the choices are true, which one best accomplishes the writer's purpose?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Her amazing feat was described in a feature article in The New Yorker magazine.</div>
-<div class = "choice">C. Bits of ice brushed against her arms and legs.</div>
-<div class = "choice">D. Photographs of her in her goggles, swim cap, and bathing suit appeared in a national publication.</div>
-</div>
-###################
-<div class = "quiz">56.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. exhaustion</div>
-<div class = "choice">H. exhaustion that left her feeling fatigued</div>
-<div class = "choice">J. exhausting fatigue</div>
-</div>
-###################
-<div class = "quiz">57.
-<div class = "choice">A. NO HANGE</div>
-<div class = "choice">B. more blue then</div>
-<div class = "choice">C. bluer than</div>
-<div class = "choice">D. bluer then</div>
-</div>
-###################
-<div class = "quiz">58.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. back to a normal body temperature.</div>
-<div class = "choice">H. in other words, back to normal.</div>
-<div class = "choice">J. which was normal.</div>
-</div>
-###################
-<div class = "quiz">59.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. enough. As</div>
-<div class = "choice">C. enough, as</div>
-<div class = "choice">D. enough,</div>
-</div>
-###################
-<div class = "quiz">60. Given that all the choices are true, which one best concludes the essay with an image that emphasizes the location and indicates the completion of Cox's feat?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. birds splashed in the water as if to cheer her on toward the goal of the entire expedition.</div>
-<div class = "choice">H. wildlife displayed their natural ability to swim in waters that truly tested Cox's ability to meet her goal.</div>
-<div class = "choice">J. a flock of penguins jumped into the water and joined her for the last thrilling strokes.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhZCB0byBvZjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbGQsIGxha2VzIG9mIE5ldyBIYW1wc2hpcmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbGQgbGFrZXMsIG9mIE5ldyBIYW1wc2hpcmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvbGQsIGxha2VzIG9mIE5ldyBIYW1wc2hpcmUsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlY29yZHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJlY29yZHMnPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlY29yZHMsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MC4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudDo=
+QXQgaXRzIHdpZGVzdCwgdGhlIEVuZ2xpc2ggQ2hhbm5lbCBzcGFucyBhIGRpc3RhbmNlIG9mIDE1MCBtaWxlcy4=
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSwgdGhpcyBhZGRpdGlvbiBoZXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSBpdCByZWluZm9yY2VzIHRoZSBwb2ludCB0aGF0IENveCBzd2FtIGEgZ3JlYXQgZGlzdGFuY2UgYWNyb3NzIHRoZSBFbmdsaXNoIENoYW5uZWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBpdCBwcm92aWRlcyBhIGxvZ2ljYWwgdHJhbnNpdGlvbiB0byB0aGUgcmVzdCBvZiB0aGUgcGFyYWdyYXBoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBFbmdsaXNoIENoYW5uZWwgaXMgb25seSBvbmUgcGxhY2UgdGhhdCBDb3ggaGFkIHN3dW0gYmVmb3JlIGdvaW5nIHRvIEFudGFyY3RpY2EuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGl0IGlzIGlycmVsZXZhbnQgdG8gdGhlIGZvY3VzIG9mIHRoZSBlc3NheSBhdCB0aGlzIHBvaW50LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGNvbnZleXMgQ294J3MgYXR0aXR1ZGUgdG93YXJkIHN3aW1taW5nIGFuZCBoZWxwcyBicmluZyBpbnRvIGZvY3VzIHRoZSBraW5kIG9mIHN3aW1taW5nIHRoYXQgYXBwZWFscyB0byBoZXI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxvdmVkIHRoZSBjaGFsbGVuZ2Ugb2Y8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhZCByYWNrZWQgdXAgbWFueSBtaWxlcyBpbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFzdG91bmRlZCBtYW55IGJ5IGhlciBzd2ltbWluZyBmZWF0cyBpbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNoZSBwdXQgb24gd2VpZ2h0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNoZSBnYWluZWQgaXQgc288L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdlaWdodDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41My4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzZXF1ZW5jZXMgb2Ygc2VudGVuY2VzIG1ha2VzIHRoaXMgcGFyYWdyYXBoIG1vc3QgbG9naWNhbD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEsIDQsIDIsIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDMsIDEsIDQsIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDQsIDMsIDIsIDE8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgY3JldyBtYWRlIHVwIG9mPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdpdGggYSBjcmV3IG9mPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NS4gVGhlIHdyaXRlciB3YW50cyB0byBlbmQgdGhpcyBwYXJhZ3JhcGggd2l0aCBhIHBoeXNpY2FsIGRldGFpbCBhYm91dCB0aGUgc3dpbSB0aGF0IGVtcGhhc2l6ZXMgdGhhdCBDb3ggd2FzIGluIGEgaGFyc2ggZW52aXJvbm1lbnQuIEdpdmVuIHRoYXQgYWxsIHRoZSBjaG9pY2VzIGFyZSB0cnVlLCB3aGljaCBvbmUgYmVzdCBhY2NvbXBsaXNoZXMgdGhlIHdyaXRlcidzIHB1cnBvc2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhlciBhbWF6aW5nIGZlYXQgd2FzIGRlc2NyaWJlZCBpbiBhIGZlYXR1cmUgYXJ0aWNsZSBpbiBUaGUgTmV3IFlvcmtlciBtYWdhemluZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJpdHMgb2YgaWNlIGJydXNoZWQgYWdhaW5zdCBoZXIgYXJtcyBhbmQgbGVncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFBob3RvZ3JhcGhzIG9mIGhlciBpbiBoZXIgZ29nZ2xlcywgc3dpbSBjYXAsIGFuZCBiYXRoaW5nIHN1aXQgYXBwZWFyZWQgaW4gYSBuYXRpb25hbCBwdWJsaWNhdGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV4aGF1c3Rpb248L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGV4aGF1c3Rpb24gdGhhdCBsZWZ0IGhlciBmZWVsaW5nIGZhdGlndWVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV4aGF1c3RpbmcgZmF0aWd1ZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIEhBTkdFPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vcmUgYmx1ZSB0aGVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJsdWVyIHRoYW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJsdWVyIHRoZW48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJhY2sgdG8gYSBub3JtYWwgYm9keSB0ZW1wZXJhdHVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluIG90aGVyIHdvcmRzLCBiYWNrIHRvIG5vcm1hbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdoaWNoIHdhcyBub3JtYWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVub3VnaC4gQXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVub3VnaCwgYXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVub3VnaCw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGNvbmNsdWRlcyB0aGUgZXNzYXkgd2l0aCBhbiBpbWFnZSB0aGF0IGVtcGhhc2l6ZXMgdGhlIGxvY2F0aW9uIGFuZCBpbmRpY2F0ZXMgdGhlIGNvbXBsZXRpb24gb2YgQ294J3MgZmVhdD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJpcmRzIHNwbGFzaGVkIGluIHRoZSB3YXRlciBhcyBpZiB0byBjaGVlciBoZXIgb24gdG93YXJkIHRoZSBnb2FsIG9mIHRoZSBlbnRpcmUgZXhwZWRpdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdpbGRsaWZlIGRpc3BsYXllZCB0aGVpciBuYXR1cmFsIGFiaWxpdHkgdG8gc3dpbSBpbiB3YXRlcnMgdGhhdCB0cnVseSB0ZXN0ZWQgQ294J3MgYWJpbGl0eSB0byBtZWV0IGhlciBnb2FsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgZmxvY2sgb2YgcGVuZ3VpbnMganVtcGVkIGludG8gdGhlIHdhdGVyIGFuZCBqb2luZWQgaGVyIGZvciB0aGUgbGFzdCB0aHJpbGxpbmcgc3Ryb2tlcy48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

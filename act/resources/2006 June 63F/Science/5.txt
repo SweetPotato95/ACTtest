@@ -1,52 +1,52 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a study of human sleep cycles, subjects in 4 different age groups performed a brief mental task at a scheduled time. Immediately following the task, their oral temperatures were taken and then the time for each subject to fall asleep was measured.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGEgc3R1ZHkgb2YgaHVtYW4gc2xlZXAgY3ljbGVzLCBzdWJqZWN0cyBpbiA0IGRpZmZlcmVudCBhZ2UgZ3JvdXBzIHBlcmZvcm1lZCBhIGJyaWVmIG1lbnRhbCB0YXNrIGF0IGEgc2NoZWR1bGVkIHRpbWUuIEltbWVkaWF0ZWx5IGZvbGxvd2luZyB0aGUgdGFzaywgdGhlaXIgb3JhbCB0ZW1wZXJhdHVyZXMgd2VyZSB0YWtlbiBhbmQgdGhlbiB0aGUgdGltZSBmb3IgZWFjaCBzdWJqZWN0IHRvIGZhbGwgYXNsZWVwIHdhcyBtZWFzdXJlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results were averaged for each group. Figure 1 shows how the average time to fall asleep for the 4 groups varied with the time of day that the task was performed. Figure 2 shows how the average oral temperature .of 2 of the groups varied with the .time of day that the task was performed.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByZXN1bHRzIHdlcmUgYXZlcmFnZWQgZm9yIGVhY2ggZ3JvdXAuIEZpZ3VyZSAxIHNob3dzIGhvdyB0aGUgYXZlcmFnZSB0aW1lIHRvIGZhbGwgYXNsZWVwIGZvciB0aGUgNCBncm91cHMgdmFyaWVkIHdpdGggdGhlIHRpbWUgb2YgZGF5IHRoYXQgdGhlIHRhc2sgd2FzIHBlcmZvcm1lZC4gRmlndXJlIDIgc2hvd3MgaG93IHRoZSBhdmVyYWdlIG9yYWwgdGVtcGVyYXR1cmUgLm9mIDIgb2YgdGhlIGdyb3VwcyB2YXJpZWQgd2l0aCB0aGUgLnRpbWUgb2YgZGF5IHRoYXQgdGhlIHRhc2sgd2FzIHBlcmZvcm1lZC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\158.png' width = '698'height = '350'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNTgucG5nJyB3aWR0aCA9ICc2OTgnaGVpZ2h0ID0gJzM1MCcvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\159.png' width = '608'height = '315'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNTkucG5nJyB3aWR0aCA9ICc2MDgnaGVpZ2h0ID0gJzMxNScvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l and 2 are adapted from G. S. Richardson et al., "Circadian Variation of Sleep Tendency in Elderly and Young Adult Subjects." ⓒ1982 by Raven Press, Figure l is also adapted from M. A. Carskadon & W. Dement, "Daytime Sleepiness Quantification of a Behavioral State" ⓒ1987 by Pergamon Journals Ltd.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgbCBhbmQgMiBhcmUgYWRhcHRlZCBmcm9tIEcuIFMuIFJpY2hhcmRzb24gZXQgYWwuLCAiQ2lyY2FkaWFuIFZhcmlhdGlvbiBvZiBTbGVlcCBUZW5kZW5jeSBpbiBFbGRlcmx5IGFuZCBZb3VuZyBBZHVsdCBTdWJqZWN0cy4iIOKTPzE5ODIgYnkgUmF2ZW4gUHJlc3MsIEZpZ3VyZSBsIGlzIGFsc28gYWRhcHRlZCBmcm9tIE0uIEEuIENhcnNrYWRvbiAmIFcuIERlbWVudCwgIkRheXRpbWUgU2xlZXBpbmVzcyBRdWFudGlmaWNhdGlvbiBvZiBhIEJlaGF2aW9yYWwgU3RhdGUiIOKTPzE5ODcgYnkgUGVyZ2Ftb24gSm91cm5hbHMgTHRkLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">23. Based on Figure l, at which of the following times was the average time to fall asleep most similar for the 4 age groups?
-<div class = "choice">A. 11:30 A.M.</div>
-<div class = "choice">B. 1:30 P.M.</div>
-<div class = "choice">C. 9:30 P.M.</div>
-<div class = "choice">D. 1:30 A.M.</div>
-</div>
-###################
-<div class = "quiz">24. A scientist claimed that the average oral temperature of the subjects in the older-aged group was always lower than that of the subjects in the adolescent group. The data for which of the following times shown in Figure 2 are inconsistent with this claim?
-<div class = "choice">F. 9:30 A.M.</div>
-<div class = "choice">G. 5:30 P.M.</div>
-<div class = "choice">H. 1:30 A.M.</div>
-<div class = "choice">J. 5:30 A.M.</div>
-</div>
-###################
-<div class = "quiz">25. According to Figure l, for the adolescent group, the average time to fall asleep was greatest at which time of day?
-<div class = "choice">A. 1:30 P.M.</div>
-<div class = "choice">B. 5:30 P.M.</div>
-<div class = "choice">C. 9:30 P.M.</div>
-<div class = "choice">D. 1:30 A.M.</div>
-</div>
-###################
-<div class = "quiz">26. According to Figure l, the average time to fall asleep at 3:30 A.M. was least for which age group?
-<div class = "choice">F. Youth:</div>
-<div class = "choice">G. Adolescent</div>
-<div class = "choice">H. Middle-aged</div>
-<div class = "choice">J. Older-aged</div>
-</div>
-###################
-<div class = "quiz">27. Suppose that there were 4 subjects in each age group, and that in l age group the time to fall asleep at 3:30 P.M. for the 4 subjects was 14 min, 11 min, 16 min, and 17 min, Based on Figure l, these 4 subjects were most likely:
-<div class = "choice">A. 9-13 yrs old.</div>
-<div class = "choice">B. 16-20 yrs old.</div>
-<div class = "choice">C. 35-58 yrs old.</div>
-<div class = "choice">D. 61-78 yrs old.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQmFzZWQgb24gRmlndXJlIGwsIGF0IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdGltZXMgd2FzIHRoZSBhdmVyYWdlIHRpbWUgdG8gZmFsbCBhc2xlZXAgbW9zdCBzaW1pbGFyIGZvciB0aGUgNCBhZ2UgZ3JvdXBzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDExOjMwIEEuTS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDE6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDk6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDE6MzAgQS5NLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gQSBzY2llbnRpc3QgY2xhaW1lZCB0aGF0IHRoZSBhdmVyYWdlIG9yYWwgdGVtcGVyYXR1cmUgb2YgdGhlIHN1YmplY3RzIGluIHRoZSBvbGRlci1hZ2VkIGdyb3VwIHdhcyBhbHdheXMgbG93ZXIgdGhhbiB0aGF0IG9mIHRoZSBzdWJqZWN0cyBpbiB0aGUgYWRvbGVzY2VudCBncm91cC4gVGhlIGRhdGEgZm9yIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdGltZXMgc2hvd24gaW4gRmlndXJlIDIgYXJlIGluY29uc2lzdGVudCB3aXRoIHRoaXMgY2xhaW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDk6MzAgQS5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDU6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE6MzAgQS5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDU6MzAgQS5NLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSBsLCBmb3IgdGhlIGFkb2xlc2NlbnQgZ3JvdXAsIHRoZSBhdmVyYWdlIHRpbWUgdG8gZmFsbCBhc2xlZXAgd2FzIGdyZWF0ZXN0IGF0IHdoaWNoIHRpbWUgb2YgZGF5Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDU6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDk6MzAgUC5NLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDE6MzAgQS5NLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQWNjb3JkaW5nIHRvIEZpZ3VyZSBsLCB0aGUgYXZlcmFnZSB0aW1lIHRvIGZhbGwgYXNsZWVwIGF0IDM6MzAgQS5NLiB3YXMgbGVhc3QgZm9yIHdoaWNoIGFnZSBncm91cD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFlvdXRoOjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFkb2xlc2NlbnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1pZGRsZS1hZ2VkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE9sZGVyLWFnZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gU3VwcG9zZSB0aGF0IHRoZXJlIHdlcmUgNCBzdWJqZWN0cyBpbiBlYWNoIGFnZSBncm91cCwgYW5kIHRoYXQgaW4gbCBhZ2UgZ3JvdXAgdGhlIHRpbWUgdG8gZmFsbCBhc2xlZXAgYXQgMzozMCBQLk0uIGZvciB0aGUgNCBzdWJqZWN0cyB3YXMgMTQgbWluLCAxMSBtaW4sIDE2IG1pbiwgYW5kIDE3IG1pbiwgQmFzZWQgb24gRmlndXJlIGwsIHRoZXNlIDQgc3ViamVjdHMgd2VyZSBtb3N0IGxpa2VseTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDktMTMgeXJzIG9sZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDE2LTIwIHlycyBvbGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDM1LTU4IHlycyBvbGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDYxLTc4IHlycyBvbGQuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

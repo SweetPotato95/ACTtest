@@ -1,91 +1,91 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE：This passage is adapted from the book Wind by Jan DeBlieu (?1998 by Jan DeBlieu) Convection currents in the atmosphere which are responsible for breezes, begin when air is heated over warm land masses or seas and then expands and rises. Thermals are columns of rising warm air.</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">No other class of animals lives so starkly at the mercy of wind as the insects. In its benign convective form wind plucks up bugs by the millions, the trillions, every day and scatters them widely. <font id=34> (This is not to say they are dispersed at random. Biologists have often seen insects choose a precise moment to set out—say, just before the onset of a light rainstorm with west-bearing winds—presumably so that they are most likely to arrive in protected, food-rich habitat.) </font>Once aloft they depend on horizontal currents to ferry them onward. Often they drift all night. In the atmosphere's upper strata they encounter waves of turbulence and layers of different densities that sort and compress them into compact swarms. They may drift as a unit through honeycombs of thermals and land lightly in a rogue's paradise—a flower garden a newly cultivated field of vegetables. Or they may be accosted by a freshening gale, tossed out to sea, and slammed rudely into the water.</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRe+8mlRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIGJvb2sgV2luZCBieSBKYW4gRGVCbGlldSAoPzE5OTggYnkgSmFuIERlQmxpZXUpIENvbnZlY3Rpb24gY3VycmVudHMgaW4gdGhlIGF0bW9zcGhlcmUgd2hpY2ggYXJlIHJlc3BvbnNpYmxlIGZvciBicmVlemVzLCBiZWdpbiB3aGVuIGFpciBpcyBoZWF0ZWQgb3ZlciB3YXJtIGxhbmQgbWFzc2VzIG9yIHNlYXMgYW5kIHRoZW4gZXhwYW5kcyBhbmQgcmlzZXMuIFRoZXJtYWxzIGFyZSBjb2x1bW5zIG9mIHJpc2luZyB3YXJtIGFpci48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vIG90aGVyIGNsYXNzIG9mIGFuaW1hbHMgbGl2ZXMgc28gc3RhcmtseSBhdCB0aGUgbWVyY3kgb2Ygd2luZCBhcyB0aGUgaW5zZWN0cy4gSW4gaXRzIGJlbmlnbiBjb252ZWN0aXZlIGZvcm0gd2luZCBwbHVja3MgdXAgYnVncyBieSB0aGUgbWlsbGlvbnMsIHRoZSB0cmlsbGlvbnMsIGV2ZXJ5IGRheSBhbmQgc2NhdHRlcnMgdGhlbSB3aWRlbHkuIDxmb250IGlkPTM0PiAoVGhpcyBpcyBub3QgdG8gc2F5IHRoZXkgYXJlIGRpc3BlcnNlZCBhdCByYW5kb20uIEJpb2xvZ2lzdHMgaGF2ZSBvZnRlbiBzZWVuIGluc2VjdHMgY2hvb3NlIGEgcHJlY2lzZSBtb21lbnQgdG8gc2V0IG91dOKAlHNheSwganVzdCBiZWZvcmUgdGhlIG9uc2V0IG9mIGEgbGlnaHQgcmFpbnN0b3JtIHdpdGggd2VzdC1iZWFyaW5nIHdpbmRz4oCUcHJlc3VtYWJseSBzbyB0aGF0IHRoZXkgYXJlIG1vc3QgbGlrZWx5IHRvIGFycml2ZSBpbiBwcm90ZWN0ZWQsIGZvb2QtcmljaCBoYWJpdGF0LikgPC9mb250Pk9uY2UgYWxvZnQgdGhleSBkZXBlbmQgb24gaG9yaXpvbnRhbCBjdXJyZW50cyB0byBmZXJyeSB0aGVtIG9ud2FyZC4gT2Z0ZW4gdGhleSBkcmlmdCBhbGwgbmlnaHQuIEluIHRoZSBhdG1vc3BoZXJlJ3MgdXBwZXIgc3RyYXRhIHRoZXkgZW5jb3VudGVyIHdhdmVzIG9mIHR1cmJ1bGVuY2UgYW5kIGxheWVycyBvZiBkaWZmZXJlbnQgZGVuc2l0aWVzIHRoYXQgc29ydCBhbmQgY29tcHJlc3MgdGhlbSBpbnRvIGNvbXBhY3Qgc3dhcm1zLiBUaGV5IG1heSBkcmlmdCBhcyBhIHVuaXQgdGhyb3VnaCBob25leWNvbWJzIG9mIHRoZXJtYWxzIGFuZCBsYW5kIGxpZ2h0bHkgaW4gYSByb2d1ZSdzIHBhcmFkaXNl4oCUYSBmbG93ZXIgZ2FyZGVuIGEgbmV3bHkgY3VsdGl2YXRlZCBmaWVsZCBvZiB2ZWdldGFibGVzLiBPciB0aGV5IG1heSBiZSBhY2Nvc3RlZCBieSBhIGZyZXNoZW5pbmcgZ2FsZSwgdG9zc2VkIG91dCB0byBzZWEsIGFuZCBzbGFtbWVkIHJ1ZGVseSBpbnRvIHRoZSB3YXRlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many insects are wingless, at least in their larval forms, and must depend entirely on wind for transit. Those that can fly have neither the mass nor the strength to fight headwinds. So they ride the breeze, perhaps passively, perhaps with some precise collective plan. In certain species, individuals bunch together like flocks of buds, turning as one organism. In studies conducted during the 1950s, aphids carried by west winds from the irrigated oasis of southern California into the arid basin of the Colorado desert showed an uncanny knack for finding potted alfalfa plants left out for them. Some investigators speculate that spiders and other balloon-riding creatures may control their altitude by trimming the lengths of silk that lift them. At present, however, scientists do not know whether insect wayfarers have anything but the crudest ability to navigate from one habitat to another.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hbnkgaW5zZWN0cyBhcmUgd2luZ2xlc3MsIGF0IGxlYXN0IGluIHRoZWlyIGxhcnZhbCBmb3JtcywgYW5kIG11c3QgZGVwZW5kIGVudGlyZWx5IG9uIHdpbmQgZm9yIHRyYW5zaXQuIFRob3NlIHRoYXQgY2FuIGZseSBoYXZlIG5laXRoZXIgdGhlIG1hc3Mgbm9yIHRoZSBzdHJlbmd0aCB0byBmaWdodCBoZWFkd2luZHMuIFNvIHRoZXkgcmlkZSB0aGUgYnJlZXplLCBwZXJoYXBzIHBhc3NpdmVseSwgcGVyaGFwcyB3aXRoIHNvbWUgcHJlY2lzZSBjb2xsZWN0aXZlIHBsYW4uIEluIGNlcnRhaW4gc3BlY2llcywgaW5kaXZpZHVhbHMgYnVuY2ggdG9nZXRoZXIgbGlrZSBmbG9ja3Mgb2YgYnVkcywgdHVybmluZyBhcyBvbmUgb3JnYW5pc20uIEluIHN0dWRpZXMgY29uZHVjdGVkIGR1cmluZyB0aGUgMTk1MHMsIGFwaGlkcyBjYXJyaWVkIGJ5IHdlc3Qgd2luZHMgZnJvbSB0aGUgaXJyaWdhdGVkIG9hc2lzIG9mIHNvdXRoZXJuIENhbGlmb3JuaWEgaW50byB0aGUgYXJpZCBiYXNpbiBvZiB0aGUgQ29sb3JhZG8gZGVzZXJ0IHNob3dlZCBhbiB1bmNhbm55IGtuYWNrIGZvciBmaW5kaW5nIHBvdHRlZCBhbGZhbGZhIHBsYW50cyBsZWZ0IG91dCBmb3IgdGhlbS4gU29tZSBpbnZlc3RpZ2F0b3JzIHNwZWN1bGF0ZSB0aGF0IHNwaWRlcnMgYW5kIG90aGVyIGJhbGxvb24tcmlkaW5nIGNyZWF0dXJlcyBtYXkgY29udHJvbCB0aGVpciBhbHRpdHVkZSBieSB0cmltbWluZyB0aGUgbGVuZ3RocyBvZiBzaWxrIHRoYXQgbGlmdCB0aGVtLiBBdCBwcmVzZW50LCBob3dldmVyLCBzY2llbnRpc3RzIGRvIG5vdCBrbm93IHdoZXRoZXIgaW5zZWN0IHdheWZhcmVycyBoYXZlIGFueXRoaW5nIGJ1dCB0aGUgY3J1ZGVzdCBhYmlsaXR5IHRvIG5hdmlnYXRlIGZyb20gb25lIGhhYml0YXQgdG8gYW5vdGhlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=36>Until the 1920s researchers were unaware that insects can survive well up into the troposphere (the lowest part of Earth's atmosphere). It had been known for a century that the smallest insects could be easily transported by wind. In 1827 and again in 1924 British Arctic explorers discovered live spruce aphids and syrphid flies on the Norwegian island of Spitsbergen. Apparently they had been carried by wind from Russia, 800 miles away. Monarch butterflies had been observed 500 miles from land over the South Pacific, and once a swarm of migratory locusts was seen over the North Atlantic, 1,500 miles from land. With the spread of tree-destroying European gypsy moth larvae through the eastern United States during the early 1920s, research into the dispersal of insects took on special urgency. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM2PlVudGlsIHRoZSAxOTIwcyByZXNlYXJjaGVycyB3ZXJlIHVuYXdhcmUgdGhhdCBpbnNlY3RzIGNhbiBzdXJ2aXZlIHdlbGwgdXAgaW50byB0aGUgdHJvcG9zcGhlcmUgKHRoZSBsb3dlc3QgcGFydCBvZiBFYXJ0aCdzIGF0bW9zcGhlcmUpLiBJdCBoYWQgYmVlbiBrbm93biBmb3IgYSBjZW50dXJ5IHRoYXQgdGhlIHNtYWxsZXN0IGluc2VjdHMgY291bGQgYmUgZWFzaWx5IHRyYW5zcG9ydGVkIGJ5IHdpbmQuIEluIDE4MjcgYW5kIGFnYWluIGluIDE5MjQgQnJpdGlzaCBBcmN0aWMgZXhwbG9yZXJzIGRpc2NvdmVyZWQgbGl2ZSBzcHJ1Y2UgYXBoaWRzIGFuZCBzeXJwaGlkIGZsaWVzIG9uIHRoZSBOb3J3ZWdpYW4gaXNsYW5kIG9mIFNwaXRzYmVyZ2VuLiBBcHBhcmVudGx5IHRoZXkgaGFkIGJlZW4gY2FycmllZCBieSB3aW5kIGZyb20gUnVzc2lhLCA4MDAgbWlsZXMgYXdheS4gTW9uYXJjaCBidXR0ZXJmbGllcyBoYWQgYmVlbiBvYnNlcnZlZCA1MDAgbWlsZXMgZnJvbSBsYW5kIG92ZXIgdGhlIFNvdXRoIFBhY2lmaWMsIGFuZCBvbmNlIGEgc3dhcm0gb2YgbWlncmF0b3J5IGxvY3VzdHMgd2FzIHNlZW4gb3ZlciB0aGUgTm9ydGggQXRsYW50aWMsIDEsNTAwIG1pbGVzIGZyb20gbGFuZC4gV2l0aCB0aGUgc3ByZWFkIG9mIHRyZWUtZGVzdHJveWluZyBFdXJvcGVhbiBneXBzeSBtb3RoIGxhcnZhZSB0aHJvdWdoIHRoZSBlYXN0ZXJuIFVuaXRlZCBTdGF0ZXMgZHVyaW5nIHRoZSBlYXJseSAxOTIwcywgcmVzZWFyY2ggaW50byB0aGUgZGlzcGVyc2FsIG9mIGluc2VjdHMgdG9vayBvbiBzcGVjaWFsIHVyZ2VuY3kuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 1926 Perry Glick, an entomologist in Louisiana, made a series of flights in which he sampled the fauna of the air with traps made of wire screen mounted on the wings of a small biplane. Few scientists had tried to examine life at such heights, and Glick's study is regarded as a pioneering work. At 200 feet he found a great number and diversity of insects. He caught by far the most when wind velocities were between five and eight miles an hour. Lesser winds seemed to discourage insect flight; greater winds made it nearly impossible.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIDE5MjYgUGVycnkgR2xpY2ssIGFuIGVudG9tb2xvZ2lzdCBpbiBMb3Vpc2lhbmEsIG1hZGUgYSBzZXJpZXMgb2YgZmxpZ2h0cyBpbiB3aGljaCBoZSBzYW1wbGVkIHRoZSBmYXVuYSBvZiB0aGUgYWlyIHdpdGggdHJhcHMgbWFkZSBvZiB3aXJlIHNjcmVlbiBtb3VudGVkIG9uIHRoZSB3aW5ncyBvZiBhIHNtYWxsIGJpcGxhbmUuIEZldyBzY2llbnRpc3RzIGhhZCB0cmllZCB0byBleGFtaW5lIGxpZmUgYXQgc3VjaCBoZWlnaHRzLCBhbmQgR2xpY2sncyBzdHVkeSBpcyByZWdhcmRlZCBhcyBhIHBpb25lZXJpbmcgd29yay4gQXQgMjAwIGZlZXQgaGUgZm91bmQgYSBncmVhdCBudW1iZXIgYW5kIGRpdmVyc2l0eSBvZiBpbnNlY3RzLiBIZSBjYXVnaHQgYnkgZmFyIHRoZSBtb3N0IHdoZW4gd2luZCB2ZWxvY2l0aWVzIHdlcmUgYmV0d2VlbiBmaXZlIGFuZCBlaWdodCBtaWxlcyBhbiBob3VyLiBMZXNzZXIgd2luZHMgc2VlbWVkIHRvIGRpc2NvdXJhZ2UgaW5zZWN0IGZsaWdodDsgZ3JlYXRlciB3aW5kcyBtYWRlIGl0IG5lYXJseSBpbXBvc3NpYmxlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Above 300 feet the in sect population rapidly thinned Nevertheless, Glick found a few spiders and flies as high as 5,000 feet. He never devised an accurate means of measuring the flow of convection currents in the atmosphere. But on days when the plane encountered turbulent air, he <font id=38>caught many more bugs at 1,000 feet</font>, as if strong thermals had tossed them to unusual heights. Over five years Glick trapped 700 identifiable species. <font id=33>In the end he calculated that on any midsummer day the air above each square mile of Louisiana contained more than 14 million insects. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFib3ZlIDMwMCBmZWV0IHRoZSBpbiBzZWN0IHBvcHVsYXRpb24gcmFwaWRseSB0aGlubmVkIE5ldmVydGhlbGVzcywgR2xpY2sgZm91bmQgYSBmZXcgc3BpZGVycyBhbmQgZmxpZXMgYXMgaGlnaCBhcyA1LDAwMCBmZWV0LiBIZSBuZXZlciBkZXZpc2VkIGFuIGFjY3VyYXRlIG1lYW5zIG9mIG1lYXN1cmluZyB0aGUgZmxvdyBvZiBjb252ZWN0aW9uIGN1cnJlbnRzIGluIHRoZSBhdG1vc3BoZXJlLiBCdXQgb24gZGF5cyB3aGVuIHRoZSBwbGFuZSBlbmNvdW50ZXJlZCB0dXJidWxlbnQgYWlyLCBoZSA8Zm9udCBpZD0zOD5jYXVnaHQgbWFueSBtb3JlIGJ1Z3MgYXQgMSwwMDAgZmVldDwvZm9udD4sIGFzIGlmIHN0cm9uZyB0aGVybWFscyBoYWQgdG9zc2VkIHRoZW0gdG8gdW51c3VhbCBoZWlnaHRzLiBPdmVyIGZpdmUgeWVhcnMgR2xpY2sgdHJhcHBlZCA3MDAgaWRlbnRpZmlhYmxlIHNwZWNpZXMuIDxmb250IGlkPTMzPkluIHRoZSBlbmQgaGUgY2FsY3VsYXRlZCB0aGF0IG9uIGFueSBtaWRzdW1tZXIgZGF5IHRoZSBhaXIgYWJvdmUgZWFjaCBzcXVhcmUgbWlsZSBvZiBMb3Vpc2lhbmEgY29udGFpbmVkIG1vcmUgdGhhbiAxNCBtaWxsaW9uIGluc2VjdHMuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many insects travel at night, presumably to avoid the upper-air turbulence caused by convection Most individuals migrate no more than five miles over the course of their lives. Only a few species embark on lengthy seasonal movements, and then largely because of their proximity to favorable avenues of wind. Monarch butterflies, migrating from the eastern United States to their overwintering grounds in Mexico, follow routes that parallel the major flyways used by birds. In the North American interior and in northern China and Japan (all regions where winters tend to be particularly severe), certain butterfly species ride jets of warm air north with the coming of spring.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hbnkgaW5zZWN0cyB0cmF2ZWwgYXQgbmlnaHQsIHByZXN1bWFibHkgdG8gYXZvaWQgdGhlIHVwcGVyLWFpciB0dXJidWxlbmNlIGNhdXNlZCBieSBjb252ZWN0aW9uIE1vc3QgaW5kaXZpZHVhbHMgbWlncmF0ZSBubyBtb3JlIHRoYW4gZml2ZSBtaWxlcyBvdmVyIHRoZSBjb3Vyc2Ugb2YgdGhlaXIgbGl2ZXMuIE9ubHkgYSBmZXcgc3BlY2llcyBlbWJhcmsgb24gbGVuZ3RoeSBzZWFzb25hbCBtb3ZlbWVudHMsIGFuZCB0aGVuIGxhcmdlbHkgYmVjYXVzZSBvZiB0aGVpciBwcm94aW1pdHkgdG8gZmF2b3JhYmxlIGF2ZW51ZXMgb2Ygd2luZC4gTW9uYXJjaCBidXR0ZXJmbGllcywgbWlncmF0aW5nIGZyb20gdGhlIGVhc3Rlcm4gVW5pdGVkIFN0YXRlcyB0byB0aGVpciBvdmVyd2ludGVyaW5nIGdyb3VuZHMgaW4gTWV4aWNvLCBmb2xsb3cgcm91dGVzIHRoYXQgcGFyYWxsZWwgdGhlIG1ham9yIGZseXdheXMgdXNlZCBieSBiaXJkcy4gSW4gdGhlIE5vcnRoIEFtZXJpY2FuIGludGVyaW9yIGFuZCBpbiBub3J0aGVybiBDaGluYSBhbmQgSmFwYW4gKGFsbCByZWdpb25zIHdoZXJlIHdpbnRlcnMgdGVuZCB0byBiZSBwYXJ0aWN1bGFybHkgc2V2ZXJlKSwgY2VydGFpbiBidXR0ZXJmbHkgc3BlY2llcyByaWRlIGpldHMgb2Ygd2FybSBhaXIgbm9ydGggd2l0aCB0aGUgY29taW5nIG9mIHNwcmluZy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31. The main purpose of the passage is to:
-<div class = "choice">A. document insects' reliance on wind for transport.</div>
-<div class = "choice">B. discuss the dangers wind can pose for insects.</div>
-<div class = "choice">C. provide data on the seasonal migrations of windborne insects.</div>
-<div class = "choice">D. describe the research techniques of scientists studying insects.</div>
-</div>
-###################
-<div class = "quiz">32. It can reasonably be inferred that the most important and intense research into insects and insect dispersal occurred in which of the following decades?
-<div class = "choice">F. 1820s</div>
-<div class = "choice">G. 1870s</div>
-<div class = "choice">H. 1920s</div>
-<div class = "choice">J. 1950s</div>
-</div>
-###################
-<div class = "quiz">33. As presented in the passage, the statement in lines 71—73 is best characterized as:
-<div class = "choice">A. a fact based on a full count of insects in one square mile of air above Louisiana.</div>
-<div class = "choice">B. speculation based on nearly a year's study of the insect population in Louisiana.</div>
-<div class = "choice">C. an estimate based on extensive sampling at varying altitudes.</div>
-<div class = "choice">D. a hypothesis based on the work of Glick and other scientists who came after him.</div>
-</div>
-###################
-<div class = "quiz">34. The author uses the information in parentheses in lines 4—9 primarily to:
-<div class = "choice">F. undermine some scientists' claim that wind has a benign, convective form.</div>
-<div class = "choice">G. suggest that biologists are divided over whether insects can pick times to travel.</div>
-<div class = "choice">H. support her assertion that wind affects the lives of trillions of insects every day.</div>
-<div class = "choice">J. prevent readers from misinterpreting her claim that wind scatters insects widely.</div>
-</div>
-###################
-<div class = "quiz">35. Based on the passage, some scientists speculate that compared to many insects, spiders may be:
-<div class = "choice">A. better able to control their travel by wind.</div>
-<div class = "choice">B. less interested in eating alfalfa plants.</div>
-<div class = "choice">C. more inclined to bunch together.</div>
-<div class = "choice">D. less able to fight headwinds.</div>
-</div>
-###################
-<div class = "quiz">36. The main purpose of the third paragraph (lines 37-52) is to:
-<div class = "choice">F. suggest the need for research into highly destructive insect species transported by wind.</div>
-<div class = "choice">G. chronicle a century of insect-related discoveries made by Arctic explorers.</div>
-<div class = "choice">H. trace the typical geographical range of insects such as monarch butterflies and locusts.</div>
-<div class = "choice">J. offer several examples highlighting the power of wind to transport insects.</div>
-</div>
-###################
-<div class = "quiz">37. Suppose that a scientist were exactly repeating Glick's experiments as described in the passage. Under which of the following conditions would the scientist reasonably expect to find the most insects?
-<div class = "choice">A. At 210 feet with a 7 mph wind</div>
-<div class = "choice">B. At 230 feet with a 12 mph wind</div>
-<div class = "choice">C. At 240 feet with no measurable wind</div>
-<div class = "choice">D. At 310 feet with a 6 mph wind</div>
-</div>
-###################
-<div class = "quiz">38. Based on the passage, how should the claim that Glick "caught many more bugs at l,000 feet" (lines 68—69) most likely be read?
-<div class = "choice">F. Glick found many more insects at l,000 feet than he ever did at 200 feet.</div>
-<div class = "choice">G. Under turbulent conditions, Glick found more insects at 1,000 feet than he normally did.</div>
-<div class = "choice">H. Glick found many insects at l,000 feet when his biplane was accidentally tossed to unusual heights.</div>
-<div class = "choice">J. Strong thermals at l,000 feet enabled Glick to trap 700 identifiable insect species.</div>
-</div>
-###################
-<div class = "quiz">39. The passage identifies which of the following as a limitation to Glick's research?
-<div class = "choice">A. His use of a small biplane to gather insect samples</div>
-<div class = "choice">B. His failure to conduct research at night, the time when most insects travel</div>
-<div class = "choice">C. His inability to measure accurately the flow of atmospheric convection currents</div>
-<div class = "choice">D. His narrow focus on studying Louisiana</div>
-</div>
-###################
-<div class = "quiz">40. The author most nearly characterizes the type of seasonal migration made by monarch butterflies as:
-<div class = "choice">F. unusual among insects.</div>
-<div class = "choice">G. typical among butterflies.</div>
-<div class = "choice">H. common for North American insects.</div>
-<div class = "choice">J. uncommon for day-traveling butterflies such as monarchs.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgcGFzc2FnZSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRvY3VtZW50IGluc2VjdHMnIHJlbGlhbmNlIG9uIHdpbmQgZm9yIHRyYW5zcG9ydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRpc2N1c3MgdGhlIGRhbmdlcnMgd2luZCBjYW4gcG9zZSBmb3IgaW5zZWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByb3ZpZGUgZGF0YSBvbiB0aGUgc2Vhc29uYWwgbWlncmF0aW9ucyBvZiB3aW5kYm9ybmUgaW5zZWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJlIHRoZSByZXNlYXJjaCB0ZWNobmlxdWVzIG9mIHNjaWVudGlzdHMgc3R1ZHlpbmcgaW5zZWN0cy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgbW9zdCBpbXBvcnRhbnQgYW5kIGludGVuc2UgcmVzZWFyY2ggaW50byBpbnNlY3RzIGFuZCBpbnNlY3QgZGlzcGVyc2FsIG9jY3VycmVkIGluIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZGVjYWRlcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDE4MjBzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDE4NzBzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE5MjBzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDE5NTBzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQXMgcHJlc2VudGVkIGluIHRoZSBwYXNzYWdlLCB0aGUgc3RhdGVtZW50IGluIGxpbmVzIDcx4oA/NzMgaXMgYmVzdCBjaGFyYWN0ZXJpemVkIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgZmFjdCBiYXNlZCBvbiBhIGZ1bGwgY291bnQgb2YgaW5zZWN0cyBpbiBvbmUgc3F1YXJlIG1pbGUgb2YgYWlyIGFib3ZlIExvdWlzaWFuYS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNwZWN1bGF0aW9uIGJhc2VkIG9uIG5lYXJseSBhIHllYXIncyBzdHVkeSBvZiB0aGUgaW5zZWN0IHBvcHVsYXRpb24gaW4gTG91aXNpYW5hLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGVzdGltYXRlIGJhc2VkIG9uIGV4dGVuc2l2ZSBzYW1wbGluZyBhdCB2YXJ5aW5nIGFsdGl0dWRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgaHlwb3RoZXNpcyBiYXNlZCBvbiB0aGUgd29yayBvZiBHbGljayBhbmQgb3RoZXIgc2NpZW50aXN0cyB3aG8gY2FtZSBhZnRlciBoaW0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIGF1dGhvciB1c2VzIHRoZSBpbmZvcm1hdGlvbiBpbiBwYXJlbnRoZXNlcyBpbiBsaW5lcyA04oA/OSBwcmltYXJpbHkgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVuZGVybWluZSBzb21lIHNjaWVudGlzdHMnIGNsYWltIHRoYXQgd2luZCBoYXMgYSBiZW5pZ24sIGNvbnZlY3RpdmUgZm9ybS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1Z2dlc3QgdGhhdCBiaW9sb2dpc3RzIGFyZSBkaXZpZGVkIG92ZXIgd2hldGhlciBpbnNlY3RzIGNhbiBwaWNrIHRpbWVzIHRvIHRyYXZlbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN1cHBvcnQgaGVyIGFzc2VydGlvbiB0aGF0IHdpbmQgYWZmZWN0cyB0aGUgbGl2ZXMgb2YgdHJpbGxpb25zIG9mIGluc2VjdHMgZXZlcnkgZGF5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByZXZlbnQgcmVhZGVycyBmcm9tIG1pc2ludGVycHJldGluZyBoZXIgY2xhaW0gdGhhdCB3aW5kIHNjYXR0ZXJzIGluc2VjdHMgd2lkZWx5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHNvbWUgc2NpZW50aXN0cyBzcGVjdWxhdGUgdGhhdCBjb21wYXJlZCB0byBtYW55IGluc2VjdHMsIHNwaWRlcnMgbWF5IGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGJldHRlciBhYmxlIHRvIGNvbnRyb2wgdGhlaXIgdHJhdmVsIGJ5IHdpbmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3MgaW50ZXJlc3RlZCBpbiBlYXRpbmcgYWxmYWxmYSBwbGFudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmUgaW5jbGluZWQgdG8gYnVuY2ggdG9nZXRoZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxlc3MgYWJsZSB0byBmaWdodCBoZWFkd2luZHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgdGhpcmQgcGFyYWdyYXBoIChsaW5lcyAzNy01MikgaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHN1Z2dlc3QgdGhlIG5lZWQgZm9yIHJlc2VhcmNoIGludG8gaGlnaGx5IGRlc3RydWN0aXZlIGluc2VjdCBzcGVjaWVzIHRyYW5zcG9ydGVkIGJ5IHdpbmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNocm9uaWNsZSBhIGNlbnR1cnkgb2YgaW5zZWN0LXJlbGF0ZWQgZGlzY292ZXJpZXMgbWFkZSBieSBBcmN0aWMgZXhwbG9yZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRyYWNlIHRoZSB0eXBpY2FsIGdlb2dyYXBoaWNhbCByYW5nZSBvZiBpbnNlY3RzIHN1Y2ggYXMgbW9uYXJjaCBidXR0ZXJmbGllcyBhbmQgbG9jdXN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG9mZmVyIHNldmVyYWwgZXhhbXBsZXMgaGlnaGxpZ2h0aW5nIHRoZSBwb3dlciBvZiB3aW5kIHRvIHRyYW5zcG9ydCBpbnNlY3RzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gU3VwcG9zZSB0aGF0IGEgc2NpZW50aXN0IHdlcmUgZXhhY3RseSByZXBlYXRpbmcgR2xpY2sncyBleHBlcmltZW50cyBhcyBkZXNjcmliZWQgaW4gdGhlIHBhc3NhZ2UuIFVuZGVyIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY29uZGl0aW9ucyB3b3VsZCB0aGUgc2NpZW50aXN0IHJlYXNvbmFibHkgZXhwZWN0IHRvIGZpbmQgdGhlIG1vc3QgaW5zZWN0cz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEF0IDIxMCBmZWV0IHdpdGggYSA3IG1waCB3aW5kPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEF0IDIzMCBmZWV0IHdpdGggYSAxMiBtcGggd2luZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEF0IDI0MCBmZWV0IHdpdGggbm8gbWVhc3VyYWJsZSB3aW5kPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEF0IDMxMCBmZWV0IHdpdGggYSA2IG1waCB3aW5kPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIGhvdyBzaG91bGQgdGhlIGNsYWltIHRoYXQgR2xpY2sgImNhdWdodCBtYW55IG1vcmUgYnVncyBhdCBsLDAwMCBmZWV0IiAobGluZXMgNjjigD82OSkgbW9zdCBsaWtlbHkgYmUgcmVhZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEdsaWNrIGZvdW5kIG1hbnkgbW9yZSBpbnNlY3RzIGF0IGwsMDAwIGZlZXQgdGhhbiBoZSBldmVyIGRpZCBhdCAyMDAgZmVldC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFVuZGVyIHR1cmJ1bGVudCBjb25kaXRpb25zLCBHbGljayBmb3VuZCBtb3JlIGluc2VjdHMgYXQgMSwwMDAgZmVldCB0aGFuIGhlIG5vcm1hbGx5IGRpZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEdsaWNrIGZvdW5kIG1hbnkgaW5zZWN0cyBhdCBsLDAwMCBmZWV0IHdoZW4gaGlzIGJpcGxhbmUgd2FzIGFjY2lkZW50YWxseSB0b3NzZWQgdG8gdW51c3VhbCBoZWlnaHRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFN0cm9uZyB0aGVybWFscyBhdCBsLDAwMCBmZWV0IGVuYWJsZWQgR2xpY2sgdG8gdHJhcCA3MDAgaWRlbnRpZmlhYmxlIGluc2VjdCBzcGVjaWVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gVGhlIHBhc3NhZ2UgaWRlbnRpZmllcyB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGFzIGEgbGltaXRhdGlvbiB0byBHbGljaydzIHJlc2VhcmNoPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEhpcyB1c2Ugb2YgYSBzbWFsbCBiaXBsYW5lIHRvIGdhdGhlciBpbnNlY3Qgc2FtcGxlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEhpcyBmYWlsdXJlIHRvIGNvbmR1Y3QgcmVzZWFyY2ggYXQgbmlnaHQsIHRoZSB0aW1lIHdoZW4gbW9zdCBpbnNlY3RzIHRyYXZlbDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEhpcyBpbmFiaWxpdHkgdG8gbWVhc3VyZSBhY2N1cmF0ZWx5IHRoZSBmbG93IG9mIGF0bW9zcGhlcmljIGNvbnZlY3Rpb24gY3VycmVudHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEhpcyBuYXJyb3cgZm9jdXMgb24gc3R1ZHlpbmcgTG91aXNpYW5hPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gVGhlIGF1dGhvciBtb3N0IG5lYXJseSBjaGFyYWN0ZXJpemVzIHRoZSB0eXBlIG9mIHNlYXNvbmFsIG1pZ3JhdGlvbiBtYWRlIGJ5IG1vbmFyY2ggYnV0dGVyZmxpZXMgYXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVudXN1YWwgYW1vbmcgaW5zZWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHR5cGljYWwgYW1vbmcgYnV0dGVyZmxpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbW1vbiBmb3IgTm9ydGggQW1lcmljYW4gaW5zZWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHVuY29tbW9uIGZvciBkYXktdHJhdmVsaW5nIGJ1dHRlcmZsaWVzIHN1Y2ggYXMgbW9uYXJjaHMuPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,95 +1,95 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the book Tree Bark: A Color Guide by Hugues Vaucher, translated and edited by James E. Eckenwalder (○C2003 by Timber Press, Inc.).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bark makes up 6-22% as much of the bulk of tree trunks as the wood. In many lumber mills, bark has often been discarded as waste or burned in the open air. This poses a big problem in terms of groundwater contamination and air pollution. The exploitation of bark takes advantage of its three most important properties: its energy content, which is about the same as that of wood: its low density; and the diverse cellular contents. These physical properties and the high concentration of chemical cell contents explain the diverse potential uses for bark.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBib29rIFRyZWUgQmFyazogQSBDb2xvciBHdWlkZSBieSBIdWd1ZXMgVmF1Y2hlciwgdHJhbnNsYXRlZCBhbmQgZWRpdGVkIGJ5IEphbWVzIEUuIEVja2Vud2FsZGVyICjil4tDMjAwMyBieSBUaW1iZXIgUHJlc3MsIEluYy4pLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJhcmsgbWFrZXMgdXAgNi0yMiUgYXMgbXVjaCBvZiB0aGUgYnVsayBvZiB0cmVlIHRydW5rcyBhcyB0aGUgd29vZC4gSW4gbWFueSBsdW1iZXIgbWlsbHMsIGJhcmsgaGFzIG9mdGVuIGJlZW4gZGlzY2FyZGVkIGFzIHdhc3RlIG9yIGJ1cm5lZCBpbiB0aGUgb3BlbiBhaXIuIFRoaXMgcG9zZXMgYSBiaWcgcHJvYmxlbSBpbiB0ZXJtcyBvZiBncm91bmR3YXRlciBjb250YW1pbmF0aW9uIGFuZCBhaXIgcG9sbHV0aW9uLiBUaGUgZXhwbG9pdGF0aW9uIG9mIGJhcmsgdGFrZXMgYWR2YW50YWdlIG9mIGl0cyB0aHJlZSBtb3N0IGltcG9ydGFudCBwcm9wZXJ0aWVzOiBpdHMgZW5lcmd5IGNvbnRlbnQsIHdoaWNoIGlzIGFib3V0IHRoZSBzYW1lIGFzIHRoYXQgb2Ygd29vZDogaXRzIGxvdyBkZW5zaXR5OyBhbmQgdGhlIGRpdmVyc2UgY2VsbHVsYXIgY29udGVudHMuIFRoZXNlIHBoeXNpY2FsIHByb3BlcnRpZXMgYW5kIHRoZSBoaWdoIGNvbmNlbnRyYXRpb24gb2YgY2hlbWljYWwgY2VsbCBjb250ZW50cyBleHBsYWluIHRoZSBkaXZlcnNlIHBvdGVudGlhbCB1c2VzIGZvciBiYXJrLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Cork oak (Quercus suber) is virtually without parallel among trees. It is the only one that is exploited industrially and exclusively for its bark: cork, a raw material whose properties are nearly impossible to duplicate artificially. This tree of the Mediterranean countries and of the adjacent Atlantic coasts is cultivated principally in Portugal, which with 330-440 million pounds per year provides 50% of world production. Portugal has more than l.8 million acres of cork oaks under cultivation. Next come Spain, Algeria, Morocco, France, Italy, and Tunisia.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNvcmsgb2FrIChRdWVyY3VzIHN1YmVyKSBpcyB2aXJ0dWFsbHkgd2l0aG91dCBwYXJhbGxlbCBhbW9uZyB0cmVlcy4gSXQgaXMgdGhlIG9ubHkgb25lIHRoYXQgaXMgZXhwbG9pdGVkIGluZHVzdHJpYWxseSBhbmQgZXhjbHVzaXZlbHkgZm9yIGl0cyBiYXJrOiBjb3JrLCBhIHJhdyBtYXRlcmlhbCB3aG9zZSBwcm9wZXJ0aWVzIGFyZSBuZWFybHkgaW1wb3NzaWJsZSB0byBkdXBsaWNhdGUgYXJ0aWZpY2lhbGx5LiBUaGlzIHRyZWUgb2YgdGhlIE1lZGl0ZXJyYW5lYW4gY291bnRyaWVzIGFuZCBvZiB0aGUgYWRqYWNlbnQgQXRsYW50aWMgY29hc3RzIGlzIGN1bHRpdmF0ZWQgcHJpbmNpcGFsbHkgaW4gUG9ydHVnYWwsIHdoaWNoIHdpdGggMzMwLTQ0MCBtaWxsaW9uIHBvdW5kcyBwZXIgeWVhciBwcm92aWRlcyA1MCUgb2Ygd29ybGQgcHJvZHVjdGlvbi4gUG9ydHVnYWwgaGFzIG1vcmUgdGhhbiBsLjggbWlsbGlvbiBhY3JlcyBvZiBjb3JrIG9ha3MgdW5kZXIgY3VsdGl2YXRpb24uIE5leHQgY29tZSBTcGFpbiwgQWxnZXJpYSwgTW9yb2NjbywgRnJhbmNlLCBJdGFseSwgYW5kIFR1bmlzaWEuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A standardized procedure is used for harvesting cork. When the cork oak reaches the age of 20-25 years and its trunk measures about 12 inches in diameter, it can be debarked (or stripped) for the first time. The virgin cork from this harvest is of low quality and is generally only used for granulated cork. After another 8-10 years, the cork will have regrown to a thickness of   inches. The second harvest can then proceed, and thenceforth every 8-10 years to an age of 130-150 years if the tree holds up well and grows in favorable climatic conditions. Trees that are not subjected to this harvesting regime can live 300-400 years!</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgc3RhbmRhcmRpemVkIHByb2NlZHVyZSBpcyB1c2VkIGZvciBoYXJ2ZXN0aW5nIGNvcmsuIFdoZW4gdGhlIGNvcmsgb2FrIHJlYWNoZXMgdGhlIGFnZSBvZiAyMC0yNSB5ZWFycyBhbmQgaXRzIHRydW5rIG1lYXN1cmVzIGFib3V0IDEyIGluY2hlcyBpbiBkaWFtZXRlciwgaXQgY2FuIGJlIGRlYmFya2VkIChvciBzdHJpcHBlZCkgZm9yIHRoZSBmaXJzdCB0aW1lLiBUaGUgdmlyZ2luIGNvcmsgZnJvbSB0aGlzIGhhcnZlc3QgaXMgb2YgbG93IHF1YWxpdHkgYW5kIGlzIGdlbmVyYWxseSBvbmx5IHVzZWQgZm9yIGdyYW51bGF0ZWQgY29yay4gQWZ0ZXIgYW5vdGhlciA4LTEwIHllYXJzLCB0aGUgY29yayB3aWxsIGhhdmUgcmVncm93biB0byBhIHRoaWNrbmVzcyBvZiAgIGluY2hlcy4gVGhlIHNlY29uZCBoYXJ2ZXN0IGNhbiB0aGVuIHByb2NlZWQsIGFuZCB0aGVuY2Vmb3J0aCBldmVyeSA4LTEwIHllYXJzIHRvIGFuIGFnZSBvZiAxMzAtMTUwIHllYXJzIGlmIHRoZSB0cmVlIGhvbGRzIHVwIHdlbGwgYW5kIGdyb3dzIGluIGZhdm9yYWJsZSBjbGltYXRpYyBjb25kaXRpb25zLiBUcmVlcyB0aGF0IGFyZSBub3Qgc3ViamVjdGVkIHRvIHRoaXMgaGFydmVzdGluZyByZWdpbWUgY2FuIGxpdmUgMzAwLTQwMCB5ZWFycyE8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The uniqueness of the cork oak lies in the great ease with which the outer bark (cork and rhytidome) can be separated from the inner bark (bast), preserving the living part that produces the cork. The art of stripping, which is carried out from mid-June to mid-August (while the sap is rising), lies in making longitudinal and then horizontal cuts on the trunk in order to release strips or sheets without damaging the inner bark. Thus the growth of cork can resume without initiating faults in the new cork. The living bark, which is reddish yellow after debarking, gradually turns ochre thereafter, then brownish red over the course of weeks, and finally blackish gray after about a year.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB1bmlxdWVuZXNzIG9mIHRoZSBjb3JrIG9hayBsaWVzIGluIHRoZSBncmVhdCBlYXNlIHdpdGggd2hpY2ggdGhlIG91dGVyIGJhcmsgKGNvcmsgYW5kIHJoeXRpZG9tZSkgY2FuIGJlIHNlcGFyYXRlZCBmcm9tIHRoZSBpbm5lciBiYXJrIChiYXN0KSwgcHJlc2VydmluZyB0aGUgbGl2aW5nIHBhcnQgdGhhdCBwcm9kdWNlcyB0aGUgY29yay4gVGhlIGFydCBvZiBzdHJpcHBpbmcsIHdoaWNoIGlzIGNhcnJpZWQgb3V0IGZyb20gbWlkLUp1bmUgdG8gbWlkLUF1Z3VzdCAod2hpbGUgdGhlIHNhcCBpcyByaXNpbmcpLCBsaWVzIGluIG1ha2luZyBsb25naXR1ZGluYWwgYW5kIHRoZW4gaG9yaXpvbnRhbCBjdXRzIG9uIHRoZSB0cnVuayBpbiBvcmRlciB0byByZWxlYXNlIHN0cmlwcyBvciBzaGVldHMgd2l0aG91dCBkYW1hZ2luZyB0aGUgaW5uZXIgYmFyay4gVGh1cyB0aGUgZ3Jvd3RoIG9mIGNvcmsgY2FuIHJlc3VtZSB3aXRob3V0IGluaXRpYXRpbmcgZmF1bHRzIGluIHRoZSBuZXcgY29yay4gVGhlIGxpdmluZyBiYXJrLCB3aGljaCBpcyByZWRkaXNoIHllbGxvdyBhZnRlciBkZWJhcmtpbmcsIGdyYWR1YWxseSB0dXJucyBvY2hyZSB0aGVyZWFmdGVyLCB0aGVuIGJyb3duaXNoIHJlZCBvdmVyIHRoZSBjb3Vyc2Ugb2Ygd2Vla3MsIGFuZCBmaW5hbGx5IGJsYWNraXNoIGdyYXkgYWZ0ZXIgYWJvdXQgYSB5ZWFyLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although cork is a dead bark, it should be considered a noble plant material since its intrinsic properties are numerous and irreplaceable by any single synthetic material of the same cost. The qualities of cork can be summarized as follows: lightness (density of 0.15-0.25 ), good resistance to compression and bending, good elasticity, great capacity to absorb vibration, very high coefficient of friction, low coefficient of swelling, very low heat conduction, inertness to chemical agents and to boiling in water (212oF), very good resistance to absorption, impermeability to moisture, excellent durability and freedom from decay, nearly noninflammable, good coefficient of noise absorption, and handsome appearance, permitting its use for decorative articles.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIGNvcmsgaXMgYSBkZWFkIGJhcmssIGl0IHNob3VsZCBiZSBjb25zaWRlcmVkIGEgbm9ibGUgcGxhbnQgbWF0ZXJpYWwgc2luY2UgaXRzIGludHJpbnNpYyBwcm9wZXJ0aWVzIGFyZSBudW1lcm91cyBhbmQgaXJyZXBsYWNlYWJsZSBieSBhbnkgc2luZ2xlIHN5bnRoZXRpYyBtYXRlcmlhbCBvZiB0aGUgc2FtZSBjb3N0LiBUaGUgcXVhbGl0aWVzIG9mIGNvcmsgY2FuIGJlIHN1bW1hcml6ZWQgYXMgZm9sbG93czogbGlnaHRuZXNzIChkZW5zaXR5IG9mIDAuMTUtMC4yNSApLCBnb29kIHJlc2lzdGFuY2UgdG8gY29tcHJlc3Npb24gYW5kIGJlbmRpbmcsIGdvb2QgZWxhc3RpY2l0eSwgZ3JlYXQgY2FwYWNpdHkgdG8gYWJzb3JiIHZpYnJhdGlvbiwgdmVyeSBoaWdoIGNvZWZmaWNpZW50IG9mIGZyaWN0aW9uLCBsb3cgY29lZmZpY2llbnQgb2Ygc3dlbGxpbmcsIHZlcnkgbG93IGhlYXQgY29uZHVjdGlvbiwgaW5lcnRuZXNzIHRvIGNoZW1pY2FsIGFnZW50cyBhbmQgdG8gYm9pbGluZyBpbiB3YXRlciAoMjEyb0YpLCB2ZXJ5IGdvb2QgcmVzaXN0YW5jZSB0byBhYnNvcnB0aW9uLCBpbXBlcm1lYWJpbGl0eSB0byBtb2lzdHVyZSwgZXhjZWxsZW50IGR1cmFiaWxpdHkgYW5kIGZyZWVkb20gZnJvbSBkZWNheSwgbmVhcmx5IG5vbmluZmxhbW1hYmxlLCBnb29kIGNvZWZmaWNpZW50IG9mIG5vaXNlIGFic29ycHRpb24sIGFuZCBoYW5kc29tZSBhcHBlYXJhbmNlLCBwZXJtaXR0aW5nIGl0cyB1c2UgZm9yIGRlY29yYXRpdmUgYXJ0aWNsZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The industrial and s mall-scale applications of cork are as varied as they are numerous. Its most familiar use is as stoppers (corks) for bottles. However, the largest volume of cork consumed by industry actually goes into the manufacture of cork aggregate sound-proofing panels and cork tiles used as flooring in private homes, public buildings, factories, sports halls, etc. Significant quantities of cork are also used to make sheets of various thicknesses that are used in light carpentry and for interior decoration.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpbmR1c3RyaWFsIGFuZCBzIG1hbGwtc2NhbGUgYXBwbGljYXRpb25zIG9mIGNvcmsgYXJlIGFzIHZhcmllZCBhcyB0aGV5IGFyZSBudW1lcm91cy4gSXRzIG1vc3QgZmFtaWxpYXIgdXNlIGlzIGFzIHN0b3BwZXJzIChjb3JrcykgZm9yIGJvdHRsZXMuIEhvd2V2ZXIsIHRoZSBsYXJnZXN0IHZvbHVtZSBvZiBjb3JrIGNvbnN1bWVkIGJ5IGluZHVzdHJ5IGFjdHVhbGx5IGdvZXMgaW50byB0aGUgbWFudWZhY3R1cmUgb2YgY29yayBhZ2dyZWdhdGUgc291bmQtcHJvb2ZpbmcgcGFuZWxzIGFuZCBjb3JrIHRpbGVzIHVzZWQgYXMgZmxvb3JpbmcgaW4gcHJpdmF0ZSBob21lcywgcHVibGljIGJ1aWxkaW5ncywgZmFjdG9yaWVzLCBzcG9ydHMgaGFsbHMsIGV0Yy4gU2lnbmlmaWNhbnQgcXVhbnRpdGllcyBvZiBjb3JrIGFyZSBhbHNvIHVzZWQgdG8gbWFrZSBzaGVldHMgb2YgdmFyaW91cyB0aGlja25lc3NlcyB0aGF0IGFyZSB1c2VkIGluIGxpZ2h0IGNhcnBlbnRyeSBhbmQgZm9yIGludGVyaW9yIGRlY29yYXRpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The list of products that are made wholly or partly of cork is impressive. We can cite, in no particular order: floats for fishnets; life preservers; antvibration blocks for machinery; insulation for appliances, including refrigerators; parts for toys; linings for carrying cases; blocks for printing on bags, fabrics, or wallpaper; tabletops, trays, and cork boards; model making by sculptors and architects; boxes and decorative objects sculpted from cork: insulating covers; polishing wheels for the glass industry; articles for sports, education, and handicrafts; protective packing material for fragile commodities; parts for footwear, clogs, and orthopedic devices; etc. One could also mention the aerospace industry, which uses cork for its qualities of lightness coupled with good thermal insulation.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBsaXN0IG9mIHByb2R1Y3RzIHRoYXQgYXJlIG1hZGUgd2hvbGx5IG9yIHBhcnRseSBvZiBjb3JrIGlzIGltcHJlc3NpdmUuIFdlIGNhbiBjaXRlLCBpbiBubyBwYXJ0aWN1bGFyIG9yZGVyOiBmbG9hdHMgZm9yIGZpc2huZXRzOyBsaWZlIHByZXNlcnZlcnM7IGFudHZpYnJhdGlvbiBibG9ja3MgZm9yIG1hY2hpbmVyeTsgaW5zdWxhdGlvbiBmb3IgYXBwbGlhbmNlcywgaW5jbHVkaW5nIHJlZnJpZ2VyYXRvcnM7IHBhcnRzIGZvciB0b3lzOyBsaW5pbmdzIGZvciBjYXJyeWluZyBjYXNlczsgYmxvY2tzIGZvciBwcmludGluZyBvbiBiYWdzLCBmYWJyaWNzLCBvciB3YWxscGFwZXI7IHRhYmxldG9wcywgdHJheXMsIGFuZCBjb3JrIGJvYXJkczsgbW9kZWwgbWFraW5nIGJ5IHNjdWxwdG9ycyBhbmQgYXJjaGl0ZWN0czsgYm94ZXMgYW5kIGRlY29yYXRpdmUgb2JqZWN0cyBzY3VscHRlZCBmcm9tIGNvcms6IGluc3VsYXRpbmcgY292ZXJzOyBwb2xpc2hpbmcgd2hlZWxzIGZvciB0aGUgZ2xhc3MgaW5kdXN0cnk7IGFydGljbGVzIGZvciBzcG9ydHMsIGVkdWNhdGlvbiwgYW5kIGhhbmRpY3JhZnRzOyBwcm90ZWN0aXZlIHBhY2tpbmcgbWF0ZXJpYWwgZm9yIGZyYWdpbGUgY29tbW9kaXRpZXM7IHBhcnRzIGZvciBmb290d2VhciwgY2xvZ3MsIGFuZCBvcnRob3BlZGljIGRldmljZXM7IGV0Yy4gT25lIGNvdWxkIGFsc28gbWVudGlvbiB0aGUgYWVyb3NwYWNlIGluZHVzdHJ5LCB3aGljaCB1c2VzIGNvcmsgZm9yIGl0cyBxdWFsaXRpZXMgb2YgbGlnaHRuZXNzIGNvdXBsZWQgd2l0aCBnb29kIHRoZXJtYWwgaW5zdWxhdGlvbi48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">11. Which of the following qualities does the author NOT attribute to cork?
-<div class = "choice">A. Good resistance to compression</div>
-<div class = "choice">B. Excellent durability</div>
-<div class = "choice">C. Handsome appearance</div>
-<div class = "choice">D. Very good absorption of water</div>
-</div>
-###################
-<div class = "quiz">12. Which of the following phrases best describes what the last paragraph adds to the passage?
-<div class = "choice">F. A list of the ways the author's company has used cork over the last twenty years</div>
-<div class = "choice">G. A summary of the information provided in the rest of the passage</div>
-<div class = "choice">H. A list of cork products manufactured for use in a wide range of settings</div>
-<div class = "choice">J. A list of the ways cork has been used, combined with a list of its potential uses</div>
-</div>
-###################
-<div class = "quiz">13. In the first paragraph, bark is described as being a part of the tree that is distinct from the tree's:
-<div class = "choice">A. trunk.</div>
-<div class = "choice">B. wood.</div>
-<div class = "choice">C. bulk.</div>
-<div class = "choice">D. energy content.</div>
-</div>
-###################
-<div class = "quiz">14. According to the passage, the three most important qualities of bark are:
-<div class = "choice">F. freedom from decay, inflammability, and high capacity for noise absorption.</div>
-<div class = "choice">G. color, thickness, and density.</div>
-<div class = "choice">H. energy content, low density, and diverse cellular contents.</div>
-<div class = "choice">J. sap content, age, and durability.</div>
-</div>
-###################
-<div class = "quiz">15. Which of the following statements about cork production in Portugal is supported by the passage?
-<div class = "choice">A. Portugal has more than 440 million acres of cork oaks under cultivation.</div>
-<div class = "choice">B. Portugal produces as much cork as Algeria but not as much as Morocco.</div>
-<div class = "choice">C. Portugal is the biggest consumer of cork.</div>
-<div class = "choice">D. Portugal produces half the world's cork.</div>
-</div>
-###################
-<div class = "quiz">16. According to the passage, determining when to first harvest cork is a function of the:
-<div class = "choice">F. age of a tree and the diameter of its trunk.</div>
-<div class = "choice">G. height of a tree and the thickness of its bark.</div>
-<div class = "choice">H. time of year and the health of the tree.</div>
-<div class = "choice">J. marketplace demand and the price of lumber.</div>
-</div>
-###################
-<div class = "quiz">17. According to the passage, which of the following is an accurate statement about the timing of cork harvesting?
-<div class = "choice">A. After its first harvest, a healthy tree can be harvested every year.</div>
-<div class = "choice">B. The intervals between harvests of any given tree are approximately eight to ten years.</div>
-<div class = "choice">C. A tree should be harvested no more than six times in its lifetime.</div>
-<div class = "choice">D. Harvesting intervals vary from country to country depending on the local climate and soil conditions.</div>
-</div>
-###################
-<div class = "quiz">18. The passage indicates that a healthy cork oak tree harvested for its cork typically lives what amount of time compared to one that hasn't been harvested for its cork?
-<div class = "choice">F. Significantly fewer years</div>
-<div class = "choice">G. The same amount of time</div>
-<div class = "choice">H. A few more years</div>
-<div class = "choice">J. Many more years</div>
-</div>
-###################
-<div class = "quiz">19. What does the passage state is the art involved in removing bark from the tree?
-<div class = "choice">A. Cutting it in a way that makes what is removed from the tree particularly useful in art applications</div>
-<div class = "choice">B. Removing the outer bark in a way that causes no injury to the inner bark of the kind that would damage the next harvest</div>
-<div class = "choice">C. Slitting the outer bark in a way that allows for a layer of the inner bark to be extracted in one piece</div>
-<div class = "choice">D. Judging the precise time that the cork becomes the color for which there is the most demand in the industrial marketplace</div>
-</div>
-###################
-<div class = "quiz">20. The passage states that the largest volume of cork consumed by industry goes into the manufacture of:
-<div class = "choice">F. stoppers, known as corks, used in bottling.</div>
-<div class = "choice">G. insulation for household appliances.</div>
-<div class = "choice">H. bulletin boards used in schools.</div>
-<div class = "choice">J. soundproofing panels and flooring tiles.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWFsaXRpZXMgZG9lcyB0aGUgYXV0aG9yIE5PVCBhdHRyaWJ1dGUgdG8gY29yaz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEdvb2QgcmVzaXN0YW5jZSB0byBjb21wcmVzc2lvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEV4Y2VsbGVudCBkdXJhYmlsaXR5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEhhbmRzb21lIGFwcGVhcmFuY2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFZlcnkgZ29vZCBhYnNvcnB0aW9uIG9mIHdhdGVyPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBwaHJhc2VzIGJlc3QgZGVzY3JpYmVzIHdoYXQgdGhlIGxhc3QgcGFyYWdyYXBoIGFkZHMgdG8gdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEEgbGlzdCBvZiB0aGUgd2F5cyB0aGUgYXV0aG9yJ3MgY29tcGFueSBoYXMgdXNlZCBjb3JrIG92ZXIgdGhlIGxhc3QgdHdlbnR5IHllYXJzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEEgc3VtbWFyeSBvZiB0aGUgaW5mb3JtYXRpb24gcHJvdmlkZWQgaW4gdGhlIHJlc3Qgb2YgdGhlIHBhc3NhZ2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEgbGlzdCBvZiBjb3JrIHByb2R1Y3RzIG1hbnVmYWN0dXJlZCBmb3IgdXNlIGluIGEgd2lkZSByYW5nZSBvZiBzZXR0aW5nczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEEgbGlzdCBvZiB0aGUgd2F5cyBjb3JrIGhhcyBiZWVuIHVzZWQsIGNvbWJpbmVkIHdpdGggYSBsaXN0IG9mIGl0cyBwb3RlbnRpYWwgdXNlczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gSW4gdGhlIGZpcnN0IHBhcmFncmFwaCwgYmFyayBpcyBkZXNjcmliZWQgYXMgYmVpbmcgYSBwYXJ0IG9mIHRoZSB0cmVlIHRoYXQgaXMgZGlzdGluY3QgZnJvbSB0aGUgdHJlZSdzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRydW5rLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvb2QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJ1bGsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVuZXJneSBjb250ZW50LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgdGhyZWUgbW9zdCBpbXBvcnRhbnQgcXVhbGl0aWVzIG9mIGJhcmsgYXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGZyZWVkb20gZnJvbSBkZWNheSwgaW5mbGFtbWFiaWxpdHksIGFuZCBoaWdoIGNhcGFjaXR5IGZvciBub2lzZSBhYnNvcnB0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbG9yLCB0aGlja25lc3MsIGFuZCBkZW5zaXR5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVuZXJneSBjb250ZW50LCBsb3cgZGVuc2l0eSwgYW5kIGRpdmVyc2UgY2VsbHVsYXIgY29udGVudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNhcCBjb250ZW50LCBhZ2UsIGFuZCBkdXJhYmlsaXR5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IGNvcmsgcHJvZHVjdGlvbiBpbiBQb3J0dWdhbCBpcyBzdXBwb3J0ZWQgYnkgdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFBvcnR1Z2FsIGhhcyBtb3JlIHRoYW4gNDQwIG1pbGxpb24gYWNyZXMgb2YgY29yayBvYWtzIHVuZGVyIGN1bHRpdmF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFBvcnR1Z2FsIHByb2R1Y2VzIGFzIG11Y2ggY29yayBhcyBBbGdlcmlhIGJ1dCBub3QgYXMgbXVjaCBhcyBNb3JvY2NvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFBvcnR1Z2FsIGlzIHRoZSBiaWdnZXN0IGNvbnN1bWVyIG9mIGNvcmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFBvcnR1Z2FsIHByb2R1Y2VzIGhhbGYgdGhlIHdvcmxkJ3MgY29yay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBkZXRlcm1pbmluZyB3aGVuIHRvIGZpcnN0IGhhcnZlc3QgY29yayBpcyBhIGZ1bmN0aW9uIG9mIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFnZSBvZiBhIHRyZWUgYW5kIHRoZSBkaWFtZXRlciBvZiBpdHMgdHJ1bmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhlaWdodCBvZiBhIHRyZWUgYW5kIHRoZSB0aGlja25lc3Mgb2YgaXRzIGJhcmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRpbWUgb2YgeWVhciBhbmQgdGhlIGhlYWx0aCBvZiB0aGUgdHJlZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1hcmtldHBsYWNlIGRlbWFuZCBhbmQgdGhlIHByaWNlIG9mIGx1bWJlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIGFuIGFjY3VyYXRlIHN0YXRlbWVudCBhYm91dCB0aGUgdGltaW5nIG9mIGNvcmsgaGFydmVzdGluZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFmdGVyIGl0cyBmaXJzdCBoYXJ2ZXN0LCBhIGhlYWx0aHkgdHJlZSBjYW4gYmUgaGFydmVzdGVkIGV2ZXJ5IHllYXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBpbnRlcnZhbHMgYmV0d2VlbiBoYXJ2ZXN0cyBvZiBhbnkgZ2l2ZW4gdHJlZSBhcmUgYXBwcm94aW1hdGVseSBlaWdodCB0byB0ZW4geWVhcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgdHJlZSBzaG91bGQgYmUgaGFydmVzdGVkIG5vIG1vcmUgdGhhbiBzaXggdGltZXMgaW4gaXRzIGxpZmV0aW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEhhcnZlc3RpbmcgaW50ZXJ2YWxzIHZhcnkgZnJvbSBjb3VudHJ5IHRvIGNvdW50cnkgZGVwZW5kaW5nIG9uIHRoZSBsb2NhbCBjbGltYXRlIGFuZCBzb2lsIGNvbmRpdGlvbnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgYSBoZWFsdGh5IGNvcmsgb2FrIHRyZWUgaGFydmVzdGVkIGZvciBpdHMgY29yayB0eXBpY2FsbHkgbGl2ZXMgd2hhdCBhbW91bnQgb2YgdGltZSBjb21wYXJlZCB0byBvbmUgdGhhdCBoYXNuJ3QgYmVlbiBoYXJ2ZXN0ZWQgZm9yIGl0cyBjb3JrPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNpZ25pZmljYW50bHkgZmV3ZXIgeWVhcnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBzYW1lIGFtb3VudCBvZiB0aW1lPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEgZmV3IG1vcmUgeWVhcnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1hbnkgbW9yZSB5ZWFyczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gV2hhdCBkb2VzIHRoZSBwYXNzYWdlIHN0YXRlIGlzIHRoZSBhcnQgaW52b2x2ZWQgaW4gcmVtb3ZpbmcgYmFyayBmcm9tIHRoZSB0cmVlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEN1dHRpbmcgaXQgaW4gYSB3YXkgdGhhdCBtYWtlcyB3aGF0IGlzIHJlbW92ZWQgZnJvbSB0aGUgdHJlZSBwYXJ0aWN1bGFybHkgdXNlZnVsIGluIGFydCBhcHBsaWNhdGlvbnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFJlbW92aW5nIHRoZSBvdXRlciBiYXJrIGluIGEgd2F5IHRoYXQgY2F1c2VzIG5vIGluanVyeSB0byB0aGUgaW5uZXIgYmFyayBvZiB0aGUga2luZCB0aGF0IHdvdWxkIGRhbWFnZSB0aGUgbmV4dCBoYXJ2ZXN0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFNsaXR0aW5nIHRoZSBvdXRlciBiYXJrIGluIGEgd2F5IHRoYXQgYWxsb3dzIGZvciBhIGxheWVyIG9mIHRoZSBpbm5lciBiYXJrIHRvIGJlIGV4dHJhY3RlZCBpbiBvbmUgcGllY2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEp1ZGdpbmcgdGhlIHByZWNpc2UgdGltZSB0aGF0IHRoZSBjb3JrIGJlY29tZXMgdGhlIGNvbG9yIGZvciB3aGljaCB0aGVyZSBpcyB0aGUgbW9zdCBkZW1hbmQgaW4gdGhlIGluZHVzdHJpYWwgbWFya2V0cGxhY2U8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgdGhlIGxhcmdlc3Qgdm9sdW1lIG9mIGNvcmsgY29uc3VtZWQgYnkgaW5kdXN0cnkgZ29lcyBpbnRvIHRoZSBtYW51ZmFjdHVyZSBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHN0b3BwZXJzLCBrbm93biBhcyBjb3JrcywgdXNlZCBpbiBib3R0bGluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluc3VsYXRpb24gZm9yIGhvdXNlaG9sZCBhcHBsaWFuY2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJ1bGxldGluIGJvYXJkcyB1c2VkIGluIHNjaG9vbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNvdW5kcHJvb2ZpbmcgcGFuZWxzIGFuZCBmbG9vcmluZyB0aWxlcy48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

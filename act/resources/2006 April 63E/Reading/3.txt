@@ -1,104 +1,104 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from “Reading Blind” by Margaret Atwood (? 1989 by Margaret Atwood). It was originally published as the introduction to The Best American Short Stories 1989.</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Our firs stories come to us through the air. We hear voices.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20g4oCcUmVhZGluZyBCbGluZOKAPyBieSBNYXJnYXJldCBBdHdvb2QgKD8gMTk4OSBieSBNYXJnYXJldCBBdHdvb2QpLiBJdCB3YXMgb3JpZ2luYWxseSBwdWJsaXNoZWQgYXMgdGhlIGludHJvZHVjdGlvbiB0byBUaGUgQmVzdCBBbWVyaWNhbiBTaG9ydCBTdG9yaWVzIDE5ODkuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk91ciBmaXJzIHN0b3JpZXMgY29tZSB0byB1cyB0aHJvdWdoIHRoZSBhaXIuIFdlIGhlYXIgdm9pY2VzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Children grow up within a web of stories. We listen before we can read. Some of our listening is more like listening in, to the voices of the adult world, on the radio or the television or in our daily lives. Often it's an overhearing of things we aren't supposed to hear, eavesdropping on gossip or family secrets. From all these scraps of voices, from the whispers and shouts that surround us, even from the silences, the unfilled gaps in meaning, we patch together for ourselves an order of events, a plot or plots; these, then, are the things that happen, these are the people they happen to, this is the forbidden knowledge.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNoaWxkcmVuIGdyb3cgdXAgd2l0aGluIGEgd2ViIG9mIHN0b3JpZXMuIFdlIGxpc3RlbiBiZWZvcmUgd2UgY2FuIHJlYWQuIFNvbWUgb2Ygb3VyIGxpc3RlbmluZyBpcyBtb3JlIGxpa2UgbGlzdGVuaW5nIGluLCB0byB0aGUgdm9pY2VzIG9mIHRoZSBhZHVsdCB3b3JsZCwgb24gdGhlIHJhZGlvIG9yIHRoZSB0ZWxldmlzaW9uIG9yIGluIG91ciBkYWlseSBsaXZlcy4gT2Z0ZW4gaXQncyBhbiBvdmVyaGVhcmluZyBvZiB0aGluZ3Mgd2UgYXJlbid0IHN1cHBvc2VkIHRvIGhlYXIsIGVhdmVzZHJvcHBpbmcgb24gZ29zc2lwIG9yIGZhbWlseSBzZWNyZXRzLiBGcm9tIGFsbCB0aGVzZSBzY3JhcHMgb2Ygdm9pY2VzLCBmcm9tIHRoZSB3aGlzcGVycyBhbmQgc2hvdXRzIHRoYXQgc3Vycm91bmQgdXMsIGV2ZW4gZnJvbSB0aGUgc2lsZW5jZXMsIHRoZSB1bmZpbGxlZCBnYXBzIGluIG1lYW5pbmcsIHdlIHBhdGNoIHRvZ2V0aGVyIGZvciBvdXJzZWx2ZXMgYW4gb3JkZXIgb2YgZXZlbnRzLCBhIHBsb3Qgb3IgcGxvdHM7IHRoZXNlLCB0aGVuLCBhcmUgdGhlIHRoaW5ncyB0aGF0IGhhcHBlbiwgdGhlc2UgYXJlIHRoZSBwZW9wbGUgdGhleSBoYXBwZW4gdG8sIHRoaXMgaXMgdGhlIGZvcmJpZGRlbiBrbm93bGVkZ2UuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">We have all been little pitchers with big ears, shooed out of the kitchen when the unspoken is being spoken, and we have probably all been tale-bearers, blurters at the dinner table, unwitting violators of <font id=23>adult rules of censorship</font>. Perhaps this is what writers are: those who never kicked the habit. We remained talebearers. We learned to keep our eyes open, but not to keep our mouths shut.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldlIGhhdmUgYWxsIGJlZW4gbGl0dGxlIHBpdGNoZXJzIHdpdGggYmlnIGVhcnMsIHNob29lZCBvdXQgb2YgdGhlIGtpdGNoZW4gd2hlbiB0aGUgdW5zcG9rZW4gaXMgYmVpbmcgc3Bva2VuLCBhbmQgd2UgaGF2ZSBwcm9iYWJseSBhbGwgYmVlbiB0YWxlLWJlYXJlcnMsIGJsdXJ0ZXJzIGF0IHRoZSBkaW5uZXIgdGFibGUsIHVud2l0dGluZyB2aW9sYXRvcnMgb2YgPGZvbnQgaWQ9MjM+YWR1bHQgcnVsZXMgb2YgY2Vuc29yc2hpcDwvZm9udD4uIFBlcmhhcHMgdGhpcyBpcyB3aGF0IHdyaXRlcnMgYXJlOiB0aG9zZSB3aG8gbmV2ZXIga2lja2VkIHRoZSBoYWJpdC4gV2UgcmVtYWluZWQgdGFsZWJlYXJlcnMuIFdlIGxlYXJuZWQgdG8ga2VlcCBvdXIgZXllcyBvcGVuLCBidXQgbm90IHRvIGtlZXAgb3VyIG1vdXRocyBzaHV0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=24>Two kinds of stories we firs encounter form our idea of what a story is and color the expectations we bring to stories later. Perhaps it's from the collisions between these two kinds of stories－what is often called <font id=25> "real life" </font> (and which writers greedily think of as their "material") and what is sometimes dismissed as <font id=25> "mere literature" </font> or "the kinds of things that happen only in stories"－that original and living writing is generated. A writer with nothing but a formal sense will produce dead work, but so will one whose only excuse for what is on the page is that it really happened. Anyone who has been trapped in a bus beside a nonstop talker graced with no narrative skill or sense of timing can testify to that. Expressing yourself is not nearly enough. You must express the story. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI0PlR3byBraW5kcyBvZiBzdG9yaWVzIHdlIGZpcnMgZW5jb3VudGVyIGZvcm0gb3VyIGlkZWEgb2Ygd2hhdCBhIHN0b3J5IGlzIGFuZCBjb2xvciB0aGUgZXhwZWN0YXRpb25zIHdlIGJyaW5nIHRvIHN0b3JpZXMgbGF0ZXIuIFBlcmhhcHMgaXQncyBmcm9tIHRoZSBjb2xsaXNpb25zIGJldHdlZW4gdGhlc2UgdHdvIGtpbmRzIG9mIHN0b3JpZXPvvI13aGF0IGlzIG9mdGVuIGNhbGxlZCA8Zm9udCBpZD0yNT4gInJlYWwgbGlmZSIgPC9mb250PiAoYW5kIHdoaWNoIHdyaXRlcnMgZ3JlZWRpbHkgdGhpbmsgb2YgYXMgdGhlaXIgIm1hdGVyaWFsIikgYW5kIHdoYXQgaXMgc29tZXRpbWVzIGRpc21pc3NlZCBhcyA8Zm9udCBpZD0yNT4gIm1lcmUgbGl0ZXJhdHVyZSIgPC9mb250PiBvciAidGhlIGtpbmRzIG9mIHRoaW5ncyB0aGF0IGhhcHBlbiBvbmx5IGluIHN0b3JpZXMi77yNdGhhdCBvcmlnaW5hbCBhbmQgbGl2aW5nIHdyaXRpbmcgaXMgZ2VuZXJhdGVkLiBBIHdyaXRlciB3aXRoIG5vdGhpbmcgYnV0IGEgZm9ybWFsIHNlbnNlIHdpbGwgcHJvZHVjZSBkZWFkIHdvcmssIGJ1dCBzbyB3aWxsIG9uZSB3aG9zZSBvbmx5IGV4Y3VzZSBmb3Igd2hhdCBpcyBvbiB0aGUgcGFnZSBpcyB0aGF0IGl0IHJlYWxseSBoYXBwZW5lZC4gQW55b25lIHdobyBoYXMgYmVlbiB0cmFwcGVkIGluIGEgYnVzIGJlc2lkZSBhIG5vbnN0b3AgdGFsa2VyIGdyYWNlZCB3aXRoIG5vIG5hcnJhdGl2ZSBza2lsbCBvciBzZW5zZSBvZiB0aW1pbmcgY2FuIHRlc3RpZnkgdG8gdGhhdC4gRXhwcmVzc2luZyB5b3Vyc2VsZiBpcyBub3QgbmVhcmx5IGVub3VnaC4gWW91IG11c3QgZXhwcmVzcyB0aGUgc3RvcnkuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perhaps all I want from a good story is what children want when they listen to tales.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBlcmhhcHMgYWxsIEkgd2FudCBmcm9tIGEgZ29vZCBzdG9yeSBpcyB3aGF0IGNoaWxkcmVuIHdhbnQgd2hlbiB0aGV5IGxpc3RlbiB0byB0YWxlcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">They want their attention held, and so do I. I always read to the end, out of some adult sense of duty owed; but if I star to fidget and skip pages, and wonder if conscience demands I go back and read the middle, it's a sign that the story has lost me, or I have lost it.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXkgd2FudCB0aGVpciBhdHRlbnRpb24gaGVsZCwgYW5kIHNvIGRvIEkuIEkgYWx3YXlzIHJlYWQgdG8gdGhlIGVuZCwgb3V0IG9mIHNvbWUgYWR1bHQgc2Vuc2Ugb2YgZHV0eSBvd2VkOyBidXQgaWYgSSBzdGFyIHRvIGZpZGdldCBhbmQgc2tpcCBwYWdlcywgYW5kIHdvbmRlciBpZiBjb25zY2llbmNlIGRlbWFuZHMgSSBnbyBiYWNrIGFuZCByZWFkIHRoZSBtaWRkbGUsIGl0J3MgYSBzaWduIHRoYXQgdGhlIHN0b3J5IGhhcyBsb3N0IG1lLCBvciBJIGhhdmUgbG9zdCBpdC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">They want to feel they are in safe hands, that they can trust the teller. With children this may mean simply that they know the speaker will not betray them by closing the book in the middle, or mixing up the heroes and the villains. With adult readers it's more complicated than that, and involves many dimensions, but there's the same element of keeping faith. Faith must be kept within the language－even if the story is funny, its language must be taken seriously－with the concrete details of locale, mannerism, clothing; with the shape of the story itself. A good story may tease, as long as this activity is not used as an end in itself. If there's a promise held out, it must be honored. Whatever is hidden behind the curtain must be revealed at last, and it must be at one and the same time completely unexpected and inevitable. It's in this last respect that the story comes closest to resembling two of its oral predecessors, the riddle and the joke. Both, or all three, require the same mystifying buildup, the same surprising twist, the same impeccable sense of timing. If we guess the riddle at once, or if we can't guess it because the answer makes no sense－if we see the joke coming, or if the point is lost because the teller gets it muddled－there is failure. Stories can fail in the same way.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXkgd2FudCB0byBmZWVsIHRoZXkgYXJlIGluIHNhZmUgaGFuZHMsIHRoYXQgdGhleSBjYW4gdHJ1c3QgdGhlIHRlbGxlci4gV2l0aCBjaGlsZHJlbiB0aGlzIG1heSBtZWFuIHNpbXBseSB0aGF0IHRoZXkga25vdyB0aGUgc3BlYWtlciB3aWxsIG5vdCBiZXRyYXkgdGhlbSBieSBjbG9zaW5nIHRoZSBib29rIGluIHRoZSBtaWRkbGUsIG9yIG1peGluZyB1cCB0aGUgaGVyb2VzIGFuZCB0aGUgdmlsbGFpbnMuIFdpdGggYWR1bHQgcmVhZGVycyBpdCdzIG1vcmUgY29tcGxpY2F0ZWQgdGhhbiB0aGF0LCBhbmQgaW52b2x2ZXMgbWFueSBkaW1lbnNpb25zLCBidXQgdGhlcmUncyB0aGUgc2FtZSBlbGVtZW50IG9mIGtlZXBpbmcgZmFpdGguIEZhaXRoIG11c3QgYmUga2VwdCB3aXRoaW4gdGhlIGxhbmd1YWdl77yNZXZlbiBpZiB0aGUgc3RvcnkgaXMgZnVubnksIGl0cyBsYW5ndWFnZSBtdXN0IGJlIHRha2VuIHNlcmlvdXNsee+8jXdpdGggdGhlIGNvbmNyZXRlIGRldGFpbHMgb2YgbG9jYWxlLCBtYW5uZXJpc20sIGNsb3RoaW5nOyB3aXRoIHRoZSBzaGFwZSBvZiB0aGUgc3RvcnkgaXRzZWxmLiBBIGdvb2Qgc3RvcnkgbWF5IHRlYXNlLCBhcyBsb25nIGFzIHRoaXMgYWN0aXZpdHkgaXMgbm90IHVzZWQgYXMgYW4gZW5kIGluIGl0c2VsZi4gSWYgdGhlcmUncyBhIHByb21pc2UgaGVsZCBvdXQsIGl0IG11c3QgYmUgaG9ub3JlZC4gV2hhdGV2ZXIgaXMgaGlkZGVuIGJlaGluZCB0aGUgY3VydGFpbiBtdXN0IGJlIHJldmVhbGVkIGF0IGxhc3QsIGFuZCBpdCBtdXN0IGJlIGF0IG9uZSBhbmQgdGhlIHNhbWUgdGltZSBjb21wbGV0ZWx5IHVuZXhwZWN0ZWQgYW5kIGluZXZpdGFibGUuIEl0J3MgaW4gdGhpcyBsYXN0IHJlc3BlY3QgdGhhdCB0aGUgc3RvcnkgY29tZXMgY2xvc2VzdCB0byByZXNlbWJsaW5nIHR3byBvZiBpdHMgb3JhbCBwcmVkZWNlc3NvcnMsIHRoZSByaWRkbGUgYW5kIHRoZSBqb2tlLiBCb3RoLCBvciBhbGwgdGhyZWUsIHJlcXVpcmUgdGhlIHNhbWUgbXlzdGlmeWluZyBidWlsZHVwLCB0aGUgc2FtZSBzdXJwcmlzaW5nIHR3aXN0LCB0aGUgc2FtZSBpbXBlY2NhYmxlIHNlbnNlIG9mIHRpbWluZy4gSWYgd2UgZ3Vlc3MgdGhlIHJpZGRsZSBhdCBvbmNlLCBvciBpZiB3ZSBjYW4ndCBndWVzcyBpdCBiZWNhdXNlIHRoZSBhbnN3ZXIgbWFrZXMgbm8gc2Vuc2XvvI1pZiB3ZSBzZWUgdGhlIGpva2UgY29taW5nLCBvciBpZiB0aGUgcG9pbnQgaXMgbG9zdCBiZWNhdXNlIHRoZSB0ZWxsZXIgZ2V0cyBpdCBtdWRkbGVk77yNdGhlcmUgaXMgZmFpbHVyZS4gU3RvcmllcyBjYW4gZmFpbCBpbiB0aGUgc2FtZSB3YXkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But anyone who has ever told, or tried to tell, a story to children will know that there is one thing without which none of the rest is any good. Young children have little sense of dutifulness or of delaying anticipation. They are longing to hear a story, but only if you are longing to tell one. They will not put up with your lassitude or boredom: If you want their full attention, you must give them yours. You need <font id=30>a sense of urgency</font>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBhbnlvbmUgd2hvIGhhcyBldmVyIHRvbGQsIG9yIHRyaWVkIHRvIHRlbGwsIGEgc3RvcnkgdG8gY2hpbGRyZW4gd2lsbCBrbm93IHRoYXQgdGhlcmUgaXMgb25lIHRoaW5nIHdpdGhvdXQgd2hpY2ggbm9uZSBvZiB0aGUgcmVzdCBpcyBhbnkgZ29vZC4gWW91bmcgY2hpbGRyZW4gaGF2ZSBsaXR0bGUgc2Vuc2Ugb2YgZHV0aWZ1bG5lc3Mgb3Igb2YgZGVsYXlpbmcgYW50aWNpcGF0aW9uLiBUaGV5IGFyZSBsb25naW5nIHRvIGhlYXIgYSBzdG9yeSwgYnV0IG9ubHkgaWYgeW91IGFyZSBsb25naW5nIHRvIHRlbGwgb25lLiBUaGV5IHdpbGwgbm90IHB1dCB1cCB3aXRoIHlvdXIgbGFzc2l0dWRlIG9yIGJvcmVkb206IElmIHlvdSB3YW50IHRoZWlyIGZ1bGwgYXR0ZW50aW9uLCB5b3UgbXVzdCBnaXZlIHRoZW0geW91cnMuIFlvdSBuZWVkIDxmb250IGlkPTMwPmEgc2Vuc2Ugb2YgdXJnZW5jeTwvZm9udD4uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Urgency does not mean frenzy. The story can be a quiet story. But it must be urgently told. It must be told with as much intentness as if the teller's life depended on it. And, if you are a writer, so it does, because your life as the writer is only as long, and as good, as the story itself. Most of those who hear it or read it will never know you, but they will know the story. Their act of listening is its reincarnation.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlVyZ2VuY3kgZG9lcyBub3QgbWVhbiBmcmVuenkuIFRoZSBzdG9yeSBjYW4gYmUgYSBxdWlldCBzdG9yeS4gQnV0IGl0IG11c3QgYmUgdXJnZW50bHkgdG9sZC4gSXQgbXVzdCBiZSB0b2xkIHdpdGggYXMgbXVjaCBpbnRlbnRuZXNzIGFzIGlmIHRoZSB0ZWxsZXIncyBsaWZlIGRlcGVuZGVkIG9uIGl0LiBBbmQsIGlmIHlvdSBhcmUgYSB3cml0ZXIsIHNvIGl0IGRvZXMsIGJlY2F1c2UgeW91ciBsaWZlIGFzIHRoZSB3cml0ZXIgaXMgb25seSBhcyBsb25nLCBhbmQgYXMgZ29vZCwgYXMgdGhlIHN0b3J5IGl0c2VsZi4gTW9zdCBvZiB0aG9zZSB3aG8gaGVhciBpdCBvciByZWFkIGl0IHdpbGwgbmV2ZXIga25vdyB5b3UsIGJ1dCB0aGV5IHdpbGwga25vdyB0aGUgc3RvcnkuIFRoZWlyIGFjdCBvZiBsaXN0ZW5pbmcgaXMgaXRzIHJlaW5jYXJuYXRpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">From listening to the stories of others, we learn to tell our own.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyb20gbGlzdGVuaW5nIHRvIHRoZSBzdG9yaWVzIG9mIG90aGVycywgd2UgbGVhcm4gdG8gdGVsbCBvdXIgb3duLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">21. It can reasonably be inferred that the primary purpose of this passage is to:
-<div class = "choice">A. persuade readers to stop being stale-bearers and instead be good listeners.</div>
-<div class = "choice">B. present one author's attempt to stop writers from being nonstop talkers and instead practice the craft of a storyteller.</div>
-<div class = "choice">C. instruct readers to practice oral storytelling in order to become good writers.</div>
-<div class = "choice">D. present a viewpoint on the art of storytelling and the relationship between the author and the audience.</div>
-</div>
-###################
-<div class = "quiz">22. Which of the following best describes the way the first paragraph functions in relation to the passage as a whole?
-<div class = "choice">F. It offers an assertion that is the basis for the author's discussion of storytelling.</div>
-<div class = "choice">G. It introduces an opinion that is later contradicted by the author's personal experience.</div>
-<div class = "choice">H. It presents a confusing image that is not explained by supporting details in the following paragraphs.</div>
-<div class = "choice">J. It supports the essay's assertion that writing is easy because stories come to us through air.</div>
-</div>
-###################
-<div class = "quiz">23. When the writer refers to "adult rules of censorship" in lines 18-19, she is most likely referring to rules determined by:
-<div class = "choice">A. a sense of propriety derived from maturity and social experience.</div>
-<div class = "choice">B. the laws that protect the personal privacy of citizens in a democracy.</div>
-<div class = "choice">C. the customs and habits practiced by the tellers of tales.</div>
-<div class = "choice">D. a shared understanding formed between children who are tale-bearers.</div>
-</div>
-###################
-<div class = "quiz">24. In the fourth paragraph (lines 23-37), the author says that a writer must be able to "express the story." It can reasonably be inferred that which of the following is NOT a part of that ability?
-<div class = "choice">F. Possessing literary and narrative skill</div>
-<div class = "choice">G. Retelling events because they occurred</div>
-<div class = "choice">H. Pacing the telling of the story</div>
-<div class = "choice">J. Combining real experience with fiction</div>
-</div>
-###################
-<div class = "quiz">25. According to the passage, what the author calls "real life" (line 27) and "mere literature" (line 29) differ from one another in that:
-<div class = "choice">A. real life, unlike mere literature, supplies believable action that interests adults but that bores younger audiences.</div>
-<div class = "choice">B. real life is associated with daily, actual events, while mere literature is often dismissed as events that only occur in fiction.</div>
-<div class = "choice">C. mere literature, unlike real life, provides the details that writers greedily think of as their own material.</div>
-<div class = "choice">D. mere literature truly expresses the meaning behind real-life experience, while real life produces formal, dead work.</div>
-</div>
-###################
-<div class = "quiz">26. According to the author's comparison, successful stories written for adults and successful tales told to children:
-<div class = "choice">F. possess no similar attributes.</div>
-<div class = "choice">G. are equally easy to compose.</div>
-<div class = "choice">H. have little to do with "real life."</div>
-<div class = "choice">J. share several important characteristics.</div>
-</div>
-###################
-<div class = "quiz">27. The author states that good stories share all of the following characteristics with jokes and riddles EXCEPT a:
-<div class = "choice">A. mystifying buildup.</div>
-<div class = "choice">B. surprise twist.</div>
-<div class = "choice">C. predictable ending.</div>
-<div class = "choice">D. sense of timing.</div>
-</div>
-###################
-<div class = "quiz">28. Based on the passage, a child's experience of overhearing the voices of the adult world is significant because it:
-<div class = "choice">F. later prevents the child as a writer from being able to distinguish reality and fantasy.</div>
-<div class = "choice">G. invites the adult censorship that discourages the child in his or her later formation as a writer.</div>
-<div class = "choice">H. provides a child with information later used to create meaning in the child's life.</div>
-<div class = "choice">J. enables a child to create a new world of his or her own by tuning out the voices of the adult world.</div>
-</div>
-###################
-<div class = "quiz">29. The author states that when she reads a story, her adult response to the story is that she:
-<div class = "choice">A. feels obligated to read it to the end.</div>
-<div class = "choice">B. refuses to finish it if it loses her.</div>
-<div class = "choice">C. no longer feels guilty if she skips pages.</div>
-<div class = "choice">D. expects it to have a happy ending with all its elements revealed.</div>
-</div>
-###################
-<div class = "quiz">30. When the author describes a good story as requiring "a sense of urgency" (line 76), she is most directly referring to the concept that a writer has to:
-<div class = "choice">F. tell the story with her or his full attention.</div>
-<div class = "choice">G. make sure that the story is exciting and fast paced.</div>
-<div class = "choice">H. immediately reveal the plot with intentness.</div>
-<div class = "choice">J. relate the story out of a sense of duty.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB0aGUgcHJpbWFyeSBwdXJwb3NlIG9mIHRoaXMgcGFzc2FnZSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHBlcnN1YWRlIHJlYWRlcnMgdG8gc3RvcCBiZWluZyBzdGFsZS1iZWFyZXJzIGFuZCBpbnN0ZWFkIGJlIGdvb2QgbGlzdGVuZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByZXNlbnQgb25lIGF1dGhvcidzIGF0dGVtcHQgdG8gc3RvcCB3cml0ZXJzIGZyb20gYmVpbmcgbm9uc3RvcCB0YWxrZXJzIGFuZCBpbnN0ZWFkIHByYWN0aWNlIHRoZSBjcmFmdCBvZiBhIHN0b3J5dGVsbGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluc3RydWN0IHJlYWRlcnMgdG8gcHJhY3RpY2Ugb3JhbCBzdG9yeXRlbGxpbmcgaW4gb3JkZXIgdG8gYmVjb21lIGdvb2Qgd3JpdGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByZXNlbnQgYSB2aWV3cG9pbnQgb24gdGhlIGFydCBvZiBzdG9yeXRlbGxpbmcgYW5kIHRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiB0aGUgYXV0aG9yIGFuZCB0aGUgYXVkaWVuY2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGRlc2NyaWJlcyB0aGUgd2F5IHRoZSBmaXJzdCBwYXJhZ3JhcGggZnVuY3Rpb25zIGluIHJlbGF0aW9uIHRvIHRoZSBwYXNzYWdlIGFzIGEgd2hvbGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IG9mZmVycyBhbiBhc3NlcnRpb24gdGhhdCBpcyB0aGUgYmFzaXMgZm9yIHRoZSBhdXRob3IncyBkaXNjdXNzaW9uIG9mIHN0b3J5dGVsbGluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0IGludHJvZHVjZXMgYW4gb3BpbmlvbiB0aGF0IGlzIGxhdGVyIGNvbnRyYWRpY3RlZCBieSB0aGUgYXV0aG9yJ3MgcGVyc29uYWwgZXhwZXJpZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0IHByZXNlbnRzIGEgY29uZnVzaW5nIGltYWdlIHRoYXQgaXMgbm90IGV4cGxhaW5lZCBieSBzdXBwb3J0aW5nIGRldGFpbHMgaW4gdGhlIGZvbGxvd2luZyBwYXJhZ3JhcGhzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0IHN1cHBvcnRzIHRoZSBlc3NheSdzIGFzc2VydGlvbiB0aGF0IHdyaXRpbmcgaXMgZWFzeSBiZWNhdXNlIHN0b3JpZXMgY29tZSB0byB1cyB0aHJvdWdoIGFpci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gV2hlbiB0aGUgd3JpdGVyIHJlZmVycyB0byAiYWR1bHQgcnVsZXMgb2YgY2Vuc29yc2hpcCIgaW4gbGluZXMgMTgtMTksIHNoZSBpcyBtb3N0IGxpa2VseSByZWZlcnJpbmcgdG8gcnVsZXMgZGV0ZXJtaW5lZCBieTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgc2Vuc2Ugb2YgcHJvcHJpZXR5IGRlcml2ZWQgZnJvbSBtYXR1cml0eSBhbmQgc29jaWFsIGV4cGVyaWVuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBsYXdzIHRoYXQgcHJvdGVjdCB0aGUgcGVyc29uYWwgcHJpdmFjeSBvZiBjaXRpemVucyBpbiBhIGRlbW9jcmFjeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBjdXN0b21zIGFuZCBoYWJpdHMgcHJhY3RpY2VkIGJ5IHRoZSB0ZWxsZXJzIG9mIHRhbGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgc2hhcmVkIHVuZGVyc3RhbmRpbmcgZm9ybWVkIGJldHdlZW4gY2hpbGRyZW4gd2hvIGFyZSB0YWxlLWJlYXJlcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gSW4gdGhlIGZvdXJ0aCBwYXJhZ3JhcGggKGxpbmVzIDIzLTM3KSwgdGhlIGF1dGhvciBzYXlzIHRoYXQgYSB3cml0ZXIgbXVzdCBiZSBhYmxlIHRvICJleHByZXNzIHRoZSBzdG9yeS4iIEl0IGNhbiByZWFzb25hYmx5IGJlIGluZmVycmVkIHRoYXQgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyBOT1QgYSBwYXJ0IG9mIHRoYXQgYWJpbGl0eT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBvc3Nlc3NpbmcgbGl0ZXJhcnkgYW5kIG5hcnJhdGl2ZSBza2lsbDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFJldGVsbGluZyBldmVudHMgYmVjYXVzZSB0aGV5IG9jY3VycmVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFBhY2luZyB0aGUgdGVsbGluZyBvZiB0aGUgc3Rvcnk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIENvbWJpbmluZyByZWFsIGV4cGVyaWVuY2Ugd2l0aCBmaWN0aW9uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGF0IHRoZSBhdXRob3IgY2FsbHMgInJlYWwgbGlmZSIgKGxpbmUgMjcpIGFuZCAibWVyZSBsaXRlcmF0dXJlIiAobGluZSAyOSkgZGlmZmVyIGZyb20gb25lIGFub3RoZXIgaW4gdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHJlYWwgbGlmZSwgdW5saWtlIG1lcmUgbGl0ZXJhdHVyZSwgc3VwcGxpZXMgYmVsaWV2YWJsZSBhY3Rpb24gdGhhdCBpbnRlcmVzdHMgYWR1bHRzIGJ1dCB0aGF0IGJvcmVzIHlvdW5nZXIgYXVkaWVuY2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlYWwgbGlmZSBpcyBhc3NvY2lhdGVkIHdpdGggZGFpbHksIGFjdHVhbCBldmVudHMsIHdoaWxlIG1lcmUgbGl0ZXJhdHVyZSBpcyBvZnRlbiBkaXNtaXNzZWQgYXMgZXZlbnRzIHRoYXQgb25seSBvY2N1ciBpbiBmaWN0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1lcmUgbGl0ZXJhdHVyZSwgdW5saWtlIHJlYWwgbGlmZSwgcHJvdmlkZXMgdGhlIGRldGFpbHMgdGhhdCB3cml0ZXJzIGdyZWVkaWx5IHRoaW5rIG9mIGFzIHRoZWlyIG93biBtYXRlcmlhbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1lcmUgbGl0ZXJhdHVyZSB0cnVseSBleHByZXNzZXMgdGhlIG1lYW5pbmcgYmVoaW5kIHJlYWwtbGlmZSBleHBlcmllbmNlLCB3aGlsZSByZWFsIGxpZmUgcHJvZHVjZXMgZm9ybWFsLCBkZWFkIHdvcmsuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQWNjb3JkaW5nIHRvIHRoZSBhdXRob3IncyBjb21wYXJpc29uLCBzdWNjZXNzZnVsIHN0b3JpZXMgd3JpdHRlbiBmb3IgYWR1bHRzIGFuZCBzdWNjZXNzZnVsIHRhbGVzIHRvbGQgdG8gY2hpbGRyZW46
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHBvc3Nlc3Mgbm8gc2ltaWxhciBhdHRyaWJ1dGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFyZSBlcXVhbGx5IGVhc3kgdG8gY29tcG9zZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmUgbGl0dGxlIHRvIGRvIHdpdGggInJlYWwgbGlmZS4iPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNoYXJlIHNldmVyYWwgaW1wb3J0YW50IGNoYXJhY3RlcmlzdGljcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gVGhlIGF1dGhvciBzdGF0ZXMgdGhhdCBnb29kIHN0b3JpZXMgc2hhcmUgYWxsIG9mIHRoZSBmb2xsb3dpbmcgY2hhcmFjdGVyaXN0aWNzIHdpdGggam9rZXMgYW5kIHJpZGRsZXMgRVhDRVBUIGE6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG15c3RpZnlpbmcgYnVpbGR1cC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHN1cnByaXNlIHR3aXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByZWRpY3RhYmxlIGVuZGluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNlbnNlIG9mIHRpbWluZy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIGEgY2hpbGQncyBleHBlcmllbmNlIG9mIG92ZXJoZWFyaW5nIHRoZSB2b2ljZXMgb2YgdGhlIGFkdWx0IHdvcmxkIGlzIHNpZ25pZmljYW50IGJlY2F1c2UgaXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxhdGVyIHByZXZlbnRzIHRoZSBjaGlsZCBhcyBhIHdyaXRlciBmcm9tIGJlaW5nIGFibGUgdG8gZGlzdGluZ3Vpc2ggcmVhbGl0eSBhbmQgZmFudGFzeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGludml0ZXMgdGhlIGFkdWx0IGNlbnNvcnNoaXAgdGhhdCBkaXNjb3VyYWdlcyB0aGUgY2hpbGQgaW4gaGlzIG9yIGhlciBsYXRlciBmb3JtYXRpb24gYXMgYSB3cml0ZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHByb3ZpZGVzIGEgY2hpbGQgd2l0aCBpbmZvcm1hdGlvbiBsYXRlciB1c2VkIHRvIGNyZWF0ZSBtZWFuaW5nIGluIHRoZSBjaGlsZCdzIGxpZmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGVuYWJsZXMgYSBjaGlsZCB0byBjcmVhdGUgYSBuZXcgd29ybGQgb2YgaGlzIG9yIGhlciBvd24gYnkgdHVuaW5nIG91dCB0aGUgdm9pY2VzIG9mIHRoZSBhZHVsdCB3b3JsZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIGF1dGhvciBzdGF0ZXMgdGhhdCB3aGVuIHNoZSByZWFkcyBhIHN0b3J5LCBoZXIgYWR1bHQgcmVzcG9uc2UgdG8gdGhlIHN0b3J5IGlzIHRoYXQgc2hlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZlZWxzIG9ibGlnYXRlZCB0byByZWFkIGl0IHRvIHRoZSBlbmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlZnVzZXMgdG8gZmluaXNoIGl0IGlmIGl0IGxvc2VzIGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5vIGxvbmdlciBmZWVscyBndWlsdHkgaWYgc2hlIHNraXBzIHBhZ2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV4cGVjdHMgaXQgdG8gaGF2ZSBhIGhhcHB5IGVuZGluZyB3aXRoIGFsbCBpdHMgZWxlbWVudHMgcmV2ZWFsZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gV2hlbiB0aGUgYXV0aG9yIGRlc2NyaWJlcyBhIGdvb2Qgc3RvcnkgYXMgcmVxdWlyaW5nICJhIHNlbnNlIG9mIHVyZ2VuY3kiIChsaW5lIDc2KSwgc2hlIGlzIG1vc3QgZGlyZWN0bHkgcmVmZXJyaW5nIHRvIHRoZSBjb25jZXB0IHRoYXQgYSB3cml0ZXIgaGFzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRlbGwgdGhlIHN0b3J5IHdpdGggaGVyIG9yIGhpcyBmdWxsIGF0dGVudGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1ha2Ugc3VyZSB0aGF0IHRoZSBzdG9yeSBpcyBleGNpdGluZyBhbmQgZmFzdCBwYWNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGltbWVkaWF0ZWx5IHJldmVhbCB0aGUgcGxvdCB3aXRoIGludGVudG5lc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlbGF0ZSB0aGUgc3Rvcnkgb3V0IG9mIGEgc2Vuc2Ugb2YgZHV0eS48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

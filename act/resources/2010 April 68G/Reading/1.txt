@@ -1,97 +1,97 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel Mr. lves' Christmas by Oscar Hijuelos (○c1995 by Oscar Hijuelos).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although Edward Ives had never been the most talented of artists, as he'd tell his son, Robert, years later, he had a highly developed work ethic. A conscientious and self-effacing laborer, ever humble before his craft, he never thought he'd have any money and figured out, as a young man, that he would always live humbly, "without means," practicing his illustrative and painterly skills into his old age. And if he was lucky, getting along on numerous fleeting jobs, he might one day have a show of beautiful portraits. Perhaps he would make enough money to see something more of the world than just the view from his window or where the trains and subways of the mass transit system would take him. Paris, Tahiti, Rome—names that he associated with artists and adventure. That was all he wanted.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIE1yLiBsdmVzJyBDaHJpc3RtYXMgYnkgT3NjYXIgSGlqdWVsb3MgKOKXi2MxOTk1IGJ5IE9zY2FyIEhpanVlbG9zKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsdGhvdWdoIEVkd2FyZCBJdmVzIGhhZCBuZXZlciBiZWVuIHRoZSBtb3N0IHRhbGVudGVkIG9mIGFydGlzdHMsIGFzIGhlJ2QgdGVsbCBoaXMgc29uLCBSb2JlcnQsIHllYXJzIGxhdGVyLCBoZSBoYWQgYSBoaWdobHkgZGV2ZWxvcGVkIHdvcmsgZXRoaWMuIEEgY29uc2NpZW50aW91cyBhbmQgc2VsZi1lZmZhY2luZyBsYWJvcmVyLCBldmVyIGh1bWJsZSBiZWZvcmUgaGlzIGNyYWZ0LCBoZSBuZXZlciB0aG91Z2h0IGhlJ2QgaGF2ZSBhbnkgbW9uZXkgYW5kIGZpZ3VyZWQgb3V0LCBhcyBhIHlvdW5nIG1hbiwgdGhhdCBoZSB3b3VsZCBhbHdheXMgbGl2ZSBodW1ibHksICJ3aXRob3V0IG1lYW5zLCIgcHJhY3RpY2luZyBoaXMgaWxsdXN0cmF0aXZlIGFuZCBwYWludGVybHkgc2tpbGxzIGludG8gaGlzIG9sZCBhZ2UuIEFuZCBpZiBoZSB3YXMgbHVja3ksIGdldHRpbmcgYWxvbmcgb24gbnVtZXJvdXMgZmxlZXRpbmcgam9icywgaGUgbWlnaHQgb25lIGRheSBoYXZlIGEgc2hvdyBvZiBiZWF1dGlmdWwgcG9ydHJhaXRzLiBQZXJoYXBzIGhlIHdvdWxkIG1ha2UgZW5vdWdoIG1vbmV5IHRvIHNlZSBzb21ldGhpbmcgbW9yZSBvZiB0aGUgd29ybGQgdGhhbiBqdXN0IHRoZSB2aWV3IGZyb20gaGlzIHdpbmRvdyBvciB3aGVyZSB0aGUgdHJhaW5zIGFuZCBzdWJ3YXlzIG9mIHRoZSBtYXNzIHRyYW5zaXQgc3lzdGVtIHdvdWxkIHRha2UgaGltLiBQYXJpcywgVGFoaXRpLCBSb21l4oCUbmFtZXMgdGhhdCBoZSBhc3NvY2lhdGVkIHdpdGggYXJ0aXN0cyBhbmQgYWR2ZW50dXJlLiBUaGF0IHdhcyBhbGwgaGUgd2FudGVkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=4>Before the war, as a teenager just trying to figure out a little more about the world, when he was not working in his father's printing plant. Edward Ives had also held other jobs. For a time he had been an usher in a big movie house on Ocean Avenue several days a week. It was a job he did not mind because he loved gangster stories and Westerns and animated cartoons. And he enjoyed wearing a velvet-buttoned dark gray outfit and escorting the perfumed pretty girls down to their seats. He fell in love every week but was too shy to do anything about it. He also painted window displays and made special signs for local Brooklyn merchants, and worked in stores like Macy's doing the same. He picked up a little extra money working as an occasional messenger boy, and sometimes worked as a temporary mail sorter in the post office. Every so often he had gone to work for the Steichman brothers, whose animation studio was down on Lafayette Street.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTQ+QmVmb3JlIHRoZSB3YXIsIGFzIGEgdGVlbmFnZXIganVzdCB0cnlpbmcgdG8gZmlndXJlIG91dCBhIGxpdHRsZSBtb3JlIGFib3V0IHRoZSB3b3JsZCwgd2hlbiBoZSB3YXMgbm90IHdvcmtpbmcgaW4gaGlzIGZhdGhlcidzIHByaW50aW5nIHBsYW50LiBFZHdhcmQgSXZlcyBoYWQgYWxzbyBoZWxkIG90aGVyIGpvYnMuIEZvciBhIHRpbWUgaGUgaGFkIGJlZW4gYW4gdXNoZXIgaW4gYSBiaWcgbW92aWUgaG91c2Ugb24gT2NlYW4gQXZlbnVlIHNldmVyYWwgZGF5cyBhIHdlZWsuIEl0IHdhcyBhIGpvYiBoZSBkaWQgbm90IG1pbmQgYmVjYXVzZSBoZSBsb3ZlZCBnYW5nc3RlciBzdG9yaWVzIGFuZCBXZXN0ZXJucyBhbmQgYW5pbWF0ZWQgY2FydG9vbnMuIEFuZCBoZSBlbmpveWVkIHdlYXJpbmcgYSB2ZWx2ZXQtYnV0dG9uZWQgZGFyayBncmF5IG91dGZpdCBhbmQgZXNjb3J0aW5nIHRoZSBwZXJmdW1lZCBwcmV0dHkgZ2lybHMgZG93biB0byB0aGVpciBzZWF0cy4gSGUgZmVsbCBpbiBsb3ZlIGV2ZXJ5IHdlZWsgYnV0IHdhcyB0b28gc2h5IHRvIGRvIGFueXRoaW5nIGFib3V0IGl0LiBIZSBhbHNvIHBhaW50ZWQgd2luZG93IGRpc3BsYXlzIGFuZCBtYWRlIHNwZWNpYWwgc2lnbnMgZm9yIGxvY2FsIEJyb29rbHluIG1lcmNoYW50cywgYW5kIHdvcmtlZCBpbiBzdG9yZXMgbGlrZSBNYWN5J3MgZG9pbmcgdGhlIHNhbWUuIEhlIHBpY2tlZCB1cCBhIGxpdHRsZSBleHRyYSBtb25leSB3b3JraW5nIGFzIGFuIG9jY2FzaW9uYWwgbWVzc2VuZ2VyIGJveSwgYW5kIHNvbWV0aW1lcyB3b3JrZWQgYXMgYSB0ZW1wb3JhcnkgbWFpbCBzb3J0ZXIgaW4gdGhlIHBvc3Qgb2ZmaWNlLiBFdmVyeSBzbyBvZnRlbiBoZSBoYWQgZ29uZSB0byB3b3JrIGZvciB0aGUgU3RlaWNobWFuIGJyb3RoZXJzLCB3aG9zZSBhbmltYXRpb24gc3R1ZGlvIHdhcyBkb3duIG9uIExhZmF5ZXR0ZSBTdHJlZXQuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(For his part, Ives had most enjoyed his on-and-off job with the Steichmans. It was an obscure studio, the big animation houses being out in California—Disney, Lantz, Warner Bros. —and it produced mainly kiddie Melodramas, its characters bugs and tender animals with cute names like "Mike and Moth," "Zippy the Squirrel," or "Trinket the Tomcat," creations that never really made it with the public.)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPihGb3IgaGlzIHBhcnQsIEl2ZXMgaGFkIG1vc3QgZW5qb3llZCBoaXMgb24tYW5kLW9mZiBqb2Igd2l0aCB0aGUgU3RlaWNobWFucy4gSXQgd2FzIGFuIG9ic2N1cmUgc3R1ZGlvLCB0aGUgYmlnIGFuaW1hdGlvbiBob3VzZXMgYmVpbmcgb3V0IGluIENhbGlmb3JuaWHigJREaXNuZXksIExhbnR6LCBXYXJuZXIgQnJvcy4g4oCUYW5kIGl0IHByb2R1Y2VkIG1haW5seSBraWRkaWUgTWVsb2RyYW1hcywgaXRzIGNoYXJhY3RlcnMgYnVncyBhbmQgdGVuZGVyIGFuaW1hbHMgd2l0aCBjdXRlIG5hbWVzIGxpa2UgIk1pa2UgYW5kIE1vdGgsIiAiWmlwcHkgdGhlIFNxdWlycmVsLCIgb3IgIlRyaW5rZXQgdGhlIFRvbWNhdCwiIGNyZWF0aW9ucyB0aGF0IG5ldmVyIHJlYWxseSBtYWRlIGl0IHdpdGggdGhlIHB1YmxpYy4pPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Then World War II had come. He did his bit as a civilian employee with a unit of the Army Information Service . out in Secaucus, New Jersey, where he worked for three years during the war, churning out instructional comics with titles like "Hygiene at Sea," pamphlets, and posters about everything from malaria to dental hygiene.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZW4gV29ybGQgV2FyIElJIGhhZCBjb21lLiBIZSBkaWQgaGlzIGJpdCBhcyBhIGNpdmlsaWFuIGVtcGxveWVlIHdpdGggYSB1bml0IG9mIHRoZSBBcm15IEluZm9ybWF0aW9uIFNlcnZpY2UgLiBvdXQgaW4gU2VjYXVjdXMsIE5ldyBKZXJzZXksIHdoZXJlIGhlIHdvcmtlZCBmb3IgdGhyZWUgeWVhcnMgZHVyaW5nIHRoZSB3YXIsIGNodXJuaW5nIG91dCBpbnN0cnVjdGlvbmFsIGNvbWljcyB3aXRoIHRpdGxlcyBsaWtlICJIeWdpZW5lIGF0IFNlYSwiIHBhbXBobGV0cywgYW5kIHBvc3RlcnMgYWJvdXQgZXZlcnl0aGluZyBmcm9tIG1hbGFyaWEgdG8gZGVudGFsIGh5Z2llbmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sometimes while resting, traffic noise would take him back to his early days in Manhattan, after the war, when he lived in a walk-up on Fiftieth Street, as a plodding, ever slow but first-rate freelancer, who fell in love with Annie MacGuire. He would see his old radio, which he'd hauled up out of the street; and fixed with some new tubes from the corner store; and next to that their rust-bladed electric fan, which used to make the living room, an oven in the summers, a little more bearable; and then his old drawing board and the little cuckoo clock, in which they'd stash their savings, five- and ten-dollar bills. A Chinese screen, and then, later on, the crib in which his son, Robert, or Roberto as he'd call him, would sleep. Adorable and ever so tender, on his back, little feet up, his face would go into delighted contortions when Ives, the shyest and most</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNvbWV0aW1lcyB3aGlsZSByZXN0aW5nLCB0cmFmZmljIG5vaXNlIHdvdWxkIHRha2UgaGltIGJhY2sgdG8gaGlzIGVhcmx5IGRheXMgaW4gTWFuaGF0dGFuLCBhZnRlciB0aGUgd2FyLCB3aGVuIGhlIGxpdmVkIGluIGEgd2Fsay11cCBvbiBGaWZ0aWV0aCBTdHJlZXQsIGFzIGEgcGxvZGRpbmcsIGV2ZXIgc2xvdyBidXQgZmlyc3QtcmF0ZSBmcmVlbGFuY2VyLCB3aG8gZmVsbCBpbiBsb3ZlIHdpdGggQW5uaWUgTWFjR3VpcmUuIEhlIHdvdWxkIHNlZSBoaXMgb2xkIHJhZGlvLCB3aGljaCBoZSdkIGhhdWxlZCB1cCBvdXQgb2YgdGhlIHN0cmVldDsgYW5kIGZpeGVkIHdpdGggc29tZSBuZXcgdHViZXMgZnJvbSB0aGUgY29ybmVyIHN0b3JlOyBhbmQgbmV4dCB0byB0aGF0IHRoZWlyIHJ1c3QtYmxhZGVkIGVsZWN0cmljIGZhbiwgd2hpY2ggdXNlZCB0byBtYWtlIHRoZSBsaXZpbmcgcm9vbSwgYW4gb3ZlbiBpbiB0aGUgc3VtbWVycywgYSBsaXR0bGUgbW9yZSBiZWFyYWJsZTsgYW5kIHRoZW4gaGlzIG9sZCBkcmF3aW5nIGJvYXJkIGFuZCB0aGUgbGl0dGxlIGN1Y2tvbyBjbG9jaywgaW4gd2hpY2ggdGhleSdkIHN0YXNoIHRoZWlyIHNhdmluZ3MsIGZpdmUtIGFuZCB0ZW4tZG9sbGFyIGJpbGxzLiBBIENoaW5lc2Ugc2NyZWVuLCBhbmQgdGhlbiwgbGF0ZXIgb24sIHRoZSBjcmliIGluIHdoaWNoIGhpcyBzb24sIFJvYmVydCwgb3IgUm9iZXJ0byBhcyBoZSdkIGNhbGwgaGltLCB3b3VsZCBzbGVlcC4gQWRvcmFibGUgYW5kIGV2ZXIgc28gdGVuZGVyLCBvbiBoaXMgYmFjaywgbGl0dGxlIGZlZXQgdXAsIGhpcyBmYWNlIHdvdWxkIGdvIGludG8gZGVsaWdodGVkIGNvbnRvcnRpb25zIHdoZW4gSXZlcywgdGhlIHNoeWVzdCBhbmQgbW9zdDwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">reticent father in the world, would stand over him and touch his belly.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPnJldGljZW50IGZhdGhlciBpbiB0aGUgd29ybGQsIHdvdWxkIHN0YW5kIG92ZXIgaGltIGFuZCB0b3VjaCBoaXMgYmVsbHkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=7>Thinking about Robert, Ives would always fondly remember those evenings he spent in1948, at the Art Students League. After a day freelancing, he'd walk in and sit in the back, his sketchbook, charcoals, and pencils set out before him. And often enough he'd notice that among the twenty or so students there sat the quiet Annie MacGuire, whose intensity and concentration had always impressed him. The few times he had spied her work he had been struck by the simplicity and elegance of her drawing. He did not know much about her, other than what he'd once overheard her saying during one of the breaks, when the artists would congregate out in the hall. That she was an art and English teacher at a school on the Upper East Side, her pay lousy. She liked books, he'd noticed, and was probably taking anight course in literature, because she always walked in with thick novels, PROPERTY OF HUNTER COLLEGE stamped on them.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTc+VGhpbmtpbmcgYWJvdXQgUm9iZXJ0LCBJdmVzIHdvdWxkIGFsd2F5cyBmb25kbHkgcmVtZW1iZXIgdGhvc2UgZXZlbmluZ3MgaGUgc3BlbnQgaW4xOTQ4LCBhdCB0aGUgQXJ0IFN0dWRlbnRzIExlYWd1ZS4gQWZ0ZXIgYSBkYXkgZnJlZWxhbmNpbmcsIGhlJ2Qgd2FsayBpbiBhbmQgc2l0IGluIHRoZSBiYWNrLCBoaXMgc2tldGNoYm9vaywgY2hhcmNvYWxzLCBhbmQgcGVuY2lscyBzZXQgb3V0IGJlZm9yZSBoaW0uIEFuZCBvZnRlbiBlbm91Z2ggaGUnZCBub3RpY2UgdGhhdCBhbW9uZyB0aGUgdHdlbnR5IG9yIHNvIHN0dWRlbnRzIHRoZXJlIHNhdCB0aGUgcXVpZXQgQW5uaWUgTWFjR3VpcmUsIHdob3NlIGludGVuc2l0eSBhbmQgY29uY2VudHJhdGlvbiBoYWQgYWx3YXlzIGltcHJlc3NlZCBoaW0uIFRoZSBmZXcgdGltZXMgaGUgaGFkIHNwaWVkIGhlciB3b3JrIGhlIGhhZCBiZWVuIHN0cnVjayBieSB0aGUgc2ltcGxpY2l0eSBhbmQgZWxlZ2FuY2Ugb2YgaGVyIGRyYXdpbmcuIEhlIGRpZCBub3Qga25vdyBtdWNoIGFib3V0IGhlciwgb3RoZXIgdGhhbiB3aGF0IGhlJ2Qgb25jZSBvdmVyaGVhcmQgaGVyIHNheWluZyBkdXJpbmcgb25lIG9mIHRoZSBicmVha3MsIHdoZW4gdGhlIGFydGlzdHMgd291bGQgY29uZ3JlZ2F0ZSBvdXQgaW4gdGhlIGhhbGwuIFRoYXQgc2hlIHdhcyBhbiBhcnQgYW5kIEVuZ2xpc2ggdGVhY2hlciBhdCBhIHNjaG9vbCBvbiB0aGUgVXBwZXIgRWFzdCBTaWRlLCBoZXIgcGF5IGxvdXN5LiBTaGUgbGlrZWQgYm9va3MsIGhlJ2Qgbm90aWNlZCwgYW5kIHdhcyBwcm9iYWJseSB0YWtpbmcgYW5pZ2h0IGNvdXJzZSBpbiBsaXRlcmF0dXJlLCBiZWNhdXNlIHNoZSBhbHdheXMgd2Fsa2VkIGluIHdpdGggdGhpY2sgbm92ZWxzLCBQUk9QRVJUWSBPRiBIVU5URVIgQ09MTEVHRSBzdGFtcGVkIG9uIHRoZW0uPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When she'd walk into the studio, her portfolio in hand, she'd barely acknowledge the presence of others. Ives couldn't tell if she was a snob or simply private.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gc2hlJ2Qgd2FsayBpbnRvIHRoZSBzdHVkaW8sIGhlciBwb3J0Zm9saW8gaW4gaGFuZCwgc2hlJ2QgYmFyZWx5IGFja25vd2xlZGdlIHRoZSBwcmVzZW5jZSBvZiBvdGhlcnMuIEl2ZXMgY291bGRuJ3QgdGVsbCBpZiBzaGUgd2FzIGEgc25vYiBvciBzaW1wbHkgcHJpdmF0ZS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. The events in the passage are described primarily from the point of view of a narrator who presents the:
-<div class = "choice">A. inner thoughts and feelings of Ives exclusively.</div>
-<div class = "choice">B. inner thoughts of Ives and MacGuire exclusively.</div>
-<div class = "choice">C. thoughts of Ives, his employers, and his classmates as expressed in dialogue.</div>
-<div class = "choice">D. inner thoughts and feelings of all the characters in the life of Ives.</div>
-</div>
-###################
-<div class = "quiz">2. The passage supports all of the following statements about the Steichman brothers' business EXCEPT that:
-<div class = "choice">F. it was a small animation studio compared to the big ones in California.</div>
-<div class = "choice">G. it produced cartoons that were shown in the theater where Ives was an usher.</div>
-<div class = "choice">H. Ives worked there on an irregular basis.</div>
-<div class = "choice">J. it created characters that included tender and cute animals.</div>
-</div>
-###################
-<div class = "quiz">3. Which of the following questions is NOT answered by the passage?
-<div class = "choice">A. What kind of work did Ives do in his father's printing plant?</div>
-<div class = "choice">B. Did a relationship ever develop between Ives and MacGuire?</div>
-<div class = "choice">C. As an infant, how did Robert respond to his father's gentle attention?</div>
-<div class = "choice">D. In what setting did Ives first become aware of MacGuire?</div>
-</div>
-###################
-<div class = "quiz">4. One of the main ideas of the second paragraph (lines 16-33) is that:
-<div class = "choice">F. as a young man, Ives frequently changed jobs because employers found his work unsatisfactory.</div>
-<div class = "choice">G. Ives's work at a movie theater earned him the attention of the Steichman brothers.</div>
-<div class = "choice">H. to get to know the world around him, Ives held a variety of jobs as a young man.</div>
-<div class = "choice">J. working many jobs at once, Ives lost important chances to advance his art career.</div>
-</div>
-###################
-<div class = "quiz">5. According to the passage, all of the following were aspects of Ives's job at the movie theater EXCEPT:
-<div class = "choice">A. wearing a dark gray outfit.</div>
-<div class = "choice">B. being able to see gangster movies.</div>
-<div class = "choice">C. escorting girls to their seats.</div>
-<div class = "choice">D. painting window displays.</div>
-</div>
-###################
-<div class = "quiz">6. In the passage, the statement that MacGuire's artwork is characterized by simplicity and elegance is best described as the opinion of:
-<div class = "choice">F. Ives that he expresses to her in an effort to impress her.</div>
-<div class = "choice">G. Ives that he forms at the Art Students League.</div>
-<div class = "choice">H. MacGuire that she states to her classmates in hopes that Ives will agree.</div>
-<div class = "choice">J. Ives that replaced his initial impression of her work as being too cute for his taste.</div>
-</div>
-###################
-<div class = "quiz">7. The passage indicates that Ives's primary response to the events described in the sixth paragraph (lines 67-84) is:
-<div class = "choice">A. disappointment over a painful personal loss.</div>
-<div class = "choice">B. warmth rising from a treasured memory.</div>
-<div class = "choice">C. confusion over the direction his life has taken.</div>
-<div class = "choice">D. satisfaction from completing a work of fine art.</div>
-</div>
-###################
-<div class = "quiz">8. According to the passage, as a young man, Ives had a vision of success for himself that included:
-<div class = "choice">F. becoming a Hollywood cartoonist.</div>
-<div class = "choice">G. moving to a house in the country.</div>
-<div class = "choice">H. having a show of beautiful portraits.</div>
-<div class = "choice">J. having his artwork published in a national magazine.</div>
-</div>
-###################
-<div class = "quiz">9. The passage indicates that compared to his work at the movie theater, Ives found his work for the Steichman brothers to be:
-<div class = "choice">A. more enjoyable.</div>
-<div class = "choice">B. less enjoyable.</div>
-<div class = "choice">C. more profitable financially.</div>
-<div class = "choice">D. less profitable financially</div>
-</div>
-###################
-<div class = "quiz">10. That MacGuire was enrolled in a literature class was:
-<div class = "choice">F. an inference Ives made based on his observation of what she brought to art class.</div>
-<div class = "choice">G. a fact she mentioned to her art school classmates as a way of suggesting her superiority to them.</div>
-<div class = "choice">H. a detail that Ives learned from a classmate who had discovered that Ives was fond of MacOuire.</div>
-<div class = "choice">J. a comment she made to overcome an awkward silence in her first conversation with Ives.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgZXZlbnRzIGluIHRoZSBwYXNzYWdlIGFyZSBkZXNjcmliZWQgcHJpbWFyaWx5IGZyb20gdGhlIHBvaW50IG9mIHZpZXcgb2YgYSBuYXJyYXRvciB3aG8gcHJlc2VudHMgdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGlubmVyIHRob3VnaHRzIGFuZCBmZWVsaW5ncyBvZiBJdmVzIGV4Y2x1c2l2ZWx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlubmVyIHRob3VnaHRzIG9mIEl2ZXMgYW5kIE1hY0d1aXJlIGV4Y2x1c2l2ZWx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRob3VnaHRzIG9mIEl2ZXMsIGhpcyBlbXBsb3llcnMsIGFuZCBoaXMgY2xhc3NtYXRlcyBhcyBleHByZXNzZWQgaW4gZGlhbG9ndWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGlubmVyIHRob3VnaHRzIGFuZCBmZWVsaW5ncyBvZiBhbGwgdGhlIGNoYXJhY3RlcnMgaW4gdGhlIGxpZmUgb2YgSXZlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBUaGUgcGFzc2FnZSBzdXBwb3J0cyBhbGwgb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IHRoZSBTdGVpY2htYW4gYnJvdGhlcnMnIGJ1c2luZXNzIEVYQ0VQVCB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGl0IHdhcyBhIHNtYWxsIGFuaW1hdGlvbiBzdHVkaW8gY29tcGFyZWQgdG8gdGhlIGJpZyBvbmVzIGluIENhbGlmb3JuaWEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGl0IHByb2R1Y2VkIGNhcnRvb25zIHRoYXQgd2VyZSBzaG93biBpbiB0aGUgdGhlYXRlciB3aGVyZSBJdmVzIHdhcyBhbiB1c2hlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl2ZXMgd29ya2VkIHRoZXJlIG9uIGFuIGlycmVndWxhciBiYXNpcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGl0IGNyZWF0ZWQgY2hhcmFjdGVycyB0aGF0IGluY2x1ZGVkIHRlbmRlciBhbmQgY3V0ZSBhbmltYWxzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHF1ZXN0aW9ucyBpcyBOT1QgYW5zd2VyZWQgYnkgdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFdoYXQga2luZCBvZiB3b3JrIGRpZCBJdmVzIGRvIGluIGhpcyBmYXRoZXIncyBwcmludGluZyBwbGFudD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIERpZCBhIHJlbGF0aW9uc2hpcCBldmVyIGRldmVsb3AgYmV0d2VlbiBJdmVzIGFuZCBNYWNHdWlyZT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFzIGFuIGluZmFudCwgaG93IGRpZCBSb2JlcnQgcmVzcG9uZCB0byBoaXMgZmF0aGVyJ3MgZ2VudGxlIGF0dGVudGlvbj88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEluIHdoYXQgc2V0dGluZyBkaWQgSXZlcyBmaXJzdCBiZWNvbWUgYXdhcmUgb2YgTWFjR3VpcmU/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBPbmUgb2YgdGhlIG1haW4gaWRlYXMgb2YgdGhlIHNlY29uZCBwYXJhZ3JhcGggKGxpbmVzIDE2LTMzKSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFzIGEgeW91bmcgbWFuLCBJdmVzIGZyZXF1ZW50bHkgY2hhbmdlZCBqb2JzIGJlY2F1c2UgZW1wbG95ZXJzIGZvdW5kIGhpcyB3b3JrIHVuc2F0aXNmYWN0b3J5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl2ZXMncyB3b3JrIGF0IGEgbW92aWUgdGhlYXRlciBlYXJuZWQgaGltIHRoZSBhdHRlbnRpb24gb2YgdGhlIFN0ZWljaG1hbiBicm90aGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRvIGdldCB0byBrbm93IHRoZSB3b3JsZCBhcm91bmQgaGltLCBJdmVzIGhlbGQgYSB2YXJpZXR5IG9mIGpvYnMgYXMgYSB5b3VuZyBtYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdvcmtpbmcgbWFueSBqb2JzIGF0IG9uY2UsIEl2ZXMgbG9zdCBpbXBvcnRhbnQgY2hhbmNlcyB0byBhZHZhbmNlIGhpcyBhcnQgY2FyZWVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIGFsbCBvZiB0aGUgZm9sbG93aW5nIHdlcmUgYXNwZWN0cyBvZiBJdmVzJ3Mgam9iIGF0IHRoZSBtb3ZpZSB0aGVhdGVyIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdlYXJpbmcgYSBkYXJrIGdyYXkgb3V0Zml0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJlaW5nIGFibGUgdG8gc2VlIGdhbmdzdGVyIG1vdmllcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVzY29ydGluZyBnaXJscyB0byB0aGVpciBzZWF0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBhaW50aW5nIHdpbmRvdyBkaXNwbGF5cy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBJbiB0aGUgcGFzc2FnZSwgdGhlIHN0YXRlbWVudCB0aGF0IE1hY0d1aXJlJ3MgYXJ0d29yayBpcyBjaGFyYWN0ZXJpemVkIGJ5IHNpbXBsaWNpdHkgYW5kIGVsZWdhbmNlIGlzIGJlc3QgZGVzY3JpYmVkIGFzIHRoZSBvcGluaW9uIG9mOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl2ZXMgdGhhdCBoZSBleHByZXNzZXMgdG8gaGVyIGluIGFuIGVmZm9ydCB0byBpbXByZXNzIGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl2ZXMgdGhhdCBoZSBmb3JtcyBhdCB0aGUgQXJ0IFN0dWRlbnRzIExlYWd1ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1hY0d1aXJlIHRoYXQgc2hlIHN0YXRlcyB0byBoZXIgY2xhc3NtYXRlcyBpbiBob3BlcyB0aGF0IEl2ZXMgd2lsbCBhZ3JlZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl2ZXMgdGhhdCByZXBsYWNlZCBoaXMgaW5pdGlhbCBpbXByZXNzaW9uIG9mIGhlciB3b3JrIGFzIGJlaW5nIHRvbyBjdXRlIGZvciBoaXMgdGFzdGUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBUaGUgcGFzc2FnZSBpbmRpY2F0ZXMgdGhhdCBJdmVzJ3MgcHJpbWFyeSByZXNwb25zZSB0byB0aGUgZXZlbnRzIGRlc2NyaWJlZCBpbiB0aGUgc2l4dGggcGFyYWdyYXBoIChsaW5lcyA2Ny04NCkgaXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRpc2FwcG9pbnRtZW50IG92ZXIgYSBwYWluZnVsIHBlcnNvbmFsIGxvc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdhcm10aCByaXNpbmcgZnJvbSBhIHRyZWFzdXJlZCBtZW1vcnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbmZ1c2lvbiBvdmVyIHRoZSBkaXJlY3Rpb24gaGlzIGxpZmUgaGFzIHRha2VuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNhdGlzZmFjdGlvbiBmcm9tIGNvbXBsZXRpbmcgYSB3b3JrIG9mIGZpbmUgYXJ0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIGFzIGEgeW91bmcgbWFuLCBJdmVzIGhhZCBhIHZpc2lvbiBvZiBzdWNjZXNzIGZvciBoaW1zZWxmIHRoYXQgaW5jbHVkZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJlY29taW5nIGEgSG9sbHl3b29kIGNhcnRvb25pc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1vdmluZyB0byBhIGhvdXNlIGluIHRoZSBjb3VudHJ5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmluZyBhIHNob3cgb2YgYmVhdXRpZnVsIHBvcnRyYWl0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhdmluZyBoaXMgYXJ0d29yayBwdWJsaXNoZWQgaW4gYSBuYXRpb25hbCBtYWdhemluZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBUaGUgcGFzc2FnZSBpbmRpY2F0ZXMgdGhhdCBjb21wYXJlZCB0byBoaXMgd29yayBhdCB0aGUgbW92aWUgdGhlYXRlciwgSXZlcyBmb3VuZCBoaXMgd29yayBmb3IgdGhlIFN0ZWljaG1hbiBicm90aGVycyB0byBiZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG1vcmUgZW5qb3lhYmxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3MgZW5qb3lhYmxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmUgcHJvZml0YWJsZSBmaW5hbmNpYWxseS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxlc3MgcHJvZml0YWJsZSBmaW5hbmNpYWxseTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gVGhhdCBNYWNHdWlyZSB3YXMgZW5yb2xsZWQgaW4gYSBsaXRlcmF0dXJlIGNsYXNzIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFuIGluZmVyZW5jZSBJdmVzIG1hZGUgYmFzZWQgb24gaGlzIG9ic2VydmF0aW9uIG9mIHdoYXQgc2hlIGJyb3VnaHQgdG8gYXJ0IGNsYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgZmFjdCBzaGUgbWVudGlvbmVkIHRvIGhlciBhcnQgc2Nob29sIGNsYXNzbWF0ZXMgYXMgYSB3YXkgb2Ygc3VnZ2VzdGluZyBoZXIgc3VwZXJpb3JpdHkgdG8gdGhlbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGEgZGV0YWlsIHRoYXQgSXZlcyBsZWFybmVkIGZyb20gYSBjbGFzc21hdGUgd2hvIGhhZCBkaXNjb3ZlcmVkIHRoYXQgSXZlcyB3YXMgZm9uZCBvZiBNYWNPdWlyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgY29tbWVudCBzaGUgbWFkZSB0byBvdmVyY29tZSBhbiBhd2t3YXJkIHNpbGVuY2UgaW4gaGVyIGZpcnN0IGNvbnZlcnNhdGlvbiB3aXRoIEl2ZXMuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,117 +1,117 @@
-<h1>Weimaraner Whimsy</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">While the story of Cinderella has been depicted countless times, few of its lead actresses are as fetching as the young heroine of Fay 's Fairy Tales. A cascade of blonde curls covers her shoulders, thick lashes frame soulful dark eyes, and her moist nose <font id=1>glisten</font> appealingly at the end of a long snout.</div>
+PGgxPldlaW1hcmFuZXIgV2hpbXN5PC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoaWxlIHRoZSBzdG9yeSBvZiBDaW5kZXJlbGxhIGhhcyBiZWVuIGRlcGljdGVkIGNvdW50bGVzcyB0aW1lcywgZmV3IG9mIGl0cyBsZWFkIGFjdHJlc3NlcyBhcmUgYXMgZmV0Y2hpbmcgYXMgdGhlIHlvdW5nIGhlcm9pbmUgb2YgRmF5ICdzIEZhaXJ5IFRhbGVzLiBBIGNhc2NhZGUgb2YgYmxvbmRlIGN1cmxzIGNvdmVycyBoZXIgc2hvdWxkZXJzLCB0aGljayBsYXNoZXMgZnJhbWUgc291bGZ1bCBkYXJrIGV5ZXMsIGFuZCBoZXIgbW9pc3Qgbm9zZSA8Zm9udCBpZD0xPmdsaXN0ZW48L2ZvbnQ+IGFwcGVhbGluZ2x5IGF0IHRoZSBlbmQgb2YgYSBsb25nIHNub3V0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=5>Moist nose? Snout? Of course, for this Cinderella was photographed by William Wegman, an artist who has raised dog photography <font id=2>for</font> the level of art. His photographs of  Weimaraners have gained him <font id=3>international acclaim</font> and made his <font id=4>pets, the best-known dogs,</font> since Lassie and Rin Tin Tin.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTU+TW9pc3Qgbm9zZT8gU25vdXQ/IE9mIGNvdXJzZSwgZm9yIHRoaXMgQ2luZGVyZWxsYSB3YXMgcGhvdG9ncmFwaGVkIGJ5IFdpbGxpYW0gV2VnbWFuLCBhbiBhcnRpc3Qgd2hvIGhhcyByYWlzZWQgZG9nIHBob3RvZ3JhcGh5IDxmb250IGlkPTI+Zm9yPC9mb250PiB0aGUgbGV2ZWwgb2YgYXJ0LiBIaXMgcGhvdG9ncmFwaHMgb2YgIFdlaW1hcmFuZXJzIGhhdmUgZ2FpbmVkIGhpbSA8Zm9udCBpZD0zPmludGVybmF0aW9uYWwgYWNjbGFpbTwvZm9udD4gYW5kIG1hZGUgaGlzIDxmb250IGlkPTQ+cGV0cywgdGhlIGJlc3Qta25vd24gZG9ncyw8L2ZvbnQ+IHNpbmNlIExhc3NpZSBhbmQgUmluIFRpbiBUaW4uPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wegman came to the attention of the art world in 1970 with his portraits of his dog Man Ray, the first of Wegman's Weimaraners to pose for photos. The photographer was fascinated by the neutral gray of the dog's coat and his willingness to pose while wearing different costumes. Wegman's photos of Man Ray grew in popularity. <font id=6>In 1982 the dog was named "Man of the Year" by the New York newspaper The Village Voice.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldlZ21hbiBjYW1lIHRvIHRoZSBhdHRlbnRpb24gb2YgdGhlIGFydCB3b3JsZCBpbiAxOTcwIHdpdGggaGlzIHBvcnRyYWl0cyBvZiBoaXMgZG9nIE1hbiBSYXksIHRoZSBmaXJzdCBvZiBXZWdtYW4ncyBXZWltYXJhbmVycyB0byBwb3NlIGZvciBwaG90b3MuIFRoZSBwaG90b2dyYXBoZXIgd2FzIGZhc2NpbmF0ZWQgYnkgdGhlIG5ldXRyYWwgZ3JheSBvZiB0aGUgZG9nJ3MgY29hdCBhbmQgaGlzIHdpbGxpbmduZXNzIHRvIHBvc2Ugd2hpbGUgd2VhcmluZyBkaWZmZXJlbnQgY29zdHVtZXMuIFdlZ21hbidzIHBob3RvcyBvZiBNYW4gUmF5IGdyZXcgaW4gcG9wdWxhcml0eS4gPGZvbnQgaWQ9Nj5JbiAxOTgyIHRoZSBkb2cgd2FzIG5hbWVkICJNYW4gb2YgdGhlIFllYXIiIGJ5IHRoZSBOZXcgWW9yayBuZXdzcGFwZXIgVGhlIFZpbGxhZ2UgVm9pY2UuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=11><font id=7>Later,</font> other Weimaraners became part of the Wegman family, giving him additional subjects for his photos. <font id=8>Each has a unique personality that Wegman considers Carefully before deciding what sorts of pictures to take.</font> [A] Chundo is eager to work, but he doesn't sit still very long. [B] Batty, who often falls asleep while posing, has a sweet and dreamy quality. [C] And Fay <font id=9>Looked</font> great in wigs, which makes her a natural choice to portray female characters. [D] While Wegman's reputation was made with art photography, in recent years his children's books have generated a new but equally devoted following. His whimsical style appeals to children, <font id=10>having chosen</font> toreenact familiar fairy tales with canine characters.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTExPjxmb250IGlkPTc+TGF0ZXIsPC9mb250PiBvdGhlciBXZWltYXJhbmVycyBiZWNhbWUgcGFydCBvZiB0aGUgV2VnbWFuIGZhbWlseSwgZ2l2aW5nIGhpbSBhZGRpdGlvbmFsIHN1YmplY3RzIGZvciBoaXMgcGhvdG9zLiA8Zm9udCBpZD04PkVhY2ggaGFzIGEgdW5pcXVlIHBlcnNvbmFsaXR5IHRoYXQgV2VnbWFuIGNvbnNpZGVycyBDYXJlZnVsbHkgYmVmb3JlIGRlY2lkaW5nIHdoYXQgc29ydHMgb2YgcGljdHVyZXMgdG8gdGFrZS48L2ZvbnQ+IFtBXSBDaHVuZG8gaXMgZWFnZXIgdG8gd29yaywgYnV0IGhlIGRvZXNuJ3Qgc2l0IHN0aWxsIHZlcnkgbG9uZy4gW0JdIEJhdHR5LCB3aG8gb2Z0ZW4gZmFsbHMgYXNsZWVwIHdoaWxlIHBvc2luZywgaGFzIGEgc3dlZXQgYW5kIGRyZWFteSBxdWFsaXR5LiBbQ10gQW5kIEZheSA8Zm9udCBpZD05Pkxvb2tlZDwvZm9udD4gZ3JlYXQgaW4gd2lncywgd2hpY2ggbWFrZXMgaGVyIGEgbmF0dXJhbCBjaG9pY2UgdG8gcG9ydHJheSBmZW1hbGUgY2hhcmFjdGVycy4gW0RdIFdoaWxlIFdlZ21hbidzIHJlcHV0YXRpb24gd2FzIG1hZGUgd2l0aCBhcnQgcGhvdG9ncmFwaHksIGluIHJlY2VudCB5ZWFycyBoaXMgY2hpbGRyZW4ncyBib29rcyBoYXZlIGdlbmVyYXRlZCBhIG5ldyBidXQgZXF1YWxseSBkZXZvdGVkIGZvbGxvd2luZy4gSGlzIHdoaW1zaWNhbCBzdHlsZSBhcHBlYWxzIHRvIGNoaWxkcmVuLCA8Zm9udCBpZD0xMD5oYXZpbmcgY2hvc2VuPC9mb250PiB0b3JlZW5hY3QgZmFtaWxpYXIgZmFpcnkgdGFsZXMgd2l0aCBjYW5pbmUgY2hhcmFjdGVycy48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=12>With a keen eye for art,</font> Wegman's Weimaraners lead an ordinary dog's life in <font id=13>most</font> ways. The breed is sociable and intelligent, and Wegman reports that the dogs often compete to pose. In William Wegman's home, a dog's life is lived within the frame of a photograph.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTEyPldpdGggYSBrZWVuIGV5ZSBmb3IgYXJ0LDwvZm9udD4gV2VnbWFuJ3MgV2VpbWFyYW5lcnMgbGVhZCBhbiBvcmRpbmFyeSBkb2cncyBsaWZlIGluIDxmb250IGlkPTEzPm1vc3Q8L2ZvbnQ+IHdheXMuIFRoZSBicmVlZCBpcyBzb2NpYWJsZSBhbmQgaW50ZWxsaWdlbnQsIGFuZCBXZWdtYW4gcmVwb3J0cyB0aGF0IHRoZSBkb2dzIG9mdGVuIGNvbXBldGUgdG8gcG9zZS4gSW4gV2lsbGlhbSBXZWdtYW4ncyBob21lLCBhIGRvZydzIGxpZmUgaXMgbGl2ZWQgd2l0aGluIHRoZSBmcmFtZSBvZiBhIHBob3RvZ3JhcGguPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">1.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. glistens</div>
-<div class = "choice">C. glistened</div>
-<div class = "choice">D. are glistening</div>
-</div>
-###################
-<div class = "quiz">2.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. on</div>
-<div class = "choice">H. to</div>
-<div class = "choice">J. by</div>
-</div>
-###################
-<div class = "quiz">3.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. international acclaim the world over</div>
-<div class = "choice">C. worldwide international acclaim</div>
-<div class = "choice">D. international acclaim around the world</div>
-</div>
-###################
-<div class = "quiz">4.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. pets, the best-known dogs</div>
-<div class = "choice">H. pets; the best-known dogs</div>
-<div class = "choice">J. pets the best-known dogs</div>
-</div>
-###################
-<div class = "quiz">5. If the writer were to delete the questions "Moist nose? Snout?" from this paragraph, the essay would primarily lose:
-<div class = "choice">A. a serious and analytical tone.</div>
-<div class = "choice">B. an emphasis on the surprising twist in the essay;</div>
-<div class = "choice">C. an assertion of the essay's main purpose.</div>
-<div class = "choice">D. nothing at all, since they create a meaningless digression.</div>
-</div>
-###################
-<div class = "quiz">6. If the writer were to delete the phrase "named 'Man of the Year'" in the preceding sentence and replace it with "honored with an award," the paragraph would primarily lose:
-<div class = "choice">F. an element of suspense leading to the next paragraph.</div>
-<div class = "choice">G. a specific detail that adds humor.</div>
-<div class = "choice">H. a fact that foreshadows later events.</div>
-<div class = "choice">J. a distinction between the two figures discussed in this paragraph.</div>
-</div>
-###################
-<div class = "quiz">7. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">A. Eventually,</div>
-<div class = "choice">B. After all,</div>
-<div class = "choice">C. Before long,</div>
-<div class = "choice">D.  In time,</div>
-</div>
-###################
-<div class = "quiz">8. Given that all the choices are true, which one best conveys the idea that the individuality of the dogs inspires Wegman as a photographer?
-<div class = "choice">F. NO CHANGE .</div>
-<div class = "choice">G. Being his first Weimaraner, Man Ray was, of course, Wegman's favorite and was irreplaceable in many ways.</div>
-<div class = "choice">H. The dogs have each posed for so many different photographs that Wegman needs to give very little direction during a shoot.</div>
-<div class = "choice">J. As a breed, Weimaraners have such a distinctive look that most people have a hard time telling one Wegman dog from another.</div>
-</div>
-###################
-<div class = "quiz">9.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B.looking</div>
-<div class = "choice">C. looks</div>
-<div class = "choice">D. was looking</div>
-</div>
-###################
-<div class = "quiz">10.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. being creative enough</div>
-<div class = "choice">H. sometimes deciding</div>
-<div class = "choice">J. particularly when he uses it</div>
-</div>
-###################
-<div class = "quiz">11. If the writer were to divide this paragraph into two, the most logical place to begin the new paragraph would be at Point:
-<div class = "choice">A. A.</div>
-<div class = "choice">B. B.</div>
-<div class = "choice">C. C.</div>
-<div class = "choice">D. D.</div>
-</div>
-###################
-<div class = "quiz">12.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Despite their fame,</div>
-<div class = "choice">H. Unlike most photography,</div>
-<div class = "choice">J. Now considered a true artist,</div>
-</div>
-###################
-<div class = "quiz">13.
-<div class = "choice">A. NO CHANOE</div>
-<div class = "choice">B. much</div>
-<div class = "choice">C. more</div>
-<div class = "choice">D. Mostly</div>
-</div>
-###################
-<div class = "quiz">14. Suppose the writer's goal had been to write a brief essay describing the renewed popularity some classic Children's stories are gaining with a new generation of readers. Would this essay accomplish that goal? Question 14 asks about the preceding passage as a whole.
-<div class = "choice">F. Yes, because it details, unique changes Wegman and his dogs have recently made to popular children's fairy tales.</div>
-<div class = "choice">G. Yes, because it chronicles the rise and fall in popularity of such children's classics as Cinderella.</div>
-<div class = "choice">H. No, because it focuses on Wegman's career as a photographer and his unique dogs, not on children's stories.</div>
-<div class = "choice">J. No, because it examines a variety of projects that Wegman's dogs have been involved in since 1970.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGdsaXN0ZW5zPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdsaXN0ZW5lZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyZSBnbGlzdGVuaW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJ5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGludGVybmF0aW9uYWwgYWNjbGFpbSB0aGUgd29ybGQgb3ZlcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdvcmxkd2lkZSBpbnRlcm5hdGlvbmFsIGFjY2xhaW08L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGludGVybmF0aW9uYWwgYWNjbGFpbSBhcm91bmQgdGhlIHdvcmxkPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHBldHMsIHRoZSBiZXN0LWtub3duIGRvZ3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBldHM7IHRoZSBiZXN0LWtub3duIGRvZ3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBldHMgdGhlIGJlc3Qta25vd24gZG9nczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBJZiB0aGUgd3JpdGVyIHdlcmUgdG8gZGVsZXRlIHRoZSBxdWVzdGlvbnMgIk1vaXN0IG5vc2U/IFNub3V0PyIgZnJvbSB0aGlzIHBhcmFncmFwaCwgdGhlIGVzc2F5IHdvdWxkIHByaW1hcmlseSBsb3NlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgc2VyaW91cyBhbmQgYW5hbHl0aWNhbCB0b25lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIGVtcGhhc2lzIG9uIHRoZSBzdXJwcmlzaW5nIHR3aXN0IGluIHRoZSBlc3NheTs8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGFzc2VydGlvbiBvZiB0aGUgZXNzYXkncyBtYWluIHB1cnBvc2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG5vdGhpbmcgYXQgYWxsLCBzaW5jZSB0aGV5IGNyZWF0ZSBhIG1lYW5pbmdsZXNzIGRpZ3Jlc3Npb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBJZiB0aGUgd3JpdGVyIHdlcmUgdG8gZGVsZXRlIHRoZSBwaHJhc2UgIm5hbWVkICdNYW4gb2YgdGhlIFllYXInIiBpbiB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlIGFuZCByZXBsYWNlIGl0IHdpdGggImhvbm9yZWQgd2l0aCBhbiBhd2FyZCwiIHRoZSBwYXJhZ3JhcGggd291bGQgcHJpbWFyaWx5IGxvc2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFuIGVsZW1lbnQgb2Ygc3VzcGVuc2UgbGVhZGluZyB0byB0aGUgbmV4dCBwYXJhZ3JhcGguPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgc3BlY2lmaWMgZGV0YWlsIHRoYXQgYWRkcyBodW1vci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGEgZmFjdCB0aGF0IGZvcmVzaGFkb3dzIGxhdGVyIGV2ZW50cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgZGlzdGluY3Rpb24gYmV0d2VlbiB0aGUgdHdvIGZpZ3VyZXMgZGlzY3Vzc2VkIGluIHRoaXMgcGFyYWdyYXBoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGFsdGVybmF0aXZlcyB0byB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIE5PVCBiZSBhY2NlcHRhYmxlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEV2ZW50dWFsbHksPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFmdGVyIGFsbCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJlZm9yZSBsb25nLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuICBJbiB0aW1lLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBHaXZlbiB0aGF0IGFsbCB0aGUgY2hvaWNlcyBhcmUgdHJ1ZSwgd2hpY2ggb25lIGJlc3QgY29udmV5cyB0aGUgaWRlYSB0aGF0IHRoZSBpbmRpdmlkdWFsaXR5IG9mIHRoZSBkb2dzIGluc3BpcmVzIFdlZ21hbiBhcyBhIHBob3RvZ3JhcGhlcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRSAuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEJlaW5nIGhpcyBmaXJzdCBXZWltYXJhbmVyLCBNYW4gUmF5IHdhcywgb2YgY291cnNlLCBXZWdtYW4ncyBmYXZvcml0ZSBhbmQgd2FzIGlycmVwbGFjZWFibGUgaW4gbWFueSB3YXlzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBkb2dzIGhhdmUgZWFjaCBwb3NlZCBmb3Igc28gbWFueSBkaWZmZXJlbnQgcGhvdG9ncmFwaHMgdGhhdCBXZWdtYW4gbmVlZHMgdG8gZ2l2ZSB2ZXJ5IGxpdHRsZSBkaXJlY3Rpb24gZHVyaW5nIGEgc2hvb3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFzIGEgYnJlZWQsIFdlaW1hcmFuZXJzIGhhdmUgc3VjaCBhIGRpc3RpbmN0aXZlIGxvb2sgdGhhdCBtb3N0IHBlb3BsZSBoYXZlIGEgaGFyZCB0aW1lIHRlbGxpbmcgb25lIFdlZ21hbiBkb2cgZnJvbSBhbm90aGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIubG9va2luZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxvb2tzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdhcyBsb29raW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlaW5nIGNyZWF0aXZlIGVub3VnaDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNvbWV0aW1lcyBkZWNpZGluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBhcnRpY3VsYXJseSB3aGVuIGhlIHVzZXMgaXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIGRpdmlkZSB0aGlzIHBhcmFncmFwaCBpbnRvIHR3bywgdGhlIG1vc3QgbG9naWNhbCBwbGFjZSB0byBiZWdpbiB0aGUgbmV3IHBhcmFncmFwaCB3b3VsZCBiZSBhdCBQb2ludDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIERlc3BpdGUgdGhlaXIgZmFtZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFVubGlrZSBtb3N0IHBob3RvZ3JhcGh5LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vdyBjb25zaWRlcmVkIGEgdHJ1ZSBhcnRpc3QsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5PRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG11Y2g8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE1vc3RseTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gU3VwcG9zZSB0aGUgd3JpdGVyJ3MgZ29hbCBoYWQgYmVlbiB0byB3cml0ZSBhIGJyaWVmIGVzc2F5IGRlc2NyaWJpbmcgdGhlIHJlbmV3ZWQgcG9wdWxhcml0eSBzb21lIGNsYXNzaWMgQ2hpbGRyZW4ncyBzdG9yaWVzIGFyZSBnYWluaW5nIHdpdGggYSBuZXcgZ2VuZXJhdGlvbiBvZiByZWFkZXJzLiBXb3VsZCB0aGlzIGVzc2F5IGFjY29tcGxpc2ggdGhhdCBnb2FsPyBRdWVzdGlvbiAxNCBhc2tzIGFib3V0IHRoZSBwcmVjZWRpbmcgcGFzc2FnZSBhcyBhIHdob2xlLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSBpdCBkZXRhaWxzLCB1bmlxdWUgY2hhbmdlcyBXZWdtYW4gYW5kIGhpcyBkb2dzIGhhdmUgcmVjZW50bHkgbWFkZSB0byBwb3B1bGFyIGNoaWxkcmVuJ3MgZmFpcnkgdGFsZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBpdCBjaHJvbmljbGVzIHRoZSByaXNlIGFuZCBmYWxsIGluIHBvcHVsYXJpdHkgb2Ygc3VjaCBjaGlsZHJlbidzIGNsYXNzaWNzIGFzIENpbmRlcmVsbGEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIGl0IGZvY3VzZXMgb24gV2VnbWFuJ3MgY2FyZWVyIGFzIGEgcGhvdG9ncmFwaGVyIGFuZCBoaXMgdW5pcXVlIGRvZ3MsIG5vdCBvbiBjaGlsZHJlbidzIHN0b3JpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGl0IGV4YW1pbmVzIGEgdmFyaWV0eSBvZiBwcm9qZWN0cyB0aGF0IFdlZ21hbidzIGRvZ3MgaGF2ZSBiZWVuIGludm9sdmVkIGluIHNpbmNlIDE5NzAuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

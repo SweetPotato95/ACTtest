@@ -1,519 +1,519 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-###################
-<div class = "quiz">1. A group of 6 people planned to spend $10.00 each to rent a boat for an outing. At the last minute, 1 person could not go on the outing. The others then paid equally for the boat. How much did each pay?
-<div class = "choice">A. $ 8.00</div>
-<div class = "choice">B. $ 8.33</div>
-<div class = "choice">C. $11.67</div>
-<div class = "choice">D. $12.00</div>
-<div class = "choice">E. $20.00</div>
-</div>
-###################
-<div class = "quiz">2. A calculator has a regular price of $58.95 before taxes. It goes on sale at 20% below the regular price. Before taxes are added, what is the sale price of the calculator?
-<div class = "choice">F. $ 53.95</div>
-<div class = "choice">G. $47.16</div>
-<div class = "choice">H. $38.95</div>
-<div class = "choice">J. $29.48</div>
-<div class = "choice">K. $11.79</div>
-</div>
-###################
-<div class = "quiz">3. Melissa knows that 30 miles per hour is equivalent o 44 feet per second. If Melissa drives at a speed of 70 miles per hour, which of the following is closest to her speed in feet per second?
-<div class = "choice">A. 31</div>
-<div class = "choice">B. 48</div>
-<div class = "choice">C. 103</div>
-<div class = "choice">D. 127</div>
-<div class = "choice">E. 1,027</div>
-</div>
-###################
-<div class = "quiz">4. If<img src='file:\$$$\resources\2011 April 67F\imgs\0.png' width = '55'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\1.png' width = '56'height = '29'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\2.png' width = '72'height = '34'/>, what does (r+b-g)(b+g) equal?
-<div class = "choice">F. -10</div>
-<div class = "choice">G. -4</div>
-<div class = "choice">H. 4</div>
-<div class = "choice">J. 9</div>
-<div class = "choice">K. 10</div>
-</div>
-###################
-<div class = "quiz">5. What is the largest value of x for which there exists a real value of y such that<img src='file:\$$$\resources\2011 April 67F\imgs\3.png' width = '140'height = '38'/>?
-<div class = "choice">A. 16</div>
-<div class = "choice">B. 128</div>
-<div class = "choice">C. 240</div>
-<div class = "choice">D. 256</div>
-<div class = "choice">E. 512</div>
-</div>
-###################
-<div class = "quiz">6. At Riverland Amusement Park, if an individual is not more than 4 feet tall, then that individual cannot ride the roller coaster. If Antoine rode the roller coaster at Riverland Amusement Park today, then which of the following may be logically concluded?
-<div class = "choice">F. Antoine is at most 3 feet tall.</div>
-<div class = "choice">G. Antoine is less than 4 feet tall.</div>
-<div class = "choice">H. Antoine is exactly 4 feet tall.</div>
-<div class = "choice">J. Antoine is more than 4 feet tall.</div>
-<div class = "choice">K. Antoine is at least 5 feet tall.</div>
-</div>
-###################
-<div class = "quiz">7. The number, N, of students at Hamlet High School who will catch the flu through Week t of school is modeled by the function<img src='file:\$$$\resources\2011 April 67F\imgs\4.png' width = '200'height = '69'/>. According to the model, how many students will catch the flu through Weed 4?
-<div class = "choice">A. 114</div>
-<div class = "choice">B. 1,068</div>
-<div class = "choice">C. 1,130</div>
-<div class = "choice">D. 1,835</div>
-<div class = "choice">E. 1,951</div>
-</div>
-###################
-<div class = "quiz">8. <img src='file:\$$$\resources\2011 April 67F\imgs\5.png' width = '87'height = '34'/>is equivalent to:
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\6.png' width = '51'height = '34'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\7.png' width = '55'height = '34'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\8.png' width = '56'height = '34'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\9.png' width = '56'height = '34'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\10.png' width = '60'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">9. A bag contains 5 yellow jellybeans, and 3 green jellybeans, all of the same shape and size. When 1 jellybean is randomly picked from the bag, what is the probability that it is green?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\11.png' width = '32'height = '65'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\12.png' width = '24'height = '65'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\13.png' width = '22'height = '65'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\14.png' width = '32'height = '65'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\15.png' width = '24'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">10. What is the least common denominator for adding the fractions<img src='file:\$$$\resources\2011 April 67F\imgs\16.png' width = '35'height = '65'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\17.png' width = '35'height = '65'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\18.png' width = '32'height = '65'/>?
-<div class = "choice">F. 80</div>
-<div class = "choice">G. 560</div>
-<div class = "choice">H. 1,960</div>
-<div class = "choice">J. 4,480</div>
-<div class = "choice">K. 31,360</div>
-</div>
-###################
-<div class = "quiz">11. Marisa's design for a rectangular stained glass window with 7 triangles is shown below. The 2 white triangles are congruent (<img src='file:\$$$\resources\2011 April 67F\imgs\19.png' width = '162'height = '29'/>) and will be a different color than the other 5 triangles. The design includes the measures of<img src='file:\$$$\resources\2011 April 67F\imgs\20.png' width = '74'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\21.png' width = '74'height = '29'/>, and<img src='file:\$$$\resources\2011 April 67F\imgs\22.png' width = '75'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\23.png' width = '75'height = '29'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\24.png' width = '566'height = '340'/>
-<div class = "choice">A. 45°</div>
-<div class = "choice">B. 65°</div>
-<div class = "choice">C. 70°</div>
-<div class = "choice">D. 115°</div>
-<div class = "choice">E. 135°</div>
-</div>
-###################
-<div class = "quiz">12. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\25.png' width = '68'height = '125'/> is equal to:
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\26.png' width = '35'height = '65'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\27.png' width = '46'height = '65'/></div>
-<div class = "choice">H. 4</div>
-<div class = "choice">J. 5</div>
-<div class = "choice">K. 10</div>
-</div>
-###################
-<div class = "quiz">13. The sum of the real numbers x and y is 15. Their difference is 9. What is the value of xy?
-<div class = "choice">A. 12</div>
-<div class = "choice">B. 15</div>
-<div class = "choice">C. 24</div>
-<div class = "choice">D. 36</div>
-<div class = "choice">E. 135</div>
-</div>
-###################
-<div class = "quiz">14. Four points, A, B, C, and D, lie on a circle having a circumference of 17 units. B is 6 units counterclockwise from. A. C is 2 units clockwise from A. D is 9 units clockwise from A and 8 units counterclockwise from A. What is the order of the points, starting with A and going clockwise around the circle?
-<div class = "choice">F. A, B, C, D</div>
-<div class = "choice">G. A, B, D, C</div>
-<div class = "choice">H. A, C, B, D</div>
-<div class = "choice">J. A, C, D, B</div>
-<div class = "choice">K. A, D, C, B</div>
-</div>
-###################
-<div class = "quiz">15. To determine a student's overall test score for the semester, Ms. Rainwater deletes the lowest test score and calculates the average of the remaining test scores. Galen took all 5 tests and earned the following test scores in Ms. Rainwater's class this semester: 81, 83, 88, 92, and 99. What overall test score did Galen earn in Ms. Rainwater's class this semester?
-<div class = "choice">A. 88.0</div>
-<div class = "choice">B. 88.6</div>
-<div class = "choice">C. 90.0</div>
-<div class = "choice">D. 90.5</div>
-<div class = "choice">E. 91.0</div>
-</div>
-###################
-<div class = "quiz">16. What is the slope-intercept form of<img src='file:\$$$\resources\2011 April 67F\imgs\28.png' width = '140'height = '34'/>?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\29.png' width = '120'height = '34'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\30.png' width = '120'height = '34'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\31.png' width = '106'height = '34'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\32.png' width = '107'height = '34'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\33.png' width = '106'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">17. What is the sum of the 2 solutions of the equation<img src='file:\$$$\resources\2011 April 67F\imgs\34.png' width = '159'height = '34'/>?
-<div class = "choice">A. 7</div>
-<div class = "choice">B. 3</div>
-<div class = "choice">C. 0</div>
-<div class = "choice">D. -4</div>
-<div class = "choice">E. -28</div>
-</div>
-###################
-<div class = "quiz">18. <img src='file:\$$$\resources\2011 April 67F\imgs\35.png' width = '168'height = '42'/>
-<div class = "choice">F. -2</div>
-<div class = "choice">G. 2</div>
-<div class = "choice">H. 10</div>
-<div class = "choice">J. 19</div>
-<div class = "choice">K. 38</div>
-</div>
-###################
-<div class = "quiz">19. Tracy is trying to find a wrench to fit a bolt. The <img src='file:\$$$\resources\2011 April 67F\imgs\36.png' width = '75'height = '65'/> wrench is too large, and the <img src='file:\$$$\resources\2011 April 67F\imgs\37.png' width = '88'height = '65'/> wrench is too small. Which of the following could be the size of the wrench that will fit the bolt exactly?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\38.png' width = '78'height = '65'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\39.png' width = '88'height = '65'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\40.png' width = '88'height = '65'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\41.png' width = '35'height = '65'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\42.png' width = '88'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">20. What is the slope of the line containing the points (3, 8) and (-2, 10) in the standard (x, y) coordinate plane?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\43.png' width = '32'height = '65'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\44.png' width = '32'height = '65'/></div>
-<div class = "choice">H. 18</div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\45.png' width = '41'height = '65'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\46.png' width = '41'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">21. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\47.png' width = '191'height = '29'/> is equivalent to:
-<div class = "choice">A. 6abc</div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\48.png' width = '70'height = '34'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\49.png' width = '88'height = '34'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\50.png' width = '117'height = '34'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\51.png' width = '126'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">22. During a 5-year period, 875 houses were built in Somerville. The graph below shows how many of these houses were built in each of these 5 years. A certain percent of the 875 houses were built in 1993. Which of the following is closest to that percent?
-<img src='file:\$$$\resources\2011 April 67F\imgs\52.png' width = '441'height = '330'/>
-<div class = "choice">F. 20%</div>
-<div class = "choice">G. 25%</div>
-<div class = "choice">H. 30%</div>
-<div class = "choice">J. 35%</div>
-<div class = "choice">K. 40%</div>
-</div>
-###################
-<div class = "quiz">23. How many terms are there between 13 and 37, exclusive of 13 and 37, in the arithmetic sequence below?
-4, 7, 10, 13, …, 37
-<div class = "choice">A. 0</div>
-<div class = "choice">B. 7</div>
-<div class = "choice">C. 8</div>
-<div class = "choice">D. 28</div>
-<div class = "choice">E. 36</div>
-</div>
-###################
-<div class = "quiz">24. For<img src='file:\$$$\resources\2011 April 67F\imgs\53.png' width = '80'height = '34'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\54.png' width = '122'height = '69'/>
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\55.png' width = '56'height = '65'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\56.png' width = '56'height = '65'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\57.png' width = '56'height = '65'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\58.png' width = '41'height = '65'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\59.png' width = '24'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">25. The sides of one triangle are 12 inches, 14 inches, and 15 inches long, respectively. In a second triangle similar to the first, the shortest side is 8 inches long. To the nearest tenth of an inch, what is the length of the longest side of the second triangle?
-<div class = "choice">A. 6.4</div>
-<div class = "choice">B. 9.3</div>
-<div class = "choice">C. 10.0</div>
-<div class = "choice">D. 11.0</div>
-<div class = "choice">E. 14.4</div>
-</div>
-###################
-<div class = "quiz">26. Which of the following is equivalent to <img src='file:\$$$\resources\2011 April 67F\imgs\60.png' width = '80'height = '38'/> whenever<img src='file:\$$$\resources\2011 April 67F\imgs\61.png' width = '72'height = '29'/>?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\62.png' width = '55'height = '29'/></div>
-<div class = "choice">G. 0</div>
-<div class = "choice">H. 1</div>
-<div class = "choice">J. 2</div>
-<div class = "choice">K. 3</div>
-</div>
-###################
-<div class = "quiz">27. A pentagon has 1 side of length z cm. 2 sides of length (z+2) cm each, 1 side of length 5 cm, and 1 side of length 3z cm. What is the perimeter, in centimeters, of the pentagon?
-<div class = "choice">A. 9z+6</div>
-<div class = "choice">B. 6z+9</div>
-<div class = "choice">C. 6z+4</div>
-<div class = "choice">D. 5z+9</div>
-<div class = "choice">E. 5z+7</div>
-</div>
-###################
-<div class = "quiz">28. A park has the shape and dimensions in blocks given below. A water fountain is located halfway between B and D. If you are at A, the water fountain is:
-<img src='file:\$$$\resources\2011 April 67F\imgs\63.png' width = '164'height = '236'/>
-<div class = "choice">F. <img src='file:\$$$\resources\2011 April 67F\imgs\64.png' width = '38'height = '65'/>blocks north and 5 blocks east.</div>
-<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\65.png' width = '38'height = '65'/>blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\66.png' width = '36'height = '65'/> blocks east.</div>
-<div class = "choice">H. 6 blocks north and <img src='file:\$$$\resources\2011 April 67F\imgs\67.png' width = '36'height = '65'/> blocks east.</div>
-<div class = "choice">J. 6 blocks north and 5 blocks east.</div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\68.png' width = '38'height = '65'/>blocks north and 9 blocks east.</div>
-</div>
-###################
-<div class = "quiz">29. If <img src='file:\$$$\resources\2011 April 67F\imgs\69.png' width = '70'height = '29'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\70.png' width = '68'height = '29'/>, which of the following relationships holds between a and b for each nonzero value of c?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\71.png' width = '68'height = '29'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\72.png' width = '70'height = '29'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\73.png' width = '56'height = '29'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\74.png' width = '75'height = '65'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\75.png' width = '75'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">30. For a certain plant, the recommended nighttime temperature range in degrees Fahrenheit is<img src='file:\$$$\resources\2011 April 67F\imgs\76.png' width = '143'height = '29'/>. Given the formula<img src='file:\$$$\resources\2011 April 67F\imgs\77.png' width = '150'height = '65'/>, where C is the temperature in degrees Celsius and F is the temperature in degrees Fahrenheit, what is the corresponding nighttime temperature range in degrees Celsius for the plant?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\78.png' width = '117'height = '29'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\79.png' width = '126'height = '29'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\80.png' width = '139'height = '29'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\81.png' width = '140'height = '29'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\82.png' width = '143'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">31. In parallelogram ABCD below, the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\83.png' width = '75'height = '29'/> is <img src='file:\$$$\resources\2011 April 67F\imgs\84.png' width = '41'height = '29'/> and the measure of <img src='file:\$$$\resources\2011 April 67F\imgs\85.png' width = '75'height = '29'/> is<img src='file:\$$$\resources\2011 April 67F\imgs\86.png' width = '41'height = '29'/>. What is the measure of<img src='file:\$$$\resources\2011 April 67F\imgs\87.png' width = '74'height = '27'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\88.png' width = '444'height = '380'/>
-<div class = "choice">A. 38°</div>
-<div class = "choice">B. 41°</div>
-<div class = "choice">C. 44°</div>
-<div class = "choice">D. 49°</div>
-<div class = "choice">E. 52°</div>
-</div>
-###################
-<div class = "quiz">32. All the adjacent line segments in the figure below intersect in right angles. If each segment is 6 units long, what is the area, in square units, of the entire figure?
-<img src='file:\$$$\resources\2011 April 67F\imgs\89.png' width = '324'height = '298'/>
-<div class = "choice">F. 72</div>
-<div class = "choice">G. 120</div>
-<div class = "choice">H. 144</div>
-<div class = "choice">J. 180</div>
-<div class = "choice">K. 324</div>
-</div>
-###################
-<div class = "quiz">33. Rhombus RHOM is shown in the figure below. If <img src='file:\$$$\resources\2011 April 67F\imgs\90.png' width = '78'height = '29'/> m and <img src='file:\$$$\resources\2011 April 67F\imgs\91.png' width = '88'height = '29'/> m, then what is the length, in meters, of<img src='file:\$$$\resources\2011 April 67F\imgs\92.png' width = '41'height = '36'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\93.png' width = '448'height = '345'/>
-<div class = "choice">A. 3</div>
-<div class = "choice">B. 4</div>
-<div class = "choice">C. 5</div>
-<div class = "choice">D. 6</div>
-<div class = "choice">E. 8</div>
-</div>
-###################
-<div class = "quiz">34. Grid lines are shown at 1-unit intervals in the standard (x, y) coordinate plane below. Some of the 1-by-1 squares are shaded in the grid. What is the least number of additional 1-by-1 squares that must be shaded so the total shaded region will be symmetric about the y-axis?
-<img src='file:\$$$\resources\2011 April 67F\imgs\94.png' width = '258'height = '260'/>
-<div class = "choice">F. 3</div>
-<div class = "choice">G. 5</div>
-<div class = "choice">H. 7</div>
-<div class = "choice">J. 11</div>
-<div class = "choice">K. 22</div>
-</div>
-###################
-<div class = "quiz">35. The ratio of the side lengths of a rectangle with an area of 80 square yards is 4:1. Which of the following is closest to the length, in yards, of the longer side of the rectangle?
-<div class = "choice">A. 10</div>
-<div class = "choice">B. 16</div>
-<div class = "choice">C. 18</div>
-<div class = "choice">D. 32</div>
-<div class = "choice">E. 40</div>
-</div>
-###################
-<div class = "quiz">36. Ms. Luciano's Algebra I class is describing the volume of geometric figures in tertms of variables. She draws a rectangular prism that has a length of (x+2) meters, a width of (x-2) meters, and a height of (x+1) meters. Which of the following is an expression for the volume, in cubic meters, of the rectangular prism?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\95.png' width = '65'height = '29'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\96.png' width = '61'height = '29'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\97.png' width = '64'height = '34'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\98.png' width = '169'height = '34'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\99.png' width = '158'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">37. A data set has 15 elements. The 15 elements in a second data set are obtained by multiplying each element in the first data set by 10. The 15 elements in a third data set are obtained by decreasing each element of the second data set by 20. The median of the third data set is 50. What is the median of the first data set?
-<div class = "choice">A. -20</div>
-<div class = "choice">B. 7</div>
-<div class = "choice">C. 50</div>
-<div class = "choice">D. 70</div>
-<div class = "choice">E. 750</div>
-</div>
-###################
-<div class = "quiz">38. Jamal sees a tree on the shore directly across a lake and wonders what the distance is across the lake to the tree. He turns 90° to the right and walks in a straight line for 100 meters. Jamal turns to face the tree and finds the angle between his line of sight and his path measures 25°, as show below. Which of the following is closest to the distance, in meters, from Jamal's initial position to the tree?
-(Note:<img src='file:\$$$\resources\2011 April 67F\imgs\100.png' width = '143'height = '29'/>, <img src='file:\$$$\resources\2011 April 67F\imgs\101.png' width = '145'height = '29'/>,<img src='file:\$$$\resources\2011 April 67F\imgs\102.png' width = '145'height = '29'/>)
-<img src='file:\$$$\resources\2011 April 67F\imgs\103.png' width = '684'height = '333'/>
-<div class = "choice">F. 42</div>
-<div class = "choice">G. 47</div>
-<div class = "choice">H. 91</div>
-<div class = "choice">J. 213</div>
-<div class = "choice">K. 238</div>
-</div>
-###################
-<div class = "quiz">39. In the standard (x, y) coordinate plane, a right triangle has vertices at (-3, 4), (3, 4), and (3, -4). What is the length, in coordinate units, of the hypotenuse of this triangle?
-<div class = "choice">A. 3</div>
-<div class = "choice">B. 4</div>
-<div class = "choice">C. 6</div>
-<div class = "choice">D. 8</div>
-<div class = "choice">E. 10</div>
-</div>
-###################
-<div class = "quiz">40. Each edge of a cube is 4 inches long. Each edge of a second cube is triple the length of each edge of the first cube. The volume of the second cube is how many cubic inches bigger than the volume of the first cube?
-<div class = "choice">F. 128</div>
-<div class = "choice">G. 512</div>
-<div class = "choice">H. 576</div>
-<div class = "choice">J. 1,664</div>
-<div class = "choice">K. 1,728</div>
-</div>
-###################
-<div class = "quiz">41. A particular circle in the standard (x, y) coordinate plane has an equation of<img src='file:\$$$\resources\2011 April 67F\imgs\104.png' width = '174'height = '38'/>. What are the radius of the circle, in coordinate units, and the coordinates of the center of the circle?
-radius   center
-<div class = "choice">A.  7.5     (-8, 0)</div>
-<div class = "choice">B.  7.5     (8, 0)</div>
-<div class = "choice">C.  15     (8, 0)</div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\105.png' width = '46'height = '38'/>   (-8, 0)</div>
-<div class = "choice">E.<img src='file:\$$$\resources\2011 April 67F\imgs\106.png' width = '46'height = '38'/>    (8, 0)</div>
-</div>
-###################
-<div class = "quiz">42. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
-The City Council decides to put fencing around the park. What is the perimeter, in feet, of the park?
-<div class = "choice">F. 150</div>
-<div class = "choice">G. 210</div>
-<div class = "choice">H. 270</div>
-<div class = "choice">J. 420</div>
-<div class = "choice">K. 540</div>
-</div>
-###################
-<div class = "quiz">43. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
-The picnic shelter must be at least 10 feet from any edge of the park. On graph paper with the distance between grid lines representing 10 feet, a city engineer makes a scale drawing of the park, as shown below. The region where the picnic shelter CANNOT be built is shown shaded. The corners of both the park and the region where the picnic shelter may be built are at the intersections of grid lines. The corners of the picnic shelter must also be at the intersections of grid lines. How many different locations in the park are possible for the placement of the picnic shelter?
-<img src='file:\$$$\resources\2011 April 67F\imgs\107.png' width = '554'height = '268'/>
-<div class = "choice">A. 22</div>
-<div class = "choice">B. 36</div>
-<div class = "choice">C. 52</div>
-<div class = "choice">D. 70</div>
-<div class = "choice">E. 90</div>
-</div>
-###################
-<div class = "quiz">44. The Springfield City Council is going to create a park on some unused land the city owns. The park will be a rectangular region 60 feet by 150 feet with an area of 9,000 square feet. There will be a picnic shelter in the park that will cover a square region 30 feet by 30 feet with an area of 900 square feet. The park will be grass, except for the region where the picnic shelter is.
-The City Council's long-term plan for the park involves doubling the area of the park. The length and width of the park will each be extended by d feet. For which of the following equations is <img src='file:\$$$\resources\2011 April 67F\imgs\108.png' width = '60'height = '29'/> a solution?
-<div class = "choice">F. <img src='file:\$$$\resources\2011 April 67F\imgs\109.png' width = '284'height = '34'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2011 April 67F\imgs\110.png' width = '314'height = '34'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2011 April 67F\imgs\111.png' width = '342'height = '34'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2011 April 67F\imgs\112.png' width = '309'height = '34'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\113.png' width = '266'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">45. The graphs of <img src='file:\$$$\resources\2011 April 67F\imgs\114.png' width = '145'height = '34'/> and <img src='file:\$$$\resources\2011 April 67F\imgs\115.png' width = '238'height = '71'/> are shown in the standard (x, y) coordinate plane below. After one of the following pairs of transformations is applied to the graph of f(x), the image of the graph of f(x) is the graph of g(x). Which pair is it?
-<img src='file:\$$$\resources\2011 April 67F\imgs\116.png' width = '405'height = '173'/>
-<div class = "choice">A. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\117.png' width = '26'height = '65'/> units down.</div>
-<div class = "choice">B. Shift f(x) 1 unit left and <img src='file:\$$$\resources\2011 April 67F\imgs\118.png' width = '26'height = '65'/> units up.</div>
-<div class = "choice">C. Shift f(x) 1 unit right and <img src='file:\$$$\resources\2011 April 67F\imgs\119.png' width = '26'height = '65'/> units down.</div>
-<div class = "choice">D. Shift <img src='file:\$$$\resources\2011 April 67F\imgs\120.png' width = '78'height = '65'/> units left and 1 unit up.</div>
-<div class = "choice">E. Shift <img src='file:\$$$\resources\2011 April 67F\imgs\121.png' width = '78'height = '65'/> units right and 1 unit up.</div>
-</div>
-###################
-<div class = "quiz">46. Let p and q be numbers such that<img src='file:\$$$\resources\2011 April 67F\imgs\122.png' width = '74'height = '34'/>. Which of the following inequalities must be true for all such p and q?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\123.png' width = '112'height = '34'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\124.png' width = '54'height = '69'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\125.png' width = '65'height = '69'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\126.png' width = '70'height = '38'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\127.png' width = '88'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">47. If a is 28% of b, then 135% of b is what percent of a?
-<div class = "choice">A. 160%</div>
-<div class = "choice">B. 210%</div>
-<div class = "choice">C. 337.5%</div>
-<div class = "choice">D. 540%</div>
-<div class = "choice">E. 875%</div>
-</div>
-###################
-<div class = "quiz">48. The expression <img src='file:\$$$\resources\2011 April 67F\imgs\128.png' width = '182'height = '34'/> is equivalent to:
-<div class = "choice">F. -5</div>
-<div class = "choice">G. -4</div>
-<div class = "choice">H. -3</div>
-<div class = "choice">J. 3</div>
-<div class = "choice">K. 5</div>
-</div>
-###################
-<div class = "quiz">49. Figure ABCDEF, shown in the standard (x, y) coordinate plane below, has been reflected across a line to figure<img src='file:\$$$\resources\2011 April 67F\imgs\129.png' width = '140'height = '29'/>. Which of the following lines of reflection would best describe this transformation?
-<img src='file:\$$$\resources\2011 April 67F\imgs\130.png' width = '252'height = '240'/>
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\131.png' width = '56'height = '34'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\132.png' width = '64'height = '65'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\133.png' width = '74'height = '27'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\134.png' width = '56'height = '29'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\135.png' width = '60'height = '27'/></div>
-</div>
-###################
-<div class = "quiz">50. What is the length, in inches, of a 144° arc of a circle whose circumference is 60 inches?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\136.png' width = '35'height = '65'/></div>
-<div class = "choice">G. 12</div>
-<div class = "choice">H. 24</div>
-<div class = "choice">J. 36</div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\137.png' width = '45'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">51. A solid, right circular cone is sliced perpendicular to its base through its vertex an the center of its base, as shown below. Which of the following best represents the plane section?
-<img src='file:\$$$\resources\2011 April 67F\imgs\138.png' width = '198'height = '206'/>
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\139.png' width = '100'height = '98'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\140.png' width = '90'height = '90'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\141.png' width = '116'height = '98'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\142.png' width = '106'height = '94'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\143.png' width = '104'height = '98'/></div>
-</div>
-###################
-<div class = "quiz">52. It b is a positive number such that<img src='file:\$$$\resources\2011 April 67F\imgs\144.png' width = '153'height = '71'/>, then <img src='file:\$$$\resources\2011 April 67F\imgs\145.png' width = '54'height = '29'/>
-<div class = "choice">F. 3</div>
-<div class = "choice">G. 9</div>
-<div class = "choice">H. 85</div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\146.png' width = '22'height = '65'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\147.png' width = '22'height = '65'/></div>
-</div>
-###################
-<div class = "quiz">53. The graph in the standard (x, y) coordinate plane below is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\148.png' width = '94'height = '34'/>. One of the following graphs is the graph of<img src='file:\$$$\resources\2011 April 67F\imgs\149.png' width = '162'height = '34'/>. Which one?
-<img src='file:\$$$\resources\2011 April 67F\imgs\150.png' width = '243'height = '128'/>
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\151.png' width = '206'height = '128'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\152.png' width = '202'height = '120'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\153.png' width = '208'height = '124'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\154.png' width = '202'height = '124'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\155.png' width = '200'height = '120'/></div>
-</div>
-###################
-<div class = "quiz">54. In the figure below, parallel lines a and b intersect parallel lines c and d. If it can be determined, what is the sum of the degree measures of <img src='file:\$$$\resources\2011 April 67F\imgs\156.png' width = '35'height = '27'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\157.png' width = '38'height = '27'/>?
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '288'height = '273'/>
-<div class = "choice">E. 220°</div>
-<div class = "choice">G. 180°</div>
-<div class = "choice">H. 140°</div>
-<div class = "choice">J. 110°</div>
-<div class = "choice">K. Cannot be determined from the given information</div>
-</div>
-###################
-<div class = "quiz">55. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
-<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/>
-<img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
-The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '288'height = '273'/>
-What is the maximum value of P(x, y) when x and y satisfy the 3 conditions given?
-<div class = "choice">A. 4</div>
-<div class = "choice">B. 8</div>
-<div class = "choice">C. 12</div>
-<div class = "choice">D. 16</div>
-<div class = "choice">E. 28</div>
-</div>
-###################
-<div class = "quiz">56. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
-<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
-The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '238'height = '223'/>
-The quadrants of the standard (x, y) coordinate plane are labeled in the figure below. The domain of P(x, y) contains points in which quadrants?
-<img src='file:\$$$\resources\2011 April 67F\imgs\165.png' width = '208'height = '148'/>
-<div class = "choice">F. I and II only</div>
-<div class = "choice">G. I and III only</div>
-<div class = "choice">H. I and IV only</div>
-<div class = "choice">J. II and III only</div>
-<div class = "choice">K. II and IV only</div>
-</div>
-###################
-<div class = "quiz">57. Consider the set of all points (x, y) that satisfy all 3 of the conditions below:
-<img src='file:\$$$\resources\2011 April 67F\imgs\159.png' width = '56'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\160.png' width = '107'height = '34'/><img src='file:\$$$\resources\2011 April 67F\imgs\161.png' width = '107'height = '34'/>
-The graph of this set is <img src='file:\$$$\resources\2011 April 67F\imgs\162.png' width = '74'height = '29'/> and its interior, which is shown shaded in the standard (x, y) coordinate plane below. Let this set be the domain of the function<img src='file:\$$$\resources\2011 April 67F\imgs\163.png' width = '176'height = '34'/>.
-<img src='file:\$$$\resources\2011 April 67F\imgs\164.png' width = '238'height = '223'/> <img src='file:\$$$\resources\2011 April 67F\imgs\166.png' width = '143'height = '29'/>
-<div class = "choice">A. 1</div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\167.png' width = '24'height = '65'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\168.png' width = '41'height = '71'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\169.png' width = '41'height = '69'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\170.png' width = '55'height = '69'/></div>
-</div>
-###################
-<div class = "quiz">58. The function f(x) is a cubic polynomial that has the value of 0 when x is 0, 3, and -5. If<img src='file:\$$$\resources\2011 April 67F\imgs\171.png' width = '113'height = '34'/>, which of the following is an expression for f(x)?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\172.png' width = '75'height = '34'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\173.png' width = '174'height = '34'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2011 April 67F\imgs\174.png' width = '148'height = '34'/></div>
-<div class = "choice">J.<img src='file:\$$$\resources\2011 April 67F\imgs\175.png' width = '159'height = '34'/></div>
-<div class = "choice">K. <img src='file:\$$$\resources\2011 April 67F\imgs\176.png' width = '159'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">59. Water is considered contaminated when the level of zinc in the water reaches 5 parts of zinc per 1 million parts of water. What is this level of zinc contamination written in scientific notation?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\177.png' width = '94'height = '34'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\178.png' width = '94'height = '34'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\179.png' width = '94'height = '34'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2011 April 67F\imgs\180.png' width = '87'height = '34'/></div>
-<div class = "choice">E. <img src='file:\$$$\resources\2011 April 67F\imgs\181.png' width = '87'height = '34'/></div>
-</div>
-###################
-<div class = "quiz">60. Given <img src='file:\$$$\resources\2011 April 67F\imgs\182.png' width = '46'height = '29'/> and<img src='file:\$$$\resources\2011 April 67F\imgs\183.png' width = '172'height = '38'/>, then <img src='file:\$$$\resources\2011 April 67F\imgs\184.png' width = '72'height = '34'/> must be:
-<div class = "choice">F. less than 1.</div>
-<div class = "choice">G. greater than 1.</div>
-<div class = "choice">H. greater than a.</div>
-<div class = "choice">J. greater than<img src='file:\$$$\resources\2011 April 67F\imgs\185.png' width = '72'height = '34'/>.</div>
-<div class = "choice">K. equal to<img src='file:\$$$\resources\2011 April 67F\imgs\186.png' width = '72'height = '34'/>.</div>
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBBIGdyb3VwIG9mIDYgcGVvcGxlIHBsYW5uZWQgdG8gc3BlbmQgJDEwLjAwIGVhY2ggdG8gcmVudCBhIGJvYXQgZm9yIGFuIG91dGluZy4gQXQgdGhlIGxhc3QgbWludXRlLCAxIHBlcnNvbiBjb3VsZCBub3QgZ28gb24gdGhlIG91dGluZy4gVGhlIG90aGVycyB0aGVuIHBhaWQgZXF1YWxseSBmb3IgdGhlIGJvYXQuIEhvdyBtdWNoIGRpZCBlYWNoIHBheT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuICQgOC4wMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuICQgOC4zMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuICQxMS42NzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuICQxMi4wMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuICQyMC4wMDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBBIGNhbGN1bGF0b3IgaGFzIGEgcmVndWxhciBwcmljZSBvZiAkNTguOTUgYmVmb3JlIHRheGVzLiBJdCBnb2VzIG9uIHNhbGUgYXQgMjAlIGJlbG93IHRoZSByZWd1bGFyIHByaWNlLiBCZWZvcmUgdGF4ZXMgYXJlIGFkZGVkLCB3aGF0IGlzIHRoZSBzYWxlIHByaWNlIG9mIHRoZSBjYWxjdWxhdG9yPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuICQgNTMuOTU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuICQ0Ny4xNjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguICQzOC45NTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouICQyOS40ODwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuICQxMS43OTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBNZWxpc3NhIGtub3dzIHRoYXQgMzAgbWlsZXMgcGVyIGhvdXIgaXMgZXF1aXZhbGVudCBvIDQ0IGZlZXQgcGVyIHNlY29uZC4gSWYgTWVsaXNzYSBkcml2ZXMgYXQgYSBzcGVlZCBvZiA3MCBtaWxlcyBwZXIgaG91ciwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyBjbG9zZXN0IHRvIGhlciBzcGVlZCBpbiBmZWV0IHBlciBzZWNvbmQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDMxPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQ4PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEwMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEyNzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDEsMDI3PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBJZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMC5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICcyOScvPiwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxLnBuZycgd2lkdGggPSAnNTYnaGVpZ2h0ID0gJzI5Jy8+LCBhbmQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDIucG5nJyB3aWR0aCA9ICc3MidoZWlnaHQgPSAnMzQnLz4sIHdoYXQgZG9lcyAocitiLWcpKGIrZykgZXF1YWw/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIC0xMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIC00PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDEwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBXaGF0IGlzIHRoZSBsYXJnZXN0IHZhbHVlIG9mIHggZm9yIHdoaWNoIHRoZXJlIGV4aXN0cyBhIHJlYWwgdmFsdWUgb2YgeSBzdWNoIHRoYXQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDMucG5nJyB3aWR0aCA9ICcxNDAnaGVpZ2h0ID0gJzM4Jy8+Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEyODwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDI0MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDI1NjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDUxMjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBBdCBSaXZlcmxhbmQgQW11c2VtZW50IFBhcmssIGlmIGFuIGluZGl2aWR1YWwgaXMgbm90IG1vcmUgdGhhbiA0IGZlZXQgdGFsbCwgdGhlbiB0aGF0IGluZGl2aWR1YWwgY2Fubm90IHJpZGUgdGhlIHJvbGxlciBjb2FzdGVyLiBJZiBBbnRvaW5lIHJvZGUgdGhlIHJvbGxlciBjb2FzdGVyIGF0IFJpdmVybGFuZCBBbXVzZW1lbnQgUGFyayB0b2RheSwgdGhlbiB3aGljaCBvZiB0aGUgZm9sbG93aW5nIG1heSBiZSBsb2dpY2FsbHkgY29uY2x1ZGVkPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEFudG9pbmUgaXMgYXQgbW9zdCAzIGZlZXQgdGFsbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFudG9pbmUgaXMgbGVzcyB0aGFuIDQgZmVldCB0YWxsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFudG9pbmUgaXMgZXhhY3RseSA0IGZlZXQgdGFsbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFudG9pbmUgaXMgbW9yZSB0aGFuIDQgZmVldCB0YWxsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIEFudG9pbmUgaXMgYXQgbGVhc3QgNSBmZWV0IHRhbGwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBUaGUgbnVtYmVyLCBOLCBvZiBzdHVkZW50cyBhdCBIYW1sZXQgSGlnaCBTY2hvb2wgd2hvIHdpbGwgY2F0Y2ggdGhlIGZsdSB0aHJvdWdoIFdlZWsgdCBvZiBzY2hvb2wgaXMgbW9kZWxlZCBieSB0aGUgZnVuY3Rpb248aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDQucG5nJyB3aWR0aCA9ICcyMDAnaGVpZ2h0ID0gJzY5Jy8+LiBBY2NvcmRpbmcgdG8gdGhlIG1vZGVsLCBob3cgbWFueSBzdHVkZW50cyB3aWxsIGNhdGNoIHRoZSBmbHUgdGhyb3VnaCBXZWVkIDQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDExNDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEsMDY4PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEsMTMwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEsODM1PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDEsOTUxPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDUucG5nJyB3aWR0aCA9ICc4NydoZWlnaHQgPSAnMzQnLz5pcyBlcXVpdmFsZW50IHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w2LnBuZycgd2lkdGggPSAnNTEnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3LnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4LnBuZycgd2lkdGggPSAnNTYnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5LnBuZycgd2lkdGggPSAnNTYnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTAucG5nJyB3aWR0aCA9ICc2MCdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBBIGJhZyBjb250YWlucyA1IHllbGxvdyBqZWxseWJlYW5zLCBhbmQgMyBncmVlbiBqZWxseWJlYW5zLCBhbGwgb2YgdGhlIHNhbWUgc2hhcGUgYW5kIHNpemUuIFdoZW4gMSBqZWxseWJlYW4gaXMgcmFuZG9tbHkgcGlja2VkIGZyb20gdGhlIGJhZywgd2hhdCBpcyB0aGUgcHJvYmFiaWxpdHkgdGhhdCBpdCBpcyBncmVlbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMS5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMi5wbmcnIHdpZHRoID0gJzI0J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMy5wbmcnIHdpZHRoID0gJzIyJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNC5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTUucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gV2hhdCBpcyB0aGUgbGVhc3QgY29tbW9uIGRlbm9taW5hdG9yIGZvciBhZGRpbmcgdGhlIGZyYWN0aW9uczxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYucG5nJyB3aWR0aCA9ICczNSdoZWlnaHQgPSAnNjUnLz4sIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTcucG5nJyB3aWR0aCA9ICczNSdoZWlnaHQgPSAnNjUnLz4sIGFuZDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTgucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnNjUnLz4/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDgwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDU2MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEsOTYwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDQsNDgwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDMxLDM2MDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gTWFyaXNhJ3MgZGVzaWduIGZvciBhIHJlY3Rhbmd1bGFyIHN0YWluZWQgZ2xhc3Mgd2luZG93IHdpdGggNyB0cmlhbmdsZXMgaXMgc2hvd24gYmVsb3cuIFRoZSAyIHdoaXRlIHRyaWFuZ2xlcyBhcmUgY29uZ3J1ZW50ICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE5LnBuZycgd2lkdGggPSAnMTYyJ2hlaWdodCA9ICcyOScvPikgYW5kIHdpbGwgYmUgYSBkaWZmZXJlbnQgY29sb3IgdGhhbiB0aGUgb3RoZXIgNSB0cmlhbmdsZXMuIFRoZSBkZXNpZ24gaW5jbHVkZXMgdGhlIG1lYXN1cmVzIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMC5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICcyOScvPiwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMS5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICcyOScvPiwgYW5kPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyMi5wbmcnIHdpZHRoID0gJzc1J2hlaWdodCA9ICcyOScvPi4gV2hhdCBpcyB0aGUgbWVhc3VyZSBvZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjMucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnMjknLz4/
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNC5wbmcnIHdpZHRoID0gJzU2NidoZWlnaHQgPSAnMzQwJy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDQ1wrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDY1wrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDcwwrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDExNcKwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDEzNcKwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gVGhlIGV4cHJlc3Npb24gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNS5wbmcnIHdpZHRoID0gJzY4J2hlaWdodCA9ICcxMjUnLz4gaXMgZXF1YWwgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNi5wbmcnIHdpZHRoID0gJzM1J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyNy5wbmcnIHdpZHRoID0gJzQ2J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDEwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIHN1bSBvZiB0aGUgcmVhbCBudW1iZXJzIHggYW5kIHkgaXMgMTUuIFRoZWlyIGRpZmZlcmVuY2UgaXMgOS4gV2hhdCBpcyB0aGUgdmFsdWUgb2YgeHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDEyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDE1PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDI0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDM2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDEzNTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gRm91ciBwb2ludHMsIEEsIEIsIEMsIGFuZCBELCBsaWUgb24gYSBjaXJjbGUgaGF2aW5nIGEgY2lyY3VtZmVyZW5jZSBvZiAxNyB1bml0cy4gQiBpcyA2IHVuaXRzIGNvdW50ZXJjbG9ja3dpc2UgZnJvbS4gQS4gQyBpcyAyIHVuaXRzIGNsb2Nrd2lzZSBmcm9tIEEuIEQgaXMgOSB1bml0cyBjbG9ja3dpc2UgZnJvbSBBIGFuZCA4IHVuaXRzIGNvdW50ZXJjbG9ja3dpc2UgZnJvbSBBLiBXaGF0IGlzIHRoZSBvcmRlciBvZiB0aGUgcG9pbnRzLCBzdGFydGluZyB3aXRoIEEgYW5kIGdvaW5nIGNsb2Nrd2lzZSBhcm91bmQgdGhlIGNpcmNsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEEsIEIsIEMsIEQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEEsIEIsIEQsIEM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEEsIEMsIEIsIEQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEEsIEMsIEQsIEI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIEEsIEQsIEMsIEI8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVG8gZGV0ZXJtaW5lIGEgc3R1ZGVudCdzIG92ZXJhbGwgdGVzdCBzY29yZSBmb3IgdGhlIHNlbWVzdGVyLCBNcy4gUmFpbndhdGVyIGRlbGV0ZXMgdGhlIGxvd2VzdCB0ZXN0IHNjb3JlIGFuZCBjYWxjdWxhdGVzIHRoZSBhdmVyYWdlIG9mIHRoZSByZW1haW5pbmcgdGVzdCBzY29yZXMuIEdhbGVuIHRvb2sgYWxsIDUgdGVzdHMgYW5kIGVhcm5lZCB0aGUgZm9sbG93aW5nIHRlc3Qgc2NvcmVzIGluIE1zLiBSYWlud2F0ZXIncyBjbGFzcyB0aGlzIHNlbWVzdGVyOiA4MSwgODMsIDg4LCA5MiwgYW5kIDk5LiBXaGF0IG92ZXJhbGwgdGVzdCBzY29yZSBkaWQgR2FsZW4gZWFybiBpbiBNcy4gUmFpbndhdGVyJ3MgY2xhc3MgdGhpcyBzZW1lc3Rlcj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDg4LjA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDg4LjY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDkwLjA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDkwLjU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDkxLjA8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gV2hhdCBpcyB0aGUgc2xvcGUtaW50ZXJjZXB0IGZvcm0gb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDI4LnBuZycgd2lkdGggPSAnMTQwJ2hlaWdodCA9ICczNCcvPj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wyOS5wbmcnIHdpZHRoID0gJzEyMCdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMzAucG5nJyB3aWR0aCA9ICcxMjAnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wzMS5wbmcnIHdpZHRoID0gJzEwNidoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wzMi5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMzMucG5nJyB3aWR0aCA9ICcxMDYnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gV2hhdCBpcyB0aGUgc3VtIG9mIHRoZSAyIHNvbHV0aW9ucyBvZiB0aGUgZXF1YXRpb248aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDM0LnBuZycgd2lkdGggPSAnMTU5J2hlaWdodCA9ICczNCcvPj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIC00PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIC0yODwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wzNS5wbmcnIHdpZHRoID0gJzE2OCdoZWlnaHQgPSAnNDInLz4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIC0yPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDE5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDM4PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gVHJhY3kgaXMgdHJ5aW5nIHRvIGZpbmQgYSB3cmVuY2ggdG8gZml0IGEgYm9sdC4gVGhlIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMzYucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnNjUnLz4gd3JlbmNoIGlzIHRvbyBsYXJnZSwgYW5kIHRoZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDM3LnBuZycgd2lkdGggPSAnODgnaGVpZ2h0ID0gJzY1Jy8+IHdyZW5jaCBpcyB0b28gc21hbGwuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY291bGQgYmUgdGhlIHNpemUgb2YgdGhlIHdyZW5jaCB0aGF0IHdpbGwgZml0IHRoZSBib2x0IGV4YWN0bHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wzOC5wbmcnIHdpZHRoID0gJzc4J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wzOS5wbmcnIHdpZHRoID0gJzg4J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0MC5wbmcnIHdpZHRoID0gJzg4J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0MS5wbmcnIHdpZHRoID0gJzM1J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNDIucG5nJyB3aWR0aCA9ICc4OCdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gV2hhdCBpcyB0aGUgc2xvcGUgb2YgdGhlIGxpbmUgY29udGFpbmluZyB0aGUgcG9pbnRzICgzLCA4KSBhbmQgKC0yLCAxMCkgaW4gdGhlIHN0YW5kYXJkICh4LCB5KSBjb29yZGluYXRlIHBsYW5lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0My5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0NC5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE4PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0NS5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNDYucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIGV4cHJlc3Npb24gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0Ny5wbmcnIHdpZHRoID0gJzE5MSdoZWlnaHQgPSAnMjknLz4gaXMgZXF1aXZhbGVudCB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDZhYmM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0OC5wbmcnIHdpZHRoID0gJzcwJ2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w0OS5wbmcnIHdpZHRoID0gJzg4J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1MC5wbmcnIHdpZHRoID0gJzExNydoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNTEucG5nJyB3aWR0aCA9ICcxMjYnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gRHVyaW5nIGEgNS15ZWFyIHBlcmlvZCwgODc1IGhvdXNlcyB3ZXJlIGJ1aWx0IGluIFNvbWVydmlsbGUuIFRoZSBncmFwaCBiZWxvdyBzaG93cyBob3cgbWFueSBvZiB0aGVzZSBob3VzZXMgd2VyZSBidWlsdCBpbiBlYWNoIG9mIHRoZXNlIDUgeWVhcnMuIEEgY2VydGFpbiBwZXJjZW50IG9mIHRoZSA4NzUgaG91c2VzIHdlcmUgYnVpbHQgaW4gMTk5My4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyBjbG9zZXN0IHRvIHRoYXQgcGVyY2VudD8=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1Mi5wbmcnIHdpZHRoID0gJzQ0MSdoZWlnaHQgPSAnMzMwJy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDIwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDI1JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDMwJTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDM1JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDQwJTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSG93IG1hbnkgdGVybXMgYXJlIHRoZXJlIGJldHdlZW4gMTMgYW5kIDM3LCBleGNsdXNpdmUgb2YgMTMgYW5kIDM3LCBpbiB0aGUgYXJpdGhtZXRpYyBzZXF1ZW5jZSBiZWxvdz8=
+NCwgNywgMTAsIDEzLCDigD8sIDM3
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDI4PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDM2PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gRm9yPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1My5wbmcnIHdpZHRoID0gJzgwJ2hlaWdodCA9ICczNCcvPiwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1NC5wbmcnIHdpZHRoID0gJzEyMidoZWlnaHQgPSAnNjknLz4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1NS5wbmcnIHdpZHRoID0gJzU2J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1Ni5wbmcnIHdpZHRoID0gJzU2J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1Ny5wbmcnIHdpZHRoID0gJzU2J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w1OC5wbmcnIHdpZHRoID0gJzQxJ2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNTkucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gVGhlIHNpZGVzIG9mIG9uZSB0cmlhbmdsZSBhcmUgMTIgaW5jaGVzLCAxNCBpbmNoZXMsIGFuZCAxNSBpbmNoZXMgbG9uZywgcmVzcGVjdGl2ZWx5LiBJbiBhIHNlY29uZCB0cmlhbmdsZSBzaW1pbGFyIHRvIHRoZSBmaXJzdCwgdGhlIHNob3J0ZXN0IHNpZGUgaXMgOCBpbmNoZXMgbG9uZy4gVG8gdGhlIG5lYXJlc3QgdGVudGggb2YgYW4gaW5jaCwgd2hhdCBpcyB0aGUgbGVuZ3RoIG9mIHRoZSBsb25nZXN0IHNpZGUgb2YgdGhlIHNlY29uZCB0cmlhbmdsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDYuNDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDkuMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEwLjA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDExLjA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDE0LjQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyBlcXVpdmFsZW50IHRvIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNjAucG5nJyB3aWR0aCA9ICc4MCdoZWlnaHQgPSAnMzgnLz4gd2hlbmV2ZXI8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDYxLnBuZycgd2lkdGggPSAnNzInaGVpZ2h0ID0gJzI5Jy8+Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w2Mi5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQSBwZW50YWdvbiBoYXMgMSBzaWRlIG9mIGxlbmd0aCB6IGNtLiAyIHNpZGVzIG9mIGxlbmd0aCAoeisyKSBjbSBlYWNoLCAxIHNpZGUgb2YgbGVuZ3RoIDUgY20sIGFuZCAxIHNpZGUgb2YgbGVuZ3RoIDN6IGNtLiBXaGF0IGlzIHRoZSBwZXJpbWV0ZXIsIGluIGNlbnRpbWV0ZXJzLCBvZiB0aGUgcGVudGFnb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDl6KzY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDZ6Kzk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDZ6KzQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDV6Kzk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDV6Kzc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQSBwYXJrIGhhcyB0aGUgc2hhcGUgYW5kIGRpbWVuc2lvbnMgaW4gYmxvY2tzIGdpdmVuIGJlbG93LiBBIHdhdGVyIGZvdW50YWluIGlzIGxvY2F0ZWQgaGFsZndheSBiZXR3ZWVuIEIgYW5kIEQuIElmIHlvdSBhcmUgYXQgQSwgdGhlIHdhdGVyIGZvdW50YWluIGlzOg==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w2My5wbmcnIHdpZHRoID0gJzE2NCdoZWlnaHQgPSAnMjM2Jy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNjQucG5nJyB3aWR0aCA9ICczOCdoZWlnaHQgPSAnNjUnLz5ibG9ja3Mgbm9ydGggYW5kIDUgYmxvY2tzIGVhc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNjUucG5nJyB3aWR0aCA9ICczOCdoZWlnaHQgPSAnNjUnLz5ibG9ja3Mgbm9ydGggYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNjYucG5nJyB3aWR0aCA9ICczNidoZWlnaHQgPSAnNjUnLz4gYmxvY2tzIGVhc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDYgYmxvY2tzIG5vcnRoIGFuZCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDY3LnBuZycgd2lkdGggPSAnMzYnaGVpZ2h0ID0gJzY1Jy8+IGJsb2NrcyBlYXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDYgYmxvY2tzIG5vcnRoIGFuZCA1IGJsb2NrcyBlYXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNjgucG5nJyB3aWR0aCA9ICczOCdoZWlnaHQgPSAnNjUnLz5ibG9ja3Mgbm9ydGggYW5kIDkgYmxvY2tzIGVhc3QuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gSWYgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w2OS5wbmcnIHdpZHRoID0gJzcwJ2hlaWdodCA9ICcyOScvPiBhbmQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDcwLnBuZycgd2lkdGggPSAnNjgnaGVpZ2h0ID0gJzI5Jy8+LCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHJlbGF0aW9uc2hpcHMgaG9sZHMgYmV0d2VlbiBhIGFuZCBiIGZvciBlYWNoIG5vbnplcm8gdmFsdWUgb2YgYz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3MS5wbmcnIHdpZHRoID0gJzY4J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3Mi5wbmcnIHdpZHRoID0gJzcwJ2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3My5wbmcnIHdpZHRoID0gJzU2J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3NC5wbmcnIHdpZHRoID0gJzc1J2hlaWdodCA9ICc2NScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcNzUucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gRm9yIGEgY2VydGFpbiBwbGFudCwgdGhlIHJlY29tbWVuZGVkIG5pZ2h0dGltZSB0ZW1wZXJhdHVyZSByYW5nZSBpbiBkZWdyZWVzIEZhaHJlbmhlaXQgaXM8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDc2LnBuZycgd2lkdGggPSAnMTQzJ2hlaWdodCA9ICcyOScvPi4gR2l2ZW4gdGhlIGZvcm11bGE8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDc3LnBuZycgd2lkdGggPSAnMTUwJ2hlaWdodCA9ICc2NScvPiwgd2hlcmUgQyBpcyB0aGUgdGVtcGVyYXR1cmUgaW4gZGVncmVlcyBDZWxzaXVzIGFuZCBGIGlzIHRoZSB0ZW1wZXJhdHVyZSBpbiBkZWdyZWVzIEZhaHJlbmhlaXQsIHdoYXQgaXMgdGhlIGNvcnJlc3BvbmRpbmcgbmlnaHR0aW1lIHRlbXBlcmF0dXJlIHJhbmdlIGluIGRlZ3JlZXMgQ2Vsc2l1cyBmb3IgdGhlIHBsYW50Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3OC5wbmcnIHdpZHRoID0gJzExNydoZWlnaHQgPSAnMjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w3OS5wbmcnIHdpZHRoID0gJzEyNidoZWlnaHQgPSAnMjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4MC5wbmcnIHdpZHRoID0gJzEzOSdoZWlnaHQgPSAnMjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4MS5wbmcnIHdpZHRoID0gJzE0MCdoZWlnaHQgPSAnMjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcODIucG5nJyB3aWR0aCA9ICcxNDMnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gSW4gcGFyYWxsZWxvZ3JhbSBBQkNEIGJlbG93LCB0aGUgbWVhc3VyZSBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDgzLnBuZycgd2lkdGggPSAnNzUnaGVpZ2h0ID0gJzI5Jy8+IGlzIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcODQucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMjknLz4gYW5kIHRoZSBtZWFzdXJlIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcODUucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnMjknLz4gaXM8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDg2LnBuZycgd2lkdGggPSAnNDEnaGVpZ2h0ID0gJzI5Jy8+LiBXaGF0IGlzIHRoZSBtZWFzdXJlIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4Ny5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICcyNycvPj8=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4OC5wbmcnIHdpZHRoID0gJzQ0NCdoZWlnaHQgPSAnMzgwJy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDM4wrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQxwrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDQ0wrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDQ5wrA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDUywrA8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQWxsIHRoZSBhZGphY2VudCBsaW5lIHNlZ21lbnRzIGluIHRoZSBmaWd1cmUgYmVsb3cgaW50ZXJzZWN0IGluIHJpZ2h0IGFuZ2xlcy4gSWYgZWFjaCBzZWdtZW50IGlzIDYgdW5pdHMgbG9uZywgd2hhdCBpcyB0aGUgYXJlYSwgaW4gc3F1YXJlIHVuaXRzLCBvZiB0aGUgZW50aXJlIGZpZ3VyZT8=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w4OS5wbmcnIHdpZHRoID0gJzMyNCdoZWlnaHQgPSAnMjk4Jy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDcyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEyMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE0NDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDE4MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDMyNDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gUmhvbWJ1cyBSSE9NIGlzIHNob3duIGluIHRoZSBmaWd1cmUgYmVsb3cuIElmIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcOTAucG5nJyB3aWR0aCA9ICc3OCdoZWlnaHQgPSAnMjknLz4gbSBhbmQgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5MS5wbmcnIHdpZHRoID0gJzg4J2hlaWdodCA9ICcyOScvPiBtLCB0aGVuIHdoYXQgaXMgdGhlIGxlbmd0aCwgaW4gbWV0ZXJzLCBvZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcOTIucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnMzYnLz4/
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5My5wbmcnIHdpZHRoID0gJzQ0OCdoZWlnaHQgPSAnMzQ1Jy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDg8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gR3JpZCBsaW5lcyBhcmUgc2hvd24gYXQgMS11bml0IGludGVydmFscyBpbiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgYmVsb3cuIFNvbWUgb2YgdGhlIDEtYnktMSBzcXVhcmVzIGFyZSBzaGFkZWQgaW4gdGhlIGdyaWQuIFdoYXQgaXMgdGhlIGxlYXN0IG51bWJlciBvZiBhZGRpdGlvbmFsIDEtYnktMSBzcXVhcmVzIHRoYXQgbXVzdCBiZSBzaGFkZWQgc28gdGhlIHRvdGFsIHNoYWRlZCByZWdpb24gd2lsbCBiZSBzeW1tZXRyaWMgYWJvdXQgdGhlIHktYXhpcz8=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5NC5wbmcnIHdpZHRoID0gJzI1OCdoZWlnaHQgPSAnMjYwJy8+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDExPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDIyPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIHJhdGlvIG9mIHRoZSBzaWRlIGxlbmd0aHMgb2YgYSByZWN0YW5nbGUgd2l0aCBhbiBhcmVhIG9mIDgwIHNxdWFyZSB5YXJkcyBpcyA0OjEuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgY2xvc2VzdCB0byB0aGUgbGVuZ3RoLCBpbiB5YXJkcywgb2YgdGhlIGxvbmdlciBzaWRlIG9mIHRoZSByZWN0YW5nbGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDEwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDE2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDE4PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDMyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDQwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gTXMuIEx1Y2lhbm8ncyBBbGdlYnJhIEkgY2xhc3MgaXMgZGVzY3JpYmluZyB0aGUgdm9sdW1lIG9mIGdlb21ldHJpYyBmaWd1cmVzIGluIHRlcnRtcyBvZiB2YXJpYWJsZXMuIFNoZSBkcmF3cyBhIHJlY3Rhbmd1bGFyIHByaXNtIHRoYXQgaGFzIGEgbGVuZ3RoIG9mICh4KzIpIG1ldGVycywgYSB3aWR0aCBvZiAoeC0yKSBtZXRlcnMsIGFuZCBhIGhlaWdodCBvZiAoeCsxKSBtZXRlcnMuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgYW4gZXhwcmVzc2lvbiBmb3IgdGhlIHZvbHVtZSwgaW4gY3ViaWMgbWV0ZXJzLCBvZiB0aGUgcmVjdGFuZ3VsYXIgcHJpc20/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5NS5wbmcnIHdpZHRoID0gJzY1J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5Ni5wbmcnIHdpZHRoID0gJzYxJ2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5Ny5wbmcnIHdpZHRoID0gJzY0J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1w5OC5wbmcnIHdpZHRoID0gJzE2OSdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcOTkucG5nJyB3aWR0aCA9ICcxNTgnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gQSBkYXRhIHNldCBoYXMgMTUgZWxlbWVudHMuIFRoZSAxNSBlbGVtZW50cyBpbiBhIHNlY29uZCBkYXRhIHNldCBhcmUgb2J0YWluZWQgYnkgbXVsdGlwbHlpbmcgZWFjaCBlbGVtZW50IGluIHRoZSBmaXJzdCBkYXRhIHNldCBieSAxMC4gVGhlIDE1IGVsZW1lbnRzIGluIGEgdGhpcmQgZGF0YSBzZXQgYXJlIG9idGFpbmVkIGJ5IGRlY3JlYXNpbmcgZWFjaCBlbGVtZW50IG9mIHRoZSBzZWNvbmQgZGF0YSBzZXQgYnkgMjAuIFRoZSBtZWRpYW4gb2YgdGhlIHRoaXJkIGRhdGEgc2V0IGlzIDUwLiBXaGF0IGlzIHRoZSBtZWRpYW4gb2YgdGhlIGZpcnN0IGRhdGEgc2V0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIC0yMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDUwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDcwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDc1MDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gSmFtYWwgc2VlcyBhIHRyZWUgb24gdGhlIHNob3JlIGRpcmVjdGx5IGFjcm9zcyBhIGxha2UgYW5kIHdvbmRlcnMgd2hhdCB0aGUgZGlzdGFuY2UgaXMgYWNyb3NzIHRoZSBsYWtlIHRvIHRoZSB0cmVlLiBIZSB0dXJucyA5MMKwIHRvIHRoZSByaWdodCBhbmQgd2Fsa3MgaW4gYSBzdHJhaWdodCBsaW5lIGZvciAxMDAgbWV0ZXJzLiBKYW1hbCB0dXJucyB0byBmYWNlIHRoZSB0cmVlIGFuZCBmaW5kcyB0aGUgYW5nbGUgYmV0d2VlbiBoaXMgbGluZSBvZiBzaWdodCBhbmQgaGlzIHBhdGggbWVhc3VyZXMgMjXCsCwgYXMgc2hvdyBiZWxvdy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpcyBjbG9zZXN0IHRvIHRoZSBkaXN0YW5jZSwgaW4gbWV0ZXJzLCBmcm9tIEphbWFsJ3MgaW5pdGlhbCBwb3NpdGlvbiB0byB0aGUgdHJlZT8=
+KE5vdGU6PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDAucG5nJyB3aWR0aCA9ICcxNDMnaGVpZ2h0ID0gJzI5Jy8+LCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDEwMS5wbmcnIHdpZHRoID0gJzE0NSdoZWlnaHQgPSAnMjknLz4sPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDIucG5nJyB3aWR0aCA9ICcxNDUnaGVpZ2h0ID0gJzI5Jy8+KQ==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDMucG5nJyB3aWR0aCA9ICc2ODQnaGVpZ2h0ID0gJzMzMycvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDQyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDQ3PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDkxPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDIxMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDIzODwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gSW4gdGhlIHN0YW5kYXJkICh4LCB5KSBjb29yZGluYXRlIHBsYW5lLCBhIHJpZ2h0IHRyaWFuZ2xlIGhhcyB2ZXJ0aWNlcyBhdCAoLTMsIDQpLCAoMywgNCksIGFuZCAoMywgLTQpLiBXaGF0IGlzIHRoZSBsZW5ndGgsIGluIGNvb3JkaW5hdGUgdW5pdHMsIG9mIHRoZSBoeXBvdGVudXNlIG9mIHRoaXMgdHJpYW5nbGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDY8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDEwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gRWFjaCBlZGdlIG9mIGEgY3ViZSBpcyA0IGluY2hlcyBsb25nLiBFYWNoIGVkZ2Ugb2YgYSBzZWNvbmQgY3ViZSBpcyB0cmlwbGUgdGhlIGxlbmd0aCBvZiBlYWNoIGVkZ2Ugb2YgdGhlIGZpcnN0IGN1YmUuIFRoZSB2b2x1bWUgb2YgdGhlIHNlY29uZCBjdWJlIGlzIGhvdyBtYW55IGN1YmljIGluY2hlcyBiaWdnZXIgdGhhbiB0aGUgdm9sdW1lIG9mIHRoZSBmaXJzdCBjdWJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEyODwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDUxMjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDU3NjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEsNjY0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDEsNzI4PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MS4gQSBwYXJ0aWN1bGFyIGNpcmNsZSBpbiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgaGFzIGFuIGVxdWF0aW9uIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDQucG5nJyB3aWR0aCA9ICcxNzQnaGVpZ2h0ID0gJzM4Jy8+LiBXaGF0IGFyZSB0aGUgcmFkaXVzIG9mIHRoZSBjaXJjbGUsIGluIGNvb3JkaW5hdGUgdW5pdHMsIGFuZCB0aGUgY29vcmRpbmF0ZXMgb2YgdGhlIGNlbnRlciBvZiB0aGUgY2lyY2xlPw==
+cmFkaXVzICAgY2VudGVy
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuICA3LjUgICAgICgtOCwgMCk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuICA3LjUgICAgICg4LCAwKTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuICAxNSAgICAgKDgsIDApPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDUucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMzgnLz4gICAoLTgsIDApPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDYucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMzgnLz4gICAgKDgsIDApPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Mi4gVGhlIFNwcmluZ2ZpZWxkIENpdHkgQ291bmNpbCBpcyBnb2luZyB0byBjcmVhdGUgYSBwYXJrIG9uIHNvbWUgdW51c2VkIGxhbmQgdGhlIGNpdHkgb3ducy4gVGhlIHBhcmsgd2lsbCBiZSBhIHJlY3Rhbmd1bGFyIHJlZ2lvbiA2MCBmZWV0IGJ5IDE1MCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5LDAwMCBzcXVhcmUgZmVldC4gVGhlcmUgd2lsbCBiZSBhIHBpY25pYyBzaGVsdGVyIGluIHRoZSBwYXJrIHRoYXQgd2lsbCBjb3ZlciBhIHNxdWFyZSByZWdpb24gMzAgZmVldCBieSAzMCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5MDAgc3F1YXJlIGZlZXQuIFRoZSBwYXJrIHdpbGwgYmUgZ3Jhc3MsIGV4Y2VwdCBmb3IgdGhlIHJlZ2lvbiB3aGVyZSB0aGUgcGljbmljIHNoZWx0ZXIgaXMu
+VGhlIENpdHkgQ291bmNpbCBkZWNpZGVzIHRvIHB1dCBmZW5jaW5nIGFyb3VuZCB0aGUgcGFyay4gV2hhdCBpcyB0aGUgcGVyaW1ldGVyLCBpbiBmZWV0LCBvZiB0aGUgcGFyaz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDE1MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIxMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDI3MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDQyMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDU0MDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40My4gVGhlIFNwcmluZ2ZpZWxkIENpdHkgQ291bmNpbCBpcyBnb2luZyB0byBjcmVhdGUgYSBwYXJrIG9uIHNvbWUgdW51c2VkIGxhbmQgdGhlIGNpdHkgb3ducy4gVGhlIHBhcmsgd2lsbCBiZSBhIHJlY3Rhbmd1bGFyIHJlZ2lvbiA2MCBmZWV0IGJ5IDE1MCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5LDAwMCBzcXVhcmUgZmVldC4gVGhlcmUgd2lsbCBiZSBhIHBpY25pYyBzaGVsdGVyIGluIHRoZSBwYXJrIHRoYXQgd2lsbCBjb3ZlciBhIHNxdWFyZSByZWdpb24gMzAgZmVldCBieSAzMCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5MDAgc3F1YXJlIGZlZXQuIFRoZSBwYXJrIHdpbGwgYmUgZ3Jhc3MsIGV4Y2VwdCBmb3IgdGhlIHJlZ2lvbiB3aGVyZSB0aGUgcGljbmljIHNoZWx0ZXIgaXMu
+VGhlIHBpY25pYyBzaGVsdGVyIG11c3QgYmUgYXQgbGVhc3QgMTAgZmVldCBmcm9tIGFueSBlZGdlIG9mIHRoZSBwYXJrLiBPbiBncmFwaCBwYXBlciB3aXRoIHRoZSBkaXN0YW5jZSBiZXR3ZWVuIGdyaWQgbGluZXMgcmVwcmVzZW50aW5nIDEwIGZlZXQsIGEgY2l0eSBlbmdpbmVlciBtYWtlcyBhIHNjYWxlIGRyYXdpbmcgb2YgdGhlIHBhcmssIGFzIHNob3duIGJlbG93LiBUaGUgcmVnaW9uIHdoZXJlIHRoZSBwaWNuaWMgc2hlbHRlciBDQU5OT1QgYmUgYnVpbHQgaXMgc2hvd24gc2hhZGVkLiBUaGUgY29ybmVycyBvZiBib3RoIHRoZSBwYXJrIGFuZCB0aGUgcmVnaW9uIHdoZXJlIHRoZSBwaWNuaWMgc2hlbHRlciBtYXkgYmUgYnVpbHQgYXJlIGF0IHRoZSBpbnRlcnNlY3Rpb25zIG9mIGdyaWQgbGluZXMuIFRoZSBjb3JuZXJzIG9mIHRoZSBwaWNuaWMgc2hlbHRlciBtdXN0IGFsc28gYmUgYXQgdGhlIGludGVyc2VjdGlvbnMgb2YgZ3JpZCBsaW5lcy4gSG93IG1hbnkgZGlmZmVyZW50IGxvY2F0aW9ucyBpbiB0aGUgcGFyayBhcmUgcG9zc2libGUgZm9yIHRoZSBwbGFjZW1lbnQgb2YgdGhlIHBpY25pYyBzaGVsdGVyPw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMDcucG5nJyB3aWR0aCA9ICc1NTQnaGVpZ2h0ID0gJzI2OCcvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDUyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDcwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDkwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NC4gVGhlIFNwcmluZ2ZpZWxkIENpdHkgQ291bmNpbCBpcyBnb2luZyB0byBjcmVhdGUgYSBwYXJrIG9uIHNvbWUgdW51c2VkIGxhbmQgdGhlIGNpdHkgb3ducy4gVGhlIHBhcmsgd2lsbCBiZSBhIHJlY3Rhbmd1bGFyIHJlZ2lvbiA2MCBmZWV0IGJ5IDE1MCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5LDAwMCBzcXVhcmUgZmVldC4gVGhlcmUgd2lsbCBiZSBhIHBpY25pYyBzaGVsdGVyIGluIHRoZSBwYXJrIHRoYXQgd2lsbCBjb3ZlciBhIHNxdWFyZSByZWdpb24gMzAgZmVldCBieSAzMCBmZWV0IHdpdGggYW4gYXJlYSBvZiA5MDAgc3F1YXJlIGZlZXQuIFRoZSBwYXJrIHdpbGwgYmUgZ3Jhc3MsIGV4Y2VwdCBmb3IgdGhlIHJlZ2lvbiB3aGVyZSB0aGUgcGljbmljIHNoZWx0ZXIgaXMu
+VGhlIENpdHkgQ291bmNpbCdzIGxvbmctdGVybSBwbGFuIGZvciB0aGUgcGFyayBpbnZvbHZlcyBkb3VibGluZyB0aGUgYXJlYSBvZiB0aGUgcGFyay4gVGhlIGxlbmd0aCBhbmQgd2lkdGggb2YgdGhlIHBhcmsgd2lsbCBlYWNoIGJlIGV4dGVuZGVkIGJ5IGQgZmVldC4gRm9yIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZXF1YXRpb25zIGlzIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTA4LnBuZycgd2lkdGggPSAnNjAnaGVpZ2h0ID0gJzI5Jy8+IGEgc29sdXRpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTA5LnBuZycgd2lkdGggPSAnMjg0J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTEwLnBuZycgd2lkdGggPSAnMzE0J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTExLnBuZycgd2lkdGggPSAnMzQyJ2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTEyLnBuZycgd2lkdGggPSAnMzA5J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTEzLnBuZycgd2lkdGggPSAnMjY2J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NS4gVGhlIGdyYXBocyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDExNC5wbmcnIHdpZHRoID0gJzE0NSdoZWlnaHQgPSAnMzQnLz4gYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTE1LnBuZycgd2lkdGggPSAnMjM4J2hlaWdodCA9ICc3MScvPiBhcmUgc2hvd24gaW4gdGhlIHN0YW5kYXJkICh4LCB5KSBjb29yZGluYXRlIHBsYW5lIGJlbG93LiBBZnRlciBvbmUgb2YgdGhlIGZvbGxvd2luZyBwYWlycyBvZiB0cmFuc2Zvcm1hdGlvbnMgaXMgYXBwbGllZCB0byB0aGUgZ3JhcGggb2YgZih4KSwgdGhlIGltYWdlIG9mIHRoZSBncmFwaCBvZiBmKHgpIGlzIHRoZSBncmFwaCBvZiBnKHgpLiBXaGljaCBwYWlyIGlzIGl0Pw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMTYucG5nJyB3aWR0aCA9ICc0MDUnaGVpZ2h0ID0gJzE3MycvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNoaWZ0IGYoeCkgMSB1bml0IGxlZnQgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTE3LnBuZycgd2lkdGggPSAnMjYnaGVpZ2h0ID0gJzY1Jy8+IHVuaXRzIGRvd24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNoaWZ0IGYoeCkgMSB1bml0IGxlZnQgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTE4LnBuZycgd2lkdGggPSAnMjYnaGVpZ2h0ID0gJzY1Jy8+IHVuaXRzIHVwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFNoaWZ0IGYoeCkgMSB1bml0IHJpZ2h0IGFuZCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDExOS5wbmcnIHdpZHRoID0gJzI2J2hlaWdodCA9ICc2NScvPiB1bml0cyBkb3duLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNoaWZ0IDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTIwLnBuZycgd2lkdGggPSAnNzgnaGVpZ2h0ID0gJzY1Jy8+IHVuaXRzIGxlZnQgYW5kIDEgdW5pdCB1cC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIFNoaWZ0IDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTIxLnBuZycgd2lkdGggPSAnNzgnaGVpZ2h0ID0gJzY1Jy8+IHVuaXRzIHJpZ2h0IGFuZCAxIHVuaXQgdXAuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ni4gTGV0IHAgYW5kIHEgYmUgbnVtYmVycyBzdWNoIHRoYXQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDEyMi5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICczNCcvPi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBpbmVxdWFsaXRpZXMgbXVzdCBiZSB0cnVlIGZvciBhbGwgc3VjaCBwIGFuZCBxPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMjMucG5nJyB3aWR0aCA9ICcxMTInaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMjQucG5nJyB3aWR0aCA9ICc1NCdoZWlnaHQgPSAnNjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMjUucG5nJyB3aWR0aCA9ICc2NSdoZWlnaHQgPSAnNjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMjYucG5nJyB3aWR0aCA9ICc3MCdoZWlnaHQgPSAnMzgnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTI3LnBuZycgd2lkdGggPSAnODgnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ny4gSWYgYSBpcyAyOCUgb2YgYiwgdGhlbiAxMzUlIG9mIGIgaXMgd2hhdCBwZXJjZW50IG9mIGE/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE2MCU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDIxMCU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDMzNy41JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDU0MCU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDg3NSU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OC4gVGhlIGV4cHJlc3Npb24gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMjgucG5nJyB3aWR0aCA9ICcxODInaGVpZ2h0ID0gJzM0Jy8+IGlzIGVxdWl2YWxlbnQgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIC01PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIC00PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIC0zPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OS4gRmlndXJlIEFCQ0RFRiwgc2hvd24gaW4gdGhlIHN0YW5kYXJkICh4LCB5KSBjb29yZGluYXRlIHBsYW5lIGJlbG93LCBoYXMgYmVlbiByZWZsZWN0ZWQgYWNyb3NzIGEgbGluZSB0byBmaWd1cmU8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDEyOS5wbmcnIHdpZHRoID0gJzE0MCdoZWlnaHQgPSAnMjknLz4uIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgbGluZXMgb2YgcmVmbGVjdGlvbiB3b3VsZCBiZXN0IGRlc2NyaWJlIHRoaXMgdHJhbnNmb3JtYXRpb24/
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzAucG5nJyB3aWR0aCA9ICcyNTInaGVpZ2h0ID0gJzI0MCcvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzEucG5nJyB3aWR0aCA9ICc1NidoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzIucG5nJyB3aWR0aCA9ICc2NCdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzMucG5nJyB3aWR0aCA9ICc3NCdoZWlnaHQgPSAnMjcnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzQucG5nJyB3aWR0aCA9ICc1NidoZWlnaHQgPSAnMjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTM1LnBuZycgd2lkdGggPSAnNjAnaGVpZ2h0ID0gJzI3Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MC4gV2hhdCBpcyB0aGUgbGVuZ3RoLCBpbiBpbmNoZXMsIG9mIGEgMTQ0wrAgYXJjIG9mIGEgY2lyY2xlIHdob3NlIGNpcmN1bWZlcmVuY2UgaXMgNjAgaW5jaGVzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzYucG5nJyB3aWR0aCA9ICczNSdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDI0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDM2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTM3LnBuZycgd2lkdGggPSAnNDUnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MS4gQSBzb2xpZCwgcmlnaHQgY2lyY3VsYXIgY29uZSBpcyBzbGljZWQgcGVycGVuZGljdWxhciB0byBpdHMgYmFzZSB0aHJvdWdoIGl0cyB2ZXJ0ZXggYW4gdGhlIGNlbnRlciBvZiBpdHMgYmFzZSwgYXMgc2hvd24gYmVsb3cuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgYmVzdCByZXByZXNlbnRzIHRoZSBwbGFuZSBzZWN0aW9uPw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzgucG5nJyB3aWR0aCA9ICcxOTgnaGVpZ2h0ID0gJzIwNicvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxMzkucG5nJyB3aWR0aCA9ICcxMDAnaGVpZ2h0ID0gJzk4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNDAucG5nJyB3aWR0aCA9ICc5MCdoZWlnaHQgPSAnOTAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNDEucG5nJyB3aWR0aCA9ICcxMTYnaGVpZ2h0ID0gJzk4Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNDIucG5nJyB3aWR0aCA9ICcxMDYnaGVpZ2h0ID0gJzk0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTQzLnBuZycgd2lkdGggPSAnMTA0J2hlaWdodCA9ICc5OCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Mi4gSXQgYiBpcyBhIHBvc2l0aXZlIG51bWJlciBzdWNoIHRoYXQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE0NC5wbmcnIHdpZHRoID0gJzE1MydoZWlnaHQgPSAnNzEnLz4sIHRoZW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNDUucG5nJyB3aWR0aCA9ICc1NCdoZWlnaHQgPSAnMjknLz4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDg1PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNDYucG5nJyB3aWR0aCA9ICcyMidoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTQ3LnBuZycgd2lkdGggPSAnMjInaGVpZ2h0ID0gJzY1Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41My4gVGhlIGdyYXBoIGluIHRoZSBzdGFuZGFyZCAoeCwgeSkgY29vcmRpbmF0ZSBwbGFuZSBiZWxvdyBpcyB0aGUgZ3JhcGggb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE0OC5wbmcnIHdpZHRoID0gJzk0J2hlaWdodCA9ICczNCcvPi4gT25lIG9mIHRoZSBmb2xsb3dpbmcgZ3JhcGhzIGlzIHRoZSBncmFwaCBvZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTQ5LnBuZycgd2lkdGggPSAnMTYyJ2hlaWdodCA9ICczNCcvPi4gV2hpY2ggb25lPw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTAucG5nJyB3aWR0aCA9ICcyNDMnaGVpZ2h0ID0gJzEyOCcvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTEucG5nJyB3aWR0aCA9ICcyMDYnaGVpZ2h0ID0gJzEyOCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTUyLnBuZycgd2lkdGggPSAnMjAyJ2hlaWdodCA9ICcxMjAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTMucG5nJyB3aWR0aCA9ICcyMDgnaGVpZ2h0ID0gJzEyNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTU0LnBuZycgd2lkdGggPSAnMjAyJ2hlaWdodCA9ICcxMjQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTU1LnBuZycgd2lkdGggPSAnMjAwJ2hlaWdodCA9ICcxMjAnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NC4gSW4gdGhlIGZpZ3VyZSBiZWxvdywgcGFyYWxsZWwgbGluZXMgYSBhbmQgYiBpbnRlcnNlY3QgcGFyYWxsZWwgbGluZXMgYyBhbmQgZC4gSWYgaXQgY2FuIGJlIGRldGVybWluZWQsIHdoYXQgaXMgdGhlIHN1bSBvZiB0aGUgZGVncmVlIG1lYXN1cmVzIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTU2LnBuZycgd2lkdGggPSAnMzUnaGVpZ2h0ID0gJzI3Jy8+IGFuZDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTU3LnBuZycgd2lkdGggPSAnMzgnaGVpZ2h0ID0gJzI3Jy8+Pw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcyODgnaGVpZ2h0ID0gJzI3MycvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDIyMMKwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDE4MMKwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE0MMKwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDExMMKwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIENhbm5vdCBiZSBkZXRlcm1pbmVkIGZyb20gdGhlIGdpdmVuIGluZm9ybWF0aW9uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NS4gQ29uc2lkZXIgdGhlIHNldCBvZiBhbGwgcG9pbnRzICh4LCB5KSB0aGF0IHNhdGlzZnkgYWxsIDMgb2YgdGhlIGNvbmRpdGlvbnMgYmVsb3c6
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTkucG5nJyB3aWR0aCA9ICc1NidoZWlnaHQgPSAnMzQnLz4=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjAucG5nJyB3aWR0aCA9ICcxMDcnaGVpZ2h0ID0gJzM0Jy8+
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjEucG5nJyB3aWR0aCA9ICcxMDcnaGVpZ2h0ID0gJzM0Jy8+
+VGhlIGdyYXBoIG9mIHRoaXMgc2V0IGlzIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYyLnBuZycgd2lkdGggPSAnNzQnaGVpZ2h0ID0gJzI5Jy8+IGFuZCBpdHMgaW50ZXJpb3IsIHdoaWNoIGlzIHNob3duIHNoYWRlZCBpbiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgYmVsb3cuIExldCB0aGlzIHNldCBiZSB0aGUgZG9tYWluIG9mIHRoZSBmdW5jdGlvbjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYzLnBuZycgd2lkdGggPSAnMTc2J2hlaWdodCA9ICczNCcvPi4=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcyODgnaGVpZ2h0ID0gJzI3MycvPg==
+V2hhdCBpcyB0aGUgbWF4aW11bSB2YWx1ZSBvZiBQKHgsIHkpIHdoZW4geCBhbmQgeSBzYXRpc2Z5IHRoZSAzIGNvbmRpdGlvbnMgZ2l2ZW4/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDE2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDI4PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ni4gQ29uc2lkZXIgdGhlIHNldCBvZiBhbGwgcG9pbnRzICh4LCB5KSB0aGF0IHNhdGlzZnkgYWxsIDMgb2YgdGhlIGNvbmRpdGlvbnMgYmVsb3c6
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTkucG5nJyB3aWR0aCA9ICc1NidoZWlnaHQgPSAnMzQnLz48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE2MC5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnMzQnLz48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE2MS5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnMzQnLz4=
+VGhlIGdyYXBoIG9mIHRoaXMgc2V0IGlzIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYyLnBuZycgd2lkdGggPSAnNzQnaGVpZ2h0ID0gJzI5Jy8+IGFuZCBpdHMgaW50ZXJpb3IsIHdoaWNoIGlzIHNob3duIHNoYWRlZCBpbiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgYmVsb3cuIExldCB0aGlzIHNldCBiZSB0aGUgZG9tYWluIG9mIHRoZSBmdW5jdGlvbjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYzLnBuZycgd2lkdGggPSAnMTc2J2hlaWdodCA9ICczNCcvPi4=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcyMzgnaGVpZ2h0ID0gJzIyMycvPg==
+VGhlIHF1YWRyYW50cyBvZiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgYXJlIGxhYmVsZWQgaW4gdGhlIGZpZ3VyZSBiZWxvdy4gVGhlIGRvbWFpbiBvZiBQKHgsIHkpIGNvbnRhaW5zIHBvaW50cyBpbiB3aGljaCBxdWFkcmFudHM/
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjUucG5nJyB3aWR0aCA9ICcyMDgnaGVpZ2h0ID0gJzE0OCcvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEkgYW5kIElJIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEkgYW5kIElJSSBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEkgYW5kIElWIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIElJIGFuZCBJSUkgb25seTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIElJIGFuZCBJViBvbmx5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ny4gQ29uc2lkZXIgdGhlIHNldCBvZiBhbGwgcG9pbnRzICh4LCB5KSB0aGF0IHNhdGlzZnkgYWxsIDMgb2YgdGhlIGNvbmRpdGlvbnMgYmVsb3c6
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNTkucG5nJyB3aWR0aCA9ICc1NidoZWlnaHQgPSAnMzQnLz48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE2MC5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnMzQnLz48aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE2MS5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnMzQnLz4=
+VGhlIGdyYXBoIG9mIHRoaXMgc2V0IGlzIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYyLnBuZycgd2lkdGggPSAnNzQnaGVpZ2h0ID0gJzI5Jy8+IGFuZCBpdHMgaW50ZXJpb3IsIHdoaWNoIGlzIHNob3duIHNoYWRlZCBpbiB0aGUgc3RhbmRhcmQgKHgsIHkpIGNvb3JkaW5hdGUgcGxhbmUgYmVsb3cuIExldCB0aGlzIHNldCBiZSB0aGUgZG9tYWluIG9mIHRoZSBmdW5jdGlvbjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTYzLnBuZycgd2lkdGggPSAnMTc2J2hlaWdodCA9ICczNCcvPi4=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcyMzgnaGVpZ2h0ID0gJzIyMycvPiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE2Ni5wbmcnIHdpZHRoID0gJzE0MydoZWlnaHQgPSAnMjknLz4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjcucG5nJyB3aWR0aCA9ICcyNCdoZWlnaHQgPSAnNjUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjgucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnNzEnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNjkucG5nJyB3aWR0aCA9ICc0MSdoZWlnaHQgPSAnNjknLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTcwLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzY5Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OC4gVGhlIGZ1bmN0aW9uIGYoeCkgaXMgYSBjdWJpYyBwb2x5bm9taWFsIHRoYXQgaGFzIHRoZSB2YWx1ZSBvZiAwIHdoZW4geCBpcyAwLCAzLCBhbmQgLTUuIElmPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzEucG5nJyB3aWR0aCA9ICcxMTMnaGVpZ2h0ID0gJzM0Jy8+LCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIGFuIGV4cHJlc3Npb24gZm9yIGYoeCk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzIucG5nJyB3aWR0aCA9ICc3NSdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzMucG5nJyB3aWR0aCA9ICcxNzQnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTc0LnBuZycgd2lkdGggPSAnMTQ4J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzUucG5nJyB3aWR0aCA9ICcxNTknaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTc2LnBuZycgd2lkdGggPSAnMTU5J2hlaWdodCA9ICczNCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OS4gV2F0ZXIgaXMgY29uc2lkZXJlZCBjb250YW1pbmF0ZWQgd2hlbiB0aGUgbGV2ZWwgb2YgemluYyBpbiB0aGUgd2F0ZXIgcmVhY2hlcyA1IHBhcnRzIG9mIHppbmMgcGVyIDEgbWlsbGlvbiBwYXJ0cyBvZiB3YXRlci4gV2hhdCBpcyB0aGlzIGxldmVsIG9mIHppbmMgY29udGFtaW5hdGlvbiB3cml0dGVuIGluIHNjaWVudGlmaWMgbm90YXRpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzcucG5nJyB3aWR0aCA9ICc5NCdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzgucG5nJyB3aWR0aCA9ICc5NCdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxNzkucG5nJyB3aWR0aCA9ICc5NCdoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxODAucG5nJyB3aWR0aCA9ICc4NydoZWlnaHQgPSAnMzQnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkUuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTgxLnBuZycgd2lkdGggPSAnODcnaGVpZ2h0ID0gJzM0Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4gR2l2ZW4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxODIucG5nJyB3aWR0aCA9ICc0NidoZWlnaHQgPSAnMjknLz4gYW5kPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxODMucG5nJyB3aWR0aCA9ICcxNzInaGVpZ2h0ID0gJzM4Jy8+LCB0aGVuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTg0LnBuZycgd2lkdGggPSAnNzInaGVpZ2h0ID0gJzM0Jy8+IG11c3QgYmU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAxLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGdyZWF0ZXIgdGhhbiAxLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdyZWF0ZXIgdGhhbiBhLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgdGhhbjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTg1LnBuZycgd2lkdGggPSAnNzInaGVpZ2h0ID0gJzM0Jy8+LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPksuIGVxdWFsIHRvPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxODYucG5nJyB3aWR0aCA9ICc3MidoZWlnaHQgPSAnMzQnLz4uPC9kaXY+
 
-</div>
-###################
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,0 +1,36 @@
+
+Passage V
+Heat conduction is a process by which heat is transferred from a region at a higher temperature to a region at a lower temperature. Two regions that are in thermal equilibrium with each other are at the same temperature. No heat is transferred between regions in thermal equilibrium with each other.
+A student studied the relationship between the length and diameter of a copper wire connecting 2 metallic blocks and the rate of heat conduction between the blocks.
+Experiment 1
+A small aluminum block, A, was heated to 100℃ in boiling water, and an identical aluminum block, B, was cooled to 0℃ in ice water. Both blocks were immediately placed on an insulating surface (a surface that does not conduct heat well) and connected by a given length of 1 mm diameter copper wire initially at room temperature so that the wire would conduct heat from Block A to Block B (see Figure l).
+<img src='file:\$$$\resources\2005 April 60E\imgs\228.png' width = '238'height = '90'/>
+The temperature of each block was measured at regular time intervals for 3 minutes. The same procedure was done with different lengths of 1 mm diameter copper wire. The results are shown in Table 1.
+#####8
+Experiment 2
+The procedure described in Experiment l was repeated using a copper wire with a diameter of l.4 mm. The results are shown in Table 2.
+#####9
+25. The best way to test the hypothesis that the rate of heat conduction depends on the type of wire material used in the experiments would be to repeat the experiments using:
+A. silver wires and aluminum from the copper wires.
+B. silver wires and aluminum sizes as the copper wipes.
+C. copper wires each having a different diameter.
+D. copper wires each having a different length.
+26. During Experiments l and 2, the 2 blocks reached thermal equilibrium when which of the following copper wires was used?
+F. The 10 cm long, 1 mm diameter wire
+G. The 30 cm long, 1 mm diameter wire
+H. The 10 cm long, 1.4 mm diameter wire
+J. The 30 cm long, 1.4 mm diameter wire
+27. Based on Experiments l and 2, which of the following graphs best represents the relationship between the length of a copper wire of a given diameter arid the temperature of Block A at a given time?
+A.<img src='file:\$$$\resources\2005 April 60E\imgs\229.png' width = '126'height = '110'/>     B.<img src='file:\$$$\resources\2005 April 60E\imgs\230.png' width = '128'height = '109'/>     C.<img src='file:\$$$\resources\2005 April 60E\imgs\231.png' width = '128'height = '114'/>     D. <img src='file:\$$$\resources\2005 April 60E\imgs\232.png' width = '126'height = '105'/>
+28. As thermal conductivity decreases, the ability to conduct heat decreases. Brass has a thermal conductivity one-third that of copper. If, in any of the experiments, a copper wire were replaced with a brass wire of the same length and diameter, which of the following outcomes would be most likely?
+F. Block A would lose heat more slowly than when a copper wire was used.
+G. Block A would lose heat at the same rate as when a copper wire was used.
+H. Block B would gain heat at the same rate as when a copper wire was used.
+J. Block B would gain heat more rapidly than when a copper wire was used.
+29. In each of the 2 experiments, the amount of heat lost by Block A was greater than the amount of heat gained by Block B. The most probable explanation for this inequality is that:
+A. Block A lost beat to the air.                  B. the copper wire lost heat to Block A
+C. Block B lost beat to the copper wire.           D. the air lost heat to Block B.
+30. Suppose, after 4 minutes, the temperature of Block A was 64℃ and that of Block B was 23℃. According to the results of the experiments, which of the following copper wires was most likely being used to connect the blocks?
+F. A 1 mm diameter wire, 10 cm long          G. A 1 mm diameter wire, 20 cm long
+H. A 1.4 mm diameter wire, l0 cm long         J. A 1.4 mm diameter wire, 20 cm long
+

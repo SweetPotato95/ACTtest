@@ -1,122 +1,122 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from Bowman’s Store: A Journey to Myself by Joseph</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Bruchac (?1997 by Joseph Bruchac). The author and his grandfather, Jesse Bowman, are Abenaki Indians.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gQm93bWFu4oCZcyBTdG9yZTogQSBKb3VybmV5IHRvIE15c2VsZiBieSBKb3NlcGg8L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJydWNoYWMgKD8xOTk3IGJ5IEpvc2VwaCBCcnVjaGFjKS4gVGhlIGF1dGhvciBhbmQgaGlzIGdyYW5kZmF0aGVyLCBKZXNzZSBCb3dtYW4sIGFyZSBBYmVuYWtpIEluZGlhbnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I remember my grandfather's garden. It was around back, between my grandparents' house and the small two-room building we used for storing things.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgcmVtZW1iZXIgbXkgZ3JhbmRmYXRoZXIncyBnYXJkZW4uIEl0IHdhcyBhcm91bmQgYmFjaywgYmV0d2VlbiBteSBncmFuZHBhcmVudHMnIGhvdXNlIGFuZCB0aGUgc21hbGwgdHdvLXJvb20gYnVpbGRpbmcgd2UgdXNlZCBmb3Igc3RvcmluZyB0aGluZ3MuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=26>Another of my earliest memories is walking through the furrows of that newly plowed garden with my grandfather-who seemed taller than the biggest trees then-holding my hand: I could barely walk, even on level ground, but he wouldn't let me fall. </font>I wore the same kind of overalls that he did, and people were already calling me "Jess's Shadow."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI2PkFub3RoZXIgb2YgbXkgZWFybGllc3QgbWVtb3JpZXMgaXMgd2Fsa2luZyB0aHJvdWdoIHRoZSBmdXJyb3dzIG9mIHRoYXQgbmV3bHkgcGxvd2VkIGdhcmRlbiB3aXRoIG15IGdyYW5kZmF0aGVyLXdobyBzZWVtZWQgdGFsbGVyIHRoYW4gdGhlIGJpZ2dlc3QgdHJlZXMgdGhlbi1ob2xkaW5nIG15IGhhbmQ6IEkgY291bGQgYmFyZWx5IHdhbGssIGV2ZW4gb24gbGV2ZWwgZ3JvdW5kLCBidXQgaGUgd291bGRuJ3QgbGV0IG1lIGZhbGwuIDwvZm9udD5JIHdvcmUgdGhlIHNhbWUga2luZCBvZiBvdmVyYWxscyB0aGF0IGhlIGRpZCwgYW5kIHBlb3BsZSB3ZXJlIGFscmVhZHkgY2FsbGluZyBtZSAiSmVzcydzIFNoYWRvdy4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">That was how Lawrence Older put it one day when be was buying gasoline at my grandparents' filling station. <font id=27> "Jess," Larry said, with a twinkle in his eye, "that grandson of yours stays so close to you be don't hardly leave room enough for your shadow." </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoYXQgd2FzIGhvdyBMYXdyZW5jZSBPbGRlciBwdXQgaXQgb25lIGRheSB3aGVuIGJlIHdhcyBidXlpbmcgZ2Fzb2xpbmUgYXQgbXkgZ3JhbmRwYXJlbnRzJyBmaWxsaW5nIHN0YXRpb24uIDxmb250IGlkPTI3PiAiSmVzcywiIExhcnJ5IHNhaWQsIHdpdGggYSB0d2lua2xlIGluIGhpcyBleWUsICJ0aGF0IGdyYW5kc29uIG9mIHlvdXJzIHN0YXlzIHNvIGNsb3NlIHRvIHlvdSBiZSBkb24ndCBoYXJkbHkgbGVhdmUgcm9vbSBlbm91Z2ggZm9yIHlvdXIgc2hhZG93LiIgPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Jess's Shadow? I didn't quite understand that name. My name was Sonny. I knew that for sure. That was the name my grandparents called me by. I never beard either of them speak to me or about me by any other name.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkplc3MncyBTaGFkb3c/IEkgZGlkbid0IHF1aXRlIHVuZGVyc3RhbmQgdGhhdCBuYW1lLiBNeSBuYW1lIHdhcyBTb25ueS4gSSBrbmV3IHRoYXQgZm9yIHN1cmUuIFRoYXQgd2FzIHRoZSBuYW1lIG15IGdyYW5kcGFyZW50cyBjYWxsZWQgbWUgYnkuIEkgbmV2ZXIgYmVhcmQgZWl0aGVyIG9mIHRoZW0gc3BlYWsgdG8gbWUgb3IgYWJvdXQgbWUgYnkgYW55IG90aGVyIG5hbWUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=24>I remember the day-I could not have been more than two and a half years old-when my grandfather said to me, "Sonny, cup out yer bands." I held them out together, trying to make a really good cup. Carefully, taking the seeds out from the cloth sack he bad slung over his shoulder, be filled my hands with kernels of golden corn. I stood there holding those seeds for him, watching as he took them, four at a time, to plant them.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI0PkkgcmVtZW1iZXIgdGhlIGRheS1JIGNvdWxkIG5vdCBoYXZlIGJlZW4gbW9yZSB0aGFuIHR3byBhbmQgYSBoYWxmIHllYXJzIG9sZC13aGVuIG15IGdyYW5kZmF0aGVyIHNhaWQgdG8gbWUsICJTb25ueSwgY3VwIG91dCB5ZXIgYmFuZHMuIiBJIGhlbGQgdGhlbSBvdXQgdG9nZXRoZXIsIHRyeWluZyB0byBtYWtlIGEgcmVhbGx5IGdvb2QgY3VwLiBDYXJlZnVsbHksIHRha2luZyB0aGUgc2VlZHMgb3V0IGZyb20gdGhlIGNsb3RoIHNhY2sgaGUgYmFkIHNsdW5nIG92ZXIgaGlzIHNob3VsZGVyLCBiZSBmaWxsZWQgbXkgaGFuZHMgd2l0aCBrZXJuZWxzIG9mIGdvbGRlbiBjb3JuLiBJIHN0b29kIHRoZXJlIGhvbGRpbmcgdGhvc2Ugc2VlZHMgZm9yIGhpbSwgd2F0Y2hpbmcgYXMgaGUgdG9vayB0aGVtLCBmb3VyIGF0IGEgdGltZSwgdG8gcGxhbnQgdGhlbS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Yer turn now," he said when those seeds were gone, and he held out one leathery band filled with corn. I'd watched really carefully, so I knew what to do. I did it so 'well that my grandfather allowed that I was already better at it than be was. Then, as I planted my first hills of corn, he talked to me about things. He always talked more when he was in his garden. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJZZXIgdHVybiBub3csIiBoZSBzYWlkIHdoZW4gdGhvc2Ugc2VlZHMgd2VyZSBnb25lLCBhbmQgaGUgaGVsZCBvdXQgb25lIGxlYXRoZXJ5IGJhbmQgZmlsbGVkIHdpdGggY29ybi4gSSdkIHdhdGNoZWQgcmVhbGx5IGNhcmVmdWxseSwgc28gSSBrbmV3IHdoYXQgdG8gZG8uIEkgZGlkIGl0IHNvICd3ZWxsIHRoYXQgbXkgZ3JhbmRmYXRoZXIgYWxsb3dlZCB0aGF0IEkgd2FzIGFscmVhZHkgYmV0dGVyIGF0IGl0IHRoYW4gYmUgd2FzLiBUaGVuLCBhcyBJIHBsYW50ZWQgbXkgZmlyc3QgaGlsbHMgb2YgY29ybiwgaGUgdGFsa2VkIHRvIG1lIGFib3V0IHRoaW5ncy4gSGUgYWx3YXlzIHRhbGtlZCBtb3JlIHdoZW4gaGUgd2FzIGluIGhpcyBnYXJkZW4uIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There in his garden, as be spaded or began to hoe, he would talk about the different plants, about the birds we heard singing, about how we had to watch for the woodchucks or the rabbits or the raccoons. Sometimes he would talk about the old way of plowing with a team of horses, and he would tell me the names of the horses he'd loved-the last of them dead and gone a decade before I was born. He told me how, as their plows cut their way down into the rich earth that was the same color as his face, be and his father used to turn up arrowheads.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXJlIGluIGhpcyBnYXJkZW4sIGFzIGJlIHNwYWRlZCBvciBiZWdhbiB0byBob2UsIGhlIHdvdWxkIHRhbGsgYWJvdXQgdGhlIGRpZmZlcmVudCBwbGFudHMsIGFib3V0IHRoZSBiaXJkcyB3ZSBoZWFyZCBzaW5naW5nLCBhYm91dCBob3cgd2UgaGFkIHRvIHdhdGNoIGZvciB0aGUgd29vZGNodWNrcyBvciB0aGUgcmFiYml0cyBvciB0aGUgcmFjY29vbnMuIFNvbWV0aW1lcyBoZSB3b3VsZCB0YWxrIGFib3V0IHRoZSBvbGQgd2F5IG9mIHBsb3dpbmcgd2l0aCBhIHRlYW0gb2YgaG9yc2VzLCBhbmQgaGUgd291bGQgdGVsbCBtZSB0aGUgbmFtZXMgb2YgdGhlIGhvcnNlcyBoZSdkIGxvdmVkLXRoZSBsYXN0IG9mIHRoZW0gZGVhZCBhbmQgZ29uZSBhIGRlY2FkZSBiZWZvcmUgSSB3YXMgYm9ybi4gSGUgdG9sZCBtZSBob3csIGFzIHRoZWlyIHBsb3dzIGN1dCB0aGVpciB3YXkgZG93biBpbnRvIHRoZSByaWNoIGVhcnRoIHRoYXQgd2FzIHRoZSBzYW1lIGNvbG9yIGFzIGhpcyBmYWNlLCBiZSBhbmQgaGlzIGZhdGhlciB1c2VkIHRvIHR1cm4gdXAgYXJyb3doZWFkcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Indian arrowheads," he would say.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJbmRpYW4gYXJyb3doZWFkcywiIGhlIHdvdWxkIHNheS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">He had a name for that work of preparing his garden for the sweet corn and green beans and butternut squash we always put in. I never heard anyone else say it just the way be did until I met Grampa's younger brother Jack, many years later, when I was a grown man. "Fitting the ground to plant." That is what Grampa called it. This is what Jack called it. This is what their father, Lewis Bowman, had called it. Fitting the ground to plant.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlIGhhZCBhIG5hbWUgZm9yIHRoYXQgd29yayBvZiBwcmVwYXJpbmcgaGlzIGdhcmRlbiBmb3IgdGhlIHN3ZWV0IGNvcm4gYW5kIGdyZWVuIGJlYW5zIGFuZCBidXR0ZXJudXQgc3F1YXNoIHdlIGFsd2F5cyBwdXQgaW4uIEkgbmV2ZXIgaGVhcmQgYW55b25lIGVsc2Ugc2F5IGl0IGp1c3QgdGhlIHdheSBiZSBkaWQgdW50aWwgSSBtZXQgR3JhbXBhJ3MgeW91bmdlciBicm90aGVyIEphY2ssIG1hbnkgeWVhcnMgbGF0ZXIsIHdoZW4gSSB3YXMgYSBncm93biBtYW4uICJGaXR0aW5nIHRoZSBncm91bmQgdG8gcGxhbnQuIiBUaGF0IGlzIHdoYXQgR3JhbXBhIGNhbGxlZCBpdC4gVGhpcyBpcyB3aGF0IEphY2sgY2FsbGVkIGl0LiBUaGlzIGlzIHdoYXQgdGhlaXIgZmF0aGVyLCBMZXdpcyBCb3dtYW4sIGhhZCBjYWxsZWQgaXQuIEZpdHRpbmcgdGhlIGdyb3VuZCB0byBwbGFudC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>Another spring day, perhaps a year later, I was following my grandfather while he worked in the garden. He bad made a small hoe for me that year, and I was, as always, trying to do exactly what he did. Then be stopped hoeing. I stopped too and waited. I remember that I heard a bird sing just then, a long ululating song.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI1PkFub3RoZXIgc3ByaW5nIGRheSwgcGVyaGFwcyBhIHllYXIgbGF0ZXIsIEkgd2FzIGZvbGxvd2luZyBteSBncmFuZGZhdGhlciB3aGlsZSBoZSB3b3JrZWQgaW4gdGhlIGdhcmRlbi4gSGUgYmFkIG1hZGUgYSBzbWFsbCBob2UgZm9yIG1lIHRoYXQgeWVhciwgYW5kIEkgd2FzLCBhcyBhbHdheXMsIHRyeWluZyB0byBkbyBleGFjdGx5IHdoYXQgaGUgZGlkLiBUaGVuIGJlIHN0b3BwZWQgaG9laW5nLiBJIHN0b3BwZWQgdG9vIGFuZCB3YWl0ZWQuIEkgcmVtZW1iZXIgdGhhdCBJIGhlYXJkIGEgYmlyZCBzaW5nIGp1c3QgdGhlbiwgYSBsb25nIHVsdWxhdGluZyBzb25nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Oriole," my grandfather said. Then he bent over and picked something up. He brushed soil from it and went down on one knee next to me.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJPcmlvbGUsIiBteSBncmFuZGZhdGhlciBzYWlkLiBUaGVuIGhlIGJlbnQgb3ZlciBhbmQgcGlja2VkIHNvbWV0aGluZyB1cC4gSGUgYnJ1c2hlZCBzb2lsIGZyb20gaXQgYW5kIHdlbnQgZG93biBvbiBvbmUga25lZSBuZXh0IHRvIG1lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I leaned close to look at the dark, blocky piece of flint that filled my grandfather's broad hand.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgbGVhbmVkIGNsb3NlIHRvIGxvb2sgYXQgdGhlIGRhcmssIGJsb2NreSBwaWVjZSBvZiBmbGludCB0aGF0IGZpbGxlZCBteSBncmFuZGZhdGhlcidzIGJyb2FkIGhhbmQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Indian," my grandfather said, "Axhead."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJbmRpYW4sIiBteSBncmFuZGZhdGhlciBzYWlkLCAiQXhoZWFkLiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=30>He hefted it first in one hand and then the other. He did it with the same care that my grandmother used when she was gathering eggs in the henhouse and putting them into the basket hung over her arm. Then he placed that axhead into my hands. </font></font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTMwPkhlIGhlZnRlZCBpdCBmaXJzdCBpbiBvbmUgaGFuZCBhbmQgdGhlbiB0aGUgb3RoZXIuIEhlIGRpZCBpdCB3aXRoIHRoZSBzYW1lIGNhcmUgdGhhdCBteSBncmFuZG1vdGhlciB1c2VkIHdoZW4gc2hlIHdhcyBnYXRoZXJpbmcgZWdncyBpbiB0aGUgaGVuaG91c2UgYW5kIHB1dHRpbmcgdGhlbSBpbnRvIHRoZSBiYXNrZXQgaHVuZyBvdmVyIGhlciBhcm0uIFRoZW4gaGUgcGxhY2VkIHRoYXQgYXhoZWFkIGludG8gbXkgaGFuZHMuIDwvZm9udD48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thirty years after that day when my grandfather put the stone axhead in my bands, I understood at last why, as I held that stone, my mind had filled with images of tall corn swaying in the wind, images of women dancing as, they held the season's harvest in their hands. Hearing a friend tell the story of the coming of corn was the last stroke of the hoe that fit my own mind to the earth-my grandfather had given to me. And I knew that as long as my hands had the strength to hold a hoe, I would work that garden where corn had been cared for by my grandparents and by my great-grandparents before them. I would listen to that land just as it bad once been listened to by other men and women, generations of Abenaki people and Mohawk people whose stories were told in a tongue as old as the soil. Spring would find me preparing the earth for the Corn Maiden, find me fitting the ground of my grandfather's garden to plant.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoaXJ0eSB5ZWFycyBhZnRlciB0aGF0IGRheSB3aGVuIG15IGdyYW5kZmF0aGVyIHB1dCB0aGUgc3RvbmUgYXhoZWFkIGluIG15IGJhbmRzLCBJIHVuZGVyc3Rvb2QgYXQgbGFzdCB3aHksIGFzIEkgaGVsZCB0aGF0IHN0b25lLCBteSBtaW5kIGhhZCBmaWxsZWQgd2l0aCBpbWFnZXMgb2YgdGFsbCBjb3JuIHN3YXlpbmcgaW4gdGhlIHdpbmQsIGltYWdlcyBvZiB3b21lbiBkYW5jaW5nIGFzLCB0aGV5IGhlbGQgdGhlIHNlYXNvbidzIGhhcnZlc3QgaW4gdGhlaXIgaGFuZHMuIEhlYXJpbmcgYSBmcmllbmQgdGVsbCB0aGUgc3Rvcnkgb2YgdGhlIGNvbWluZyBvZiBjb3JuIHdhcyB0aGUgbGFzdCBzdHJva2Ugb2YgdGhlIGhvZSB0aGF0IGZpdCBteSBvd24gbWluZCB0byB0aGUgZWFydGgtbXkgZ3JhbmRmYXRoZXIgaGFkIGdpdmVuIHRvIG1lLiBBbmQgSSBrbmV3IHRoYXQgYXMgbG9uZyBhcyBteSBoYW5kcyBoYWQgdGhlIHN0cmVuZ3RoIHRvIGhvbGQgYSBob2UsIEkgd291bGQgd29yayB0aGF0IGdhcmRlbiB3aGVyZSBjb3JuIGhhZCBiZWVuIGNhcmVkIGZvciBieSBteSBncmFuZHBhcmVudHMgYW5kIGJ5IG15IGdyZWF0LWdyYW5kcGFyZW50cyBiZWZvcmUgdGhlbS4gSSB3b3VsZCBsaXN0ZW4gdG8gdGhhdCBsYW5kIGp1c3QgYXMgaXQgYmFkIG9uY2UgYmVlbiBsaXN0ZW5lZCB0byBieSBvdGhlciBtZW4gYW5kIHdvbWVuLCBnZW5lcmF0aW9ucyBvZiBBYmVuYWtpIHBlb3BsZSBhbmQgTW9oYXdrIHBlb3BsZSB3aG9zZSBzdG9yaWVzIHdlcmUgdG9sZCBpbiBhIHRvbmd1ZSBhcyBvbGQgYXMgdGhlIHNvaWwuIFNwcmluZyB3b3VsZCBmaW5kIG1lIHByZXBhcmluZyB0aGUgZWFydGggZm9yIHRoZSBDb3JuIE1haWRlbiwgZmluZCBtZSBmaXR0aW5nIHRoZSBncm91bmQgb2YgbXkgZ3JhbmRmYXRoZXIncyBnYXJkZW4gdG8gcGxhbnQuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">21. Which of the following statements best describes the nature of this passage?
-<div class = "choice">A. grandson learns to appreciate his grandfather, whom he had always bad difficulty understanding before.</div>
-<div class = "choice">B. An adult reflects on time spent with his grandfather and comes to understand more fully what he learned from him.</div>
-<div class = "choice">C. A grown man looks back with nostalgia on his relationship with his grandfather and on a garden that no longer exists.</div>
-<div class = "choice">D. A grandson recounts childhood memories that bring back strong and often unpleasant emotions from his years spent with his grandfather.</div>
-</div>
-###################
-<div class = "quiz">22. The perspective from which the narrator relates the passage shifts most dramatically beginning with lime:
-<div class = "choice">F. 16</div>
-<div class = "choice">G. 21</div>
-<div class = "choice">H. 57</div>
-<div class = "choice">J. 74</div>
-</div>
-###################
-<div class = "quiz">23. It can reasonably be inferred that within the passage, the nickname Jess's Shadow represents all of the following about the narrator EXCEPT his:
-<div class = "choice">A. strong emotional bond with his grandfather.</div>
-<div class = "choice">B. Close physical proximity to his grandfather when the narrator was young.</div>
-<div class = "choice">C. conscious imitation of his grandfather.</div>
-<div class = "choice">D. feeling of being protected from other people by his grandfather.</div>
-</div>
-###################
-<div class = "quiz">24. In the fifth and sixth paragraphs (lines 21-35), the narrator approaches planting corn with his grandfather with what is best characterized as:
-<div class = "choice">F. a reluctant willingness to participate in an activity the narrator knows is important to his grandfather.</div>
-<div class = "choice">G. a great enthusiasm that causes the narrator to be slightly careless in his work.</div>
-<div class = "choice">H. an interest in every detail of the process in an effort to do the best job possible.</div>
-<div class = "choice">J. a genuine interest in the work that fades as the work becomes more difficult.</div>
-</div>
-###################
-<div class = "quiz">25. The scene revealed in the tenth through fourteenth paragraphs (lines 57-73) is best described by which of the following?
-<div class = "choice">A. An older man shares with his grandson a symbol of their common heritage.</div>
-<div class = "choice">B. Two people are brought closer together by their love of birds.</div>
-<div class = "choice">C. A young child comes to value a small hoe given to him by his grandfather.</div>
-<div class = "choice">D. The discovery of an Indian axhead leads a grandfather to a new appreciation of his past.</div>
-</div>
-###################
-<div class = "quiz">26. The images in lines 4-8 are used primarily to convey the narrator's sense as a young child of being:
-<div class = "choice">F. overly controlled by his grandfather.</div>
-<div class = "choice">G. watched over by his awe-inspiring-grandfather.</div>
-<div class = "choice">H. puzzled by his grandfather's height.</div>
-<div class = "choice">J. impressed by the size of his grandfather's garden.</div>
-</div>
-###################
-<div class = "quiz">27. The narrator suggests that. Lawrence Older's comment, quoted in lines13-15, was intended to express:
-<div class = "choice">A. amusement.</div>
-<div class = "choice">B. concern.</div>
-<div class = "choice">C. dismay.</div>
-<div class = "choice">D. elation.</div>
-</div>
-###################
-<div class = "quiz">28. According to the passage, the narrator initially reacts to being called Jess's Shadow with confusion because:
-<div class = "choice">F. his parents had given him the name Sonny.</div>
-<div class = "choice">G. he is no longer certain whether his name is Sonny or Jess's Shadow.</div>
-<div class = "choice">H. he is unsure whether Lawrence Older was referring to him or to someone else.</div>
-<div class = "choice">J. Sonny is the only name he remembers his grandparents using for him.</div>
-</div>
-###################
-<div class = "quiz">29. The narrator describes the term "fitting the ground to plant" as one that was:
-<div class = "choice">A. commonly used by people in the community where his grandfather lived.</div>
-<div class = "choice">B. invented by his grandfather and used by the narrator.</div>
-<div class = "choice">C. traditionally used by people in his grandfather's family.</div>
-<div class = "choice">D. unfamiliar to the narrator until he was a grown man.</div>
-</div>
-###################
-<div class = "quiz">30. The author includes the fourteenth paragraph (lines 69-73) primarily to:
-<div class = "choice">F. introduce the character of the grandmother, who up to this point has been absent from the narrative.</div>
-<div class = "choice">G. describe the type of work that the narrator's grandparents often had to do.</div>
-<div class = "choice">H. establish that the narrator and his grandfather would often exchange small but meaningful gifts.</div>
-<div class = "choice">J. portray the reverence with which the grandfather treated the object he had unearthed.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgZGVzY3JpYmVzIHRoZSBuYXR1cmUgb2YgdGhpcyBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGdyYW5kc29uIGxlYXJucyB0byBhcHByZWNpYXRlIGhpcyBncmFuZGZhdGhlciwgd2hvbSBoZSBoYWQgYWx3YXlzIGJhZCBkaWZmaWN1bHR5IHVuZGVyc3RhbmRpbmcgYmVmb3JlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFuIGFkdWx0IHJlZmxlY3RzIG9uIHRpbWUgc3BlbnQgd2l0aCBoaXMgZ3JhbmRmYXRoZXIgYW5kIGNvbWVzIHRvIHVuZGVyc3RhbmQgbW9yZSBmdWxseSB3aGF0IGhlIGxlYXJuZWQgZnJvbSBoaW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgZ3Jvd24gbWFuIGxvb2tzIGJhY2sgd2l0aCBub3N0YWxnaWEgb24gaGlzIHJlbGF0aW9uc2hpcCB3aXRoIGhpcyBncmFuZGZhdGhlciBhbmQgb24gYSBnYXJkZW4gdGhhdCBubyBsb25nZXIgZXhpc3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEEgZ3JhbmRzb24gcmVjb3VudHMgY2hpbGRob29kIG1lbW9yaWVzIHRoYXQgYnJpbmcgYmFjayBzdHJvbmcgYW5kIG9mdGVuIHVucGxlYXNhbnQgZW1vdGlvbnMgZnJvbSBoaXMgeWVhcnMgc3BlbnQgd2l0aCBoaXMgZ3JhbmRmYXRoZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gVGhlIHBlcnNwZWN0aXZlIGZyb20gd2hpY2ggdGhlIG5hcnJhdG9yIHJlbGF0ZXMgdGhlIHBhc3NhZ2Ugc2hpZnRzIG1vc3QgZHJhbWF0aWNhbGx5IGJlZ2lubmluZyB3aXRoIGxpbWU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDE2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIxPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDU3PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDc0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgdGhhdCB3aXRoaW4gdGhlIHBhc3NhZ2UsIHRoZSBuaWNrbmFtZSBKZXNzJ3MgU2hhZG93IHJlcHJlc2VudHMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgYWJvdXQgdGhlIG5hcnJhdG9yIEVYQ0VQVCBoaXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHN0cm9uZyBlbW90aW9uYWwgYm9uZCB3aXRoIGhpcyBncmFuZGZhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENsb3NlIHBoeXNpY2FsIHByb3hpbWl0eSB0byBoaXMgZ3JhbmRmYXRoZXIgd2hlbiB0aGUgbmFycmF0b3Igd2FzIHlvdW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnNjaW91cyBpbWl0YXRpb24gb2YgaGlzIGdyYW5kZmF0aGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZlZWxpbmcgb2YgYmVpbmcgcHJvdGVjdGVkIGZyb20gb3RoZXIgcGVvcGxlIGJ5IGhpcyBncmFuZGZhdGhlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gSW4gdGhlIGZpZnRoIGFuZCBzaXh0aCBwYXJhZ3JhcGhzIChsaW5lcyAyMS0zNSksIHRoZSBuYXJyYXRvciBhcHByb2FjaGVzIHBsYW50aW5nIGNvcm4gd2l0aCBoaXMgZ3JhbmRmYXRoZXIgd2l0aCB3aGF0IGlzIGJlc3QgY2hhcmFjdGVyaXplZCBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgcmVsdWN0YW50IHdpbGxpbmduZXNzIHRvIHBhcnRpY2lwYXRlIGluIGFuIGFjdGl2aXR5IHRoZSBuYXJyYXRvciBrbm93cyBpcyBpbXBvcnRhbnQgdG8gaGlzIGdyYW5kZmF0aGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgZ3JlYXQgZW50aHVzaWFzbSB0aGF0IGNhdXNlcyB0aGUgbmFycmF0b3IgdG8gYmUgc2xpZ2h0bHkgY2FyZWxlc3MgaW4gaGlzIHdvcmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuIGludGVyZXN0IGluIGV2ZXJ5IGRldGFpbCBvZiB0aGUgcHJvY2VzcyBpbiBhbiBlZmZvcnQgdG8gZG8gdGhlIGJlc3Qgam9iIHBvc3NpYmxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgZ2VudWluZSBpbnRlcmVzdCBpbiB0aGUgd29yayB0aGF0IGZhZGVzIGFzIHRoZSB3b3JrIGJlY29tZXMgbW9yZSBkaWZmaWN1bHQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gVGhlIHNjZW5lIHJldmVhbGVkIGluIHRoZSB0ZW50aCB0aHJvdWdoIGZvdXJ0ZWVudGggcGFyYWdyYXBocyAobGluZXMgNTctNzMpIGlzIGJlc3QgZGVzY3JpYmVkIGJ5IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFuIG9sZGVyIG1hbiBzaGFyZXMgd2l0aCBoaXMgZ3JhbmRzb24gYSBzeW1ib2wgb2YgdGhlaXIgY29tbW9uIGhlcml0YWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFR3byBwZW9wbGUgYXJlIGJyb3VnaHQgY2xvc2VyIHRvZ2V0aGVyIGJ5IHRoZWlyIGxvdmUgb2YgYmlyZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgeW91bmcgY2hpbGQgY29tZXMgdG8gdmFsdWUgYSBzbWFsbCBob2UgZ2l2ZW4gdG8gaGltIGJ5IGhpcyBncmFuZGZhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBkaXNjb3Zlcnkgb2YgYW4gSW5kaWFuIGF4aGVhZCBsZWFkcyBhIGdyYW5kZmF0aGVyIHRvIGEgbmV3IGFwcHJlY2lhdGlvbiBvZiBoaXMgcGFzdC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gVGhlIGltYWdlcyBpbiBsaW5lcyA0LTggYXJlIHVzZWQgcHJpbWFyaWx5IHRvIGNvbnZleSB0aGUgbmFycmF0b3IncyBzZW5zZSBhcyBhIHlvdW5nIGNoaWxkIG9mIGJlaW5nOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG92ZXJseSBjb250cm9sbGVkIGJ5IGhpcyBncmFuZGZhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdhdGNoZWQgb3ZlciBieSBoaXMgYXdlLWluc3BpcmluZy1ncmFuZGZhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHB1enpsZWQgYnkgaGlzIGdyYW5kZmF0aGVyJ3MgaGVpZ2h0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcHJlc3NlZCBieSB0aGUgc2l6ZSBvZiBoaXMgZ3JhbmRmYXRoZXIncyBnYXJkZW4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gVGhlIG5hcnJhdG9yIHN1Z2dlc3RzIHRoYXQuIExhd3JlbmNlIE9sZGVyJ3MgY29tbWVudCwgcXVvdGVkIGluIGxpbmVzMTMtMTUsIHdhcyBpbnRlbmRlZCB0byBleHByZXNzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFtdXNlbWVudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbmNlcm4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRpc21heS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGVsYXRpb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgbmFycmF0b3IgaW5pdGlhbGx5IHJlYWN0cyB0byBiZWluZyBjYWxsZWQgSmVzcydzIFNoYWRvdyB3aXRoIGNvbmZ1c2lvbiBiZWNhdXNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhpcyBwYXJlbnRzIGhhZCBnaXZlbiBoaW0gdGhlIG5hbWUgU29ubnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhlIGlzIG5vIGxvbmdlciBjZXJ0YWluIHdoZXRoZXIgaGlzIG5hbWUgaXMgU29ubnkgb3IgSmVzcydzIFNoYWRvdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhlIGlzIHVuc3VyZSB3aGV0aGVyIExhd3JlbmNlIE9sZGVyIHdhcyByZWZlcnJpbmcgdG8gaGltIG9yIHRvIHNvbWVvbmUgZWxzZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNvbm55IGlzIHRoZSBvbmx5IG5hbWUgaGUgcmVtZW1iZXJzIGhpcyBncmFuZHBhcmVudHMgdXNpbmcgZm9yIGhpbS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIG5hcnJhdG9yIGRlc2NyaWJlcyB0aGUgdGVybSAiZml0dGluZyB0aGUgZ3JvdW5kIHRvIHBsYW50IiBhcyBvbmUgdGhhdCB3YXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbW1vbmx5IHVzZWQgYnkgcGVvcGxlIGluIHRoZSBjb21tdW5pdHkgd2hlcmUgaGlzIGdyYW5kZmF0aGVyIGxpdmVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGludmVudGVkIGJ5IGhpcyBncmFuZGZhdGhlciBhbmQgdXNlZCBieSB0aGUgbmFycmF0b3IuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRyYWRpdGlvbmFsbHkgdXNlZCBieSBwZW9wbGUgaW4gaGlzIGdyYW5kZmF0aGVyJ3MgZmFtaWx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHVuZmFtaWxpYXIgdG8gdGhlIG5hcnJhdG9yIHVudGlsIGhlIHdhcyBhIGdyb3duIG1hbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gVGhlIGF1dGhvciBpbmNsdWRlcyB0aGUgZm91cnRlZW50aCBwYXJhZ3JhcGggKGxpbmVzIDY5LTczKSBwcmltYXJpbHkgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGludHJvZHVjZSB0aGUgY2hhcmFjdGVyIG9mIHRoZSBncmFuZG1vdGhlciwgd2hvIHVwIHRvIHRoaXMgcG9pbnQgaGFzIGJlZW4gYWJzZW50IGZyb20gdGhlIG5hcnJhdGl2ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlc2NyaWJlIHRoZSB0eXBlIG9mIHdvcmsgdGhhdCB0aGUgbmFycmF0b3IncyBncmFuZHBhcmVudHMgb2Z0ZW4gaGFkIHRvIGRvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVzdGFibGlzaCB0aGF0IHRoZSBuYXJyYXRvciBhbmQgaGlzIGdyYW5kZmF0aGVyIHdvdWxkIG9mdGVuIGV4Y2hhbmdlIHNtYWxsIGJ1dCBtZWFuaW5nZnVsIGdpZnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBvcnRyYXkgdGhlIHJldmVyZW5jZSB3aXRoIHdoaWNoIHRoZSBncmFuZGZhdGhlciB0cmVhdGVkIHRoZSBvYmplY3QgaGUgaGFkIHVuZWFydGhlZC48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,0 +1,40 @@
+
+Passage VII
+Students dissolved ammonium chloride (NH4CI) and silver cyanate (AgOCN) together in water. A solid, Product I (P1), formed and was isolated. Product 2 (P2) was then recovered from the water in the solution. Samples of the products had the properties listed below:
+P1: Melting point > 400℃; hard and brittle; not soluble in water; not flammable; formula unknown
+P2: Melting point = 132℃; soft and nonbrittle; soluble in water; flammable; formula is CH<sub>4</sub>N<sub>2</sub>O Two students discuss the identity of these products.
+Student 1
+NH<sub>4</sub>C1 and AgOCN both are salts. Salts are composed of positively charged cations and negatively charged anions that hold together because they have opposite charges. When salts dissolve in water, they dissociate, or break apart, into anions and cations. When NH<sub>4</sub>Cl and AgOCN are dissolved in water, the following occurs:
+NH<sub>4</sub>Cl + AgOCN → NH4+ + CI- + Ag+ + OCN-
+The ions in solution then form new salts, silver chloride (AgCl) and ammonium cyanate (NH<sub>4</sub>OCN):
+NH4+ + C1- + Ag+ + OCN- → AgCl + NH<sub>4</sub>OCN
+P1 is AgCl: AgCl is insoluble in water, and salts tend to be hard and brittle, to be nonflammable, and to have high melting points. P2 is NH<sub>4</sub>OCN, which is a salt composed of an ammonium ion and a cyanate ion:
+[NH4+] [OCN-]
+This sample of NH<sub>4</sub>OCN is absorbed water from the air caused the melting point to salt.
+Student 2
+P1 is AgCl, but P2 is not a salt. Ammonium ions do react with cyanate ions to form NH<sub>4</sub>OCN, but this compound is unstable. To isolate P2, the solution was heated at 70℃ to remove the water. This caused the salt .to rearrange and form a more stable covalent compound. In a. covalent compound, the atoms are held together by bonds, not by their opposite charges. P2 is urea, which has the following structure:
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\200.png' width = '74'height = '51'/>
+Covalent compounds are generally not as brittle as salts and tend to have lower melting points. Also, covalent compounds are much more likely to be flammable than are salts. Urea is also a compound that is found in mammalian urine, so it must be soluble in water.
+34. A compound is hygroscopic if it absorbs water from the air. According to Student l’s hypothesis, which of the following compounds is hygroscopic?
+F. Urea      G. AgCl        H. NH<sub>4</sub>Cl         J. NH<sub>4</sub>OCN
+35. Which of the students’ hypotheses, if either, would be weakened if it were determined that Pl was NOT AgCl ?
+A. Student l’s only         B. Student 2’s only
+C. Both Student l’s and Student 2’s         D. Neither Student l’s nor Student 2’s
+36. Based on the data collected for P2, which of the following compounds represents a possible structure for P2?
+F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\201.png' width = '85'height = '68'/>       G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\202.png' width = '100'height = '67'/>       H. [NH<sub>4</sub>+][CN-]        J. [N<sub>2</sub>H<sub>5</sub>+][OCN-]
+37. In arguing that urea is soluble in water, Student 2 makes which of the following assumptions?
+A. Mammalian urine is a water-based solution.
+B. Mammalian urine contains many dissolved salts.
+C. Urea dissociates when dissolved in water.
+D. Urea absorbs water from the atmosphere.
+38. Which of the following claims about the compounds discussed in the passage, if true, would NOT be consistent with Student 2’s hypothesis?
+F. AgCl is a salt.    G. NH<sub>4</sub>OCN is a salt.     H. NH<sub>4</sub>Cl is a salt.      J. Urea is a salt.
+39. Compounds that have 'the same chemical formula but different chemical structures are called isomers. Based on the information in the passage, which of the following pairs of compounds are isomers?
+A. Silver chloride and silver cyanate               B. Silver cyanate and ammonium chloride
+C. Ammonium chloride and 'ammonium cyanate     D. Ammonium cyanate and urea
+40. According to both Students l and 2, what solid was observed to form when the NH<sub>4</sub>Cl and AgOCN were dissolved together in water?
+F. NH<sub>4</sub>OCN
+G. Urea
+H. AgCI
+J. CH<sub>4</sub>N<sub>2</sub>O
+

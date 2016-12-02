@@ -1,107 +1,107 @@
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A student performed 4 computer simulation studies to model the change at a gene in a population. For each study, the following rules applied:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgc3R1ZGVudCBwZXJmb3JtZWQgNCBjb21wdXRlciBzaW11bGF0aW9uIHN0dWRpZXMgdG8gbW9kZWwgdGhlIGNoYW5nZSBhdCBhIGdlbmUgaW4gYSBwb3B1bGF0aW9uLiBGb3IgZWFjaCBzdHVkeSwgdGhlIGZvbGxvd2luZyBydWxlcyBhcHBsaWVkOjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The gene has 2 alleles (possible forms): A and a.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBnZW5lIGhhcyAyIGFsbGVsZXMgKHBvc3NpYmxlIGZvcm1zKTogQSBhbmQgYS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each organism has 2 copies of the gene.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVhY2ggb3JnYW5pc20gaGFzIDIgY29waWVzIG9mIHRoZSBnZW5lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus, there ate 3 possible genotypes (allele combinations for the gene): AA, Aa, and aa.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRodXMsIHRoZXJlIGF0ZSAzIHBvc3NpYmxlIGdlbm90eXBlcyAoYWxsZWxlIGNvbWJpbmF0aW9ucyBmb3IgdGhlIGdlbmUpOiBBQSwgQWEsIGFuZCBhYS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Different genotypes may have different fitnesses (the relative number of alleles per individual a genotype contributes to the next generation).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRpZmZlcmVudCBnZW5vdHlwZXMgbWF5IGhhdmUgZGlmZmVyZW50IGZpdG5lc3NlcyAodGhlIHJlbGF0aXZlIG51bWJlciBvZiBhbGxlbGVzIHBlciBpbmRpdmlkdWFsIGEgZ2Vub3R5cGUgY29udHJpYnV0ZXMgdG8gdGhlIG5leHQgZ2VuZXJhdGlvbikuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The fitnesses of Genotypes AA, Aa, and aa are represented by W(AA), W(Aa), and W(aa), respectively.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmaXRuZXNzZXMgb2YgR2Vub3R5cGVzIEFBLCBBYSwgYW5kIGFhIGFyZSByZXByZXNlbnRlZCBieSBXKEFBKSwgVyhBYSksIGFuZCBXKGFhKSwgcmVzcGVjdGl2ZWx5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">p = the proportion of the alleles that are in Form A.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPnAgPSB0aGUgcHJvcG9ydGlvbiBvZiB0aGUgYWxsZWxlcyB0aGF0IGFyZSBpbiBGb3JtIEEuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Changes in p are due to differences in the fitnesses of the genotypes.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNoYW5nZXMgaW4gcCBhcmUgZHVlIHRvIGRpZmZlcmVuY2VzIGluIHRoZSBmaXRuZXNzZXMgb2YgdGhlIGdlbm90eXBlcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Time is measured in generations.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRpbWUgaXMgbWVhc3VyZWQgaW4gZ2VuZXJhdGlvbnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study l</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IGw8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three simulations were done. In each, W(AA) = W(Aa)>W(aa), and the initial p = 0.1. See Figure l.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRocmVlIHNpbXVsYXRpb25zIHdlcmUgZG9uZS4gSW4gZWFjaCwgVyhBQSkgPSBXKEFhKT5XKGFhKSwgYW5kIHRoZSBpbml0aWFsIHAgPSAwLjEuIFNlZSBGaWd1cmUgbC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\195.png' width = '534'height = '180'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5NS5wbmcnIHdpZHRoID0gJzUzNCdoZWlnaHQgPSAnMTgwJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\196.png' width = '444'height = '330'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5Ni5wbmcnIHdpZHRoID0gJzQ0NCdoZWlnaHQgPSAnMzMwJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three simulations were done. In each, W(AA) = W(Aa)< W(aa), and the initial p = 0.9. See Figure 2.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRocmVlIHNpbXVsYXRpb25zIHdlcmUgZG9uZS4gSW4gZWFjaCwgVyhBQSkgPSBXKEFhKTwgVyhhYSksIGFuZCB0aGUgaW5pdGlhbCBwID0gMC45LiBTZWUgRmlndXJlIDIuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\197.png' width = '444'height = '435'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5Ny5wbmcnIHdpZHRoID0gJzQ0NCdoZWlnaHQgPSAnNDM1Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDM8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Five simulations were performed. In each, W(AA) = 0.8; W(Aa) = 1.0; and W(aa) = 0.6. The initial p varied. See Figure 3.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpdmUgc2ltdWxhdGlvbnMgd2VyZSBwZXJmb3JtZWQuIEluIGVhY2gsIFcoQUEpID0gMC44OyBXKEFhKSA9IDEuMDsgYW5kIFcoYWEpID0gMC42LiBUaGUgaW5pdGlhbCBwIHZhcmllZC4gU2VlIEZpZ3VyZSAzLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\198.png' width = '444'height = '414'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5OC5wbmcnIHdpZHRoID0gJzQ0NCdoZWlnaHQgPSAnNDE0Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 4</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDQ8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Five simulations were performed. In each, W(AA) = 0.625; W(Aa) = 0.5; and W(aa) = 1.0. The initial p varied. See Figure 4.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpdmUgc2ltdWxhdGlvbnMgd2VyZSBwZXJmb3JtZWQuIEluIGVhY2gsIFcoQUEpID0gMC42MjU7IFcoQWEpID0gMC41OyBhbmQgVyhhYSkgPSAxLjAuIFRoZSBpbml0aWFsIHAgdmFyaWVkLiBTZWUgRmlndXJlIDQuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\199.png' width = '444'height = '339'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5OS5wbmcnIHdpZHRoID0gJzQ0NCdoZWlnaHQgPSAnMzM5Jy8+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">28. In Study 4, the initial values of p were:
-<div class = "choice">F. 0.1, 0.25, 0.5, 0.75, and l.0.</div>
-<div class = "choice">G. 0.4, 0.45, 0.5; 0.95, and l.0.</div>
-<div class = "choice">H. 0.7, 0.75, 0.8, 0.85, and 0.9.</div>
-<div class = "choice">J. 0.8, 0.85, 0.9, 0.95, and l.0.</div>
-</div>
-###################
-<div class = "quiz">29. For the simulation in Study 1 in which W(aa) = 0.4, the greatest change in p occurred during which of the following time frames?
-<div class = "choice">A. Between Generation 0 and Generation 10</div>
-<div class = "choice">B. Between Generation 10 and Generation 20</div>
-<div class = "choice">C. Between Generation 20 and Generation 30</div>
-<div class = "choice">D. Between Generation 30 and Generation 40</div>
-</div>
-###################
-<div class = "quiz">30. Based on the information provided, which of the following shows the possible range for p?
-<div class = "choice">F. 0-0.5</div>
-<div class = "choice">G. 0-1.0</div>
-<div class = "choice">H. 0.5-1.0</div>
-<div class = "choice">J. 0.5-2.0</div>
-</div>
-###################
-<div class = "quiz">31. In all 3 simulations in Study l, W(Aa) equaled:
-<div class = "choice">A. 0.8.</div>
-<div class = "choice">B. 1.0.</div>
-<div class = "choice">C. 1.2.</div>
-<div class = "choice">D. 2.0.</div>
-</div>
-###################
-<div class = "quiz">32. Which studies included at least l simulation in which the fitness of Genotype AA was greater than the fitness of Genotype aa?
-<div class = "choice">F. Studies l and 3</div>
-<div class = "choice">G. Studies l and 4</div>
-<div class = "choice">H. Studies 2 and 3</div>
-<div class = "choice">J. Studies 2 and 4</div>
-</div>
-###################
-<div class = "quiz">33. If the student wanted to run an additional simulation in Study l in which the initial p = 0.1 and p at Generation 10 was between 0.7 and 0.8, the student should set W(AA) = 1.0; W(Aa) = 1.0; and:
-<div class = "choice">A. W(aa)=0.3.</div>
-<div class = "choice">B. W(aa)=0.5.</div>
-<div class = "choice">C. W(aa)=0.7.</div>
-<div class = "choice">D. W(aa)=0.9.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gSW4gU3R1ZHkgNCwgdGhlIGluaXRpYWwgdmFsdWVzIG9mIHAgd2VyZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuMSwgMC4yNSwgMC41LCAwLjc1LCBhbmQgbC4wLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAuNCwgMC40NSwgMC41OyAwLjk1LCBhbmQgbC4wLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDAuNywgMC43NSwgMC44LCAwLjg1LCBhbmQgMC45LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDAuOCwgMC44NSwgMC45LCAwLjk1LCBhbmQgbC4wLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gRm9yIHRoZSBzaW11bGF0aW9uIGluIFN0dWR5IDEgaW4gd2hpY2ggVyhhYSkgPSAwLjQsIHRoZSBncmVhdGVzdCBjaGFuZ2UgaW4gcCBvY2N1cnJlZCBkdXJpbmcgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyB0aW1lIGZyYW1lcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEJldHdlZW4gR2VuZXJhdGlvbiAwIGFuZCBHZW5lcmF0aW9uIDEwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEJldHdlZW4gR2VuZXJhdGlvbiAxMCBhbmQgR2VuZXJhdGlvbiAyMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJldHdlZW4gR2VuZXJhdGlvbiAyMCBhbmQgR2VuZXJhdGlvbiAzMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJldHdlZW4gR2VuZXJhdGlvbiAzMCBhbmQgR2VuZXJhdGlvbiA0MDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gQmFzZWQgb24gdGhlIGluZm9ybWF0aW9uIHByb3ZpZGVkLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHNob3dzIHRoZSBwb3NzaWJsZSByYW5nZSBmb3IgcD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAtMC41PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAtMS4wPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDAuNS0xLjA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDAuNS0yLjA8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gSW4gYWxsIDMgc2ltdWxhdGlvbnMgaW4gU3R1ZHkgbCwgVyhBYSkgZXF1YWxlZDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuOC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEuMC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDEuMi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIuMC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gV2hpY2ggc3R1ZGllcyBpbmNsdWRlZCBhdCBsZWFzdCBsIHNpbXVsYXRpb24gaW4gd2hpY2ggdGhlIGZpdG5lc3Mgb2YgR2Vub3R5cGUgQUEgd2FzIGdyZWF0ZXIgdGhhbiB0aGUgZml0bmVzcyBvZiBHZW5vdHlwZSBhYT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFN0dWRpZXMgbCBhbmQgMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFN0dWRpZXMgbCBhbmQgNDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFN0dWRpZXMgMiBhbmQgMzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFN0dWRpZXMgMiBhbmQgNDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gSWYgdGhlIHN0dWRlbnQgd2FudGVkIHRvIHJ1biBhbiBhZGRpdGlvbmFsIHNpbXVsYXRpb24gaW4gU3R1ZHkgbCBpbiB3aGljaCB0aGUgaW5pdGlhbCBwID0gMC4xIGFuZCBwIGF0IEdlbmVyYXRpb24gMTAgd2FzIGJldHdlZW4gMC43IGFuZCAwLjgsIHRoZSBzdHVkZW50IHNob3VsZCBzZXQgVyhBQSkgPSAxLjA7IFcoQWEpID0gMS4wOyBhbmQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFcoYWEpPTAuMy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFcoYWEpPTAuNS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFcoYWEpPTAuNy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFcoYWEpPTAuOS48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

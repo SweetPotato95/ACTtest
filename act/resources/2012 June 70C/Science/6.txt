@@ -1,90 +1,90 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a hydrothermal vent, anaerobic oxidation of methane (AOM) occurs in the top 20 cm of ocean-floor sediment (see Figure 1). This reaction begins when hot fluid containing methane (<img src='file:\$$$\resources\2012 June 70C\imgs\213.png' width = '51'height = '38'/>) rises from a source deep beneath the ocean-floor surface and mixes with seawater containing sulfate (<img src='file:\$$$\resources\2012 June 70C\imgs\214.png' width = '55'height = '40'/>).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGEgaHlkcm90aGVybWFsIHZlbnQsIGFuYWVyb2JpYyBveGlkYXRpb24gb2YgbWV0aGFuZSAoQU9NKSBvY2N1cnMgaW4gdGhlIHRvcCAyMCBjbSBvZiBvY2Vhbi1mbG9vciBzZWRpbWVudCAoc2VlIEZpZ3VyZSAxKS4gVGhpcyByZWFjdGlvbiBiZWdpbnMgd2hlbiBob3QgZmx1aWQgY29udGFpbmluZyBtZXRoYW5lICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjEzLnBuZycgd2lkdGggPSAnNTEnaGVpZ2h0ID0gJzM4Jy8+KSByaXNlcyBmcm9tIGEgc291cmNlIGRlZXAgYmVuZWF0aCB0aGUgb2NlYW4tZmxvb3Igc3VyZmFjZSBhbmQgbWl4ZXMgd2l0aCBzZWF3YXRlciBjb250YWluaW5nIHN1bGZhdGUgKDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMTQucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4pLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\215.png' width = '562'height = '320'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMTUucG5nJyB3aWR0aCA9ICc1NjInaGVpZ2h0ID0gJzMyMCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">AOM is represented by the following equation:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFPTSBpcyByZXByZXNlbnRlZCBieSB0aGUgZm9sbG93aW5nIGVxdWF0aW9uOjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\216.png' width = '356'height = '40'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMTYucG5nJyB3aWR0aCA9ICczNTYnaGVpZ2h0ID0gJzQwJy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the 3 direct products of this reaction, <img src='file:\$$$\resources\2012 June 70C\imgs\217.png' width = '70'height = '40'/>, can then combine with calcium (<img src='file:\$$$\resources\2012 June 70C\imgs\218.png' width = '54'height = '34'/>) in the seawater in a second reaction to produce solid calcium carbonate (<img src='file:\$$$\resources\2012 June 70C\imgs\219.png' width = '75'height = '38'/>). This <img src='file:\$$$\resources\2012 June 70C\imgs\220.png' width = '75'height = '38'/> exists as calcite crystals and/or aragonite crystals. Over time, the crystals fill in the pores in the sediment.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSBvZiB0aGUgMyBkaXJlY3QgcHJvZHVjdHMgb2YgdGhpcyByZWFjdGlvbiwgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIxNy5wbmcnIHdpZHRoID0gJzcwJ2hlaWdodCA9ICc0MCcvPiwgY2FuIHRoZW4gY29tYmluZSB3aXRoIGNhbGNpdW0gKDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMTgucG5nJyB3aWR0aCA9ICc1NCdoZWlnaHQgPSAnMzQnLz4pIGluIHRoZSBzZWF3YXRlciBpbiBhIHNlY29uZCByZWFjdGlvbiB0byBwcm9kdWNlIHNvbGlkIGNhbGNpdW0gY2FyYm9uYXRlICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjE5LnBuZycgd2lkdGggPSAnNzUnaGVpZ2h0ID0gJzM4Jy8+KS4gVGhpcyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjIwLnBuZycgd2lkdGggPSAnNzUnaGVpZ2h0ID0gJzM4Jy8+IGV4aXN0cyBhcyBjYWxjaXRlIGNyeXN0YWxzIGFuZC9vciBhcmFnb25pdGUgY3J5c3RhbHMuIE92ZXIgdGltZSwgdGhlIGNyeXN0YWxzIGZpbGwgaW4gdGhlIHBvcmVzIGluIHRoZSBzZWRpbWVudC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At each of 10 locations in a hydrothermal vent, 2 vertical cylindrical cores of the top 20 cm of ocean-floor sediment were collected.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF0IGVhY2ggb2YgMTAgbG9jYXRpb25zIGluIGEgaHlkcm90aGVybWFsIHZlbnQsIDIgdmVydGljYWwgY3lsaW5kcmljYWwgY29yZXMgb2YgdGhlIHRvcCAyMCBjbSBvZiBvY2Vhbi1mbG9vciBzZWRpbWVudCB3ZXJlIGNvbGxlY3RlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDE8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the 2 cores from each of the 10 locations was cut every 0.5 cm along its length. Each piece of core was squeezed to extract all of the pore water (water present in the sediment's pores). The 10 pore water samples from the pieces at the same depth interval in each core were combined and then analyzed for <img src='file:\$$$\resources\2012 June 70C\imgs\221.png' width = '55'height = '40'/> and<img src='file:\$$$\resources\2012 June 70C\imgs\222.png' width = '51'height = '38'/>. The average <img src='file:\$$$\resources\2012 June 70C\imgs\223.png' width = '55'height = '40'/> and <img src='file:\$$$\resources\2012 June 70C\imgs\224.png' width = '51'height = '38'/> concentrations, in millimoles per liter (mmol/L), from 0 cm to 20 cm depth are shown in Figure 2.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSBvZiB0aGUgMiBjb3JlcyBmcm9tIGVhY2ggb2YgdGhlIDEwIGxvY2F0aW9ucyB3YXMgY3V0IGV2ZXJ5IDAuNSBjbSBhbG9uZyBpdHMgbGVuZ3RoLiBFYWNoIHBpZWNlIG9mIGNvcmUgd2FzIHNxdWVlemVkIHRvIGV4dHJhY3QgYWxsIG9mIHRoZSBwb3JlIHdhdGVyICh3YXRlciBwcmVzZW50IGluIHRoZSBzZWRpbWVudCdzIHBvcmVzKS4gVGhlIDEwIHBvcmUgd2F0ZXIgc2FtcGxlcyBmcm9tIHRoZSBwaWVjZXMgYXQgdGhlIHNhbWUgZGVwdGggaW50ZXJ2YWwgaW4gZWFjaCBjb3JlIHdlcmUgY29tYmluZWQgYW5kIHRoZW4gYW5hbHl6ZWQgZm9yIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjEucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4gYW5kPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIyMi5wbmcnIHdpZHRoID0gJzUxJ2hlaWdodCA9ICczOCcvPi4gVGhlIGF2ZXJhZ2UgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIyMy5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MCcvPiBhbmQgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIyNC5wbmcnIHdpZHRoID0gJzUxJ2hlaWdodCA9ICczOCcvPiBjb25jZW50cmF0aW9ucywgaW4gbWlsbGltb2xlcyBwZXIgbGl0ZXIgKG1tb2wvTCksIGZyb20gMCBjbSB0byAyMCBjbSBkZXB0aCBhcmUgc2hvd24gaW4gRmlndXJlIDIuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\225.png' width = '502'height = '603'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjUucG5nJyB3aWR0aCA9ICc1MDInaGVpZ2h0ID0gJzYwMycvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The sediment in the other core from each of the 10 locations was sampled at the top of the core (0 cm depth), then every 0.5 cm along the core's length. The 10 samples from the same depth in each core were combined and then analyzed to determine the average percent by mass of calcite and the average percent by mass of aragonite in the sediment from o cm to 20 cm depth (see Figure 3).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzZWRpbWVudCBpbiB0aGUgb3RoZXIgY29yZSBmcm9tIGVhY2ggb2YgdGhlIDEwIGxvY2F0aW9ucyB3YXMgc2FtcGxlZCBhdCB0aGUgdG9wIG9mIHRoZSBjb3JlICgwIGNtIGRlcHRoKSwgdGhlbiBldmVyeSAwLjUgY20gYWxvbmcgdGhlIGNvcmUncyBsZW5ndGguIFRoZSAxMCBzYW1wbGVzIGZyb20gdGhlIHNhbWUgZGVwdGggaW4gZWFjaCBjb3JlIHdlcmUgY29tYmluZWQgYW5kIHRoZW4gYW5hbHl6ZWQgdG8gZGV0ZXJtaW5lIHRoZSBhdmVyYWdlIHBlcmNlbnQgYnkgbWFzcyBvZiBjYWxjaXRlIGFuZCB0aGUgYXZlcmFnZSBwZXJjZW50IGJ5IG1hc3Mgb2YgYXJhZ29uaXRlIGluIHRoZSBzZWRpbWVudCBmcm9tIG8gY20gdG8gMjAgY20gZGVwdGggKHNlZSBGaWd1cmUgMykuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 June 70C\imgs\226.png' width = '460'height = '665'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjYucG5nJyB3aWR0aCA9ICc0NjAnaGVpZ2h0ID0gJzY2NScvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from Roger Luff et al., "Simulation of Long-Term Feedbacks from Authigenic Carbonate Crust Formation at Cold Vent Sites. ⓒ2004 by Elsevier B.V.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMiBhbmQgMyBhZGFwdGVkIGZyb20gUm9nZXIgTHVmZiBldCBhbC4sICJTaW11bGF0aW9uIG9mIExvbmctVGVybSBGZWVkYmFja3MgZnJvbSBBdXRoaWdlbmljIENhcmJvbmF0ZSBDcnVzdCBGb3JtYXRpb24gYXQgQ29sZCBWZW50IFNpdGVzLiDikz8yMDA0IGJ5IEVsc2V2aWVyIEIuVi48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">29. According to the results of Study 2, there was NO calcite found at which of the following depths?
-<div class = "choice">A. 2 cm</div>
-<div class = "choice">B. 5 cm</div>
-<div class = "choice">C. 8 cm</div>
-<div class = "choice">D. 11 cm</div>
-</div>
-###################
-<div class = "quiz">30. Suppose that in Study 1, at the same locations, samples of ocean-floor sediment from 20 cm to 20.5 cm below the ocean-floor surface had been collected and combined. The pore water extracted from those combined samples would most likely have had an average <img src='file:\$$$\resources\2012 June 70C\imgs\227.png' width = '55'height = '40'/> concentration and an average <img src='file:\$$$\resources\2012 June 70C\imgs\228.png' width = '51'height = '38'/> concentration, respectively, closest to which of the following?
-<img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L)  <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L)
-<div class = "choice">F. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 0   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 0</div>
-<div class = "choice">G. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 0   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 65</div>
-<div class = "choice">H. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 20   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 0</div>
-<div class = "choice">J. <img src='file:\$$$\resources\2012 June 70C\imgs\229.png' width = '55'height = '40'/>(mmol/L) 20   <img src='file:\$$$\resources\2012 June 70C\imgs\230.png' width = '51'height = '38'/>(mmol/L) 65</div>
-</div>
-###################
-<div class = "quiz">31. Is the statement "Some <img src='file:\$$$\resources\2012 June 70C\imgs\231.png' width = '55'height = '40'/> was found in the pore water from each depth interval in the cores" supported by Figure 2 ?
-<div class = "choice">A. Yes, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\232.png' width = '55'height = '40'/> concentration was zero at depths of 4 cm or greater.</div>
-<div class = "choice">B. Yes, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\233.png' width = '55'height = '40'/> concentration was greater than zero at all depths.</div>
-<div class = "choice">C. No. because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\234.png' width = '55'height = '40'/> concentration was zero at depths of 4 cm or greater.</div>
-<div class = "choice">D. No, because Figure 2 indicates that the average <img src='file:\$$$\resources\2012 June 70C\imgs\235.png' width = '55'height = '40'/> concentration was greater than zero at all depths.</div>
-</div>
-###################
-<div class = "quiz">32. According to the results of Study 2, over the top 20 cm of sediment, how did the average percent by mass of calcite compare to the average percent by mass of aragonite? The average percent by mass of calcite was:
-<div class = "choice">F. greater at each depth.</div>
-<div class = "choice">G. less at each depth.</div>
-<div class = "choice">H. greater at some depths but less at all other depths.</div>
-<div class = "choice">J. greater at some depths but the same at all other depths.</div>
-</div>
-###################
-<div class = "quiz">33. Consider the average percent by mass of aragonite at a depth of 10 cm shown in Figure 3. On average, the mass in grams of aragonite present in a 50 g sample of sediment taken from that depth would be closest to which of the following?
-<div class = "choice">A. 2.5 g</div>
-<div class = "choice">B. 5 g</div>
-<div class = "choice">C. 25 g</div>
-<div class = "choice">D. 50 g</div>
-</div>
-###################
-<div class = "quiz">34. The procedures of Studies 1 and 2 differed in which of the following ways? In Study 1, samples were:
-<div class = "choice">F. analyzed for the reactants of AOM, whereas in Study 2, samples were not analyzed for the reactants of AOM.</div>
-<div class = "choice">G. not analyzed for the reactants of AOM, whereas in Study 2, samples were analyzed for the reactants of AOM.</div>
-<div class = "choice">H. analyzed for the direct products of AOM, whereas in Study 2, samples were not analyzed for the direct products of AOM.</div>
-<div class = "choice">J. not analyzed for the direct products of AOM, whereas in Study 2, samples were analyzed for the direct products of AOM.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQWNjb3JkaW5nIHRvIHRoZSByZXN1bHRzIG9mIFN0dWR5IDIsIHRoZXJlIHdhcyBOTyBjYWxjaXRlIGZvdW5kIGF0IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZGVwdGhzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIgY208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDUgY208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDggY208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDExIGNtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gU3VwcG9zZSB0aGF0IGluIFN0dWR5IDEsIGF0IHRoZSBzYW1lIGxvY2F0aW9ucywgc2FtcGxlcyBvZiBvY2Vhbi1mbG9vciBzZWRpbWVudCBmcm9tIDIwIGNtIHRvIDIwLjUgY20gYmVsb3cgdGhlIG9jZWFuLWZsb29yIHN1cmZhY2UgaGFkIGJlZW4gY29sbGVjdGVkIGFuZCBjb21iaW5lZC4gVGhlIHBvcmUgd2F0ZXIgZXh0cmFjdGVkIGZyb20gdGhvc2UgY29tYmluZWQgc2FtcGxlcyB3b3VsZCBtb3N0IGxpa2VseSBoYXZlIGhhZCBhbiBhdmVyYWdlIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjcucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4gY29uY2VudHJhdGlvbiBhbmQgYW4gYXZlcmFnZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjI4LnBuZycgd2lkdGggPSAnNTEnaGVpZ2h0ID0gJzM4Jy8+IGNvbmNlbnRyYXRpb24sIHJlc3BlY3RpdmVseSwgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nPw==
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIyOS5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MCcvPihtbW9sL0wpICA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjMwLnBuZycgd2lkdGggPSAnNTEnaGVpZ2h0ID0gJzM4Jy8+KG1tb2wvTCk=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjkucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4obW1vbC9MKSAwICAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIzMC5wbmcnIHdpZHRoID0gJzUxJ2hlaWdodCA9ICczOCcvPihtbW9sL0wpIDA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjkucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4obW1vbC9MKSAwICAgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMiBKdW5lIDcwQ1xpbWdzXDIzMC5wbmcnIHdpZHRoID0gJzUxJ2hlaWdodCA9ICczOCcvPihtbW9sL0wpIDY1PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjkucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4obW1vbC9MKSAyMCAgIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzAucG5nJyB3aWR0aCA9ICc1MSdoZWlnaHQgPSAnMzgnLz4obW1vbC9MKSAwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMjkucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4obW1vbC9MKSAyMCAgIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzAucG5nJyB3aWR0aCA9ICc1MSdoZWlnaHQgPSAnMzgnLz4obW1vbC9MKSA2NTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gSXMgdGhlIHN0YXRlbWVudCAiU29tZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjMxLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQwJy8+IHdhcyBmb3VuZCBpbiB0aGUgcG9yZSB3YXRlciBmcm9tIGVhY2ggZGVwdGggaW50ZXJ2YWwgaW4gdGhlIGNvcmVzIiBzdXBwb3J0ZWQgYnkgRmlndXJlIDIgPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBGaWd1cmUgMiBpbmRpY2F0ZXMgdGhhdCB0aGUgYXZlcmFnZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjMyLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQwJy8+IGNvbmNlbnRyYXRpb24gd2FzIHplcm8gYXQgZGVwdGhzIG9mIDQgY20gb3IgZ3JlYXRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBGaWd1cmUgMiBpbmRpY2F0ZXMgdGhhdCB0aGUgYXZlcmFnZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDEyIEp1bmUgNzBDXGltZ3NcMjMzLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQwJy8+IGNvbmNlbnRyYXRpb24gd2FzIGdyZWF0ZXIgdGhhbiB6ZXJvIGF0IGFsbCBkZXB0aHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLiBiZWNhdXNlIEZpZ3VyZSAyIGluZGljYXRlcyB0aGF0IHRoZSBhdmVyYWdlIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzQucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4gY29uY2VudHJhdGlvbiB3YXMgemVybyBhdCBkZXB0aHMgb2YgNCBjbSBvciBncmVhdGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIEZpZ3VyZSAyIGluZGljYXRlcyB0aGF0IHRoZSBhdmVyYWdlIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTIgSnVuZSA3MENcaW1nc1wyMzUucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDAnLz4gY29uY2VudHJhdGlvbiB3YXMgZ3JlYXRlciB0aGFuIHplcm8gYXQgYWxsIGRlcHRocy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQWNjb3JkaW5nIHRvIHRoZSByZXN1bHRzIG9mIFN0dWR5IDIsIG92ZXIgdGhlIHRvcCAyMCBjbSBvZiBzZWRpbWVudCwgaG93IGRpZCB0aGUgYXZlcmFnZSBwZXJjZW50IGJ5IG1hc3Mgb2YgY2FsY2l0ZSBjb21wYXJlIHRvIHRoZSBhdmVyYWdlIHBlcmNlbnQgYnkgbWFzcyBvZiBhcmFnb25pdGU/IFRoZSBhdmVyYWdlIHBlcmNlbnQgYnkgbWFzcyBvZiBjYWxjaXRlIHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGdyZWF0ZXIgYXQgZWFjaCBkZXB0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxlc3MgYXQgZWFjaCBkZXB0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdyZWF0ZXIgYXQgc29tZSBkZXB0aHMgYnV0IGxlc3MgYXQgYWxsIG90aGVyIGRlcHRocy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgYXQgc29tZSBkZXB0aHMgYnV0IHRoZSBzYW1lIGF0IGFsbCBvdGhlciBkZXB0aHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQ29uc2lkZXIgdGhlIGF2ZXJhZ2UgcGVyY2VudCBieSBtYXNzIG9mIGFyYWdvbml0ZSBhdCBhIGRlcHRoIG9mIDEwIGNtIHNob3duIGluIEZpZ3VyZSAzLiBPbiBhdmVyYWdlLCB0aGUgbWFzcyBpbiBncmFtcyBvZiBhcmFnb25pdGUgcHJlc2VudCBpbiBhIDUwIGcgc2FtcGxlIG9mIHNlZGltZW50IHRha2VuIGZyb20gdGhhdCBkZXB0aCB3b3VsZCBiZSBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIuNSBnPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDUgZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDI1IGc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDUwIGc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gVGhlIHByb2NlZHVyZXMgb2YgU3R1ZGllcyAxIGFuZCAyIGRpZmZlcmVkIGluIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgd2F5cz8gSW4gU3R1ZHkgMSwgc2FtcGxlcyB3ZXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFuYWx5emVkIGZvciB0aGUgcmVhY3RhbnRzIG9mIEFPTSwgd2hlcmVhcyBpbiBTdHVkeSAyLCBzYW1wbGVzIHdlcmUgbm90IGFuYWx5emVkIGZvciB0aGUgcmVhY3RhbnRzIG9mIEFPTS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG5vdCBhbmFseXplZCBmb3IgdGhlIHJlYWN0YW50cyBvZiBBT00sIHdoZXJlYXMgaW4gU3R1ZHkgMiwgc2FtcGxlcyB3ZXJlIGFuYWx5emVkIGZvciB0aGUgcmVhY3RhbnRzIG9mIEFPTS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuYWx5emVkIGZvciB0aGUgZGlyZWN0IHByb2R1Y3RzIG9mIEFPTSwgd2hlcmVhcyBpbiBTdHVkeSAyLCBzYW1wbGVzIHdlcmUgbm90IGFuYWx5emVkIGZvciB0aGUgZGlyZWN0IHByb2R1Y3RzIG9mIEFPTS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vdCBhbmFseXplZCBmb3IgdGhlIGRpcmVjdCBwcm9kdWN0cyBvZiBBT00sIHdoZXJlYXMgaW4gU3R1ZHkgMiwgc2FtcGxlcyB3ZXJlIGFuYWx5emVkIGZvciB0aGUgZGlyZWN0IHByb2R1Y3RzIG9mIEFPTS48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

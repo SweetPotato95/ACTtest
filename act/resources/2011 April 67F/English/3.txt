@@ -1,127 +1,127 @@
-<h1>A Peachy Winter Game</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One <font id=31>winteringly</font> New England day in 1891, a Massachusetts YMCA teacher <font id=32>puzzled over how to handle</font> a difficult situation. Outside, the air was <font id=33>frigid inside, </font> the students were bursting with energy and ignoring their lessons. They were, <font id=34>however, </font> being quite disruptive.</div>
+PGgxPkEgUGVhY2h5IFdpbnRlciBHYW1lPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSA8Zm9udCBpZD0zMT53aW50ZXJpbmdseTwvZm9udD4gTmV3IEVuZ2xhbmQgZGF5IGluIDE4OTEsIGEgTWFzc2FjaHVzZXR0cyBZTUNBIHRlYWNoZXIgPGZvbnQgaWQ9MzI+cHV6emxlZCBvdmVyIGhvdyB0byBoYW5kbGU8L2ZvbnQ+IGEgZGlmZmljdWx0IHNpdHVhdGlvbi4gT3V0c2lkZSwgdGhlIGFpciB3YXMgPGZvbnQgaWQ9MzM+ZnJpZ2lkIGluc2lkZSwgPC9mb250PiB0aGUgc3R1ZGVudHMgd2VyZSBidXJzdGluZyB3aXRoIGVuZXJneSBhbmQgaWdub3JpbmcgdGhlaXIgbGVzc29ucy4gVGhleSB3ZXJlLCA8Zm9udCBpZD0zND5ob3dldmVyLCA8L2ZvbnQ+IGJlaW5nIHF1aXRlIGRpc3J1cHRpdmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The teacher, James Naismith, was a physical education <font id=35>instructor and</font> an ordained minister. He believed that exercising the body was as important as exercising <font id=36>the mental capacities of</font> the mind. <font id=37>Both, in his opinion</font> nourished the human spirit and build character.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB0ZWFjaGVyLCBKYW1lcyBOYWlzbWl0aCwgd2FzIGEgcGh5c2ljYWwgZWR1Y2F0aW9uIDxmb250IGlkPTM1Pmluc3RydWN0b3IgYW5kPC9mb250PiBhbiBvcmRhaW5lZCBtaW5pc3Rlci4gSGUgYmVsaWV2ZWQgdGhhdCBleGVyY2lzaW5nIHRoZSBib2R5IHdhcyBhcyBpbXBvcnRhbnQgYXMgZXhlcmNpc2luZyA8Zm9udCBpZD0zNj50aGUgbWVudGFsIGNhcGFjaXRpZXMgb2Y8L2ZvbnQ+IHRoZSBtaW5kLiA8Zm9udCBpZD0zNz5Cb3RoLCBpbiBoaXMgb3BpbmlvbjwvZm9udD4gbm91cmlzaGVkIHRoZSBodW1hbiBzcGlyaXQgYW5kIGJ1aWxkIGNoYXJhY3Rlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aware of Naismith's philosophy, a supervisor challenged the instructor to <font id=38>invent</font> an indoor game that would encourage the use of mental and physical skills. He gave Naismith fourteen days to accomplish this task. In tackling his assignment, <font id=39>popular ball game elements were borrowed</font> of the day. <font id=40>The decision of his to start the competition</font> in the center of the playing territory, as in polo. He would place a goal at each end, as in football. A referee would return out-of-bounds balls to the <font id=41>players, </font> as in rugby.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF3YXJlIG9mIE5haXNtaXRoJ3MgcGhpbG9zb3BoeSwgYSBzdXBlcnZpc29yIGNoYWxsZW5nZWQgdGhlIGluc3RydWN0b3IgdG8gPGZvbnQgaWQ9Mzg+aW52ZW50PC9mb250PiBhbiBpbmRvb3IgZ2FtZSB0aGF0IHdvdWxkIGVuY291cmFnZSB0aGUgdXNlIG9mIG1lbnRhbCBhbmQgcGh5c2ljYWwgc2tpbGxzLiBIZSBnYXZlIE5haXNtaXRoIGZvdXJ0ZWVuIGRheXMgdG8gYWNjb21wbGlzaCB0aGlzIHRhc2suIEluIHRhY2tsaW5nIGhpcyBhc3NpZ25tZW50LCA8Zm9udCBpZD0zOT5wb3B1bGFyIGJhbGwgZ2FtZSBlbGVtZW50cyB3ZXJlIGJvcnJvd2VkPC9mb250PiBvZiB0aGUgZGF5LiA8Zm9udCBpZD00MD5UaGUgZGVjaXNpb24gb2YgaGlzIHRvIHN0YXJ0IHRoZSBjb21wZXRpdGlvbjwvZm9udD4gaW4gdGhlIGNlbnRlciBvZiB0aGUgcGxheWluZyB0ZXJyaXRvcnksIGFzIGluIHBvbG8uIEhlIHdvdWxkIHBsYWNlIGEgZ29hbCBhdCBlYWNoIGVuZCwgYXMgaW4gZm9vdGJhbGwuIEEgcmVmZXJlZSB3b3VsZCByZXR1cm4gb3V0LW9mLWJvdW5kcyBiYWxscyB0byB0aGUgPGZvbnQgaWQ9NDE+cGxheWVycywgPC9mb250PiBhcyBpbiBydWdieS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Naismith wanted the goals placed high above the players. This setup would require the players to throw the ball in an arc to make a goal. A janitor gave Naismith two large wooden peach baskets to use as goals. Naismith attached the baskets to a running track elevated ten feet above the gymnasium floor.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5haXNtaXRoIHdhbnRlZCB0aGUgZ29hbHMgcGxhY2VkIGhpZ2ggYWJvdmUgdGhlIHBsYXllcnMuIFRoaXMgc2V0dXAgd291bGQgcmVxdWlyZSB0aGUgcGxheWVycyB0byB0aHJvdyB0aGUgYmFsbCBpbiBhbiBhcmMgdG8gbWFrZSBhIGdvYWwuIEEgamFuaXRvciBnYXZlIE5haXNtaXRoIHR3byBsYXJnZSB3b29kZW4gcGVhY2ggYmFza2V0cyB0byB1c2UgYXMgZ29hbHMuIE5haXNtaXRoIGF0dGFjaGVkIHRoZSBiYXNrZXRzIHRvIGEgcnVubmluZyB0cmFjayBlbGV2YXRlZCB0ZW4gZmVldCBhYm92ZSB0aGUgZ3ltbmFzaXVtIGZsb29yLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Before the start of the first game, Naismith developed thirteen rules to encourage <font id=42>competition the rules reward</font> both physical ability and strategic planning. <font id=43>Instead, he</font> created an indoor game people could play vigorously and competitively, one that exercises body and mind.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJlZm9yZSB0aGUgc3RhcnQgb2YgdGhlIGZpcnN0IGdhbWUsIE5haXNtaXRoIGRldmVsb3BlZCB0aGlydGVlbiBydWxlcyB0byBlbmNvdXJhZ2UgPGZvbnQgaWQ9NDI+Y29tcGV0aXRpb24gdGhlIHJ1bGVzIHJld2FyZDwvZm9udD4gYm90aCBwaHlzaWNhbCBhYmlsaXR5IGFuZCBzdHJhdGVnaWMgcGxhbm5pbmcuIDxmb250IGlkPTQzPkluc3RlYWQsIGhlPC9mb250PiBjcmVhdGVkIGFuIGluZG9vciBnYW1lIHBlb3BsZSBjb3VsZCBwbGF5IHZpZ29yb3VzbHkgYW5kIGNvbXBldGl0aXZlbHksIG9uZSB0aGF0IGV4ZXJjaXNlcyBib2R5IGFuZCBtaW5kLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">With excitement in the air, Naismith divided his class into two teams. In a historic moment, he tossed the ball straight up at center court. Players then dribbled the ball, aimed at the baskets, and scored <font id=44>points and his</font> students loved the new sport. What had started as a challenge on a winter <font id=45>day had quickly evolved</font> into the first game of basketball.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldpdGggZXhjaXRlbWVudCBpbiB0aGUgYWlyLCBOYWlzbWl0aCBkaXZpZGVkIGhpcyBjbGFzcyBpbnRvIHR3byB0ZWFtcy4gSW4gYSBoaXN0b3JpYyBtb21lbnQsIGhlIHRvc3NlZCB0aGUgYmFsbCBzdHJhaWdodCB1cCBhdCBjZW50ZXIgY291cnQuIFBsYXllcnMgdGhlbiBkcmliYmxlZCB0aGUgYmFsbCwgYWltZWQgYXQgdGhlIGJhc2tldHMsIGFuZCBzY29yZWQgPGZvbnQgaWQ9NDQ+cG9pbnRzIGFuZCBoaXM8L2ZvbnQ+IHN0dWRlbnRzIGxvdmVkIHRoZSBuZXcgc3BvcnQuIFdoYXQgaGFkIHN0YXJ0ZWQgYXMgYSBjaGFsbGVuZ2Ugb24gYSB3aW50ZXIgPGZvbnQgaWQ9NDU+ZGF5IGhhZCBxdWlja2x5IGV2b2x2ZWQ8L2ZvbnQ+IGludG8gdGhlIGZpcnN0IGdhbWUgb2YgYmFza2V0YmFsbC48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">31.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. wintering</div>
-<div class = "choice">C. wintry</div>
-<div class = "choice">D. winterishly</div>
-</div>
-###################
-<div class = "quiz">32.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. puzzled, over how to handle</div>
-<div class = "choice">H. puzzled over, how to handle</div>
-<div class = "choice">J. puzzled, over how to handle,</div>
-</div>
-###################
-<div class = "quiz">33.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. frigid inside</div>
-<div class = "choice">C. frigid, inside,</div>
-<div class = "choice">D. frigid. Inside;</div>
-</div>
-###################
-<div class = "quiz">34.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. as the case may be,</div>
-<div class = "choice">H. in fact,</div>
-<div class = "choice">J. regardless of time,</div>
-</div>
-###################
-<div class = "quiz">35. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">A. instructor, Naismith was also</div>
-<div class = "choice">B. instructor, he was also</div>
-<div class = "choice">C. instructor, he was also</div>
-<div class = "choice">D. instructor. In addition, Naismith was</div>
-</div>
-###################
-<div class = "quiz">36.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. the thinking apparatus of</div>
-<div class = "choice">H. the mental attributes pertaining to</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">37.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Both, in his opinion,</div>
-<div class = "choice">C. Both in his opinion;</div>
-<div class = "choice">D. Both in his opinion,</div>
-</div>
-###################
-<div class = "quiz">38. Which of the following alternatives to the underlined portion would be LEAST acceptable?
-<div class = "choice">F. design</div>
-<div class = "choice">G. come up with</div>
-<div class = "choice">H. develop</div>
-<div class = "choice">J. bring forth</div>
-</div>
-###################
-<div class = "quiz">39.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. elements from popular ball games were borrowed</div>
-<div class = "choice">C. Naismith borrowed elements from popular ball games</div>
-<div class = "choice">D. Naismith's borrowing of elements from popular ball games</div>
-</div>
-###################
-<div class = "quiz">40.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. He decided the competition would start</div>
-<div class = "choice">H. Making the decision to start the competition</div>
-<div class = "choice">J. His decision, starting the competition,</div>
-</div>
-###################
-<div class = "quiz">41.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. player's,</div>
-<div class = "choice">C. players'</div>
-<div class = "choice">D. player's</div>
-</div>
-###################
-<div class = "quiz">42.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. competition and reward</div>
-<div class = "choice">H. competition, and he also made those rules to reward</div>
-<div class = "choice">J. competition. Rewarding it with</div>
-</div>
-###################
-<div class = "quiz">43.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Nevertheless, he</div>
-<div class = "choice">C. On the other hand, he</div>
-<div class = "choice">D. He</div>
-</div>
-###################
-<div class = "quiz">44.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. points and obviously his</div>
-<div class = "choice">H. points and that day his</div>
-<div class = "choice">J. points. His</div>
-</div>
-###################
-<div class = "quiz">45.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. day, had quickly evolved</div>
-<div class = "choice">C. day and quickly evolved,</div>
-<div class = "choice">D. day; had quickly evolved</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdpbnRlcmluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdpbnRyeTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdpbnRlcmlzaGx5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHB1enpsZWQsIG92ZXIgaG93IHRvIGhhbmRsZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHB1enpsZWQgb3ZlciwgaG93IHRvIGhhbmRsZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHB1enpsZWQsIG92ZXIgaG93IHRvIGhhbmRsZSw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZyaWdpZCBpbnNpZGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZyaWdpZCwgaW5zaWRlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZyaWdpZC4gSW5zaWRlOzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFzIHRoZSBjYXNlIG1heSBiZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluIGZhY3QsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlZ2FyZGxlc3Mgb2YgdGltZSw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluc3RydWN0b3IsIE5haXNtaXRoIHdhcyBhbHNvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluc3RydWN0b3IsIGhlIHdhcyBhbHNvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluc3RydWN0b3IsIGhlIHdhcyBhbHNvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluc3RydWN0b3IuIEluIGFkZGl0aW9uLCBOYWlzbWl0aCB3YXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSB0aGlua2luZyBhcHBhcmF0dXMgb2Y8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBtZW50YWwgYXR0cmlidXRlcyBwZXJ0YWluaW5nIHRvPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEJvdGgsIGluIGhpcyBvcGluaW9uLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJvdGggaW4gaGlzIG9waW5pb247PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJvdGggaW4gaGlzIG9waW5pb24sPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBiZSBMRUFTVCBhY2NlcHRhYmxlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlc2lnbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbWUgdXAgd2l0aDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRldmVsb3A8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJyaW5nIGZvcnRoPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVsZW1lbnRzIGZyb20gcG9wdWxhciBiYWxsIGdhbWVzIHdlcmUgYm9ycm93ZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5haXNtaXRoIGJvcnJvd2VkIGVsZW1lbnRzIGZyb20gcG9wdWxhciBiYWxsIGdhbWVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5haXNtaXRoJ3MgYm9ycm93aW5nIG9mIGVsZW1lbnRzIGZyb20gcG9wdWxhciBiYWxsIGdhbWVzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEhlIGRlY2lkZWQgdGhlIGNvbXBldGl0aW9uIHdvdWxkIHN0YXJ0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1ha2luZyB0aGUgZGVjaXNpb24gdG8gc3RhcnQgdGhlIGNvbXBldGl0aW9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEhpcyBkZWNpc2lvbiwgc3RhcnRpbmcgdGhlIGNvbXBldGl0aW9uLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBsYXllcidzLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBsYXllcnMnPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBsYXllcidzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvbXBldGl0aW9uIGFuZCByZXdhcmQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbXBldGl0aW9uLCBhbmQgaGUgYWxzbyBtYWRlIHRob3NlIHJ1bGVzIHRvIHJld2FyZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvbXBldGl0aW9uLiBSZXdhcmRpbmcgaXQgd2l0aDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5ldmVydGhlbGVzcywgaGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE9uIHRoZSBvdGhlciBoYW5kLCBoZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEhlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHBvaW50cyBhbmQgb2J2aW91c2x5IGhpczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBvaW50cyBhbmQgdGhhdCBkYXkgaGlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBvaW50cy4gSGlzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRheSwgaGFkIHF1aWNrbHkgZXZvbHZlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRheSBhbmQgcXVpY2tseSBldm9sdmVkLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRheTsgaGFkIHF1aWNrbHkgZXZvbHZlZDwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

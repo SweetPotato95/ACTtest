@@ -1,69 +1,69 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since 1880, Earth's average surface temperature has increased by 0.5℃. This global warming has caused ocean surface temperature increases and the melting of parts of the polar ice caps. Two scientists discuss the cause of these events.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNpbmNlIDE4ODAsIEVhcnRoJ3MgYXZlcmFnZSBzdXJmYWNlIHRlbXBlcmF0dXJlIGhhcyBpbmNyZWFzZWQgYnkgMC414oQ/LiBUaGlzIGdsb2JhbCB3YXJtaW5nIGhhcyBjYXVzZWQgb2NlYW4gc3VyZmFjZSB0ZW1wZXJhdHVyZSBpbmNyZWFzZXMgYW5kIHRoZSBtZWx0aW5nIG9mIHBhcnRzIG9mIHRoZSBwb2xhciBpY2UgY2Fwcy4gVHdvIHNjaWVudGlzdHMgZGlzY3VzcyB0aGUgY2F1c2Ugb2YgdGhlc2UgZXZlbnRzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Global warming is caused by human activities that have significantly increased the atmospheric concentration of <img src='file:\$$$\resources\2005 June 61D\imgs\133.png' width = '55'height = '42'/> above the concentration prior to 1880. <img src='file:\$$$\resources\2005 June 61D\imgs\134.png' width = '55'height = '42'/>is one of several greenhouse gases (gases that trap heat emitted from Earth's surface). Human activities, primarily the burning of fossil fuels, have added significant additional <img src='file:\$$$\resources\2005 June 61D\imgs\135.png' width = '55'height = '42'/> to the air (6 billion tons per year at present). This has increased the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\136.png' width = '55'height = '42'/> concentration by 30% since 1880. The higher the atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\137.png' width = '55'height = '42'/> concentration, the warmer Earth's average surface temperature. While atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\138.png' width = '55'height = '42'/> concentrations have been steadily increasing over the past 18,000 years, the annual rate of increase over the past 100 years has been 10 to 100 times faster than the rate of increase prior to 1880. Eight of the warmest years on record have occurred since 1979.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkdsb2JhbCB3YXJtaW5nIGlzIGNhdXNlZCBieSBodW1hbiBhY3Rpdml0aWVzIHRoYXQgaGF2ZSBzaWduaWZpY2FudGx5IGluY3JlYXNlZCB0aGUgYXRtb3NwaGVyaWMgY29uY2VudHJhdGlvbiBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA1IEp1bmUgNjFEXGltZ3NcMTMzLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQyJy8+IGFib3ZlIHRoZSBjb25jZW50cmF0aW9uIHByaW9yIHRvIDE4ODAuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxMzQucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz5pcyBvbmUgb2Ygc2V2ZXJhbCBncmVlbmhvdXNlIGdhc2VzIChnYXNlcyB0aGF0IHRyYXAgaGVhdCBlbWl0dGVkIGZyb20gRWFydGgncyBzdXJmYWNlKS4gSHVtYW4gYWN0aXZpdGllcywgcHJpbWFyaWx5IHRoZSBidXJuaW5nIG9mIGZvc3NpbCBmdWVscywgaGF2ZSBhZGRlZCBzaWduaWZpY2FudCBhZGRpdGlvbmFsIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxMzUucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz4gdG8gdGhlIGFpciAoNiBiaWxsaW9uIHRvbnMgcGVyIHllYXIgYXQgcHJlc2VudCkuIFRoaXMgaGFzIGluY3JlYXNlZCB0aGUgYXRtb3NwaGVyaWMgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDEzNi5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MicvPiBjb25jZW50cmF0aW9uIGJ5IDMwJSBzaW5jZSAxODgwLiBUaGUgaGlnaGVyIHRoZSBhdG1vc3BoZXJpYyA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA1IEp1bmUgNjFEXGltZ3NcMTM3LnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQyJy8+IGNvbmNlbnRyYXRpb24sIHRoZSB3YXJtZXIgRWFydGgncyBhdmVyYWdlIHN1cmZhY2UgdGVtcGVyYXR1cmUuIFdoaWxlIGF0bW9zcGhlcmljIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxMzgucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz4gY29uY2VudHJhdGlvbnMgaGF2ZSBiZWVuIHN0ZWFkaWx5IGluY3JlYXNpbmcgb3ZlciB0aGUgcGFzdCAxOCwwMDAgeWVhcnMsIHRoZSBhbm51YWwgcmF0ZSBvZiBpbmNyZWFzZSBvdmVyIHRoZSBwYXN0IDEwMCB5ZWFycyBoYXMgYmVlbiAxMCB0byAxMDAgdGltZXMgZmFzdGVyIHRoYW4gdGhlIHJhdGUgb2YgaW5jcmVhc2UgcHJpb3IgdG8gMTg4MC4gRWlnaHQgb2YgdGhlIHdhcm1lc3QgeWVhcnMgb24gcmVjb3JkIGhhdmUgb2NjdXJyZWQgc2luY2UgMTk3OS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Changes in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\139.png' width = '55'height = '42'/> concentration have little or no effect on average surface temperature. Global warming is caused by an increase in the energy output of the Sun and by regular changes in the shape of Earth's orbit. A less elliptical orbit corresponds to a warmer climate. These 2 factors explain at least 80% of the observed surface temperature increase. The rest can be explained by decreases in the amount of atmospheric sulfate aerosols and increases in the stratospheric ozone content. The 6 billion tons/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\140.png' width = '55'height = '42'/> from human activities is a very small proportion of the total 186 billion ton/yr of <img src='file:\$$$\resources\2005 June 61D\imgs\141.png' width = '55'height = '42'/> that enter the atmosphere. Studies of climate records over hundreds of thousands of year show that average surface temperature has increased and decreased in regular cycles that coincide with increases and decreases in solar energy output. This parallel relationship is particularly evident in the steady warming of average surface temperature since the end of the last ice age 18,000 years ago.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNoYW5nZXMgaW4gYXRtb3NwaGVyaWMgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDEzOS5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MicvPiBjb25jZW50cmF0aW9uIGhhdmUgbGl0dGxlIG9yIG5vIGVmZmVjdCBvbiBhdmVyYWdlIHN1cmZhY2UgdGVtcGVyYXR1cmUuIEdsb2JhbCB3YXJtaW5nIGlzIGNhdXNlZCBieSBhbiBpbmNyZWFzZSBpbiB0aGUgZW5lcmd5IG91dHB1dCBvZiB0aGUgU3VuIGFuZCBieSByZWd1bGFyIGNoYW5nZXMgaW4gdGhlIHNoYXBlIG9mIEVhcnRoJ3Mgb3JiaXQuIEEgbGVzcyBlbGxpcHRpY2FsIG9yYml0IGNvcnJlc3BvbmRzIHRvIGEgd2FybWVyIGNsaW1hdGUuIFRoZXNlIDIgZmFjdG9ycyBleHBsYWluIGF0IGxlYXN0IDgwJSBvZiB0aGUgb2JzZXJ2ZWQgc3VyZmFjZSB0ZW1wZXJhdHVyZSBpbmNyZWFzZS4gVGhlIHJlc3QgY2FuIGJlIGV4cGxhaW5lZCBieSBkZWNyZWFzZXMgaW4gdGhlIGFtb3VudCBvZiBhdG1vc3BoZXJpYyBzdWxmYXRlIGFlcm9zb2xzIGFuZCBpbmNyZWFzZXMgaW4gdGhlIHN0cmF0b3NwaGVyaWMgb3pvbmUgY29udGVudC4gVGhlIDYgYmlsbGlvbiB0b25zL3lyIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDAucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz4gZnJvbSBodW1hbiBhY3Rpdml0aWVzIGlzIGEgdmVyeSBzbWFsbCBwcm9wb3J0aW9uIG9mIHRoZSB0b3RhbCAxODYgYmlsbGlvbiB0b24veXIgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDE0MS5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MicvPiB0aGF0IGVudGVyIHRoZSBhdG1vc3BoZXJlLiBTdHVkaWVzIG9mIGNsaW1hdGUgcmVjb3JkcyBvdmVyIGh1bmRyZWRzIG9mIHRob3VzYW5kcyBvZiB5ZWFyIHNob3cgdGhhdCBhdmVyYWdlIHN1cmZhY2UgdGVtcGVyYXR1cmUgaGFzIGluY3JlYXNlZCBhbmQgZGVjcmVhc2VkIGluIHJlZ3VsYXIgY3ljbGVzIHRoYXQgY29pbmNpZGUgd2l0aCBpbmNyZWFzZXMgYW5kIGRlY3JlYXNlcyBpbiBzb2xhciBlbmVyZ3kgb3V0cHV0LiBUaGlzIHBhcmFsbGVsIHJlbGF0aW9uc2hpcCBpcyBwYXJ0aWN1bGFybHkgZXZpZGVudCBpbiB0aGUgc3RlYWR5IHdhcm1pbmcgb2YgYXZlcmFnZSBzdXJmYWNlIHRlbXBlcmF0dXJlIHNpbmNlIHRoZSBlbmQgb2YgdGhlIGxhc3QgaWNlIGFnZSAxOCwwMDAgeWVhcnMgYWdvLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1. If Earth's average surface temperature continues to increase, both Scientist 1 and Scientist 2 would most likely agree that which of the following environmental changes would occur?
-<div class = "choice">A. Earth's polar ice caps would continue to increase in volume.</div>
-<div class = "choice">B. Earth's polar ice caps would continue to decrease in volume.</div>
-<div class = "choice">C. Average ocean temperatures would continue to decrease.</div>
-<div class = "choice">D. Average ocean temperatures would remain constant.</div>
-</div>
-###################
-<div class = "quiz">2. If the <img src='file:\$$$\resources\2005 June 61D\imgs\142.png' width = '55'height = '42'/> input from human activities could be reduced to zero, Scientist 2 would most likely state that this change would have which of the following resulting effects, if any, on global climate? This change would:
-<div class = "choice">F. cause an immediate increase in global temperature.</div>
-<div class = "choice">G. cause an immediate decrease in global temperature.</div>
-<div class = "choice">H. have no effect on the global climate.</div>
-<div class = "choice">J. accelerate the breakdown of the ozone layer.</div>
-</div>
-###################
-<div class = "quiz">3. If Scientist 2 is correct, which of the following graphs would best represent the relationship between solar energy output and Earth's average surface temperature trends over the past 18,000 years?
-┉┉ Earth's average surface temperature   ____ solar energy output
-<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\143.png' width = '151'height = '131'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\144.png' width = '151'height = '131'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2005 June 61D\imgs\145.png' width = '151'height = '131'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\146.png' width = '151'height = '131'/></div>
-</div>
-###################
-<div class = "quiz">4. According to the viewpoint of Scientist 1, which of the following graphs best represent the increase in atmospheric <img src='file:\$$$\resources\2005 June 61D\imgs\147.png' width = '55'height = '42'/> concentration over the past 200 years?
-<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\148.png' width = '121'height = '121'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\149.png' width = '121'height = '121'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\150.png' width = '121'height = '121'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\151.png' width = '121'height = '121'/></div>
-</div>
-###################
-<div class = "quiz">5. Scientist 2 would most likely agree with which of the following statements about the solar energy output 18,000 years ago, at the end of the last ice age? Eighteen thousand years ago, solar energy output was:
-<div class = "choice">A. nearly zero.</div>
-<div class = "choice">B. higher than it is today.</div>
-<div class = "choice">C. the same as it is today.</div>
-<div class = "choice">D. lower than it is today.</div>
-</div>
-###################
-<div class = "quiz">6. Suppose ozone is a greenhouse gas produced by human activities. Scientist 1 would most likely agree that if increases in stratospheric ozone content contribute to the current global warming, these increases do so because ozone:
-<div class = "choice">F. can be changed to oxygen through chemical reactions in the atmosphere.</div>
-<div class = "choice">G. has the ability to trap heat that would otherwise be lost to space.</div>
-<div class = "choice">H. is the major gaseous component of Earth's atmosphere.</div>
-<div class = "choice">J. has a molecular mass much lower than the molecular mass of<img src='file:\$$$\resources\2005 June 61D\imgs\152.png' width = '55'height = '42'/>.</div>
-</div>
-###################
-<div class = "quiz">7. Scientist 2 would most likely agree that, compared to the amount of <img src='file:\$$$\resources\2005 June 61D\imgs\153.png' width = '55'height = '42'/> that human activities put into the atmosphere each year, the amount put into the atmosphere each year from sources other than human activities is how many times greater?
-<div class = "choice">A. 5 times greater</div>
-<div class = "choice">B. 10 times greater</div>
-<div class = "choice">C. 20 times greater</div>
-<div class = "choice">D. 30 times greater</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBJZiBFYXJ0aCdzIGF2ZXJhZ2Ugc3VyZmFjZSB0ZW1wZXJhdHVyZSBjb250aW51ZXMgdG8gaW5jcmVhc2UsIGJvdGggU2NpZW50aXN0IDEgYW5kIFNjaWVudGlzdCAyIHdvdWxkIG1vc3QgbGlrZWx5IGFncmVlIHRoYXQgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBlbnZpcm9ubWVudGFsIGNoYW5nZXMgd291bGQgb2NjdXI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEVhcnRoJ3MgcG9sYXIgaWNlIGNhcHMgd291bGQgY29udGludWUgdG8gaW5jcmVhc2UgaW4gdm9sdW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEVhcnRoJ3MgcG9sYXIgaWNlIGNhcHMgd291bGQgY29udGludWUgdG8gZGVjcmVhc2UgaW4gdm9sdW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEF2ZXJhZ2Ugb2NlYW4gdGVtcGVyYXR1cmVzIHdvdWxkIGNvbnRpbnVlIHRvIGRlY3JlYXNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEF2ZXJhZ2Ugb2NlYW4gdGVtcGVyYXR1cmVzIHdvdWxkIHJlbWFpbiBjb25zdGFudC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBJZiB0aGUgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDE0Mi5wbmcnIHdpZHRoID0gJzU1J2hlaWdodCA9ICc0MicvPiBpbnB1dCBmcm9tIGh1bWFuIGFjdGl2aXRpZXMgY291bGQgYmUgcmVkdWNlZCB0byB6ZXJvLCBTY2llbnRpc3QgMiB3b3VsZCBtb3N0IGxpa2VseSBzdGF0ZSB0aGF0IHRoaXMgY2hhbmdlIHdvdWxkIGhhdmUgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyByZXN1bHRpbmcgZWZmZWN0cywgaWYgYW55LCBvbiBnbG9iYWwgY2xpbWF0ZT8gVGhpcyBjaGFuZ2Ugd291bGQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNhdXNlIGFuIGltbWVkaWF0ZSBpbmNyZWFzZSBpbiBnbG9iYWwgdGVtcGVyYXR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNhdXNlIGFuIGltbWVkaWF0ZSBkZWNyZWFzZSBpbiBnbG9iYWwgdGVtcGVyYXR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmUgbm8gZWZmZWN0IG9uIHRoZSBnbG9iYWwgY2xpbWF0ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFjY2VsZXJhdGUgdGhlIGJyZWFrZG93biBvZiB0aGUgb3pvbmUgbGF5ZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBJZiBTY2llbnRpc3QgMiBpcyBjb3JyZWN0LCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGdyYXBocyB3b3VsZCBiZXN0IHJlcHJlc2VudCB0aGUgcmVsYXRpb25zaGlwIGJldHdlZW4gc29sYXIgZW5lcmd5IG91dHB1dCBhbmQgRWFydGgncyBhdmVyYWdlIHN1cmZhY2UgdGVtcGVyYXR1cmUgdHJlbmRzIG92ZXIgdGhlIHBhc3QgMTgsMDAwIHllYXJzPw==
+4pSJ4pSJIEVhcnRoJ3MgYXZlcmFnZSBzdXJmYWNlIHRlbXBlcmF0dXJlICAgX19fXyBzb2xhciBlbmVyZ3kgb3V0cHV0
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDMucG5nJyB3aWR0aCA9ICcxNTEnaGVpZ2h0ID0gJzEzMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDQucG5nJyB3aWR0aCA9ICcxNTEnaGVpZ2h0ID0gJzEzMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDUucG5nJyB3aWR0aCA9ICcxNTEnaGVpZ2h0ID0gJzEzMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDYucG5nJyB3aWR0aCA9ICcxNTEnaGVpZ2h0ID0gJzEzMScvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBBY2NvcmRpbmcgdG8gdGhlIHZpZXdwb2ludCBvZiBTY2llbnRpc3QgMSwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBncmFwaHMgYmVzdCByZXByZXNlbnQgdGhlIGluY3JlYXNlIGluIGF0bW9zcGhlcmljIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDcucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz4gY29uY2VudHJhdGlvbiBvdmVyIHRoZSBwYXN0IDIwMCB5ZWFycz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDgucG5nJyB3aWR0aCA9ICcxMjEnaGVpZ2h0ID0gJzEyMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNDkucG5nJyB3aWR0aCA9ICcxMjEnaGVpZ2h0ID0gJzEyMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNTAucG5nJyB3aWR0aCA9ICcxMjEnaGVpZ2h0ID0gJzEyMScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNTEucG5nJyB3aWR0aCA9ICcxMjEnaGVpZ2h0ID0gJzEyMScvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBTY2llbnRpc3QgMiB3b3VsZCBtb3N0IGxpa2VseSBhZ3JlZSB3aXRoIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cyBhYm91dCB0aGUgc29sYXIgZW5lcmd5IG91dHB1dCAxOCwwMDAgeWVhcnMgYWdvLCBhdCB0aGUgZW5kIG9mIHRoZSBsYXN0IGljZSBhZ2U/IEVpZ2h0ZWVuIHRob3VzYW5kIHllYXJzIGFnbywgc29sYXIgZW5lcmd5IG91dHB1dCB3YXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG5lYXJseSB6ZXJvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhpZ2hlciB0aGFuIGl0IGlzIHRvZGF5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzYW1lIGFzIGl0IGlzIHRvZGF5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxvd2VyIHRoYW4gaXQgaXMgdG9kYXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBTdXBwb3NlIG96b25lIGlzIGEgZ3JlZW5ob3VzZSBnYXMgcHJvZHVjZWQgYnkgaHVtYW4gYWN0aXZpdGllcy4gU2NpZW50aXN0IDEgd291bGQgbW9zdCBsaWtlbHkgYWdyZWUgdGhhdCBpZiBpbmNyZWFzZXMgaW4gc3RyYXRvc3BoZXJpYyBvem9uZSBjb250ZW50IGNvbnRyaWJ1dGUgdG8gdGhlIGN1cnJlbnQgZ2xvYmFsIHdhcm1pbmcsIHRoZXNlIGluY3JlYXNlcyBkbyBzbyBiZWNhdXNlIG96b25lOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNhbiBiZSBjaGFuZ2VkIHRvIG94eWdlbiB0aHJvdWdoIGNoZW1pY2FsIHJlYWN0aW9ucyBpbiB0aGUgYXRtb3NwaGVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhcyB0aGUgYWJpbGl0eSB0byB0cmFwIGhlYXQgdGhhdCB3b3VsZCBvdGhlcndpc2UgYmUgbG9zdCB0byBzcGFjZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGlzIHRoZSBtYWpvciBnYXNlb3VzIGNvbXBvbmVudCBvZiBFYXJ0aCdzIGF0bW9zcGhlcmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhcyBhIG1vbGVjdWxhciBtYXNzIG11Y2ggbG93ZXIgdGhhbiB0aGUgbW9sZWN1bGFyIG1hc3Mgb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA1IEp1bmUgNjFEXGltZ3NcMTUyLnBuZycgd2lkdGggPSAnNTUnaGVpZ2h0ID0gJzQyJy8+LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBTY2llbnRpc3QgMiB3b3VsZCBtb3N0IGxpa2VseSBhZ3JlZSB0aGF0LCBjb21wYXJlZCB0byB0aGUgYW1vdW50IG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNTMucG5nJyB3aWR0aCA9ICc1NSdoZWlnaHQgPSAnNDInLz4gdGhhdCBodW1hbiBhY3Rpdml0aWVzIHB1dCBpbnRvIHRoZSBhdG1vc3BoZXJlIGVhY2ggeWVhciwgdGhlIGFtb3VudCBwdXQgaW50byB0aGUgYXRtb3NwaGVyZSBlYWNoIHllYXIgZnJvbSBzb3VyY2VzIG90aGVyIHRoYW4gaHVtYW4gYWN0aXZpdGllcyBpcyBob3cgbWFueSB0aW1lcyBncmVhdGVyPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDUgdGltZXMgZ3JlYXRlcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDEwIHRpbWVzIGdyZWF0ZXI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDIwIHRpbWVzIGdyZWF0ZXI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDMwIHRpbWVzIGdyZWF0ZXI8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,122 +1,122 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Ozone (<img src='file:\$$$\resources\2007 Dec 65E\imgs\193.png' width = '32'height = '38'/>) is concentrated in a part of Earth's atmosphere called the ozone layer. <img src='file:\$$$\resources\2007 Dec 65E\imgs\194.png' width = '32'height = '38'/>absorbs harmful high-energy solar radiation. Unusually low amounts of <img src='file:\$$$\resources\2007 Dec 65E\imgs\195.png' width = '32'height = '38'/> have been detected over Antarctica each spring since 1978 in an area of the ozone Jayer called the ozone hole. Two scientists hypothesize about the cause of the ozone hole.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7v096b25lICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxOTMucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4pIGlzIGNvbmNlbnRyYXRlZCBpbiBhIHBhcnQgb2YgRWFydGgncyBhdG1vc3BoZXJlIGNhbGxlZCB0aGUgb3pvbmUgbGF5ZXIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE5NC5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPmFic29yYnMgaGFybWZ1bCBoaWdoLWVuZXJneSBzb2xhciByYWRpYXRpb24uIFVudXN1YWxseSBsb3cgYW1vdW50cyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxOTUucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gaGF2ZSBiZWVuIGRldGVjdGVkIG92ZXIgQW50YXJjdGljYSBlYWNoIHNwcmluZyBzaW5jZSAxOTc4IGluIGFuIGFyZWEgb2YgdGhlIG96b25lIEpheWVyIGNhbGxlZCB0aGUgb3pvbmUgaG9sZS4gVHdvIHNjaWVudGlzdHMgaHlwb3RoZXNpemUgYWJvdXQgdGhlIGNhdXNlIG9mIHRoZSBvem9uZSBob2xlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Chemicals known as chlorofluorocarbons (CFCs),</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNoZW1pY2FscyBrbm93biBhcyBjaGxvcm9mbHVvcm9jYXJib25zIChDRkNzKSw8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">such as <img src='file:\$$$\resources\2007 Dec 65E\imgs\196.png' width = '74'height = '38'/>and<img src='file:\$$$\resources\2007 Dec 65E\imgs\197.png' width = '68'height = '38'/>, are responsible for the formation of the ozone hole. CFCs have been widely used as refrigerants and aerosol propellants since their introduction in the 1930s. CFCs accumulate in the atmosphere, where solar radiation (light) breaks them down to produce chlorine atoms (Reaction 1):</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPnN1Y2ggYXMgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMTk2LnBuZycgd2lkdGggPSAnNzQnaGVpZ2h0ID0gJzM4Jy8+YW5kPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMTk3LnBuZycgd2lkdGggPSAnNjgnaGVpZ2h0ID0gJzM4Jy8+LCBhcmUgcmVzcG9uc2libGUgZm9yIHRoZSBmb3JtYXRpb24gb2YgdGhlIG96b25lIGhvbGUuIENGQ3MgaGF2ZSBiZWVuIHdpZGVseSB1c2VkIGFzIHJlZnJpZ2VyYW50cyBhbmQgYWVyb3NvbCBwcm9wZWxsYW50cyBzaW5jZSB0aGVpciBpbnRyb2R1Y3Rpb24gaW4gdGhlIDE5MzBzLiBDRkNzIGFjY3VtdWxhdGUgaW4gdGhlIGF0bW9zcGhlcmUsIHdoZXJlIHNvbGFyIHJhZGlhdGlvbiAobGlnaHQpIGJyZWFrcyB0aGVtIGRvd24gdG8gcHJvZHVjZSBjaGxvcmluZSBhdG9tcyAoUmVhY3Rpb24gMSk6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(1) <img src='file:\$$$\resources\2007 Dec 65E\imgs\198.png' width = '286'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPigxKSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wxOTgucG5nJyB3aWR0aCA9ICcyODYnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The unstable Cl atoms react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\199.png' width = '32'height = '38'/> to produce chlorinemonoxide and <img src='file:\$$$\resources\2007 Dec 65E\imgs\200.png' width = '32'height = '38'/> (Reaction 2):</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB1bnN0YWJsZSBDbCBhdG9tcyByZWFjdCB3aXRoIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE5OS5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiB0byBwcm9kdWNlIGNobG9yaW5lbW9ub3hpZGUgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIwMC5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiAoUmVhY3Rpb24gMik6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(2) <img src='file:\$$$\resources\2007 Dec 65E\imgs\201.png' width = '205'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPigyKSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDEucG5nJyB3aWR0aCA9ICcyMDUnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The <img src='file:\$$$\resources\2007 Dec 65E\imgs\202.png' width = '32'height = '38'/> is then broken clown into O atoms (Reaction 3):</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDIucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gaXMgdGhlbiBicm9rZW4gY2xvd24gaW50byBPIGF0b21zIChSZWFjdGlvbiAzKTo8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(3) <img src='file:\$$$\resources\2007 Dec 65E\imgs\203.png' width = '169'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPigzKSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDMucG5nJyB3aWR0aCA9ICcxNjknaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The unstable O atoms then react with ClO to produce more Cl atoms (Reaction 4):</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB1bnN0YWJsZSBPIGF0b21zIHRoZW4gcmVhY3Qgd2l0aCBDbE8gdG8gcHJvZHVjZSBtb3JlIENsIGF0b21zIChSZWFjdGlvbiA0KTo8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(4) <img src='file:\$$$\resources\2007 Dec 65E\imgs\204.png' width = '186'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig0KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDQucG5nJyB3aWR0aCA9ICcxODYnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reactions 2-4 make up a chain reaction, because the Cl atoms produced in Reaction 4 can then react with more <img src='file:\$$$\resources\2007 Dec 65E\imgs\205.png' width = '32'height = '38'/> in Reaction 2:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlYWN0aW9ucyAyLTQgbWFrZSB1cCBhIGNoYWluIHJlYWN0aW9uLCBiZWNhdXNlIHRoZSBDbCBhdG9tcyBwcm9kdWNlZCBpbiBSZWFjdGlvbiA0IGNhbiB0aGVuIHJlYWN0IHdpdGggbW9yZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDUucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gaW4gUmVhY3Rpb24gMjo8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(2) <img src='file:\$$$\resources\2007 Dec 65E\imgs\206.png' width = '205'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPigyKSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDYucG5nJyB3aWR0aCA9ICcyMDUnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(3) <img src='file:\$$$\resources\2007 Dec 65E\imgs\207.png' width = '169'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPigzKSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDcucG5nJyB3aWR0aCA9ICcxNjknaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(4) <img src='file:\$$$\resources\2007 Dec 65E\imgs\208.png' width = '186'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig0KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMDgucG5nJyB3aWR0aCA9ICcxODYnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus, the Cl atom produced by 1 CFC molecule can break clown large amounts of<img src='file:\$$$\resources\2007 Dec 65E\imgs\209.png' width = '32'height = '38'/>. Due to competing reactions, this chain reaction does gradually stop if the number of Cl atoms produced decreases, but this slowdown takes many years.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRodXMsIHRoZSBDbCBhdG9tIHByb2R1Y2VkIGJ5IDEgQ0ZDIG1vbGVjdWxlIGNhbiBicmVhayBjbG93biBsYXJnZSBhbW91bnRzIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjA5LnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+LiBEdWUgdG8gY29tcGV0aW5nIHJlYWN0aW9ucywgdGhpcyBjaGFpbiByZWFjdGlvbiBkb2VzIGdyYWR1YWxseSBzdG9wIGlmIHRoZSBudW1iZXIgb2YgQ2wgYXRvbXMgcHJvZHVjZWQgZGVjcmVhc2VzLCBidXQgdGhpcyBzbG93ZG93biB0YWtlcyBtYW55IHllYXJzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\210.png' width = '32'height = '38'/> in Earth's atmosphere is constant. <img src='file:\$$$\resources\2007 Dec 65E\imgs\211.png' width = '32'height = '38'/>concentrations vary over Antarctica periodically because wind currents cause local changes in the amounts of all the chemicals in the atmosphere. Though CFCs can break down <img src='file:\$$$\resources\2007 Dec 65E\imgs\212.png' width = '32'height = '38'/> by Reactions 1-4, the ClO produced in Reaction 2 mostly reacts with the abundant nitrogen oxides in the atmosphere. Reactions 5-7 -show how ClO reacts with NO to regenerate<img src='file:\$$$\resources\2007 Dec 65E\imgs\213.png' width = '32'height = '38'/>:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB0b3RhbCBhbW91bnQgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjEwLnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGluIEVhcnRoJ3MgYXRtb3NwaGVyZSBpcyBjb25zdGFudC4gPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjExLnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+Y29uY2VudHJhdGlvbnMgdmFyeSBvdmVyIEFudGFyY3RpY2EgcGVyaW9kaWNhbGx5IGJlY2F1c2Ugd2luZCBjdXJyZW50cyBjYXVzZSBsb2NhbCBjaGFuZ2VzIGluIHRoZSBhbW91bnRzIG9mIGFsbCB0aGUgY2hlbWljYWxzIGluIHRoZSBhdG1vc3BoZXJlLiBUaG91Z2ggQ0ZDcyBjYW4gYnJlYWsgZG93biA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTIucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gYnkgUmVhY3Rpb25zIDEtNCwgdGhlIENsTyBwcm9kdWNlZCBpbiBSZWFjdGlvbiAyIG1vc3RseSByZWFjdHMgd2l0aCB0aGUgYWJ1bmRhbnQgbml0cm9nZW4gb3hpZGVzIGluIHRoZSBhdG1vc3BoZXJlLiBSZWFjdGlvbnMgNS03IC1zaG93IGhvdyBDbE8gcmVhY3RzIHdpdGggTk8gdG8gcmVnZW5lcmF0ZTxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIxMy5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPjo8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(5) <img src='file:\$$$\resources\2007 Dec 65E\imgs\214.png' width = '234'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig1KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTQucG5nJyB3aWR0aCA9ICcyMzQnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(6) <img src='file:\$$$\resources\2007 Dec 65E\imgs\215.png' width = '237'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig2KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTUucG5nJyB3aWR0aCA9ICcyMzcnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(7) <img src='file:\$$$\resources\2007 Dec 65E\imgs\216.png' width = '136'height = '38'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig3KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTYucG5nJyB3aWR0aCA9ICcxMzYnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">ClO can also react with nitrogen dioxide to form chlorine nitrate (Reaction 8):</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNsTyBjYW4gYWxzbyByZWFjdCB3aXRoIG5pdHJvZ2VuIGRpb3hpZGUgdG8gZm9ybSBjaGxvcmluZSBuaXRyYXRlIChSZWFjdGlvbiA4KTo8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(8) <img src='file:\$$$\resources\2007 Dec 65E\imgs\217.png' width = '220'height = '38'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPig4KSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTcucG5nJyB3aWR0aCA9ICcyMjAnaGVpZ2h0ID0gJzM4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\218.png' width = '74'height = '38'/>does not react with<img src='file:\$$$\resources\2007 Dec 65E\imgs\219.png' width = '32'height = '38'/>, so it stops the chain reaction shown in Reactions 2-4 from breaking down large amounts of<img src='file:\$$$\resources\2007 Dec 65E\imgs\220.png' width = '32'height = '38'/>.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIxOC5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICczOCcvPmRvZXMgbm90IHJlYWN0IHdpdGg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMTkucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4sIHNvIGl0IHN0b3BzIHRoZSBjaGFpbiByZWFjdGlvbiBzaG93biBpbiBSZWFjdGlvbnMgMi00IGZyb20gYnJlYWtpbmcgZG93biBsYXJnZSBhbW91bnRzIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjIwLnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">29. According to both Scientists 1 and 2, which of the following substances must initially be present for ClO to be produced by CFCs in Earth's atmosphere?
-<div class = "choice">A. <img src='file:\$$$\resources\2007 Dec 65E\imgs\221.png' width = '74'height = '38'/></div>
-<div class = "choice">B. NO</div>
-<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\222.png' width = '54'height = '38'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\223.png' width = '32'height = '38'/></div>
-</div>
-###################
-<div class = "quiz">30. Which of the following graphs would Scientist 1 most likely use to show how the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\224.png' width = '32'height = '38'/> in Earth's atmosphere would change as the amount of CFCs introduced into Earth's atmosphere increases?
-<div class = "choice">F. <img src='file:\$$$\resources\2007 Dec 65E\imgs\225.png' width = '152'height = '122'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2007 Dec 65E\imgs\226.png' width = '135'height = '122'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2007 Dec 65E\imgs\227.png' width = '152'height = '120'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2007 Dec 65E\imgs\228.png' width = '154'height = '120'/></div>
-</div>
-###################
-<div class = "quiz">31. A chemist claimed that a molecule of the product in Reaction 8 will have a greater mass than a molecule of either reactant in Reaction 8. Is her claim correct?
-<div class = "choice">A. No; ClO is composed of atoms, not molecules.</div>
-<div class = "choice">B. No; a molecule of <img src='file:\$$$\resources\2007 Dec 65E\imgs\229.png' width = '74'height = '38'/> has a greater mass than does a molecule of either product.</div>
-<div class = "choice">C. Yes; a molecule of <img src='file:\$$$\resources\2007 Dec 65E\imgs\230.png' width = '74'height = '38'/> has a greater mass than does a molecule of either reactant.</div>
-<div class = "choice">D. Yes; a molecule of ClO has a greater mass than does a molecule of<img src='file:\$$$\resources\2007 Dec 65E\imgs\231.png' width = '54'height = '38'/>.</div>
-</div>
-###################
-<div class = "quiz">32. If all use of CFCs were stopped, Scientist 1 would most likely predict that which of the following changes would occur in the total amount of Cl-containing compounds and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\232.png' width = '32'height = '38'/> in Earth's atmosphere?
-<div class = "choice">F. The total amounts of both Cl-containing compounds and <img src='file:\$$$\resources\2007 Dec 65E\imgs\233.png' width = '32'height = '38'/> would eventually increase.</div>
-<div class = "choice">G. The total amounts of both Cl-containing compounds and <img src='file:\$$$\resources\2007 Dec 65E\imgs\234.png' width = '32'height = '38'/> would eventually decrease.</div>
-<div class = "choice">H. The total amount of Cl-containing compounds would eventually increase and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\235.png' width = '32'height = '38'/> would stop increasing.</div>
-<div class = "choice">J. The total amount of Cl-containing compounds would eventually decrease and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\236.png' width = '32'height = '38'/> would stop decreasing.</div>
-</div>
-###################
-<div class = "quiz">33. Scientist 2 would most strongly disagree with which of the following statements about <img src='file:\$$$\resources\2007 Dec 65E\imgs\237.png' width = '32'height = '38'/> in Earth's atmosphere?
-<div class = "choice">A. Solar radiation plays a role in the decomposition of <img src='file:\$$$\resources\2007 Dec 65E\imgs\238.png' width = '32'height = '38'/> in Earth's atmosphere.</div>
-<div class = "choice">B. The concentration of <img src='file:\$$$\resources\2007 Dec 65E\imgs\239.png' width = '32'height = '38'/> over Antarctica varies from season to season.</div>
-<div class = "choice">C. CFCs can react to break down<img src='file:\$$$\resources\2007 Dec 65E\imgs\240.png' width = '32'height = '38'/>.</div>
-<div class = "choice">D. The average concentration of <img src='file:\$$$\resources\2007 Dec 65E\imgs\241.png' width = '32'height = '38'/> in Earth's atmosphere is decreasing.</div>
-</div>
-###################
-<div class = "quiz">34. After examining Scientist 2's hypothesis, Scientist 1 claimed that Reaction 5 would cause further <img src='file:\$$$\resources\2007 Dec 65E\imgs\242.png' width = '32'height = '38'/> depletion. How would Scientist 1 most likely defend this claim?
-<div class = "choice">F. Reaction 5 produces Cl atoms, which can then react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\243.png' width = '32'height = '38'/> in Reaction 2.</div>
-<div class = "choice">G. Reaction 5 produces Cl atoms, which can then react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\244.png' width = '65'height = '38'/> to produce<img src='file:\$$$\resources\2007 Dec 65E\imgs\245.png' width = '74'height = '38'/>.</div>
-<div class = "choice">H. Reaction 5 causes the amount of ClO to decrease, so little <img src='file:\$$$\resources\2007 Dec 65E\imgs\246.png' width = '32'height = '38'/> can be regenerated.</div>
-<div class = "choice">J. Reaction 5 causes the amount of NO to decrease, so not enough <img src='file:\$$$\resources\2007 Dec 65E\imgs\247.png' width = '54'height = '38'/> can be produced for Reaction 6.</div>
-</div>
-###################
-<div class = "quiz">35. In which of the following ways could Reaction 8 in Scientist 2's hypothesis contradict Scientist l's hypothesis? The chain reaction shown in Reactions 2-4 will not occur if all of the:
-<div class = "choice">A. ClO produced in Reaction 2 reacts with<img src='file:\$$$\resources\2007 Dec 65E\imgs\248.png' width = '54'height = '38'/>.</div>
-<div class = "choice">B. ClO produced in Reaction 4 reacts with NO.</div>
-<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\249.png' width = '54'height = '38'/>produced in Reaction 5 reacts with light:</div>
-<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\250.png' width = '54'height = '38'/>produced in Reaction 8 reacts with ClO.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQWNjb3JkaW5nIHRvIGJvdGggU2NpZW50aXN0cyAxIGFuZCAyLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN1YnN0YW5jZXMgbXVzdCBpbml0aWFsbHkgYmUgcHJlc2VudCBmb3IgQ2xPIHRvIGJlIHByb2R1Y2VkIGJ5IENGQ3MgaW4gRWFydGgncyBhdG1vc3BoZXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyMS5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5PPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyMi5wbmcnIHdpZHRoID0gJzU0J2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyMy5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBncmFwaHMgd291bGQgU2NpZW50aXN0IDEgbW9zdCBsaWtlbHkgdXNlIHRvIHNob3cgaG93IHRoZSB0b3RhbCBhbW91bnQgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjI0LnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGluIEVhcnRoJ3MgYXRtb3NwaGVyZSB3b3VsZCBjaGFuZ2UgYXMgdGhlIGFtb3VudCBvZiBDRkNzIGludHJvZHVjZWQgaW50byBFYXJ0aCdzIGF0bW9zcGhlcmUgaW5jcmVhc2VzPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyNS5wbmcnIHdpZHRoID0gJzE1MidoZWlnaHQgPSAnMTIyJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyNi5wbmcnIHdpZHRoID0gJzEzNSdoZWlnaHQgPSAnMTIyJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyNy5wbmcnIHdpZHRoID0gJzE1MidoZWlnaHQgPSAnMTIwJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyOC5wbmcnIHdpZHRoID0gJzE1NCdoZWlnaHQgPSAnMTIwJy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gQSBjaGVtaXN0IGNsYWltZWQgdGhhdCBhIG1vbGVjdWxlIG9mIHRoZSBwcm9kdWN0IGluIFJlYWN0aW9uIDggd2lsbCBoYXZlIGEgZ3JlYXRlciBtYXNzIHRoYW4gYSBtb2xlY3VsZSBvZiBlaXRoZXIgcmVhY3RhbnQgaW4gUmVhY3Rpb24gOC4gSXMgaGVyIGNsYWltIGNvcnJlY3Q/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5vOyBDbE8gaXMgY29tcG9zZWQgb2YgYXRvbXMsIG5vdCBtb2xlY3VsZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5vOyBhIG1vbGVjdWxlIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIyOS5wbmcnIHdpZHRoID0gJzc0J2hlaWdodCA9ICczOCcvPiBoYXMgYSBncmVhdGVyIG1hc3MgdGhhbiBkb2VzIGEgbW9sZWN1bGUgb2YgZWl0aGVyIHByb2R1Y3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFllczsgYSBtb2xlY3VsZSBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMzAucG5nJyB3aWR0aCA9ICc3NCdoZWlnaHQgPSAnMzgnLz4gaGFzIGEgZ3JlYXRlciBtYXNzIHRoYW4gZG9lcyBhIG1vbGVjdWxlIG9mIGVpdGhlciByZWFjdGFudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFllczsgYSBtb2xlY3VsZSBvZiBDbE8gaGFzIGEgZ3JlYXRlciBtYXNzIHRoYW4gZG9lcyBhIG1vbGVjdWxlIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjMxLnBuZycgd2lkdGggPSAnNTQnaGVpZ2h0ID0gJzM4Jy8+LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gSWYgYWxsIHVzZSBvZiBDRkNzIHdlcmUgc3RvcHBlZCwgU2NpZW50aXN0IDEgd291bGQgbW9zdCBsaWtlbHkgcHJlZGljdCB0aGF0IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY2hhbmdlcyB3b3VsZCBvY2N1ciBpbiB0aGUgdG90YWwgYW1vdW50IG9mIENsLWNvbnRhaW5pbmcgY29tcG91bmRzIGFuZCB0aGUgdG90YWwgYW1vdW50IG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIzMi5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiBpbiBFYXJ0aCdzIGF0bW9zcGhlcmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSB0b3RhbCBhbW91bnRzIG9mIGJvdGggQ2wtY29udGFpbmluZyBjb21wb3VuZHMgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIzMy5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiB3b3VsZCBldmVudHVhbGx5IGluY3JlYXNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSB0b3RhbCBhbW91bnRzIG9mIGJvdGggQ2wtY29udGFpbmluZyBjb21wb3VuZHMgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIzNC5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiB3b3VsZCBldmVudHVhbGx5IGRlY3JlYXNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSB0b3RhbCBhbW91bnQgb2YgQ2wtY29udGFpbmluZyBjb21wb3VuZHMgd291bGQgZXZlbnR1YWxseSBpbmNyZWFzZSBhbmQgdGhlIHRvdGFsIGFtb3VudCBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMzUucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gd291bGQgc3RvcCBpbmNyZWFzaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSB0b3RhbCBhbW91bnQgb2YgQ2wtY29udGFpbmluZyBjb21wb3VuZHMgd291bGQgZXZlbnR1YWxseSBkZWNyZWFzZSBhbmQgdGhlIHRvdGFsIGFtb3VudCBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMzYucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gd291bGQgc3RvcCBkZWNyZWFzaW5nLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gU2NpZW50aXN0IDIgd291bGQgbW9zdCBzdHJvbmdseSBkaXNhZ3JlZSB3aXRoIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cyBhYm91dCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyMzcucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gaW4gRWFydGgncyBhdG1vc3BoZXJlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNvbGFyIHJhZGlhdGlvbiBwbGF5cyBhIHJvbGUgaW4gdGhlIGRlY29tcG9zaXRpb24gb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjM4LnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGluIEVhcnRoJ3MgYXRtb3NwaGVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBjb25jZW50cmF0aW9uIG9mIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDIzOS5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICczOCcvPiBvdmVyIEFudGFyY3RpY2EgdmFyaWVzIGZyb20gc2Vhc29uIHRvIHNlYXNvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENGQ3MgY2FuIHJlYWN0IHRvIGJyZWFrIGRvd248aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyNDAucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBhdmVyYWdlIGNvbmNlbnRyYXRpb24gb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQxLnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGluIEVhcnRoJ3MgYXRtb3NwaGVyZSBpcyBkZWNyZWFzaW5nLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gQWZ0ZXIgZXhhbWluaW5nIFNjaWVudGlzdCAyJ3MgaHlwb3RoZXNpcywgU2NpZW50aXN0IDEgY2xhaW1lZCB0aGF0IFJlYWN0aW9uIDUgd291bGQgY2F1c2UgZnVydGhlciA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyNDIucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzgnLz4gZGVwbGV0aW9uLiBIb3cgd291bGQgU2NpZW50aXN0IDEgbW9zdCBsaWtlbHkgZGVmZW5kIHRoaXMgY2xhaW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFJlYWN0aW9uIDUgcHJvZHVjZXMgQ2wgYXRvbXMsIHdoaWNoIGNhbiB0aGVuIHJlYWN0IHdpdGggPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQzLnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGluIFJlYWN0aW9uIDIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFJlYWN0aW9uIDUgcHJvZHVjZXMgQ2wgYXRvbXMsIHdoaWNoIGNhbiB0aGVuIHJlYWN0IHdpdGggPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQ0LnBuZycgd2lkdGggPSAnNjUnaGVpZ2h0ID0gJzM4Jy8+IHRvIHByb2R1Y2U8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA3IERlYyA2NUVcaW1nc1wyNDUucG5nJyB3aWR0aCA9ICc3NCdoZWlnaHQgPSAnMzgnLz4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFJlYWN0aW9uIDUgY2F1c2VzIHRoZSBhbW91bnQgb2YgQ2xPIHRvIGRlY3JlYXNlLCBzbyBsaXR0bGUgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQ2LnBuZycgd2lkdGggPSAnMzInaGVpZ2h0ID0gJzM4Jy8+IGNhbiBiZSByZWdlbmVyYXRlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFJlYWN0aW9uIDUgY2F1c2VzIHRoZSBhbW91bnQgb2YgTk8gdG8gZGVjcmVhc2UsIHNvIG5vdCBlbm91Z2ggPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQ3LnBuZycgd2lkdGggPSAnNTQnaGVpZ2h0ID0gJzM4Jy8+IGNhbiBiZSBwcm9kdWNlZCBmb3IgUmVhY3Rpb24gNi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gSW4gd2hpY2ggb2YgdGhlIGZvbGxvd2luZyB3YXlzIGNvdWxkIFJlYWN0aW9uIDggaW4gU2NpZW50aXN0IDIncyBoeXBvdGhlc2lzIGNvbnRyYWRpY3QgU2NpZW50aXN0IGwncyBoeXBvdGhlc2lzPyBUaGUgY2hhaW4gcmVhY3Rpb24gc2hvd24gaW4gUmVhY3Rpb25zIDItNCB3aWxsIG5vdCBvY2N1ciBpZiBhbGwgb2YgdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIENsTyBwcm9kdWNlZCBpbiBSZWFjdGlvbiAyIHJlYWN0cyB3aXRoPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNyBEZWMgNjVFXGltZ3NcMjQ4LnBuZycgd2lkdGggPSAnNTQnaGVpZ2h0ID0gJzM4Jy8+LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENsTyBwcm9kdWNlZCBpbiBSZWFjdGlvbiA0IHJlYWN0cyB3aXRoIE5PLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI0OS5wbmcnIHdpZHRoID0gJzU0J2hlaWdodCA9ICczOCcvPnByb2R1Y2VkIGluIFJlYWN0aW9uIDUgcmVhY3RzIHdpdGggbGlnaHQ6PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI1MC5wbmcnIHdpZHRoID0gJzU0J2hlaWdodCA9ICczOCcvPnByb2R1Y2VkIGluIFJlYWN0aW9uIDggcmVhY3RzIHdpdGggQ2xPLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

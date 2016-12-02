@@ -1,138 +1,138 @@
-<h1>Get the LED In</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+PGgxPkdldCB0aGUgTEVEIEluPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsxXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=61>It was once</font> limited to the humble role of indicator light on devices such as TVs and radios, the light-emitting <font id=62>diode, or LED, </font> has emerged as a versatile, energy-efficient, and aesthetically pleasing source of illumination. <font id=63>63</font> Designers today are using LEDs to create signs, displays, and area lighting that are both alluring and functional. [A]</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTYxPkl0IHdhcyBvbmNlPC9mb250PiBsaW1pdGVkIHRvIHRoZSBodW1ibGUgcm9sZSBvZiBpbmRpY2F0b3IgbGlnaHQgb24gZGV2aWNlcyBzdWNoIGFzIFRWcyBhbmQgcmFkaW9zLCB0aGUgbGlnaHQtZW1pdHRpbmcgPGZvbnQgaWQ9NjI+ZGlvZGUsIG9yIExFRCwgPC9mb250PiBoYXMgZW1lcmdlZCBhcyBhIHZlcnNhdGlsZSwgZW5lcmd5LWVmZmljaWVudCwgYW5kIGFlc3RoZXRpY2FsbHkgcGxlYXNpbmcgc291cmNlIG9mIGlsbHVtaW5hdGlvbi4gPGZvbnQgaWQ9NjM+NjM8L2ZvbnQ+IERlc2lnbmVycyB0b2RheSBhcmUgdXNpbmcgTEVEcyB0byBjcmVhdGUgc2lnbnMsIGRpc3BsYXlzLCBhbmQgYXJlYSBsaWdodGluZyB0aGF0IGFyZSBib3RoIGFsbHVyaW5nIGFuZCBmdW5jdGlvbmFsLiBbQV08L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsyXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Long past are the days when LEDs—semiconductor diodes that produce light when electrical current is properly applied— <font id=64>could</font> generate only a low-intensity red light. Modern LEDs can be made to produce any color, including white; can be manufactured to generate infrared or ultraviolet light instead of visible light; and are able to <font id=65>yield</font> a high light output</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxvbmcgcGFzdCBhcmUgdGhlIGRheXMgd2hlbiBMRURz4oCUc2VtaWNvbmR1Y3RvciBkaW9kZXMgdGhhdCBwcm9kdWNlIGxpZ2h0IHdoZW4gZWxlY3RyaWNhbCBjdXJyZW50IGlzIHByb3Blcmx5IGFwcGxpZWTigD8gPGZvbnQgaWQ9NjQ+Y291bGQ8L2ZvbnQ+IGdlbmVyYXRlIG9ubHkgYSBsb3ctaW50ZW5zaXR5IHJlZCBsaWdodC4gTW9kZXJuIExFRHMgY2FuIGJlIG1hZGUgdG8gcHJvZHVjZSBhbnkgY29sb3IsIGluY2x1ZGluZyB3aGl0ZTsgY2FuIGJlIG1hbnVmYWN0dXJlZCB0byBnZW5lcmF0ZSBpbmZyYXJlZCBvciB1bHRyYXZpb2xldCBsaWdodCBpbnN0ZWFkIG9mIHZpc2libGUgbGlnaHQ7IGFuZCBhcmUgYWJsZSB0byA8Zm9udCBpZD02NT55aWVsZDwvZm9udD4gYSBoaWdoIGxpZ2h0IG91dHB1dDwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlszXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">LEDs operate on extremely low voltages relative to standard (incandescent) bulbs. They also directly convert electrical current into light, thus eliminating the need to waste energy on first heating a filament that then radiates light. [B] In addition, LEDs last <font id=66>far</font> longer than standard <font id=67>bulbs. </font> Whereas a typical 75-watt incandescent bulb works for 750 <font id=68>hours. </font> LEDs can endure up to 50,000 hours of use. <font id=69>As the case may be, </font> LEDs are small, shock resistant, and (unlike another often-touted alternative light source, compact fluorescent bulbs) <font id=70>mercury free. </font> [C]</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxFRHMgb3BlcmF0ZSBvbiBleHRyZW1lbHkgbG93IHZvbHRhZ2VzIHJlbGF0aXZlIHRvIHN0YW5kYXJkIChpbmNhbmRlc2NlbnQpIGJ1bGJzLiBUaGV5IGFsc28gZGlyZWN0bHkgY29udmVydCBlbGVjdHJpY2FsIGN1cnJlbnQgaW50byBsaWdodCwgdGh1cyBlbGltaW5hdGluZyB0aGUgbmVlZCB0byB3YXN0ZSBlbmVyZ3kgb24gZmlyc3QgaGVhdGluZyBhIGZpbGFtZW50IHRoYXQgdGhlbiByYWRpYXRlcyBsaWdodC4gW0JdIEluIGFkZGl0aW9uLCBMRURzIGxhc3QgPGZvbnQgaWQ9NjY+ZmFyPC9mb250PiBsb25nZXIgdGhhbiBzdGFuZGFyZCA8Zm9udCBpZD02Nz5idWxicy4gPC9mb250PiBXaGVyZWFzIGEgdHlwaWNhbCA3NS13YXR0IGluY2FuZGVzY2VudCBidWxiIHdvcmtzIGZvciA3NTAgPGZvbnQgaWQ9Njg+aG91cnMuIDwvZm9udD4gTEVEcyBjYW4gZW5kdXJlIHVwIHRvIDUwLDAwMCBob3VycyBvZiB1c2UuIDxmb250IGlkPTY5PkFzIHRoZSBjYXNlIG1heSBiZSwgPC9mb250PiBMRURzIGFyZSBzbWFsbCwgc2hvY2sgcmVzaXN0YW50LCBhbmQgKHVubGlrZSBhbm90aGVyIG9mdGVuLXRvdXRlZCBhbHRlcm5hdGl2ZSBsaWdodCBzb3VyY2UsIGNvbXBhY3QgZmx1b3Jlc2NlbnQgYnVsYnMpIDxmb250IGlkPTcwPm1lcmN1cnkgZnJlZS4gPC9mb250PiBbQ108L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls0XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Commercial designers are among those <font id=71>rushing to catch up in their</font> LED use. The ceiling of an Atlantic City, New Jersey, shopping arcade supports 2,000 small color-changing LED nodes <font id=72>strung</font> on overhead cables to create the <font id=73>allusion of</font> a star field. [D] In Sweden, students programmed color-changing LED projectors to turn a small grove of trees into a "cathedral of light." LED road signs can consist of nothing more than block letters flashing out simple messages; they can, however, be as elaborate as giant billboards displaying vibrant full-color images</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNvbW1lcmNpYWwgZGVzaWduZXJzIGFyZSBhbW9uZyB0aG9zZSA8Zm9udCBpZD03MT5ydXNoaW5nIHRvIGNhdGNoIHVwIGluIHRoZWlyPC9mb250PiBMRUQgdXNlLiBUaGUgY2VpbGluZyBvZiBhbiBBdGxhbnRpYyBDaXR5LCBOZXcgSmVyc2V5LCBzaG9wcGluZyBhcmNhZGUgc3VwcG9ydHMgMiwwMDAgc21hbGwgY29sb3ItY2hhbmdpbmcgTEVEIG5vZGVzIDxmb250IGlkPTcyPnN0cnVuZzwvZm9udD4gb24gb3ZlcmhlYWQgY2FibGVzIHRvIGNyZWF0ZSB0aGUgPGZvbnQgaWQ9NzM+YWxsdXNpb24gb2Y8L2ZvbnQ+IGEgc3RhciBmaWVsZC4gW0RdIEluIFN3ZWRlbiwgc3R1ZGVudHMgcHJvZ3JhbW1lZCBjb2xvci1jaGFuZ2luZyBMRUQgcHJvamVjdG9ycyB0byB0dXJuIGEgc21hbGwgZ3JvdmUgb2YgdHJlZXMgaW50byBhICJjYXRoZWRyYWwgb2YgbGlnaHQuIiBMRUQgcm9hZCBzaWducyBjYW4gY29uc2lzdCBvZiBub3RoaW5nIG1vcmUgdGhhbiBibG9jayBsZXR0ZXJzIGZsYXNoaW5nIG91dCBzaW1wbGUgbWVzc2FnZXM7IHRoZXkgY2FuLCBob3dldmVyLCBiZSBhcyBlbGFib3JhdGUgYXMgZ2lhbnQgYmlsbGJvYXJkcyBkaXNwbGF5aW5nIHZpYnJhbnQgZnVsbC1jb2xvciBpbWFnZXM8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls1XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">LEDs <font id=74>are innovative</font>—they're costlier to manufacture than incandescents and are vulnerable to temperature extremes—but they offer numerous advantages over traditional lighting. The LED is a young technology with a bright future</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxFRHMgPGZvbnQgaWQ9NzQ+YXJlIGlubm92YXRpdmU8L2ZvbnQ+4oCUdGhleSdyZSBjb3N0bGllciB0byBtYW51ZmFjdHVyZSB0aGFuIGluY2FuZGVzY2VudHMgYW5kIGFyZSB2dWxuZXJhYmxlIHRvIHRlbXBlcmF0dXJlIGV4dHJlbWVz4oCUYnV0IHRoZXkgb2ZmZXIgbnVtZXJvdXMgYWR2YW50YWdlcyBvdmVyIHRyYWRpdGlvbmFsIGxpZ2h0aW5nLiBUaGUgTEVEIGlzIGEgeW91bmcgdGVjaG5vbG9neSB3aXRoIGEgYnJpZ2h0IGZ1dHVyZTwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. At one time, it was</div>
-<div class = "choice">C. Once, it was</div>
-<div class = "choice">D. Once</div>
-</div>
-###################
-<div class = "quiz">62. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. diode—LED for short—</div>
-<div class = "choice">G. diode, or LED</div>
-<div class = "choice">H. diode—LED—</div>
-<div class = "choice">J. diode (LED)</div>
-</div>
-###################
-<div class = "quiz">63. At this point, the writer is considering adding the following true statement:
-LEDs are still used as indicator lights, however.
-Should the writer make this addition here?
-<div class = "choice">A. Yes, because it offers an example illustrating the point made in the preceding sentence.</div>
-<div class = "choice">B. Yes, because it creates an effective lead-in to the essay's main point.</div>
-<div class = "choice">C. No, because it disrupts the flow of the paragraph by stating what's already implied.</div>
-<div class = "choice">D. No, because it contradicts the main claim made in the preceding sentence.</div>
-</div>
-###################
-<div class = "quiz">64. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. were capable of generating</div>
-<div class = "choice">G. were able to generate</div>
-<div class = "choice">H. would generate</div>
-<div class = "choice">J. can generate</div>
-</div>
-###################
-<div class = "quiz">65.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. relinquish</div>
-<div class = "choice">C. surrender</div>
-<div class = "choice">D. cede</div>
-</div>
-###################
-<div class = "quiz">66. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. considerably</div>
-<div class = "choice">G. a great deal</div>
-<div class = "choice">H. extremely</div>
-<div class = "choice">J. much</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. bulbs—that is, those of the incandescent type</div>
-<div class = "choice">C. bulbs, which have a shorter life span.</div>
-<div class = "choice">D. bulbs, which aren't LEDs.</div>
-</div>
-###################
-<div class = "quiz">68.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. hours,</div>
-<div class = "choice">H. hours;</div>
-<div class = "choice">J. hours:</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. In view of the foregoing,</div>
-<div class = "choice">C. What's more,</div>
-<div class = "choice">D. To sum up,</div>
-</div>
-###################
-<div class = "quiz">70.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. mercury isn't present</div>
-<div class = "choice">H. there's no mercury.</div>
-<div class = "choice">J. no mercury.</div>
-</div>
-###################
-<div class = "quiz">71. Which choice best conveys the idea that commercial designers are pioneers in LED use?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. in the forefront of</div>
-<div class = "choice">C. now embracing</div>
-<div class = "choice">D. considering</div>
-</div>
-###################
-<div class = "quiz">72.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. stringed up</div>
-<div class = "choice">H. stringed</div>
-<div class = "choice">J. string</div>
-</div>
-###################
-<div class = "quiz">73.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. allusion for</div>
-<div class = "choice">C. illusion of</div>
-<div class = "choice">D. illusion to</div>
-</div>
-###################
-<div class = "quiz">74. Which choice most effectively sets up the rest of the sentence?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. sometimes stop working—</div>
-<div class = "choice">H. have great visual appeal—</div>
-<div class = "choice">J. aren't perfect-—</div>
-</div>
-###################
-<div class = "quiz">75. Upon reviewing the essay and finding that some information has been left out, the writer composes the following sentence incorporating that information:
-LEDs are energy efficient in another way: they produce more light per watt than incandescent bulbs.
-If the writer were to add this sentence to the essay, it would most logically be placed at Point:
-Question 75 asks about the preceding passage as a whole.
-<div class = "choice">A. A in Paragraph 1.</div>
-<div class = "choice">B. B in Paragraph 3.</div>
-<div class = "choice">C. C in Paragraph 3.</div>
-<div class = "choice">D. D in Paragraph 4.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEF0IG9uZSB0aW1lLCBpdCB3YXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE9uY2UsIGl0IHdhczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE9uY2U8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRpb2Rl4oCUTEVEIGZvciBzaG9ydOKAPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRpb2RlLCBvciBMRUQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRpb2Rl4oCUTEVE4oA/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRpb2RlIChMRUQpPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudDo=
+TEVEcyBhcmUgc3RpbGwgdXNlZCBhcyBpbmRpY2F0b3IgbGlnaHRzLCBob3dldmVyLg==
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGlzIGFkZGl0aW9uIGhlcmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBvZmZlcnMgYW4gZXhhbXBsZSBpbGx1c3RyYXRpbmcgdGhlIHBvaW50IG1hZGUgaW4gdGhlIHByZWNlZGluZyBzZW50ZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBjcmVhdGVzIGFuIGVmZmVjdGl2ZSBsZWFkLWluIHRvIHRoZSBlc3NheSdzIG1haW4gcG9pbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IGRpc3J1cHRzIHRoZSBmbG93IG9mIHRoZSBwYXJhZ3JhcGggYnkgc3RhdGluZyB3aGF0J3MgYWxyZWFkeSBpbXBsaWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IGNvbnRyYWRpY3RzIHRoZSBtYWluIGNsYWltIG1hZGUgaW4gdGhlIHByZWNlZGluZyBzZW50ZW5jZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdlcmUgY2FwYWJsZSBvZiBnZW5lcmF0aW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdlcmUgYWJsZSB0byBnZW5lcmF0ZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvdWxkIGdlbmVyYXRlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNhbiBnZW5lcmF0ZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlbGlucXVpc2g8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN1cnJlbmRlcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNlZGU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNvbnNpZGVyYWJseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgZ3JlYXQgZGVhbDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGV4dHJlbWVseTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG11Y2g8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJ1bGJz4oCUdGhhdCBpcywgdGhvc2Ugb2YgdGhlIGluY2FuZGVzY2VudCB0eXBlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJ1bGJzLCB3aGljaCBoYXZlIGEgc2hvcnRlciBsaWZlIHNwYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJ1bGJzLCB3aGljaCBhcmVuJ3QgTEVEcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhvdXJzLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhvdXJzOzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhvdXJzOjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEluIHZpZXcgb2YgdGhlIGZvcmVnb2luZyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdoYXQncyBtb3JlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRvIHN1bSB1cCw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1lcmN1cnkgaXNuJ3QgcHJlc2VudDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZXJlJ3Mgbm8gbWVyY3VyeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vIG1lcmN1cnkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4gV2hpY2ggY2hvaWNlIGJlc3QgY29udmV5cyB0aGUgaWRlYSB0aGF0IGNvbW1lcmNpYWwgZGVzaWduZXJzIGFyZSBwaW9uZWVycyBpbiBMRUQgdXNlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluIHRoZSBmb3JlZnJvbnQgb2Y8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5vdyBlbWJyYWNpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvbnNpZGVyaW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0cmluZ2VkIHVwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0cmluZ2VkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHN0cmluZzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFsbHVzaW9uIGZvcjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGlsbHVzaW9uIG9mPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGlsbHVzaW9uIHRvPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4gV2hpY2ggY2hvaWNlIG1vc3QgZWZmZWN0aXZlbHkgc2V0cyB1cCB0aGUgcmVzdCBvZiB0aGUgc2VudGVuY2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNvbWV0aW1lcyBzdG9wIHdvcmtpbmfigD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhdmUgZ3JlYXQgdmlzdWFsIGFwcGVhbOKAPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFyZW4ndCBwZXJmZWN0LeKAPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4gVXBvbiByZXZpZXdpbmcgdGhlIGVzc2F5IGFuZCBmaW5kaW5nIHRoYXQgc29tZSBpbmZvcm1hdGlvbiBoYXMgYmVlbiBsZWZ0IG91dCwgdGhlIHdyaXRlciBjb21wb3NlcyB0aGUgZm9sbG93aW5nIHNlbnRlbmNlIGluY29ycG9yYXRpbmcgdGhhdCBpbmZvcm1hdGlvbjo=
+TEVEcyBhcmUgZW5lcmd5IGVmZmljaWVudCBpbiBhbm90aGVyIHdheTogdGhleSBwcm9kdWNlIG1vcmUgbGlnaHQgcGVyIHdhdHQgdGhhbiBpbmNhbmRlc2NlbnQgYnVsYnMu
+SWYgdGhlIHdyaXRlciB3ZXJlIHRvIGFkZCB0aGlzIHNlbnRlbmNlIHRvIHRoZSBlc3NheSwgaXQgd291bGQgbW9zdCBsb2dpY2FsbHkgYmUgcGxhY2VkIGF0IFBvaW50Og==
+UXVlc3Rpb24gNzUgYXNrcyBhYm91dCB0aGUgcHJlY2VkaW5nIHBhc3NhZ2UgYXMgYSB3aG9sZS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgaW4gUGFyYWdyYXBoIDEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEIgaW4gUGFyYWdyYXBoIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEMgaW4gUGFyYWdyYXBoIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEQgaW4gUGFyYWdyYXBoIDQuPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

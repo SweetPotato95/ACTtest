@@ -1,145 +1,145 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the novel The Alchemist: A Fable About Following Your Dreams by Paulo Coehlo (© 1993 by Paulo Coehlo).</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIG5vdmVsIFRoZSBBbGNoZW1pc3Q6IEEgRmFibGUgQWJvdXQgRm9sbG93aW5nIFlvdXIgRHJlYW1zIGJ5IFBhdWxvIENvZWhsbyAowqkgMTk5MyBieSBQYXVsbyBDb2VobG8pLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=1>Dusk was falling as Santiago arrived with his herd at an abandoned church.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE+RHVzayB3YXMgZmFsbGluZyBhcyBTYW50aWFnbyBhcnJpdmVkIHdpdGggaGlzIGhlcmQgYXQgYW4gYWJhbmRvbmVkIGNodXJjaC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">He decided to spend the night there. He saw to it that all the sheep entered through the ruined gate, and 5 then laid some planks across it to prevent the flock from wandering away during the night.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlIGRlY2lkZWQgdG8gc3BlbmQgdGhlIG5pZ2h0IHRoZXJlLiBIZSBzYXcgdG8gaXQgdGhhdCBhbGwgdGhlIHNoZWVwIGVudGVyZWQgdGhyb3VnaCB0aGUgcnVpbmVkIGdhdGUsIGFuZCA1IHRoZW4gbGFpZCBzb21lIHBsYW5rcyBhY3Jvc3MgaXQgdG8gcHJldmVudCB0aGUgZmxvY2sgZnJvbSB3YW5kZXJpbmcgYXdheSBkdXJpbmcgdGhlIG5pZ2h0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">He swept the floor with his jacket and lay down, using the book he had just finished reading as a pillow.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlIHN3ZXB0IHRoZSBmbG9vciB3aXRoIGhpcyBqYWNrZXQgYW5kIGxheSBkb3duLCB1c2luZyB0aGUgYm9vayBoZSBoYWQganVzdCBmaW5pc2hlZCByZWFkaW5nIGFzIGEgcGlsbG93LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was still dark when he awoke, and, looking up, he could see the stars through the half-destroyed roof.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBzdGlsbCBkYXJrIHdoZW4gaGUgYXdva2UsIGFuZCwgbG9va2luZyB1cCwgaGUgY291bGQgc2VlIHRoZSBzdGFycyB0aHJvdWdoIHRoZSBoYWxmLWRlc3Ryb3llZCByb29mLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">He arose and, taking up his staff, began to awaken the sheep that still slept. He had noticed that, as soon as he awoke, most of his animals also began to stir. It was as if some mysterious energy bound his life to that of the sheep, with whom he had spent the past two years, leading them through the countryside in search of food and water. "They are so used to me that they know my schedule," he muttered. Thinking about that for a moment, he realized that it could be the other way around: that it was he who had become accustomed to their schedule.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlIGFyb3NlIGFuZCwgdGFraW5nIHVwIGhpcyBzdGFmZiwgYmVnYW4gdG8gYXdha2VuIHRoZSBzaGVlcCB0aGF0IHN0aWxsIHNsZXB0LiBIZSBoYWQgbm90aWNlZCB0aGF0LCBhcyBzb29uIGFzIGhlIGF3b2tlLCBtb3N0IG9mIGhpcyBhbmltYWxzIGFsc28gYmVnYW4gdG8gc3Rpci4gSXQgd2FzIGFzIGlmIHNvbWUgbXlzdGVyaW91cyBlbmVyZ3kgYm91bmQgaGlzIGxpZmUgdG8gdGhhdCBvZiB0aGUgc2hlZXAsIHdpdGggd2hvbSBoZSBoYWQgc3BlbnQgdGhlIHBhc3QgdHdvIHllYXJzLCBsZWFkaW5nIHRoZW0gdGhyb3VnaCB0aGUgY291bnRyeXNpZGUgaW4gc2VhcmNoIG9mIGZvb2QgYW5kIHdhdGVyLiAiVGhleSBhcmUgc28gdXNlZCB0byBtZSB0aGF0IHRoZXkga25vdyBteSBzY2hlZHVsZSwiIGhlIG11dHRlcmVkLiBUaGlua2luZyBhYm91dCB0aGF0IGZvciBhIG1vbWVudCwgaGUgcmVhbGl6ZWQgdGhhdCBpdCBjb3VsZCBiZSB0aGUgb3RoZXIgd2F5IGFyb3VuZDogdGhhdCBpdCB3YXMgaGUgd2hvIGhhZCBiZWNvbWUgYWNjdXN0b21lZCB0byB0aGVpciBzY2hlZHVsZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">He bad always believed that the sheep were able to understand what he said. So there were times when he read them parts of his books that had made an impression on him, or when he would tell them of the loneliness or the happiness of a shepherd in the fields.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhlIGJhZCBhbHdheXMgYmVsaWV2ZWQgdGhhdCB0aGUgc2hlZXAgd2VyZSBhYmxlIHRvIHVuZGVyc3RhbmQgd2hhdCBoZSBzYWlkLiBTbyB0aGVyZSB3ZXJlIHRpbWVzIHdoZW4gaGUgcmVhZCB0aGVtIHBhcnRzIG9mIGhpcyBib29rcyB0aGF0IGhhZCBtYWRlIGFuIGltcHJlc3Npb24gb24gaGltLCBvciB3aGVuIGhlIHdvdWxkIHRlbGwgdGhlbSBvZiB0aGUgbG9uZWxpbmVzcyBvciB0aGUgaGFwcGluZXNzIG9mIGEgc2hlcGhlcmQgaW4gdGhlIGZpZWxkcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But for the past few days he had spoken to them about only one thing: the girl, the daughter of a merchant who lived in the village they would reach in about four days. The merchant owned a dry goods shop, and he always demanded that the sheep be sheared in his presence. The boy had taken his sheep there the year before.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBmb3IgdGhlIHBhc3QgZmV3IGRheXMgaGUgaGFkIHNwb2tlbiB0byB0aGVtIGFib3V0IG9ubHkgb25lIHRoaW5nOiB0aGUgZ2lybCwgdGhlIGRhdWdodGVyIG9mIGEgbWVyY2hhbnQgd2hvIGxpdmVkIGluIHRoZSB2aWxsYWdlIHRoZXkgd291bGQgcmVhY2ggaW4gYWJvdXQgZm91ciBkYXlzLiBUaGUgbWVyY2hhbnQgb3duZWQgYSBkcnkgZ29vZHMgc2hvcCwgYW5kIGhlIGFsd2F5cyBkZW1hbmRlZCB0aGF0IHRoZSBzaGVlcCBiZSBzaGVhcmVkIGluIGhpcyBwcmVzZW5jZS4gVGhlIGJveSBoYWQgdGFrZW4gaGlzIHNoZWVwIHRoZXJlIHRoZSB5ZWFyIGJlZm9yZS48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"I need to sell some wool," the boy told the merchant. The shop was busy, and the man asked the shepherd to wait until the afternoon. So the boy sat on the steps of the shop and took a book from his bag.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJIG5lZWQgdG8gc2VsbCBzb21lIHdvb2wsIiB0aGUgYm95IHRvbGQgdGhlIG1lcmNoYW50LiBUaGUgc2hvcCB3YXMgYnVzeSwgYW5kIHRoZSBtYW4gYXNrZWQgdGhlIHNoZXBoZXJkIHRvIHdhaXQgdW50aWwgdGhlIGFmdGVybm9vbi4gU28gdGhlIGJveSBzYXQgb24gdGhlIHN0ZXBzIG9mIHRoZSBzaG9wIGFuZCB0b29rIGEgYm9vayBmcm9tIGhpcyBiYWcuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"I didn't know shepherds knew how to read," said a girl's voice behind him.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJIGRpZG4ndCBrbm93IHNoZXBoZXJkcyBrbmV3IGhvdyB0byByZWFkLCIgc2FpZCBhIGdpcmwncyB2b2ljZSBiZWhpbmQgaGltLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Well, usually I learn more from my sheep than from books," he answered. During the two hours that they talked, she told him she was the merchant's daughter, and spoke of life in the village, where each day was like all the others. The shepherd told her of the Andalusian countryside, and related the news from the other towns where be had stopped. It was a pleasant change from talking to his sheep.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJXZWxsLCB1c3VhbGx5IEkgbGVhcm4gbW9yZSBmcm9tIG15IHNoZWVwIHRoYW4gZnJvbSBib29rcywiIGhlIGFuc3dlcmVkLiBEdXJpbmcgdGhlIHR3byBob3VycyB0aGF0IHRoZXkgdGFsa2VkLCBzaGUgdG9sZCBoaW0gc2hlIHdhcyB0aGUgbWVyY2hhbnQncyBkYXVnaHRlciwgYW5kIHNwb2tlIG9mIGxpZmUgaW4gdGhlIHZpbGxhZ2UsIHdoZXJlIGVhY2ggZGF5IHdhcyBsaWtlIGFsbCB0aGUgb3RoZXJzLiBUaGUgc2hlcGhlcmQgdG9sZCBoZXIgb2YgdGhlIEFuZGFsdXNpYW4gY291bnRyeXNpZGUsIGFuZCByZWxhdGVkIHRoZSBuZXdzIGZyb20gdGhlIG90aGVyIHRvd25zIHdoZXJlIGJlIGhhZCBzdG9wcGVkLiBJdCB3YXMgYSBwbGVhc2FudCBjaGFuZ2UgZnJvbSB0YWxraW5nIHRvIGhpcyBzaGVlcC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"How did you learn to read?" the girl asked at one point.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJIb3cgZGlkIHlvdSBsZWFybiB0byByZWFkPyIgdGhlIGdpcmwgYXNrZWQgYXQgb25lIHBvaW50LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Like everybody learns," he said. "In school."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJMaWtlIGV2ZXJ5Ym9keSBsZWFybnMsIiBoZSBzYWlkLiAiSW4gc2Nob29sLiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=8>And now it was only four days before he would be back in that same village. He was excited, and at the same time uneasy: maybe the girl had already forgotten him. Lots of shepherds passed through, selling their wool.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTg+QW5kIG5vdyBpdCB3YXMgb25seSBmb3VyIGRheXMgYmVmb3JlIGhlIHdvdWxkIGJlIGJhY2sgaW4gdGhhdCBzYW1lIHZpbGxhZ2UuIEhlIHdhcyBleGNpdGVkLCBhbmQgYXQgdGhlIHNhbWUgdGltZSB1bmVhc3k6IG1heWJlIHRoZSBnaXJsIGhhZCBhbHJlYWR5IGZvcmdvdHRlbiBoaW0uIExvdHMgb2Ygc2hlcGhlcmRzIHBhc3NlZCB0aHJvdWdoLCBzZWxsaW5nIHRoZWlyIHdvb2wuPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"It doesn't matter," he said to his sheep. "I know other girls in other places."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJdCBkb2Vzbid0IG1hdHRlciwiIGhlIHNhaWQgdG8gaGlzIHNoZWVwLiAiSSBrbm93IG90aGVyIGdpcmxzIGluIG90aGVyIHBsYWNlcy4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But in his heart be knew that it did matter. And he knew that shepherds, like sailors and like traveling salespeople, always found a town where there was someone who could make them forget the joys of carefree wandering.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBpbiBoaXMgaGVhcnQgYmUga25ldyB0aGF0IGl0IGRpZCBtYXR0ZXIuIEFuZCBoZSBrbmV3IHRoYXQgc2hlcGhlcmRzLCBsaWtlIHNhaWxvcnMgYW5kIGxpa2UgdHJhdmVsaW5nIHNhbGVzcGVvcGxlLCBhbHdheXMgZm91bmQgYSB0b3duIHdoZXJlIHRoZXJlIHdhcyBzb21lb25lIHdobyBjb3VsZCBtYWtlIHRoZW0gZm9yZ2V0IHRoZSBqb3lzIG9mIGNhcmVmcmVlIHdhbmRlcmluZy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The day was dawning, and the shepherd urged his sheep in the direction of the sun. <font id=10>He drank a bit, and he gathered his jacket closer to his body.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBkYXkgd2FzIGRhd25pbmcsIGFuZCB0aGUgc2hlcGhlcmQgdXJnZWQgaGlzIHNoZWVwIGluIHRoZSBkaXJlY3Rpb24gb2YgdGhlIHN1bi4gPGZvbnQgaWQ9MTA+SGUgZHJhbmsgYSBiaXQsIGFuZCBoZSBnYXRoZXJlZCBoaXMgamFja2V0IGNsb3NlciB0byBoaXMgYm9keS48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The jacket had a purpose, and so did the boy. His purpose in life was to travel, and, after two years of walking the Andalusian terrain, he knew all the cities of the region. He was planning, on this visit, to explain to the girl how it was that a shepherd knew how to read. His parents had wanted him to become a priest, and thereby a source of pride for a simple farm family. They worked hard just to have food and water. He had studied Latin, Spanish, and theology. But ever since he had been a child, he had wanted to know the world. One afternoon, he had summoned up the courage to tell his father that he didn't want to become a priest. That he wanted to travel.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBqYWNrZXQgaGFkIGEgcHVycG9zZSwgYW5kIHNvIGRpZCB0aGUgYm95LiBIaXMgcHVycG9zZSBpbiBsaWZlIHdhcyB0byB0cmF2ZWwsIGFuZCwgYWZ0ZXIgdHdvIHllYXJzIG9mIHdhbGtpbmcgdGhlIEFuZGFsdXNpYW4gdGVycmFpbiwgaGUga25ldyBhbGwgdGhlIGNpdGllcyBvZiB0aGUgcmVnaW9uLiBIZSB3YXMgcGxhbm5pbmcsIG9uIHRoaXMgdmlzaXQsIHRvIGV4cGxhaW4gdG8gdGhlIGdpcmwgaG93IGl0IHdhcyB0aGF0IGEgc2hlcGhlcmQga25ldyBob3cgdG8gcmVhZC4gSGlzIHBhcmVudHMgaGFkIHdhbnRlZCBoaW0gdG8gYmVjb21lIGEgcHJpZXN0LCBhbmQgdGhlcmVieSBhIHNvdXJjZSBvZiBwcmlkZSBmb3IgYSBzaW1wbGUgZmFybSBmYW1pbHkuIFRoZXkgd29ya2VkIGhhcmQganVzdCB0byBoYXZlIGZvb2QgYW5kIHdhdGVyLiBIZSBoYWQgc3R1ZGllZCBMYXRpbiwgU3BhbmlzaCwgYW5kIHRoZW9sb2d5LiBCdXQgZXZlciBzaW5jZSBoZSBoYWQgYmVlbiBhIGNoaWxkLCBoZSBoYWQgd2FudGVkIHRvIGtub3cgdGhlIHdvcmxkLiBPbmUgYWZ0ZXJub29uLCBoZSBoYWQgc3VtbW9uZWQgdXAgdGhlIGNvdXJhZ2UgdG8gdGVsbCBoaXMgZmF0aGVyIHRoYXQgaGUgZGlkbid0IHdhbnQgdG8gYmVjb21lIGEgcHJpZXN0LiBUaGF0IGhlIHdhbnRlZCB0byB0cmF2ZWwuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"People from all over-the world have passed through this village, son," said his father. "They come in search of new things, but when they leave they are basically the same people they were when they arrived. They climb the mountain to see the castle, and they wind up thinking that the past was better than what we have now."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJQZW9wbGUgZnJvbSBhbGwgb3Zlci10aGUgd29ybGQgaGF2ZSBwYXNzZWQgdGhyb3VnaCB0aGlzIHZpbGxhZ2UsIHNvbiwiIHNhaWQgaGlzIGZhdGhlci4gIlRoZXkgY29tZSBpbiBzZWFyY2ggb2YgbmV3IHRoaW5ncywgYnV0IHdoZW4gdGhleSBsZWF2ZSB0aGV5IGFyZSBiYXNpY2FsbHkgdGhlIHNhbWUgcGVvcGxlIHRoZXkgd2VyZSB3aGVuIHRoZXkgYXJyaXZlZC4gVGhleSBjbGltYiB0aGUgbW91bnRhaW4gdG8gc2VlIHRoZSBjYXN0bGUsIGFuZCB0aGV5IHdpbmQgdXAgdGhpbmtpbmcgdGhhdCB0aGUgcGFzdCB3YXMgYmV0dGVyIHRoYW4gd2hhdCB3ZSBoYXZlIG5vdy4iPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"But I'd like to see the castles in the towns where they live," the boy explained.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJCdXQgSSdkIGxpa2UgdG8gc2VlIHRoZSBjYXN0bGVzIGluIHRoZSB0b3ducyB3aGVyZSB0aGV5IGxpdmUsIiB0aGUgYm95IGV4cGxhaW5lZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Amongst us, the only ones who travel are the shepherds," his father said.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJBbW9uZ3N0IHVzLCB0aGUgb25seSBvbmVzIHdobyB0cmF2ZWwgYXJlIHRoZSBzaGVwaGVyZHMsIiBoaXMgZmF0aGVyIHNhaWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Well, then I'll be a shepherd!"</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJXZWxsLCB0aGVuIEknbGwgYmUgYSBzaGVwaGVyZCEiPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">His father said no more. The next day, he gave his son three ancient Spanish coins.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhpcyBmYXRoZXIgc2FpZCBubyBtb3JlLiBUaGUgbmV4dCBkYXksIGhlIGdhdmUgaGlzIHNvbiB0aHJlZSBhbmNpZW50IFNwYW5pc2ggY29pbnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"I found these one day in the fields. I wanted them to be a part of your inheritance. But use them to buy your flock Take to the fields; and someday you'll learn that our countryside is the best."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJIGZvdW5kIHRoZXNlIG9uZSBkYXkgaW4gdGhlIGZpZWxkcy4gSSB3YW50ZWQgdGhlbSB0byBiZSBhIHBhcnQgb2YgeW91ciBpbmhlcml0YW5jZS4gQnV0IHVzZSB0aGVtIHRvIGJ1eSB5b3VyIGZsb2NrIFRha2UgdG8gdGhlIGZpZWxkczsgYW5kIHNvbWVkYXkgeW91J2xsIGxlYXJuIHRoYXQgb3VyIGNvdW50cnlzaWRlIGlzIHRoZSBiZXN0LiI8L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. The first seven paragraphs (lines l-33) establish all of the following about Santiago EXCEPT that he:
-<div class = "choice">A. has often watched his sheep wander away during the night.</div>
-<div class = "choice">B. has learned to be resourceful as a shepherd.</div>
-<div class = "choice">C. draws comfort from talking to his sheep.</div>
-<div class = "choice">D. spends some of his time reading books.</div>
-</div>
-###################
-<div class = "quiz">2. The time sequence of the passage indicates that Santiago's conversation with the merchant's daughter takes place:
-<div class = "choice">F. before he arrives at the abandoned church with his sheep.</div>
-<div class = "choice">G. before his father gives him the three ancient coins.</div>
-<div class = "choice">H. after he realizes it was he who had become accustomed to the sheep's schedule.</div>
-<div class = "choice">J. after be has sold some wool to the merchant.</div>
-</div>
-###################
-<div class = "quiz">3. Compared to Santiago's views about traveling, his father's views are best described as:
-<div class = "choice">A. contrasting; the father is certain traveling is an unfulfilling pastime.</div>
-<div class = "choice">B. contrasting; the father thinks staying home is financially more profitable than traveling.</div>
-<div class = "choice">C. similar; the father thinks traveling is rewarding.</div>
-<div class = "choice">D. similar; the father wants to know about other cities.</div>
-</div>
-###################
-<div class = "quiz">4. Which of the following statements best describes the reaction of Santiago's father to Santiago's wish to travel?
-<div class = "choice">F. He is angry at Santiago for dashing his family's hopes by abandoning the path to the priesthood and tells him to leave the village permanently.</div>
-<div class = "choice">G. He lectures Santiago at length about the agonizing complications that can befall a shepherd and his flock but ultimately wishes him well.</div>
-<div class = "choice">H. He has a brief conversation with Santiago during which he expresses his regret for not realizing sooner what his son's life goals were.</div>
-<div class = "choice">J. He questions the wisdom of Santiago's intentions but after a brief discussion offers him support to start his new career.</div>
-</div>
-###################
-<div class = "quiz">5. According to the passage, prior to Santiago's arrival, the abandoned church features all of the following EXCEPT:
-<div class = "choice">A. a broken gate.</div>
-<div class = "choice">B. an old, torn book.</div>
-<div class = "choice">C. a dilapidated roof.</div>
-<div class = "choice">D. a dirty floor.</div>
-</div>
-###################
-<div class = "quiz">6.Which of the following statements about the start of the conversation between Santiago and the girl is supported by the passage?
-<div class = "choice">F. Before he noticed her, she saw him reading on the steps of her father's shop and spoke to him.</div>
-<div class = "choice">G. When he first saw her in the merchant's shop, he wanted to start a conversation but was too shy.</div>
-<div class = "choice">H. He talked to the girl for the first time on his second visit to the shop, because on the first visit he had been too preoccupied with business.</div>
-<div class = "choice">J. The first words she spoke to him so surprised him that he was unable to reply until after she had spoken at length.</div>
-</div>
-###################
-<div class = "quiz">7. It is most reasonable to infer from the passage that the merchant's daughter would agree with which of the following statements about her village?
-<div class = "choice">A. Life there is so exciting because every day different people from around the world come to visit.</div>
-<div class = "choice">B. It is painful to witness visitors who discover that what they had hoped to fin d in the village does not exist.</div>
-<div class = "choice">C. Life there is the same day after day, year after year, even though it is a busy place.</div>
-<div class = "choice">D. It is a charming place where people support each other in business and family matters.</div>
-</div>
-###################
-<div class = "quiz">8. As it is used in the thirteenth paragraph (lines 51-55), the statement "Lots of shepherds passed through, selling their wool" primarily supports which of the following points implied by the passage?
-<div class = "choice">F. Santiago is excited about coming to a bustling village after a boring stretch of time in .the fields.</div>
-<div class = "choice">G. The merchant asked Santiago to wait to conduct business because the merchant had more wool than he could sell that day.</div>
-<div class = "choice">H. Santiago fears that the merchant's daughter will not be as excited to see him as he is to see her.</div>
-<div class = "choice">J. The merchant's daughter hoped to run her father's business one day because it was so successful.</div>
-</div>
-###################
-<div class = "quiz">9. The passage states that Santiago sees a clear similarity between himself and:
-<div class = "choice">A. the merchant.</div>
-<div class = "choice">B. sailors and traveling salespeople.</div>
-<div class = "choice">C. others who have left the priesthood.</div>
-<div class = "choice">D. his father when he was young.</div>
-</div>
-###################
-<div class = "quiz">10. As it is used in line 65, the word gathered most nearly means:
-<div class = "choice">F. attached.</div>
-<div class = "choice">G. lifted.</div>
-<div class = "choice">H. assembled.</div>
-<div class = "choice">J. pulled.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgZmlyc3Qgc2V2ZW4gcGFyYWdyYXBocyAobGluZXMgbC0zMykgZXN0YWJsaXNoIGFsbCBvZiB0aGUgZm9sbG93aW5nIGFib3V0IFNhbnRpYWdvIEVYQ0VQVCB0aGF0IGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGhhcyBvZnRlbiB3YXRjaGVkIGhpcyBzaGVlcCB3YW5kZXIgYXdheSBkdXJpbmcgdGhlIG5pZ2h0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhcyBsZWFybmVkIHRvIGJlIHJlc291cmNlZnVsIGFzIGEgc2hlcGhlcmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRyYXdzIGNvbWZvcnQgZnJvbSB0YWxraW5nIHRvIGhpcyBzaGVlcC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNwZW5kcyBzb21lIG9mIGhpcyB0aW1lIHJlYWRpbmcgYm9va3MuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBUaGUgdGltZSBzZXF1ZW5jZSBvZiB0aGUgcGFzc2FnZSBpbmRpY2F0ZXMgdGhhdCBTYW50aWFnbydzIGNvbnZlcnNhdGlvbiB3aXRoIHRoZSBtZXJjaGFudCdzIGRhdWdodGVyIHRha2VzIHBsYWNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGJlZm9yZSBoZSBhcnJpdmVzIGF0IHRoZSBhYmFuZG9uZWQgY2h1cmNoIHdpdGggaGlzIHNoZWVwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlZm9yZSBoaXMgZmF0aGVyIGdpdmVzIGhpbSB0aGUgdGhyZWUgYW5jaWVudCBjb2lucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFmdGVyIGhlIHJlYWxpemVzIGl0IHdhcyBoZSB3aG8gaGFkIGJlY29tZSBhY2N1c3RvbWVkIHRvIHRoZSBzaGVlcCdzIHNjaGVkdWxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmdGVyIGJlIGhhcyBzb2xkIHNvbWUgd29vbCB0byB0aGUgbWVyY2hhbnQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBDb21wYXJlZCB0byBTYW50aWFnbydzIHZpZXdzIGFib3V0IHRyYXZlbGluZywgaGlzIGZhdGhlcidzIHZpZXdzIGFyZSBiZXN0IGRlc2NyaWJlZCBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbnRyYXN0aW5nOyB0aGUgZmF0aGVyIGlzIGNlcnRhaW4gdHJhdmVsaW5nIGlzIGFuIHVuZnVsZmlsbGluZyBwYXN0aW1lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbnRyYXN0aW5nOyB0aGUgZmF0aGVyIHRoaW5rcyBzdGF5aW5nIGhvbWUgaXMgZmluYW5jaWFsbHkgbW9yZSBwcm9maXRhYmxlIHRoYW4gdHJhdmVsaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNpbWlsYXI7IHRoZSBmYXRoZXIgdGhpbmtzIHRyYXZlbGluZyBpcyByZXdhcmRpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNpbWlsYXI7IHRoZSBmYXRoZXIgd2FudHMgdG8ga25vdyBhYm91dCBvdGhlciBjaXRpZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgYmVzdCBkZXNjcmliZXMgdGhlIHJlYWN0aW9uIG9mIFNhbnRpYWdvJ3MgZmF0aGVyIHRvIFNhbnRpYWdvJ3Mgd2lzaCB0byB0cmF2ZWw/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEhlIGlzIGFuZ3J5IGF0IFNhbnRpYWdvIGZvciBkYXNoaW5nIGhpcyBmYW1pbHkncyBob3BlcyBieSBhYmFuZG9uaW5nIHRoZSBwYXRoIHRvIHRoZSBwcmllc3Rob29kIGFuZCB0ZWxscyBoaW0gdG8gbGVhdmUgdGhlIHZpbGxhZ2UgcGVybWFuZW50bHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEhlIGxlY3R1cmVzIFNhbnRpYWdvIGF0IGxlbmd0aCBhYm91dCB0aGUgYWdvbml6aW5nIGNvbXBsaWNhdGlvbnMgdGhhdCBjYW4gYmVmYWxsIGEgc2hlcGhlcmQgYW5kIGhpcyBmbG9jayBidXQgdWx0aW1hdGVseSB3aXNoZXMgaGltIHdlbGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEhlIGhhcyBhIGJyaWVmIGNvbnZlcnNhdGlvbiB3aXRoIFNhbnRpYWdvIGR1cmluZyB3aGljaCBoZSBleHByZXNzZXMgaGlzIHJlZ3JldCBmb3Igbm90IHJlYWxpemluZyBzb29uZXIgd2hhdCBoaXMgc29uJ3MgbGlmZSBnb2FscyB3ZXJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEhlIHF1ZXN0aW9ucyB0aGUgd2lzZG9tIG9mIFNhbnRpYWdvJ3MgaW50ZW50aW9ucyBidXQgYWZ0ZXIgYSBicmllZiBkaXNjdXNzaW9uIG9mZmVycyBoaW0gc3VwcG9ydCB0byBzdGFydCBoaXMgbmV3IGNhcmVlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIHByaW9yIHRvIFNhbnRpYWdvJ3MgYXJyaXZhbCwgdGhlIGFiYW5kb25lZCBjaHVyY2ggZmVhdHVyZXMgYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgYnJva2VuIGdhdGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIG9sZCwgdG9ybiBib29rLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGEgZGlsYXBpZGF0ZWQgcm9vZi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgZGlydHkgZmxvb3IuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LldoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cyBhYm91dCB0aGUgc3RhcnQgb2YgdGhlIGNvbnZlcnNhdGlvbiBiZXR3ZWVuIFNhbnRpYWdvIGFuZCB0aGUgZ2lybCBpcyBzdXBwb3J0ZWQgYnkgdGhlIHBhc3NhZ2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEJlZm9yZSBoZSBub3RpY2VkIGhlciwgc2hlIHNhdyBoaW0gcmVhZGluZyBvbiB0aGUgc3RlcHMgb2YgaGVyIGZhdGhlcidzIHNob3AgYW5kIHNwb2tlIHRvIGhpbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoZW4gaGUgZmlyc3Qgc2F3IGhlciBpbiB0aGUgbWVyY2hhbnQncyBzaG9wLCBoZSB3YW50ZWQgdG8gc3RhcnQgYSBjb252ZXJzYXRpb24gYnV0IHdhcyB0b28gc2h5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEhlIHRhbGtlZCB0byB0aGUgZ2lybCBmb3IgdGhlIGZpcnN0IHRpbWUgb24gaGlzIHNlY29uZCB2aXNpdCB0byB0aGUgc2hvcCwgYmVjYXVzZSBvbiB0aGUgZmlyc3QgdmlzaXQgaGUgaGFkIGJlZW4gdG9vIHByZW9jY3VwaWVkIHdpdGggYnVzaW5lc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBmaXJzdCB3b3JkcyBzaGUgc3Bva2UgdG8gaGltIHNvIHN1cnByaXNlZCBoaW0gdGhhdCBoZSB3YXMgdW5hYmxlIHRvIHJlcGx5IHVudGlsIGFmdGVyIHNoZSBoYWQgc3Bva2VuIGF0IGxlbmd0aC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBJdCBpcyBtb3N0IHJlYXNvbmFibGUgdG8gaW5mZXIgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IHRoZSBtZXJjaGFudCdzIGRhdWdodGVyIHdvdWxkIGFncmVlIHdpdGggd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IGhlciB2aWxsYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIExpZmUgdGhlcmUgaXMgc28gZXhjaXRpbmcgYmVjYXVzZSBldmVyeSBkYXkgZGlmZmVyZW50IHBlb3BsZSBmcm9tIGFyb3VuZCB0aGUgd29ybGQgY29tZSB0byB2aXNpdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGlzIHBhaW5mdWwgdG8gd2l0bmVzcyB2aXNpdG9ycyB3aG8gZGlzY292ZXIgdGhhdCB3aGF0IHRoZXkgaGFkIGhvcGVkIHRvIGZpbiBkIGluIHRoZSB2aWxsYWdlIGRvZXMgbm90IGV4aXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIExpZmUgdGhlcmUgaXMgdGhlIHNhbWUgZGF5IGFmdGVyIGRheSwgeWVhciBhZnRlciB5ZWFyLCBldmVuIHRob3VnaCBpdCBpcyBhIGJ1c3kgcGxhY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGlzIGEgY2hhcm1pbmcgcGxhY2Ugd2hlcmUgcGVvcGxlIHN1cHBvcnQgZWFjaCBvdGhlciBpbiBidXNpbmVzcyBhbmQgZmFtaWx5IG1hdHRlcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBcyBpdCBpcyB1c2VkIGluIHRoZSB0aGlydGVlbnRoIHBhcmFncmFwaCAobGluZXMgNTEtNTUpLCB0aGUgc3RhdGVtZW50ICJMb3RzIG9mIHNoZXBoZXJkcyBwYXNzZWQgdGhyb3VnaCwgc2VsbGluZyB0aGVpciB3b29sIiBwcmltYXJpbHkgc3VwcG9ydHMgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBwb2ludHMgaW1wbGllZCBieSB0aGUgcGFzc2FnZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNhbnRpYWdvIGlzIGV4Y2l0ZWQgYWJvdXQgY29taW5nIHRvIGEgYnVzdGxpbmcgdmlsbGFnZSBhZnRlciBhIGJvcmluZyBzdHJldGNoIG9mIHRpbWUgaW4gLnRoZSBmaWVsZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBtZXJjaGFudCBhc2tlZCBTYW50aWFnbyB0byB3YWl0IHRvIGNvbmR1Y3QgYnVzaW5lc3MgYmVjYXVzZSB0aGUgbWVyY2hhbnQgaGFkIG1vcmUgd29vbCB0aGFuIGhlIGNvdWxkIHNlbGwgdGhhdCBkYXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNhbnRpYWdvIGZlYXJzIHRoYXQgdGhlIG1lcmNoYW50J3MgZGF1Z2h0ZXIgd2lsbCBub3QgYmUgYXMgZXhjaXRlZCB0byBzZWUgaGltIGFzIGhlIGlzIHRvIHNlZSBoZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBtZXJjaGFudCdzIGRhdWdodGVyIGhvcGVkIHRvIHJ1biBoZXIgZmF0aGVyJ3MgYnVzaW5lc3Mgb25lIGRheSBiZWNhdXNlIGl0IHdhcyBzbyBzdWNjZXNzZnVsLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBUaGUgcGFzc2FnZSBzdGF0ZXMgdGhhdCBTYW50aWFnbyBzZWVzIGEgY2xlYXIgc2ltaWxhcml0eSBiZXR3ZWVuIGhpbXNlbGYgYW5kOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBtZXJjaGFudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNhaWxvcnMgYW5kIHRyYXZlbGluZyBzYWxlc3Blb3BsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG90aGVycyB3aG8gaGF2ZSBsZWZ0IHRoZSBwcmllc3Rob29kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhpcyBmYXRoZXIgd2hlbiBoZSB3YXMgeW91bmcuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDY1LCB0aGUgd29yZCBnYXRoZXJlZCBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGF0dGFjaGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxpZnRlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFzc2VtYmxlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHB1bGxlZC48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

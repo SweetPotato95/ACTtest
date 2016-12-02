@@ -1,61 +1,61 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An elevated inclined plane makes, an angle, θ, with a floor. Points A and B on the inclined plane are 0.50 m apart. Point B is at a height H above the floor (see Figure 1).</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuIGVsZXZhdGVkIGluY2xpbmVkIHBsYW5lIG1ha2VzLCBhbiBhbmdsZSwgzrgsIHdpdGggYSBmbG9vci4gUG9pbnRzIEEgYW5kIEIgb24gdGhlIGluY2xpbmVkIHBsYW5lIGFyZSAwLjUwIG0gYXBhcnQuIFBvaW50IEIgaXMgYXQgYSBoZWlnaHQgSCBhYm92ZSB0aGUgZmxvb3IgKHNlZSBGaWd1cmUgMSkuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\159.png' width = '628'height = '358'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTU5LnBuZycgd2lkdGggPSAnNjI4J2hlaWdodCA9ICczNTgnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A solid metal sphere is released from rest at Point A and travels down the inclined plane to Point B. The sphere is in free fall between Points B and C and first hits the floor at Point C, a horizontal distance X from the bottom of the inclined plane.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgc29saWQgbWV0YWwgc3BoZXJlIGlzIHJlbGVhc2VkIGZyb20gcmVzdCBhdCBQb2ludCBBIGFuZCB0cmF2ZWxzIGRvd24gdGhlIGluY2xpbmVkIHBsYW5lIHRvIFBvaW50IEIuIFRoZSBzcGhlcmUgaXMgaW4gZnJlZSBmYWxsIGJldHdlZW4gUG9pbnRzIEIgYW5kIEMgYW5kIGZpcnN0IGhpdHMgdGhlIGZsb29yIGF0IFBvaW50IEMsIGEgaG9yaXpvbnRhbCBkaXN0YW5jZSBYIGZyb20gdGhlIGJvdHRvbSBvZiB0aGUgaW5jbGluZWQgcGxhbmUuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how X varies with θ for different H if the sphere rolls from Point A to Point B. Figure 3 shows how X varies with θ for different H if the sphere slides from Point A to Point B.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIHNob3dzIGhvdyBYIHZhcmllcyB3aXRoIM64IGZvciBkaWZmZXJlbnQgSCBpZiB0aGUgc3BoZXJlIHJvbGxzIGZyb20gUG9pbnQgQSB0byBQb2ludCBCLiBGaWd1cmUgMyBzaG93cyBob3cgWCB2YXJpZXMgd2l0aCDOuCBmb3IgZGlmZmVyZW50IEggaWYgdGhlIHNwaGVyZSBzbGlkZXMgZnJvbSBQb2ludCBBIHRvIFBvaW50IEIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\161.png' width = '672'height = '380'/></div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\160.png' width = '124'height = '122'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTYxLnBuZycgd2lkdGggPSAnNjcyJ2hlaWdodCA9ICczODAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTYwLnBuZycgd2lkdGggPSAnMTI0J2hlaWdodCA9ICcxMjInLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\163.png' width = '679'height = '441'/></div>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\162.png' width = '139'height = '136'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTYzLnBuZycgd2lkdGggPSAnNjc5J2hlaWdodCA9ICc0NDEnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTYyLnBuZycgd2lkdGggPSAnMTM5J2hlaWdodCA9ICcxMzYnLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">12. Based on Figures 2 and 3, for the sphere either sliding or rolling down the inclined plane and for H=1.5 m, as θ increases from 5° to 45°, X:
-<div class = "choice">F. increases only.</div>
-<div class = "choice">G. decreases only.</div>
-<div class = "choice">C. increases, then decreases.</div>
-<div class = "choice">D. decreases, then increases.</div>
-</div>
-###################
-<div class = "quiz">13. For the sliding sphere at θ=10°, if H=0.5 m, X would most likely be:
-<div class = "choice">A. less than 0.56 m.</div>
-<div class = "choice">B. between 0.56 m and 0.68 m.</div>
-<div class = "choice">C. between 0.68 m and 0.79 m.</div>
-<div class = "choice">D. greater than 0.79 m.</div>
-</div>
-###################
-<div class = "quiz">14. For the sphere sliding down the inclined plane and H=2.0 m, if X had been plotted every 2.5° instead of every 5° between θ= 5° and θ= 45°, X would most likely have been greatest at which of the following θ?
-<div class = "choice">F. 17.5°</div>
-<div class = "choice">G. 22.5°</div>
-<div class = "choice">H. 27.5°</div>
-<div class = "choice">J. 32.5°</div>
-</div>
-###################
-<div class = "quiz">15. If H= 2.0 m for the rolling sphere and θ= 50°, X will most likely be closest to which of the following?
-<div class = "choice">A. 0.50 m</div>
-<div class = "choice">B. 0.65 m</div>
-<div class = "choice">C. 0.80 m</div>
-<div class = "choice">D. 0.95 m</div>
-</div>
-###################
-<div class = "quiz">16. Which of the following figures best shows how the sphere's kinetic energy varies with time as the sphere travels down the incline?
-<div class = "choice">F.<img src='file:\$$$\resources\2008 April 65D\imgs\164.png' width = '184'height = '135'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2008 April 65D\imgs\166.png' width = '176'height = '132'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2008 April 65D\imgs\165.png' width = '182'height = '134'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2008 April 65D\imgs\167.png' width = '184'height = '133'/></div>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQmFzZWQgb24gRmlndXJlcyAyIGFuZCAzLCBmb3IgdGhlIHNwaGVyZSBlaXRoZXIgc2xpZGluZyBvciByb2xsaW5nIGRvd24gdGhlIGluY2xpbmVkIHBsYW5lIGFuZCBmb3IgSD0xLjUgbSwgYXMgzrggaW5jcmVhc2VzIGZyb20gNcKwIHRvIDQ1wrAsIFg6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlcyBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluY3JlYXNlcywgdGhlbiBkZWNyZWFzZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlY3JlYXNlcywgdGhlbiBpbmNyZWFzZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gRm9yIHRoZSBzbGlkaW5nIHNwaGVyZSBhdCDOuD0xMMKwLCBpZiBIPTAuNSBtLCBYIHdvdWxkIG1vc3QgbGlrZWx5IGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiAwLjU2IG0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMC41NiBtIGFuZCAwLjY4IG0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gMC42OCBtIGFuZCAwLjc5IG0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiAwLjc5IG0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gRm9yIHRoZSBzcGhlcmUgc2xpZGluZyBkb3duIHRoZSBpbmNsaW5lZCBwbGFuZSBhbmQgSD0yLjAgbSwgaWYgWCBoYWQgYmVlbiBwbG90dGVkIGV2ZXJ5IDIuNcKwIGluc3RlYWQgb2YgZXZlcnkgNcKwIGJldHdlZW4gzrg9IDXCsCBhbmQgzrg9IDQ1wrAsIFggd291bGQgbW9zdCBsaWtlbHkgaGF2ZSBiZWVuIGdyZWF0ZXN0IGF0IHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgzrg/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDE3LjXCsDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIyLjXCsDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDI3LjXCsDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDMyLjXCsDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gSWYgSD0gMi4wIG0gZm9yIHRoZSByb2xsaW5nIHNwaGVyZSBhbmQgzrg9IDUwwrAsIFggd2lsbCBtb3N0IGxpa2VseSBiZSBjbG9zZXN0IHRvIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmc/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuNTAgbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDAuNjUgbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDAuODAgbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDAuOTUgbTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBmaWd1cmVzIGJlc3Qgc2hvd3MgaG93IHRoZSBzcGhlcmUncyBraW5ldGljIGVuZXJneSB2YXJpZXMgd2l0aCB0aW1lIGFzIHRoZSBzcGhlcmUgdHJhdmVscyBkb3duIHRoZSBpbmNsaW5lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBBcHJpbCA2NURcaW1nc1wxNjQucG5nJyB3aWR0aCA9ICcxODQnaGVpZ2h0ID0gJzEzNScvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBBcHJpbCA2NURcaW1nc1wxNjYucG5nJyB3aWR0aCA9ICcxNzYnaGVpZ2h0ID0gJzEzMicvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBBcHJpbCA2NURcaW1nc1wxNjUucG5nJyB3aWR0aCA9ICcxODInaGVpZ2h0ID0gJzEzNCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggQXByaWwgNjVEXGltZ3NcMTY3LnBuZycgd2lkdGggPSAnMTg0J2hlaWdodCA9ICcxMzMnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

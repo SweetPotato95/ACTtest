@@ -1,94 +1,94 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the book</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Eggs: Nature's Perfect Package by Robert Burton (?1987 by Robert Burton).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5BVFVSQUwgU0NJRU5DRTogVGhpcyBwYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSB0aGUgYm9vazwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVnZ3M6IE5hdHVyZSdzIFBlcmZlY3QgUGFja2FnZSBieSBSb2JlcnQgQnVydG9uICg/MTk4NyBieSBSb2JlcnQgQnVydG9uKS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Birds are 'glorified reptiles' and some biologists believe that they are indeed no more than reptiles with feathers. It is not surprising, therefore, that birds' eggs are similar to those of reptiles. The main interest in birds' eggs from an evolutionary point of view is the adaptation of the eggs of different species to particular lifestyles.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJpcmRzIGFyZSAnZ2xvcmlmaWVkIHJlcHRpbGVzJyBhbmQgc29tZSBiaW9sb2dpc3RzIGJlbGlldmUgdGhhdCB0aGV5IGFyZSBpbmRlZWQgbm8gbW9yZSB0aGFuIHJlcHRpbGVzIHdpdGggZmVhdGhlcnMuIEl0IGlzIG5vdCBzdXJwcmlzaW5nLCB0aGVyZWZvcmUsIHRoYXQgYmlyZHMnIGVnZ3MgYXJlIHNpbWlsYXIgdG8gdGhvc2Ugb2YgcmVwdGlsZXMuIFRoZSBtYWluIGludGVyZXN0IGluIGJpcmRzJyBlZ2dzIGZyb20gYW4gZXZvbHV0aW9uYXJ5IHBvaW50IG9mIHZpZXcgaXMgdGhlIGFkYXB0YXRpb24gb2YgdGhlIGVnZ3Mgb2YgZGlmZmVyZW50IHNwZWNpZXMgdG8gcGFydGljdWxhciBsaWZlc3R5bGVzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In both reptile and bird eggs, there is a large yolk which not only supplies the needs of the embryo but will also sustain the newly hatched animal until it can feed. In birds' eggs, after the egg cell-consisting mainly of a ball of yolk-has been fertilized, it moves down the oviduct where it collects the albumen or 'egg white' and takes on its shell. The albumen is mainly a is filler for protecting the embryo, but it also supplements the yolk as a valuable source of protein and a reservoir of water. Between the albumen and the shell are two parchment-like shell membranes. When they are first formed they fit quite loosely, but during the next stage, known as <font id=36> 'plumping' </font>, water and salts fill out the albumen until the membranes are taut. The shell is then attached firmly onto the outer membrane, as can be seen when peeling a hard-boiled egg.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGJvdGggcmVwdGlsZSBhbmQgYmlyZCBlZ2dzLCB0aGVyZSBpcyBhIGxhcmdlIHlvbGsgd2hpY2ggbm90IG9ubHkgc3VwcGxpZXMgdGhlIG5lZWRzIG9mIHRoZSBlbWJyeW8gYnV0IHdpbGwgYWxzbyBzdXN0YWluIHRoZSBuZXdseSBoYXRjaGVkIGFuaW1hbCB1bnRpbCBpdCBjYW4gZmVlZC4gSW4gYmlyZHMnIGVnZ3MsIGFmdGVyIHRoZSBlZ2cgY2VsbC1jb25zaXN0aW5nIG1haW5seSBvZiBhIGJhbGwgb2YgeW9say1oYXMgYmVlbiBmZXJ0aWxpemVkLCBpdCBtb3ZlcyBkb3duIHRoZSBvdmlkdWN0IHdoZXJlIGl0IGNvbGxlY3RzIHRoZSBhbGJ1bWVuIG9yICdlZ2cgd2hpdGUnIGFuZCB0YWtlcyBvbiBpdHMgc2hlbGwuIFRoZSBhbGJ1bWVuIGlzIG1haW5seSBhIGlzIGZpbGxlciBmb3IgcHJvdGVjdGluZyB0aGUgZW1icnlvLCBidXQgaXQgYWxzbyBzdXBwbGVtZW50cyB0aGUgeW9sayBhcyBhIHZhbHVhYmxlIHNvdXJjZSBvZiBwcm90ZWluIGFuZCBhIHJlc2Vydm9pciBvZiB3YXRlci4gQmV0d2VlbiB0aGUgYWxidW1lbiBhbmQgdGhlIHNoZWxsIGFyZSB0d28gcGFyY2htZW50LWxpa2Ugc2hlbGwgbWVtYnJhbmVzLiBXaGVuIHRoZXkgYXJlIGZpcnN0IGZvcm1lZCB0aGV5IGZpdCBxdWl0ZSBsb29zZWx5LCBidXQgZHVyaW5nIHRoZSBuZXh0IHN0YWdlLCBrbm93biBhcyA8Zm9udCBpZD0zNj4gJ3BsdW1waW5nJyA8L2ZvbnQ+LCB3YXRlciBhbmQgc2FsdHMgZmlsbCBvdXQgdGhlIGFsYnVtZW4gdW50aWwgdGhlIG1lbWJyYW5lcyBhcmUgdGF1dC4gVGhlIHNoZWxsIGlzIHRoZW4gYXR0YWNoZWQgZmlybWx5IG9udG8gdGhlIG91dGVyIG1lbWJyYW5lLCBhcyBjYW4gYmUgc2VlbiB3aGVuIHBlZWxpbmcgYSBoYXJkLWJvaWxlZCBlZ2cuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The innermost layer of albumen is thick and forms a hammock slung between the ends of the shell to keep the yolk suspended in the centre. Within it are two twisted cords called chalazae, which act as bearings to allow the yolk and embryo to rotate freely when the egg is turned by the parent bird in the nest. Chalazae are presumably unnecessary in reptile eggs because they are never turned, and some such as those of tortoises, will not hatch if they are turned accidentally.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpbm5lcm1vc3QgbGF5ZXIgb2YgYWxidW1lbiBpcyB0aGljayBhbmQgZm9ybXMgYSBoYW1tb2NrIHNsdW5nIGJldHdlZW4gdGhlIGVuZHMgb2YgdGhlIHNoZWxsIHRvIGtlZXAgdGhlIHlvbGsgc3VzcGVuZGVkIGluIHRoZSBjZW50cmUuIFdpdGhpbiBpdCBhcmUgdHdvIHR3aXN0ZWQgY29yZHMgY2FsbGVkIGNoYWxhemFlLCB3aGljaCBhY3QgYXMgYmVhcmluZ3MgdG8gYWxsb3cgdGhlIHlvbGsgYW5kIGVtYnJ5byB0byByb3RhdGUgZnJlZWx5IHdoZW4gdGhlIGVnZyBpcyB0dXJuZWQgYnkgdGhlIHBhcmVudCBiaXJkIGluIHRoZSBuZXN0LiBDaGFsYXphZSBhcmUgcHJlc3VtYWJseSB1bm5lY2Vzc2FyeSBpbiByZXB0aWxlIGVnZ3MgYmVjYXVzZSB0aGV5IGFyZSBuZXZlciB0dXJuZWQsIGFuZCBzb21lIHN1Y2ggYXMgdGhvc2Ugb2YgdG9ydG9pc2VzLCB3aWxsIG5vdCBoYXRjaCBpZiB0aGV5IGFyZSB0dXJuZWQgYWNjaWRlbnRhbGx5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The shell takes 15 to 16 hours to form in a domestic hen. It consists of crystals of calcite, a form of calcium carbonate, strengthened with protein fibres which also attach it to the underlying membrane. The amount of calcium needed for each egg is about 2 grams. As no more than 25 milligrams are circulating in the blood of the hen the balance must be mobilized from her reserves. She cannot absorb enough calcium from her food while making the egg, so she has to remove it from her bones. Birds have developed a special kind of bone, called medullary bone, which females lay down in the marrow cavity of existing bones during the weeks before laying commences and use as a source of calcium when the eggshells are being formed. Some birds even have difficulty in laying down this reserve because their diet is deficient in calcium. Shortage of calcium affects the breeding of scavenging birds, such as vultures, which have a diet of pure meat; to over-come this problem some species switch to hunting small animals, which they swallow whole, during the breeding season. Another example of the ingenious methods used by birds to provide calcium for their eggs can be seen on the Arctic tundra, where insect-eating sandpipers swallow the bones of long-dead lemmings; as a result there is more calcium in each clutch of eggs than there is in the adult's entire skeleton.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzaGVsbCB0YWtlcyAxNSB0byAxNiBob3VycyB0byBmb3JtIGluIGEgZG9tZXN0aWMgaGVuLiBJdCBjb25zaXN0cyBvZiBjcnlzdGFscyBvZiBjYWxjaXRlLCBhIGZvcm0gb2YgY2FsY2l1bSBjYXJib25hdGUsIHN0cmVuZ3RoZW5lZCB3aXRoIHByb3RlaW4gZmlicmVzIHdoaWNoIGFsc28gYXR0YWNoIGl0IHRvIHRoZSB1bmRlcmx5aW5nIG1lbWJyYW5lLiBUaGUgYW1vdW50IG9mIGNhbGNpdW0gbmVlZGVkIGZvciBlYWNoIGVnZyBpcyBhYm91dCAyIGdyYW1zLiBBcyBubyBtb3JlIHRoYW4gMjUgbWlsbGlncmFtcyBhcmUgY2lyY3VsYXRpbmcgaW4gdGhlIGJsb29kIG9mIHRoZSBoZW4gdGhlIGJhbGFuY2UgbXVzdCBiZSBtb2JpbGl6ZWQgZnJvbSBoZXIgcmVzZXJ2ZXMuIFNoZSBjYW5ub3QgYWJzb3JiIGVub3VnaCBjYWxjaXVtIGZyb20gaGVyIGZvb2Qgd2hpbGUgbWFraW5nIHRoZSBlZ2csIHNvIHNoZSBoYXMgdG8gcmVtb3ZlIGl0IGZyb20gaGVyIGJvbmVzLiBCaXJkcyBoYXZlIGRldmVsb3BlZCBhIHNwZWNpYWwga2luZCBvZiBib25lLCBjYWxsZWQgbWVkdWxsYXJ5IGJvbmUsIHdoaWNoIGZlbWFsZXMgbGF5IGRvd24gaW4gdGhlIG1hcnJvdyBjYXZpdHkgb2YgZXhpc3RpbmcgYm9uZXMgZHVyaW5nIHRoZSB3ZWVrcyBiZWZvcmUgbGF5aW5nIGNvbW1lbmNlcyBhbmQgdXNlIGFzIGEgc291cmNlIG9mIGNhbGNpdW0gd2hlbiB0aGUgZWdnc2hlbGxzIGFyZSBiZWluZyBmb3JtZWQuIFNvbWUgYmlyZHMgZXZlbiBoYXZlIGRpZmZpY3VsdHkgaW4gbGF5aW5nIGRvd24gdGhpcyByZXNlcnZlIGJlY2F1c2UgdGhlaXIgZGlldCBpcyBkZWZpY2llbnQgaW4gY2FsY2l1bS4gU2hvcnRhZ2Ugb2YgY2FsY2l1bSBhZmZlY3RzIHRoZSBicmVlZGluZyBvZiBzY2F2ZW5naW5nIGJpcmRzLCBzdWNoIGFzIHZ1bHR1cmVzLCB3aGljaCBoYXZlIGEgZGlldCBvZiBwdXJlIG1lYXQ7IHRvIG92ZXItY29tZSB0aGlzIHByb2JsZW0gc29tZSBzcGVjaWVzIHN3aXRjaCB0byBodW50aW5nIHNtYWxsIGFuaW1hbHMsIHdoaWNoIHRoZXkgc3dhbGxvdyB3aG9sZSwgZHVyaW5nIHRoZSBicmVlZGluZyBzZWFzb24uIEFub3RoZXIgZXhhbXBsZSBvZiB0aGUgaW5nZW5pb3VzIG1ldGhvZHMgdXNlZCBieSBiaXJkcyB0byBwcm92aWRlIGNhbGNpdW0gZm9yIHRoZWlyIGVnZ3MgY2FuIGJlIHNlZW4gb24gdGhlIEFyY3RpYyB0dW5kcmEsIHdoZXJlIGluc2VjdC1lYXRpbmcgc2FuZHBpcGVycyBzd2FsbG93IHRoZSBib25lcyBvZiBsb25nLWRlYWQgbGVtbWluZ3M7IGFzIGEgcmVzdWx0IHRoZXJlIGlzIG1vcmUgY2FsY2l1bSBpbiBlYWNoIGNsdXRjaCBvZiBlZ2dzIHRoYW4gdGhlcmUgaXMgaW4gdGhlIGFkdWx0J3MgZW50aXJlIHNrZWxldG9uLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The shell of a hen's egg is peppered with l0,000 tiny pores, just visible to the naked eye as small depressions in the shell. These pores are used for the passage of oxygen, carbon dioxide and water vapour. Unlike a lung, however, the flow of gases cannot be regulated and relies purely on diffusion through the pores. Nevertheless, the flow must be finely attuned to the needs of the embryo. As development proceeds, more oxygen is required, but the loss of water must be kept low. The eggshell's role in regulating gas flow and water loss is shown by the arrangement of pores in different eggs-quite simply, diffusion depends on the size and number of the pores. Of all the eggs studied, from the l-gram eggs of warblers to the l.5-kilogram ostrich eggs, the weight of the egg and hence its metabolic requirements is directly proportional to the total cross-sectional area of the pores.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzaGVsbCBvZiBhIGhlbidzIGVnZyBpcyBwZXBwZXJlZCB3aXRoIGwwLDAwMCB0aW55IHBvcmVzLCBqdXN0IHZpc2libGUgdG8gdGhlIG5ha2VkIGV5ZSBhcyBzbWFsbCBkZXByZXNzaW9ucyBpbiB0aGUgc2hlbGwuIFRoZXNlIHBvcmVzIGFyZSB1c2VkIGZvciB0aGUgcGFzc2FnZSBvZiBveHlnZW4sIGNhcmJvbiBkaW94aWRlIGFuZCB3YXRlciB2YXBvdXIuIFVubGlrZSBhIGx1bmcsIGhvd2V2ZXIsIHRoZSBmbG93IG9mIGdhc2VzIGNhbm5vdCBiZSByZWd1bGF0ZWQgYW5kIHJlbGllcyBwdXJlbHkgb24gZGlmZnVzaW9uIHRocm91Z2ggdGhlIHBvcmVzLiBOZXZlcnRoZWxlc3MsIHRoZSBmbG93IG11c3QgYmUgZmluZWx5IGF0dHVuZWQgdG8gdGhlIG5lZWRzIG9mIHRoZSBlbWJyeW8uIEFzIGRldmVsb3BtZW50IHByb2NlZWRzLCBtb3JlIG94eWdlbiBpcyByZXF1aXJlZCwgYnV0IHRoZSBsb3NzIG9mIHdhdGVyIG11c3QgYmUga2VwdCBsb3cuIFRoZSBlZ2dzaGVsbCdzIHJvbGUgaW4gcmVndWxhdGluZyBnYXMgZmxvdyBhbmQgd2F0ZXIgbG9zcyBpcyBzaG93biBieSB0aGUgYXJyYW5nZW1lbnQgb2YgcG9yZXMgaW4gZGlmZmVyZW50IGVnZ3MtcXVpdGUgc2ltcGx5LCBkaWZmdXNpb24gZGVwZW5kcyBvbiB0aGUgc2l6ZSBhbmQgbnVtYmVyIG9mIHRoZSBwb3Jlcy4gT2YgYWxsIHRoZSBlZ2dzIHN0dWRpZWQsIGZyb20gdGhlIGwtZ3JhbSBlZ2dzIG9mIHdhcmJsZXJzIHRvIHRoZSBsLjUta2lsb2dyYW0gb3N0cmljaCBlZ2dzLCB0aGUgd2VpZ2h0IG9mIHRoZSBlZ2cgYW5kIGhlbmNlIGl0cyBtZXRhYm9saWMgcmVxdWlyZW1lbnRzIGlzIGRpcmVjdGx5IHByb3BvcnRpb25hbCB0byB0aGUgdG90YWwgY3Jvc3Mtc2VjdGlvbmFsIGFyZWEgb2YgdGhlIHBvcmVzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Birds' eggs are uniform in shape when compared with the eggs of reptiles, but there are significant variations from the standard oval. Owls' eggs are noticeably more spherical than normal, while those of swifts and swallows are longer and more elliptical although it is not obvious why this should be. Many waders have eggs shaped like old-fashioned spinning tops, blunt at one end and tapering sharply at the other. The reason for this is clear: there are usually four in a clutch and, being large for the size of the parent, they fit under its body better when packed points inward in the nest.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJpcmRzJyBlZ2dzIGFyZSB1bmlmb3JtIGluIHNoYXBlIHdoZW4gY29tcGFyZWQgd2l0aCB0aGUgZWdncyBvZiByZXB0aWxlcywgYnV0IHRoZXJlIGFyZSBzaWduaWZpY2FudCB2YXJpYXRpb25zIGZyb20gdGhlIHN0YW5kYXJkIG92YWwuIE93bHMnIGVnZ3MgYXJlIG5vdGljZWFibHkgbW9yZSBzcGhlcmljYWwgdGhhbiBub3JtYWwsIHdoaWxlIHRob3NlIG9mIHN3aWZ0cyBhbmQgc3dhbGxvd3MgYXJlIGxvbmdlciBhbmQgbW9yZSBlbGxpcHRpY2FsIGFsdGhvdWdoIGl0IGlzIG5vdCBvYnZpb3VzIHdoeSB0aGlzIHNob3VsZCBiZS4gTWFueSB3YWRlcnMgaGF2ZSBlZ2dzIHNoYXBlZCBsaWtlIG9sZC1mYXNoaW9uZWQgc3Bpbm5pbmcgdG9wcywgYmx1bnQgYXQgb25lIGVuZCBhbmQgdGFwZXJpbmcgc2hhcnBseSBhdCB0aGUgb3RoZXIuIFRoZSByZWFzb24gZm9yIHRoaXMgaXMgY2xlYXI6IHRoZXJlIGFyZSB1c3VhbGx5IGZvdXIgaW4gYSBjbHV0Y2ggYW5kLCBiZWluZyBsYXJnZSBmb3IgdGhlIHNpemUgb2YgdGhlIHBhcmVudCwgdGhleSBmaXQgdW5kZXIgaXRzIGJvZHkgYmV0dGVyIHdoZW4gcGFja2VkIHBvaW50cyBpbndhcmQgaW4gdGhlIG5lc3QuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">31. Which of the following best describes the content of the passage?
-<div class = "choice">A. A point by point comparison between the eggs of birds and those of reptiles</div>
-<div class = "choice">B. A technical discussion of the development of birds' eggs, including some references for comparison sake to those of reptiles</div>
-<div class = "choice">C. An examination of bow recent studies have shown that birds' eggs are less like reptile eggs than was previously thought</div>
-<div class = "choice">D. A discussion of how from an evolutionary standpoint birds' eggs have become more adapted to their environment than reptile eggs have</div>
-</div>
-###################
-<div class = "quiz">32. Which of the following statements about the eggshell of a domestic hen is NOT supported by the passage?
-<div class = "choice">F. It contains about 10,000 tiny pores, which are visible to the naked eye.</div>
-<div class = "choice">G. It takes about 15 hours to form.</div>
-<div class = "choice">H. It consists of crystals of calcite.</div>
-<div class = "choice">J. It contains about 15 grams of calcium</div>
-</div>
-###################
-<div class = "quiz">33. Which of the following statements best explains how the last paragraph functions in the passage as a whole?
-<div class = "choice">A. It summarizes the main points made about eggs in the preceding paragraphs.</div>
-<div class = "choice">B. It introduces a comparison between reptile eggs and bird eggs.</div>
-<div class = "choice">C. It brings the issue of shape into 'the discussion of significant features of an egg.</div>
-<div class = "choice">D. It focuses attention on what puzzles biologists most about the design and function of eggs.</div>
-</div>
-###################
-<div class = "quiz">34. What explanation, if any, does the passage provide for why a parent bird turns the eggs in the nest?
-<div class = "choice">F. In some species, the parent turns the egg to maximize the exposure of the pores to oxygen and water.</div>
-<div class = "choice">G. The parent bird turns the egg to ensure the equal distribution of its body heat to the entire clutch.</div>
-<div class = "choice">H. The parent bird turns the egg as one of many measures it takes to determine if the egg is developing properly.</div>
-<div class = "choice">J. The passage provides no explanation for this behavior.</div>
-</div>
-###################
-<div class = "quiz">35. The passage indicates that from the inside out a bird's egg is made up of the following elements in the following order:
-<div class = "choice">A. yolk, chalazae-containing album en, two shell membranes; shell.</div>
-<div class = "choice">B. yolk, egg cell, inner shell, parchment membranes, Outer shell.</div>
-<div class = "choice">C. yolk, parchment membrane cell membrane, albumen, inner shell, chalazae, outer shell.</div>
-<div class = "choice">D. yolk, chalazae, parchment membranes, albumen, shell.</div>
-</div>
-###################
-<div class = "quiz">36. As it is used in line 20, the word .plumping refers to the:
-<div class = "choice">F. phase in which the adult female bird increases her nutrient intake in preparation for egg-laying.</div>
-<div class = "choice">G. formation of two parchment-like membranes around the fertilized egg cell.</div>
-<div class = "choice">H. stage during which increased levels of water and salts expand the albumen in a developing egg.</div>
-<div class = "choice">J. adjustments a nesting bird makes in its plumage to maximize its ability to warm a clutch of eggs.</div>
-</div>
-###################
-<div class = "quiz">37. Which of the following best describes the form and function of the chalazae as they are described in the passage?
-<div class = "choice">A. A hammock inside the shells of birds and reptiles that protects the developing embryo</div>
-<div class = "choice">B. Two twisted cords that allow the yolk and embryo in a bird's egg to rotate freely when the egg is moved</div>
-<div class = "choice">C. Two small vessels that allow the exchange of nutrients and .waste between the yolk and the embryo in a bird's egg</div>
-<div class = "choice">D. Two thin layers of protein that protect the embryo in bird and reptile eggs once plumping bas occurred</div>
-</div>
-###################
-<div class = "quiz">38. According to the passage, protein fibers in the egg-shells of birds serve to:
-<div class = "choice">F. deliver crystals of calcite to the bones of the developing embryo.</div>
-<div class = "choice">G. facilitate the movement of life-sustaining gases to the embryo.</div>
-<div class = "choice">H. strengthen the shell and attach it to the underlying membrane.</div>
-<div class = "choice">J. suspend the yolk in a hammock-like feature for protective purposes.</div>
-</div>
-###################
-<div class = "quiz">39. Which of the following best describes the medullary bone arid its significance in bird development?
-<div class = "choice">A. It is the lower of two hollow bones that together form the legs of a bird.</div>
-<div class = "choice">B. It is a calcium-rich bone in small Arctic mammals that become the preferred prey of breeding Arctic birds.</div>
-<div class = "choice">C. It is a pliable bone that temporarily encases the spinal cord in developing bird and reptile embryos until it is replaced by a stronger bone.</div>
-<div class = "choice">D. It is a supplemental bone that forms inside a hen's existing bones prior to egg-laying to serve as a source of calcium.</div>
-</div>
-###################
-<div class = "quiz">40. What advantage, if any, does the passage suggest is offered by the shape of the eggs of waders?
-<div class = "choice">F. The shape provides protection from certain lands of egg-eating predators that don't recognize the wader egg as an egg.</div>
-<div class = "choice">G. The shape allows the egg to be positioned efficiently along with other eggs underneath the nesting adult wader.</div>
-<div class = "choice">H. The shape provides the embryo the space it needs to extend and thereby strengthen its developing wings.</div>
-<div class = "choice">J. The passage does not indicate what advantage the shape of these eggs provides.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGRlc2NyaWJlcyB0aGUgY29udGVudCBvZiB0aGUgcGFzc2FnZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgcG9pbnQgYnkgcG9pbnQgY29tcGFyaXNvbiBiZXR3ZWVuIHRoZSBlZ2dzIG9mIGJpcmRzIGFuZCB0aG9zZSBvZiByZXB0aWxlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEEgdGVjaG5pY2FsIGRpc2N1c3Npb24gb2YgdGhlIGRldmVsb3BtZW50IG9mIGJpcmRzJyBlZ2dzLCBpbmNsdWRpbmcgc29tZSByZWZlcmVuY2VzIGZvciBjb21wYXJpc29uIHNha2UgdG8gdGhvc2Ugb2YgcmVwdGlsZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFuIGV4YW1pbmF0aW9uIG9mIGJvdyByZWNlbnQgc3R1ZGllcyBoYXZlIHNob3duIHRoYXQgYmlyZHMnIGVnZ3MgYXJlIGxlc3MgbGlrZSByZXB0aWxlIGVnZ3MgdGhhbiB3YXMgcHJldmlvdXNseSB0aG91Z2h0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEEgZGlzY3Vzc2lvbiBvZiBob3cgZnJvbSBhbiBldm9sdXRpb25hcnkgc3RhbmRwb2ludCBiaXJkcycgZWdncyBoYXZlIGJlY29tZSBtb3JlIGFkYXB0ZWQgdG8gdGhlaXIgZW52aXJvbm1lbnQgdGhhbiByZXB0aWxlIGVnZ3MgaGF2ZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IHRoZSBlZ2dzaGVsbCBvZiBhIGRvbWVzdGljIGhlbiBpcyBOT1Qgc3VwcG9ydGVkIGJ5IHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IGNvbnRhaW5zIGFib3V0IDEwLDAwMCB0aW55IHBvcmVzLCB3aGljaCBhcmUgdmlzaWJsZSB0byB0aGUgbmFrZWQgZXllLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0IHRha2VzIGFib3V0IDE1IGhvdXJzIHRvIGZvcm0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0IGNvbnNpc3RzIG9mIGNyeXN0YWxzIG9mIGNhbGNpdGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0IGNvbnRhaW5zIGFib3V0IDE1IGdyYW1zIG9mIGNhbGNpdW08L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgZXhwbGFpbnMgaG93IHRoZSBsYXN0IHBhcmFncmFwaCBmdW5jdGlvbnMgaW4gdGhlIHBhc3NhZ2UgYXMgYSB3aG9sZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IHN1bW1hcml6ZXMgdGhlIG1haW4gcG9pbnRzIG1hZGUgYWJvdXQgZWdncyBpbiB0aGUgcHJlY2VkaW5nIHBhcmFncmFwaHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGludHJvZHVjZXMgYSBjb21wYXJpc29uIGJldHdlZW4gcmVwdGlsZSBlZ2dzIGFuZCBiaXJkIGVnZ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IGJyaW5ncyB0aGUgaXNzdWUgb2Ygc2hhcGUgaW50byAndGhlIGRpc2N1c3Npb24gb2Ygc2lnbmlmaWNhbnQgZmVhdHVyZXMgb2YgYW4gZWdnLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGZvY3VzZXMgYXR0ZW50aW9uIG9uIHdoYXQgcHV6emxlcyBiaW9sb2dpc3RzIG1vc3QgYWJvdXQgdGhlIGRlc2lnbiBhbmQgZnVuY3Rpb24gb2YgZWdncy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4gV2hhdCBleHBsYW5hdGlvbiwgaWYgYW55LCBkb2VzIHRoZSBwYXNzYWdlIHByb3ZpZGUgZm9yIHdoeSBhIHBhcmVudCBiaXJkIHR1cm5zIHRoZSBlZ2dzIGluIHRoZSBuZXN0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEluIHNvbWUgc3BlY2llcywgdGhlIHBhcmVudCB0dXJucyB0aGUgZWdnIHRvIG1heGltaXplIHRoZSBleHBvc3VyZSBvZiB0aGUgcG9yZXMgdG8gb3h5Z2VuIGFuZCB3YXRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBwYXJlbnQgYmlyZCB0dXJucyB0aGUgZWdnIHRvIGVuc3VyZSB0aGUgZXF1YWwgZGlzdHJpYnV0aW9uIG9mIGl0cyBib2R5IGhlYXQgdG8gdGhlIGVudGlyZSBjbHV0Y2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBwYXJlbnQgYmlyZCB0dXJucyB0aGUgZWdnIGFzIG9uZSBvZiBtYW55IG1lYXN1cmVzIGl0IHRha2VzIHRvIGRldGVybWluZSBpZiB0aGUgZWdnIGlzIGRldmVsb3BpbmcgcHJvcGVybHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBwYXNzYWdlIHByb3ZpZGVzIG5vIGV4cGxhbmF0aW9uIGZvciB0aGlzIGJlaGF2aW9yLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4gVGhlIHBhc3NhZ2UgaW5kaWNhdGVzIHRoYXQgZnJvbSB0aGUgaW5zaWRlIG91dCBhIGJpcmQncyBlZ2cgaXMgbWFkZSB1cCBvZiB0aGUgZm9sbG93aW5nIGVsZW1lbnRzIGluIHRoZSBmb2xsb3dpbmcgb3JkZXI6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHlvbGssIGNoYWxhemFlLWNvbnRhaW5pbmcgYWxidW0gZW4sIHR3byBzaGVsbCBtZW1icmFuZXM7IHNoZWxsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHlvbGssIGVnZyBjZWxsLCBpbm5lciBzaGVsbCwgcGFyY2htZW50IG1lbWJyYW5lcywgT3V0ZXIgc2hlbGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHlvbGssIHBhcmNobWVudCBtZW1icmFuZSBjZWxsIG1lbWJyYW5lLCBhbGJ1bWVuLCBpbm5lciBzaGVsbCwgY2hhbGF6YWUsIG91dGVyIHNoZWxsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHlvbGssIGNoYWxhemFlLCBwYXJjaG1lbnQgbWVtYnJhbmVzLCBhbGJ1bWVuLCBzaGVsbC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDIwLCB0aGUgd29yZCAucGx1bXBpbmcgcmVmZXJzIHRvIHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHBoYXNlIGluIHdoaWNoIHRoZSBhZHVsdCBmZW1hbGUgYmlyZCBpbmNyZWFzZXMgaGVyIG51dHJpZW50IGludGFrZSBpbiBwcmVwYXJhdGlvbiBmb3IgZWdnLWxheWluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZvcm1hdGlvbiBvZiB0d28gcGFyY2htZW50LWxpa2UgbWVtYnJhbmVzIGFyb3VuZCB0aGUgZmVydGlsaXplZCBlZ2cgY2VsbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0YWdlIGR1cmluZyB3aGljaCBpbmNyZWFzZWQgbGV2ZWxzIG9mIHdhdGVyIGFuZCBzYWx0cyBleHBhbmQgdGhlIGFsYnVtZW4gaW4gYSBkZXZlbG9waW5nIGVnZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFkanVzdG1lbnRzIGEgbmVzdGluZyBiaXJkIG1ha2VzIGluIGl0cyBwbHVtYWdlIHRvIG1heGltaXplIGl0cyBhYmlsaXR5IHRvIHdhcm0gYSBjbHV0Y2ggb2YgZWdncy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGRlc2NyaWJlcyB0aGUgZm9ybSBhbmQgZnVuY3Rpb24gb2YgdGhlIGNoYWxhemFlIGFzIHRoZXkgYXJlIGRlc2NyaWJlZCBpbiB0aGUgcGFzc2FnZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEEgaGFtbW9jayBpbnNpZGUgdGhlIHNoZWxscyBvZiBiaXJkcyBhbmQgcmVwdGlsZXMgdGhhdCBwcm90ZWN0cyB0aGUgZGV2ZWxvcGluZyBlbWJyeW88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFR3byB0d2lzdGVkIGNvcmRzIHRoYXQgYWxsb3cgdGhlIHlvbGsgYW5kIGVtYnJ5byBpbiBhIGJpcmQncyBlZ2cgdG8gcm90YXRlIGZyZWVseSB3aGVuIHRoZSBlZ2cgaXMgbW92ZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFR3byBzbWFsbCB2ZXNzZWxzIHRoYXQgYWxsb3cgdGhlIGV4Y2hhbmdlIG9mIG51dHJpZW50cyBhbmQgLndhc3RlIGJldHdlZW4gdGhlIHlvbGsgYW5kIHRoZSBlbWJyeW8gaW4gYSBiaXJkJ3MgZWdnPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFR3byB0aGluIGxheWVycyBvZiBwcm90ZWluIHRoYXQgcHJvdGVjdCB0aGUgZW1icnlvIGluIGJpcmQgYW5kIHJlcHRpbGUgZWdncyBvbmNlIHBsdW1waW5nIGJhcyBvY2N1cnJlZDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBwcm90ZWluIGZpYmVycyBpbiB0aGUgZWdnLXNoZWxscyBvZiBiaXJkcyBzZXJ2ZSB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlbGl2ZXIgY3J5c3RhbHMgb2YgY2FsY2l0ZSB0byB0aGUgYm9uZXMgb2YgdGhlIGRldmVsb3BpbmcgZW1icnlvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZhY2lsaXRhdGUgdGhlIG1vdmVtZW50IG9mIGxpZmUtc3VzdGFpbmluZyBnYXNlcyB0byB0aGUgZW1icnlvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0cmVuZ3RoZW4gdGhlIHNoZWxsIGFuZCBhdHRhY2ggaXQgdG8gdGhlIHVuZGVybHlpbmcgbWVtYnJhbmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHN1c3BlbmQgdGhlIHlvbGsgaW4gYSBoYW1tb2NrLWxpa2UgZmVhdHVyZSBmb3IgcHJvdGVjdGl2ZSBwdXJwb3Nlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGRlc2NyaWJlcyB0aGUgbWVkdWxsYXJ5IGJvbmUgYXJpZCBpdHMgc2lnbmlmaWNhbmNlIGluIGJpcmQgZGV2ZWxvcG1lbnQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEl0IGlzIHRoZSBsb3dlciBvZiB0d28gaG9sbG93IGJvbmVzIHRoYXQgdG9nZXRoZXIgZm9ybSB0aGUgbGVncyBvZiBhIGJpcmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IGlzIGEgY2FsY2l1bS1yaWNoIGJvbmUgaW4gc21hbGwgQXJjdGljIG1hbW1hbHMgdGhhdCBiZWNvbWUgdGhlIHByZWZlcnJlZCBwcmV5IG9mIGJyZWVkaW5nIEFyY3RpYyBiaXJkcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEl0IGlzIGEgcGxpYWJsZSBib25lIHRoYXQgdGVtcG9yYXJpbHkgZW5jYXNlcyB0aGUgc3BpbmFsIGNvcmQgaW4gZGV2ZWxvcGluZyBiaXJkIGFuZCByZXB0aWxlIGVtYnJ5b3MgdW50aWwgaXQgaXMgcmVwbGFjZWQgYnkgYSBzdHJvbmdlciBib25lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEl0IGlzIGEgc3VwcGxlbWVudGFsIGJvbmUgdGhhdCBmb3JtcyBpbnNpZGUgYSBoZW4ncyBleGlzdGluZyBib25lcyBwcmlvciB0byBlZ2ctbGF5aW5nIHRvIHNlcnZlIGFzIGEgc291cmNlIG9mIGNhbGNpdW0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gV2hhdCBhZHZhbnRhZ2UsIGlmIGFueSwgZG9lcyB0aGUgcGFzc2FnZSBzdWdnZXN0IGlzIG9mZmVyZWQgYnkgdGhlIHNoYXBlIG9mIHRoZSBlZ2dzIG9mIHdhZGVycz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBzaGFwZSBwcm92aWRlcyBwcm90ZWN0aW9uIGZyb20gY2VydGFpbiBsYW5kcyBvZiBlZ2ctZWF0aW5nIHByZWRhdG9ycyB0aGF0IGRvbid0IHJlY29nbml6ZSB0aGUgd2FkZXIgZWdnIGFzIGFuIGVnZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBzaGFwZSBhbGxvd3MgdGhlIGVnZyB0byBiZSBwb3NpdGlvbmVkIGVmZmljaWVudGx5IGFsb25nIHdpdGggb3RoZXIgZWdncyB1bmRlcm5lYXRoIHRoZSBuZXN0aW5nIGFkdWx0IHdhZGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBzaGFwZSBwcm92aWRlcyB0aGUgZW1icnlvIHRoZSBzcGFjZSBpdCBuZWVkcyB0byBleHRlbmQgYW5kIHRoZXJlYnkgc3RyZW5ndGhlbiBpdHMgZGV2ZWxvcGluZyB3aW5ncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBwYXNzYWdlIGRvZXMgbm90IGluZGljYXRlIHdoYXQgYWR2YW50YWdlIHRoZSBzaGFwZSBvZiB0aGVzZSBlZ2dzIHByb3ZpZGVzLjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

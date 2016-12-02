@@ -1,89 +1,89 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from David Leavitt's novel Equal Affections (?1989  by David Leavitt).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nine mysterious and crucial years separated April's birth from Danny's. This meant that when Danny was nine, his sister was eighteen and had lived twice as long in the world as he had. The difference never seemed so vast, so insurmountable, as it did that magical year, for as they got older, nine years became less of a gulf and more of a bridge. Danny met and befriended people older than April all the time now, as peers, a fact the nine-year-old baby brother in him still couldn't help but. marvel at; when he was a child, she and her friends had seemed so immutably older than he was. Now people April's age worked under him.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gRGF2aWQgTGVhdml0dCdzIG5vdmVsIEVxdWFsIEFmZmVjdGlvbnMgKD8xOTg5ICBieSBEYXZpZCBMZWF2aXR0KS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5pbmUgbXlzdGVyaW91cyBhbmQgY3J1Y2lhbCB5ZWFycyBzZXBhcmF0ZWQgQXByaWwncyBiaXJ0aCBmcm9tIERhbm55J3MuIFRoaXMgbWVhbnQgdGhhdCB3aGVuIERhbm55IHdhcyBuaW5lLCBoaXMgc2lzdGVyIHdhcyBlaWdodGVlbiBhbmQgaGFkIGxpdmVkIHR3aWNlIGFzIGxvbmcgaW4gdGhlIHdvcmxkIGFzIGhlIGhhZC4gVGhlIGRpZmZlcmVuY2UgbmV2ZXIgc2VlbWVkIHNvIHZhc3QsIHNvIGluc3VybW91bnRhYmxlLCBhcyBpdCBkaWQgdGhhdCBtYWdpY2FsIHllYXIsIGZvciBhcyB0aGV5IGdvdCBvbGRlciwgbmluZSB5ZWFycyBiZWNhbWUgbGVzcyBvZiBhIGd1bGYgYW5kIG1vcmUgb2YgYSBicmlkZ2UuIERhbm55IG1ldCBhbmQgYmVmcmllbmRlZCBwZW9wbGUgb2xkZXIgdGhhbiBBcHJpbCBhbGwgdGhlIHRpbWUgbm93LCBhcyBwZWVycywgYSBmYWN0IHRoZSBuaW5lLXllYXItb2xkIGJhYnkgYnJvdGhlciBpbiBoaW0gc3RpbGwgY291bGRuJ3QgaGVscCBidXQuIG1hcnZlbCBhdDsgd2hlbiBoZSB3YXMgYSBjaGlsZCwgc2hlIGFuZCBoZXIgZnJpZW5kcyBoYWQgc2VlbWVkIHNvIGltbXV0YWJseSBvbGRlciB0aGFuIGhlIHdhcy4gTm93IHBlb3BsZSBBcHJpbCdzIGFnZSB3b3JrZWQgdW5kZXIgaGltLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=3>April and his parents had been a family long before he came along; they shared with each other elaborate and entrenched rituals, masses of common history, so much that in his early childhood he was always having to ask questions: What is the house in this picture? Our old house, where we lived in Boston, when April was born. Who are these women holding babies? That is your grandmother, who you never knew, holding your cousin Joanne. And that is your aunt Eleanor, holding your cousin Markie. And that is your mommy, holding your sister. He studied the photographs, memorizing the faces he would never see m real life, because the people they belonged to were dead or had aged beyond the point of recognition. It <font id=6>was like homework</font>, like memorizing the parts of the body or the capitals. But the pictures he paid closest attention to were the ones his parents had taken when April was a baby. There were hundreds of them-ten or twenty taken on a single day, sometimes, marked and dated an d captioned, as if Louise and Nat had been under some sort of picture-taking enchantment; brought on by' the miracle of first birth. "11/22/52: Mommy giving April her bottle." "11/23/52: Daddy puts April in her bath." Danny didn't know this energetic young couple, busily engaged in the rituals of. baby care, and yet there were his father's ringed eyes and sharp nose on the face of that skinny boy; there was his mother's slightly upturned lip, her blazing dark eyes. What surprised him most was a sequence of picture's taken on the beach. The color in these pictures had faded, and so the beach had a bleached, white 'aspect, the bright flowers on Louise's bathing suit fading, as if at the end of their season. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM+QXByaWwgYW5kIGhpcyBwYXJlbnRzIGhhZCBiZWVuIGEgZmFtaWx5IGxvbmcgYmVmb3JlIGhlIGNhbWUgYWxvbmc7IHRoZXkgc2hhcmVkIHdpdGggZWFjaCBvdGhlciBlbGFib3JhdGUgYW5kIGVudHJlbmNoZWQgcml0dWFscywgbWFzc2VzIG9mIGNvbW1vbiBoaXN0b3J5LCBzbyBtdWNoIHRoYXQgaW4gaGlzIGVhcmx5IGNoaWxkaG9vZCBoZSB3YXMgYWx3YXlzIGhhdmluZyB0byBhc2sgcXVlc3Rpb25zOiBXaGF0IGlzIHRoZSBob3VzZSBpbiB0aGlzIHBpY3R1cmU/IE91ciBvbGQgaG91c2UsIHdoZXJlIHdlIGxpdmVkIGluIEJvc3Rvbiwgd2hlbiBBcHJpbCB3YXMgYm9ybi4gV2hvIGFyZSB0aGVzZSB3b21lbiBob2xkaW5nIGJhYmllcz8gVGhhdCBpcyB5b3VyIGdyYW5kbW90aGVyLCB3aG8geW91IG5ldmVyIGtuZXcsIGhvbGRpbmcgeW91ciBjb3VzaW4gSm9hbm5lLiBBbmQgdGhhdCBpcyB5b3VyIGF1bnQgRWxlYW5vciwgaG9sZGluZyB5b3VyIGNvdXNpbiBNYXJraWUuIEFuZCB0aGF0IGlzIHlvdXIgbW9tbXksIGhvbGRpbmcgeW91ciBzaXN0ZXIuIEhlIHN0dWRpZWQgdGhlIHBob3RvZ3JhcGhzLCBtZW1vcml6aW5nIHRoZSBmYWNlcyBoZSB3b3VsZCBuZXZlciBzZWUgbSByZWFsIGxpZmUsIGJlY2F1c2UgdGhlIHBlb3BsZSB0aGV5IGJlbG9uZ2VkIHRvIHdlcmUgZGVhZCBvciBoYWQgYWdlZCBiZXlvbmQgdGhlIHBvaW50IG9mIHJlY29nbml0aW9uLiBJdCA8Zm9udCBpZD02PndhcyBsaWtlIGhvbWV3b3JrPC9mb250PiwgbGlrZSBtZW1vcml6aW5nIHRoZSBwYXJ0cyBvZiB0aGUgYm9keSBvciB0aGUgY2FwaXRhbHMuIEJ1dCB0aGUgcGljdHVyZXMgaGUgcGFpZCBjbG9zZXN0IGF0dGVudGlvbiB0byB3ZXJlIHRoZSBvbmVzIGhpcyBwYXJlbnRzIGhhZCB0YWtlbiB3aGVuIEFwcmlsIHdhcyBhIGJhYnkuIFRoZXJlIHdlcmUgaHVuZHJlZHMgb2YgdGhlbS10ZW4gb3IgdHdlbnR5IHRha2VuIG9uIGEgc2luZ2xlIGRheSwgc29tZXRpbWVzLCBtYXJrZWQgYW5kIGRhdGVkIGFuIGQgY2FwdGlvbmVkLCBhcyBpZiBMb3Vpc2UgYW5kIE5hdCBoYWQgYmVlbiB1bmRlciBzb21lIHNvcnQgb2YgcGljdHVyZS10YWtpbmcgZW5jaGFudG1lbnQ7IGJyb3VnaHQgb24gYnknIHRoZSBtaXJhY2xlIG9mIGZpcnN0IGJpcnRoLiAiMTEvMjIvNTI6IE1vbW15IGdpdmluZyBBcHJpbCBoZXIgYm90dGxlLiIgIjExLzIzLzUyOiBEYWRkeSBwdXRzIEFwcmlsIGluIGhlciBiYXRoLiIgRGFubnkgZGlkbid0IGtub3cgdGhpcyBlbmVyZ2V0aWMgeW91bmcgY291cGxlLCBidXNpbHkgZW5nYWdlZCBpbiB0aGUgcml0dWFscyBvZi4gYmFieSBjYXJlLCBhbmQgeWV0IHRoZXJlIHdlcmUgaGlzIGZhdGhlcidzIHJpbmdlZCBleWVzIGFuZCBzaGFycCBub3NlIG9uIHRoZSBmYWNlIG9mIHRoYXQgc2tpbm55IGJveTsgdGhlcmUgd2FzIGhpcyBtb3RoZXIncyBzbGlnaHRseSB1cHR1cm5lZCBsaXAsIGhlciBibGF6aW5nIGRhcmsgZXllcy4gV2hhdCBzdXJwcmlzZWQgaGltIG1vc3Qgd2FzIGEgc2VxdWVuY2Ugb2YgcGljdHVyZSdzIHRha2VuIG9uIHRoZSBiZWFjaC4gVGhlIGNvbG9yIGluIHRoZXNlIHBpY3R1cmVzIGhhZCBmYWRlZCwgYW5kIHNvIHRoZSBiZWFjaCBoYWQgYSBibGVhY2hlZCwgd2hpdGUgJ2FzcGVjdCwgdGhlIGJyaWdodCBmbG93ZXJzIG9uIExvdWlzZSdzIGJhdGhpbmcgc3VpdCBmYWRpbmcsIGFzIGlmIGF0IHRoZSBlbmQgb2YgdGhlaXIgc2Vhc29uLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As April grew, as her unspecified baby face took on the familiar features of his sister, the gaps between when the pictures were taken grew as well, until instead of every day, it was every six months, and then every year, at her birthday party. Then there were no dates. Then there were no more binders, just an old shoebox filled with snapshots. Very few pictures existed of Danny's own babyhood, and when he once asked his mother why, she looked at him strangely and put her hand on her forehead. "Oh, Danny," she said, laughing a little. "I'm sorry." He hadn't, until that moment, thought of it as anything to apologize for.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIEFwcmlsIGdyZXcsIGFzIGhlciB1bnNwZWNpZmllZCBiYWJ5IGZhY2UgdG9vayBvbiB0aGUgZmFtaWxpYXIgZmVhdHVyZXMgb2YgaGlzIHNpc3RlciwgdGhlIGdhcHMgYmV0d2VlbiB3aGVuIHRoZSBwaWN0dXJlcyB3ZXJlIHRha2VuIGdyZXcgYXMgd2VsbCwgdW50aWwgaW5zdGVhZCBvZiBldmVyeSBkYXksIGl0IHdhcyBldmVyeSBzaXggbW9udGhzLCBhbmQgdGhlbiBldmVyeSB5ZWFyLCBhdCBoZXIgYmlydGhkYXkgcGFydHkuIFRoZW4gdGhlcmUgd2VyZSBubyBkYXRlcy4gVGhlbiB0aGVyZSB3ZXJlIG5vIG1vcmUgYmluZGVycywganVzdCBhbiBvbGQgc2hvZWJveCBmaWxsZWQgd2l0aCBzbmFwc2hvdHMuIFZlcnkgZmV3IHBpY3R1cmVzIGV4aXN0ZWQgb2YgRGFubnkncyBvd24gYmFieWhvb2QsIGFuZCB3aGVuIGhlIG9uY2UgYXNrZWQgaGlzIG1vdGhlciB3aHksIHNoZSBsb29rZWQgYXQgaGltIHN0cmFuZ2VseSBhbmQgcHV0IGhlciBoYW5kIG9uIGhlciBmb3JlaGVhZC4gIk9oLCBEYW5ueSwiIHNoZSBzYWlkLCBsYXVnaGluZyBhIGxpdHRsZS4gIkknbSBzb3JyeS4iIEhlIGhhZG4ndCwgdW50aWwgdGhhdCBtb21lbnQsIHRob3VnaHQgb2YgaXQgYXMgYW55dGhpbmcgdG8gYXBvbG9naXplIGZvci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When Danny was growing up, he had a red rubber ball he liked to bounce. After school, in the afternoon, he'd walk for hours, bouncing this ball, spinning out in his head the plots of imaginary movies and television shows, and later, when April started singing, making up songs. She had told him that if he wrote a song good enough; she would sing it. But somehow it was always someone else's tune he came up with during those pre-dusk hours he spent outdoors, bouncing, bouncing. When he started college, that familiar, thunking beat was what Louise said she missed most; she couldn't stand the silence, she told Danny, and joked <font id=8>about paying a neighborhood child to play handball against her garage</font>. And later, when he was living in the East and went home for visits, he'd find the red ball waiting for him on his bed, and sometimes, when he had something to think through; he'd take it up and bounce it, though it was soft where once it had been tight, and riddled with tiny, unsealable holes. Louise, doing the dishes or ironing, felt a rare peacefulness come over her as she listened to that familiar thumping of her son and his ball outside.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gRGFubnkgd2FzIGdyb3dpbmcgdXAsIGhlIGhhZCBhIHJlZCBydWJiZXIgYmFsbCBoZSBsaWtlZCB0byBib3VuY2UuIEFmdGVyIHNjaG9vbCwgaW4gdGhlIGFmdGVybm9vbiwgaGUnZCB3YWxrIGZvciBob3VycywgYm91bmNpbmcgdGhpcyBiYWxsLCBzcGlubmluZyBvdXQgaW4gaGlzIGhlYWQgdGhlIHBsb3RzIG9mIGltYWdpbmFyeSBtb3ZpZXMgYW5kIHRlbGV2aXNpb24gc2hvd3MsIGFuZCBsYXRlciwgd2hlbiBBcHJpbCBzdGFydGVkIHNpbmdpbmcsIG1ha2luZyB1cCBzb25ncy4gU2hlIGhhZCB0b2xkIGhpbSB0aGF0IGlmIGhlIHdyb3RlIGEgc29uZyBnb29kIGVub3VnaDsgc2hlIHdvdWxkIHNpbmcgaXQuIEJ1dCBzb21laG93IGl0IHdhcyBhbHdheXMgc29tZW9uZSBlbHNlJ3MgdHVuZSBoZSBjYW1lIHVwIHdpdGggZHVyaW5nIHRob3NlIHByZS1kdXNrIGhvdXJzIGhlIHNwZW50IG91dGRvb3JzLCBib3VuY2luZywgYm91bmNpbmcuIFdoZW4gaGUgc3RhcnRlZCBjb2xsZWdlLCB0aGF0IGZhbWlsaWFyLCB0aHVua2luZyBiZWF0IHdhcyB3aGF0IExvdWlzZSBzYWlkIHNoZSBtaXNzZWQgbW9zdDsgc2hlIGNvdWxkbid0IHN0YW5kIHRoZSBzaWxlbmNlLCBzaGUgdG9sZCBEYW5ueSwgYW5kIGpva2VkIDxmb250IGlkPTg+YWJvdXQgcGF5aW5nIGEgbmVpZ2hib3Job29kIGNoaWxkIHRvIHBsYXkgaGFuZGJhbGwgYWdhaW5zdCBoZXIgZ2FyYWdlPC9mb250Pi4gQW5kIGxhdGVyLCB3aGVuIGhlIHdhcyBsaXZpbmcgaW4gdGhlIEVhc3QgYW5kIHdlbnQgaG9tZSBmb3IgdmlzaXRzLCBoZSdkIGZpbmQgdGhlIHJlZCBiYWxsIHdhaXRpbmcgZm9yIGhpbSBvbiBoaXMgYmVkLCBhbmQgc29tZXRpbWVzLCB3aGVuIGhlIGhhZCBzb21ldGhpbmcgdG8gdGhpbmsgdGhyb3VnaDsgaGUnZCB0YWtlIGl0IHVwIGFuZCBib3VuY2UgaXQsIHRob3VnaCBpdCB3YXMgc29mdCB3aGVyZSBvbmNlIGl0IGhhZCBiZWVuIHRpZ2h0LCBhbmQgcmlkZGxlZCB3aXRoIHRpbnksIHVuc2VhbGFibGUgaG9sZXMuIExvdWlzZSwgZG9pbmcgdGhlIGRpc2hlcyBvciBpcm9uaW5nLCBmZWx0IGEgcmFyZSBwZWFjZWZ1bG5lc3MgY29tZSBvdmVyIGhlciBhcyBzaGUgbGlzdGVuZWQgdG8gdGhhdCBmYW1pbGlhciB0aHVtcGluZyBvZiBoZXIgc29uIGFuZCBoaXMgYmFsbCBvdXRzaWRlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Danny remembered <font id=9>those hours bouncing the ball</font> as ones of supreme contentment and security. He had a vision, sometimes, of Wall Street at rush hour, men in business suits, women in pastel-colored tennis shoes, but not hurrying as usual toward the subway; instead, they are just shuffling along, bouncing, and in the world there is a sound like thunder as a thousand balls hit the pavement at once, fly again into the air, at once.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRhbm55IHJlbWVtYmVyZWQgPGZvbnQgaWQ9OT50aG9zZSBob3VycyBib3VuY2luZyB0aGUgYmFsbDwvZm9udD4gYXMgb25lcyBvZiBzdXByZW1lIGNvbnRlbnRtZW50IGFuZCBzZWN1cml0eS4gSGUgaGFkIGEgdmlzaW9uLCBzb21ldGltZXMsIG9mIFdhbGwgU3RyZWV0IGF0IHJ1c2ggaG91ciwgbWVuIGluIGJ1c2luZXNzIHN1aXRzLCB3b21lbiBpbiBwYXN0ZWwtY29sb3JlZCB0ZW5uaXMgc2hvZXMsIGJ1dCBub3QgaHVycnlpbmcgYXMgdXN1YWwgdG93YXJkIHRoZSBzdWJ3YXk7IGluc3RlYWQsIHRoZXkgYXJlIGp1c3Qgc2h1ZmZsaW5nIGFsb25nLCBib3VuY2luZywgYW5kIGluIHRoZSB3b3JsZCB0aGVyZSBpcyBhIHNvdW5kIGxpa2UgdGh1bmRlciBhcyBhIHRob3VzYW5kIGJhbGxzIGhpdCB0aGUgcGF2ZW1lbnQgYXQgb25jZSwgZmx5IGFnYWluIGludG8gdGhlIGFpciwgYXQgb25jZS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. The mood of this passage can best be described as:
-<div class = "choice">A. jubilant.</div>
-<div class = "choice">B. mournful.</div>
-<div class = "choice">C. contemplative.</div>
-<div class = "choice">D. apprehensive.</div>
-</div>
-###################
-<div class = "quiz">2. Which of the following statements is NOT supported by the passage?  .
-<div class = "choice">F. Danny experienced a lonely childhood until he reached the age of nine.</div>
-<div class = "choice">G. Danny was born too late to know his grandmother and some other extended-family members.</div>
-<div class = "choice">H. Danny's participation in some family rituals was limited primarily to looking at old photographs.</div>
-<div class = "choice">J. Danny's visits home when he was living in the East could provide him time for reflection.</div>
-</div>
-###################
-<div class = "quiz">3. In the second paragraph (lines 13-45), the narrator primarily emphasizes Danny's sense of:
-<div class = "choice">A. estrangement from his mother.</div>
-<div class = "choice">B. rivalry with his older sister April.</div>
-<div class = "choice">C. anxiety about the cousins and grandparents that he has never met.</div>
-<div class = "choice">D. curiosity about what his extended family was like before he was born.</div>
-</div>
-###################
-<div class = "quiz">4. In the passage, the red rubber ball represents all of the following EXCEPT:
-<div class = "choice">F. a young boy's only friend while growing up.</div>
-<div class = "choice">G. an object that stimulates the imagination.</div>
-<div class = "choice">H. the link between a young man's past and present.</div>
-<div class = "choice">J. a welcome distraction from silence.</div>
-</div>
-###################
-<div class = "quiz">5. The passage suggests that as Danny grew older, April became more:
-<div class = "choice">A. comprehensible to him.</div>
-<div class = "choice">B. emotionally distant.</div>
-<div class = "choice">C. dependent on her family.</div>
-<div class = "choice">D. vital to his success.</div>
-</div>
-###################
-<div class = "quiz">6. The narrator points out that studying the pictures "was like homework" (line 26) for Danny primarily to emphasize his:
-<div class = "choice">F. lack of interest in sitting down with his mother every night to look at old family pictures.</div>
-<div class = "choice">G. intense desire to know where he fit in this larger extended family.</div>
-<div class = "choice">H. unpleasant experiences in school doing homework.</div>
-<div class = "choice">J. commitment to getting to know his extended-family members as fully as possible before he met them at the next reunion.</div>
-</div>
-###################
-<div class = "quiz">7. According to the passage, which of the following ultimately enables Danny to recognize the young couple pictured in some old pictures as Louise and Nat?
-<div class = "choice">A. The presence of his grandmother and Aunt Eleanor in many of the same pictures</div>
-<div class = "choice">B. The couple's animated gestures captured in the pictures</div>
-<div class = "choice">C. The names Markie and Joanne written on several of the old pictures</div>
-<div class = "choice">D. Some of his parents' distinguishing physical characteristics</div>
-</div>
-###################
-<div class = "quiz">8. When Louise jokes with Danny "about paying a neighborhood child to play handball against her garage" (lines 69-71), she is most likely trying to tell Danny that she:
-<div class = "choice">F. remembers the marks he made when he used to throw the handball against the garage.</div>
-<div class = "choice">G. thinks of him often as being more special than April when he was younger.</div>
-<div class = "choice">H. values the memory of that activity he engaged in while growing up and still at home.</div>
-<div class = "choice">J. longs for him to attend college closer to home so she can see him more often.</div>
-</div>
-###################
-<div class = "quiz">9. "Those hours bouncing the ball" (line 80) are said in the passage to take place during all of the following activities EXCEPT Danny's:
-<div class = "choice">A. after-school walks when he was growing up.</div>
-<div class = "choice">B. visits home when he lived in the East.</div>
-<div class = "choice">C. predusk efforts to make up songs for April to sing.</div>
-<div class = "choice">D. long walks while at college recalling the past.</div>
-</div>
-###################
-<div class = "quiz">10. According to the passage, while looking at his family's old pictures; Danny's moment of greatest surprise occurs when:
-<div class = "choice">F. his attention is drawn to a series of beach pictures that are faded in color.</div>
-<div class = "choice">G. he recognizes April's slightly upturned lip and blazing dark eyes.</div>
-<div class = "choice">H. he discovers a picture with the caption "Daddy puts April in her bath."</div>
-<div class = "choice">J. Louise responds to one of his questions by saying, "That is your mommy holding you."</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgbW9vZCBvZiB0aGlzIHBhc3NhZ2UgY2FuIGJlc3QgYmUgZGVzY3JpYmVkIGFzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGp1YmlsYW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vdXJuZnVsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbnRlbXBsYXRpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFwcHJlaGVuc2l2ZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgaXMgTk9UIHN1cHBvcnRlZCBieSB0aGUgcGFzc2FnZT8gIC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIERhbm55IGV4cGVyaWVuY2VkIGEgbG9uZWx5IGNoaWxkaG9vZCB1bnRpbCBoZSByZWFjaGVkIHRoZSBhZ2Ugb2YgbmluZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIERhbm55IHdhcyBib3JuIHRvbyBsYXRlIHRvIGtub3cgaGlzIGdyYW5kbW90aGVyIGFuZCBzb21lIG90aGVyIGV4dGVuZGVkLWZhbWlseSBtZW1iZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIERhbm55J3MgcGFydGljaXBhdGlvbiBpbiBzb21lIGZhbWlseSByaXR1YWxzIHdhcyBsaW1pdGVkIHByaW1hcmlseSB0byBsb29raW5nIGF0IG9sZCBwaG90b2dyYXBocy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERhbm55J3MgdmlzaXRzIGhvbWUgd2hlbiBoZSB3YXMgbGl2aW5nIGluIHRoZSBFYXN0IGNvdWxkIHByb3ZpZGUgaGltIHRpbWUgZm9yIHJlZmxlY3Rpb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBJbiB0aGUgc2Vjb25kIHBhcmFncmFwaCAobGluZXMgMTMtNDUpLCB0aGUgbmFycmF0b3IgcHJpbWFyaWx5IGVtcGhhc2l6ZXMgRGFubnkncyBzZW5zZSBvZjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGVzdHJhbmdlbWVudCBmcm9tIGhpcyBtb3RoZXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJpdmFscnkgd2l0aCBoaXMgb2xkZXIgc2lzdGVyIEFwcmlsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFueGlldHkgYWJvdXQgdGhlIGNvdXNpbnMgYW5kIGdyYW5kcGFyZW50cyB0aGF0IGhlIGhhcyBuZXZlciBtZXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGN1cmlvc2l0eSBhYm91dCB3aGF0IGhpcyBleHRlbmRlZCBmYW1pbHkgd2FzIGxpa2UgYmVmb3JlIGhlIHdhcyBib3JuLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBJbiB0aGUgcGFzc2FnZSwgdGhlIHJlZCBydWJiZXIgYmFsbCByZXByZXNlbnRzIGFsbCBvZiB0aGUgZm9sbG93aW5nIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEgeW91bmcgYm95J3Mgb25seSBmcmllbmQgd2hpbGUgZ3Jvd2luZyB1cC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIG9iamVjdCB0aGF0IHN0aW11bGF0ZXMgdGhlIGltYWdpbmF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBsaW5rIGJldHdlZW4gYSB5b3VuZyBtYW4ncyBwYXN0IGFuZCBwcmVzZW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgd2VsY29tZSBkaXN0cmFjdGlvbiBmcm9tIHNpbGVuY2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBUaGUgcGFzc2FnZSBzdWdnZXN0cyB0aGF0IGFzIERhbm55IGdyZXcgb2xkZXIsIEFwcmlsIGJlY2FtZSBtb3JlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbXByZWhlbnNpYmxlIHRvIGhpbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVtb3Rpb25hbGx5IGRpc3RhbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRlcGVuZGVudCBvbiBoZXIgZmFtaWx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHZpdGFsIHRvIGhpcyBzdWNjZXNzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBUaGUgbmFycmF0b3IgcG9pbnRzIG91dCB0aGF0IHN0dWR5aW5nIHRoZSBwaWN0dXJlcyAid2FzIGxpa2UgaG9tZXdvcmsiIChsaW5lIDI2KSBmb3IgRGFubnkgcHJpbWFyaWx5IHRvIGVtcGhhc2l6ZSBoaXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxhY2sgb2YgaW50ZXJlc3QgaW4gc2l0dGluZyBkb3duIHdpdGggaGlzIG1vdGhlciBldmVyeSBuaWdodCB0byBsb29rIGF0IG9sZCBmYW1pbHkgcGljdHVyZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGludGVuc2UgZGVzaXJlIHRvIGtub3cgd2hlcmUgaGUgZml0IGluIHRoaXMgbGFyZ2VyIGV4dGVuZGVkIGZhbWlseS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVucGxlYXNhbnQgZXhwZXJpZW5jZXMgaW4gc2Nob29sIGRvaW5nIGhvbWV3b3JrLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvbW1pdG1lbnQgdG8gZ2V0dGluZyB0byBrbm93IGhpcyBleHRlbmRlZC1mYW1pbHkgbWVtYmVycyBhcyBmdWxseSBhcyBwb3NzaWJsZSBiZWZvcmUgaGUgbWV0IHRoZW0gYXQgdGhlIG5leHQgcmV1bmlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBBY2NvcmRpbmcgdG8gdGhlIHBhc3NhZ2UsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgdWx0aW1hdGVseSBlbmFibGVzIERhbm55IHRvIHJlY29nbml6ZSB0aGUgeW91bmcgY291cGxlIHBpY3R1cmVkIGluIHNvbWUgb2xkIHBpY3R1cmVzIGFzIExvdWlzZSBhbmQgTmF0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBwcmVzZW5jZSBvZiBoaXMgZ3JhbmRtb3RoZXIgYW5kIEF1bnQgRWxlYW5vciBpbiBtYW55IG9mIHRoZSBzYW1lIHBpY3R1cmVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBjb3VwbGUncyBhbmltYXRlZCBnZXN0dXJlcyBjYXB0dXJlZCBpbiB0aGUgcGljdHVyZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBuYW1lcyBNYXJraWUgYW5kIEpvYW5uZSB3cml0dGVuIG9uIHNldmVyYWwgb2YgdGhlIG9sZCBwaWN0dXJlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNvbWUgb2YgaGlzIHBhcmVudHMnIGRpc3Rpbmd1aXNoaW5nIHBoeXNpY2FsIGNoYXJhY3RlcmlzdGljczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBXaGVuIExvdWlzZSBqb2tlcyB3aXRoIERhbm55ICJhYm91dCBwYXlpbmcgYSBuZWlnaGJvcmhvb2QgY2hpbGQgdG8gcGxheSBoYW5kYmFsbCBhZ2FpbnN0IGhlciBnYXJhZ2UiIChsaW5lcyA2OS03MSksIHNoZSBpcyBtb3N0IGxpa2VseSB0cnlpbmcgdG8gdGVsbCBEYW5ueSB0aGF0IHNoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJlbWVtYmVycyB0aGUgbWFya3MgaGUgbWFkZSB3aGVuIGhlIHVzZWQgdG8gdGhyb3cgdGhlIGhhbmRiYWxsIGFnYWluc3QgdGhlIGdhcmFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoaW5rcyBvZiBoaW0gb2Z0ZW4gYXMgYmVpbmcgbW9yZSBzcGVjaWFsIHRoYW4gQXByaWwgd2hlbiBoZSB3YXMgeW91bmdlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHZhbHVlcyB0aGUgbWVtb3J5IG9mIHRoYXQgYWN0aXZpdHkgaGUgZW5nYWdlZCBpbiB3aGlsZSBncm93aW5nIHVwIGFuZCBzdGlsbCBhdCBob21lLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxvbmdzIGZvciBoaW0gdG8gYXR0ZW5kIGNvbGxlZ2UgY2xvc2VyIHRvIGhvbWUgc28gc2hlIGNhbiBzZWUgaGltIG1vcmUgb2Z0ZW4uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiAiVGhvc2UgaG91cnMgYm91bmNpbmcgdGhlIGJhbGwiIChsaW5lIDgwKSBhcmUgc2FpZCBpbiB0aGUgcGFzc2FnZSB0byB0YWtlIHBsYWNlIGR1cmluZyBhbGwgb2YgdGhlIGZvbGxvd2luZyBhY3Rpdml0aWVzIEVYQ0VQVCBEYW5ueSdzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFmdGVyLXNjaG9vbCB3YWxrcyB3aGVuIGhlIHdhcyBncm93aW5nIHVwLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHZpc2l0cyBob21lIHdoZW4gaGUgbGl2ZWQgaW4gdGhlIEVhc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByZWR1c2sgZWZmb3J0cyB0byBtYWtlIHVwIHNvbmdzIGZvciBBcHJpbCB0byBzaW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxvbmcgd2Fsa3Mgd2hpbGUgYXQgY29sbGVnZSByZWNhbGxpbmcgdGhlIHBhc3QuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGlsZSBsb29raW5nIGF0IGhpcyBmYW1pbHkncyBvbGQgcGljdHVyZXM7IERhbm55J3MgbW9tZW50IG9mIGdyZWF0ZXN0IHN1cnByaXNlIG9jY3VycyB3aGVuOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhpcyBhdHRlbnRpb24gaXMgZHJhd24gdG8gYSBzZXJpZXMgb2YgYmVhY2ggcGljdHVyZXMgdGhhdCBhcmUgZmFkZWQgaW4gY29sb3IuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhlIHJlY29nbml6ZXMgQXByaWwncyBzbGlnaHRseSB1cHR1cm5lZCBsaXAgYW5kIGJsYXppbmcgZGFyayBleWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhlIGRpc2NvdmVycyBhIHBpY3R1cmUgd2l0aCB0aGUgY2FwdGlvbiAiRGFkZHkgcHV0cyBBcHJpbCBpbiBoZXIgYmF0aC4iPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIExvdWlzZSByZXNwb25kcyB0byBvbmUgb2YgaGlzIHF1ZXN0aW9ucyBieSBzYXlpbmcsICJUaGF0IGlzIHlvdXIgbW9tbXkgaG9sZGluZyB5b3UuIjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

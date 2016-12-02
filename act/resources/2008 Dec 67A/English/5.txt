@@ -1,124 +1,124 @@
-<h1>Visiting Mars on a budget</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">With its distinctive red tint and its polar ice caps, the planet Mars has fascinated humans for thousands of years. <font id=61>There were</font> ancient Babylonian astronomers who associated Mars with their war god Negral, to twentieth-century science fiction writers <font id=62>whose works become best-sellers,</font> this planet has often been a symbol of ill will and danger.</div>
+PGgxPlZpc2l0aW5nIE1hcnMgb24gYSBidWRnZXQ8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldpdGggaXRzIGRpc3RpbmN0aXZlIHJlZCB0aW50IGFuZCBpdHMgcG9sYXIgaWNlIGNhcHMsIHRoZSBwbGFuZXQgTWFycyBoYXMgZmFzY2luYXRlZCBodW1hbnMgZm9yIHRob3VzYW5kcyBvZiB5ZWFycy4gPGZvbnQgaWQ9NjE+VGhlcmUgd2VyZTwvZm9udD4gYW5jaWVudCBCYWJ5bG9uaWFuIGFzdHJvbm9tZXJzIHdobyBhc3NvY2lhdGVkIE1hcnMgd2l0aCB0aGVpciB3YXIgZ29kIE5lZ3JhbCwgdG8gdHdlbnRpZXRoLWNlbnR1cnkgc2NpZW5jZSBmaWN0aW9uIHdyaXRlcnMgPGZvbnQgaWQ9NjI+d2hvc2Ugd29ya3MgYmVjb21lIGJlc3Qtc2VsbGVycyw8L2ZvbnQ+IHRoaXMgcGxhbmV0IGhhcyBvZnRlbiBiZWVuIGEgc3ltYm9sIG9mIGlsbCB3aWxsIGFuZCBkYW5nZXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=63>The United States has competed with other countries to explore space.</font> By 2003, the National Aeronautics and Space Administration (NASA) <font id=64>would of sent</font> thirty spacecraft to the red planet, <font id=65>speculation has been prompted</font> that a human voyage may no longer be the stuff of fiction. <font id=66>Few</font> would deny that the idea of a human mission to Mars is exciting, who is ready to pay for such an expedition? Recent reports suggest that the cost of a human voyage to Mars could run as high as 100 billion dollars. This is a startling number, especially in light of the fact that the International Space Station, the most ambitious NASA project <font id=67>yet</font>, carried a projected price tag of "only" 17 billion dollars. In the end,. NASA overspent on the International Space Station.<font id=68>68</font> One can only imagine <font id=69>if</font> the final price of a human voyage to Mars would be.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTYzPlRoZSBVbml0ZWQgU3RhdGVzIGhhcyBjb21wZXRlZCB3aXRoIG90aGVyIGNvdW50cmllcyB0byBleHBsb3JlIHNwYWNlLjwvZm9udD4gQnkgMjAwMywgdGhlIE5hdGlvbmFsIEFlcm9uYXV0aWNzIGFuZCBTcGFjZSBBZG1pbmlzdHJhdGlvbiAoTkFTQSkgPGZvbnQgaWQ9NjQ+d291bGQgb2Ygc2VudDwvZm9udD4gdGhpcnR5IHNwYWNlY3JhZnQgdG8gdGhlIHJlZCBwbGFuZXQsIDxmb250IGlkPTY1PnNwZWN1bGF0aW9uIGhhcyBiZWVuIHByb21wdGVkPC9mb250PiB0aGF0IGEgaHVtYW4gdm95YWdlIG1heSBubyBsb25nZXIgYmUgdGhlIHN0dWZmIG9mIGZpY3Rpb24uIDxmb250IGlkPTY2PkZldzwvZm9udD4gd291bGQgZGVueSB0aGF0IHRoZSBpZGVhIG9mIGEgaHVtYW4gbWlzc2lvbiB0byBNYXJzIGlzIGV4Y2l0aW5nLCB3aG8gaXMgcmVhZHkgdG8gcGF5IGZvciBzdWNoIGFuIGV4cGVkaXRpb24/IFJlY2VudCByZXBvcnRzIHN1Z2dlc3QgdGhhdCB0aGUgY29zdCBvZiBhIGh1bWFuIHZveWFnZSB0byBNYXJzIGNvdWxkIHJ1biBhcyBoaWdoIGFzIDEwMCBiaWxsaW9uIGRvbGxhcnMuIFRoaXMgaXMgYSBzdGFydGxpbmcgbnVtYmVyLCBlc3BlY2lhbGx5IGluIGxpZ2h0IG9mIHRoZSBmYWN0IHRoYXQgdGhlIEludGVybmF0aW9uYWwgU3BhY2UgU3RhdGlvbiwgdGhlIG1vc3QgYW1iaXRpb3VzIE5BU0EgcHJvamVjdCA8Zm9udCBpZD02Nz55ZXQ8L2ZvbnQ+LCBjYXJyaWVkIGEgcHJvamVjdGVkIHByaWNlIHRhZyBvZiAib25seSIgMTcgYmlsbGlvbiBkb2xsYXJzLiBJbiB0aGUgZW5kLC4gTkFTQSBvdmVyc3BlbnQgb24gdGhlIEludGVybmF0aW9uYWwgU3BhY2UgU3RhdGlvbi48Zm9udCBpZD02OD42ODwvZm9udD4gT25lIGNhbiBvbmx5IGltYWdpbmUgPGZvbnQgaWQ9Njk+aWY8L2ZvbnQ+IHRoZSBmaW5hbCBwcmljZSBvZiBhIGh1bWFuIHZveWFnZSB0byBNYXJzIHdvdWxkIGJlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In contrast, the two Mars Rovers— <font id=70>robotic spacecraft launched in 2003—</font> carried a-combined price tag of less than one billion dollars. These Rovers are sophisticated pieces of technology, with the <font id=71>capacity and ability</font> to examine soil and rocks. Their equipment may answer questions that have long been posed about the presence of water and life on Mars.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGNvbnRyYXN0LCB0aGUgdHdvIE1hcnMgUm92ZXJz4oA/IDxmb250IGlkPTcwPnJvYm90aWMgc3BhY2VjcmFmdCBsYXVuY2hlZCBpbiAyMDAz4oA/PC9mb250PiBjYXJyaWVkIGEtY29tYmluZWQgcHJpY2UgdGFnIG9mIGxlc3MgdGhhbiBvbmUgYmlsbGlvbiBkb2xsYXJzLiBUaGVzZSBSb3ZlcnMgYXJlIHNvcGhpc3RpY2F0ZWQgcGllY2VzIG9mIHRlY2hub2xvZ3ksIHdpdGggdGhlIDxmb250IGlkPTcxPmNhcGFjaXR5IGFuZCBhYmlsaXR5PC9mb250PiB0byBleGFtaW5lIHNvaWwgYW5kIHJvY2tzLiBUaGVpciBlcXVpcG1lbnQgbWF5IGFuc3dlciBxdWVzdGlvbnMgdGhhdCBoYXZlIGxvbmcgYmVlbiBwb3NlZCBhYm91dCB0aGUgcHJlc2VuY2Ugb2Ygd2F0ZXIgYW5kIGxpZmUgb24gTWFycy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sending machines unaccompanied by humans to Mars does drain some of the romance out of <font id=72>aging or older</font> visions of space, travel. <font id=73>In other words,</font> we need to keep in mind that the right equipment can accomplish as much as any crew of scientists, if not more—<font id=74>such as</font> a fraction of the cost. Before any astronaut boards a spacecraft for that distant planet, the staggering expense of such a mission should be carefully considered.<font id=75>75</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNlbmRpbmcgbWFjaGluZXMgdW5hY2NvbXBhbmllZCBieSBodW1hbnMgdG8gTWFycyBkb2VzIGRyYWluIHNvbWUgb2YgdGhlIHJvbWFuY2Ugb3V0IG9mIDxmb250IGlkPTcyPmFnaW5nIG9yIG9sZGVyPC9mb250PiB2aXNpb25zIG9mIHNwYWNlLCB0cmF2ZWwuIDxmb250IGlkPTczPkluIG90aGVyIHdvcmRzLDwvZm9udD4gd2UgbmVlZCB0byBrZWVwIGluIG1pbmQgdGhhdCB0aGUgcmlnaHQgZXF1aXBtZW50IGNhbiBhY2NvbXBsaXNoIGFzIG11Y2ggYXMgYW55IGNyZXcgb2Ygc2NpZW50aXN0cywgaWYgbm90IG1vcmXigD88Zm9udCBpZD03ND5zdWNoIGFzPC9mb250PiBhIGZyYWN0aW9uIG9mIHRoZSBjb3N0LiBCZWZvcmUgYW55IGFzdHJvbmF1dCBib2FyZHMgYSBzcGFjZWNyYWZ0IGZvciB0aGF0IGRpc3RhbnQgcGxhbmV0LCB0aGUgc3RhZ2dlcmluZyBleHBlbnNlIG9mIHN1Y2ggYSBtaXNzaW9uIHNob3VsZCBiZSBjYXJlZnVsbHkgY29uc2lkZXJlZC48Zm9udCBpZD03NT43NTwvZm9udD48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NOCHANGE</div>
-<div class = "choice">B. When</div>
-<div class = "choice">C. From</div>
-<div class = "choice">D. Those</div>
-</div>
-###################
-<div class = "quiz">62. Given that all the choices are true, which one is most relevant to the statement that follows in this sentence?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. with their wild imaginations about outer space,</div>
-<div class = "choice">H. who penned spine-tingling stories of "little green men from Mars,"</div>
-<div class = "choice">J. who created images of Mars in literature,</div>
-</div>
-###################
-<div class = "quiz">63. Given that all the choices are true, which one best leads from the preceding paragraph to the subject of this paragraph?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Today, such negative associations seem to be dissipating.</div>
-<div class = "choice">C. In 1958, the United States founded an agency to • run its space program.</div>
-<div class = "choice">D. Earth and Mars are both planets in the inner solar system.</div>
-</div>
-###################
-<div class = "quiz">64.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. had sent</div>
-<div class = "choice">H. send</div>
-<div class = "choice">J. have sent</div>
-</div>
-###################
-<div class = "quiz">65.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. to which speculation has prompted</div>
-<div class = "choice">C. prompting speculation .</div>
-<div class = "choice">D. which is speculation</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Maybe a few</div>
-<div class = "choice">H. Although few</div>
-<div class = "choice">J. Few, if any,</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. yet</div>
-<div class = "choice">C. yet:</div>
-<div class = "choice">D. yet—</div>
-</div>
-###################
-<div class = "quiz">68. The writer is considering adding the following true information to the end of the preceding sentence (placing a comma after the word Station):
-with a final construction cost of almost 30 billion dollars.
-Should the writer make this addition?
-<div class = "choice">F. Yes, because it strengthens the assertion made in this sentence by adding explicit detail.</div>
-<div class = "choice">G. Yes, because- it proves space flight will be more affordable in the future.</div>
-<div class = "choice">H. No, because it weakens the point made in the paragraph about the cost of human flight to Mars.</div>
-<div class = "choice">J. No, because detracts from the essay's focus on the human experience in travel to Mars.</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. what</div>
-<div class = "choice">C. how</div>
-<div class = "choice">D. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">70. Given that all the choices are true, which one most effectively describes what the Mars Rovers are?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. which captured the imagination of the general public—</div>
-<div class = "choice">H. the products described at length in the media—</div>
-<div class = "choice">J. familiar to many who watched the news coverage at the time—</div>
-</div>
-###################
-<div class = "quiz">71.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. genuine capacity</div>
-<div class = "choice">C. potential capacity</div>
-<div class = "choice">D. capacity</div>
-</div>
-###################
-<div class = "quiz">72.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. old-age</div>
-<div class = "choice">H. aging, old</div>
-<div class = "choice">J. age-old</div>
-</div>
-###################
-<div class = "quiz">73.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. For that reason alone,</div>
-<div class = "choice">C. In that time frame,</div>
-<div class = "choice">D. Even so,</div>
-</div>
-###################
-<div class = "quiz">74.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. at</div>
-<div class = "choice">H. but only</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">75. The writer is considering ending the essay with the following statement:
-With the passage of time, humans will continue to gaze in awe toward the heavenly skies as a source of inspiration and mystery.
-Should the writer add this sentence here?
-<div class = "choice">A. Yes, because it captures the emotion that is the basis for the space exploration described in the essay.</div>
-<div class = "choice">B. Yes, because it invites the reader to reflect on the insignificance of money in relation to the mystery of space.</div>
-<div class = "choice">C. No, because it does not logically follow the essay's chronological history of people who traveled in space.</div>
-<div class = "choice">D. No, because it strays too far from the essay's focus on Mars and the cost of sending humans there.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PQ0hBTkdFPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFdoZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZyb208L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRob3NlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBpcyBtb3N0IHJlbGV2YW50IHRvIHRoZSBzdGF0ZW1lbnQgdGhhdCBmb2xsb3dzIGluIHRoaXMgc2VudGVuY2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdpdGggdGhlaXIgd2lsZCBpbWFnaW5hdGlvbnMgYWJvdXQgb3V0ZXIgc3BhY2UsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdobyBwZW5uZWQgc3BpbmUtdGluZ2xpbmcgc3RvcmllcyBvZiAibGl0dGxlIGdyZWVuIG1lbiBmcm9tIE1hcnMsIjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdobyBjcmVhdGVkIGltYWdlcyBvZiBNYXJzIGluIGxpdGVyYXR1cmUsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBiZXN0IGxlYWRzIGZyb20gdGhlIHByZWNlZGluZyBwYXJhZ3JhcGggdG8gdGhlIHN1YmplY3Qgb2YgdGhpcyBwYXJhZ3JhcGg/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRvZGF5LCBzdWNoIG5lZ2F0aXZlIGFzc29jaWF0aW9ucyBzZWVtIHRvIGJlIGRpc3NpcGF0aW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEluIDE5NTgsIHRoZSBVbml0ZWQgU3RhdGVzIGZvdW5kZWQgYW4gYWdlbmN5IHRvIOKAPyBydW4gaXRzIHNwYWNlIHByb2dyYW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEVhcnRoIGFuZCBNYXJzIGFyZSBib3RoIHBsYW5ldHMgaW4gdGhlIGlubmVyIHNvbGFyIHN5c3RlbS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhZCBzZW50PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNlbmQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhdmUgc2VudDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRvIHdoaWNoIHNwZWN1bGF0aW9uIGhhcyBwcm9tcHRlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByb21wdGluZyBzcGVjdWxhdGlvbiAuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdoaWNoIGlzIHNwZWN1bGF0aW9uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE1heWJlIGEgZmV3PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFsdGhvdWdoIGZldzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZldywgaWYgYW55LDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHlldDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHlldDo8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHlldOKAPzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIGluZm9ybWF0aW9uIHRvIHRoZSBlbmQgb2YgdGhlIHByZWNlZGluZyBzZW50ZW5jZSAocGxhY2luZyBhIGNvbW1hIGFmdGVyIHRoZSB3b3JkIFN0YXRpb24pOg==
+d2l0aCBhIGZpbmFsIGNvbnN0cnVjdGlvbiBjb3N0IG9mIGFsbW9zdCAzMCBiaWxsaW9uIGRvbGxhcnMu
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGlzIGFkZGl0aW9uPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSBpdCBzdHJlbmd0aGVucyB0aGUgYXNzZXJ0aW9uIG1hZGUgaW4gdGhpcyBzZW50ZW5jZSBieSBhZGRpbmcgZXhwbGljaXQgZGV0YWlsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZS0gaXQgcHJvdmVzIHNwYWNlIGZsaWdodCB3aWxsIGJlIG1vcmUgYWZmb3JkYWJsZSBpbiB0aGUgZnV0dXJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIGl0IHdlYWtlbnMgdGhlIHBvaW50IG1hZGUgaW4gdGhlIHBhcmFncmFwaCBhYm91dCB0aGUgY29zdCBvZiBodW1hbiBmbGlnaHQgdG8gTWFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGRldHJhY3RzIGZyb20gdGhlIGVzc2F5J3MgZm9jdXMgb24gdGhlIGh1bWFuIGV4cGVyaWVuY2UgaW4gdHJhdmVsIHRvIE1hcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhvdzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBtb3N0IGVmZmVjdGl2ZWx5IGRlc2NyaWJlcyB3aGF0IHRoZSBNYXJzIFJvdmVycyBhcmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoaWNoIGNhcHR1cmVkIHRoZSBpbWFnaW5hdGlvbiBvZiB0aGUgZ2VuZXJhbCBwdWJsaWPigD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZSBwcm9kdWN0cyBkZXNjcmliZWQgYXQgbGVuZ3RoIGluIHRoZSBtZWRpYeKAPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZhbWlsaWFyIHRvIG1hbnkgd2hvIHdhdGNoZWQgdGhlIG5ld3MgY292ZXJhZ2UgYXQgdGhlIHRpbWXigD88L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGdlbnVpbmUgY2FwYWNpdHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBvdGVudGlhbCBjYXBhY2l0eTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNhcGFjaXR5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG9sZC1hZ2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFnaW5nLCBvbGQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFnZS1vbGQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZvciB0aGF0IHJlYXNvbiBhbG9uZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEluIHRoYXQgdGltZSBmcmFtZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEV2ZW4gc28sPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJ1dCBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBlbmRpbmcgdGhlIGVzc2F5IHdpdGggdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnQ6
+V2l0aCB0aGUgcGFzc2FnZSBvZiB0aW1lLCBodW1hbnMgd2lsbCBjb250aW51ZSB0byBnYXplIGluIGF3ZSB0b3dhcmQgdGhlIGhlYXZlbmx5IHNraWVzIGFzIGEgc291cmNlIG9mIGluc3BpcmF0aW9uIGFuZCBteXN0ZXJ5Lg==
+U2hvdWxkIHRoZSB3cml0ZXIgYWRkIHRoaXMgc2VudGVuY2UgaGVyZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBjYXB0dXJlcyB0aGUgZW1vdGlvbiB0aGF0IGlzIHRoZSBiYXNpcyBmb3IgdGhlIHNwYWNlIGV4cGxvcmF0aW9uIGRlc2NyaWJlZCBpbiB0aGUgZXNzYXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBpbnZpdGVzIHRoZSByZWFkZXIgdG8gcmVmbGVjdCBvbiB0aGUgaW5zaWduaWZpY2FuY2Ugb2YgbW9uZXkgaW4gcmVsYXRpb24gdG8gdGhlIG15c3Rlcnkgb2Ygc3BhY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IGRvZXMgbm90IGxvZ2ljYWxseSBmb2xsb3cgdGhlIGVzc2F5J3MgY2hyb25vbG9naWNhbCBoaXN0b3J5IG9mIHBlb3BsZSB3aG8gdHJhdmVsZWQgaW4gc3BhY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IHN0cmF5cyB0b28gZmFyIGZyb20gdGhlIGVzc2F5J3MgZm9jdXMgb24gTWFycyBhbmQgdGhlIGNvc3Qgb2Ygc2VuZGluZyBodW1hbnMgdGhlcmUuPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

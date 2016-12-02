@@ -1,89 +1,89 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "The Social Life of Paper" by Malcolm Gladwell (?2002 by The Conde Nast Publications).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Computer technology was supposed to replace paper. But that hasn't happened. Every country in the Western world uses more paper today, on a per-capita basis, than it did ten years ago. The consumption of uncoated free-sheet paper, for instance—the most common kind of office paper—rose almost fifteen per cent in the United States between 1995 and 2000. This is generally taken as evidence of how hard it is to eradicate old, wasteful habits and of how stubbornly resistant we are to the efficiencies offered by computerization. A number of cognitive psychologists and ergonomic experts, however, don't agree. Paper has persisted, they argue, for very good reasons: when it comes to performing certain kinds of cognitive tasks, paper has many advantages over computers.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlICJUaGUgU29jaWFsIExpZmUgb2YgUGFwZXIiIGJ5IE1hbGNvbG0gR2xhZHdlbGwgKD8yMDAyIGJ5IFRoZSBDb25kZSBOYXN0IFB1YmxpY2F0aW9ucykuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkNvbXB1dGVyIHRlY2hub2xvZ3kgd2FzIHN1cHBvc2VkIHRvIHJlcGxhY2UgcGFwZXIuIEJ1dCB0aGF0IGhhc24ndCBoYXBwZW5lZC4gRXZlcnkgY291bnRyeSBpbiB0aGUgV2VzdGVybiB3b3JsZCB1c2VzIG1vcmUgcGFwZXIgdG9kYXksIG9uIGEgcGVyLWNhcGl0YSBiYXNpcywgdGhhbiBpdCBkaWQgdGVuIHllYXJzIGFnby4gVGhlIGNvbnN1bXB0aW9uIG9mIHVuY29hdGVkIGZyZWUtc2hlZXQgcGFwZXIsIGZvciBpbnN0YW5jZeKAlHRoZSBtb3N0IGNvbW1vbiBraW5kIG9mIG9mZmljZSBwYXBlcuKAlHJvc2UgYWxtb3N0IGZpZnRlZW4gcGVyIGNlbnQgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgYmV0d2VlbiAxOTk1IGFuZCAyMDAwLiBUaGlzIGlzIGdlbmVyYWxseSB0YWtlbiBhcyBldmlkZW5jZSBvZiBob3cgaGFyZCBpdCBpcyB0byBlcmFkaWNhdGUgb2xkLCB3YXN0ZWZ1bCBoYWJpdHMgYW5kIG9mIGhvdyBzdHViYm9ybmx5IHJlc2lzdGFudCB3ZSBhcmUgdG8gdGhlIGVmZmljaWVuY2llcyBvZmZlcmVkIGJ5IGNvbXB1dGVyaXphdGlvbi4gQSBudW1iZXIgb2YgY29nbml0aXZlIHBzeWNob2xvZ2lzdHMgYW5kIGVyZ29ub21pYyBleHBlcnRzLCBob3dldmVyLCBkb24ndCBhZ3JlZS4gUGFwZXIgaGFzIHBlcnNpc3RlZCwgdGhleSBhcmd1ZSwgZm9yIHZlcnkgZ29vZCByZWFzb25zOiB3aGVuIGl0IGNvbWVzIHRvIHBlcmZvcm1pbmcgY2VydGFpbiBraW5kcyBvZiBjb2duaXRpdmUgdGFza3MsIHBhcGVyIGhhcyBtYW55IGFkdmFudGFnZXMgb3ZlciBjb21wdXRlcnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The case for paper is made most eloquently in The Myth of the Paperless Office, by two social scientists, Abigail Sellen and Richard Harper. They begin their book with an account of a study they conducted at the International Monetary Fund, in Washington, D.C. Economists at the IMF spend most of their time writing reports on complicated economic questions, work that would seem to be perfectly suited to sitting in front of a computer. Nonetheless, the IMF is <font id=19>awash</font> in paper, and Sellen and Harper wanted to find out why. Their answer is that the business of writing reports—at least at the IMF—is an intensely collaborative process, involving the professional judgments and contributions of many people. <font id=18>The economists bring drafts of reports to conference rooms, spread out the relevant pages, and negotiate changes with one another. They go back to their offices and jot down comments in the margin, taking advantage of the freedom offered by the informality of the handwritten note. Then they deliver the annotated draft to the author in person, taking him or her, page by page, through the suggested changes. At the end of the process, the author spreads out all the pages with comments on a desk and starts to enter them on the computer—moving the pages around, organizing and reorganizing, saving and discarding. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBjYXNlIGZvciBwYXBlciBpcyBtYWRlIG1vc3QgZWxvcXVlbnRseSBpbiBUaGUgTXl0aCBvZiB0aGUgUGFwZXJsZXNzIE9mZmljZSwgYnkgdHdvIHNvY2lhbCBzY2llbnRpc3RzLCBBYmlnYWlsIFNlbGxlbiBhbmQgUmljaGFyZCBIYXJwZXIuIFRoZXkgYmVnaW4gdGhlaXIgYm9vayB3aXRoIGFuIGFjY291bnQgb2YgYSBzdHVkeSB0aGV5IGNvbmR1Y3RlZCBhdCB0aGUgSW50ZXJuYXRpb25hbCBNb25ldGFyeSBGdW5kLCBpbiBXYXNoaW5ndG9uLCBELkMuIEVjb25vbWlzdHMgYXQgdGhlIElNRiBzcGVuZCBtb3N0IG9mIHRoZWlyIHRpbWUgd3JpdGluZyByZXBvcnRzIG9uIGNvbXBsaWNhdGVkIGVjb25vbWljIHF1ZXN0aW9ucywgd29yayB0aGF0IHdvdWxkIHNlZW0gdG8gYmUgcGVyZmVjdGx5IHN1aXRlZCB0byBzaXR0aW5nIGluIGZyb250IG9mIGEgY29tcHV0ZXIuIE5vbmV0aGVsZXNzLCB0aGUgSU1GIGlzIDxmb250IGlkPTE5PmF3YXNoPC9mb250PiBpbiBwYXBlciwgYW5kIFNlbGxlbiBhbmQgSGFycGVyIHdhbnRlZCB0byBmaW5kIG91dCB3aHkuIFRoZWlyIGFuc3dlciBpcyB0aGF0IHRoZSBidXNpbmVzcyBvZiB3cml0aW5nIHJlcG9ydHPigJRhdCBsZWFzdCBhdCB0aGUgSU1G4oCUaXMgYW4gaW50ZW5zZWx5IGNvbGxhYm9yYXRpdmUgcHJvY2VzcywgaW52b2x2aW5nIHRoZSBwcm9mZXNzaW9uYWwganVkZ21lbnRzIGFuZCBjb250cmlidXRpb25zIG9mIG1hbnkgcGVvcGxlLiA8Zm9udCBpZD0xOD5UaGUgZWNvbm9taXN0cyBicmluZyBkcmFmdHMgb2YgcmVwb3J0cyB0byBjb25mZXJlbmNlIHJvb21zLCBzcHJlYWQgb3V0IHRoZSByZWxldmFudCBwYWdlcywgYW5kIG5lZ290aWF0ZSBjaGFuZ2VzIHdpdGggb25lIGFub3RoZXIuIFRoZXkgZ28gYmFjayB0byB0aGVpciBvZmZpY2VzIGFuZCBqb3QgZG93biBjb21tZW50cyBpbiB0aGUgbWFyZ2luLCB0YWtpbmcgYWR2YW50YWdlIG9mIHRoZSBmcmVlZG9tIG9mZmVyZWQgYnkgdGhlIGluZm9ybWFsaXR5IG9mIHRoZSBoYW5kd3JpdHRlbiBub3RlLiBUaGVuIHRoZXkgZGVsaXZlciB0aGUgYW5ub3RhdGVkIGRyYWZ0IHRvIHRoZSBhdXRob3IgaW4gcGVyc29uLCB0YWtpbmcgaGltIG9yIGhlciwgcGFnZSBieSBwYWdlLCB0aHJvdWdoIHRoZSBzdWdnZXN0ZWQgY2hhbmdlcy4gQXQgdGhlIGVuZCBvZiB0aGUgcHJvY2VzcywgdGhlIGF1dGhvciBzcHJlYWRzIG91dCBhbGwgdGhlIHBhZ2VzIHdpdGggY29tbWVudHMgb24gYSBkZXNrIGFuZCBzdGFydHMgdG8gZW50ZXIgdGhlbSBvbiB0aGUgY29tcHV0ZXLigJRtb3ZpbmcgdGhlIHBhZ2VzIGFyb3VuZCwgb3JnYW5pemluZyBhbmQgcmVvcmdhbml6aW5nLCBzYXZpbmcgYW5kIGRpc2NhcmRpbmcuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Without paper, this kind of collaborative, iterative work process would be much more difficult. According to Sellen and Harper, paper has a unique set of "affordances"—that is, qualities that permit specific kinds of uses. Paper is tangible: we can pick up a document, flip through it, read little bits here and there, and quickly get a sense of it. Paper is spatially flexible, meaning that we can spread it out and arrange it in the way that suits us best. And it's tailorable: we can easily annotate it, and scribble on it as we read, without altering the original text. Digital documents, of course, have their own affordances. They can be easily searched, shared, stored, accessed remotely, and linked to other relevant material. But they lack the affordances that really matter to a group of people working together on a report.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldpdGhvdXQgcGFwZXIsIHRoaXMga2luZCBvZiBjb2xsYWJvcmF0aXZlLCBpdGVyYXRpdmUgd29yayBwcm9jZXNzIHdvdWxkIGJlIG11Y2ggbW9yZSBkaWZmaWN1bHQuIEFjY29yZGluZyB0byBTZWxsZW4gYW5kIEhhcnBlciwgcGFwZXIgaGFzIGEgdW5pcXVlIHNldCBvZiAiYWZmb3JkYW5jZXMi4oCUdGhhdCBpcywgcXVhbGl0aWVzIHRoYXQgcGVybWl0IHNwZWNpZmljIGtpbmRzIG9mIHVzZXMuIFBhcGVyIGlzIHRhbmdpYmxlOiB3ZSBjYW4gcGljayB1cCBhIGRvY3VtZW50LCBmbGlwIHRocm91Z2ggaXQsIHJlYWQgbGl0dGxlIGJpdHMgaGVyZSBhbmQgdGhlcmUsIGFuZCBxdWlja2x5IGdldCBhIHNlbnNlIG9mIGl0LiBQYXBlciBpcyBzcGF0aWFsbHkgZmxleGlibGUsIG1lYW5pbmcgdGhhdCB3ZSBjYW4gc3ByZWFkIGl0IG91dCBhbmQgYXJyYW5nZSBpdCBpbiB0aGUgd2F5IHRoYXQgc3VpdHMgdXMgYmVzdC4gQW5kIGl0J3MgdGFpbG9yYWJsZTogd2UgY2FuIGVhc2lseSBhbm5vdGF0ZSBpdCwgYW5kIHNjcmliYmxlIG9uIGl0IGFzIHdlIHJlYWQsIHdpdGhvdXQgYWx0ZXJpbmcgdGhlIG9yaWdpbmFsIHRleHQuIERpZ2l0YWwgZG9jdW1lbnRzLCBvZiBjb3Vyc2UsIGhhdmUgdGhlaXIgb3duIGFmZm9yZGFuY2VzLiBUaGV5IGNhbiBiZSBlYXNpbHkgc2VhcmNoZWQsIHNoYXJlZCwgc3RvcmVkLCBhY2Nlc3NlZCByZW1vdGVseSwgYW5kIGxpbmtlZCB0byBvdGhlciByZWxldmFudCBtYXRlcmlhbC4gQnV0IHRoZXkgbGFjayB0aGUgYWZmb3JkYW5jZXMgdGhhdCByZWFsbHkgbWF0dGVyIHRvIGEgZ3JvdXAgb2YgcGVvcGxlIHdvcmtpbmcgdG9nZXRoZXIgb24gYSByZXBvcnQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Paper enables a certain kind of thinking. What covers many desks are piles of paper—journals, magazines, binders, postcards, videotapes, and all the other artifacts of the knowledge economy. When a group at a leading computer company studied piling behavior several years ago, they found that even the most disorderly piles usually make perfect sense to the piler. Over time, piles get broken down and resorted, sometimes chronologically and thematically; clues about certain documents may be physically embedded in the file by, say, stacking a certain piece of paper at an angle or inserting dividers into the stack.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBhcGVyIGVuYWJsZXMgYSBjZXJ0YWluIGtpbmQgb2YgdGhpbmtpbmcuIFdoYXQgY292ZXJzIG1hbnkgZGVza3MgYXJlIHBpbGVzIG9mIHBhcGVy4oCUam91cm5hbHMsIG1hZ2F6aW5lcywgYmluZGVycywgcG9zdGNhcmRzLCB2aWRlb3RhcGVzLCBhbmQgYWxsIHRoZSBvdGhlciBhcnRpZmFjdHMgb2YgdGhlIGtub3dsZWRnZSBlY29ub215LiBXaGVuIGEgZ3JvdXAgYXQgYSBsZWFkaW5nIGNvbXB1dGVyIGNvbXBhbnkgc3R1ZGllZCBwaWxpbmcgYmVoYXZpb3Igc2V2ZXJhbCB5ZWFycyBhZ28sIHRoZXkgZm91bmQgdGhhdCBldmVuIHRoZSBtb3N0IGRpc29yZGVybHkgcGlsZXMgdXN1YWxseSBtYWtlIHBlcmZlY3Qgc2Vuc2UgdG8gdGhlIHBpbGVyLiBPdmVyIHRpbWUsIHBpbGVzIGdldCBicm9rZW4gZG93biBhbmQgcmVzb3J0ZWQsIHNvbWV0aW1lcyBjaHJvbm9sb2dpY2FsbHkgYW5kIHRoZW1hdGljYWxseTsgY2x1ZXMgYWJvdXQgY2VydGFpbiBkb2N1bWVudHMgbWF5IGJlIHBoeXNpY2FsbHkgZW1iZWRkZWQgaW4gdGhlIGZpbGUgYnksIHNheSwgc3RhY2tpbmcgYSBjZXJ0YWluIHBpZWNlIG9mIHBhcGVyIGF0IGFuIGFuZ2xlIG9yIGluc2VydGluZyBkaXZpZGVycyBpbnRvIHRoZSBzdGFjay48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But why do we pile documents instead of filing them? Because piles represent the process of active, ongoing thinking. The psychologist Alison Kidd, whose research Sellen and Harper refer to extensively, argues that "knowledge workers" use the physical space of the desktop to hold "ideas which they cannot yet categorize or even decide how they might use." The messy desk is not necessarily a sign of disorganization. It may be a sign of complexity: those who deal with many unresolved ideas simultaneously cannot sort and file the papers on their desks, because they haven't yet sorted and filed the ideas in their head. Kidd writes that many of the people she talked to use the papers on their desks as contextual cues to "recover a complex set of threads without difficulty and delay" when they come in on a Monday morning, or after their work has been interrupted by a phone call. What we see when we look at the piles on our desks is, in a sense, the contents of our brains.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCB3aHkgZG8gd2UgcGlsZSBkb2N1bWVudHMgaW5zdGVhZCBvZiBmaWxpbmcgdGhlbT8gQmVjYXVzZSBwaWxlcyByZXByZXNlbnQgdGhlIHByb2Nlc3Mgb2YgYWN0aXZlLCBvbmdvaW5nIHRoaW5raW5nLiBUaGUgcHN5Y2hvbG9naXN0IEFsaXNvbiBLaWRkLCB3aG9zZSByZXNlYXJjaCBTZWxsZW4gYW5kIEhhcnBlciByZWZlciB0byBleHRlbnNpdmVseSwgYXJndWVzIHRoYXQgImtub3dsZWRnZSB3b3JrZXJzIiB1c2UgdGhlIHBoeXNpY2FsIHNwYWNlIG9mIHRoZSBkZXNrdG9wIHRvIGhvbGQgImlkZWFzIHdoaWNoIHRoZXkgY2Fubm90IHlldCBjYXRlZ29yaXplIG9yIGV2ZW4gZGVjaWRlIGhvdyB0aGV5IG1pZ2h0IHVzZS4iIFRoZSBtZXNzeSBkZXNrIGlzIG5vdCBuZWNlc3NhcmlseSBhIHNpZ24gb2YgZGlzb3JnYW5pemF0aW9uLiBJdCBtYXkgYmUgYSBzaWduIG9mIGNvbXBsZXhpdHk6IHRob3NlIHdobyBkZWFsIHdpdGggbWFueSB1bnJlc29sdmVkIGlkZWFzIHNpbXVsdGFuZW91c2x5IGNhbm5vdCBzb3J0IGFuZCBmaWxlIHRoZSBwYXBlcnMgb24gdGhlaXIgZGVza3MsIGJlY2F1c2UgdGhleSBoYXZlbid0IHlldCBzb3J0ZWQgYW5kIGZpbGVkIHRoZSBpZGVhcyBpbiB0aGVpciBoZWFkLiBLaWRkIHdyaXRlcyB0aGF0IG1hbnkgb2YgdGhlIHBlb3BsZSBzaGUgdGFsa2VkIHRvIHVzZSB0aGUgcGFwZXJzIG9uIHRoZWlyIGRlc2tzIGFzIGNvbnRleHR1YWwgY3VlcyB0byAicmVjb3ZlciBhIGNvbXBsZXggc2V0IG9mIHRocmVhZHMgd2l0aG91dCBkaWZmaWN1bHR5IGFuZCBkZWxheSIgd2hlbiB0aGV5IGNvbWUgaW4gb24gYSBNb25kYXkgbW9ybmluZywgb3IgYWZ0ZXIgdGhlaXIgd29yayBoYXMgYmVlbiBpbnRlcnJ1cHRlZCBieSBhIHBob25lIGNhbGwuIFdoYXQgd2Ugc2VlIHdoZW4gd2UgbG9vayBhdCB0aGUgcGlsZXMgb24gb3VyIGRlc2tzIGlzLCBpbiBhIHNlbnNlLCB0aGUgY29udGVudHMgb2Ygb3VyIGJyYWlucy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">11. The main purpose of the passage is to:
-<div class = "choice">A. encourage readers to embrace computer technology and abandon habits that waste paper.</div>
-<div class = "choice">B. encourage Western countries to be more aggressive in promoting paper recycling.</div>
-<div class = "choice">C. acknowledge that in the modern workplace, paper still plays a vital role.</div>
-<div class = "choice">D. describe new technologies available to knowledge .workers who prefer to work on paper.</div>
-</div>
-###################
-<div class = "quiz">12. It is most reasonable to infer from the passage that many of the ideas it contains are those of:
-<div class = "choice">F. Sellen and Harper before their IMF study.</div>
-<div class = "choice">G. Sellen and Harper after their IMF study.</div>
-<div class = "choice">H. Kidd before she was influenced by Sellen and Harper.</div>
-<div class = "choice">J. the passage's author before reading the research of Sellen and Harper.</div>
-</div>
-###################
-<div class = "quiz">13. Information in the passage suggests that Sellen and Harper's findings at the IMF conflict with the notion that:
-<div class = "choice">A. computers have become a part of the modern workplace.</div>
-<div class = "choice">B. revising documents page by page is a time- consuming process.</div>
-<div class = "choice">C. the use of paper has increased in the workplace m recent years.</div>
-<div class = "choice">D. complex reports are largely the product of solitary hours at the computer.</div>
-</div>
-###################
-<div class = "quiz">14. Which of the following questions is NOT directly answered by the passage?
-<div class = "choice">F. Who wrote The Myth of the Paperless Office?</div>
-<div class = "choice">G. What are some examples of "artifacts of the knowledge economy"?</div>
-<div class = "choice">H. What are some of the "affordances of digital documents?</div>
-<div class = "choice">J. Why is uncoated free-sheet paper the most 'common kind of office paper?</div>
-</div>
-###################
-<div class = "quiz">15. According to the passage, the general but incorrect explanation for the current rate of paper use is that:
-<div class = "choice">A. the force of habit slows the transition to improved ways of performing work.</div>
-<div class = "choice">B. access to computer technology has increased on a global scale in recent years.</div>
-<div class = "choice">C. paper is more affordable than the software and hardware associated with digital documents.</div>
-<div class = "choice">D. the United States has lost its focus on environmental issues in recent years.</div>
-</div>
-###################
-<div class = "quiz">16. Which of the following best summarizes the first paragraph?
-<div class = "choice">F. Providing statistics on paper use around the world, it discusses the unequal access of countries to modern office technology.</div>
-<div class = "choice">G. Revealing that the views of Sellen overlap with those of Harper, it examines their ten-year collaboration at the IMF.</div>
-<div class = "choice">H. Referring to a false prediction about the effects ot computers on paper use, it alludes to the reasons behind paper's persistence.</div>
-<div class = "choice">J. Focusing on the years 1995 to 2000, it reveals the widening gulf in the workplace between paper users and computer users.</div>
-</div>
-###################
-<div class = "quiz">17. The passage includes references to all the following professionals EXCEPT:
-<div class = "choice">A. knowledge workers.</div>
-<div class = "choice">B. cognitive psychologists.</div>
-<div class = "choice">C. ergonomic experts.</div>
-<div class = "choice">D. paper industry executives.</div>
-</div>
-###################
-<div class = "quiz">18. It is most reasonable to infer that the process described in lines 29-40 is one that the author of the passage views with:
-<div class = "choice">F. dismay over the inefficient practices of professionals at a prestigious institution.</div>
-<div class = "choice">G. excitement over groundbreaking approaches to document creation.</div>
-<div class = "choice">H. appreciation for the collaboration among those who produce sophisticated documents.</div>
-<div class = "choice">J. concern that document creation has become more complicated than the average worker can grasp.</div>
-</div>
-###################
-<div class = "quiz">19. As it is used in line 24, the phrase awash in most nearly means:
-<div class = "choice">A. disoriented by.</div>
-<div class = "choice">B. characterized by an abundance of.</div>
-<div class = "choice">C. clearing away unwanted quantities of.</div>
-<div class = "choice">D. limited by.</div>
-</div>
-###################
-<div class = "quiz">20. According to the passage, piling behavior in the modern workplace may indicate a worker's temporary inability to:
-<div class = "choice">F. spread document pages on a table.</div>
-<div class = "choice">G. categorize a document or decide on a way to use it.</div>
-<div class = "choice">H. meet with the author of a document in order to discuss possible changes to it.</div>
-<div class = "choice">J. clear space from filing cabinets.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgcGFzc2FnZSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGVuY291cmFnZSByZWFkZXJzIHRvIGVtYnJhY2UgY29tcHV0ZXIgdGVjaG5vbG9neSBhbmQgYWJhbmRvbiBoYWJpdHMgdGhhdCB3YXN0ZSBwYXBlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVuY291cmFnZSBXZXN0ZXJuIGNvdW50cmllcyB0byBiZSBtb3JlIGFnZ3Jlc3NpdmUgaW4gcHJvbW90aW5nIHBhcGVyIHJlY3ljbGluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFja25vd2xlZGdlIHRoYXQgaW4gdGhlIG1vZGVybiB3b3JrcGxhY2UsIHBhcGVyIHN0aWxsIHBsYXlzIGEgdml0YWwgcm9sZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJlIG5ldyB0ZWNobm9sb2dpZXMgYXZhaWxhYmxlIHRvIGtub3dsZWRnZSAud29ya2VycyB3aG8gcHJlZmVyIHRvIHdvcmsgb24gcGFwZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gSXQgaXMgbW9zdCByZWFzb25hYmxlIHRvIGluZmVyIGZyb20gdGhlIHBhc3NhZ2UgdGhhdCBtYW55IG9mIHRoZSBpZGVhcyBpdCBjb250YWlucyBhcmUgdGhvc2Ugb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNlbGxlbiBhbmQgSGFycGVyIGJlZm9yZSB0aGVpciBJTUYgc3R1ZHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNlbGxlbiBhbmQgSGFycGVyIGFmdGVyIHRoZWlyIElNRiBzdHVkeS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEtpZGQgYmVmb3JlIHNoZSB3YXMgaW5mbHVlbmNlZCBieSBTZWxsZW4gYW5kIEhhcnBlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBwYXNzYWdlJ3MgYXV0aG9yIGJlZm9yZSByZWFkaW5nIHRoZSByZXNlYXJjaCBvZiBTZWxsZW4gYW5kIEhhcnBlci48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gSW5mb3JtYXRpb24gaW4gdGhlIHBhc3NhZ2Ugc3VnZ2VzdHMgdGhhdCBTZWxsZW4gYW5kIEhhcnBlcidzIGZpbmRpbmdzIGF0IHRoZSBJTUYgY29uZmxpY3Qgd2l0aCB0aGUgbm90aW9uIHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNvbXB1dGVycyBoYXZlIGJlY29tZSBhIHBhcnQgb2YgdGhlIG1vZGVybiB3b3JrcGxhY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJldmlzaW5nIGRvY3VtZW50cyBwYWdlIGJ5IHBhZ2UgaXMgYSB0aW1lLSBjb25zdW1pbmcgcHJvY2Vzcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSB1c2Ugb2YgcGFwZXIgaGFzIGluY3JlYXNlZCBpbiB0aGUgd29ya3BsYWNlIG0gcmVjZW50IHllYXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvbXBsZXggcmVwb3J0cyBhcmUgbGFyZ2VseSB0aGUgcHJvZHVjdCBvZiBzb2xpdGFyeSBob3VycyBhdCB0aGUgY29tcHV0ZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgaXMgTk9UIGRpcmVjdGx5IGFuc3dlcmVkIGJ5IHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdobyB3cm90ZSBUaGUgTXl0aCBvZiB0aGUgUGFwZXJsZXNzIE9mZmljZT88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdoYXQgYXJlIHNvbWUgZXhhbXBsZXMgb2YgImFydGlmYWN0cyBvZiB0aGUga25vd2xlZGdlIGVjb25vbXkiPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoYXQgYXJlIHNvbWUgb2YgdGhlICJhZmZvcmRhbmNlcyBvZiBkaWdpdGFsIGRvY3VtZW50cz88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoeSBpcyB1bmNvYXRlZCBmcmVlLXNoZWV0IHBhcGVyIHRoZSBtb3N0ICdjb21tb24ga2luZCBvZiBvZmZpY2UgcGFwZXI/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB0aGUgZ2VuZXJhbCBidXQgaW5jb3JyZWN0IGV4cGxhbmF0aW9uIGZvciB0aGUgY3VycmVudCByYXRlIG9mIHBhcGVyIHVzZSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBmb3JjZSBvZiBoYWJpdCBzbG93cyB0aGUgdHJhbnNpdGlvbiB0byBpbXByb3ZlZCB3YXlzIG9mIHBlcmZvcm1pbmcgd29yay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFjY2VzcyB0byBjb21wdXRlciB0ZWNobm9sb2d5IGhhcyBpbmNyZWFzZWQgb24gYSBnbG9iYWwgc2NhbGUgaW4gcmVjZW50IHllYXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBhcGVyIGlzIG1vcmUgYWZmb3JkYWJsZSB0aGFuIHRoZSBzb2Z0d2FyZSBhbmQgaGFyZHdhcmUgYXNzb2NpYXRlZCB3aXRoIGRpZ2l0YWwgZG9jdW1lbnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZSBVbml0ZWQgU3RhdGVzIGhhcyBsb3N0IGl0cyBmb2N1cyBvbiBlbnZpcm9ubWVudGFsIGlzc3VlcyBpbiByZWNlbnQgeWVhcnMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IHN1bW1hcml6ZXMgdGhlIGZpcnN0IHBhcmFncmFwaD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFByb3ZpZGluZyBzdGF0aXN0aWNzIG9uIHBhcGVyIHVzZSBhcm91bmQgdGhlIHdvcmxkLCBpdCBkaXNjdXNzZXMgdGhlIHVuZXF1YWwgYWNjZXNzIG9mIGNvdW50cmllcyB0byBtb2Rlcm4gb2ZmaWNlIHRlY2hub2xvZ3kuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFJldmVhbGluZyB0aGF0IHRoZSB2aWV3cyBvZiBTZWxsZW4gb3ZlcmxhcCB3aXRoIHRob3NlIG9mIEhhcnBlciwgaXQgZXhhbWluZXMgdGhlaXIgdGVuLXllYXIgY29sbGFib3JhdGlvbiBhdCB0aGUgSU1GLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFJlZmVycmluZyB0byBhIGZhbHNlIHByZWRpY3Rpb24gYWJvdXQgdGhlIGVmZmVjdHMgb3QgY29tcHV0ZXJzIG9uIHBhcGVyIHVzZSwgaXQgYWxsdWRlcyB0byB0aGUgcmVhc29ucyBiZWhpbmQgcGFwZXIncyBwZXJzaXN0ZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEZvY3VzaW5nIG9uIHRoZSB5ZWFycyAxOTk1IHRvIDIwMDAsIGl0IHJldmVhbHMgdGhlIHdpZGVuaW5nIGd1bGYgaW4gdGhlIHdvcmtwbGFjZSBiZXR3ZWVuIHBhcGVyIHVzZXJzIGFuZCBjb21wdXRlciB1c2Vycy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIHBhc3NhZ2UgaW5jbHVkZXMgcmVmZXJlbmNlcyB0byBhbGwgdGhlIGZvbGxvd2luZyBwcm9mZXNzaW9uYWxzIEVYQ0VQVDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGtub3dsZWRnZSB3b3JrZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvZ25pdGl2ZSBwc3ljaG9sb2dpc3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGVyZ29ub21pYyBleHBlcnRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBhcGVyIGluZHVzdHJ5IGV4ZWN1dGl2ZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gSXQgaXMgbW9zdCByZWFzb25hYmxlIHRvIGluZmVyIHRoYXQgdGhlIHByb2Nlc3MgZGVzY3JpYmVkIGluIGxpbmVzIDI5LTQwIGlzIG9uZSB0aGF0IHRoZSBhdXRob3Igb2YgdGhlIHBhc3NhZ2Ugdmlld3Mgd2l0aDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRpc21heSBvdmVyIHRoZSBpbmVmZmljaWVudCBwcmFjdGljZXMgb2YgcHJvZmVzc2lvbmFscyBhdCBhIHByZXN0aWdpb3VzIGluc3RpdHV0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV4Y2l0ZW1lbnQgb3ZlciBncm91bmRicmVha2luZyBhcHByb2FjaGVzIHRvIGRvY3VtZW50IGNyZWF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFwcHJlY2lhdGlvbiBmb3IgdGhlIGNvbGxhYm9yYXRpb24gYW1vbmcgdGhvc2Ugd2hvIHByb2R1Y2Ugc29waGlzdGljYXRlZCBkb2N1bWVudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNvbmNlcm4gdGhhdCBkb2N1bWVudCBjcmVhdGlvbiBoYXMgYmVjb21lIG1vcmUgY29tcGxpY2F0ZWQgdGhhbiB0aGUgYXZlcmFnZSB3b3JrZXIgY2FuIGdyYXNwLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDI0LCB0aGUgcGhyYXNlIGF3YXNoIGluIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRpc29yaWVudGVkIGJ5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNoYXJhY3Rlcml6ZWQgYnkgYW4gYWJ1bmRhbmNlIG9mLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNsZWFyaW5nIGF3YXkgdW53YW50ZWQgcXVhbnRpdGllcyBvZi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpbWl0ZWQgYnkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBwaWxpbmcgYmVoYXZpb3IgaW4gdGhlIG1vZGVybiB3b3JrcGxhY2UgbWF5IGluZGljYXRlIGEgd29ya2VyJ3MgdGVtcG9yYXJ5IGluYWJpbGl0eSB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNwcmVhZCBkb2N1bWVudCBwYWdlcyBvbiBhIHRhYmxlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNhdGVnb3JpemUgYSBkb2N1bWVudCBvciBkZWNpZGUgb24gYSB3YXkgdG8gdXNlIGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1lZXQgd2l0aCB0aGUgYXV0aG9yIG9mIGEgZG9jdW1lbnQgaW4gb3JkZXIgdG8gZGlzY3VzcyBwb3NzaWJsZSBjaGFuZ2VzIHRvIGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNsZWFyIHNwYWNlIGZyb20gZmlsaW5nIGNhYmluZXRzLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

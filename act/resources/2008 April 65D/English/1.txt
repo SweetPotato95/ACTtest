@@ -1,126 +1,126 @@
-﻿
-<h1>The Hunt for Morel Mushrooms</h1>
+77s/
+PGgxPlRoZSBIdW50IGZvciBNb3JlbCBNdXNocm9vbXM8L2gxPg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1] When I close ray eyes I see them. They pop up through dead leaves, emerge from under fallen logs, and sprout next to tree stumps. Even indoors, I think I spot them out of the corner of my eye. Basically, I spend <font id=1>every free moment</font> in search of them. .</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsxXSBXaGVuIEkgY2xvc2UgcmF5IGV5ZXMgSSBzZWUgdGhlbS4gVGhleSBwb3AgdXAgdGhyb3VnaCBkZWFkIGxlYXZlcywgZW1lcmdlIGZyb20gdW5kZXIgZmFsbGVuIGxvZ3MsIGFuZCBzcHJvdXQgbmV4dCB0byB0cmVlIHN0dW1wcy4gRXZlbiBpbmRvb3JzLCBJIHRoaW5rIEkgc3BvdCB0aGVtIG91dCBvZiB0aGUgY29ybmVyIG9mIG15IGV5ZS4gQmFzaWNhbGx5LCBJIHNwZW5kIDxmb250IGlkPTE+ZXZlcnkgZnJlZSBtb21lbnQ8L2ZvbnQ+IGluIHNlYXJjaCBvZiB0aGVtLiAuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2] I'm not talking <font id=2>about imaginary creatures but</font> about deliciously real morel mushrooms— <font id=3>funny-looking, textured, edible</font> fungi that appear in springtime. These homely ground dwellers inspire, their fans to search the woods for hours, intent on finding enough to fry up for dinner. Would it be easier to buy mushrooms at the store? Absolutely. But it wouldn't be as .much fun. Once you find your first morel, maybe by a dead elm or in an old apple orchard, <font id=4>a person</font> will be even more determined to find the next one. And the next. And so on.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsyXSBJJ20gbm90IHRhbGtpbmcgPGZvbnQgaWQ9Mj5hYm91dCBpbWFnaW5hcnkgY3JlYXR1cmVzIGJ1dDwvZm9udD4gYWJvdXQgZGVsaWNpb3VzbHkgcmVhbCBtb3JlbCBtdXNocm9vbXPigD8gPGZvbnQgaWQ9Mz5mdW5ueS1sb29raW5nLCB0ZXh0dXJlZCwgZWRpYmxlPC9mb250PiBmdW5naSB0aGF0IGFwcGVhciBpbiBzcHJpbmd0aW1lLiBUaGVzZSBob21lbHkgZ3JvdW5kIGR3ZWxsZXJzIGluc3BpcmUsIHRoZWlyIGZhbnMgdG8gc2VhcmNoIHRoZSB3b29kcyBmb3IgaG91cnMsIGludGVudCBvbiBmaW5kaW5nIGVub3VnaCB0byBmcnkgdXAgZm9yIGRpbm5lci4gV291bGQgaXQgYmUgZWFzaWVyIHRvIGJ1eSBtdXNocm9vbXMgYXQgdGhlIHN0b3JlPyBBYnNvbHV0ZWx5LiBCdXQgaXQgd291bGRuJ3QgYmUgYXMgLm11Y2ggZnVuLiBPbmNlIHlvdSBmaW5kIHlvdXIgZmlyc3QgbW9yZWwsIG1heWJlIGJ5IGEgZGVhZCBlbG0gb3IgaW4gYW4gb2xkIGFwcGxlIG9yY2hhcmQsIDxmb250IGlkPTQ+YSBwZXJzb248L2ZvbnQ+IHdpbGwgYmUgZXZlbiBtb3JlIGRldGVybWluZWQgdG8gZmluZCB0aGUgbmV4dCBvbmUuIEFuZCB0aGUgbmV4dC4gQW5kIHNvIG9uLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3] Like many morel hunters, I learned from an expert. She invited me along to see firsthand how it's done. I learned even more by reading <font id=5>reputable, detailed field guides about wild mushrooms.</font> That's a crucial part of the preparation <font id=6>to get ready</font> for morel hunting, because often the same woods that yield morels produce poisonous mushrooms, too.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlszXSBMaWtlIG1hbnkgbW9yZWwgaHVudGVycywgSSBsZWFybmVkIGZyb20gYW4gZXhwZXJ0LiBTaGUgaW52aXRlZCBtZSBhbG9uZyB0byBzZWUgZmlyc3RoYW5kIGhvdyBpdCdzIGRvbmUuIEkgbGVhcm5lZCBldmVuIG1vcmUgYnkgcmVhZGluZyA8Zm9udCBpZD01PnJlcHV0YWJsZSwgZGV0YWlsZWQgZmllbGQgZ3VpZGVzIGFib3V0IHdpbGQgbXVzaHJvb21zLjwvZm9udD4gVGhhdCdzIGEgY3J1Y2lhbCBwYXJ0IG9mIHRoZSBwcmVwYXJhdGlvbiA8Zm9udCBpZD02PnRvIGdldCByZWFkeTwvZm9udD4gZm9yIG1vcmVsIGh1bnRpbmcsIGJlY2F1c2Ugb2Z0ZW4gdGhlIHNhbWUgd29vZHMgdGhhdCB5aWVsZCBtb3JlbHMgcHJvZHVjZSBwb2lzb25vdXMgbXVzaHJvb21zLCB0b28uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4] <font id=7>7</font>Every spring, there's a contest where I live in northern Minnesota to see who can. find the most <font id=8>morels, this</font> year, I'm going to enter. Last year, one participant found over 3,000 <font id=9> morels becoming my</font> hero. And he's willing to talk with me about this hobby we are both passionate about. Luckily, I know what question not to ask. You never ask morel hunters where they made their biggest find. Keeping <font id=10>silent about your favorite spots,</font> is part of the mystique of this glorious pastime.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls0XSA8Zm9udCBpZD03Pjc8L2ZvbnQ+RXZlcnkgc3ByaW5nLCB0aGVyZSdzIGEgY29udGVzdCB3aGVyZSBJIGxpdmUgaW4gbm9ydGhlcm4gTWlubmVzb3RhIHRvIHNlZSB3aG8gY2FuLiBmaW5kIHRoZSBtb3N0IDxmb250IGlkPTg+bW9yZWxzLCB0aGlzPC9mb250PiB5ZWFyLCBJJ20gZ29pbmcgdG8gZW50ZXIuIExhc3QgeWVhciwgb25lIHBhcnRpY2lwYW50IGZvdW5kIG92ZXIgMywwMDAgPGZvbnQgaWQ9OT4gbW9yZWxzIGJlY29taW5nIG15PC9mb250PiBoZXJvLiBBbmQgaGUncyB3aWxsaW5nIHRvIHRhbGsgd2l0aCBtZSBhYm91dCB0aGlzIGhvYmJ5IHdlIGFyZSBib3RoIHBhc3Npb25hdGUgYWJvdXQuIEx1Y2tpbHksIEkga25vdyB3aGF0IHF1ZXN0aW9uIG5vdCB0byBhc2suIFlvdSBuZXZlciBhc2sgbW9yZWwgaHVudGVycyB3aGVyZSB0aGV5IG1hZGUgdGhlaXIgYmlnZ2VzdCBmaW5kLiBLZWVwaW5nIDxmb250IGlkPTEwPnNpbGVudCBhYm91dCB5b3VyIGZhdm9yaXRlIHNwb3RzLDwvZm9udD4gaXMgcGFydCBvZiB0aGUgbXlzdGlxdWUgb2YgdGhpcyBnbG9yaW91cyBwYXN0aW1lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5] Mostly, finding morels requires <font id=11>two things in particular.</font> Smaller and <font id=12>paler then</font> the average pinecone, a morel blends perfectly into <font id=13>its</font> natural surroundings. <font id=14>However, you</font> can look right at one and not see it. Morels fool everyone, even the <font id=15>experts, that's</font> probably why the saying goes that the best place to look for morels is directly behind you.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls1XSBNb3N0bHksIGZpbmRpbmcgbW9yZWxzIHJlcXVpcmVzIDxmb250IGlkPTExPnR3byB0aGluZ3MgaW4gcGFydGljdWxhci48L2ZvbnQ+IFNtYWxsZXIgYW5kIDxmb250IGlkPTEyPnBhbGVyIHRoZW48L2ZvbnQ+IHRoZSBhdmVyYWdlIHBpbmVjb25lLCBhIG1vcmVsIGJsZW5kcyBwZXJmZWN0bHkgaW50byA8Zm9udCBpZD0xMz5pdHM8L2ZvbnQ+IG5hdHVyYWwgc3Vycm91bmRpbmdzLiA8Zm9udCBpZD0xND5Ib3dldmVyLCB5b3U8L2ZvbnQ+IGNhbiBsb29rIHJpZ2h0IGF0IG9uZSBhbmQgbm90IHNlZSBpdC4gTW9yZWxzIGZvb2wgZXZlcnlvbmUsIGV2ZW4gdGhlIDxmb250IGlkPTE1PmV4cGVydHMsIHRoYXQnczwvZm9udD4gcHJvYmFibHkgd2h5IHRoZSBzYXlpbmcgZ29lcyB0aGF0IHRoZSBiZXN0IHBsYWNlIHRvIGxvb2sgZm9yIG1vcmVscyBpcyBkaXJlY3RseSBiZWhpbmQgeW91LjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1. Which of the following alternatives to the underlined portion would be LEAST acceptable?
-<div class = "choice">A. all my free time .</div>
-<div class = "choice">B. appropriate vacation time slots</div>
-<div class = "choice">C. every moment of my leisure time</div>
-<div class = "choice">D. whatever' time I can set aside</div>
-</div>
-###################
-<div class = "quiz">2.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. about, imaginary creatures but</div>
-<div class = "choice">H. about, imaginary creatures, but</div>
-<div class = "choice">J. about imaginary creatures, but,</div>
-</div>
-###################
-<div class = "quiz">3. Given that all the choices are true, which one most specifically describes the appearance of a morel mushroom for readers who have never seen one?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. earthy, oddly amusing, interesting-looking</div>
-<div class = "choice">C. odorless and unusually shaped</div>
-<div class = "choice">D. sand-colored, cone-shaped, spongelike</div>
-</div>
-###################
-<div class = "quiz">4.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. a morel hunter</div>
-<div class = "choice">H. you</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">5. Given that all the choices are true, which one provides the most relevant and specific information at this point in the essay?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. in between trips to and from the woods.</div>
-<div class = "choice">C. to gain the expertise I wanted and needed at this point.</div>
-<div class = "choice">D. Very carefully on the topic that pertains to the activity</div>
-</div>
-###################
-<div class = "quiz">6.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. to make oneself fit</div>
-<div class = "choice">H. of someone planning to be ready</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">7. Which of the following statements, if added here, would provide the most effective transition from Paragraph 3 to Paragraph 4?
-<div class = "choice">A. There were many field guides to choose from.</div>
-<div class = "choice">B. I love the texture that morels add to a meal.</div>
-<div class = "choice">C. Outdoor activities offer so many rewards.</div>
-<div class = "choice">D. Now I want to put my knowledge to work.</div>
-</div>
-###################
-<div class = "quiz">8.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. morels this</div>
-<div class = "choice">H. morels. This</div>
-<div class = "choice">J. morels, because this</div>
-</div>
-###################
-<div class = "quiz">9.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. morels. He's my</div>
-<div class = "choice">C. morels, what a</div>
-<div class = "choice">D. morels, my</div>
-</div>
-###################
-<div class = "quiz">10.
-<div class = "choice">F. NO.CHANGE</div>
-<div class = "choice">G. silent, about your favorite spots</div>
-<div class = "choice">H. silent, about your favorite spots,</div>
-<div class = "choice">J. silent about your favorite spots</div>
-</div>
-###################
-<div class = "quiz">11. Given that all the choices are true, which one provides the most specific information?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. demonstrating two skills.</div>
-<div class = "choice">C. patience and concentration.</div>
-<div class = "choice">D. expertise in this hobby.</div>
-</div>
-###################
-<div class = "quiz">12.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. more pale then</div>
-<div class = "choice">H. paler than</div>
-<div class = "choice">J. pale than</div>
-</div>
-###################
-<div class = "quiz">13.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. it's</div>
-<div class = "choice">C. their</div>
-<div class = "choice">D. there</div>
-</div>
-###################
-<div class = "quiz">14.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. You</div>
-<div class = "choice">H. On the other hand, you</div>
-<div class = "choice">J. Back and forth, you</div>
-</div>
-###################
-<div class = "quiz">15.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. experts. That's</div>
-<div class = "choice">C. experts say, that's</div>
-<div class = "choice">D. experts and</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGFsdGVybmF0aXZlcyB0byB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIGJlIExFQVNUIGFjY2VwdGFibGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFsbCBteSBmcmVlIHRpbWUgLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFwcHJvcHJpYXRlIHZhY2F0aW9uIHRpbWUgc2xvdHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV2ZXJ5IG1vbWVudCBvZiBteSBsZWlzdXJlIHRpbWU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdoYXRldmVyJyB0aW1lIEkgY2FuIHNldCBhc2lkZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFib3V0LCBpbWFnaW5hcnkgY3JlYXR1cmVzIGJ1dDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFib3V0LCBpbWFnaW5hcnkgY3JlYXR1cmVzLCBidXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFib3V0IGltYWdpbmFyeSBjcmVhdHVyZXMsIGJ1dCw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBHaXZlbiB0aGF0IGFsbCB0aGUgY2hvaWNlcyBhcmUgdHJ1ZSwgd2hpY2ggb25lIG1vc3Qgc3BlY2lmaWNhbGx5IGRlc2NyaWJlcyB0aGUgYXBwZWFyYW5jZSBvZiBhIG1vcmVsIG11c2hyb29tIGZvciByZWFkZXJzIHdobyBoYXZlIG5ldmVyIHNlZW4gb25lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGVhcnRoeSwgb2RkbHkgYW11c2luZywgaW50ZXJlc3RpbmctbG9va2luZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG9kb3JsZXNzIGFuZCB1bnVzdWFsbHkgc2hhcGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNhbmQtY29sb3JlZCwgY29uZS1zaGFwZWQsIHNwb25nZWxpa2U8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgbW9yZWwgaHVudGVyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHlvdTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBHaXZlbiB0aGF0IGFsbCB0aGUgY2hvaWNlcyBhcmUgdHJ1ZSwgd2hpY2ggb25lIHByb3ZpZGVzIHRoZSBtb3N0IHJlbGV2YW50IGFuZCBzcGVjaWZpYyBpbmZvcm1hdGlvbiBhdCB0aGlzIHBvaW50IGluIHRoZSBlc3NheT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluIGJldHdlZW4gdHJpcHMgdG8gYW5kIGZyb20gdGhlIHdvb2RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRvIGdhaW4gdGhlIGV4cGVydGlzZSBJIHdhbnRlZCBhbmQgbmVlZGVkIGF0IHRoaXMgcG9pbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFZlcnkgY2FyZWZ1bGx5IG9uIHRoZSB0b3BpYyB0aGF0IHBlcnRhaW5zIHRvIHRoZSBhY3Rpdml0eTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRvIG1ha2Ugb25lc2VsZiBmaXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9mIHNvbWVvbmUgcGxhbm5pbmcgdG8gYmUgcmVhZHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMsIGlmIGFkZGVkIGhlcmUsIHdvdWxkIHByb3ZpZGUgdGhlIG1vc3QgZWZmZWN0aXZlIHRyYW5zaXRpb24gZnJvbSBQYXJhZ3JhcGggMyB0byBQYXJhZ3JhcGggND8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZXJlIHdlcmUgbWFueSBmaWVsZCBndWlkZXMgdG8gY2hvb3NlIGZyb20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEkgbG92ZSB0aGUgdGV4dHVyZSB0aGF0IG1vcmVscyBhZGQgdG8gYSBtZWFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE91dGRvb3IgYWN0aXZpdGllcyBvZmZlciBzbyBtYW55IHJld2FyZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vdyBJIHdhbnQgdG8gcHV0IG15IGtub3dsZWRnZSB0byB3b3JrLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1vcmVscyB0aGlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1vcmVscy4gVGhpczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1vcmVscywgYmVjYXVzZSB0aGlzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1vcmVscy4gSGUncyBteTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmVscywgd2hhdCBhPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1vcmVscywgbXk8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PLkNIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNpbGVudCwgYWJvdXQgeW91ciBmYXZvcml0ZSBzcG90czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNpbGVudCwgYWJvdXQgeW91ciBmYXZvcml0ZSBzcG90cyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNpbGVudCBhYm91dCB5b3VyIGZhdm9yaXRlIHNwb3RzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBwcm92aWRlcyB0aGUgbW9zdCBzcGVjaWZpYyBpbmZvcm1hdGlvbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlbW9uc3RyYXRpbmcgdHdvIHNraWxscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBhdGllbmNlIGFuZCBjb25jZW50cmF0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV4cGVydGlzZSBpbiB0aGlzIGhvYmJ5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1vcmUgcGFsZSB0aGVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBhbGVyIHRoYW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBhbGUgdGhhbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGl0J3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZWlyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZXJlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFlvdTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE9uIHRoZSBvdGhlciBoYW5kLCB5b3U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEJhY2sgYW5kIGZvcnRoLCB5b3U8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4cGVydHMuIFRoYXQnczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGV4cGVydHMgc2F5LCB0aGF0J3M8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV4cGVydHMgYW5kPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

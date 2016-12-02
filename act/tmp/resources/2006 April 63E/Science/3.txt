@@ -1,0 +1,84 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In Zamia (a genus of seed plants), males have pollen-producing cones, and females have seed-producing cones. Pollination requires the movement of pollen from inside a male cone to inside a female cone, where multiple ovules are located and pollinated. The ovules then develop into seeds. Two students discuss the pollination process.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In Zamia, 90% of ovule pollination result from insect pollination; 10% result from wind pollination. No other pollination mechanism exists.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Zamia have mutualistic (mutually beneficial) relationships with insects. Weevils (a type of beetle) swarm male Zamia cones when these cones are releasing pollen. Upon entering the cones, the weevils become covered with the plant's sticky pollen. The weevils then visit the female Zamia cones. In the absence of weevils, the percent of ovule pollination in Zamia is about 10%.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wind pollination is infrequent because Zamia pollen is large and heavy. Additionally, the openings into the female cones are aligned horizontally, so wind-borne pollen must be blown horizontally to enter these cones.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Student 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wind pollination and insect pollination each cause 50% of pollination events in Zamia ovules. Without wind pollination, the percent of ovule pollination decreases by 50%. Likewise, without insect pollination, the percent of ovule pollination decreases by 50%. If neither of these processes occurs, the percent of ovule pollination decreases by 100%.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Wind tunnel experiments show that the shape of the female Zamia cones creates air currents that facilitate the horizontal movement of pollen into these cones. Additionally, male Zamia cones produce enormous quantities of pollen, a trait that is common only in wind-pollinated plants.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiments.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students proposed 3 experiments using a natural Zamia population in an area with weevils and in which the percent of ovule pollination is normally 99% (se the table).</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:162.0pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Experiment</span></p></td><td style="width:535.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="357"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Procedure</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:162.0pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">1</span></p></td><td style="width:535.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="357"><p  style="tab-stops:32.25pt"><span lang="EN-US">Some femaleZamia cones are covered with</span></p><p  style="tab-stops:32.25pt"><span lang="EN-US">plastic bagsthat exclude insects and wind.</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:162.0pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">2</span></p></td><td style="width:535.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="357"><p  style="tab-stops:32.25pt"><span lang="EN-US">Some femaleZamia cones are covered with</span></p><p  style="tab-stops:32.25pt"><span lang="EN-US">mesh bags thatexclude insects, but not wind.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:162.0pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">3</span></p></td><td style="width:535.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="357"><p  style="tab-stops:32.25pt"><span lang="EN-US">Some femaleZamia cones are covered with</span></p><p  style="tab-stops:32.25pt"><span lang="EN-US">cylinders thatexclude wind, but not insects.</span></p></td></tr></table></div>
+<br>
+###################
+<div class = "quiz">12. Suppose Experiment 2 were performed as described. Based on Student 2's hypothesis, the percent of ovule pollination in the female Zamia cones that would be covered with mesh bags would be closest to:
+<div class = "choice">F. 0%.</div>
+<div class = "choice">G. 10%.</div>
+<div class = "choice">H. 50%.</div>
+<div class = "choice">J. 99%.</div>
+</div>
+###################
+<div class = "quiz">13. Student 1 states that "wind-borne pollen must be blown horizontally to enter these cones." Which of the following describes how Student 2 responds to this statement? Student 2 argues that the shape of the:
+<div class = "choice">A. female Zamia cones creates air currents that decrease the likelihood that pollen will enter these cones.</div>
+<div class = "choice">B. female Zamia cones creates air currents that increase the likelihood that pollen will enter these cones.</div>
+<div class = "choice">C. male Zamia cones creates air currents that decrease the likelihood that pollen will enter these cones.</div>
+<div class = "choice">D. male Zamia cones creates air currents that increase the likelihood that pollen will enter these cones.</div>
+</div>
+###################
+<div class = "quiz">14. Suppose experiment were performed using a natural population of Zamia and that all of the male cones were covered with plastic bags that excluded insects and wind. Assuming that Student 1's hypothesis is correct, the percent of ovule pollination would most likely be closest to:
+<div class = "choice">F. 0%.</div>
+<div class = "choice">G. 33%.</div>
+<div class = "choice">H. 67%.</div>
+<div class = "choice">J. 100%.</div>
+</div>
+###################
+<div class = "quiz">15. Student 1 would most likely agree with the statement that Zamia pollen is:
+<div class = "choice">A. never present in the male Zamia cones.</div>
+<div class = "choice">B. not carried long distances by the wind.</div>
+<div class = "choice">C. produced in the female Zamia cones.</div>
+<div class = "choice">D. smaller than the pollen found in most plants.</div>
+</div>
+###################
+<div class = "quiz">16. With regard to the experiments described in the table, Students 1 and 2 would most likely agree that the percent of ovule pollination would be highest in female Zamia cones that are:
+<div class = "choice">F. not covered with a bag or a cylinder.</div>
+<div class = "choice">G. covered with mesh bags that exclude insects.</div>
+<div class = "choice">H. covered with cylinders that exclude wind.</div>
+<div class = "choice">J. covered with plastic bags that exclude insects and wind.</div>
+</div>
+###################
+<div class = "quiz">17. Which of the following would most-likely-be used as a control group in Experiment 1?
+<div class = "choice">A. Male Zamia cones that are covered with mesh bags</div>
+<div class = "choice">B. Male Zamia cones that are left uncovered</div>
+<div class = "choice">C. Female Zamia cones that are covered with mesh bags</div>
+<div class = "choice">D. Female Zamia cones that are left uncovered</div>
+</div>
+###################
+<div class = "quiz">18. Suppose the 3 experiments were performed as described. Student 2's hypothesis would be best supported if the percents of ovule pollination were the same for which of the following 2 groups of female Zamia cones?
+<div class = "choice">F. Those in Experiment 1 that were covered with plastic bags and those in Experiment 1 that were not covered with plastic bags</div>
+<div class = "choice">G. Those in Experiment 1 that were covered with plastic bags and those in Experiment 2 that were covered with mesh bags</div>
+<div class = "choice">H. Those in Experiment 2 that were covered with mesh bags and those in Experiment 2 that were not covered with mesh bags</div>
+<div class = "choice">J. Those in Experiment 2 that were covered with mesh bags and those in Experiment 3 that were covered with cylinders</div>
+<br>
+</div>
+###################

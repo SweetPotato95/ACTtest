@@ -1,0 +1,66 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Transient luminous events (TLEs) are brief flashes of light that appear above large thunderstorm clouds. A TLE is produced by a positive cloud-to-ground (＋CG) lightning stroke. However, not every ＋CG lightning stroke is followed by a TLE. Figure 1 shows the typical shape, width, and altitudes of 3 types of TLEs—red sprites, blue jets, and elves. Table 1 shows the typical duration (in milliseconds, msec) and brightness (in kiloRayleighs, kR) of each type of TLE. Figure 2 shows the number of ＋CG lightning strokes of a given peak electrical current (in kiloamperes, kA) from 6 thunderstorms and the percent of those ＋CG lightning strokes that produced a TLE.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\141.png' width = '640'height = '513'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table l</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="3" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Type of TLE</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Duration (msec)</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Average brightness (KR)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border-top:none;border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Red sprite</span></p></td><td style="border:none;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">10</span><span style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>—</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt">100</span></p></td><td style="border:none;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">10</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="border-top:none;border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Blue’jet</span></p></td><td style="border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">100</span><span style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>—</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt">300</span></p></td><td style="border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">800</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Elves</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>＜</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1,000</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\142.png' width = '682'height = '599'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\143.png' width = '721'height = '535'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from W. Lyons, R. J. Vavrek, and R Holle, "Mysterious Flashes: Red Sprites-Blue Jets-Elves." ⓒ2000 by the National Earth Science Teachers Association.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 adapted from W. Lyons et al., "Characteristics of Thunderstorms and Lightning Flashes Which Produce Mesospheric Transient Luminous Events." ⓒ 1999 by the National Aeronautics and Space Administration.</div>
+
+<br>
+###################
+<div class = "quiz">1. Figure l defines the ionosphere as a region of the atmosphere that overlaps which of the following atmospheric layers?
+Ⅰ. Mesosphere
+Ⅱ. Stratosphere.
+Ⅲ. Troposphere
+<div class = "choice">A. Ⅱ only</div>
+<div class = "choice">B. Ⅲ only</div>
+<div class = "choice">C. Ⅰ and Ⅱ only</div>
+<div class = "choice">D. Ⅱ and Ⅲ only</div>
+</div>
+###################
+<div class = "quiz">2. A flash was observed above a large thunderstorm cloud. The flash had a duration of 100 msec and an altitude between 50 km and 80 km. Based on Figure 1 and Table 1, that flash was most likely which of the following?
+<div class = "choice">F. A red sprite</div>
+<div class = "choice">G. A blue jet</div>
+<div class = "choice">H. Elves</div>
+<div class = "choice">J. A＋CG lightning stroke</div>
+</div>
+###################
+<div class = "quiz">3. According to Figure 2, the percent of ＋CG lightning strokes that produced a TLE more than doubled between which of the following 2 peak current ranges?
+<div class = "choice">A. Between 75—100 kA and 100—125 kA.</div>
+<div class = "choice">B. Between 100—125 kA and 125—150 kA</div>
+<div class = "choice">C. Between 125—150 kA and 150—175 kA</div>
+<div class = "choice">D. Between 175—200 kA and 200—225 kA.</div>
+</div>
+###################
+<div class = "quiz">4. According to Figure 2, the probability that a TLE will follow a ＋CG lightning stroke is highest for which of the following ranges of peak currents?
+<div class = "choice">F. 25 kA to 50 kA</div>
+<div class = "choice">G. 75 kA to 100 kA</div>
+<div class = "choice">H. 125 kA to 150 kA</div>
+<div class = "choice">J. 175 kA to 200 kA</div>
+</div>
+###################
+<div class = "quiz">5. Based on Figure 2, TLEs were produced by approximately what fraction of ＋CG lightning strokes with peak currents between 75 kA and 100 kA ?
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\144.png' width = '24'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\145.png' width = '22'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\146.png' width = '24'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\147.png' width = '22'height = '65'/></div>
+<br>
+</div>
+###################

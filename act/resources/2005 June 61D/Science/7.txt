@@ -1,56 +1,56 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The male-to-female body mass ratio (MFMR) of a species can be calculated as follows:</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBtYWxlLXRvLWZlbWFsZSBib2R5IG1hc3MgcmF0aW8gKE1GTVIpIG9mIGEgc3BlY2llcyBjYW4gYmUgY2FsY3VsYXRlZCBhcyBmb2xsb3dzOjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">MFMR=<img src='file:\$$$\resources\2005 June 61D\imgs\189.png' width = '107'height = '42'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1GTVI9PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDE4OS5wbmcnIHdpZHRoID0gJzEwNydoZWlnaHQgPSAnNDInLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In this equation, <img src='file:\$$$\resources\2005 June 61D\imgs\190.png' width = '50'height = '42'/>is the average body mass of adult males and <img src='file:\$$$\resources\2005 June 61D\imgs\191.png' width = '35'height = '42'/> is the average body mass of adult females.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHRoaXMgZXF1YXRpb24sIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxOTAucG5nJyB3aWR0aCA9ICc1MCdoZWlnaHQgPSAnNDInLz5pcyB0aGUgYXZlcmFnZSBib2R5IG1hc3Mgb2YgYWR1bHQgbWFsZXMgYW5kIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxOTEucG5nJyB3aWR0aCA9ICczNSdoZWlnaHQgPSAnNDInLz4gaXMgdGhlIGF2ZXJhZ2UgYm9keSBtYXNzIG9mIGFkdWx0IGZlbWFsZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure shows the MFMR of some species within 4 primate groups: apes and humans; Old World monkeys; New World monkeys; and prosimians. A species with an MFMR of 1 is monomorphic with respect to body mass. A species with an MFMR different than 1 is dimorphic with respect to body mass. (Note: In the figure, MFMR values are calculated to the nearest tenth.)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmaWd1cmUgc2hvd3MgdGhlIE1GTVIgb2Ygc29tZSBzcGVjaWVzIHdpdGhpbiA0IHByaW1hdGUgZ3JvdXBzOiBhcGVzIGFuZCBodW1hbnM7IE9sZCBXb3JsZCBtb25rZXlzOyBOZXcgV29ybGQgbW9ua2V5czsgYW5kIHByb3NpbWlhbnMuIEEgc3BlY2llcyB3aXRoIGFuIE1GTVIgb2YgMSBpcyBtb25vbW9ycGhpYyB3aXRoIHJlc3BlY3QgdG8gYm9keSBtYXNzLiBBIHNwZWNpZXMgd2l0aCBhbiBNRk1SIGRpZmZlcmVudCB0aGFuIDEgaXMgZGltb3JwaGljIHdpdGggcmVzcGVjdCB0byBib2R5IG1hc3MuIChOb3RlOiBJbiB0aGUgZmlndXJlLCBNRk1SIHZhbHVlcyBhcmUgY2FsY3VsYXRlZCB0byB0aGUgbmVhcmVzdCB0ZW50aC4pPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\192.png' width = '1381'height = '875'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxOTIucG5nJyB3aWR0aCA9ICcxMzgxJ2hlaWdodCA9ICc4NzUnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Steve Jones, Robert Martin, and David Pilbeam, eds. The Cambridge Encyclopedia of Human Evolution. © 1992 by Cambridge University Press.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSBhZGFwdGVkIGZyb20gU3RldmUgSm9uZXMsIFJvYmVydCBNYXJ0aW4sIGFuZCBEYXZpZCBQaWxiZWFtLCBlZHMuIFRoZSBDYW1icmlkZ2UgRW5jeWNsb3BlZGlhIG9mIEh1bWFuIEV2b2x1dGlvbi4gwqkgMTk5MiBieSBDYW1icmlkZ2UgVW5pdmVyc2l0eSBQcmVzcy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">36. According to the figure, the body mass of the average adult male orangutan is how many times greater than the body mass of the average adult female orangutan?
-<div class = "choice">F. 1.1</div>
-<div class = "choice">G. 1.4</div>
-<div class = "choice">H. 1.6</div>
-<div class = "choice">J. 1.9</div>
-</div>
-###################
-<div class = "quiz">37. Which of the following statements about the relative size of male and female chimpanzees and aye-ayes is consistent with the information provided?
-<div class = "choice">A. Both chimpanzees and aye-ayes are dimorphic with respect to body mass.</div>
-<div class = "choice">B. Both chimpanzees and aye-ayes are monomorphic with respect to body mass.</div>
-<div class = "choice">C. Chimpanzees are dimorphic with respect to body mass, and aye-ayes are monomorphic with respect to body mass.</div>
-<div class = "choice">D. Chimpanzees are monomorphic with respect to body mass, and aye-ayes are dimorphic with respect to body mass.</div>
-</div>
-###################
-<div class = "quiz">38. According to the figure, which of the following primate groups has the largest proportion of monomorphic species?
-<div class = "choice">F. Apes</div>
-<div class = "choice">G. Old World monkeys</div>
-<div class = "choice">H. New World monkeys</div>
-<div class = "choice">J. Prosimians</div>
-</div>
-###################
-<div class = "quiz">39. On average, which of the following types of apes shown in the figure has the greates MFMR?
-<div class = "choice">A. Gibbons</div>
-<div class = "choice">B. Chimpanzees</div>
-<div class = "choice">C. Orangutans</div>
-<div class = "choice">D. Gorillas</div>
-</div>
-###################
-<div class = "quiz">40. Which of the following best explains the units of measure that are associated with the MFMR?
-<div class = "choice">F. The numerator is in units of mass and the denominator is in units of mass, so the ratio has no units.</div>
-<div class = "choice">G. The numerator is in units of mass and the denominator is in units of mass, so the ratio is in units of mass.</div>
-<div class = "choice">H. The numerator is in units of volume and the denominator is in units of volume, so the ratio has no units.</div>
-<div class = "choice">J. The numerator is in units of volume and the denominator is in units of volume, so the ratio is in units of volume.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4gQWNjb3JkaW5nIHRvIHRoZSBmaWd1cmUsIHRoZSBib2R5IG1hc3Mgb2YgdGhlIGF2ZXJhZ2UgYWR1bHQgbWFsZSBvcmFuZ3V0YW4gaXMgaG93IG1hbnkgdGltZXMgZ3JlYXRlciB0aGFuIHRoZSBib2R5IG1hc3Mgb2YgdGhlIGF2ZXJhZ2UgYWR1bHQgZmVtYWxlIG9yYW5ndXRhbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEuMTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEuNDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEuNjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEuOTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFib3V0IHRoZSByZWxhdGl2ZSBzaXplIG9mIG1hbGUgYW5kIGZlbWFsZSBjaGltcGFuemVlcyBhbmQgYXllLWF5ZXMgaXMgY29uc2lzdGVudCB3aXRoIHRoZSBpbmZvcm1hdGlvbiBwcm92aWRlZD8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEJvdGggY2hpbXBhbnplZXMgYW5kIGF5ZS1heWVzIGFyZSBkaW1vcnBoaWMgd2l0aCByZXNwZWN0IHRvIGJvZHkgbWFzcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEJvdGggY2hpbXBhbnplZXMgYW5kIGF5ZS1heWVzIGFyZSBtb25vbW9ycGhpYyB3aXRoIHJlc3BlY3QgdG8gYm9keSBtYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENoaW1wYW56ZWVzIGFyZSBkaW1vcnBoaWMgd2l0aCByZXNwZWN0IHRvIGJvZHkgbWFzcywgYW5kIGF5ZS1heWVzIGFyZSBtb25vbW9ycGhpYyB3aXRoIHJlc3BlY3QgdG8gYm9keSBtYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENoaW1wYW56ZWVzIGFyZSBtb25vbW9ycGhpYyB3aXRoIHJlc3BlY3QgdG8gYm9keSBtYXNzLCBhbmQgYXllLWF5ZXMgYXJlIGRpbW9ycGhpYyB3aXRoIHJlc3BlY3QgdG8gYm9keSBtYXNzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4gQWNjb3JkaW5nIHRvIHRoZSBmaWd1cmUsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgcHJpbWF0ZSBncm91cHMgaGFzIHRoZSBsYXJnZXN0IHByb3BvcnRpb24gb2YgbW9ub21vcnBoaWMgc3BlY2llcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEFwZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE9sZCBXb3JsZCBtb25rZXlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5ldyBXb3JsZCBtb25rZXlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFByb3NpbWlhbnM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4gT24gYXZlcmFnZSwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyB0eXBlcyBvZiBhcGVzIHNob3duIGluIHRoZSBmaWd1cmUgaGFzIHRoZSBncmVhdGVzIE1GTVI/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEdpYmJvbnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENoaW1wYW56ZWVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE9yYW5ndXRhbnM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEdvcmlsbGFzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGV4cGxhaW5zIHRoZSB1bml0cyBvZiBtZWFzdXJlIHRoYXQgYXJlIGFzc29jaWF0ZWQgd2l0aCB0aGUgTUZNUj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBudW1lcmF0b3IgaXMgaW4gdW5pdHMgb2YgbWFzcyBhbmQgdGhlIGRlbm9taW5hdG9yIGlzIGluIHVuaXRzIG9mIG1hc3MsIHNvIHRoZSByYXRpbyBoYXMgbm8gdW5pdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBudW1lcmF0b3IgaXMgaW4gdW5pdHMgb2YgbWFzcyBhbmQgdGhlIGRlbm9taW5hdG9yIGlzIGluIHVuaXRzIG9mIG1hc3MsIHNvIHRoZSByYXRpbyBpcyBpbiB1bml0cyBvZiBtYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBudW1lcmF0b3IgaXMgaW4gdW5pdHMgb2Ygdm9sdW1lIGFuZCB0aGUgZGVub21pbmF0b3IgaXMgaW4gdW5pdHMgb2Ygdm9sdW1lLCBzbyB0aGUgcmF0aW8gaGFzIG5vIHVuaXRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBudW1lcmF0b3IgaXMgaW4gdW5pdHMgb2Ygdm9sdW1lIGFuZCB0aGUgZGVub21pbmF0b3IgaXMgaW4gdW5pdHMgb2Ygdm9sdW1lLCBzbyB0aGUgcmF0aW8gaXMgaW4gdW5pdHMgb2Ygdm9sdW1lLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

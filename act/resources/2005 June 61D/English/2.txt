@@ -1,136 +1,136 @@
-﻿<h1>A Tree’s Change in Status</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[1]</div>
+77s/PGgxPkEgVHJlZeKAmXMgQ2hhbmdlIGluIFN0YXR1czwvaDE+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsxXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=19>[1] For almost two millennia, the <font id=16>yew an evergreen tree with a poisonous fruit</font> and a twisted trunk, was scorned or feared by many people, particularly Europeans. [2] In the first century A.D., the Greek biographer Plutarch <font id=17>warned of</font> sleeping in the shade of a yew was a deadly practice. [3] About the same time, the Roman author Pliny pronounced the yew "unpleasant and fearful to look upon." [4] The old British practice of planting yews in cemeteries did nothing <font id=18>in changing or altering that</font> reputation. [5] Recently, however, the discovery of taxol, a substance found in the bark of the yew, has given the tree new status. </font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE5PlsxXSBGb3IgYWxtb3N0IHR3byBtaWxsZW5uaWEsIHRoZSA8Zm9udCBpZD0xNj55ZXcgYW4gZXZlcmdyZWVuIHRyZWUgd2l0aCBhIHBvaXNvbm91cyBmcnVpdDwvZm9udD4gYW5kIGEgdHdpc3RlZCB0cnVuaywgd2FzIHNjb3JuZWQgb3IgZmVhcmVkIGJ5IG1hbnkgcGVvcGxlLCBwYXJ0aWN1bGFybHkgRXVyb3BlYW5zLiBbMl0gSW4gdGhlIGZpcnN0IGNlbnR1cnkgQS5ELiwgdGhlIEdyZWVrIGJpb2dyYXBoZXIgUGx1dGFyY2ggPGZvbnQgaWQ9MTc+d2FybmVkIG9mPC9mb250PiBzbGVlcGluZyBpbiB0aGUgc2hhZGUgb2YgYSB5ZXcgd2FzIGEgZGVhZGx5IHByYWN0aWNlLiBbM10gQWJvdXQgdGhlIHNhbWUgdGltZSwgdGhlIFJvbWFuIGF1dGhvciBQbGlueSBwcm9ub3VuY2VkIHRoZSB5ZXcgInVucGxlYXNhbnQgYW5kIGZlYXJmdWwgdG8gbG9vayB1cG9uLiIgWzRdIFRoZSBvbGQgQnJpdGlzaCBwcmFjdGljZSBvZiBwbGFudGluZyB5ZXdzIGluIGNlbWV0ZXJpZXMgZGlkIG5vdGhpbmcgPGZvbnQgaWQ9MTg+aW4gY2hhbmdpbmcgb3IgYWx0ZXJpbmcgdGhhdDwvZm9udD4gcmVwdXRhdGlvbi4gWzVdIFJlY2VudGx5LCBob3dldmVyLCB0aGUgZGlzY292ZXJ5IG9mIHRheG9sLCBhIHN1YnN0YW5jZSBmb3VuZCBpbiB0aGUgYmFyayBvZiB0aGUgeWV3LCBoYXMgZ2l2ZW4gdGhlIHRyZWUgbmV3IHN0YXR1cy4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[2]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlsyXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the 1960s, scientists discovered <font id=20>that it was a</font> promising anticancer drug. <font id=21>21</font> Although pharmaceutical companies <font id=22>that begun to produce</font> the drug learned that taxol could be extracted from the bark of all species of yew, <font id=23>its attention was soon focused</font> on the Pacific yew. <font id=24>24</font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHRoZSAxOTYwcywgc2NpZW50aXN0cyBkaXNjb3ZlcmVkIDxmb250IGlkPTIwPnRoYXQgaXQgd2FzIGE8L2ZvbnQ+IHByb21pc2luZyBhbnRpY2FuY2VyIGRydWcuIDxmb250IGlkPTIxPjIxPC9mb250PiBBbHRob3VnaCBwaGFybWFjZXV0aWNhbCBjb21wYW5pZXMgPGZvbnQgaWQ9MjI+dGhhdCBiZWd1biB0byBwcm9kdWNlPC9mb250PiB0aGUgZHJ1ZyBsZWFybmVkIHRoYXQgdGF4b2wgY291bGQgYmUgZXh0cmFjdGVkIGZyb20gdGhlIGJhcmsgb2YgYWxsIHNwZWNpZXMgb2YgeWV3LCA8Zm9udCBpZD0yMz5pdHMgYXR0ZW50aW9uIHdhcyBzb29uIGZvY3VzZWQ8L2ZvbnQ+IG9uIHRoZSBQYWNpZmljIHlldy4gPGZvbnQgaWQ9MjQ+MjQ8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[3]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlszXTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>To produce enough taxol to provide</font> for the needs of all patients, chemists estimated that they would need the bark <font id=26>from about</font> 40,000 Pacific yews each year. Since the yew is slow growing and sparsely distributed among other trees in the forest, <font id=27>it is scattered throughout the area. </font> To save the trees and still provide for the <font id=28>patient's needs, </font> scientists began to produce taxol synthetically in the laboratory from the tree's leaves. <font id=29>This process</font> is more costly than harvesting the bark, growing the foliage in a nursery provides a renewable resource.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI1PlRvIHByb2R1Y2UgZW5vdWdoIHRheG9sIHRvIHByb3ZpZGU8L2ZvbnQ+IGZvciB0aGUgbmVlZHMgb2YgYWxsIHBhdGllbnRzLCBjaGVtaXN0cyBlc3RpbWF0ZWQgdGhhdCB0aGV5IHdvdWxkIG5lZWQgdGhlIGJhcmsgPGZvbnQgaWQ9MjY+ZnJvbSBhYm91dDwvZm9udD4gNDAsMDAwIFBhY2lmaWMgeWV3cyBlYWNoIHllYXIuIFNpbmNlIHRoZSB5ZXcgaXMgc2xvdyBncm93aW5nIGFuZCBzcGFyc2VseSBkaXN0cmlidXRlZCBhbW9uZyBvdGhlciB0cmVlcyBpbiB0aGUgZm9yZXN0LCA8Zm9udCBpZD0yNz5pdCBpcyBzY2F0dGVyZWQgdGhyb3VnaG91dCB0aGUgYXJlYS4gPC9mb250PiBUbyBzYXZlIHRoZSB0cmVlcyBhbmQgc3RpbGwgcHJvdmlkZSBmb3IgdGhlIDxmb250IGlkPTI4PnBhdGllbnQncyBuZWVkcywgPC9mb250PiBzY2llbnRpc3RzIGJlZ2FuIHRvIHByb2R1Y2UgdGF4b2wgc3ludGhldGljYWxseSBpbiB0aGUgbGFib3JhdG9yeSBmcm9tIHRoZSB0cmVlJ3MgbGVhdmVzLiA8Zm9udCBpZD0yOT5UaGlzIHByb2Nlc3M8L2ZvbnQ+IGlzIG1vcmUgY29zdGx5IHRoYW4gaGFydmVzdGluZyB0aGUgYmFyaywgZ3Jvd2luZyB0aGUgZm9saWFnZSBpbiBhIG51cnNlcnkgcHJvdmlkZXMgYSByZW5ld2FibGUgcmVzb3VyY2UuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[4]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls0XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Recent studies have shown that Pacific yews can be successfully propagated at a minimal cost. <font id=30>Whether</font> the young plants are kept under conditions with high humidity, their survival rate is about 70 percent. These studies indicate that chemists will be able to secure an adequate supply of taxol and also save the Pacific yew from possible extinction.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlY2VudCBzdHVkaWVzIGhhdmUgc2hvd24gdGhhdCBQYWNpZmljIHlld3MgY2FuIGJlIHN1Y2Nlc3NmdWxseSBwcm9wYWdhdGVkIGF0IGEgbWluaW1hbCBjb3N0LiA8Zm9udCBpZD0zMD5XaGV0aGVyPC9mb250PiB0aGUgeW91bmcgcGxhbnRzIGFyZSBrZXB0IHVuZGVyIGNvbmRpdGlvbnMgd2l0aCBoaWdoIGh1bWlkaXR5LCB0aGVpciBzdXJ2aXZhbCByYXRlIGlzIGFib3V0IDcwIHBlcmNlbnQuIFRoZXNlIHN0dWRpZXMgaW5kaWNhdGUgdGhhdCBjaGVtaXN0cyB3aWxsIGJlIGFibGUgdG8gc2VjdXJlIGFuIGFkZXF1YXRlIHN1cHBseSBvZiB0YXhvbCBhbmQgYWxzbyBzYXZlIHRoZSBQYWNpZmljIHlldyBmcm9tIHBvc3NpYmxlIGV4dGluY3Rpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">[5]</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPls1XTwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">With the discovery of taxol, the tree that was once associated with death has now become a tree of life.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldpdGggdGhlIGRpc2NvdmVyeSBvZiB0YXhvbCwgdGhlIHRyZWUgdGhhdCB3YXMgb25jZSBhc3NvY2lhdGVkIHdpdGggZGVhdGggaGFzIG5vdyBiZWNvbWUgYSB0cmVlIG9mIGxpZmUuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">16.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. yew, an evergreen tree, with a poisonous fruit</div>
-<div class = "choice">H. yew, an evergreen tree with a poisonous fruit</div>
-<div class = "choice">J. yew an evergreen tree with a poisonous fruit,</div>
-</div>
-###################
-<div class = "quiz">17.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. warned people about</div>
-<div class = "choice">C. having warned that</div>
-<div class = "choice">D. warned that</div>
-</div>
-###################
-<div class = "quiz">18.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. to alter that acquired</div>
-<div class = "choice">H. in the way of changing that</div>
-<div class = "choice">J. to alter that</div>
-</div>
-###################
-<div class = "quiz">19. For the sake of the logic and coherence of this paragraph, Sentence 2 should be placed:
-<div class = "choice">A. where it is now.</div>
-<div class = "choice">B. before Sentence 1.</div>
-<div class = "choice">C. after Sentence 3.</div>
-<div class = "choice">D. after Sentence 4.</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. that taxol was</div>
-<div class = "choice">H. it as</div>
-<div class = "choice">J. this was</div>
-</div>
-###################
-<div class = "quiz">21. At this point, the writer is considering adding the following true statement:
-There were many medical breakthroughs during the 1960s, and this was only one of them.
-Would this be a relevant addition to make here?
-<div class = "choice">A. Yes, because it provides an important link to the rest of the paragraph.</div>
-<div class = "choice">B. Yes, because it informs the reader that taxol is not the only such drug available.</div>
-<div class = "choice">C. No, because it strays from the main focus of the essay.</div>
-<div class = "choice">D. No, because it implies that scientists did not understand why taxol was important.</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. who'd began producing</div>
-<div class = "choice">H. who begun producing</div>
-<div class = "choice">J. that began to produce</div>
-</div>
-###################
-<div class = "quiz">23. 
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. it soon focused its attention</div>
-<div class = "choice">C. they soon focused their attention</div>
-<div class = "choice">D. it was soon focused</div>
-</div>
-###################
-<div class = "quiz">24. Given that all of the following are true, which one, if added here, would most effectively conclude Paragraph 2 and provide a link to Paragraph 3?
-<div class = "choice">F. Natural stands in the Pacific Northwest represented the largest available source of yew bark.</div>
-<div class = "choice">G. In western North America, the yew grows in cool, moist climates.</div>
-<div class = "choice">H. The Pacific yew is very shade-tolerant and prefers upland sites or riversides.</div>
-<div class = "choice">J. The yew tree, Taxus brevefolia, will grow to fifty feet in height and reach a diameter of two feet.</div>
-</div>
-###################
-<div class = "quiz">25.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Enough taxol production to provide</div>
-<div class = "choice">C. Producing enough taxol in providing</div>
-<div class = "choice">D. They wanted to produce enough taxol to provide</div>
-</div>
-###################
-<div class = "quiz">26. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. of about</div>
-<div class = "choice">G. for approximately</div>
-<div class = "choice">H. of around</div>
-<div class = "choice">J. from approximately</div>
-</div>
-###################
-<div class = "quiz">27. Given that all of the choices are ture, which one would provide an essential link to the sentence that follows?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. its reproduction is through birds, which scatter the seeds in many different places.</div>
-<div class = "choice">C. American conservationists began to fear that the species would be irreparably depleted.</div>
-<div class = "choice">D. this does not diminish the fact that the wood is tough and has other uses.</div>
-</div>
-###################
-<div class = "quiz">28.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. needs' of the patients,</div>
-<div class = "choice">H. patients' needs,</div>
-<div class = "choice">J. patients needs,</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. This</div>
-<div class = "choice">C. As this process</div>
-<div class = "choice">D. Although this process</div>
-</div>
-###################
-<div class = "quiz">30.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. That</div>
-<div class = "choice">H. Seeing</div>
-<div class = "choice">J. If</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHlldywgYW4gZXZlcmdyZWVuIHRyZWUsIHdpdGggYSBwb2lzb25vdXMgZnJ1aXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHlldywgYW4gZXZlcmdyZWVuIHRyZWUgd2l0aCBhIHBvaXNvbm91cyBmcnVpdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHlldyBhbiBldmVyZ3JlZW4gdHJlZSB3aXRoIGEgcG9pc29ub3VzIGZydWl0LDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdhcm5lZCBwZW9wbGUgYWJvdXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhdmluZyB3YXJuZWQgdGhhdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdhcm5lZCB0aGF0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRvIGFsdGVyIHRoYXQgYWNxdWlyZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluIHRoZSB3YXkgb2YgY2hhbmdpbmcgdGhhdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRvIGFsdGVyIHRoYXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gRm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBhbmQgY29oZXJlbmNlIG9mIHRoaXMgcGFyYWdyYXBoLCBTZW50ZW5jZSAyIHNob3VsZCBiZSBwbGFjZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJlZm9yZSBTZW50ZW5jZSAxLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFmdGVyIFNlbnRlbmNlIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFmdGVyIFNlbnRlbmNlIDQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoYXQgdGF4b2wgd2FzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGl0IGFzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoaXMgd2FzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudDo=
+VGhlcmUgd2VyZSBtYW55IG1lZGljYWwgYnJlYWt0aHJvdWdocyBkdXJpbmcgdGhlIDE5NjBzLCBhbmQgdGhpcyB3YXMgb25seSBvbmUgb2YgdGhlbS4=
+V291bGQgdGhpcyBiZSBhIHJlbGV2YW50IGFkZGl0aW9uIHRvIG1ha2UgaGVyZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBwcm92aWRlcyBhbiBpbXBvcnRhbnQgbGluayB0byB0aGUgcmVzdCBvZiB0aGUgcGFyYWdyYXBoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBpbmZvcm1zIHRoZSByZWFkZXIgdGhhdCB0YXhvbCBpcyBub3QgdGhlIG9ubHkgc3VjaCBkcnVnIGF2YWlsYWJsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IHN0cmF5cyBmcm9tIHRoZSBtYWluIGZvY3VzIG9mIHRoZSBlc3NheS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IGltcGxpZXMgdGhhdCBzY2llbnRpc3RzIGRpZCBub3QgdW5kZXJzdGFuZCB3aHkgdGF4b2wgd2FzIGltcG9ydGFudC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdobydkIGJlZ2FuIHByb2R1Y2luZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdobyBiZWd1biBwcm9kdWNpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoYXQgYmVnYW4gdG8gcHJvZHVjZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4g
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGl0IHNvb24gZm9jdXNlZCBpdHMgYXR0ZW50aW9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZXkgc29vbiBmb2N1c2VkIHRoZWlyIGF0dGVudGlvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGl0IHdhcyBzb29uIGZvY3VzZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gR2l2ZW4gdGhhdCBhbGwgb2YgdGhlIGZvbGxvd2luZyBhcmUgdHJ1ZSwgd2hpY2ggb25lLCBpZiBhZGRlZCBoZXJlLCB3b3VsZCBtb3N0IGVmZmVjdGl2ZWx5IGNvbmNsdWRlIFBhcmFncmFwaCAyIGFuZCBwcm92aWRlIGEgbGluayB0byBQYXJhZ3JhcGggMz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5hdHVyYWwgc3RhbmRzIGluIHRoZSBQYWNpZmljIE5vcnRod2VzdCByZXByZXNlbnRlZCB0aGUgbGFyZ2VzdCBhdmFpbGFibGUgc291cmNlIG9mIHlldyBiYXJrLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEluIHdlc3Rlcm4gTm9ydGggQW1lcmljYSwgdGhlIHlldyBncm93cyBpbiBjb29sLCBtb2lzdCBjbGltYXRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBQYWNpZmljIHlldyBpcyB2ZXJ5IHNoYWRlLXRvbGVyYW50IGFuZCBwcmVmZXJzIHVwbGFuZCBzaXRlcyBvciByaXZlcnNpZGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSB5ZXcgdHJlZSwgVGF4dXMgYnJldmVmb2xpYSwgd2lsbCBncm93IHRvIGZpZnR5IGZlZXQgaW4gaGVpZ2h0IGFuZCByZWFjaCBhIGRpYW1ldGVyIG9mIHR3byBmZWV0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEVub3VnaCB0YXhvbCBwcm9kdWN0aW9uIHRvIHByb3ZpZGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFByb2R1Y2luZyBlbm91Z2ggdGF4b2wgaW4gcHJvdmlkaW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZXkgd2FudGVkIHRvIHByb2R1Y2UgZW5vdWdoIHRheG9sIHRvIHByb3ZpZGU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG9mIGFib3V0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZvciBhcHByb3hpbWF0ZWx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9mIGFyb3VuZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZyb20gYXBwcm94aW1hdGVseTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gR2l2ZW4gdGhhdCBhbGwgb2YgdGhlIGNob2ljZXMgYXJlIHR1cmUsIHdoaWNoIG9uZSB3b3VsZCBwcm92aWRlIGFuIGVzc2VudGlhbCBsaW5rIHRvIHRoZSBzZW50ZW5jZSB0aGF0IGZvbGxvd3M/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGl0cyByZXByb2R1Y3Rpb24gaXMgdGhyb3VnaCBiaXJkcywgd2hpY2ggc2NhdHRlciB0aGUgc2VlZHMgaW4gbWFueSBkaWZmZXJlbnQgcGxhY2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFtZXJpY2FuIGNvbnNlcnZhdGlvbmlzdHMgYmVnYW4gdG8gZmVhciB0aGF0IHRoZSBzcGVjaWVzIHdvdWxkIGJlIGlycmVwYXJhYmx5IGRlcGxldGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoaXMgZG9lcyBub3QgZGltaW5pc2ggdGhlIGZhY3QgdGhhdCB0aGUgd29vZCBpcyB0b3VnaCBhbmQgaGFzIG90aGVyIHVzZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG5lZWRzJyBvZiB0aGUgcGF0aWVudHMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBhdGllbnRzJyBuZWVkcyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBhdGllbnRzIG5lZWRzLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoaXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFzIHRoaXMgcHJvY2VzczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFsdGhvdWdoIHRoaXMgcHJvY2VzczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNlZWluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIElmPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

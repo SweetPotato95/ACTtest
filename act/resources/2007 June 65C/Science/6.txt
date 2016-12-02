@@ -1,76 +1,76 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Water flowing over the sediment in a river channel creates bedforms (3-dimensional structures formed in the sediment). The processes that produce bedforms in present-day river channels produced the same types of bedforms in ancient river channels. Ancient bedforms are often found preserved in sedimentary rock layers. Figure l shows a longitudinal cross section of 3 types of bedforms: ripples, dunes, and flat beds.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldhdGVyIGZsb3dpbmcgb3ZlciB0aGUgc2VkaW1lbnQgaW4gYSByaXZlciBjaGFubmVsIGNyZWF0ZXMgYmVkZm9ybXMgKDMtZGltZW5zaW9uYWwgc3RydWN0dXJlcyBmb3JtZWQgaW4gdGhlIHNlZGltZW50KS4gVGhlIHByb2Nlc3NlcyB0aGF0IHByb2R1Y2UgYmVkZm9ybXMgaW4gcHJlc2VudC1kYXkgcml2ZXIgY2hhbm5lbHMgcHJvZHVjZWQgdGhlIHNhbWUgdHlwZXMgb2YgYmVkZm9ybXMgaW4gYW5jaWVudCByaXZlciBjaGFubmVscy4gQW5jaWVudCBiZWRmb3JtcyBhcmUgb2Z0ZW4gZm91bmQgcHJlc2VydmVkIGluIHNlZGltZW50YXJ5IHJvY2sgbGF5ZXJzLiBGaWd1cmUgbCBzaG93cyBhIGxvbmdpdHVkaW5hbCBjcm9zcyBzZWN0aW9uIG9mIDMgdHlwZXMgb2YgYmVkZm9ybXM6IHJpcHBsZXMsIGR1bmVzLCBhbmQgZmxhdCBiZWRzLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\242.png' width = '714'height = '488'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyNDIucG5nJyB3aWR0aCA9ICc3MTQnaGVpZ2h0ID0gJzQ4OCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A geologist conducted 3 studies using 'an artificial river channel 15 m long. 1 m wide, and 0.6 m deep. Water velocity through the channel and water flow depth could be controlled. At the start of each study, a .flat, 15 cm thick layer of sand particles of uniform diameter was placed in the bottom of the channel. Various combinations of water velocity, from 0.2 m/sec to 2.0 m/sec, and of water flow depth: from 0.1 m to 0.4 m, were tested in each of the 3 studies.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkEgZ2VvbG9naXN0IGNvbmR1Y3RlZCAzIHN0dWRpZXMgdXNpbmcgJ2FuIGFydGlmaWNpYWwgcml2ZXIgY2hhbm5lbCAxNSBtIGxvbmcuIDEgbSB3aWRlLCBhbmQgMC42IG0gZGVlcC4gV2F0ZXIgdmVsb2NpdHkgdGhyb3VnaCB0aGUgY2hhbm5lbCBhbmQgd2F0ZXIgZmxvdyBkZXB0aCBjb3VsZCBiZSBjb250cm9sbGVkLiBBdCB0aGUgc3RhcnQgb2YgZWFjaCBzdHVkeSwgYSAuZmxhdCwgMTUgY20gdGhpY2sgbGF5ZXIgb2Ygc2FuZCBwYXJ0aWNsZXMgb2YgdW5pZm9ybSBkaWFtZXRlciB3YXMgcGxhY2VkIGluIHRoZSBib3R0b20gb2YgdGhlIGNoYW5uZWwuIFZhcmlvdXMgY29tYmluYXRpb25zIG9mIHdhdGVyIHZlbG9jaXR5LCBmcm9tIDAuMiBtL3NlYyB0byAyLjAgbS9zZWMsIGFuZCBvZiB3YXRlciBmbG93IGRlcHRoOiBmcm9tIDAuMSBtIHRvIDAuNCBtLCB3ZXJlIHRlc3RlZCBpbiBlYWNoIG9mIHRoZSAzIHN0dWRpZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study l</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IGw8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The bottom of the channel was covered with fine sand particles, all having a diameter of 0.19 mm. Water was passed over the sediment bed. The resulting bedform stability fields (water velocities and water flow depths at which various types of bedforms were present) are shown in Figure 2.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBib3R0b20gb2YgdGhlIGNoYW5uZWwgd2FzIGNvdmVyZWQgd2l0aCBmaW5lIHNhbmQgcGFydGljbGVzLCBhbGwgaGF2aW5nIGEgZGlhbWV0ZXIgb2YgMC4xOSBtbS4gV2F0ZXIgd2FzIHBhc3NlZCBvdmVyIHRoZSBzZWRpbWVudCBiZWQuIFRoZSByZXN1bHRpbmcgYmVkZm9ybSBzdGFiaWxpdHkgZmllbGRzICh3YXRlciB2ZWxvY2l0aWVzIGFuZCB3YXRlciBmbG93IGRlcHRocyBhdCB3aGljaCB2YXJpb3VzIHR5cGVzIG9mIGJlZGZvcm1zIHdlcmUgcHJlc2VudCkgYXJlIHNob3duIGluIEZpZ3VyZSAyLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\243.png' width = '665'height = '616'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyNDMucG5nJyB3aWR0aCA9ICc2NjUnaGVpZ2h0ID0gJzYxNicvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1 was repeated using medium sand particles, all having a diameter of 0.45 mm. The resulting bedform stability fields are shown in Figure 3.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDEgd2FzIHJlcGVhdGVkIHVzaW5nIG1lZGl1bSBzYW5kIHBhcnRpY2xlcywgYWxsIGhhdmluZyBhIGRpYW1ldGVyIG9mIDAuNDUgbW0uIFRoZSByZXN1bHRpbmcgYmVkZm9ybSBzdGFiaWxpdHkgZmllbGRzIGFyZSBzaG93biBpbiBGaWd1cmUgMy48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\244.png' width = '674'height = '596'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyNDQucG5nJyB3aWR0aCA9ICc2NzQnaGVpZ2h0ID0gJzU5NicvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDM8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study .1 was repeated using coarse sand particles, all having a diameter of 0.93 mm. The resulting bedform stability fields are shown in Figure 4.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IC4xIHdhcyByZXBlYXRlZCB1c2luZyBjb2Fyc2Ugc2FuZCBwYXJ0aWNsZXMsIGFsbCBoYXZpbmcgYSBkaWFtZXRlciBvZiAwLjkzIG1tLiBUaGUgcmVzdWx0aW5nIGJlZGZvcm0gc3RhYmlsaXR5IGZpZWxkcyBhcmUgc2hvd24gaW4gRmlndXJlIDQuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\245.png' width = '688'height = '606'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgSnVuZSA2NUNcaW1nc1wyNDUucG5nJyB3aWR0aCA9ICc2ODgnaGVpZ2h0ID0gJzYwNicvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2-4 adapted from Gerald Middleton and John Southard, Mechanics of Sediment Movement. ©1984 by the Society of Economic Paleontologists and Mineralogists.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMi00IGFkYXB0ZWQgZnJvbSBHZXJhbGQgTWlkZGxldG9uIGFuZCBKb2huIFNvdXRoYXJkLCBNZWNoYW5pY3Mgb2YgU2VkaW1lbnQgTW92ZW1lbnQuIMKpMTk4NCBieSB0aGUgU29jaWV0eSBvZiBFY29ub21pYyBQYWxlb250b2xvZ2lzdHMgYW5kIE1pbmVyYWxvZ2lzdHMuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">28. Which of the following factors was NOT directly controlled by the geologist during the studies?
-<div class = "choice">F. Water velocity</div>
-<div class = "choice">G. Water flow depth</div>
-<div class = "choice">H. Bedform type</div>
-<div class = "choice">J. Sediment panicle diameter</div>
-<br>
-###################
-<div class = "quiz">29. Suppose Study l were repeated using sand particles all having a. diameter of 0.30 mm. The resulting bedform stability fields would include which of the 3 types of bedforms referred to in the passage?
-<div class = "choice">A. Ripples only</div>
-<div class = "choice">B. Flat beds only</div>
-<div class = "choice">C. Ripples and dunes only</div>
-<div class = "choice">D. Dunes and flat beds only</div>
-</div>
-###################
-<div class = "quiz">30. A sedimentary rock layer containing preserved, ripples was composed entirely of sediment particles with diameters between 0.4 mm and 0.5 mm. The water flow depth in the river at the time the .ripples were forming was between 0.1 m and 0.4 m. Based on the information presented, the velocity of the river water was most likely:
-<div class = "choice">F. less than 0.5 m/sec.</div>
-<div class = "choice">G. between 0.5 m/sec and 0.6 m/sec.</div>
-<div class = "choice">H. between 0.6 m/sec and 0.7 m/sec.</div>
-<div class = "choice">J. greater than 0.7 m/sec.</div>
-</div>
-###################
-<div class = "quiz">31. According to the results of Studies l and 2, which of the following statements comparing the maximum water velocity at which ripples were present and the maximum water velocity at which dunes were present is true?
-<div class = "choice">A. For all water flow depths, the maximum water velocity at which ripples were present was higher than the corresponding maximum water velocity at which dunes were present.</div>
-<div class = "choice">B. For all water flow depths, the maximum water velocity at which ripples were present was lower than the corresponding maximum water velocity at which dunes were present.</div>
-<div class = "choice">C. For only some of the water flow depths, the maximum water velocity at which ripples were present was higher than the corresponding maximum water velocity at which dunes were present.</div>
-<div class = "choice">D. For only some of the water flow depths, the maximum water velocity at which ripples were present was lower than' the corresponding maximum water velocity at which dunes were present.</div>
-</div>
-###################
-<div class = "quiz">32. According to the results of Study 3, for a given water velocity, as the water flow depth increased, the type of bedform present:
-<div class = "choice">F. changed from ripples to dunes.</div>
-<div class = "choice">G. changed from dune to flat beds.</div>
-<div class = "choice">H. changed from flat beds to dunes.</div>
-<div class = "choice">J. did not change.</div>
-</div>
-###################
-<div class = "quiz">33. Consider the average wavelength of a ripple bedform and the average wavelength of a dune bedform, as shown in Figure 1. Which, if either, is(are) greater than 10 cm?
-<div class = "choice">A. The average wavelength of a ripple bedform only</div>
-<div class = "choice">B. The average wavelength of a dune bedform only</div>
-<div class = "choice">C. Both the average .wavelength of a ripple bedform and the average wavelength of a dune bedform</div>
-<div class = "choice">D. Neither the average wavelength of a ripple bedform nor the average wavelength of a dune bedform</div>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBmYWN0b3JzIHdhcyBOT1QgZGlyZWN0bHkgY29udHJvbGxlZCBieSB0aGUgZ2VvbG9naXN0IGR1cmluZyB0aGUgc3R1ZGllcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFdhdGVyIHZlbG9jaXR5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFdhdGVyIGZsb3cgZGVwdGg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEJlZGZvcm0gdHlwZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNlZGltZW50IHBhbmljbGUgZGlhbWV0ZXI8L2Rpdj4=
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gU3VwcG9zZSBTdHVkeSBsIHdlcmUgcmVwZWF0ZWQgdXNpbmcgc2FuZCBwYXJ0aWNsZXMgYWxsIGhhdmluZyBhLiBkaWFtZXRlciBvZiAwLjMwIG1tLiBUaGUgcmVzdWx0aW5nIGJlZGZvcm0gc3RhYmlsaXR5IGZpZWxkcyB3b3VsZCBpbmNsdWRlIHdoaWNoIG9mIHRoZSAzIHR5cGVzIG9mIGJlZGZvcm1zIHJlZmVycmVkIHRvIGluIHRoZSBwYXNzYWdlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFJpcHBsZXMgb25seTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZsYXQgYmVkcyBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFJpcHBsZXMgYW5kIGR1bmVzIG9ubHk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIER1bmVzIGFuZCBmbGF0IGJlZHMgb25seTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gQSBzZWRpbWVudGFyeSByb2NrIGxheWVyIGNvbnRhaW5pbmcgcHJlc2VydmVkLCByaXBwbGVzIHdhcyBjb21wb3NlZCBlbnRpcmVseSBvZiBzZWRpbWVudCBwYXJ0aWNsZXMgd2l0aCBkaWFtZXRlcnMgYmV0d2VlbiAwLjQgbW0gYW5kIDAuNSBtbS4gVGhlIHdhdGVyIGZsb3cgZGVwdGggaW4gdGhlIHJpdmVyIGF0IHRoZSB0aW1lIHRoZSAucmlwcGxlcyB3ZXJlIGZvcm1pbmcgd2FzIGJldHdlZW4gMC4xIG0gYW5kIDAuNCBtLiBCYXNlZCBvbiB0aGUgaW5mb3JtYXRpb24gcHJlc2VudGVkLCB0aGUgdmVsb2NpdHkgb2YgdGhlIHJpdmVyIHdhdGVyIHdhcyBtb3N0IGxpa2VseTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAwLjUgbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJldHdlZW4gMC41IG0vc2VjIGFuZCAwLjYgbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJldHdlZW4gMC42IG0vc2VjIGFuZCAwLjcgbS9zZWMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgdGhhbiAwLjcgbS9zZWMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4gQWNjb3JkaW5nIHRvIHRoZSByZXN1bHRzIG9mIFN0dWRpZXMgbCBhbmQgMiwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGNvbXBhcmluZyB0aGUgbWF4aW11bSB3YXRlciB2ZWxvY2l0eSBhdCB3aGljaCByaXBwbGVzIHdlcmUgcHJlc2VudCBhbmQgdGhlIG1heGltdW0gd2F0ZXIgdmVsb2NpdHkgYXQgd2hpY2ggZHVuZXMgd2VyZSBwcmVzZW50IGlzIHRydWU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEZvciBhbGwgd2F0ZXIgZmxvdyBkZXB0aHMsIHRoZSBtYXhpbXVtIHdhdGVyIHZlbG9jaXR5IGF0IHdoaWNoIHJpcHBsZXMgd2VyZSBwcmVzZW50IHdhcyBoaWdoZXIgdGhhbiB0aGUgY29ycmVzcG9uZGluZyBtYXhpbXVtIHdhdGVyIHZlbG9jaXR5IGF0IHdoaWNoIGR1bmVzIHdlcmUgcHJlc2VudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZvciBhbGwgd2F0ZXIgZmxvdyBkZXB0aHMsIHRoZSBtYXhpbXVtIHdhdGVyIHZlbG9jaXR5IGF0IHdoaWNoIHJpcHBsZXMgd2VyZSBwcmVzZW50IHdhcyBsb3dlciB0aGFuIHRoZSBjb3JyZXNwb25kaW5nIG1heGltdW0gd2F0ZXIgdmVsb2NpdHkgYXQgd2hpY2ggZHVuZXMgd2VyZSBwcmVzZW50LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZvciBvbmx5IHNvbWUgb2YgdGhlIHdhdGVyIGZsb3cgZGVwdGhzLCB0aGUgbWF4aW11bSB3YXRlciB2ZWxvY2l0eSBhdCB3aGljaCByaXBwbGVzIHdlcmUgcHJlc2VudCB3YXMgaGlnaGVyIHRoYW4gdGhlIGNvcnJlc3BvbmRpbmcgbWF4aW11bSB3YXRlciB2ZWxvY2l0eSBhdCB3aGljaCBkdW5lcyB3ZXJlIHByZXNlbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEZvciBvbmx5IHNvbWUgb2YgdGhlIHdhdGVyIGZsb3cgZGVwdGhzLCB0aGUgbWF4aW11bSB3YXRlciB2ZWxvY2l0eSBhdCB3aGljaCByaXBwbGVzIHdlcmUgcHJlc2VudCB3YXMgbG93ZXIgdGhhbicgdGhlIGNvcnJlc3BvbmRpbmcgbWF4aW11bSB3YXRlciB2ZWxvY2l0eSBhdCB3aGljaCBkdW5lcyB3ZXJlIHByZXNlbnQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4gQWNjb3JkaW5nIHRvIHRoZSByZXN1bHRzIG9mIFN0dWR5IDMsIGZvciBhIGdpdmVuIHdhdGVyIHZlbG9jaXR5LCBhcyB0aGUgd2F0ZXIgZmxvdyBkZXB0aCBpbmNyZWFzZWQsIHRoZSB0eXBlIG9mIGJlZGZvcm0gcHJlc2VudDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGNoYW5nZWQgZnJvbSByaXBwbGVzIHRvIGR1bmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNoYW5nZWQgZnJvbSBkdW5lIHRvIGZsYXQgYmVkcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNoYW5nZWQgZnJvbSBmbGF0IGJlZHMgdG8gZHVuZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRpZCBub3QgY2hhbmdlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4gQ29uc2lkZXIgdGhlIGF2ZXJhZ2Ugd2F2ZWxlbmd0aCBvZiBhIHJpcHBsZSBiZWRmb3JtIGFuZCB0aGUgYXZlcmFnZSB3YXZlbGVuZ3RoIG9mIGEgZHVuZSBiZWRmb3JtLCBhcyBzaG93biBpbiBGaWd1cmUgMS4gV2hpY2gsIGlmIGVpdGhlciwgaXMoYXJlKSBncmVhdGVyIHRoYW4gMTAgY20/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBhdmVyYWdlIHdhdmVsZW5ndGggb2YgYSByaXBwbGUgYmVkZm9ybSBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBhdmVyYWdlIHdhdmVsZW5ndGggb2YgYSBkdW5lIGJlZGZvcm0gb25seTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJvdGggdGhlIGF2ZXJhZ2UgLndhdmVsZW5ndGggb2YgYSByaXBwbGUgYmVkZm9ybSBhbmQgdGhlIGF2ZXJhZ2Ugd2F2ZWxlbmd0aCBvZiBhIGR1bmUgYmVkZm9ybTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5laXRoZXIgdGhlIGF2ZXJhZ2Ugd2F2ZWxlbmd0aCBvZiBhIHJpcHBsZSBiZWRmb3JtIG5vciB0aGUgYXZlcmFnZSB3YXZlbGVuZ3RoIG9mIGEgZHVuZSBiZWRmb3JtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

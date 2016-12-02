@@ -1,111 +1,111 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This .passage is adapted from Richard Moe's article "Mindless Madness Called Sprawl," based on a speech he gave on November 30, 1996, in Fresno, California (©1996 by Richard Moe).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At the lime he gave the speech, Moe was president of the National Trust for Historic Preservation.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIC5wYXNzYWdlIGlzIGFkYXB0ZWQgZnJvbSBSaWNoYXJkIE1vZSdzIGFydGljbGUgIk1pbmRsZXNzIE1hZG5lc3MgQ2FsbGVkIFNwcmF3bCwiIGJhc2VkIG9uIGEgc3BlZWNoIGhlIGdhdmUgb24gTm92ZW1iZXIgMzAsIDE5OTYsIGluIEZyZXNubywgQ2FsaWZvcm5pYSAowqkxOTk2IGJ5IFJpY2hhcmQgTW9lKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF0IHRoZSBsaW1lIGhlIGdhdmUgdGhlIHNwZWVjaCwgTW9lIHdhcyBwcmVzaWRlbnQgb2YgdGhlIE5hdGlvbmFsIFRydXN0IGZvciBIaXN0b3JpYyBQcmVzZXJ2YXRpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Drive down any highway leading into any town in the country, and what do you see? Fast-food outlets, office parks and shopping malls rising out of vast barren plains of asphalt. Residential subdivisions spreading like inkblots obliterating forests and farms in their relentless march across the landscape. Cars moving sluggishly down the broad ribbons of pavement or halting in frustrated clumps at choked intersections. You see communities drowning in a destructive, soul-less, ugly mess called sprawl.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRyaXZlIGRvd24gYW55IGhpZ2h3YXkgbGVhZGluZyBpbnRvIGFueSB0b3duIGluIHRoZSBjb3VudHJ5LCBhbmQgd2hhdCBkbyB5b3Ugc2VlPyBGYXN0LWZvb2Qgb3V0bGV0cywgb2ZmaWNlIHBhcmtzIGFuZCBzaG9wcGluZyBtYWxscyByaXNpbmcgb3V0IG9mIHZhc3QgYmFycmVuIHBsYWlucyBvZiBhc3BoYWx0LiBSZXNpZGVudGlhbCBzdWJkaXZpc2lvbnMgc3ByZWFkaW5nIGxpa2UgaW5rYmxvdHMgb2JsaXRlcmF0aW5nIGZvcmVzdHMgYW5kIGZhcm1zIGluIHRoZWlyIHJlbGVudGxlc3MgbWFyY2ggYWNyb3NzIHRoZSBsYW5kc2NhcGUuIENhcnMgbW92aW5nIHNsdWdnaXNobHkgZG93biB0aGUgYnJvYWQgcmliYm9ucyBvZiBwYXZlbWVudCBvciBoYWx0aW5nIGluIGZydXN0cmF0ZWQgY2x1bXBzIGF0IGNob2tlZCBpbnRlcnNlY3Rpb25zLiBZb3Ugc2VlIGNvbW11bml0aWVzIGRyb3duaW5nIGluIGEgZGVzdHJ1Y3RpdmUsIHNvdWwtbGVzcywgdWdseSBtZXNzIGNhbGxlZCBzcHJhd2wuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many of us have developed a. frightening form of selective blindness that allows us to pass by the appalling mess without really seeing it. We've allowed our communities to be destroyed bit by bit, and most of us have shrugged off this destruction as ''the price of progress."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hbnkgb2YgdXMgaGF2ZSBkZXZlbG9wZWQgYS4gZnJpZ2h0ZW5pbmcgZm9ybSBvZiBzZWxlY3RpdmUgYmxpbmRuZXNzIHRoYXQgYWxsb3dzIHVzIHRvIHBhc3MgYnkgdGhlIGFwcGFsbGluZyBtZXNzIHdpdGhvdXQgcmVhbGx5IHNlZWluZyBpdC4gV2UndmUgYWxsb3dlZCBvdXIgY29tbXVuaXRpZXMgdG8gYmUgZGVzdHJveWVkIGJpdCBieSBiaXQsIGFuZCBtb3N0IG9mIHVzIGhhdmUgc2hydWdnZWQgb2ZmIHRoaXMgZGVzdHJ1Y3Rpb24gYXMgJyd0aGUgcHJpY2Ugb2YgcHJvZ3Jlc3MuIjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Development that destroys communities isn't progress. It's chaos. And it isn't inevitable, it's merely easy. Too many, developers follow standard formulas, and too many government entities have adopted <font hidden id=12>(12.F)</font>laws and policies that constitute powerful incentives for sprawl.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRldmVsb3BtZW50IHRoYXQgZGVzdHJveXMgY29tbXVuaXRpZXMgaXNuJ3QgcHJvZ3Jlc3MuIEl0J3MgY2hhb3MuIEFuZCBpdCBpc24ndCBpbmV2aXRhYmxlLCBpdCdzIG1lcmVseSBlYXN5LiBUb28gbWFueSwgZGV2ZWxvcGVycyBmb2xsb3cgc3RhbmRhcmQgZm9ybXVsYXMsIGFuZCB0b28gbWFueSBnb3Zlcm5tZW50IGVudGl0aWVzIGhhdmUgYWRvcHRlZCA8Zm9udCBoaWRkZW4gaWQ9MTI+KDEyLkYpPC9mb250Pmxhd3MgYW5kIHBvbGljaWVzIHRoYXQgY29uc3RpdHV0ZSBwb3dlcmZ1bCBpbmNlbnRpdmVzIGZvciBzcHJhd2wuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Why is an organization like the National Trust for Historic Preservation so concerned about sprawl? We're concerned because sprawl devastates older communities, leaving historic buildings and neighborhoods underused, poorly maintained or abandoned. We've learned that we can't hope to revitalize these communities without doing something to control the sprawl that keeps pushing further and further out from the center.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoeSBpcyBhbiBvcmdhbml6YXRpb24gbGlrZSB0aGUgTmF0aW9uYWwgVHJ1c3QgZm9yIEhpc3RvcmljIFByZXNlcnZhdGlvbiBzbyBjb25jZXJuZWQgYWJvdXQgc3ByYXdsPyBXZSdyZSBjb25jZXJuZWQgYmVjYXVzZSBzcHJhd2wgZGV2YXN0YXRlcyBvbGRlciBjb21tdW5pdGllcywgbGVhdmluZyBoaXN0b3JpYyBidWlsZGluZ3MgYW5kIG5laWdoYm9yaG9vZHMgdW5kZXJ1c2VkLCBwb29ybHkgbWFpbnRhaW5lZCBvciBhYmFuZG9uZWQuIFdlJ3ZlIGxlYXJuZWQgdGhhdCB3ZSBjYW4ndCBob3BlIHRvIHJldml0YWxpemUgdGhlc2UgY29tbXVuaXRpZXMgd2l0aG91dCBkb2luZyBzb21ldGhpbmcgdG8gY29udHJvbCB0aGUgc3ByYXdsIHRoYXQga2VlcHMgcHVzaGluZyBmdXJ0aGVyIGFuZCBmdXJ0aGVyIG91dCBmcm9tIHRoZSBjZW50ZXIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But our concern goes beyond that, because preservation today is about more than bricks and mortar. There's a growing body of grim evidence to support our belief that <font hidden id=12>(12.G)</font>the destruction of traditional downtowns and older neighborhoods—places that people care about—is corroding the very sense of community that helps bind us together as a people and as a nation.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBvdXIgY29uY2VybiBnb2VzIGJleW9uZCB0aGF0LCBiZWNhdXNlIHByZXNlcnZhdGlvbiB0b2RheSBpcyBhYm91dCBtb3JlIHRoYW4gYnJpY2tzIGFuZCBtb3J0YXIuIFRoZXJlJ3MgYSBncm93aW5nIGJvZHkgb2YgZ3JpbSBldmlkZW5jZSB0byBzdXBwb3J0IG91ciBiZWxpZWYgdGhhdCA8Zm9udCBoaWRkZW4gaWQ9MTI+KDEyLkcpPC9mb250PnRoZSBkZXN0cnVjdGlvbiBvZiB0cmFkaXRpb25hbCBkb3dudG93bnMgYW5kIG9sZGVyIG5laWdoYm9yaG9vZHPigJRwbGFjZXMgdGhhdCBwZW9wbGUgY2FyZSBhYm91dOKAlGlzIGNvcnJvZGluZyB0aGUgdmVyeSBzZW5zZSBvZiBjb21tdW5pdHkgdGhhdCBoZWxwcyBiaW5kIHVzIHRvZ2V0aGVyIGFzIGEgcGVvcGxlIGFuZCBhcyBhIG5hdGlvbi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One form of sprawl—retail development that transforms roads into strip malls—is frequently spurred on by discount retailers, many of whom are now concentrating on the construction of superstores with more than 200,000 square feet of space. In many small towns, a single new superstore may have more retail space than the entire downtown business district. When a store like that opens, the retail center of gravity shifts away from Main Street. Downtown becomes a ghost town.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uZSBmb3JtIG9mIHNwcmF3bOKAlHJldGFpbCBkZXZlbG9wbWVudCB0aGF0IHRyYW5zZm9ybXMgcm9hZHMgaW50byBzdHJpcCBtYWxsc+KAlGlzIGZyZXF1ZW50bHkgc3B1cnJlZCBvbiBieSBkaXNjb3VudCByZXRhaWxlcnMsIG1hbnkgb2Ygd2hvbSBhcmUgbm93IGNvbmNlbnRyYXRpbmcgb24gdGhlIGNvbnN0cnVjdGlvbiBvZiBzdXBlcnN0b3JlcyB3aXRoIG1vcmUgdGhhbiAyMDAsMDAwIHNxdWFyZSBmZWV0IG9mIHNwYWNlLiBJbiBtYW55IHNtYWxsIHRvd25zLCBhIHNpbmdsZSBuZXcgc3VwZXJzdG9yZSBtYXkgaGF2ZSBtb3JlIHJldGFpbCBzcGFjZSB0aGFuIHRoZSBlbnRpcmUgZG93bnRvd24gYnVzaW5lc3MgZGlzdHJpY3QuIFdoZW4gYSBzdG9yZSBsaWtlIHRoYXQgb3BlbnMsIHRoZSByZXRhaWwgY2VudGVyIG9mIGdyYXZpdHkgc2hpZnRzIGF3YXkgZnJvbSBNYWluIFN0cmVldC4gRG93bnRvd24gYmVjb21lcyBhIGdob3N0IHRvd24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Sprawl's other most familiar form—spread-out residential subdivisions that "leapfrog" from the urban fringe, into the countryside—is driven largely by the American dream of a <font id=18>detached</font> home in the middle of a grassy lawn. Developers frequently claim they can build more <font hidden id=12>(12.H)</font> "affordable" housing on the edge of town—but ''affordable" for whom?</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNwcmF3bCdzIG90aGVyIG1vc3QgZmFtaWxpYXIgZm9ybeKAlHNwcmVhZC1vdXQgcmVzaWRlbnRpYWwgc3ViZGl2aXNpb25zIHRoYXQgImxlYXBmcm9nIiBmcm9tIHRoZSB1cmJhbiBmcmluZ2UsIGludG8gdGhlIGNvdW50cnlzaWRl4oCUaXMgZHJpdmVuIGxhcmdlbHkgYnkgdGhlIEFtZXJpY2FuIGRyZWFtIG9mIGEgPGZvbnQgaWQ9MTg+ZGV0YWNoZWQ8L2ZvbnQ+IGhvbWUgaW4gdGhlIG1pZGRsZSBvZiBhIGdyYXNzeSBsYXduLiBEZXZlbG9wZXJzIGZyZXF1ZW50bHkgY2xhaW0gdGhleSBjYW4gYnVpbGQgbW9yZSA8Zm9udCBoaWRkZW4gaWQ9MTI+KDEyLkgpPC9mb250PiAiYWZmb3JkYWJsZSIgaG91c2luZyBvbiB0aGUgZWRnZSBvZiB0b3du4oCUYnV0ICcnYWZmb3JkYWJsZSIgZm9yIHdob20/PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The developer's own expenses may be less, and the home buyer may find the prices attractive—but who picks up the extra costs of fire and police protection, new-roads and new utility infrastructure in these outlying areas? We all do, in the form of higher-taxes for needless duplication of services and infrastructure that already-exist in older parts of our cities and towns.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBkZXZlbG9wZXIncyBvd24gZXhwZW5zZXMgbWF5IGJlIGxlc3MsIGFuZCB0aGUgaG9tZSBidXllciBtYXkgZmluZCB0aGUgcHJpY2VzIGF0dHJhY3RpdmXigJRidXQgd2hvIHBpY2tzIHVwIHRoZSBleHRyYSBjb3N0cyBvZiBmaXJlIGFuZCBwb2xpY2UgcHJvdGVjdGlvbiwgbmV3LXJvYWRzIGFuZCBuZXcgdXRpbGl0eSBpbmZyYXN0cnVjdHVyZSBpbiB0aGVzZSBvdXRseWluZyBhcmVhcz8gV2UgYWxsIGRvLCBpbiB0aGUgZm9ybSBvZiBoaWdoZXItdGF4ZXMgZm9yIG5lZWRsZXNzIGR1cGxpY2F0aW9uIG9mIHNlcnZpY2VzIGFuZCBpbmZyYXN0cnVjdHVyZSB0aGF0IGFscmVhZHktZXhpc3QgaW4gb2xkZXIgcGFydHMgb2Ygb3VyIGNpdGllcyBhbmQgdG93bnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">People who say that sprawl is merely the natural product of marketplace forces at work fail to recognize that <font id=19>the game isn't being played on a level field.</font> Government at every level is riddled with policies that mandate or encourage sprawl.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBlb3BsZSB3aG8gc2F5IHRoYXQgc3ByYXdsIGlzIG1lcmVseSB0aGUgbmF0dXJhbCBwcm9kdWN0IG9mIG1hcmtldHBsYWNlIGZvcmNlcyBhdCB3b3JrIGZhaWwgdG8gcmVjb2duaXplIHRoYXQgPGZvbnQgaWQ9MTk+dGhlIGdhbWUgaXNuJ3QgYmVpbmcgcGxheWVkIG9uIGEgbGV2ZWwgZmllbGQuPC9mb250PiBHb3Zlcm5tZW50IGF0IGV2ZXJ5IGxldmVsIGlzIHJpZGRsZWQgd2l0aCBwb2xpY2llcyB0aGF0IG1hbmRhdGUgb3IgZW5jb3VyYWdlIHNwcmF3bC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=16>By prohibiting <font id=20>mixed uses</font> and mandating inordinate amounts, of parking and unreasonable setback requirements, most current zoning laws, make it impossible—even illegal—to create the sort of compact walkable environment that attracts us to older neighbor-hoods and historic communities all over the world. These codes are a major reason why 82 percent of all trips in the United States are taken by car. The average American household now allocates more than 18 percent of its budget to transportation  expenses, most of which are auto-related. That's more than it spends for food and three times more than it spends for health care.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE2PkJ5IHByb2hpYml0aW5nIDxmb250IGlkPTIwPm1peGVkIHVzZXM8L2ZvbnQ+IGFuZCBtYW5kYXRpbmcgaW5vcmRpbmF0ZSBhbW91bnRzLCBvZiBwYXJraW5nIGFuZCB1bnJlYXNvbmFibGUgc2V0YmFjayByZXF1aXJlbWVudHMsIG1vc3QgY3VycmVudCB6b25pbmcgbGF3cywgbWFrZSBpdCBpbXBvc3NpYmxl4oCUZXZlbiBpbGxlZ2Fs4oCUdG8gY3JlYXRlIHRoZSBzb3J0IG9mIGNvbXBhY3Qgd2Fsa2FibGUgZW52aXJvbm1lbnQgdGhhdCBhdHRyYWN0cyB1cyB0byBvbGRlciBuZWlnaGJvci1ob29kcyBhbmQgaGlzdG9yaWMgY29tbXVuaXRpZXMgYWxsIG92ZXIgdGhlIHdvcmxkLiBUaGVzZSBjb2RlcyBhcmUgYSBtYWpvciByZWFzb24gd2h5IDgyIHBlcmNlbnQgb2YgYWxsIHRyaXBzIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFyZSB0YWtlbiBieSBjYXIuIFRoZSBhdmVyYWdlIEFtZXJpY2FuIGhvdXNlaG9sZCBub3cgYWxsb2NhdGVzIG1vcmUgdGhhbiAxOCBwZXJjZW50IG9mIGl0cyBidWRnZXQgdG8gdHJhbnNwb3J0YXRpb24gIGV4cGVuc2VzLCBtb3N0IG9mIHdoaWNoIGFyZSBhdXRvLXJlbGF0ZWQuIFRoYXQncyBtb3JlIHRoYW4gaXQgc3BlbmRzIGZvciBmb29kIGFuZCB0aHJlZSB0aW1lcyBtb3JlIHRoYW4gaXQgc3BlbmRzIGZvciBoZWFsdGggY2FyZS48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Our communities should be shaped by choice, not by chance. One of the most effective ways to reach this .goal is to insist, on sensible land-use planning. The way we zone and design our communities either opens up or forecloses alternatives to the automobile. Municipalities should promote downtown housing and mixed-use zoning that reduce the distances people must travel between home and work. The goal should be <font hidden id=12>(12.J)</font>an integrated system of planning decisions and regulations that knit communities together instead of tearing them apart. We should demand land-use planning that exhibits a strong bias in favor of existing communities.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk91ciBjb21tdW5pdGllcyBzaG91bGQgYmUgc2hhcGVkIGJ5IGNob2ljZSwgbm90IGJ5IGNoYW5jZS4gT25lIG9mIHRoZSBtb3N0IGVmZmVjdGl2ZSB3YXlzIHRvIHJlYWNoIHRoaXMgLmdvYWwgaXMgdG8gaW5zaXN0LCBvbiBzZW5zaWJsZSBsYW5kLXVzZSBwbGFubmluZy4gVGhlIHdheSB3ZSB6b25lIGFuZCBkZXNpZ24gb3VyIGNvbW11bml0aWVzIGVpdGhlciBvcGVucyB1cCBvciBmb3JlY2xvc2VzIGFsdGVybmF0aXZlcyB0byB0aGUgYXV0b21vYmlsZS4gTXVuaWNpcGFsaXRpZXMgc2hvdWxkIHByb21vdGUgZG93bnRvd24gaG91c2luZyBhbmQgbWl4ZWQtdXNlIHpvbmluZyB0aGF0IHJlZHVjZSB0aGUgZGlzdGFuY2VzIHBlb3BsZSBtdXN0IHRyYXZlbCBiZXR3ZWVuIGhvbWUgYW5kIHdvcmsuIFRoZSBnb2FsIHNob3VsZCBiZSA8Zm9udCBoaWRkZW4gaWQ9MTI+KDEyLkopPC9mb250PmFuIGludGVncmF0ZWQgc3lzdGVtIG9mIHBsYW5uaW5nIGRlY2lzaW9ucyBhbmQgcmVndWxhdGlvbnMgdGhhdCBrbml0IGNvbW11bml0aWVzIHRvZ2V0aGVyIGluc3RlYWQgb2YgdGVhcmluZyB0aGVtIGFwYXJ0LiBXZSBzaG91bGQgZGVtYW5kIGxhbmQtdXNlIHBsYW5uaW5nIHRoYXQgZXhoaWJpdHMgYSBzdHJvbmcgYmlhcyBpbiBmYXZvciBvZiBleGlzdGluZyBjb21tdW5pdGllcy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">11. The principal aim of the passage can best be classified as:
-<div class = "choice">A. persuasive.</div>
-<div class = "choice">B. explanatory.</div>
-<div class = "choice">C. descriptive.</div>
-<div class = "choice">D. narrative.</div>
-</div>
-###################
-<div class = "quiz">12. Among the following quotations from the passage, the one that best summarizes what the author would like to see happen is:
-<div class = "choice">F. "laws and policies that constitute powerful incentives for sprawl" (lines 20-22).</div>
-<div class = "choice">G. "the destruction of traditional downtowns" (line 34)</div>
-<div class = "choice">H. "'affordable' housing on the edge of town" (line 53).</div>
-<div class = "choice">J. "an integrated system of planning decisions and regulations" (lines 87-88).</div>
-</div>
-###################
-<div class = "quiz">13. The last paragraph differs from the first paragraph in that in the last paragraph the author:
-<div class = "choice">A. asks a question and then answers it.</div>
-<div class = "choice">B. uses more statistics to support his arguments.</div>
-<div class = "choice">C. incorporates more emotional language.</div>
-<div class = "choice">D. offers solutions rather than stating a problem.</div>
-</div>
-###################
-<div class = "quiz">14. In the passage, the author answers all of the following questions EXCEPT:
-<div class = "choice">F. How long has sprawl been happening in U.S. cities?</div>
-<div class = "choice">G. Is development synonymous with progress?</div>
-<div class = "choice">H. What is one major reason that people in the United States use automobiles so much?</div>
-<div class = "choice">J. What should communities do to combat sprawl?</div>
-</div>
-###################
-<div class = "quiz">15. The author states that one superstore may do all of the following EXCEPT:
-<div class = "choice">A. have more retail space than an entire downtown.</div>
-<div class = "choice">B. lead to serious downtown renovations.</div>
-<div class = "choice">C. make the downtown area into a ghost town.</div>
-<div class = "choice">D. shift the center of gravity away from downtown.</div>
-</div>
-###################
-<div class = "quiz">16. The statistics cited by the author in the tenth paragraph (lines 67-79) are used to illustrate the concept that:
-<div class = "choice">F. allowing mixed uses 'of land, leads to environmental destruction.</div>
-<div class = "choice">G. current Zoning laws help create a compact, walk-able environment.</div>
-<div class = "choice">H. land-use regulations now in effect increase the overall costs of transportation.</div>
-<div class = "choice">J. Americans  spend too much of their budgets on food and health care.</div>
-</div>
-###################
-<div class = "quiz">17. One form of sprawl the author describes is retail development that:
-<div class = "choice">A. adjoins existing downtown areas.</div>
-<div class = "choice">B. utilizes historic buildings.</div>
-<div class = "choice">C. turns roads into strip malls.</div>
-<div class = "choice">D. promotes a sense of community around a superstore.</div>
-</div>
-###################
-<div class = "quiz">18. As it is used in line 51, the word detached most nearly means:
-<div class = "choice">F. objective.</div>
-<div class = "choice">G. set apart.</div>
-<div class = "choice">H. broken apart.</div>
-<div class = "choice">J. taken away.</div>
-</div>
-###################
-<div class = "quiz">19. The author uses-the statement "The game isn't being played on a level field" (line 64) most nearly to mean that:
-<div class = "choice">A. cities	needlessly-duplicate  essential services.</div>
-<div class = "choice">B. higher taxes for some people make their lives more difficult.</div>
-<div class = "choice">C. marketplace forces are at work.</div>
-<div class = "choice">D. governmental decisions influence marketplace forces.</div>
-</div>
-###################
-<div class = "quiz">20. The phrase mixed uses (line 67) most likely refers to:
-<div class = "choice">F. having large parking lots! around even larger stores.</div>
-<div class = "choice">G. preserving and restoring historic neighborhoods.</div>
-<div class = "choice">H. ensuring that automobiles cannot be driven to the various local businesses.</div>
-<div class = "choice">J. allowing one area to contain various types of development.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHByaW5jaXBhbCBhaW0gb2YgdGhlIHBhc3NhZ2UgY2FuIGJlc3QgYmUgY2xhc3NpZmllZCBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHBlcnN1YXNpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4cGxhbmF0b3J5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRlc2NyaXB0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG5hcnJhdGl2ZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQW1vbmcgdGhlIGZvbGxvd2luZyBxdW90YXRpb25zIGZyb20gdGhlIHBhc3NhZ2UsIHRoZSBvbmUgdGhhdCBiZXN0IHN1bW1hcml6ZXMgd2hhdCB0aGUgYXV0aG9yIHdvdWxkIGxpa2UgdG8gc2VlIGhhcHBlbiBpczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuICJsYXdzIGFuZCBwb2xpY2llcyB0aGF0IGNvbnN0aXR1dGUgcG93ZXJmdWwgaW5jZW50aXZlcyBmb3Igc3ByYXdsIiAobGluZXMgMjAtMjIpLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuICJ0aGUgZGVzdHJ1Y3Rpb24gb2YgdHJhZGl0aW9uYWwgZG93bnRvd25zIiAobGluZSAzNCk8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguICInYWZmb3JkYWJsZScgaG91c2luZyBvbiB0aGUgZWRnZSBvZiB0b3duIiAobGluZSA1MykuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouICJhbiBpbnRlZ3JhdGVkIHN5c3RlbSBvZiBwbGFubmluZyBkZWNpc2lvbnMgYW5kIHJlZ3VsYXRpb25zIiAobGluZXMgODctODgpLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIGxhc3QgcGFyYWdyYXBoIGRpZmZlcnMgZnJvbSB0aGUgZmlyc3QgcGFyYWdyYXBoIGluIHRoYXQgaW4gdGhlIGxhc3QgcGFyYWdyYXBoIHRoZSBhdXRob3I6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFza3MgYSBxdWVzdGlvbiBhbmQgdGhlbiBhbnN3ZXJzIGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHVzZXMgbW9yZSBzdGF0aXN0aWNzIHRvIHN1cHBvcnQgaGlzIGFyZ3VtZW50cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluY29ycG9yYXRlcyBtb3JlIGVtb3Rpb25hbCBsYW5ndWFnZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG9mZmVycyBzb2x1dGlvbnMgcmF0aGVyIHRoYW4gc3RhdGluZyBhIHByb2JsZW0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gSW4gdGhlIHBhc3NhZ2UsIHRoZSBhdXRob3IgYW5zd2VycyBhbGwgb2YgdGhlIGZvbGxvd2luZyBxdWVzdGlvbnMgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEhvdyBsb25nIGhhcyBzcHJhd2wgYmVlbiBoYXBwZW5pbmcgaW4gVS5TLiBjaXRpZXM/PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIElzIGRldmVsb3BtZW50IHN5bm9ueW1vdXMgd2l0aCBwcm9ncmVzcz88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFdoYXQgaXMgb25lIG1ham9yIHJlYXNvbiB0aGF0IHBlb3BsZSBpbiB0aGUgVW5pdGVkIFN0YXRlcyB1c2UgYXV0b21vYmlsZXMgc28gbXVjaD88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdoYXQgc2hvdWxkIGNvbW11bml0aWVzIGRvIHRvIGNvbWJhdCBzcHJhd2w/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIGF1dGhvciBzdGF0ZXMgdGhhdCBvbmUgc3VwZXJzdG9yZSBtYXkgZG8gYWxsIG9mIHRoZSBmb2xsb3dpbmcgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGhhdmUgbW9yZSByZXRhaWwgc3BhY2UgdGhhbiBhbiBlbnRpcmUgZG93bnRvd24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlYWQgdG8gc2VyaW91cyBkb3dudG93biByZW5vdmF0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1ha2UgdGhlIGRvd250b3duIGFyZWEgaW50byBhIGdob3N0IHRvd24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNoaWZ0IHRoZSBjZW50ZXIgb2YgZ3Jhdml0eSBhd2F5IGZyb20gZG93bnRvd24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gVGhlIHN0YXRpc3RpY3MgY2l0ZWQgYnkgdGhlIGF1dGhvciBpbiB0aGUgdGVudGggcGFyYWdyYXBoIChsaW5lcyA2Ny03OSkgYXJlIHVzZWQgdG8gaWxsdXN0cmF0ZSB0aGUgY29uY2VwdCB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFsbG93aW5nIG1peGVkIHVzZXMgJ29mIGxhbmQsIGxlYWRzIHRvIGVudmlyb25tZW50YWwgZGVzdHJ1Y3Rpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGN1cnJlbnQgWm9uaW5nIGxhd3MgaGVscCBjcmVhdGUgYSBjb21wYWN0LCB3YWxrLWFibGUgZW52aXJvbm1lbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxhbmQtdXNlIHJlZ3VsYXRpb25zIG5vdyBpbiBlZmZlY3QgaW5jcmVhc2UgdGhlIG92ZXJhbGwgY29zdHMgb2YgdHJhbnNwb3J0YXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFtZXJpY2FucyAgc3BlbmQgdG9vIG11Y2ggb2YgdGhlaXIgYnVkZ2V0cyBvbiBmb29kIGFuZCBoZWFsdGggY2FyZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gT25lIGZvcm0gb2Ygc3ByYXdsIHRoZSBhdXRob3IgZGVzY3JpYmVzIGlzIHJldGFpbCBkZXZlbG9wbWVudCB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFkam9pbnMgZXhpc3RpbmcgZG93bnRvd24gYXJlYXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHV0aWxpemVzIGhpc3RvcmljIGJ1aWxkaW5ncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHR1cm5zIHJvYWRzIGludG8gc3RyaXAgbWFsbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHByb21vdGVzIGEgc2Vuc2Ugb2YgY29tbXVuaXR5IGFyb3VuZCBhIHN1cGVyc3RvcmUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDUxLCB0aGUgd29yZCBkZXRhY2hlZCBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG9iamVjdGl2ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNldCBhcGFydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJyb2tlbiBhcGFydC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRha2VuIGF3YXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gVGhlIGF1dGhvciB1c2VzLXRoZSBzdGF0ZW1lbnQgIlRoZSBnYW1lIGlzbid0IGJlaW5nIHBsYXllZCBvbiBhIGxldmVsIGZpZWxkIiAobGluZSA2NCkgbW9zdCBuZWFybHkgdG8gbWVhbiB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGNpdGllcwluZWVkbGVzc2x5LWR1cGxpY2F0ZSAgZXNzZW50aWFsIHNlcnZpY2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhpZ2hlciB0YXhlcyBmb3Igc29tZSBwZW9wbGUgbWFrZSB0aGVpciBsaXZlcyBtb3JlIGRpZmZpY3VsdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1hcmtldHBsYWNlIGZvcmNlcyBhcmUgYXQgd29yay48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdvdmVybm1lbnRhbCBkZWNpc2lvbnMgaW5mbHVlbmNlIG1hcmtldHBsYWNlIGZvcmNlcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIHBocmFzZSBtaXhlZCB1c2VzIChsaW5lIDY3KSBtb3N0IGxpa2VseSByZWZlcnMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhhdmluZyBsYXJnZSBwYXJraW5nIGxvdHMhIGFyb3VuZCBldmVuIGxhcmdlciBzdG9yZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHByZXNlcnZpbmcgYW5kIHJlc3RvcmluZyBoaXN0b3JpYyBuZWlnaGJvcmhvb2RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVuc3VyaW5nIHRoYXQgYXV0b21vYmlsZXMgY2Fubm90IGJlIGRyaXZlbiB0byB0aGUgdmFyaW91cyBsb2NhbCBidXNpbmVzc2VzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFsbG93aW5nIG9uZSBhcmVhIHRvIGNvbnRhaW4gdmFyaW91cyB0eXBlcyBvZiBkZXZlbG9wbWVudC48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

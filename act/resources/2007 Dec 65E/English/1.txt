@@ -1,124 +1,124 @@
-﻿
-<h1>Fragile Contents</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The book arrived in a disappointing package. It was small and narrow, wrapped in plain brown paper. My mother's faint <font id=1>handwriting</font> covered the outside. Fragile, she <font id=2>writes</font> next to my address and along each of the <font id=3>sides</font>, I wasn't sure, for a moment. whether she meant to warn the postal workers or me. We had waited years for the publication of this <font id=4>book</font> there were very few copies. It had taken months for me to convince my mother to send me hers. The contents of this package were indeed <font id=5>fragile, I thought,</font> but not in any of the expected ways.</div>
+77s/
+PGgxPkZyYWdpbGUgQ29udGVudHM8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBib29rIGFycml2ZWQgaW4gYSBkaXNhcHBvaW50aW5nIHBhY2thZ2UuIEl0IHdhcyBzbWFsbCBhbmQgbmFycm93LCB3cmFwcGVkIGluIHBsYWluIGJyb3duIHBhcGVyLiBNeSBtb3RoZXIncyBmYWludCA8Zm9udCBpZD0xPmhhbmR3cml0aW5nPC9mb250PiBjb3ZlcmVkIHRoZSBvdXRzaWRlLiBGcmFnaWxlLCBzaGUgPGZvbnQgaWQ9Mj53cml0ZXM8L2ZvbnQ+IG5leHQgdG8gbXkgYWRkcmVzcyBhbmQgYWxvbmcgZWFjaCBvZiB0aGUgPGZvbnQgaWQ9Mz5zaWRlczwvZm9udD4sIEkgd2Fzbid0IHN1cmUsIGZvciBhIG1vbWVudC4gd2hldGhlciBzaGUgbWVhbnQgdG8gd2FybiB0aGUgcG9zdGFsIHdvcmtlcnMgb3IgbWUuIFdlIGhhZCB3YWl0ZWQgeWVhcnMgZm9yIHRoZSBwdWJsaWNhdGlvbiBvZiB0aGlzIDxmb250IGlkPTQ+Ym9vazwvZm9udD4gdGhlcmUgd2VyZSB2ZXJ5IGZldyBjb3BpZXMuIEl0IGhhZCB0YWtlbiBtb250aHMgZm9yIG1lIHRvIGNvbnZpbmNlIG15IG1vdGhlciB0byBzZW5kIG1lIGhlcnMuIFRoZSBjb250ZW50cyBvZiB0aGlzIHBhY2thZ2Ugd2VyZSBpbmRlZWQgPGZvbnQgaWQ9NT5mcmFnaWxlLCBJIHRob3VnaHQsPC9mb250PiBidXQgbm90IGluIGFueSBvZiB0aGUgZXhwZWN0ZWQgd2F5cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was a handbook of the Miami <font id=6>language. Published</font> by the Miami Nation of Oklahoma.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBhIGhhbmRib29rIG9mIHRoZSBNaWFtaSA8Zm9udCBpZD02Pmxhbmd1YWdlLiBQdWJsaXNoZWQ8L2ZvbnQ+IGJ5IHRoZSBNaWFtaSBOYXRpb24gb2YgT2tsYWhvbWEuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=7>It seemed too small, too light, to contain the building blocks of an entire language, one that had lain dormant for me for over thirty years.</font> In fact, only a few of the oldest members of the tribe remember speaking the language at all. I had expected something larger and heavier, as substantial as my webster's Dictionary. <font id=8>A folded note from my mother was tucked between the pages.</font></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTc+SXQgc2VlbWVkIHRvbyBzbWFsbCwgdG9vIGxpZ2h0LCB0byBjb250YWluIHRoZSBidWlsZGluZyBibG9ja3Mgb2YgYW4gZW50aXJlIGxhbmd1YWdlLCBvbmUgdGhhdCBoYWQgbGFpbiBkb3JtYW50IGZvciBtZSBmb3Igb3ZlciB0aGlydHkgeWVhcnMuPC9mb250PiBJbiBmYWN0LCBvbmx5IGEgZmV3IG9mIHRoZSBvbGRlc3QgbWVtYmVycyBvZiB0aGUgdHJpYmUgcmVtZW1iZXIgc3BlYWtpbmcgdGhlIGxhbmd1YWdlIGF0IGFsbC4gSSBoYWQgZXhwZWN0ZWQgc29tZXRoaW5nIGxhcmdlciBhbmQgaGVhdmllciwgYXMgc3Vic3RhbnRpYWwgYXMgbXkgd2Vic3RlcidzIERpY3Rpb25hcnkuIDxmb250IGlkPTg+QSBmb2xkZWQgbm90ZSBmcm9tIG15IG1vdGhlciB3YXMgdHVja2VkIGJldHdlZW4gdGhlIHBhZ2VzLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I <font id=9>glanced and looked</font> through the pages. Then I read about the different parts of speech, about Miami vowels and consonants. However, it was when I began pronouncing the words to <font id=10>myself;</font> that I felt the true weight of the book. As I spoke, I was immediately overwhelmed with images of my great-grandfather. I remembered the way he <font id=11>is used to</font> read to me when I was very young. He would point to the pictures in my <font id=12>storybooks, and</font> giving things their Miami names. I remembered him pointing to a tree. a cloud, a dog. and naming them in the Miami language. giving them back to me in the <font id=13>language of his own childhood.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgPGZvbnQgaWQ9OT5nbGFuY2VkIGFuZCBsb29rZWQ8L2ZvbnQ+IHRocm91Z2ggdGhlIHBhZ2VzLiBUaGVuIEkgcmVhZCBhYm91dCB0aGUgZGlmZmVyZW50IHBhcnRzIG9mIHNwZWVjaCwgYWJvdXQgTWlhbWkgdm93ZWxzIGFuZCBjb25zb25hbnRzLiBIb3dldmVyLCBpdCB3YXMgd2hlbiBJIGJlZ2FuIHByb25vdW5jaW5nIHRoZSB3b3JkcyB0byA8Zm9udCBpZD0xMD5teXNlbGY7PC9mb250PiB0aGF0IEkgZmVsdCB0aGUgdHJ1ZSB3ZWlnaHQgb2YgdGhlIGJvb2suIEFzIEkgc3Bva2UsIEkgd2FzIGltbWVkaWF0ZWx5IG92ZXJ3aGVsbWVkIHdpdGggaW1hZ2VzIG9mIG15IGdyZWF0LWdyYW5kZmF0aGVyLiBJIHJlbWVtYmVyZWQgdGhlIHdheSBoZSA8Zm9udCBpZD0xMT5pcyB1c2VkIHRvPC9mb250PiByZWFkIHRvIG1lIHdoZW4gSSB3YXMgdmVyeSB5b3VuZy4gSGUgd291bGQgcG9pbnQgdG8gdGhlIHBpY3R1cmVzIGluIG15IDxmb250IGlkPTEyPnN0b3J5Ym9va3MsIGFuZDwvZm9udD4gZ2l2aW5nIHRoaW5ncyB0aGVpciBNaWFtaSBuYW1lcy4gSSByZW1lbWJlcmVkIGhpbSBwb2ludGluZyB0byBhIHRyZWUuIGEgY2xvdWQsIGEgZG9nLiBhbmQgbmFtaW5nIHRoZW0gaW4gdGhlIE1pYW1pIGxhbmd1YWdlLiBnaXZpbmcgdGhlbSBiYWNrIHRvIG1lIGluIHRoZSA8Zm9udCBpZD0xMz5sYW5ndWFnZSBvZiBoaXMgb3duIGNoaWxkaG9vZC48L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">After he died, it was a language I never heard again—<font id=14>nonetheless</font>, until I heard myself struggling with the words he <font id=15>would use</font> so easily all those years ago, his voice coming back as vividly as if he were next to me once again, pointing to the page, guiding me.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFmdGVyIGhlIGRpZWQsIGl0IHdhcyBhIGxhbmd1YWdlIEkgbmV2ZXIgaGVhcmQgYWdhaW7igD88Zm9udCBpZD0xND5ub25ldGhlbGVzczwvZm9udD4sIHVudGlsIEkgaGVhcmQgbXlzZWxmIHN0cnVnZ2xpbmcgd2l0aCB0aGUgd29yZHMgaGUgPGZvbnQgaWQ9MTU+d291bGQgdXNlPC9mb250PiBzbyBlYXNpbHkgYWxsIHRob3NlIHllYXJzIGFnbywgaGlzIHZvaWNlIGNvbWluZyBiYWNrIGFzIHZpdmlkbHkgYXMgaWYgaGUgd2VyZSBuZXh0IHRvIG1lIG9uY2UgYWdhaW4sIHBvaW50aW5nIHRvIHRoZSBwYWdlLCBndWlkaW5nIG1lLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. handwriting, which she did right-handed,</div>
-<div class = "choice">C. right-handed handwriting,</div>
-<div class = "choice">D. writing, using her right hand,</div>
-</div>
-###################
-<div class = "quiz">2.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. were to write</div>
-<div class = "choice">H. had it written</div>
-<div class = "choice">J. had written</div>
-</div>
-###################
-<div class = "quiz">3.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. sides</div>
-<div class = "choice">C. sides as</div>
-<div class = "choice">D. sides.</div>
-</div>
-###################
-<div class = "quiz">4.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. book, and</div>
-<div class = "choice">H. book, which</div>
-<div class = "choice">J. book, of that</div>
-</div>
-###################
-<div class = "quiz">5.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. fragile, I thought</div>
-<div class = "choice">C. fragile, I thought</div>
-<div class = "choice">D. fragile, I thought,</div>
-</div>
-###################
-<div class = "quiz">6.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. language; published</div>
-<div class = "choice">H. language, published</div>
-<div class = "choice">J. language that they published</div>
-</div>
-###################
-<div class = "quiz">7.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Too small, too light, it seemed to have lain dormant for me for over thirty years, one that contained the building blocks of an entire language.</div>
-<div class = "choice">C. Containing the building blocks of an entire language that for me seemed too small, too light, it had lain dormant for over thirty years.</div>
-<div class = "choice">D. Seemingly lying dormant for me for over thirty years, the building blocks, too light, too small, were of an entire language.</div>
-</div>
-###################
-<div class = "quiz">8. Given that all the choices are true, which one would most effectively illustrate the difference between the writer's expectations of the book and its actual appearance?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Instead, the Miami handbook rested comfortably in the palm of my hand.</div>
-<div class = "choice">H. In fact. it lacked a paper jacket to protect the cover.</div>
-<div class = "choice">J. These pages contained important cultural history.</div>
-</div>
-###################
-<div class = "quiz">9.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. was looking and glancing.</div>
-<div class = "choice">C. glanced</div>
-<div class = "choice">D. glanced. looking</div>
-</div>
-###################
-<div class = "quiz">10.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. myself</div>
-<div class = "choice">H. myself—</div>
-<div class = "choice">J. myself.</div>
-</div>
-###################
-<div class = "quiz">11.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. used to</div>
-<div class = "choice">C. use to</div>
-<div class = "choice">D. used a</div>
-</div>
-###################
-<div class = "quiz">12.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. storybooks and</div>
-<div class = "choice">H. storybooks, then</div>
-<div class = "choice">J. storybooks.</div>
-</div>
-###################
-<div class = "quiz">13. At this point in the essay, the writer wants to suggest the significance that the Miami language held for her great-grandfather. Given that all the choices are true, which one would best accomplish that purpose?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. voice I remembered.</div>
-<div class = "choice">C. Miami language.</div>
-<div class = "choice">D. words chat were so hard for me to understand.</div>
-</div>
-###################
-<div class = "quiz">14.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. furthermore,</div>
-<div class = "choice">H. because,</div>
-<div class = "choice">J. that is,</div>
-</div>
-###################
-<div class = "quiz">15.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. would</div>
-<div class = "choice">C. would of used</div>
-<div class = "choice">D. had used</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhbmR3cml0aW5nLCB3aGljaCBzaGUgZGlkIHJpZ2h0LWhhbmRlZCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJpZ2h0LWhhbmRlZCBoYW5kd3JpdGluZyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdyaXRpbmcsIHVzaW5nIGhlciByaWdodCBoYW5kLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdlcmUgdG8gd3JpdGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhhZCBpdCB3cml0dGVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGhhZCB3cml0dGVuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNpZGVzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNpZGVzIGFzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNpZGVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJvb2ssIGFuZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJvb2ssIHdoaWNoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJvb2ssIG9mIHRoYXQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZyYWdpbGUsIEkgdGhvdWdodDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZyYWdpbGUsIEkgdGhvdWdodDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZyYWdpbGUsIEkgdGhvdWdodCw8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxhbmd1YWdlOyBwdWJsaXNoZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxhbmd1YWdlLCBwdWJsaXNoZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxhbmd1YWdlIHRoYXQgdGhleSBwdWJsaXNoZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRvbyBzbWFsbCwgdG9vIGxpZ2h0LCBpdCBzZWVtZWQgdG8gaGF2ZSBsYWluIGRvcm1hbnQgZm9yIG1lIGZvciBvdmVyIHRoaXJ0eSB5ZWFycywgb25lIHRoYXQgY29udGFpbmVkIHRoZSBidWlsZGluZyBibG9ja3Mgb2YgYW4gZW50aXJlIGxhbmd1YWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIENvbnRhaW5pbmcgdGhlIGJ1aWxkaW5nIGJsb2NrcyBvZiBhbiBlbnRpcmUgbGFuZ3VhZ2UgdGhhdCBmb3IgbWUgc2VlbWVkIHRvbyBzbWFsbCwgdG9vIGxpZ2h0LCBpdCBoYWQgbGFpbiBkb3JtYW50IGZvciBvdmVyIHRoaXJ0eSB5ZWFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNlZW1pbmdseSBseWluZyBkb3JtYW50IGZvciBtZSBmb3Igb3ZlciB0aGlydHkgeWVhcnMsIHRoZSBidWlsZGluZyBibG9ja3MsIHRvbyBsaWdodCwgdG9vIHNtYWxsLCB3ZXJlIG9mIGFuIGVudGlyZSBsYW5ndWFnZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBHaXZlbiB0aGF0IGFsbCB0aGUgY2hvaWNlcyBhcmUgdHJ1ZSwgd2hpY2ggb25lIHdvdWxkIG1vc3QgZWZmZWN0aXZlbHkgaWxsdXN0cmF0ZSB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIHRoZSB3cml0ZXIncyBleHBlY3RhdGlvbnMgb2YgdGhlIGJvb2sgYW5kIGl0cyBhY3R1YWwgYXBwZWFyYW5jZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEluc3RlYWQsIHRoZSBNaWFtaSBoYW5kYm9vayByZXN0ZWQgY29tZm9ydGFibHkgaW4gdGhlIHBhbG0gb2YgbXkgaGFuZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEluIGZhY3QuIGl0IGxhY2tlZCBhIHBhcGVyIGphY2tldCB0byBwcm90ZWN0IHRoZSBjb3Zlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZXNlIHBhZ2VzIGNvbnRhaW5lZCBpbXBvcnRhbnQgY3VsdHVyYWwgaGlzdG9yeS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45Lg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdhcyBsb29raW5nIGFuZCBnbGFuY2luZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdsYW5jZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdsYW5jZWQuIGxvb2tpbmc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG15c2VsZjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG15c2VsZuKAPzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG15c2VsZi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHVzZWQgdG88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHVzZSB0bzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHVzZWQgYTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0b3J5Ym9va3MgYW5kPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHN0b3J5Ym9va3MsIHRoZW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHN0b3J5Ym9va3MuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQXQgdGhpcyBwb2ludCBpbiB0aGUgZXNzYXksIHRoZSB3cml0ZXIgd2FudHMgdG8gc3VnZ2VzdCB0aGUgc2lnbmlmaWNhbmNlIHRoYXQgdGhlIE1pYW1pIGxhbmd1YWdlIGhlbGQgZm9yIGhlciBncmVhdC1ncmFuZGZhdGhlci4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSB3b3VsZCBiZXN0IGFjY29tcGxpc2ggdGhhdCBwdXJwb3NlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHZvaWNlIEkgcmVtZW1iZXJlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE1pYW1pIGxhbmd1YWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdvcmRzIGNoYXQgd2VyZSBzbyBoYXJkIGZvciBtZSB0byB1bmRlcnN0YW5kLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZ1cnRoZXJtb3JlLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJlY2F1c2UsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoYXQgaXMsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvdWxkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdvdWxkIG9mIHVzZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhhZCB1c2VkPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

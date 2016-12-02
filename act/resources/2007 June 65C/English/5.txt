@@ -1,123 +1,123 @@
-<h1>Learning by Building</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Frank Lloyd Wright, one of the twentieth century's most creative and innovative <font id=61>architects basing</font> most of his designs on two theories. One is his <font id=62>mentor Louis Sullivan's idea;</font> that "form follows function"- <font id=63>this is</font> a building's use determines its design. <font id=64>Something else</font> underlying Wright's designs is that of organic <font id=65>architecture and</font> structures should appear to be an extension of their surroundings.</div>
+PGgxPkxlYXJuaW5nIGJ5IEJ1aWxkaW5nPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZyYW5rIExsb3lkIFdyaWdodCwgb25lIG9mIHRoZSB0d2VudGlldGggY2VudHVyeSdzIG1vc3QgY3JlYXRpdmUgYW5kIGlubm92YXRpdmUgPGZvbnQgaWQ9NjE+YXJjaGl0ZWN0cyBiYXNpbmc8L2ZvbnQ+IG1vc3Qgb2YgaGlzIGRlc2lnbnMgb24gdHdvIHRoZW9yaWVzLiBPbmUgaXMgaGlzIDxmb250IGlkPTYyPm1lbnRvciBMb3VpcyBTdWxsaXZhbidzIGlkZWE7PC9mb250PiB0aGF0ICJmb3JtIGZvbGxvd3MgZnVuY3Rpb24iLSA8Zm9udCBpZD02Mz50aGlzIGlzPC9mb250PiBhIGJ1aWxkaW5nJ3MgdXNlIGRldGVybWluZXMgaXRzIGRlc2lnbi4gPGZvbnQgaWQ9NjQ+U29tZXRoaW5nIGVsc2U8L2ZvbnQ+IHVuZGVybHlpbmcgV3JpZ2h0J3MgZGVzaWducyBpcyB0aGF0IG9mIG9yZ2FuaWMgPGZvbnQgaWQ9NjU+YXJjaGl0ZWN0dXJlIGFuZDwvZm9udD4gc3RydWN0dXJlcyBzaG91bGQgYXBwZWFyIHRvIGJlIGFuIGV4dGVuc2lvbiBvZiB0aGVpciBzdXJyb3VuZGluZ3MuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=66>Students being taught</font> these theories and their practice, Wright founded the Frank Lloyd Wright School of Architecture in 1932. The school flourishes today, with two campuses-one in Spring Green, Wisconsin, and <font id=67>the other</font> near Scottsdale, Arizona, in the Sonoran Desert.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTY2PlN0dWRlbnRzIGJlaW5nIHRhdWdodDwvZm9udD4gdGhlc2UgdGhlb3JpZXMgYW5kIHRoZWlyIHByYWN0aWNlLCBXcmlnaHQgZm91bmRlZCB0aGUgRnJhbmsgTGxveWQgV3JpZ2h0IFNjaG9vbCBvZiBBcmNoaXRlY3R1cmUgaW4gMTkzMi4gVGhlIHNjaG9vbCBmbG91cmlzaGVzIHRvZGF5LCB3aXRoIHR3byBjYW1wdXNlcy1vbmUgaW4gU3ByaW5nIEdyZWVuLCBXaXNjb25zaW4sIGFuZCA8Zm9udCBpZD02Nz50aGUgb3RoZXI8L2ZvbnQ+IG5lYXIgU2NvdHRzZGFsZSwgQXJpem9uYSwgaW4gdGhlIFNvbm9yYW4gRGVzZXJ0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students <font id=68>learning</font> about the art and science of architecture, and they perform the school's daily maintenance tasks such as cooking, serving, and cleaning up in the school's kitchen. Those tasks are part of the school's curriculum, <font id=69>although</font> Wright believed that only a person familiar with every room's function could design a well-formed house.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBzdHVkZW50cyA8Zm9udCBpZD02OD5sZWFybmluZzwvZm9udD4gYWJvdXQgdGhlIGFydCBhbmQgc2NpZW5jZSBvZiBhcmNoaXRlY3R1cmUsIGFuZCB0aGV5IHBlcmZvcm0gdGhlIHNjaG9vbCdzIGRhaWx5IG1haW50ZW5hbmNlIHRhc2tzIHN1Y2ggYXMgY29va2luZywgc2VydmluZywgYW5kIGNsZWFuaW5nIHVwIGluIHRoZSBzY2hvb2wncyBraXRjaGVuLiBUaG9zZSB0YXNrcyBhcmUgcGFydCBvZiB0aGUgc2Nob29sJ3MgY3VycmljdWx1bSwgPGZvbnQgaWQ9Njk+YWx0aG91Z2g8L2ZvbnQ+IFdyaWdodCBiZWxpZXZlZCB0aGF0IG9ubHkgYSBwZXJzb24gZmFtaWxpYXIgd2l0aCBldmVyeSByb29tJ3MgZnVuY3Rpb24gY291bGQgZGVzaWduIGEgd2VsbC1mb3JtZWQgaG91c2UuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=74>[1] The students also experiment with form and function by building their own shelters. [2] These examples of organic architecture turn out to be as distinctive as the students who design them. [3] The tan wood and rusted red steel of the residence- <font id=70>which presents an interesting sight to catch the eye-</font> mirror the colors of the surrounding desert. [4] One student <font id=71>who creates</font> a rectangular structure <font id=72>from</font> donated glass, wood, and steel to span a dry riverbed. [5] Some homes are inherited and modified by other students in subsequent years. [6] Other <font id=73>dwellings, made of biodegradable materials,</font> are left to decay.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTc0PlsxXSBUaGUgc3R1ZGVudHMgYWxzbyBleHBlcmltZW50IHdpdGggZm9ybSBhbmQgZnVuY3Rpb24gYnkgYnVpbGRpbmcgdGhlaXIgb3duIHNoZWx0ZXJzLiBbMl0gVGhlc2UgZXhhbXBsZXMgb2Ygb3JnYW5pYyBhcmNoaXRlY3R1cmUgdHVybiBvdXQgdG8gYmUgYXMgZGlzdGluY3RpdmUgYXMgdGhlIHN0dWRlbnRzIHdobyBkZXNpZ24gdGhlbS4gWzNdIFRoZSB0YW4gd29vZCBhbmQgcnVzdGVkIHJlZCBzdGVlbCBvZiB0aGUgcmVzaWRlbmNlLSA8Zm9udCBpZD03MD53aGljaCBwcmVzZW50cyBhbiBpbnRlcmVzdGluZyBzaWdodCB0byBjYXRjaCB0aGUgZXllLTwvZm9udD4gbWlycm9yIHRoZSBjb2xvcnMgb2YgdGhlIHN1cnJvdW5kaW5nIGRlc2VydC4gWzRdIE9uZSBzdHVkZW50IDxmb250IGlkPTcxPndobyBjcmVhdGVzPC9mb250PiBhIHJlY3Rhbmd1bGFyIHN0cnVjdHVyZSA8Zm9udCBpZD03Mj5mcm9tPC9mb250PiBkb25hdGVkIGdsYXNzLCB3b29kLCBhbmQgc3RlZWwgdG8gc3BhbiBhIGRyeSByaXZlcmJlZC4gWzVdIFNvbWUgaG9tZXMgYXJlIGluaGVyaXRlZCBhbmQgbW9kaWZpZWQgYnkgb3RoZXIgc3R1ZGVudHMgaW4gc3Vic2VxdWVudCB5ZWFycy4gWzZdIE90aGVyIDxmb250IGlkPTczPmR3ZWxsaW5ncywgbWFkZSBvZiBiaW9kZWdyYWRhYmxlIG1hdGVyaWFscyw8L2ZvbnQ+IGFyZSBsZWZ0IHRvIGRlY2F5LjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since Wright's death in 1959, the school has continued to thrive thanks to its Fellowship members, former students of Wright's who now serve as teachers and mentors for others. <font id=75>These</font> teachers and their students work, study, and build together, using Wright's guiding theories and the skills they've learned to create buildings that are both beautiful and functional.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNpbmNlIFdyaWdodCdzIGRlYXRoIGluIDE5NTksIHRoZSBzY2hvb2wgaGFzIGNvbnRpbnVlZCB0byB0aHJpdmUgdGhhbmtzIHRvIGl0cyBGZWxsb3dzaGlwIG1lbWJlcnMsIGZvcm1lciBzdHVkZW50cyBvZiBXcmlnaHQncyB3aG8gbm93IHNlcnZlIGFzIHRlYWNoZXJzIGFuZCBtZW50b3JzIGZvciBvdGhlcnMuIDxmb250IGlkPTc1PlRoZXNlPC9mb250PiB0ZWFjaGVycyBhbmQgdGhlaXIgc3R1ZGVudHMgd29yaywgc3R1ZHksIGFuZCBidWlsZCB0b2dldGhlciwgdXNpbmcgV3JpZ2h0J3MgZ3VpZGluZyB0aGVvcmllcyBhbmQgdGhlIHNraWxscyB0aGV5J3ZlIGxlYXJuZWQgdG8gY3JlYXRlIGJ1aWxkaW5ncyB0aGF0IGFyZSBib3RoIGJlYXV0aWZ1bCBhbmQgZnVuY3Rpb25hbC48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. architects. Based</div>
-<div class = "choice">C. architects, basing</div>
-<div class = "choice">D. architects, based</div>
-</div>
-###################
-<div class = "quiz">62.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. mentor, Louis Sullivan's idea,</div>
-<div class = "choice">H. mentor, Louis Sullivan's idea</div>
-<div class = "choice">J. mentor Louis Sullivan's idea</div>
-</div>
-###################
-<div class = "quiz">63.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. that is,</div>
-<div class = "choice">C. this is,</div>
-<div class = "choice">D. that is</div>
-</div>
-###################
-<div class = "quiz">64.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Another thing</div>
-<div class = "choice">H. An idea</div>
-<div class = "choice">J. The other theory</div>
-</div>
-###################
-<div class = "quiz">65.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. architecture, which</div>
-<div class = "choice">C. architecture: that</div>
-<div class = "choice">D. architecture that</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. To teach students</div>
-<div class = "choice">H. Students learning</div>
-<div class = "choice">J. As students learn</div>
-</div>
-###################
-<div class = "quiz">67. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">A. the other one</div>
-<div class = "choice">B. that one</div>
-<div class = "choice">C. another</div>
-<div class = "choice">D. one</div>
-</div>
-###################
-<div class = "quiz">68.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. learned</div>
-<div class = "choice">H. learn</div>
-<div class = "choice">J. who learn</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. since</div>
-<div class = "choice">C. while</div>
-<div class = "choice">D. furthermore</div>
-</div>
-###################
-<div class = "quiz">70. Given that all the choices are true, which one would add the most effective visual detail to the description provided in the first part of the sentence?
-<div class = "choice">F. NO CHANG</div>
-<div class = "choice">G. an architectural structure that took the student several weeks to build-</div>
-<div class = "choice">H. which resembles a railroad boxcar in size and shape-</div>
-<div class = "choice">J. a piece of architecture positioned in the Arizona desert-</div>
-</div>
-###################
-<div class = "quiz">71.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. who created</div>
-<div class = "choice">C. creating</div>
-<div class = "choice">D. created</div>
-</div>
-###################
-<div class = "quiz">72. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. out of</div>
-<div class = "choice">G. using</div>
-<div class = "choice">H. into</div>
-<div class = "choice">J. with</div>
-</div>
-###################
-<div class = "quiz">73.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. dwellings made of biodegradable materials,</div>
-<div class = "choice">C. dwellings, made of biodegradable materials</div>
-<div class = "choice">D. dwellings made of biodegradable materials;</div>
-</div>
-###################
-<div class = "quiz">74. For the sake of the logic and coherence of this paragraph, Sentence 4 should be placed:
-<div class = "choice">F. where it is now.</div>
-<div class = "choice">G. before Sentence l.</div>
-<div class = "choice">H. before Sentence 2.</div>
-<div class = "choice">J. before Sentence 3.</div>
-</div>
-###################
-<div class = "quiz">75.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Side by side and hand in hand, these</div>
-<div class = "choice">C. As one group with each other, these</div>
-<div class = "choice">D. By cooperating in harmony, these</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFyY2hpdGVjdHMuIEJhc2VkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyY2hpdGVjdHMsIGJhc2luZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyY2hpdGVjdHMsIGJhc2VkPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG1lbnRvciwgTG91aXMgU3VsbGl2YW4ncyBpZGVhLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG1lbnRvciwgTG91aXMgU3VsbGl2YW4ncyBpZGVhPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1lbnRvciBMb3VpcyBTdWxsaXZhbidzIGlkZWE8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoYXQgaXMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoaXMgaXMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoYXQgaXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEFub3RoZXIgdGhpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFuIGlkZWE8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBvdGhlciB0aGVvcnk8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFyY2hpdGVjdHVyZSwgd2hpY2g8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFyY2hpdGVjdHVyZTogdGhhdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyY2hpdGVjdHVyZSB0aGF0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRvIHRlYWNoIHN0dWRlbnRzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFN0dWRlbnRzIGxlYXJuaW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEFzIHN0dWRlbnRzIGxlYXJuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBvdGhlciBvbmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoYXQgb25lPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFub3RoZXI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG9uZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGxlYXJuZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxlYXJuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdobyBsZWFybjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNpbmNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHdoaWxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGZ1cnRoZXJtb3JlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSB3b3VsZCBhZGQgdGhlIG1vc3QgZWZmZWN0aXZlIHZpc3VhbCBkZXRhaWwgdG8gdGhlIGRlc2NyaXB0aW9uIHByb3ZpZGVkIGluIHRoZSBmaXJzdCBwYXJ0IG9mIHRoZSBzZW50ZW5jZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIGFyY2hpdGVjdHVyYWwgc3RydWN0dXJlIHRoYXQgdG9vayB0aGUgc3R1ZGVudCBzZXZlcmFsIHdlZWtzIHRvIGJ1aWxkLTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdoaWNoIHJlc2VtYmxlcyBhIHJhaWxyb2FkIGJveGNhciBpbiBzaXplIGFuZCBzaGFwZS08L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgcGllY2Ugb2YgYXJjaGl0ZWN0dXJlIHBvc2l0aW9uZWQgaW4gdGhlIEFyaXpvbmEgZGVzZXJ0LTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdobyBjcmVhdGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNyZWF0aW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNyZWF0ZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG91dCBvZjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHVzaW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGludG88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdpdGg8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGR3ZWxsaW5ncyBtYWRlIG9mIGJpb2RlZ3JhZGFibGUgbWF0ZXJpYWxzLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGR3ZWxsaW5ncywgbWFkZSBvZiBiaW9kZWdyYWRhYmxlIG1hdGVyaWFsczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGR3ZWxsaW5ncyBtYWRlIG9mIGJpb2RlZ3JhZGFibGUgbWF0ZXJpYWxzOzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4gRm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBhbmQgY29oZXJlbmNlIG9mIHRoaXMgcGFyYWdyYXBoLCBTZW50ZW5jZSA0IHNob3VsZCBiZSBwbGFjZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJlZm9yZSBTZW50ZW5jZSBsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJlZm9yZSBTZW50ZW5jZSAyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJlZm9yZSBTZW50ZW5jZSAzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNpZGUgYnkgc2lkZSBhbmQgaGFuZCBpbiBoYW5kLCB0aGVzZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEFzIG9uZSBncm91cCB3aXRoIGVhY2ggb3RoZXIsIHRoZXNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJ5IGNvb3BlcmF0aW5nIGluIGhhcm1vbnksIHRoZXNlPC9kaXY+
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

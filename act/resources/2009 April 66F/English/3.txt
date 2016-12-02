@@ -1,128 +1,128 @@
-<h1>A Few Words about Bats</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The movie Dracula, <font id=31>featuring it's</font> batlike title character who feeds on human blood, is just one of many sources of people's <font id=32>ideas about bats that are flawed.</font> The facts about bats are <font id=33>more interesting than</font> the falsehoods. Just take three of the most common misconceptions about <font id=34>bats;</font> that they are dangerous to humans, that they are rodents, and that they cannot see.</div>
+PGgxPkEgRmV3IFdvcmRzIGFib3V0IEJhdHM8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBtb3ZpZSBEcmFjdWxhLCA8Zm9udCBpZD0zMT5mZWF0dXJpbmcgaXQnczwvZm9udD4gYmF0bGlrZSB0aXRsZSBjaGFyYWN0ZXIgd2hvIGZlZWRzIG9uIGh1bWFuIGJsb29kLCBpcyBqdXN0IG9uZSBvZiBtYW55IHNvdXJjZXMgb2YgcGVvcGxlJ3MgPGZvbnQgaWQ9MzI+aWRlYXMgYWJvdXQgYmF0cyB0aGF0IGFyZSBmbGF3ZWQuPC9mb250PiBUaGUgZmFjdHMgYWJvdXQgYmF0cyBhcmUgPGZvbnQgaWQ9MzM+bW9yZSBpbnRlcmVzdGluZyB0aGFuPC9mb250PiB0aGUgZmFsc2Vob29kcy4gSnVzdCB0YWtlIHRocmVlIG9mIHRoZSBtb3N0IGNvbW1vbiBtaXNjb25jZXB0aW9ucyBhYm91dCA8Zm9udCBpZD0zND5iYXRzOzwvZm9udD4gdGhhdCB0aGV5IGFyZSBkYW5nZXJvdXMgdG8gaHVtYW5zLCB0aGF0IHRoZXkgYXJlIHJvZGVudHMsIGFuZCB0aGF0IHRoZXkgY2Fubm90IHNlZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In reality, only three of the more than 850 known species of bats feed primarily on blood, and even these do not draw nourishment from human blood; <font id=35>they bite cattle and horses in their sleep.</font> Most bats eat insects; others feed on fruit, nectar, pollen, small vertebrates, and fish.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHJlYWxpdHksIG9ubHkgdGhyZWUgb2YgdGhlIG1vcmUgdGhhbiA4NTAga25vd24gc3BlY2llcyBvZiBiYXRzIGZlZWQgcHJpbWFyaWx5IG9uIGJsb29kLCBhbmQgZXZlbiB0aGVzZSBkbyBub3QgZHJhdyBub3VyaXNobWVudCBmcm9tIGh1bWFuIGJsb29kOyA8Zm9udCBpZD0zNT50aGV5IGJpdGUgY2F0dGxlIGFuZCBob3JzZXMgaW4gdGhlaXIgc2xlZXAuPC9mb250PiBNb3N0IGJhdHMgZWF0IGluc2VjdHM7IG90aGVycyBmZWVkIG9uIGZydWl0LCBuZWN0YXIsIHBvbGxlbiwgc21hbGwgdmVydGVicmF0ZXMsIGFuZCBmaXNoLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Some people believe bats are <font id=36>rodents; others</font> think bats are a kind of bird. Although winged, bats are not related to birds, <font id=37>because even if</font> a bat's small, furry body may appear mouselike, bats are not rodents either. Rather, bats are a unique order of mammals called <font id=38>Chiroptera,</font> the only mammals that <font id=39>truly flies.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNvbWUgcGVvcGxlIGJlbGlldmUgYmF0cyBhcmUgPGZvbnQgaWQ9MzY+cm9kZW50czsgb3RoZXJzPC9mb250PiB0aGluayBiYXRzIGFyZSBhIGtpbmQgb2YgYmlyZC4gQWx0aG91Z2ggd2luZ2VkLCBiYXRzIGFyZSBub3QgcmVsYXRlZCB0byBiaXJkcywgPGZvbnQgaWQ9Mzc+YmVjYXVzZSBldmVuIGlmPC9mb250PiBhIGJhdCdzIHNtYWxsLCBmdXJyeSBib2R5IG1heSBhcHBlYXIgbW91c2VsaWtlLCBiYXRzIGFyZSBub3Qgcm9kZW50cyBlaXRoZXIuIFJhdGhlciwgYmF0cyBhcmUgYSB1bmlxdWUgb3JkZXIgb2YgbWFtbWFscyBjYWxsZWQgPGZvbnQgaWQ9Mzg+Q2hpcm9wdGVyYSw8L2ZvbnQ+IHRoZSBvbmx5IG1hbW1hbHMgdGhhdCA8Zm9udCBpZD0zOT50cnVseSBmbGllcy48L2ZvbnQ+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">While some species of bats are blind, most are not. However, bats that hunt at night use sound more than sight to orient themselves in the dark. These bats <font id=40>sending out high-frequency sounds and using</font> the echoes that bounce back from objects to locate their prey and to navigate.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoaWxlIHNvbWUgc3BlY2llcyBvZiBiYXRzIGFyZSBibGluZCwgbW9zdCBhcmUgbm90LiBIb3dldmVyLCBiYXRzIHRoYXQgaHVudCBhdCBuaWdodCB1c2Ugc291bmQgbW9yZSB0aGFuIHNpZ2h0IHRvIG9yaWVudCB0aGVtc2VsdmVzIGluIHRoZSBkYXJrLiBUaGVzZSBiYXRzIDxmb250IGlkPTQwPnNlbmRpbmcgb3V0IGhpZ2gtZnJlcXVlbmN5IHNvdW5kcyBhbmQgdXNpbmc8L2ZvbnQ+IHRoZSBlY2hvZXMgdGhhdCBib3VuY2UgYmFjayBmcm9tIG9iamVjdHMgdG8gbG9jYXRlIHRoZWlyIHByZXkgYW5kIHRvIG5hdmlnYXRlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In addition to being fascinating creatures, bats are useful to humans, especially farmers. <font id=41>41</font>They consume beetles and moths that attack crops, reducing our reliance on chemical insecticides; in addition, bat droppings are useful for fertilizing fields and gardens.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGFkZGl0aW9uIHRvIGJlaW5nIGZhc2NpbmF0aW5nIGNyZWF0dXJlcywgYmF0cyBhcmUgdXNlZnVsIHRvIGh1bWFucywgZXNwZWNpYWxseSBmYXJtZXJzLiA8Zm9udCBpZD00MT40MTwvZm9udD5UaGV5IGNvbnN1bWUgYmVldGxlcyBhbmQgbW90aHMgdGhhdCBhdHRhY2sgY3JvcHMsIHJlZHVjaW5nIG91ciByZWxpYW5jZSBvbiBjaGVtaWNhbCBpbnNlY3RpY2lkZXM7IGluIGFkZGl0aW9uLCBiYXQgZHJvcHBpbmdzIGFyZSB1c2VmdWwgZm9yIGZlcnRpbGl6aW5nIGZpZWxkcyBhbmQgZ2FyZGVucy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There is one sad piece of news about bats: their habitats are being destroyed by humans. <font id=42>For example, bat caves are being disturbed or ruined as highways and housing developments are built.</font> As a consequence, several bat species face extinction. We should protect bats because, <font id=43>though they might seem threatening,</font> they are an important and beneficial part of life.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZXJlIGlzIG9uZSBzYWQgcGllY2Ugb2YgbmV3cyBhYm91dCBiYXRzOiB0aGVpciBoYWJpdGF0cyBhcmUgYmVpbmcgZGVzdHJveWVkIGJ5IGh1bWFucy4gPGZvbnQgaWQ9NDI+Rm9yIGV4YW1wbGUsIGJhdCBjYXZlcyBhcmUgYmVpbmcgZGlzdHVyYmVkIG9yIHJ1aW5lZCBhcyBoaWdod2F5cyBhbmQgaG91c2luZyBkZXZlbG9wbWVudHMgYXJlIGJ1aWx0LjwvZm9udD4gQXMgYSBjb25zZXF1ZW5jZSwgc2V2ZXJhbCBiYXQgc3BlY2llcyBmYWNlIGV4dGluY3Rpb24uIFdlIHNob3VsZCBwcm90ZWN0IGJhdHMgYmVjYXVzZSwgPGZvbnQgaWQ9NDM+dGhvdWdoIHRoZXkgbWlnaHQgc2VlbSB0aHJlYXRlbmluZyw8L2ZvbnQ+IHRoZXkgYXJlIGFuIGltcG9ydGFudCBhbmQgYmVuZWZpY2lhbCBwYXJ0IG9mIGxpZmUuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">31.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. with its</div>
-<div class = "choice">C. based on its'</div>
-<div class = "choice">D. who's</div>
-</div>
-###################
-<div class = "quiz">32.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. ideas that are mistaken about bats.</div>
-<div class = "choice">H. erroneous ideas about bats.</div>
-<div class = "choice">J. mistaken ideas they have about bats.</div>
-</div>
-###################
-<div class = "quiz">33.
-<div class = "choice">A. NOCHANGE</div>
-<div class = "choice">B. of more interest then</div>
-<div class = "choice">C. the most interesting than</div>
-<div class = "choice">D. more interesting then</div>
-</div>
-###################
-<div class = "quiz">34.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. bats,</div>
-<div class = "choice">H. bats</div>
-<div class = "choice">J. bats:</div>
-</div>
-###################
-<div class = "quiz">35.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. they bite sleeping cattle and horses.</div>
-<div class = "choice">C. they bite cattle and-horses when they are asleep.</div>
-<div class = "choice">D. while asleep, they bite cattle and horses</div>
-</div>
-###################
-<div class = "quiz">36.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. rodents, others,</div>
-<div class = "choice">H. rodents others</div>
-<div class = "choice">J. rodents and others'</div>
-</div>
-###################
-<div class = "quiz">37.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. whether</div>
-<div class = "choice">C. and although</div>
-<div class = "choice">D. seeing as</div>
-</div>
-###################
-<div class = "quiz">38.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Chiroptera, they are</div>
-<div class = "choice">H. Chiroptera, so they are</div>
-<div class = "choice">J. Chiroptera being</div>
-</div>
-###################
-<div class = "quiz">39.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. is able to truly fly.</div>
-<div class = "choice">C. can truly fly.</div>
-<div class = "choice">D. has true flight ability.</div>
-</div>
-###################
-<div class = "quiz">40.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. sending out high-frequency sounds and use</div>
-<div class = "choice">H. sent out high-frequency sounds to use</div>
-<div class = "choice">J. send out high-frequency sounds and use</div>
-</div>
-###################
-<div class = "quiz">41. Given that all the following statements are true, which one provides the most relevant information at this point in the essay?
-<div class = "choice">A. Like all wild animals bats may bite if handled.</div>
-<div class = "choice">B. Bats pollinate plants, including fruits we ear.</div>
-<div class = "choice">C. Some plants have developed special mechanisms. to attract bats.</div>
-<div class = "choice">D. Bats have eyes adapted for poor lighting conditions.</div>
-</div>
-###################
-<div class = "quiz">42. The writer is considering deleting the preceding sentence from this paragraph. If the writer made this deletion, the paragraph would primarily lose:
-<div class = "choice">F. information that distracts from the message about ...the extinction of some bat species.</div>
-<div class = "choice">G. an example of ways readers can stop the destruction of bat habitats.</div>
-<div class = "choice">H. scientific proof of the statement that bat habitats are being destroyed.</div>
-<div class = "choice">J. evidence for the claim that bat habitats, are being destroyed.</div>
-</div>
-###################
-<div class = "quiz">43. The writer wants to provide a phrase here that will tie the conclusion of the essay to its beginning. Which choice does that best?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. though they mostly .come out at night,</div>
-<div class = "choice">C. though their habitats are vanishing,</div>
-<div class = "choice">D. even if we rarely see them,</div>
-</div>
-###################
-<div class = "quiz">44. Questions 44 and 45 ask about the preceding passage as a whole.
-The writer is considering deleting the last sentence of the first paragraph of the essay. If the writer were to make this deletion, the essay would primarily lose a statement that:
-<div class = "choice">F. introduces the organization of the. next three paragraphs.</div>
-<div class = "choice">G. summarizes points made earlier in the paragraph.</div>
-<div class = "choice">H. provides a list of the kinds of creatures bats have been compared to.</div>
-<div class = "choice">J. adds a much-needed touch of humor to the essay.</div>
-</div>
-###################
-<div class = "quiz">45. Questions 44 and 45 ask about the preceding passage as a whole.
-Suppose the writer's goal had been to write an essay focusing on the various ways in which people are causing the extinction of some bat species. Would this essay fulfill that goal?
-<div class = "choice">A. Yes, because the essay explains in detail that bats have many enemies, including humans, who pose the greatest threat of ail to bat survival.</div>
-<div class = "choice">B. Yes, because the essay focuses on the misconceptions people have about bats.</div>
-<div class = "choice">C. No, because the essay primarily focuses on people's mistaken ideas about bats, not on ways in which people are causing the extinction of some bat species.</div>
-<div class = "choice">D. No, because the essay indicates that not all bat species are at risk of becoming extinct, only the ones that feed on livestock.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdpdGggaXRzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJhc2VkIG9uIGl0cyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdobydzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGlkZWFzIHRoYXQgYXJlIG1pc3Rha2VuIGFib3V0IGJhdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVycm9uZW91cyBpZGVhcyBhYm91dCBiYXRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG1pc3Rha2VuIGlkZWFzIHRoZXkgaGF2ZSBhYm91dCBiYXRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PQ0hBTkdFPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG9mIG1vcmUgaW50ZXJlc3QgdGhlbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBtb3N0IGludGVyZXN0aW5nIHRoYW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1vcmUgaW50ZXJlc3RpbmcgdGhlbjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJhdHMsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJhdHM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJhdHM6PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZXkgYml0ZSBzbGVlcGluZyBjYXR0bGUgYW5kIGhvcnNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZXkgYml0ZSBjYXR0bGUgYW5kLWhvcnNlcyB3aGVuIHRoZXkgYXJlIGFzbGVlcC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdoaWxlIGFzbGVlcCwgdGhleSBiaXRlIGNhdHRsZSBhbmQgaG9yc2VzPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJvZGVudHMsIG90aGVycyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHJvZGVudHMgb3RoZXJzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJvZGVudHMgYW5kIG90aGVycyc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdoZXRoZXI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuZCBhbHRob3VnaDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNlZWluZyBhczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIENoaXJvcHRlcmEsIHRoZXkgYXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIENoaXJvcHRlcmEsIHNvIHRoZXkgYXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIENoaXJvcHRlcmEgYmVpbmc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlzIGFibGUgdG8gdHJ1bHkgZmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNhbiB0cnVseSBmbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhhcyB0cnVlIGZsaWdodCBhYmlsaXR5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNlbmRpbmcgb3V0IGhpZ2gtZnJlcXVlbmN5IHNvdW5kcyBhbmQgdXNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNlbnQgb3V0IGhpZ2gtZnJlcXVlbmN5IHNvdW5kcyB0byB1c2U8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNlbmQgb3V0IGhpZ2gtZnJlcXVlbmN5IHNvdW5kcyBhbmQgdXNlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40MS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGFyZSB0cnVlLCB3aGljaCBvbmUgcHJvdmlkZXMgdGhlIG1vc3QgcmVsZXZhbnQgaW5mb3JtYXRpb24gYXQgdGhpcyBwb2ludCBpbiB0aGUgZXNzYXk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIExpa2UgYWxsIHdpbGQgYW5pbWFscyBiYXRzIG1heSBiaXRlIGlmIGhhbmRsZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEJhdHMgcG9sbGluYXRlIHBsYW50cywgaW5jbHVkaW5nIGZydWl0cyB3ZSBlYXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFNvbWUgcGxhbnRzIGhhdmUgZGV2ZWxvcGVkIHNwZWNpYWwgbWVjaGFuaXNtcy4gdG8gYXR0cmFjdCBiYXRzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJhdHMgaGF2ZSBleWVzIGFkYXB0ZWQgZm9yIHBvb3IgbGlnaHRpbmcgY29uZGl0aW9ucy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Mi4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlIGZyb20gdGhpcyBwYXJhZ3JhcGguIElmIHRoZSB3cml0ZXIgbWFkZSB0aGlzIGRlbGV0aW9uLCB0aGUgcGFyYWdyYXBoIHdvdWxkIHByaW1hcmlseSBsb3NlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluZm9ybWF0aW9uIHRoYXQgZGlzdHJhY3RzIGZyb20gdGhlIG1lc3NhZ2UgYWJvdXQgLi4udGhlIGV4dGluY3Rpb24gb2Ygc29tZSBiYXQgc3BlY2llcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIGV4YW1wbGUgb2Ygd2F5cyByZWFkZXJzIGNhbiBzdG9wIHRoZSBkZXN0cnVjdGlvbiBvZiBiYXQgaGFiaXRhdHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNjaWVudGlmaWMgcHJvb2Ygb2YgdGhlIHN0YXRlbWVudCB0aGF0IGJhdCBoYWJpdGF0cyBhcmUgYmVpbmcgZGVzdHJveWVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV2aWRlbmNlIGZvciB0aGUgY2xhaW0gdGhhdCBiYXQgaGFiaXRhdHMsIGFyZSBiZWluZyBkZXN0cm95ZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40My4gVGhlIHdyaXRlciB3YW50cyB0byBwcm92aWRlIGEgcGhyYXNlIGhlcmUgdGhhdCB3aWxsIHRpZSB0aGUgY29uY2x1c2lvbiBvZiB0aGUgZXNzYXkgdG8gaXRzIGJlZ2lubmluZy4gV2hpY2ggY2hvaWNlIGRvZXMgdGhhdCBiZXN0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRob3VnaCB0aGV5IG1vc3RseSAuY29tZSBvdXQgYXQgbmlnaHQsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRob3VnaCB0aGVpciBoYWJpdGF0cyBhcmUgdmFuaXNoaW5nLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV2ZW4gaWYgd2UgcmFyZWx5IHNlZSB0aGVtLDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NC4gUXVlc3Rpb25zIDQ0IGFuZCA0NSBhc2sgYWJvdXQgdGhlIHByZWNlZGluZyBwYXNzYWdlIGFzIGEgd2hvbGUu
+VGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgbGFzdCBzZW50ZW5jZSBvZiB0aGUgZmlyc3QgcGFyYWdyYXBoIG9mIHRoZSBlc3NheS4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIG1ha2UgdGhpcyBkZWxldGlvbiwgdGhlIGVzc2F5IHdvdWxkIHByaW1hcmlseSBsb3NlIGEgc3RhdGVtZW50IHRoYXQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGludHJvZHVjZXMgdGhlIG9yZ2FuaXphdGlvbiBvZiB0aGUuIG5leHQgdGhyZWUgcGFyYWdyYXBocy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1bW1hcml6ZXMgcG9pbnRzIG1hZGUgZWFybGllciBpbiB0aGUgcGFyYWdyYXBoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHByb3ZpZGVzIGEgbGlzdCBvZiB0aGUga2luZHMgb2YgY3JlYXR1cmVzIGJhdHMgaGF2ZSBiZWVuIGNvbXBhcmVkIHRvLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFkZHMgYSBtdWNoLW5lZWRlZCB0b3VjaCBvZiBodW1vciB0byB0aGUgZXNzYXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40NS4gUXVlc3Rpb25zIDQ0IGFuZCA0NSBhc2sgYWJvdXQgdGhlIHByZWNlZGluZyBwYXNzYWdlIGFzIGEgd2hvbGUu
+U3VwcG9zZSB0aGUgd3JpdGVyJ3MgZ29hbCBoYWQgYmVlbiB0byB3cml0ZSBhbiBlc3NheSBmb2N1c2luZyBvbiB0aGUgdmFyaW91cyB3YXlzIGluIHdoaWNoIHBlb3BsZSBhcmUgY2F1c2luZyB0aGUgZXh0aW5jdGlvbiBvZiBzb21lIGJhdCBzcGVjaWVzLiBXb3VsZCB0aGlzIGVzc2F5IGZ1bGZpbGwgdGhhdCBnb2FsPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSB0aGUgZXNzYXkgZXhwbGFpbnMgaW4gZGV0YWlsIHRoYXQgYmF0cyBoYXZlIG1hbnkgZW5lbWllcywgaW5jbHVkaW5nIGh1bWFucywgd2hvIHBvc2UgdGhlIGdyZWF0ZXN0IHRocmVhdCBvZiBhaWwgdG8gYmF0IHN1cnZpdmFsLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSB0aGUgZXNzYXkgZm9jdXNlcyBvbiB0aGUgbWlzY29uY2VwdGlvbnMgcGVvcGxlIGhhdmUgYWJvdXQgYmF0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIHRoZSBlc3NheSBwcmltYXJpbHkgZm9jdXNlcyBvbiBwZW9wbGUncyBtaXN0YWtlbiBpZGVhcyBhYm91dCBiYXRzLCBub3Qgb24gd2F5cyBpbiB3aGljaCBwZW9wbGUgYXJlIGNhdXNpbmcgdGhlIGV4dGluY3Rpb24gb2Ygc29tZSBiYXQgc3BlY2llcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIHRoZSBlc3NheSBpbmRpY2F0ZXMgdGhhdCBub3QgYWxsIGJhdCBzcGVjaWVzIGFyZSBhdCByaXNrIG9mIGJlY29taW5nIGV4dGluY3QsIG9ubHkgdGhlIG9uZXMgdGhhdCBmZWVkIG9uIGxpdmVzdG9jay48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

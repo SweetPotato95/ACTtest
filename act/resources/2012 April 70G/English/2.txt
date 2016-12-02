@@ -1,119 +1,119 @@
 
-<h1>Polaris: Not Always the North Star</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polaris, the star now almost directly over the North Pole, has played <font id=16>a significant</font> role in many mythologies and in the history of navigation. For centuries, sailors and leaders of desert caravans used the North Star to chart their courses. <font id=17>Polaris has been called the Lodestar, the Steering Star, and Stella Maris (the Star of the Sea). </font> <font id=18>Finally, people</font> in ancient India believed it was the Golden Peg that held the universe together. <font id=19>In Scandinavian mythology, Polaris was thought to be the jeweled head of the World Spike-an enormous nail the Norse gods had hammered into the sky so the stars could revolve around it. </font></div>
+PGgxPlBvbGFyaXM6IE5vdCBBbHdheXMgdGhlIE5vcnRoIFN0YXI8L2gxPg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBvbGFyaXMsIHRoZSBzdGFyIG5vdyBhbG1vc3QgZGlyZWN0bHkgb3ZlciB0aGUgTm9ydGggUG9sZSwgaGFzIHBsYXllZCA8Zm9udCBpZD0xNj5hIHNpZ25pZmljYW50PC9mb250PiByb2xlIGluIG1hbnkgbXl0aG9sb2dpZXMgYW5kIGluIHRoZSBoaXN0b3J5IG9mIG5hdmlnYXRpb24uIEZvciBjZW50dXJpZXMsIHNhaWxvcnMgYW5kIGxlYWRlcnMgb2YgZGVzZXJ0IGNhcmF2YW5zIHVzZWQgdGhlIE5vcnRoIFN0YXIgdG8gY2hhcnQgdGhlaXIgY291cnNlcy4gPGZvbnQgaWQ9MTc+UG9sYXJpcyBoYXMgYmVlbiBjYWxsZWQgdGhlIExvZGVzdGFyLCB0aGUgU3RlZXJpbmcgU3RhciwgYW5kIFN0ZWxsYSBNYXJpcyAodGhlIFN0YXIgb2YgdGhlIFNlYSkuIDwvZm9udD4gPGZvbnQgaWQ9MTg+RmluYWxseSwgcGVvcGxlPC9mb250PiBpbiBhbmNpZW50IEluZGlhIGJlbGlldmVkIGl0IHdhcyB0aGUgR29sZGVuIFBlZyB0aGF0IGhlbGQgdGhlIHVuaXZlcnNlIHRvZ2V0aGVyLiA8Zm9udCBpZD0xOT5JbiBTY2FuZGluYXZpYW4gbXl0aG9sb2d5LCBQb2xhcmlzIHdhcyB0aG91Z2h0IHRvIGJlIHRoZSBqZXdlbGVkIGhlYWQgb2YgdGhlIFdvcmxkIFNwaWtlLWFuIGVub3Jtb3VzIG5haWwgdGhlIE5vcnNlIGdvZHMgaGFkIGhhbW1lcmVkIGludG8gdGhlIHNreSBzbyB0aGUgc3RhcnMgY291bGQgcmV2b2x2ZSBhcm91bmQgaXQuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=23>[1] However, as the Greek astronomer Hipparchus discovered around 129 BC, the North Star, or polestar is not eternally fixed over the North Pole, as the mythmakers had supposed. [2] In the process of compiling an astronomical catalog, Hipparchus noticed that the stars had seemingly shifted from positions <font id=20>noted</font> in Babylonian records from many centuries earlier. [3] He concluded that it was not the stars that were moving but rather the position from which they were being observed that varied. [4] Precession, in turn, is caused by the gravitational pull of the Sun and the Moon on the bulge at Earth's equator. [5] A wobbling in Earth's axis of <font id=21>rotation, called</font> precession, <font id=22>cause</font> this variation in position. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTIzPlsxXSBIb3dldmVyLCBhcyB0aGUgR3JlZWsgYXN0cm9ub21lciBIaXBwYXJjaHVzIGRpc2NvdmVyZWQgYXJvdW5kIDEyOSBCQywgdGhlIE5vcnRoIFN0YXIsIG9yIHBvbGVzdGFyIGlzIG5vdCBldGVybmFsbHkgZml4ZWQgb3ZlciB0aGUgTm9ydGggUG9sZSwgYXMgdGhlIG15dGhtYWtlcnMgaGFkIHN1cHBvc2VkLiBbMl0gSW4gdGhlIHByb2Nlc3Mgb2YgY29tcGlsaW5nIGFuIGFzdHJvbm9taWNhbCBjYXRhbG9nLCBIaXBwYXJjaHVzIG5vdGljZWQgdGhhdCB0aGUgc3RhcnMgaGFkIHNlZW1pbmdseSBzaGlmdGVkIGZyb20gcG9zaXRpb25zIDxmb250IGlkPTIwPm5vdGVkPC9mb250PiBpbiBCYWJ5bG9uaWFuIHJlY29yZHMgZnJvbSBtYW55IGNlbnR1cmllcyBlYXJsaWVyLiBbM10gSGUgY29uY2x1ZGVkIHRoYXQgaXQgd2FzIG5vdCB0aGUgc3RhcnMgdGhhdCB3ZXJlIG1vdmluZyBidXQgcmF0aGVyIHRoZSBwb3NpdGlvbiBmcm9tIHdoaWNoIHRoZXkgd2VyZSBiZWluZyBvYnNlcnZlZCB0aGF0IHZhcmllZC4gWzRdIFByZWNlc3Npb24sIGluIHR1cm4sIGlzIGNhdXNlZCBieSB0aGUgZ3Jhdml0YXRpb25hbCBwdWxsIG9mIHRoZSBTdW4gYW5kIHRoZSBNb29uIG9uIHRoZSBidWxnZSBhdCBFYXJ0aCdzIGVxdWF0b3IuIFs1XSBBIHdvYmJsaW5nIGluIEVhcnRoJ3MgYXhpcyBvZiA8Zm9udCBpZD0yMT5yb3RhdGlvbiwgY2FsbGVkPC9mb250PiBwcmVjZXNzaW9uLCA8Zm9udCBpZD0yMj5jYXVzZTwvZm9udD4gdGhpcyB2YXJpYXRpb24gaW4gcG9zaXRpb24uIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As Earth rotates <font id=24>round and round and round</font> like a spinning top, its axis traces a huge circle that takes 26,000 years to <font id=25>complete. As a result, </font> the North Pole's position in relation to the stars <font id=26>change. </font> Astronomers <font id=27>now, know, that, </font> around 3000 BC, Thuban, a star in the tail of the constellation Draco (the Dragon), was directly above the pole. Three thousand years from now, Alderamin, in the constellation Cepheus, <font id=28>is</font> the polestar. Over the 26,000-year cycle, numerous stars will take <font id=29>its' </font> turn as the North Star for a few thousand years each. But the Babylonian records should not be discarded. <font id=30>30</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIEVhcnRoIHJvdGF0ZXMgPGZvbnQgaWQ9MjQ+cm91bmQgYW5kIHJvdW5kIGFuZCByb3VuZDwvZm9udD4gbGlrZSBhIHNwaW5uaW5nIHRvcCwgaXRzIGF4aXMgdHJhY2VzIGEgaHVnZSBjaXJjbGUgdGhhdCB0YWtlcyAyNiwwMDAgeWVhcnMgdG8gPGZvbnQgaWQ9MjU+Y29tcGxldGUuIEFzIGEgcmVzdWx0LCA8L2ZvbnQ+IHRoZSBOb3J0aCBQb2xlJ3MgcG9zaXRpb24gaW4gcmVsYXRpb24gdG8gdGhlIHN0YXJzIDxmb250IGlkPTI2PmNoYW5nZS4gPC9mb250PiBBc3Ryb25vbWVycyA8Zm9udCBpZD0yNz5ub3csIGtub3csIHRoYXQsIDwvZm9udD4gYXJvdW5kIDMwMDAgQkMsIFRodWJhbiwgYSBzdGFyIGluIHRoZSB0YWlsIG9mIHRoZSBjb25zdGVsbGF0aW9uIERyYWNvICh0aGUgRHJhZ29uKSwgd2FzIGRpcmVjdGx5IGFib3ZlIHRoZSBwb2xlLiBUaHJlZSB0aG91c2FuZCB5ZWFycyBmcm9tIG5vdywgQWxkZXJhbWluLCBpbiB0aGUgY29uc3RlbGxhdGlvbiBDZXBoZXVzLCA8Zm9udCBpZD0yOD5pczwvZm9udD4gdGhlIHBvbGVzdGFyLiBPdmVyIHRoZSAyNiwwMDAteWVhciBjeWNsZSwgbnVtZXJvdXMgc3RhcnMgd2lsbCB0YWtlIDxmb250IGlkPTI5Pml0cycgPC9mb250PiB0dXJuIGFzIHRoZSBOb3J0aCBTdGFyIGZvciBhIGZldyB0aG91c2FuZCB5ZWFycyBlYWNoLiBCdXQgdGhlIEJhYnlsb25pYW4gcmVjb3JkcyBzaG91bGQgbm90IGJlIGRpc2NhcmRlZC4gPGZvbnQgaWQ9MzA+MzA8L2ZvbnQ+PC9kaXY+
 
-<br>
-###################
-<div class = "quiz">16. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. an important</div>
-<div class = "choice">G. a prominent</div>
-<div class = "choice">H. an abundant</div>
-<div class = "choice">J. a major</div>
-</div>
-###################
-<div class = "quiz">17. If the writer were to delete the phrase "the Star of the Sea" (and the parentheses) from the preceding sentence, the sentence would primarily lose:
-<div class = "choice">A. an explanation of the importance of Polaris to sailors and caravan leaders.</div>
-<div class = "choice">B. a translation of a phrase from a language other than English.</div>
-<div class = "choice">C. a clarification of the exact location of Polaris.</div>
-<div class = "choice">D. the name of a specific caravan.</div>
-</div>
-###################
-<div class = "quiz">18.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. Nevertheless, people</div>
-<div class = "choice">H. Anyway, people</div>
-<div class = "choice">J. People</div>
-</div>
-###################
-<div class = "quiz">19. If the writer were to delete the words "so the stars could revolve around it" from the preceding sentence, the sentence would primarily lose:
-<div class = "choice">A. the method used to secure the World Spike in the sky, according to Scandinavian mythology.</div>
-<div class = "choice">B. an explanation of why the World Spike exists, according to Scandinavian mythology.</div>
-<div class = "choice">C. a description of the jeweled head of the World Spike.</div>
-<div class = "choice">D. a suggestion of a breakthrough in astronomy.</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. having noted</div>
-<div class = "choice">H. were noted</div>
-<div class = "choice">J. noting</div>
-</div>
-###################
-<div class = "quiz">21.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. rotation: called</div>
-<div class = "choice">C. rotation (called)</div>
-<div class = "choice">D. rotation called</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. causes</div>
-<div class = "choice">H. are causing</div>
-<div class = "choice">J. are caused</div>
-</div>
-###################
-<div class = "quiz">23. For the sake of the logic and coherence of this paragraph, Sentence 5 should be placed:
-<div class = "choice">A. where it is now.</div>
-<div class = "choice">B. after Sentence l.</div>
-<div class = "choice">C. after Sentence 2.</div>
-<div class = "choice">D. after Sentence 3.</div>
-</div>
-###################
-<div class = "quiz">24.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. and twirls about</div>
-<div class = "choice">H. on its spinning axis</div>
-<div class = "choice">J. DELETE the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">25.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. complete, as a result,</div>
-<div class = "choice">C. complete as a result,</div>
-<div class = "choice">D. complete as a result</div>
-</div>
-###################
-<div class = "quiz">26.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. would of changed.</div>
-<div class = "choice">H. changed.</div>
-<div class = "choice">J. changes.</div>
-</div>
-###################
-<div class = "quiz">27.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. now know that</div>
-<div class = "choice">C. now know, that</div>
-<div class = "choice">D. now, know that</div>
-</div>
-###################
-<div class = "quiz">28.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. has been</div>
-<div class = "choice">H. will be</div>
-<div class = "choice">J. was</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. they're</div>
-<div class = "choice">C. their</div>
-<div class = "choice">D. it's</div>
-</div>
-###################
-<div class = "quiz">30. Which of the following true statements, if added here, would best conclude the paragraph and the essay by explaining the statement in the preceding sentence?
-<div class = "choice">F. Twenty-six thousand years after they were created, they will again be accurate.</div>
-<div class = "choice">G. The Babylonian records were not necessarily complete, as Hipparchus had discovered.</div>
-<div class = "choice">H. Many of these records were compiled by Kidinnu, who served as the director of an astronomical school in the Babylonian city of Sippar.</div>
-<div class = "choice">J. Babylonian astronomers not only kept records pertaining to the motion of stars and planets, but they also developed a detailed system of rules for a calendar.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFuIGltcG9ydGFudDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGEgcHJvbWluZW50PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFuIGFidW5kYW50PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGEgbWFqb3I8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIGRlbGV0ZSB0aGUgcGhyYXNlICJ0aGUgU3RhciBvZiB0aGUgU2VhIiAoYW5kIHRoZSBwYXJlbnRoZXNlcykgZnJvbSB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLCB0aGUgc2VudGVuY2Ugd291bGQgcHJpbWFyaWx5IGxvc2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFuIGV4cGxhbmF0aW9uIG9mIHRoZSBpbXBvcnRhbmNlIG9mIFBvbGFyaXMgdG8gc2FpbG9ycyBhbmQgY2FyYXZhbiBsZWFkZXJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgdHJhbnNsYXRpb24gb2YgYSBwaHJhc2UgZnJvbSBhIGxhbmd1YWdlIG90aGVyIHRoYW4gRW5nbGlzaC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGEgY2xhcmlmaWNhdGlvbiBvZiB0aGUgZXhhY3QgbG9jYXRpb24gb2YgUG9sYXJpcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZSBuYW1lIG9mIGEgc3BlY2lmaWMgY2FyYXZhbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE5ldmVydGhlbGVzcywgcGVvcGxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFueXdheSwgcGVvcGxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFBlb3BsZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIGRlbGV0ZSB0aGUgd29yZHMgInNvIHRoZSBzdGFycyBjb3VsZCByZXZvbHZlIGFyb3VuZCBpdCIgZnJvbSB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLCB0aGUgc2VudGVuY2Ugd291bGQgcHJpbWFyaWx5IGxvc2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBtZXRob2QgdXNlZCB0byBzZWN1cmUgdGhlIFdvcmxkIFNwaWtlIGluIHRoZSBza3ksIGFjY29yZGluZyB0byBTY2FuZGluYXZpYW4gbXl0aG9sb2d5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFuIGV4cGxhbmF0aW9uIG9mIHdoeSB0aGUgV29ybGQgU3Bpa2UgZXhpc3RzLCBhY2NvcmRpbmcgdG8gU2NhbmRpbmF2aWFuIG15dGhvbG9neS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGEgZGVzY3JpcHRpb24gb2YgdGhlIGpld2VsZWQgaGVhZCBvZiB0aGUgV29ybGQgU3Bpa2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGEgc3VnZ2VzdGlvbiBvZiBhIGJyZWFrdGhyb3VnaCBpbiBhc3Ryb25vbXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhdmluZyBub3RlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdlcmUgbm90ZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vdGluZzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJvdGF0aW9uOiBjYWxsZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJvdGF0aW9uIChjYWxsZWQpPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJvdGF0aW9uIGNhbGxlZDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNhdXNlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFyZSBjYXVzaW5nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFyZSBjYXVzZWQ8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gRm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBhbmQgY29oZXJlbmNlIG9mIHRoaXMgcGFyYWdyYXBoLCBTZW50ZW5jZSA1IHNob3VsZCBiZSBwbGFjZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFmdGVyIFNlbnRlbmNlIGwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFmdGVyIFNlbnRlbmNlIDIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFmdGVyIFNlbnRlbmNlIDMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuZCB0d2lybHMgYWJvdXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9uIGl0cyBzcGlubmluZyBheGlzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIERFTEVURSB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbXBsZXRlLCBhcyBhIHJlc3VsdCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGNvbXBsZXRlIGFzIGEgcmVzdWx0LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNvbXBsZXRlIGFzIGEgcmVzdWx0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdvdWxkIG9mIGNoYW5nZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNoYW5nZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGNoYW5nZXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG5vdyBrbm93IHRoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG5vdyBrbm93LCB0aGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG5vdywga25vdyB0aGF0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhcyBiZWVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdpbGwgYmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdhczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZXkncmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZWlyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGl0J3M8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudHMsIGlmIGFkZGVkIGhlcmUsIHdvdWxkIGJlc3QgY29uY2x1ZGUgdGhlIHBhcmFncmFwaCBhbmQgdGhlIGVzc2F5IGJ5IGV4cGxhaW5pbmcgdGhlIHN0YXRlbWVudCBpbiB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFR3ZW50eS1zaXggdGhvdXNhbmQgeWVhcnMgYWZ0ZXIgdGhleSB3ZXJlIGNyZWF0ZWQsIHRoZXkgd2lsbCBhZ2FpbiBiZSBhY2N1cmF0ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBCYWJ5bG9uaWFuIHJlY29yZHMgd2VyZSBub3QgbmVjZXNzYXJpbHkgY29tcGxldGUsIGFzIEhpcHBhcmNodXMgaGFkIGRpc2NvdmVyZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1hbnkgb2YgdGhlc2UgcmVjb3JkcyB3ZXJlIGNvbXBpbGVkIGJ5IEtpZGlubnUsIHdobyBzZXJ2ZWQgYXMgdGhlIGRpcmVjdG9yIG9mIGFuIGFzdHJvbm9taWNhbCBzY2hvb2wgaW4gdGhlIEJhYnlsb25pYW4gY2l0eSBvZiBTaXBwYXIuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEJhYnlsb25pYW4gYXN0cm9ub21lcnMgbm90IG9ubHkga2VwdCByZWNvcmRzIHBlcnRhaW5pbmcgdG8gdGhlIG1vdGlvbiBvZiBzdGFycyBhbmQgcGxhbmV0cywgYnV0IHRoZXkgYWxzbyBkZXZlbG9wZWQgYSBkZXRhaWxlZCBzeXN0ZW0gb2YgcnVsZXMgZm9yIGEgY2FsZW5kYXIuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

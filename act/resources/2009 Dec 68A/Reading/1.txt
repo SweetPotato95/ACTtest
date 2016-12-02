@@ -1,113 +1,113 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">PROSE FICTION: This passage is adapted from the science fiction novel Another Heaven, Another Earth by H. M. Hoover (?1981 by H. M. Hoover).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Always in those first few minutes when the shuttle left the parent ship and accelerated to clear the gravitational pull of the larger mass, Lee was sure she had made a terrible mistake. She didn't belong here; none of them did—fragile creatures set in rows in a canister shot through black space. She belonged to Earth. To be here was madness, an insane presumption, and there was no way to escape.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlBST1NFIEZJQ1RJT046IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIHNjaWVuY2UgZmljdGlvbiBub3ZlbCBBbm90aGVyIEhlYXZlbiwgQW5vdGhlciBFYXJ0aCBieSBILiBNLiBIb292ZXIgKD8xOTgxIGJ5IEguIE0uIEhvb3ZlcikuPC9kaXY+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsd2F5cyBpbiB0aG9zZSBmaXJzdCBmZXcgbWludXRlcyB3aGVuIHRoZSBzaHV0dGxlIGxlZnQgdGhlIHBhcmVudCBzaGlwIGFuZCBhY2NlbGVyYXRlZCB0byBjbGVhciB0aGUgZ3Jhdml0YXRpb25hbCBwdWxsIG9mIHRoZSBsYXJnZXIgbWFzcywgTGVlIHdhcyBzdXJlIHNoZSBoYWQgbWFkZSBhIHRlcnJpYmxlIG1pc3Rha2UuIFNoZSBkaWRuJ3QgYmVsb25nIGhlcmU7IG5vbmUgb2YgdGhlbSBkaWTigJRmcmFnaWxlIGNyZWF0dXJlcyBzZXQgaW4gcm93cyBpbiBhIGNhbmlzdGVyIHNob3QgdGhyb3VnaCBibGFjayBzcGFjZS4gU2hlIGJlbG9uZ2VkIHRvIEVhcnRoLiBUbyBiZSBoZXJlIHdhcyBtYWRuZXNzLCBhbiBpbnNhbmUgcHJlc3VtcHRpb24sIGFuZCB0aGVyZSB3YXMgbm8gd2F5IHRvIGVzY2FwZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">All she was, all she had accomplished, meant nothing in this time of desperate sanity. The fifty-odd men and women in the cabin with her were all accomplished, all experts in their fields, and all incidental.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsbCBzaGUgd2FzLCBhbGwgc2hlIGhhZCBhY2NvbXBsaXNoZWQsIG1lYW50IG5vdGhpbmcgaW4gdGhpcyB0aW1lIG9mIGRlc3BlcmF0ZSBzYW5pdHkuIFRoZSBmaWZ0eS1vZGQgbWVuIGFuZCB3b21lbiBpbiB0aGUgY2FiaW4gd2l0aCBoZXIgd2VyZSBhbGwgYWNjb21wbGlzaGVkLCBhbGwgZXhwZXJ0cyBpbiB0aGVpciBmaWVsZHMsIGFuZCBhbGwgaW5jaWRlbnRhbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=2>As the shuttle turned, the cameras gave them a view of the Kekule, the parent ship receding in the distance. Three miles long, half a mile deep and wide, the starship was a tribute to the art of welding. It floated in deep space like a chunk of bizarre litter. The word "starship" evoked a far more poetic image than the real thing, Lee thought as she watched. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI+QXMgdGhlIHNodXR0bGUgdHVybmVkLCB0aGUgY2FtZXJhcyBnYXZlIHRoZW0gYSB2aWV3IG9mIHRoZSBLZWt1bGUsIHRoZSBwYXJlbnQgc2hpcCByZWNlZGluZyBpbiB0aGUgZGlzdGFuY2UuIFRocmVlIG1pbGVzIGxvbmcsIGhhbGYgYSBtaWxlIGRlZXAgYW5kIHdpZGUsIHRoZSBzdGFyc2hpcCB3YXMgYSB0cmlidXRlIHRvIHRoZSBhcnQgb2Ygd2VsZGluZy4gSXQgZmxvYXRlZCBpbiBkZWVwIHNwYWNlIGxpa2UgYSBjaHVuayBvZiBiaXphcnJlIGxpdHRlci4gVGhlIHdvcmQgInN0YXJzaGlwIiBldm9rZWQgYSBmYXIgbW9yZSBwb2V0aWMgaW1hZ2UgdGhhbiB0aGUgcmVhbCB0aGluZywgTGVlIHRob3VnaHQgYXMgc2hlIHdhdGNoZWQuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Around her, people talked and laughed. She didn't join in, nor did they try to talk to her. Past experience had taught them she was best left alone in shuttles— unless they wanted to be snapped at. <font id=6>In the confinement of starships individual quirks became well-known. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFyb3VuZCBoZXIsIHBlb3BsZSB0YWxrZWQgYW5kIGxhdWdoZWQuIFNoZSBkaWRuJ3Qgam9pbiBpbiwgbm9yIGRpZCB0aGV5IHRyeSB0byB0YWxrIHRvIGhlci4gUGFzdCBleHBlcmllbmNlIGhhZCB0YXVnaHQgdGhlbSBzaGUgd2FzIGJlc3QgbGVmdCBhbG9uZSBpbiBzaHV0dGxlc+KAPyB1bmxlc3MgdGhleSB3YW50ZWQgdG8gYmUgc25hcHBlZCBhdC4gPGZvbnQgaWQ9Nj5JbiB0aGUgY29uZmluZW1lbnQgb2Ygc3RhcnNoaXBzIGluZGl2aWR1YWwgcXVpcmtzIGJlY2FtZSB3ZWxsLWtub3duLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The planet Xilan appeared on the screen, as green as Earth was blue. From this distance it suggested an agate ball, variegated with white, shining and untouched. It had been discovered five hundred Earth years before; there were records of several landings 30 there, but little more than basic data survived in the corporate archives. At the time of its discovery Xilan had been considered too far from Earth to make colonization profitable, too far to plunder for mineral wealth. Technology was changing that.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBwbGFuZXQgWGlsYW4gYXBwZWFyZWQgb24gdGhlIHNjcmVlbiwgYXMgZ3JlZW4gYXMgRWFydGggd2FzIGJsdWUuIEZyb20gdGhpcyBkaXN0YW5jZSBpdCBzdWdnZXN0ZWQgYW4gYWdhdGUgYmFsbCwgdmFyaWVnYXRlZCB3aXRoIHdoaXRlLCBzaGluaW5nIGFuZCB1bnRvdWNoZWQuIEl0IGhhZCBiZWVuIGRpc2NvdmVyZWQgZml2ZSBodW5kcmVkIEVhcnRoIHllYXJzIGJlZm9yZTsgdGhlcmUgd2VyZSByZWNvcmRzIG9mIHNldmVyYWwgbGFuZGluZ3MgMzAgdGhlcmUsIGJ1dCBsaXR0bGUgbW9yZSB0aGFuIGJhc2ljIGRhdGEgc3Vydml2ZWQgaW4gdGhlIGNvcnBvcmF0ZSBhcmNoaXZlcy4gQXQgdGhlIHRpbWUgb2YgaXRzIGRpc2NvdmVyeSBYaWxhbiBoYWQgYmVlbiBjb25zaWRlcmVkIHRvbyBmYXIgZnJvbSBFYXJ0aCB0byBtYWtlIGNvbG9uaXphdGlvbiBwcm9maXRhYmxlLCB0b28gZmFyIHRvIHBsdW5kZXIgZm9yIG1pbmVyYWwgd2VhbHRoLiBUZWNobm9sb2d5IHdhcyBjaGFuZ2luZyB0aGF0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Hours passed. Polar ice caps and land masses came into focus. The white became clouds and then the gleam of snow-capped mountains. A wide tapering of beige suggested that desert covered the center of one continent. Rivers veined into view. Several volcanoes plumed into the upper atmosphere.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhvdXJzIHBhc3NlZC4gUG9sYXIgaWNlIGNhcHMgYW5kIGxhbmQgbWFzc2VzIGNhbWUgaW50byBmb2N1cy4gVGhlIHdoaXRlIGJlY2FtZSBjbG91ZHMgYW5kIHRoZW4gdGhlIGdsZWFtIG9mIHNub3ctY2FwcGVkIG1vdW50YWlucy4gQSB3aWRlIHRhcGVyaW5nIG9mIGJlaWdlIHN1Z2dlc3RlZCB0aGF0IGRlc2VydCBjb3ZlcmVkIHRoZSBjZW50ZXIgb2Ygb25lIGNvbnRpbmVudC4gUml2ZXJzIHZlaW5lZCBpbnRvIHZpZXcuIFNldmVyYWwgdm9sY2Fub2VzIHBsdW1lZCBpbnRvIHRoZSB1cHBlciBhdG1vc3BoZXJlLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=3>For Leland Hamlin, biologist, all this had just one joyous message—a wide variety of life forms existed on this world, animals never seen before, each one unique and fascinating. The archives reported only 45 lower life forms here, but to her that proved nothing. Five hundred years earlier, tests of sentience had been <font id=8>crude</font>, full of Earthly chauvinism, unreliable. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTM+Rm9yIExlbGFuZCBIYW1saW4sIGJpb2xvZ2lzdCwgYWxsIHRoaXMgaGFkIGp1c3Qgb25lIGpveW91cyBtZXNzYWdl4oCUYSB3aWRlIHZhcmlldHkgb2YgbGlmZSBmb3JtcyBleGlzdGVkIG9uIHRoaXMgd29ybGQsIGFuaW1hbHMgbmV2ZXIgc2VlbiBiZWZvcmUsIGVhY2ggb25lIHVuaXF1ZSBhbmQgZmFzY2luYXRpbmcuIFRoZSBhcmNoaXZlcyByZXBvcnRlZCBvbmx5IDQ1IGxvd2VyIGxpZmUgZm9ybXMgaGVyZSwgYnV0IHRvIGhlciB0aGF0IHByb3ZlZCBub3RoaW5nLiBGaXZlIGh1bmRyZWQgeWVhcnMgZWFybGllciwgdGVzdHMgb2Ygc2VudGllbmNlIGhhZCBiZWVuIDxmb250IGlkPTg+Y3J1ZGU8L2ZvbnQ+LCBmdWxsIG9mIEVhcnRobHkgY2hhdXZpbmlzbSwgdW5yZWxpYWJsZS4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Born in a ring-world colony in L5, she had grown up without ever seeing any animals but humans—and she missed animals. Her father said she was a product of a more primitive era. The data banks of her first learning center had been almost exclusively devoted to zoology. At fourteen, she had qualified for a scholarship at an Earthside university.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJvcm4gaW4gYSByaW5nLXdvcmxkIGNvbG9ueSBpbiBMNSwgc2hlIGhhZCBncm93biB1cCB3aXRob3V0IGV2ZXIgc2VlaW5nIGFueSBhbmltYWxzIGJ1dCBodW1hbnPigJRhbmQgc2hlIG1pc3NlZCBhbmltYWxzLiBIZXIgZmF0aGVyIHNhaWQgc2hlIHdhcyBhIHByb2R1Y3Qgb2YgYSBtb3JlIHByaW1pdGl2ZSBlcmEuIFRoZSBkYXRhIGJhbmtzIG9mIGhlciBmaXJzdCBsZWFybmluZyBjZW50ZXIgaGFkIGJlZW4gYWxtb3N0IGV4Y2x1c2l2ZWx5IGRldm90ZWQgdG8gem9vbG9neS4gQXQgZm91cnRlZW4sIHNoZSBoYWQgcXVhbGlmaWVkIGZvciBhIHNjaG9sYXJzaGlwIGF0IGFuIEVhcnRoc2lkZSB1bml2ZXJzaXR5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">She had gone to her home planet expecting to find the wealth of species detailed in her studies. She found instead that humans had permitted only those creatures which served them to survive. The rest were extinct and had been for generations past. The child in her never quite forgave her ancestors for that crime.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNoZSBoYWQgZ29uZSB0byBoZXIgaG9tZSBwbGFuZXQgZXhwZWN0aW5nIHRvIGZpbmQgdGhlIHdlYWx0aCBvZiBzcGVjaWVzIGRldGFpbGVkIGluIGhlciBzdHVkaWVzLiBTaGUgZm91bmQgaW5zdGVhZCB0aGF0IGh1bWFucyBoYWQgcGVybWl0dGVkIG9ubHkgdGhvc2UgY3JlYXR1cmVzIHdoaWNoIHNlcnZlZCB0aGVtIHRvIHN1cnZpdmUuIFRoZSByZXN0IHdlcmUgZXh0aW5jdCBhbmQgaGFkIGJlZW4gZm9yIGdlbmVyYXRpb25zIHBhc3QuIFRoZSBjaGlsZCBpbiBoZXIgbmV2ZXIgcXVpdGUgZm9yZ2F2ZSBoZXIgYW5jZXN0b3JzIGZvciB0aGF0IGNyaW1lLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The ancient zoologist Beebe had written, <font id=4>"... when the last individual of a race of living things breathes no more, another heaven and another earth must pass before such a one can come again." </font> And so, finding Earth desolate, she searched.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBhbmNpZW50IHpvb2xvZ2lzdCBCZWViZSBoYWQgd3JpdHRlbiwgPGZvbnQgaWQ9ND4iLi4uIHdoZW4gdGhlIGxhc3QgaW5kaXZpZHVhbCBvZiBhIHJhY2Ugb2YgbGl2aW5nIHRoaW5ncyBicmVhdGhlcyBubyBtb3JlLCBhbm90aGVyIGhlYXZlbiBhbmQgYW5vdGhlciBlYXJ0aCBtdXN0IHBhc3MgYmVmb3JlIHN1Y2ggYSBvbmUgY2FuIGNvbWUgYWdhaW4uIiA8L2ZvbnQ+IEFuZCBzbywgZmluZGluZyBFYXJ0aCBkZXNvbGF0ZSwgc2hlIHNlYXJjaGVkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was not a quest one could go on alone, although she would have liked to. But she had learned the practical must enter into the realization of any dream, so when an employment recruiter from one of Earth's 70 largest corporations offered her a job as a biochemist on a deep space exploration venture, she accepted.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkl0IHdhcyBub3QgYSBxdWVzdCBvbmUgY291bGQgZ28gb24gYWxvbmUsIGFsdGhvdWdoIHNoZSB3b3VsZCBoYXZlIGxpa2VkIHRvLiBCdXQgc2hlIGhhZCBsZWFybmVkIHRoZSBwcmFjdGljYWwgbXVzdCBlbnRlciBpbnRvIHRoZSByZWFsaXphdGlvbiBvZiBhbnkgZHJlYW0sIHNvIHdoZW4gYW4gZW1wbG95bWVudCByZWNydWl0ZXIgZnJvbSBvbmUgb2YgRWFydGgncyA3MCBsYXJnZXN0IGNvcnBvcmF0aW9ucyBvZmZlcmVkIGhlciBhIGpvYiBhcyBhIGJpb2NoZW1pc3Qgb24gYSBkZWVwIHNwYWNlIGV4cGxvcmF0aW9uIHZlbnR1cmUsIHNoZSBhY2NlcHRlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fifteen space years had passed since then, and five more expeditions." Study during travel time had earned her two more doctorates. Two of her trip logs had been so well written, so alive with her enthusiasm, that they sold throughout Earth's federation as popular adventure books. She had gained also in that time a devout respect for life. It was so rare a phenomenon. Entire galaxies existed without a trace of <font id=10>it</font>. Billions of years passed on planets while nothing ever changed but rock.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZnRlZW4gc3BhY2UgeWVhcnMgaGFkIHBhc3NlZCBzaW5jZSB0aGVuLCBhbmQgZml2ZSBtb3JlIGV4cGVkaXRpb25zLiIgU3R1ZHkgZHVyaW5nIHRyYXZlbCB0aW1lIGhhZCBlYXJuZWQgaGVyIHR3byBtb3JlIGRvY3RvcmF0ZXMuIFR3byBvZiBoZXIgdHJpcCBsb2dzIGhhZCBiZWVuIHNvIHdlbGwgd3JpdHRlbiwgc28gYWxpdmUgd2l0aCBoZXIgZW50aHVzaWFzbSwgdGhhdCB0aGV5IHNvbGQgdGhyb3VnaG91dCBFYXJ0aCdzIGZlZGVyYXRpb24gYXMgcG9wdWxhciBhZHZlbnR1cmUgYm9va3MuIFNoZSBoYWQgZ2FpbmVkIGFsc28gaW4gdGhhdCB0aW1lIGEgZGV2b3V0IHJlc3BlY3QgZm9yIGxpZmUuIEl0IHdhcyBzbyByYXJlIGEgcGhlbm9tZW5vbi4gRW50aXJlIGdhbGF4aWVzIGV4aXN0ZWQgd2l0aG91dCBhIHRyYWNlIG9mIDxmb250IGlkPTEwPml0PC9mb250Pi4gQmlsbGlvbnMgb2YgeWVhcnMgcGFzc2VkIG9uIHBsYW5ldHMgd2hpbGUgbm90aGluZyBldmVyIGNoYW5nZWQgYnV0IHJvY2suPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">On Xilan's night side, in the lowest and last orbit, she saw a dull red glow of surface fire and something glinting in its light—lightning-struck vegetation, or molten lava? The shuttle was too close to the surface and moving too fast for its cameras to see clearly. She glanced at nearby colleagues; none seemed to have noticed anything remarkable. The belltone signaled that they were landing.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9uIFhpbGFuJ3MgbmlnaHQgc2lkZSwgaW4gdGhlIGxvd2VzdCBhbmQgbGFzdCBvcmJpdCwgc2hlIHNhdyBhIGR1bGwgcmVkIGdsb3cgb2Ygc3VyZmFjZSBmaXJlIGFuZCBzb21ldGhpbmcgZ2xpbnRpbmcgaW4gaXRzIGxpZ2h04oCUbGlnaHRuaW5nLXN0cnVjayB2ZWdldGF0aW9uLCBvciBtb2x0ZW4gbGF2YT8gVGhlIHNodXR0bGUgd2FzIHRvbyBjbG9zZSB0byB0aGUgc3VyZmFjZSBhbmQgbW92aW5nIHRvbyBmYXN0IGZvciBpdHMgY2FtZXJhcyB0byBzZWUgY2xlYXJseS4gU2hlIGdsYW5jZWQgYXQgbmVhcmJ5IGNvbGxlYWd1ZXM7IG5vbmUgc2VlbWVkIHRvIGhhdmUgbm90aWNlZCBhbnl0aGluZyByZW1hcmthYmxlLiBUaGUgYmVsbHRvbmUgc2lnbmFsZWQgdGhhdCB0aGV5IHdlcmUgbGFuZGluZy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. The main character of the passage can best be described as a:
-<div class = "choice">A. tourist looking for adventure.</div>
-<div class = "choice">B. traveler gathering information for an animal story.</div>
-<div class = "choice">C. scientist seeking evidence for her life's work.</div>
-<div class = "choice">D. scientist researching an astronomy book.</div>
-</div>
-###################
-<div class = "quiz">2. The main purpose of the third paragraph (lines 13-19) is to:
-<div class = "choice">F. refute romantic ideas about starships.</div>
-<div class = "choice">G. explain how space travel creates litter.</div>
-<div class = "choice">H. indicate that traveling in space is like writing poetry.</div>
-<div class = "choice">J. point out the importance of space-age welding techniques.</div>
-</div>
-###################
-<div class = "quiz">3. The main purpose of the seventh paragraph (lines 41-47) is to:
-<div class = "choice">A. explain the difference between higher and lower life forms.</div>
-<div class = "choice">B. compare modern and historical scientific tests of sentience used on Xilan.</div>
-<div class = "choice">C. indicate Lee's great hope that earlier reports on Xilan had been inaccurate.</div>
-<div class = "choice">D. inform readers that archives from earlier research on Xilan existed.</div>
-</div>
-###################
-<div class = "quiz">4. In the passage, the quotation from Beebe (lines 61-64) is most likely included to make a point about the:
-<div class = "choice">F. mechanics of breathing.</div>
-<div class = "choice">G. extinction of animal species.</div>
-<div class = "choice">H. last human being in the galaxy.</div>
-<div class = "choice">J. beliefs of ancient zoologists.</div>
-</div>
-###################
-<div class = "quiz">5. Information in the passage indicates that Lee's dream is to:
-<div class = "choice">A. find someone to share her quest.</div>
-<div class = "choice">B. find a place to house the animals left on Earth.</div>
-<div class = "choice">C. be the first woman to travel on deep-space expeditions.</div>
-<div class = "choice">D. discover a place where animal life abounds.</div>
-</div>
-###################
-<div class = "quiz">6. In the context of the passage, the statement in lines 23-24 most nearly means that:
-<div class = "choice">F. unusual individuals choose to have careers on starships.</div>
-<div class = "choice">G. starships are physically smaller in reality than they appear to be.</div>
-<div class = "choice">H. people often become claustrophobic when working on starships.</div>
-<div class = "choice">J. people in close proximity learn what to expect from each other.</div>
-</div>
-###################
-<div class = "quiz">7. The passage mentions Xilan having all of the following features EXCEPT:
-<div class = "choice">A. mountains.</div>
-<div class = "choice">B. islands.</div>
-<div class = "choice">C. rivers.</div>
-<div class = "choice">D. volcanoes.</div>
-</div>
-###################
-<div class = "quiz">8. As it is used in line 47, the word crude most nearly means:
-<div class = "choice">F. unaltered.</div>
-<div class = "choice">G. primitive.</div>
-<div class = "choice">H. vulgar.</div>
-<div class = "choice">J. impolite.</div>
-</div>
-###################
-<div class = "quiz">9. The passage makes clear that animals have disappeared on Earth due to the:
-<div class = "choice">A. fulfillment of Beebe's prediction about species.</div>
-<div class = "choice">B. volcanic destruction of the environment.</div>
-<div class = "choice">C. vegetation being struck by lightning.</div>
-<div class = "choice">D. human selection of useful animals.</div>
-</div>
-###################
-<div class = "quiz">10. As it is used in line 79, the word it most nearly refers to:
-<div class = "choice">F. the phenomenon of life.</div>
-<div class = "choice">G. Earth's federation.</div>
-<div class = "choice">H. time passing.</div>
-<div class = "choice">J.  the night side of Xilan.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBUaGUgbWFpbiBjaGFyYWN0ZXIgb2YgdGhlIHBhc3NhZ2UgY2FuIGJlc3QgYmUgZGVzY3JpYmVkIGFzIGE6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRvdXJpc3QgbG9va2luZyBmb3IgYWR2ZW50dXJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRyYXZlbGVyIGdhdGhlcmluZyBpbmZvcm1hdGlvbiBmb3IgYW4gYW5pbWFsIHN0b3J5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNjaWVudGlzdCBzZWVraW5nIGV2aWRlbmNlIGZvciBoZXIgbGlmZSdzIHdvcmsuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNjaWVudGlzdCByZXNlYXJjaGluZyBhbiBhc3Ryb25vbXkgYm9vay48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBUaGUgbWFpbiBwdXJwb3NlIG9mIHRoZSB0aGlyZCBwYXJhZ3JhcGggKGxpbmVzIDEzLTE5KSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJlZnV0ZSByb21hbnRpYyBpZGVhcyBhYm91dCBzdGFyc2hpcHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV4cGxhaW4gaG93IHNwYWNlIHRyYXZlbCBjcmVhdGVzIGxpdHRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluZGljYXRlIHRoYXQgdHJhdmVsaW5nIGluIHNwYWNlIGlzIGxpa2Ugd3JpdGluZyBwb2V0cnkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBvaW50IG91dCB0aGUgaW1wb3J0YW5jZSBvZiBzcGFjZS1hZ2Ugd2VsZGluZyB0ZWNobmlxdWVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBUaGUgbWFpbiBwdXJwb3NlIG9mIHRoZSBzZXZlbnRoIHBhcmFncmFwaCAobGluZXMgNDEtNDcpIGlzIHRvOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGV4cGxhaW4gdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBoaWdoZXIgYW5kIGxvd2VyIGxpZmUgZm9ybXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNvbXBhcmUgbW9kZXJuIGFuZCBoaXN0b3JpY2FsIHNjaWVudGlmaWMgdGVzdHMgb2Ygc2VudGllbmNlIHVzZWQgb24gWGlsYW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluZGljYXRlIExlZSdzIGdyZWF0IGhvcGUgdGhhdCBlYXJsaWVyIHJlcG9ydHMgb24gWGlsYW4gaGFkIGJlZW4gaW5hY2N1cmF0ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluZm9ybSByZWFkZXJzIHRoYXQgYXJjaGl2ZXMgZnJvbSBlYXJsaWVyIHJlc2VhcmNoIG9uIFhpbGFuIGV4aXN0ZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBJbiB0aGUgcGFzc2FnZSwgdGhlIHF1b3RhdGlvbiBmcm9tIEJlZWJlIChsaW5lcyA2MS02NCkgaXMgbW9zdCBsaWtlbHkgaW5jbHVkZWQgdG8gbWFrZSBhIHBvaW50IGFib3V0IHRoZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG1lY2hhbmljcyBvZiBicmVhdGhpbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV4dGluY3Rpb24gb2YgYW5pbWFsIHNwZWNpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxhc3QgaHVtYW4gYmVpbmcgaW4gdGhlIGdhbGF4eS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGJlbGllZnMgb2YgYW5jaWVudCB6b29sb2dpc3RzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBJbmZvcm1hdGlvbiBpbiB0aGUgcGFzc2FnZSBpbmRpY2F0ZXMgdGhhdCBMZWUncyBkcmVhbSBpcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZpbmQgc29tZW9uZSB0byBzaGFyZSBoZXIgcXVlc3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGZpbmQgYSBwbGFjZSB0byBob3VzZSB0aGUgYW5pbWFscyBsZWZ0IG9uIEVhcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJlIHRoZSBmaXJzdCB3b21hbiB0byB0cmF2ZWwgb24gZGVlcC1zcGFjZSBleHBlZGl0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRpc2NvdmVyIGEgcGxhY2Ugd2hlcmUgYW5pbWFsIGxpZmUgYWJvdW5kcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBJbiB0aGUgY29udGV4dCBvZiB0aGUgcGFzc2FnZSwgdGhlIHN0YXRlbWVudCBpbiBsaW5lcyAyMy0yNCBtb3N0IG5lYXJseSBtZWFucyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVudXN1YWwgaW5kaXZpZHVhbHMgY2hvb3NlIHRvIGhhdmUgY2FyZWVycyBvbiBzdGFyc2hpcHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0YXJzaGlwcyBhcmUgcGh5c2ljYWxseSBzbWFsbGVyIGluIHJlYWxpdHkgdGhhbiB0aGV5IGFwcGVhciB0byBiZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBlb3BsZSBvZnRlbiBiZWNvbWUgY2xhdXN0cm9waG9iaWMgd2hlbiB3b3JraW5nIG9uIHN0YXJzaGlwcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBlb3BsZSBpbiBjbG9zZSBwcm94aW1pdHkgbGVhcm4gd2hhdCB0byBleHBlY3QgZnJvbSBlYWNoIG90aGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBUaGUgcGFzc2FnZSBtZW50aW9ucyBYaWxhbiBoYXZpbmcgYWxsIG9mIHRoZSBmb2xsb3dpbmcgZmVhdHVyZXMgRVhDRVBUOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIG1vdW50YWlucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGlzbGFuZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJpdmVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHZvbGNhbm9lcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBcyBpdCBpcyB1c2VkIGluIGxpbmUgNDcsIHRoZSB3b3JkIGNydWRlIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVuYWx0ZXJlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHByaW1pdGl2ZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHZ1bGdhci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGltcG9saXRlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBUaGUgcGFzc2FnZSBtYWtlcyBjbGVhciB0aGF0IGFuaW1hbHMgaGF2ZSBkaXNhcHBlYXJlZCBvbiBFYXJ0aCBkdWUgdG8gdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZ1bGZpbGxtZW50IG9mIEJlZWJlJ3MgcHJlZGljdGlvbiBhYm91dCBzcGVjaWVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHZvbGNhbmljIGRlc3RydWN0aW9uIG9mIHRoZSBlbnZpcm9ubWVudC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHZlZ2V0YXRpb24gYmVpbmcgc3RydWNrIGJ5IGxpZ2h0bmluZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGh1bWFuIHNlbGVjdGlvbiBvZiB1c2VmdWwgYW5pbWFscy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDc5LCB0aGUgd29yZCBpdCBtb3N0IG5lYXJseSByZWZlcnMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBwaGVub21lbm9uIG9mIGxpZmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEVhcnRoJ3MgZmVkZXJhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRpbWUgcGFzc2luZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouICB0aGUgbmlnaHQgc2lkZSBvZiBYaWxhbi48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

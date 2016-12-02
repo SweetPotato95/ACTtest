@@ -1,66 +1,66 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ice cream was made by stirring an ice cream mixture (MD at a constant rate in the apparatus shown in Figure l.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkljZSBjcmVhbSB3YXMgbWFkZSBieSBzdGlycmluZyBhbiBpY2UgY3JlYW0gbWl4dHVyZSAoTUQgYXQgYSBjb25zdGFudCByYXRlIGluIHRoZSBhcHBhcmF0dXMgc2hvd24gaW4gRmlndXJlIGwuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\148.png' width = '601'height = '370'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNDgucG5nJyB3aWR0aCA9ICc2MDEnaGVpZ2h0ID0gJzM3MCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSBsPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how the temperature of Ml and the temperature of the salt/ice mixture varied with mixing time.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIHNob3dzIGhvdyB0aGUgdGVtcGVyYXR1cmUgb2YgTWwgYW5kIHRoZSB0ZW1wZXJhdHVyZSBvZiB0aGUgc2FsdC9pY2UgbWl4dHVyZSB2YXJpZWQgd2l0aCBtaXhpbmcgdGltZS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\149.png' width = '640'height = '298'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNDkucG5nJyB3aWR0aCA9ICc2NDAnaGVpZ2h0ID0gJzI5OCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The viscosity (resistance to flow) of M1 was monitored by measuring how the current drawn by the motor turning the stirring paddle changed with mixing time. Two other ice cream mixtures (M2 and M3) were also monitored under conditions identical to those used during the mixing of Ml (see Figure 3).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSB2aXNjb3NpdHkgKHJlc2lzdGFuY2UgdG8gZmxvdykgb2YgTTEgd2FzIG1vbml0b3JlZCBieSBtZWFzdXJpbmcgaG93IHRoZSBjdXJyZW50IGRyYXduIGJ5IHRoZSBtb3RvciB0dXJuaW5nIHRoZSBzdGlycmluZyBwYWRkbGUgY2hhbmdlZCB3aXRoIG1peGluZyB0aW1lLiBUd28gb3RoZXIgaWNlIGNyZWFtIG1peHR1cmVzIChNMiBhbmQgTTMpIHdlcmUgYWxzbyBtb25pdG9yZWQgdW5kZXIgY29uZGl0aW9ucyBpZGVudGljYWwgdG8gdGhvc2UgdXNlZCBkdXJpbmcgdGhlIG1peGluZyBvZiBNbCAoc2VlIEZpZ3VyZSAzKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\150.png' width = '640'height = '557'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDYgSnVuZSA2M0ZcaW1nc1wxNTAucG5nJyB3aWR0aCA9ICc2NDAnaGVpZ2h0ID0gJzU1NycvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from D. Gibbon et al., "The Thermodynamics of Home-Made Ice Cream."ⓒ1992 by Division of Chemical Education, Inc., American Chemical Society.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIEQuIEdpYmJvbiBldCBhbC4sICJUaGUgVGhlcm1vZHluYW1pY3Mgb2YgSG9tZS1NYWRlIEljZSBDcmVhbS4i4pM/MTk5MiBieSBEaXZpc2lvbiBvZiBDaGVtaWNhbCBFZHVjYXRpb24sIEluYy4sIEFtZXJpY2FuIENoZW1pY2FsIFNvY2lldHkuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">12. Based on Figures 2 and 3, for Mi, as the temperature of the salt/ice mixture increased, the electrical current:
-<div class = "choice">F. increased only.</div>
-<div class = "choice">G. decreased only.</div>
-<div class = "choice">H. increased, then decreased.</div>
-<div class = "choice">J. decreased, then increased.</div>
-</div>
-###################
-<div class = "quiz">13. A fourth ice cream mixture (M4) was monitored under the same conditions used to gather the data for Figure 3. The current at 0 min was l.33 amperes. How did the initial viscosity of M4 compare with that of Ml-M3? The initial viscosity of M4 was:
-<div class = "choice">A. less than that of Ml, M2, and M3.</div>
-<div class = "choice">B. less than that of Ml and M2, but greater than that of M3.</div>
-<div class = "choice">C. greater than that of Ml and M2, but less than that of M3.</div>
-<div class = "choice">D. greater than that of Ml, M2, and M3.</div>
-</div>
-###################
-<div class = "quiz">14. According to Figure 3, the current drawn by the motor at a mixing Lime of 8 min for M2 was closest to which of the following?
-<div class = "choice">F. 1.40 amperes</div>
-<div class = "choice">G. 1.45 amperes</div>
-<div class = "choice">H. 1.50 amperes</div>
-<div class = "choice">J. 1.55 amperes</div>
-</div>
-###################
-<div class = "quiz">15. Some ice cream makers automatically shut off when the current drawn by the electric motor reaches 2 amperes to indicate that the process is complete. Based on Figure 3, in this type of ice cream maker, which ice cream mixture, if any, would have the longest completion time?
-<div class = "choice">A. M1</div>
-<div class = "choice">B. M2</div>
-<div class = "choice">C. M3</div>
-<div class = "choice">D. All 3 mixtures would have the same completion time.</div>
-</div>
-###################
-<div class = "quiz">16. Based on Figure It which .of the following best explains the trends in the results shown in Figure 2? Overall, as mixing time increased, heat was conducted by the:
-<div class = "choice">F. steel container from the ice cream mixture to the salt/ice mixture.</div>
-<div class = "choice">G. steel container from the salt/ice mixture to the ice cream mixture.</div>
-<div class = "choice">H. electric motor from the stirring paddle to the ice cream mixture.</div>
-<div class = "choice">J. electric motor from the ice cream mixture to the stirring paddle.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQmFzZWQgb24gRmlndXJlcyAyIGFuZCAzLCBmb3IgTWksIGFzIHRoZSB0ZW1wZXJhdHVyZSBvZiB0aGUgc2FsdC9pY2UgbWl4dHVyZSBpbmNyZWFzZWQsIHRoZSBlbGVjdHJpY2FsIGN1cnJlbnQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlZCwgdGhlbiBkZWNyZWFzZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlY3JlYXNlZCwgdGhlbiBpbmNyZWFzZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQSBmb3VydGggaWNlIGNyZWFtIG1peHR1cmUgKE00KSB3YXMgbW9uaXRvcmVkIHVuZGVyIHRoZSBzYW1lIGNvbmRpdGlvbnMgdXNlZCB0byBnYXRoZXIgdGhlIGRhdGEgZm9yIEZpZ3VyZSAzLiBUaGUgY3VycmVudCBhdCAwIG1pbiB3YXMgbC4zMyBhbXBlcmVzLiBIb3cgZGlkIHRoZSBpbml0aWFsIHZpc2Nvc2l0eSBvZiBNNCBjb21wYXJlIHdpdGggdGhhdCBvZiBNbC1NMz8gVGhlIGluaXRpYWwgdmlzY29zaXR5IG9mIE00IHdhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiB0aGF0IG9mIE1sLCBNMiwgYW5kIE0zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxlc3MgdGhhbiB0aGF0IG9mIE1sIGFuZCBNMiwgYnV0IGdyZWF0ZXIgdGhhbiB0aGF0IG9mIE0zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGdyZWF0ZXIgdGhhbiB0aGF0IG9mIE1sIGFuZCBNMiwgYnV0IGxlc3MgdGhhbiB0aGF0IG9mIE0zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiB0aGF0IG9mIE1sLCBNMiwgYW5kIE0zLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCB0aGUgY3VycmVudCBkcmF3biBieSB0aGUgbW90b3IgYXQgYSBtaXhpbmcgTGltZSBvZiA4IG1pbiBmb3IgTTIgd2FzIGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDEuNDAgYW1wZXJlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEuNDUgYW1wZXJlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEuNTAgYW1wZXJlczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEuNTUgYW1wZXJlczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gU29tZSBpY2UgY3JlYW0gbWFrZXJzIGF1dG9tYXRpY2FsbHkgc2h1dCBvZmYgd2hlbiB0aGUgY3VycmVudCBkcmF3biBieSB0aGUgZWxlY3RyaWMgbW90b3IgcmVhY2hlcyAyIGFtcGVyZXMgdG8gaW5kaWNhdGUgdGhhdCB0aGUgcHJvY2VzcyBpcyBjb21wbGV0ZS4gQmFzZWQgb24gRmlndXJlIDMsIGluIHRoaXMgdHlwZSBvZiBpY2UgY3JlYW0gbWFrZXIsIHdoaWNoIGljZSBjcmVhbSBtaXh0dXJlLCBpZiBhbnksIHdvdWxkIGhhdmUgdGhlIGxvbmdlc3QgY29tcGxldGlvbiB0aW1lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE0xPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE0yPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE0zPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEFsbCAzIG1peHR1cmVzIHdvdWxkIGhhdmUgdGhlIHNhbWUgY29tcGxldGlvbiB0aW1lLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gQmFzZWQgb24gRmlndXJlIEl0IHdoaWNoIC5vZiB0aGUgZm9sbG93aW5nIGJlc3QgZXhwbGFpbnMgdGhlIHRyZW5kcyBpbiB0aGUgcmVzdWx0cyBzaG93biBpbiBGaWd1cmUgMj8gT3ZlcmFsbCwgYXMgbWl4aW5nIHRpbWUgaW5jcmVhc2VkLCBoZWF0IHdhcyBjb25kdWN0ZWQgYnkgdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHN0ZWVsIGNvbnRhaW5lciBmcm9tIHRoZSBpY2UgY3JlYW0gbWl4dHVyZSB0byB0aGUgc2FsdC9pY2UgbWl4dHVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN0ZWVsIGNvbnRhaW5lciBmcm9tIHRoZSBzYWx0L2ljZSBtaXh0dXJlIHRvIHRoZSBpY2UgY3JlYW0gbWl4dHVyZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVsZWN0cmljIG1vdG9yIGZyb20gdGhlIHN0aXJyaW5nIHBhZGRsZSB0byB0aGUgaWNlIGNyZWFtIG1peHR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGVsZWN0cmljIG1vdG9yIGZyb20gdGhlIGljZSBjcmVhbSBtaXh0dXJlIHRvIHRoZSBzdGlycmluZyBwYWRkbGUuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

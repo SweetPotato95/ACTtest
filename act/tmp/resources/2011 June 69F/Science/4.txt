@@ -1,0 +1,50 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The respiratory cycle for resting humans who are breathing normally has been studied by physiologists. The figure shows 4 average measures of the cycle: lung volume, air flow (the rate at which air flows into or out of the lungs), pleural pressure (the pressure in the area between the Jungs and the chest wall), and alveolar pressure (the pressure in the alveoli, small sacs in the lungs where air exchange takes place). Pleural pressure and alveolar pressure are represented as values above or below atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\192.png' width = '60'height = '42'/>). The nex inspiration begins at the end of the pause.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\238.png' width = '400'height = '500'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">*corresponds to atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\193.png' width = '60'height = '42'/>)</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Robert M. Berne and Matthew N. Levy, eds., Principles of Physiology. © 1990 by C.V. Mosby Company.</div>
+
+<br>
+###################
+<div class = "quiz">18. Functional residual capacity (FRC) refers to average lung volume during the pause portion of the respiratory cycle. Based on the figure, FRC is closest to which of the following values?
+<div class = "choice">F. 0.5 L</div>
+<div class = "choice">G. 2.4 L</div>
+<div class = "choice">H. 2.9 L</div>
+<div class = "choice">J. 5.3 L</div>
+</div>
+###################
+<div class = "quiz">19. For a resting human who is breathing normally, how does the duration of inspiration compare with the duration of expiration?
+<div class = "choice">A. The duration of inspiration is longer than the duration of expiration.</div>
+<div class = "choice">B. The duration of inspiration is shorter than the duration of expiration.</div>
+<div class = "choice">C. The duration of inspiration and the duration of expiration do not differ.</div>
+<div class = "choice">D. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">20. The figure shows that when pleural pressure is lowest, air flow is closest to which of the following?
+<div class = "choice">F. -0.5 L/sec</div>
+<div class = "choice">G. 0 L/sec</div>
+<div class = "choice">H. 0.5 L/sec</div>
+<div class = "choice">J. 1.0 L/sec</div>
+</div>
+###################
+<div class = "quiz">21. When tire diaphragm contracts during the first 0.5 sec of inspiration, the chest wall expands away from the lungs, which causes the lungs to expand. Based on the figure, what is the effect of the contraction of the diaphragm on pleural pressure and alveolar pressure?
+<div class = "choice">A. Pleural pressure increases        alveolar pressure increases</div>
+<div class = "choice">B. Pleural pressure increases        alveolar pressure decreases</div>
+<div class = "choice">C. Pleural pressure decreases        alveolar pressure increases</div>
+<div class = "choice">D. Pleural pressure decreases        alveolar pressure decreases</div>
+</div>
+###################
+<div class = "quiz">22. According to the information provided, which of the following statements best describes the relationship between alveolar pressure, atmospheric pressure, and the direction of air flow during most of expiration?
+<div class = "choice">F. Because alveolar pressure is less than atmospheric pressure during most of expiration, air flows into the lungs.</div>
+<div class = "choice">G. Because alveolar pressure is less than atmospheric pressure during most of expiration, air flows out of the lungs.</div>
+<div class = "choice">H. Because alveolar pressure exceeds atmospheric pressure during most of expiration, air flows into the lungs.</div>
+<div class = "choice">J. Because alveolar pressure exceeds atmospheric pressure during most of expiration, air flows out of the lungs.</div>
+<br>
+</div>
+###################

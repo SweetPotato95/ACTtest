@@ -1,0 +1,30 @@
+
+Passage III
+A solid cylinder is mounted on frictionless bearings. A thin string of negligible mass is wrapped around the cylinder and pulled with a constant force, as shown in Figure l.
+<img src='file:\$$$\resources\2005 Dec 63C\imgs\176.png' width = '118'height = '109'/>
+The force results in a torque, τ, on the cylinder that causes the cylinder to spin. The angular acceleration, α of the cylinder is the change of the cylinder’s rotational speed over time.
+Tables l, 2, and 3 give τ and a for various cylinder masses, cylinder radii, and forces, respectively Table 4 shows the rotational speed of a particular cylinder at different times.
+(Note: A11 0f the cylinders described in Tables l-4 have the same length.) 
+#####10
+
+#####11
+
+#####12
+
+#####13
+12. Was the cylinder described in Table 4 accelerating (speeding up) or decelerating (slowing down) between 1.0 and 4.0 sec?
+F. Accelerating, because the rotation al speed was decreasing.
+G. Accelerating, because the rotational speed was increasing.
+H. Decelerating, because the rotational speed was decreasing.
+J. Decelerating, because the rotational speed was increasing.
+13. Based on Table l, how is the torque τ related to the force pulling the string and the radius of the cylinder?
+A. Torque equals radius plus force.       B. Torque equals radius minus force.
+C. Torque equals radius times force.       D. Torque equals radius divided by force.
+14. Based-on Table l, if a 2.0N force were exerted upon a 5.0kg cylinder with a radius of 0.050m, α would be;
+F. less than 10 rad/sec2. .                      G. between 10 rad/sec2 and 13 rad/sec2.
+H. between 13 rad/sec2 and 20 rad/sec2.          J. greater than 20 rad/sec2.
+15. Suppose we define the frequency of rotation of the cylinder as the number of rotations the cylinder completes in a second. Based on Table 2, 1 second after starting from rest, the cylinder having the highest frequency of rotation will be the one with a radius of:
+A. 0.050 m.      B. 0.075 m.         C. 0.100 m.        D. 0.125 m.
+16. Based on Table 4, rotational speed is proportional to:
+F. time.        G. time2.       H. time3.         J. time4.
+

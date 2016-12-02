@@ -1,106 +1,106 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This .passage is adapted from the essay "My Life with a Field Guide" by Diana Kappel-Smith (©2002 by Phi Beta Kappa Society).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I was seventeen when it started. My family was on vacation, and one day we went on a nature walk led by a young man a few years older than I. Probably I wanted to get his attention—I'm sure I did—so I pointed to a flower and asked, "What's that?"</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgLnBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBlc3NheSAiTXkgTGlmZSB3aXRoIGEgRmllbGQgR3VpZGUiIGJ5IERpYW5hIEthcHBlbC1TbWl0aCAowqkyMDAyIGJ5IFBoaSBCZXRhIEthcHBhIFNvY2lldHkpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgd2FzIHNldmVudGVlbiB3aGVuIGl0IHN0YXJ0ZWQuIE15IGZhbWlseSB3YXMgb24gdmFjYXRpb24sIGFuZCBvbmUgZGF5IHdlIHdlbnQgb24gYSBuYXR1cmUgd2FsayBsZWQgYnkgYSB5b3VuZyBtYW4gYSBmZXcgeWVhcnMgb2xkZXIgdGhhbiBJLiBQcm9iYWJseSBJIHdhbnRlZCB0byBnZXQgaGlzIGF0dGVudGlvbuKAlEknbSBzdXJlIEkgZGlk4oCUc28gSSBwb2ludGVkIHRvIGEgZmxvd2VyIGFuZCBhc2tlZCwgIldoYXQncyB0aGF0PyI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"Hmmm? Oh, just an aster," he said.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJIbW1tPyBPaCwganVzdCBhbiBhc3RlciwiIGhlIHNhaWQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Was there a hint of a sniff as he turned away? There was! It was just an aster and I was just a total ignoramus!</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldhcyB0aGVyZSBhIGhpbnQgb2YgYSBzbmlmZiBhcyBoZSB0dXJuZWQgYXdheT8gVGhlcmUgd2FzISBJdCB3YXMganVzdCBhbiBhc3RlciBhbmQgSSB3YXMganVzdCBhIHRvdGFsIGlnbm9yYW11cyE8L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">And I remember the aster. Its rays were a brilliant purple, its core a dense coin of yellow velvet. It focused light as a crystal will. It faced the sun; it was the sun's echo.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFuZCBJIHJlbWVtYmVyIHRoZSBhc3Rlci4gSXRzIHJheXMgd2VyZSBhIGJyaWxsaWFudCBwdXJwbGUsIGl0cyBjb3JlIGEgZGVuc2UgY29pbiBvZiB5ZWxsb3cgdmVsdmV0LiBJdCBmb2N1c2VkIGxpZ2h0IGFzIGEgY3J5c3RhbCB3aWxsLiBJdCBmYWNlZCB0aGUgc3VuOyBpdCB3YXMgdGhlIHN1bidzIGVjaG8uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Later that day, a book with a green cover lay on the arm of a chair under an apple tree. It was the same volume that our guide had carried as he marched us through the woods. The book had been lefts there by itself. It was a thing of power. In the thin Summer shadow of the tree, quivering, like a veil, the book was revealed, and I reached for it. A FIELD GUIDE TO WILD FLOWERS—PETERSON & McKENNY, its cover said. Its backside was ruled like a measuring tape, its inside was full of drawing of flowers. By the end of that week I had my own copy. I have it still.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkxhdGVyIHRoYXQgZGF5LCBhIGJvb2sgd2l0aCBhIGdyZWVuIGNvdmVyIGxheSBvbiB0aGUgYXJtIG9mIGEgY2hhaXIgdW5kZXIgYW4gYXBwbGUgdHJlZS4gSXQgd2FzIHRoZSBzYW1lIHZvbHVtZSB0aGF0IG91ciBndWlkZSBoYWQgY2FycmllZCBhcyBoZSBtYXJjaGVkIHVzIHRocm91Z2ggdGhlIHdvb2RzLiBUaGUgYm9vayBoYWQgYmVlbiBsZWZ0cyB0aGVyZSBieSBpdHNlbGYuIEl0IHdhcyBhIHRoaW5nIG9mIHBvd2VyLiBJbiB0aGUgdGhpbiBTdW1tZXIgc2hhZG93IG9mIHRoZSB0cmVlLCBxdWl2ZXJpbmcsIGxpa2UgYSB2ZWlsLCB0aGUgYm9vayB3YXMgcmV2ZWFsZWQsIGFuZCBJIHJlYWNoZWQgZm9yIGl0LiBBIEZJRUxEIEdVSURFIFRPIFdJTEQgRkxPV0VSU+KAlFBFVEVSU09OICYgTWNLRU5OWSwgaXRzIGNvdmVyIHNhaWQuIEl0cyBiYWNrc2lkZSB3YXMgcnVsZWQgbGlrZSBhIG1lYXN1cmluZyB0YXBlLCBpdHMgaW5zaWRlIHdhcyBmdWxsIG9mIGRyYXdpbmcgb2YgZmxvd2Vycy4gQnkgdGhlIGVuZCBvZiB0aGF0IHdlZWsgSSBoYWQgbXkgb3duIGNvcHkuIEkgaGF2ZSBpdCBzdGlsbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over the next several years this field guide would become my closest companion, a slice of worldview, as indispensable as eyes or hands. I didn't arrive at this intimacy right away, however. This wasn't going to be an easy affair for either of us.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk92ZXIgdGhlIG5leHQgc2V2ZXJhbCB5ZWFycyB0aGlzIGZpZWxkIGd1aWRlIHdvdWxkIGJlY29tZSBteSBjbG9zZXN0IGNvbXBhbmlvbiwgYSBzbGljZSBvZiB3b3JsZHZpZXcsIGFzIGluZGlzcGVuc2FibGUgYXMgZXllcyBvciBoYW5kcy4gSSBkaWRuJ3QgYXJyaXZlIGF0IHRoaXMgaW50aW1hY3kgcmlnaHQgYXdheSwgaG93ZXZlci4gVGhpcyB3YXNuJ3QgZ29pbmcgdG8gYmUgYW4gZWFzeSBhZmZhaXIgZm9yIGVpdGhlciBvZiB1cy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I'll give you an example of how it went. After I'd owned the Peterson's for about a week, I went on a hike with some friends up a little mountain, taking the book along. Halfway up the mountain, there by the trailside was a yellow flower, a nice opportunity to lake my new guide for a test drive. "Go on ahead!" I said to my hiking companions, "I'll be a minute…" Famous last words.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkknbGwgZ2l2ZSB5b3UgYW4gZXhhbXBsZSBvZiBob3cgaXQgd2VudC4gQWZ0ZXIgSSdkIG93bmVkIHRoZSBQZXRlcnNvbidzIGZvciBhYm91dCBhIHdlZWssIEkgd2VudCBvbiBhIGhpa2Ugd2l0aCBzb21lIGZyaWVuZHMgdXAgYSBsaXR0bGUgbW91bnRhaW4sIHRha2luZyB0aGUgYm9vayBhbG9uZy4gSGFsZndheSB1cCB0aGUgbW91bnRhaW4sIHRoZXJlIGJ5IHRoZSB0cmFpbHNpZGUgd2FzIGEgeWVsbG93IGZsb3dlciwgYSBuaWNlIG9wcG9ydHVuaXR5IHRvIGxha2UgbXkgbmV3IGd1aWRlIGZvciBhIHRlc3QgZHJpdmUuICJHbyBvbiBhaGVhZCEiIEkgc2FpZCB0byBteSBoaWtpbmcgY29tcGFuaW9ucywgIkknbGwgYmUgYSBtaW51dGXigD8iIEZhbW91cyBsYXN0IHdvcmRzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I had already figured out the business of the book's colored tabs. I turned in an authoritative way to the Yellow part and began to flip through. By the time the last of my friends had disappeared up the trail, I'd arrived at a page where things looked right. Five petals? Yes. Pinnate leaves? Whatever. Buttercup? There are, amazingly, eleven buttercups. Who would have thought? However hard I tried to make it so, my item was not one of them. Next page. Aha! this looked more like it. Bushy cinquefoil? Nope, leaves not quilite right, are they? As the gnats descended, I noticed that there were six more pages ahead, each packed with five-petaled yellow flowers—St. Johnsworts, loosestrifes, puccoons.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgaGFkIGFscmVhZHkgZmlndXJlZCBvdXQgdGhlIGJ1c2luZXNzIG9mIHRoZSBib29rJ3MgY29sb3JlZCB0YWJzLiBJIHR1cm5lZCBpbiBhbiBhdXRob3JpdGF0aXZlIHdheSB0byB0aGUgWWVsbG93IHBhcnQgYW5kIGJlZ2FuIHRvIGZsaXAgdGhyb3VnaC4gQnkgdGhlIHRpbWUgdGhlIGxhc3Qgb2YgbXkgZnJpZW5kcyBoYWQgZGlzYXBwZWFyZWQgdXAgdGhlIHRyYWlsLCBJJ2QgYXJyaXZlZCBhdCBhIHBhZ2Ugd2hlcmUgdGhpbmdzIGxvb2tlZCByaWdodC4gRml2ZSBwZXRhbHM/IFllcy4gUGlubmF0ZSBsZWF2ZXM/IFdoYXRldmVyLiBCdXR0ZXJjdXA/IFRoZXJlIGFyZSwgYW1hemluZ2x5LCBlbGV2ZW4gYnV0dGVyY3Vwcy4gV2hvIHdvdWxkIGhhdmUgdGhvdWdodD8gSG93ZXZlciBoYXJkIEkgdHJpZWQgdG8gbWFrZSBpdCBzbywgbXkgaXRlbSB3YXMgbm90IG9uZSBvZiB0aGVtLiBOZXh0IHBhZ2UuIEFoYSEgdGhpcyBsb29rZWQgbW9yZSBsaWtlIGl0LiBCdXNoeSBjaW5xdWVmb2lsPyBOb3BlLCBsZWF2ZXMgbm90IHF1aWxpdGUgcmlnaHQsIGFyZSB0aGV5PyBBcyB0aGUgZ25hdHMgZGVzY2VuZGVkLCBJIG5vdGljZWQgdGhhdCB0aGVyZSB3ZXJlIHNpeCBtb3JlIHBhZ2VzIGFoZWFkLCBlYWNoIHBhY2tlZCB3aXRoIGZpdmUtcGV0YWxlZCB5ZWxsb3cgZmxvd2Vyc+KAlFN0LiBKb2huc3dvcnRzLCBsb29zZXN0cmlmZXMsIHB1Y2Nvb25zLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Why I persisted in carrying it around and consulting its crowded pages at every opportunity. I have no idea. The book was stubborn; well, I was stubborn, too, that was part of it. And I had no choice, really, not if I wanted to <font id=25>get in</font>. <font id=28>A landscape may be handsome in the aggregate, but this book led to the particulars, and that's what I wanted.</font> A less complete guide would have been easier to start with but more frustrating in the end. A more complete book would have been impossible for me to use. So I persisted in wrestling with the Peterson's, and thus by slow degrees the crowd of plant stuff in the world became composed of individuals. <font id=29>As it did, the book changed: its cover was stained by water and snack food, the spine grew invitingly lax, and some of the margins sprouted cryptic annotations.</font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoeSBJIHBlcnNpc3RlZCBpbiBjYXJyeWluZyBpdCBhcm91bmQgYW5kIGNvbnN1bHRpbmcgaXRzIGNyb3dkZWQgcGFnZXMgYXQgZXZlcnkgb3Bwb3J0dW5pdHkuIEkgaGF2ZSBubyBpZGVhLiBUaGUgYm9vayB3YXMgc3R1YmJvcm47IHdlbGwsIEkgd2FzIHN0dWJib3JuLCB0b28sIHRoYXQgd2FzIHBhcnQgb2YgaXQuIEFuZCBJIGhhZCBubyBjaG9pY2UsIHJlYWxseSwgbm90IGlmIEkgd2FudGVkIHRvIDxmb250IGlkPTI1PmdldCBpbjwvZm9udD4uIDxmb250IGlkPTI4PkEgbGFuZHNjYXBlIG1heSBiZSBoYW5kc29tZSBpbiB0aGUgYWdncmVnYXRlLCBidXQgdGhpcyBib29rIGxlZCB0byB0aGUgcGFydGljdWxhcnMsIGFuZCB0aGF0J3Mgd2hhdCBJIHdhbnRlZC48L2ZvbnQ+IEEgbGVzcyBjb21wbGV0ZSBndWlkZSB3b3VsZCBoYXZlIGJlZW4gZWFzaWVyIHRvIHN0YXJ0IHdpdGggYnV0IG1vcmUgZnJ1c3RyYXRpbmcgaW4gdGhlIGVuZC4gQSBtb3JlIGNvbXBsZXRlIGJvb2sgd291bGQgaGF2ZSBiZWVuIGltcG9zc2libGUgZm9yIG1lIHRvIHVzZS4gU28gSSBwZXJzaXN0ZWQgaW4gd3Jlc3RsaW5nIHdpdGggdGhlIFBldGVyc29uJ3MsIGFuZCB0aHVzIGJ5IHNsb3cgZGVncmVlcyB0aGUgY3Jvd2Qgb2YgcGxhbnQgc3R1ZmYgaW4gdGhlIHdvcmxkIGJlY2FtZSBjb21wb3NlZCBvZiBpbmRpdmlkdWFscy4gPGZvbnQgaWQ9Mjk+QXMgaXQgZGlkLCB0aGUgYm9vayBjaGFuZ2VkOiBpdHMgY292ZXIgd2FzIHN0YWluZWQgYnkgd2F0ZXIgYW5kIHNuYWNrIGZvb2QsIHRoZSBzcGluZSBncmV3IGludml0aW5nbHkgbGF4LCBhbmQgc29tZSBvZiB0aGUgbWFyZ2lucyBzcHJvdXRlZCBjcnlwdGljIGFubm90YXRpb25zLjwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">By the time the next summer came, I had fully discovered the joy of the hunt, and every new species had its trophy of data—name and place and date—to be jotted down. If I'd found a flower before, I was happy to see it again. I often addressed it with enthusiasm: Hi there, Solidago hispida! I discovered early on that a plant's Latin name is a name of power by which the plant can be uniquely identified among different spoken tongues, across continents, and through time. The genus name lashes it firmly to its closest kin, while its species name describes a personal attribute—rubrum meaning red, officinale meaning medicinal odoraius meaning smelly, and so on. It all makes such delightful sense!</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ5IHRoZSB0aW1lIHRoZSBuZXh0IHN1bW1lciBjYW1lLCBJIGhhZCBmdWxseSBkaXNjb3ZlcmVkIHRoZSBqb3kgb2YgdGhlIGh1bnQsIGFuZCBldmVyeSBuZXcgc3BlY2llcyBoYWQgaXRzIHRyb3BoeSBvZiBkYXRh4oCUbmFtZSBhbmQgcGxhY2UgYW5kIGRhdGXigJR0byBiZSBqb3R0ZWQgZG93bi4gSWYgSSdkIGZvdW5kIGEgZmxvd2VyIGJlZm9yZSwgSSB3YXMgaGFwcHkgdG8gc2VlIGl0IGFnYWluLiBJIG9mdGVuIGFkZHJlc3NlZCBpdCB3aXRoIGVudGh1c2lhc206IEhpIHRoZXJlLCBTb2xpZGFnbyBoaXNwaWRhISBJIGRpc2NvdmVyZWQgZWFybHkgb24gdGhhdCBhIHBsYW50J3MgTGF0aW4gbmFtZSBpcyBhIG5hbWUgb2YgcG93ZXIgYnkgd2hpY2ggdGhlIHBsYW50IGNhbiBiZSB1bmlxdWVseSBpZGVudGlmaWVkIGFtb25nIGRpZmZlcmVudCBzcG9rZW4gdG9uZ3VlcywgYWNyb3NzIGNvbnRpbmVudHMsIGFuZCB0aHJvdWdoIHRpbWUuIFRoZSBnZW51cyBuYW1lIGxhc2hlcyBpdCBmaXJtbHkgdG8gaXRzIGNsb3Nlc3Qga2luLCB3aGlsZSBpdHMgc3BlY2llcyBuYW1lIGRlc2NyaWJlcyBhIHBlcnNvbmFsIGF0dHJpYnV0ZeKAlHJ1YnJ1bSBtZWFuaW5nIHJlZCwgb2ZmaWNpbmFsZSBtZWFuaW5nIG1lZGljaW5hbCBvZG9yYWl1cyBtZWFuaW5nIHNtZWxseSwgYW5kIHNvIG9uLiBJdCBhbGwgbWFrZXMgc3VjaCBkZWxpZ2h0ZnVsIHNlbnNlITwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My friend Julie and I identified individual plants in our rambles, but from the particulars we began to know wholes. Bogs held one community, montane forests held another, and the plants they held in common were clues to intricate dramas of climate change and continental drift. So from plant communities it followed that the grand schemes of things, when they came our way, arrived rooted in real place and personal experience: quaternary geology, biogeography, evolutionary biology all lay on the road that we had begun to travel.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IGZyaWVuZCBKdWxpZSBhbmQgSSBpZGVudGlmaWVkIGluZGl2aWR1YWwgcGxhbnRzIGluIG91ciByYW1ibGVzLCBidXQgZnJvbSB0aGUgcGFydGljdWxhcnMgd2UgYmVnYW4gdG8ga25vdyB3aG9sZXMuIEJvZ3MgaGVsZCBvbmUgY29tbXVuaXR5LCBtb250YW5lIGZvcmVzdHMgaGVsZCBhbm90aGVyLCBhbmQgdGhlIHBsYW50cyB0aGV5IGhlbGQgaW4gY29tbW9uIHdlcmUgY2x1ZXMgdG8gaW50cmljYXRlIGRyYW1hcyBvZiBjbGltYXRlIGNoYW5nZSBhbmQgY29udGluZW50YWwgZHJpZnQuIFNvIGZyb20gcGxhbnQgY29tbXVuaXRpZXMgaXQgZm9sbG93ZWQgdGhhdCB0aGUgZ3JhbmQgc2NoZW1lcyBvZiB0aGluZ3MsIHdoZW4gdGhleSBjYW1lIG91ciB3YXksIGFycml2ZWQgcm9vdGVkIGluIHJlYWwgcGxhY2UgYW5kIHBlcnNvbmFsIGV4cGVyaWVuY2U6IHF1YXRlcm5hcnkgZ2VvbG9neSwgYmlvZ2VvZ3JhcGh5LCBldm9sdXRpb25hcnkgYmlvbG9neSBhbGwgbGF5IG9uIHRoZSByb2FkIHRoYXQgd2UgaGFkIGJlZ3VuIHRvIHRyYXZlbC48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">21. The passage is best described as being told from the point of view of someone who is:
-<div class = "choice">A. tracing her developing interest in identifying flowers and in the natural world.</div>
-<div class = "choice">B. reexamining the event that led her to a lifelong fascination with asters.</div>
-<div class = "choice">C. reviewing her relationships with people who have shared her interest in flowers.</div>
-<div class = "choice">D. describing how her hobby of identifying flowers became a profitable career.</div>
-</div>
-###################
-<div class = "quiz">22. As portrayed by the author, the young man responded to her question about the flower with what is best described as:
-<div class = "choice">F. acceptance.</div>
-<div class = "choice">G. surprise.</div>
-<div class = "choice">H. condescension.</div>
-<div class = "choice">J. anger.</div>
-</div>
-###################
-<div class = "quiz">23. What name, if any, does the author report assigning to the yellow flower she came across during a mountain hike?
-<div class = "choice">A. St. Johnswort</div>
-<div class = "choice">B. Loosestrife</div>
-<div class = "choice">C. Puccoon</div>
-<div class = "choice">D. The passage doesn't name the flower；</div>
-</div>
-###################
-<div class = "quiz">24. Looking back at her early experiences with the Peterson's, the author most strongly implies that the guide was:
-<div class = "choice">F. daunting at first, but in retrospect preferable to either a more or a less complete guide.</div>
-<div class = "choice">G. easy to use in the beginning, but more frustrating in the end than a more complete guide would have been.</div>
-<div class = "choice">H. impossible for her to follow until she started pairing it with a different guide written for beginners.</div>
-<div class = "choice">J. appealing initially until she realized how poorly illustrated its crowded pages were.</div>
-</div>
-###################
-<div class = "quiz">25. As it is used in line 56, the phrase get in most nearly means:
-<div class = "choice">A. arrive at a physical location.</div>
-<div class = "choice">B. be chosen for group membership.</div>
-<div class = "choice">C. truly understand the subject.</div>
-<div class = "choice">D. be friendly with someone.</div>
-</div>
-###################
-<div class = "quiz">26. The passage best supports which of the following conclusions about Julie?
-<div class = "choice">F. She has more experience than the author has in identifying flowers.</div>
-<div class = "choice">G. She owns a house that's close to either a bog or a montane forest.</div>
-<div class = "choice">H. She sees value in understanding the various com-munities of plants.</div>
-<div class = "choice">J. She stopped using the Peterson's as her primary source of flower information.</div>
-</div>
-###################
-<div class = "quiz">27. The author states that the Peterson's became her closest companion over a period of several:
-<div class = "choice">A. days.</div>
-<div class = "choice">B. weeks.</div>
-<div class = "choice">C. months.</div>
-<div class = "choice">D. years.</div>
-</div>
-###################
-<div class = "quiz">28. In the context of the passage, the author's statement in lines 56-58 most nearly means that she:
-<div class = "choice">F. learned to understand, landscapes by-looking at their overall patterns rather than their details.</div>
-<div class = "choice">G. found that landscapes lost their, appeal the more she tried to understand them logically.</div>
-<div class = "choice">H. hoped to paint attractive portraits of landscapes by paying careful attention to details.</div>
-<div class = "choice">J. sought a deeper knowledge of landscapes through learning about their- individual parts.</div>
-</div>
-###################
-<div class = "quiz">29. The details in lines 64-66 primarily serve to suggest the:
-<div class = "choice">A. poor craftsmanship the publishing company used in producing the Peterson's.</div>
-<div class = "choice">B. transformation the author's copy of the Peterson's underwent as a result of heavy use.</div>
-<div class = "choice">C. strange writing the author often encountered in reading the Peterson's.</div>
-<div class = "choice">D. carelessness with which the author used the Peterson's, much to her later regret.</div>
-</div>
-###################
-<div class = "quiz">30. The author refers xo Solidago hispida as an example of a flower that she:
-<div class = "choice">F. had great trouble identifying the first time she stumbled upon it.</div>
-<div class = "choice">G. hopes to finally come across on one of her nature walks.</div>
-<div class = "choice">H. was pleased to encounter again after she had learned to identify it.</div>
-<div class = "choice">J. feels has an inappropriate name given the plant's characteristics.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIHBhc3NhZ2UgaXMgYmVzdCBkZXNjcmliZWQgYXMgYmVpbmcgdG9sZCBmcm9tIHRoZSBwb2ludCBvZiB2aWV3IG9mIHNvbWVvbmUgd2hvIGlzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRyYWNpbmcgaGVyIGRldmVsb3BpbmcgaW50ZXJlc3QgaW4gaWRlbnRpZnlpbmcgZmxvd2VycyBhbmQgaW4gdGhlIG5hdHVyYWwgd29ybGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlZXhhbWluaW5nIHRoZSBldmVudCB0aGF0IGxlZCBoZXIgdG8gYSBsaWZlbG9uZyBmYXNjaW5hdGlvbiB3aXRoIGFzdGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHJldmlld2luZyBoZXIgcmVsYXRpb25zaGlwcyB3aXRoIHBlb3BsZSB3aG8gaGF2ZSBzaGFyZWQgaGVyIGludGVyZXN0IGluIGZsb3dlcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRlc2NyaWJpbmcgaG93IGhlciBob2JieSBvZiBpZGVudGlmeWluZyBmbG93ZXJzIGJlY2FtZSBhIHByb2ZpdGFibGUgY2FyZWVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQXMgcG9ydHJheWVkIGJ5IHRoZSBhdXRob3IsIHRoZSB5b3VuZyBtYW4gcmVzcG9uZGVkIHRvIGhlciBxdWVzdGlvbiBhYm91dCB0aGUgZmxvd2VyIHdpdGggd2hhdCBpcyBiZXN0IGRlc2NyaWJlZCBhczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGFjY2VwdGFuY2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1cnByaXNlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNvbmRlc2NlbnNpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFuZ2VyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gV2hhdCBuYW1lLCBpZiBhbnksIGRvZXMgdGhlIGF1dGhvciByZXBvcnQgYXNzaWduaW5nIHRvIHRoZSB5ZWxsb3cgZmxvd2VyIHNoZSBjYW1lIGFjcm9zcyBkdXJpbmcgYSBtb3VudGFpbiBoaWtlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFN0LiBKb2huc3dvcnQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIExvb3Nlc3RyaWZlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFB1Y2Nvb248L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBwYXNzYWdlIGRvZXNuJ3QgbmFtZSB0aGUgZmxvd2Vy77w/PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gTG9va2luZyBiYWNrIGF0IGhlciBlYXJseSBleHBlcmllbmNlcyB3aXRoIHRoZSBQZXRlcnNvbidzLCB0aGUgYXV0aG9yIG1vc3Qgc3Ryb25nbHkgaW1wbGllcyB0aGF0IHRoZSBndWlkZSB3YXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRhdW50aW5nIGF0IGZpcnN0LCBidXQgaW4gcmV0cm9zcGVjdCBwcmVmZXJhYmxlIHRvIGVpdGhlciBhIG1vcmUgb3IgYSBsZXNzIGNvbXBsZXRlIGd1aWRlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVhc3kgdG8gdXNlIGluIHRoZSBiZWdpbm5pbmcsIGJ1dCBtb3JlIGZydXN0cmF0aW5nIGluIHRoZSBlbmQgdGhhbiBhIG1vcmUgY29tcGxldGUgZ3VpZGUgd291bGQgaGF2ZSBiZWVuLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGltcG9zc2libGUgZm9yIGhlciB0byBmb2xsb3cgdW50aWwgc2hlIHN0YXJ0ZWQgcGFpcmluZyBpdCB3aXRoIGEgZGlmZmVyZW50IGd1aWRlIHdyaXR0ZW4gZm9yIGJlZ2lubmVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFwcGVhbGluZyBpbml0aWFsbHkgdW50aWwgc2hlIHJlYWxpemVkIGhvdyBwb29ybHkgaWxsdXN0cmF0ZWQgaXRzIGNyb3dkZWQgcGFnZXMgd2VyZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDU2LCB0aGUgcGhyYXNlIGdldCBpbiBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFycml2ZSBhdCBhIHBoeXNpY2FsIGxvY2F0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJlIGNob3NlbiBmb3IgZ3JvdXAgbWVtYmVyc2hpcC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRydWx5IHVuZGVyc3RhbmQgdGhlIHN1YmplY3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGJlIGZyaWVuZGx5IHdpdGggc29tZW9uZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gVGhlIHBhc3NhZ2UgYmVzdCBzdXBwb3J0cyB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGNvbmNsdXNpb25zIGFib3V0IEp1bGllPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNoZSBoYXMgbW9yZSBleHBlcmllbmNlIHRoYW4gdGhlIGF1dGhvciBoYXMgaW4gaWRlbnRpZnlpbmcgZmxvd2Vycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNoZSBvd25zIGEgaG91c2UgdGhhdCdzIGNsb3NlIHRvIGVpdGhlciBhIGJvZyBvciBhIG1vbnRhbmUgZm9yZXN0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNoZSBzZWVzIHZhbHVlIGluIHVuZGVyc3RhbmRpbmcgdGhlIHZhcmlvdXMgY29tLW11bml0aWVzIG9mIHBsYW50cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNoZSBzdG9wcGVkIHVzaW5nIHRoZSBQZXRlcnNvbidzIGFzIGhlciBwcmltYXJ5IHNvdXJjZSBvZiBmbG93ZXIgaW5mb3JtYXRpb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gVGhlIGF1dGhvciBzdGF0ZXMgdGhhdCB0aGUgUGV0ZXJzb24ncyBiZWNhbWUgaGVyIGNsb3Nlc3QgY29tcGFuaW9uIG92ZXIgYSBwZXJpb2Qgb2Ygc2V2ZXJhbDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRheXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdlZWtzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vbnRocy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHllYXJzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gSW4gdGhlIGNvbnRleHQgb2YgdGhlIHBhc3NhZ2UsIHRoZSBhdXRob3IncyBzdGF0ZW1lbnQgaW4gbGluZXMgNTYtNTggbW9zdCBuZWFybHkgbWVhbnMgdGhhdCBzaGU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlYXJuZWQgdG8gdW5kZXJzdGFuZCwgbGFuZHNjYXBlcyBieS1sb29raW5nIGF0IHRoZWlyIG92ZXJhbGwgcGF0dGVybnMgcmF0aGVyIHRoYW4gdGhlaXIgZGV0YWlscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZvdW5kIHRoYXQgbGFuZHNjYXBlcyBsb3N0IHRoZWlyLCBhcHBlYWwgdGhlIG1vcmUgc2hlIHRyaWVkIHRvIHVuZGVyc3RhbmQgdGhlbSBsb2dpY2FsbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGhvcGVkIHRvIHBhaW50IGF0dHJhY3RpdmUgcG9ydHJhaXRzIG9mIGxhbmRzY2FwZXMgYnkgcGF5aW5nIGNhcmVmdWwgYXR0ZW50aW9uIHRvIGRldGFpbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNvdWdodCBhIGRlZXBlciBrbm93bGVkZ2Ugb2YgbGFuZHNjYXBlcyB0aHJvdWdoIGxlYXJuaW5nIGFib3V0IHRoZWlyLSBpbmRpdmlkdWFsIHBhcnRzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gVGhlIGRldGFpbHMgaW4gbGluZXMgNjQtNjYgcHJpbWFyaWx5IHNlcnZlIHRvIHN1Z2dlc3QgdGhlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHBvb3IgY3JhZnRzbWFuc2hpcCB0aGUgcHVibGlzaGluZyBjb21wYW55IHVzZWQgaW4gcHJvZHVjaW5nIHRoZSBQZXRlcnNvbidzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRyYW5zZm9ybWF0aW9uIHRoZSBhdXRob3IncyBjb3B5IG9mIHRoZSBQZXRlcnNvbidzIHVuZGVyd2VudCBhcyBhIHJlc3VsdCBvZiBoZWF2eSB1c2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN0cmFuZ2Ugd3JpdGluZyB0aGUgYXV0aG9yIG9mdGVuIGVuY291bnRlcmVkIGluIHJlYWRpbmcgdGhlIFBldGVyc29uJ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNhcmVsZXNzbmVzcyB3aXRoIHdoaWNoIHRoZSBhdXRob3IgdXNlZCB0aGUgUGV0ZXJzb24ncywgbXVjaCB0byBoZXIgbGF0ZXIgcmVncmV0LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gVGhlIGF1dGhvciByZWZlcnMgeG8gU29saWRhZ28gaGlzcGlkYSBhcyBhbiBleGFtcGxlIG9mIGEgZmxvd2VyIHRoYXQgc2hlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGhhZCBncmVhdCB0cm91YmxlIGlkZW50aWZ5aW5nIHRoZSBmaXJzdCB0aW1lIHNoZSBzdHVtYmxlZCB1cG9uIGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhvcGVzIHRvIGZpbmFsbHkgY29tZSBhY3Jvc3Mgb24gb25lIG9mIGhlciBuYXR1cmUgd2Fsa3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdhcyBwbGVhc2VkIHRvIGVuY291bnRlciBhZ2FpbiBhZnRlciBzaGUgaGFkIGxlYXJuZWQgdG8gaWRlbnRpZnkgaXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZlZWxzIGhhcyBhbiBpbmFwcHJvcHJpYXRlIG5hbWUgZ2l2ZW4gdGhlIHBsYW50J3MgY2hhcmFjdGVyaXN0aWNzLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

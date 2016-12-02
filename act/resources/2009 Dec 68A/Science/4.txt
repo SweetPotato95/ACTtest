@@ -1,86 +1,86 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">If a metal oxide sample at high temperature is exposed to a stream of H<sub>2</sub> gas, it may be converted to a pure metal. Reactions 1-3 are examples of this process for a cobalt oxide and 2 different iron oxides, respectively.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPklmIGEgbWV0YWwgb3hpZGUgc2FtcGxlIGF0IGhpZ2ggdGVtcGVyYXR1cmUgaXMgZXhwb3NlZCB0byBhIHN0cmVhbSBvZiBIPHN1Yj4yPC9zdWI+IGdhcywgaXQgbWF5IGJlIGNvbnZlcnRlZCB0byBhIHB1cmUgbWV0YWwuIFJlYWN0aW9ucyAxLTMgYXJlIGV4YW1wbGVzIG9mIHRoaXMgcHJvY2VzcyBmb3IgYSBjb2JhbHQgb3hpZGUgYW5kIDIgZGlmZmVyZW50IGlyb24gb3hpZGVzLCByZXNwZWN0aXZlbHkuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 1: <img src='file:\$$$\resources\2009 Dec 68A\imgs\187.png' width = '204'height = '36'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlYWN0aW9uIDE6IDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE4Ny5wbmcnIHdpZHRoID0gJzIwNCdoZWlnaHQgPSAnMzYnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 2: <img src='file:\$$$\resources\2009 Dec 68A\imgs\188.png' width = '195'height = '36'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlYWN0aW9uIDI6IDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE4OC5wbmcnIHdpZHRoID0gJzE5NSdoZWlnaHQgPSAnMzYnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 3: <img src='file:\$$$\resources\2009 Dec 68A\imgs\189.png' width = '247'height = '36'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlJlYWN0aW9uIDM6IDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE4OS5wbmcnIHdpZHRoID0gJzI0NydoZWlnaHQgPSAnMzYnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">During the reaction, the <img src='file:\$$$\resources\2009 Dec 68A\imgs\190.png' width = '32'height = '36'/> stream carries away<img src='file:\$$$\resources\2009 Dec 68A\imgs\191.png' width = '50'height = '36'/>, so the resulting sample is composed of metal oxide and pure metal only.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkR1cmluZyB0aGUgcmVhY3Rpb24sIHRoZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA5IERlYyA2OEFcaW1nc1wxOTAucG5nJyB3aWR0aCA9ICczMidoZWlnaHQgPSAnMzYnLz4gc3RyZWFtIGNhcnJpZXMgYXdheTxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5MS5wbmcnIHdpZHRoID0gJzUwJ2hlaWdodCA9ICczNicvPiwgc28gdGhlIHJlc3VsdGluZyBzYW1wbGUgaXMgY29tcG9zZWQgb2YgbWV0YWwgb3hpZGUgYW5kIHB1cmUgbWV0YWwgb25seS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1-3 show how the percent of pure metal, % PM, in metal oxide samples changed over time as they underwent Reactions 1-3, respectively, with and without a magnetic field present.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMS0zIHNob3cgaG93IHRoZSBwZXJjZW50IG9mIHB1cmUgbWV0YWwsICUgUE0sIGluIG1ldGFsIG94aWRlIHNhbXBsZXMgY2hhbmdlZCBvdmVyIHRpbWUgYXMgdGhleSB1bmRlcndlbnQgUmVhY3Rpb25zIDEtMywgcmVzcGVjdGl2ZWx5LCB3aXRoIGFuZCB3aXRob3V0IGEgbWFnbmV0aWMgZmllbGQgcHJlc2VudC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\192.png' width = '464'height = '61'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5Mi5wbmcnIHdpZHRoID0gJzQ2NCdoZWlnaHQgPSAnNjEnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\193.png' width = '488'height = '460'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5My5wbmcnIHdpZHRoID0gJzQ4OCdoZWlnaHQgPSAnNDYwJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\194.png' width = '534'height = '502'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5NC5wbmcnIHdpZHRoID0gJzUzNCdoZWlnaHQgPSAnNTAyJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\195.png' width = '532'height = '489'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5NS5wbmcnIHdpZHRoID0gJzUzMidoZWlnaHQgPSAnNDg5Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from M. W. Rowe et al., "Effect of Magnetic Field on Reduction of Cobalt Oxides." ©1979 by Chapman and Hall Ltd.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxIGFkYXB0ZWQgZnJvbSBNLiBXLiBSb3dlIGV0IGFsLiwgIkVmZmVjdCBvZiBNYWduZXRpYyBGaWVsZCBvbiBSZWR1Y3Rpb24gb2YgQ29iYWx0IE94aWRlcy4iIMKpMTk3OSBieSBDaGFwbWFuIGFuZCBIYWxsIEx0ZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from M. W. Rowe, S. M. Lake, and R. Fanick, "Effect of Magnetic Field on Reduction of Iron Oxides: Magnetite and Wüstite." ©1977 by Macmillan Magazines Ltd.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMiBhbmQgMyBhZGFwdGVkIGZyb20gTS4gVy4gUm93ZSwgUy4gTS4gTGFrZSwgYW5kIFIuIEZhbmljaywgIkVmZmVjdCBvZiBNYWduZXRpYyBGaWVsZCBvbiBSZWR1Y3Rpb24gb2YgSXJvbiBPeGlkZXM6IE1hZ25ldGl0ZSBhbmQgV8O8c3RpdGUuIiDCqTE5NzcgYnkgTWFjbWlsbGFuIE1hZ2F6aW5lcyBMdGQuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">19. According to Figure 2, during Reaction 2 without a magnetic field, the % PM at 10 min was approximately:
-<div class = "choice">A. 25%</div>
-<div class = "choice">B. 35%</div>
-<div class = "choice">C. 45%</div>
-<div class = "choice">D. 55%</div>
-</div>
-###################
-<div class = "quiz">20. Suppose that during Reaction 2 with a magnetic field, the magnetic field had been removed at time = 10 min. Five minutes later, at time = 15 min, the % PM would most likely have been:
-<div class = "choice">F. less than 30%.</div>
-<div class = "choice">G. between 30% and 60%.</div>
-<div class = "choice">H. between 60% and 90%.</div>
-<div class = "choice">J. greater than 90%.</div>
-</div>
-###################
-<div class = "quiz">21. According to Figure 3, in Reaction 3, how did the addition of a magnetic field affect the yield of pure Fe petal? At 20 min, the yield obtained with a magnetic field was about:
-<div class = "choice">A. <img src='file:\$$$\resources\2009 Dec 68A\imgs\196.png' width = '22'height = '61'/>the yield obtained without a magnetic field.</div>
-<div class = "choice">B. <img src='file:\$$$\resources\2009 Dec 68A\imgs\197.png' width = '22'height = '61'/>the yield obtained without a magnetic field.</div>
-<div class = "choice">C. the same as the yield obtained without a magnetic field.</div>
-<div class = "choice">D. 2 times the yield obtained without a magnetic field.</div>
-</div>
-###################
-<div class = "quiz">22. A chemist claimed that the conversion of a metal oxide to a pure metal using H<sub>2</sub> gas will always occur faster with a magnetic field than without a magnetic field. Do Figures 1-3 confirm this claim?
-<div class = "choice">F. Yes; the % PM reached 0% sooner with a magnetic field than it did without a magnetic field in all 3 reactions.</div>
-<div class = "choice">G. Yes; the % PM reached 100% sooner with a magnetic field than it did without a magnetic field in all 3 reactions.</div>
-<div class = "choice">H. No; the % PM reached 0% sooner without, a magnetic field than it did with a magnetic field in Reaction 2.</div>
-<div class = "choice">J. No; the % PM reached 100% sooner without a magnetic field than it did with a magnetic field in Reaction 2.</div>
-</div>
-###################
-<div class = "quiz">23. Suppose that Figure 1 had instead been plotted as percent of metal oxide (% MO) versus time:
-<img src='file:\$$$\resources\2009 Dec 68A\imgs\198.png' width = '366'height = '41'/>
-Which of the following graphs best shows how Figure 1 would have appeared?
----- without magnetic field <sup>____</sup> with magnetic field
-<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\200.png' width = '140'height = '120'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\201.png' width = '134'height = '120'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\202.png' width = '134'height = '111'/></div>
-<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\203.png' width = '149'height = '110'/></div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCBkdXJpbmcgUmVhY3Rpb24gMiB3aXRob3V0IGEgbWFnbmV0aWMgZmllbGQsIHRoZSAlIFBNIGF0IDEwIG1pbiB3YXMgYXBwcm94aW1hdGVseTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDI1JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDM1JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDQ1JTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDU1JTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gU3VwcG9zZSB0aGF0IGR1cmluZyBSZWFjdGlvbiAyIHdpdGggYSBtYWduZXRpYyBmaWVsZCwgdGhlIG1hZ25ldGljIGZpZWxkIGhhZCBiZWVuIHJlbW92ZWQgYXQgdGltZSA9IDEwIG1pbi4gRml2ZSBtaW51dGVzIGxhdGVyLCBhdCB0aW1lID0gMTUgbWluLCB0aGUgJSBQTSB3b3VsZCBtb3N0IGxpa2VseSBoYXZlIGJlZW46
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAzMCUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJldHdlZW4gMzAlIGFuZCA2MCUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJldHdlZW4gNjAlIGFuZCA5MCUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgdGhhbiA5MCUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAzLCBpbiBSZWFjdGlvbiAzLCBob3cgZGlkIHRoZSBhZGRpdGlvbiBvZiBhIG1hZ25ldGljIGZpZWxkIGFmZmVjdCB0aGUgeWllbGQgb2YgcHVyZSBGZSBwZXRhbD8gQXQgMjAgbWluLCB0aGUgeWllbGQgb2J0YWluZWQgd2l0aCBhIG1hZ25ldGljIGZpZWxkIHdhcyBhYm91dDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5Ni5wbmcnIHdpZHRoID0gJzIyJ2hlaWdodCA9ICc2MScvPnRoZSB5aWVsZCBvYnRhaW5lZCB3aXRob3V0IGEgbWFnbmV0aWMgZmllbGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDkgRGVjIDY4QVxpbWdzXDE5Ny5wbmcnIHdpZHRoID0gJzIyJ2hlaWdodCA9ICc2MScvPnRoZSB5aWVsZCBvYnRhaW5lZCB3aXRob3V0IGEgbWFnbmV0aWMgZmllbGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzYW1lIGFzIHRoZSB5aWVsZCBvYnRhaW5lZCB3aXRob3V0IGEgbWFnbmV0aWMgZmllbGQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIgdGltZXMgdGhlIHlpZWxkIG9idGFpbmVkIHdpdGhvdXQgYSBtYWduZXRpYyBmaWVsZC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQSBjaGVtaXN0IGNsYWltZWQgdGhhdCB0aGUgY29udmVyc2lvbiBvZiBhIG1ldGFsIG94aWRlIHRvIGEgcHVyZSBtZXRhbCB1c2luZyBIPHN1Yj4yPC9zdWI+IGdhcyB3aWxsIGFsd2F5cyBvY2N1ciBmYXN0ZXIgd2l0aCBhIG1hZ25ldGljIGZpZWxkIHRoYW4gd2l0aG91dCBhIG1hZ25ldGljIGZpZWxkLiBEbyBGaWd1cmVzIDEtMyBjb25maXJtIHRoaXMgY2xhaW0/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllczsgdGhlICUgUE0gcmVhY2hlZCAwJSBzb29uZXIgd2l0aCBhIG1hZ25ldGljIGZpZWxkIHRoYW4gaXQgZGlkIHdpdGhvdXQgYSBtYWduZXRpYyBmaWVsZCBpbiBhbGwgMyByZWFjdGlvbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllczsgdGhlICUgUE0gcmVhY2hlZCAxMDAlIHNvb25lciB3aXRoIGEgbWFnbmV0aWMgZmllbGQgdGhhbiBpdCBkaWQgd2l0aG91dCBhIG1hZ25ldGljIGZpZWxkIGluIGFsbCAzIHJlYWN0aW9ucy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vOyB0aGUgJSBQTSByZWFjaGVkIDAlIHNvb25lciB3aXRob3V0LCBhIG1hZ25ldGljIGZpZWxkIHRoYW4gaXQgZGlkIHdpdGggYSBtYWduZXRpYyBmaWVsZCBpbiBSZWFjdGlvbiAyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vOyB0aGUgJSBQTSByZWFjaGVkIDEwMCUgc29vbmVyIHdpdGhvdXQgYSBtYWduZXRpYyBmaWVsZCB0aGFuIGl0IGRpZCB3aXRoIGEgbWFnbmV0aWMgZmllbGQgaW4gUmVhY3Rpb24gMi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gU3VwcG9zZSB0aGF0IEZpZ3VyZSAxIGhhZCBpbnN0ZWFkIGJlZW4gcGxvdHRlZCBhcyBwZXJjZW50IG9mIG1ldGFsIG94aWRlICglIE1PKSB2ZXJzdXMgdGltZTo=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOSBEZWMgNjhBXGltZ3NcMTk4LnBuZycgd2lkdGggPSAnMzY2J2hlaWdodCA9ICc0MScvPg==
+V2hpY2ggb2YgdGhlIGZvbGxvd2luZyBncmFwaHMgYmVzdCBzaG93cyBob3cgRmlndXJlIDEgd291bGQgaGF2ZSBhcHBlYXJlZD8=
+LS0tLSB3aXRob3V0IG1hZ25ldGljIGZpZWxkIDxzdXA+X19fXzwvc3VwPiB3aXRoIG1hZ25ldGljIGZpZWxk
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOSBEZWMgNjhBXGltZ3NcMjAwLnBuZycgd2lkdGggPSAnMTQwJ2hlaWdodCA9ICcxMjAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOSBEZWMgNjhBXGltZ3NcMjAxLnBuZycgd2lkdGggPSAnMTM0J2hlaWdodCA9ICcxMjAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOSBEZWMgNjhBXGltZ3NcMjAyLnBuZycgd2lkdGggPSAnMTM0J2hlaWdodCA9ICcxMTEnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOSBEZWMgNjhBXGltZ3NcMjAzLnBuZycgd2lkdGggPSAnMTQ5J2hlaWdodCA9ICcxMTAnLz48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

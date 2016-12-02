@@ -1,0 +1,71 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As human life expectancy increases, people are becoming more familiar with the complex signs of aging; however, scientists still do not completely understand what causes aging at the molecular level.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three scientists propose models to explain the human aging process.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aging is caused by the shortening of telomeres, specialized DNA sequences at the ends of chromosomes. Telomeres play an important role in protecting and replicating chromosome ends. Each time a cell replicates its DNA and divides, its telomeres become shorter. Eventually, the telomeres become too short to perform their necessary roles, and the cell is no longer able to divide, ultimately causing defects in cell structure and function that result in aging.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aging is caused by random DNA damage that accumulates over the lifetime of somatic (nonreproductive) cells. As humans age, the DNA in their somatic cells accumulates damage that is not repaired. This results in mutations that cause defects in proteins and in gene expression, leading to aging. Most DNA damage is caused by free oxygen radicals (oxygen species containing oxygen atoms with unpaired electrons) formed during metabolic processes. Thus, the accumulation of DNA damage can be slowed by decreasing the rate of metabolism. Although telomeres do become shorter each time a cell divides, this occurs too slowly to affect the aging process.</div>
+
+<br>
+###################
+<div class = "quiz">12. Based on the passage, would Scientist 1 or Scientist 3 be more likely to argue that the process of cell, division contributes directly to aging, and why?
+<div class = "choice">F. Scientist 1, because according to Scientist 1, telomeres become shorter each time a cell divides.</div>
+<div class = "choice">G. Scientist 1, because according to Scientist 1, telomeres become longer each time a cell divides.</div>
+<div class = "choice">H. Scientist 3, because according to Scientist 3, telomeres become shorter each time a cell divides.</div>
+<div class = "choice">J. Scientist 3, because according to Scientist 3, telomeres become longer each time a cell divides.</div>
+</div>
+###################
+<div class = "quiz">13. How does Scientist 2's model differ from Scientist 3's model? Scientist 2 claims that the mutations that cause aging:
+<div class = "choice">A. are due to telomere shortening, whereas Scientist 3 claims that the mutations that cause aging are present at birth.</div>
+<div class = "choice">B. accumulate throughout a human's life span, whereas Scientist 3 claims that the mutations that cause aging are due to telomere shortening.</div>
+<div class = "choice">C. accumulate throughout a human's life span, whereas Scientist 3 claims that the mutations that cause aging are present at birth.</div>
+<div class = "choice">D. are present at birth, whereas Scientist 3 claims that the mutations that cause aging accumulate throughout a human's life span.</div>
+</div>
+###################
+<div class = "quiz">14. Scientist l's model would be most weakened if which of the following observations were made?
+<div class = "choice">F. Telomeres are the same length in both young cells and old cells.</div>
+<div class = "choice">G. The telomeres in a baby's cells are longer than the telomeres in an adult's cells.</div>
+<div class = "choice">H. More free oxygen radicals are produced by young cells than by old cells.</div>
+<div class = "choice">J. More free oxygen radicals are produced by old cells than by young cells.</div>
+</div>
+###################
+<div class = "quiz">15. All 3 scientists would most likely agree with which of the following statements about telomeres?
+<div class = "choice">A. Telomeres become shorter as a human ages.</div>
+<div class = "choice">B. Telomeres remain the same length throughout a human's life span.</div>
+<div class = "choice">C. Telomeres become longer as a human ages.</div>
+<div class = "choice">D. Changes in telomere length are responsible for aging.</div>
+</div>
+###################
+<div class = "quiz">16. Scientist 3 proposes that the mutations that eventually cause aging are:
+<div class = "choice">F. produced when telomeres shorten.</div>
+<div class = "choice">G. produced by metabolic products.</div>
+<div class = "choice">H. present only in old cells.</div>
+<div class = "choice">J. present in both young cells and old cells.</div>
+</div>
+###################
+<div class = "quiz">17. Scientist 2's model would be best supported by which of the following observations?
+<div class = "choice">A. There are fewer mutations in old cells than in young cells.</div>
+<div class = "choice">B. The are fewer mutations in young cells than in old cells.</div>
+<div class = "choice">C. Free oxygen radicals do not cause DNA damage.</div>
+<div class = "choice">D. Telomere shortening influences the aging process.</div>
+</div>
+###################
+<div class = "quiz">18. Suppose studies show that consummg fewer calories can slow the aging process. How would Scientist 2 explain this result? Scientist 2 would most likely argue that consuming fewer calories:
+<div class = "choice">F. increases the rate of metabolism and increases the production of free oxygen radicals.</div>
+<div class = "choice">G. increases the rate of metabolism and decreases the production of free oxygen radicals.</div>
+<div class = "choice">H. decreases the rate of metabolism and increases the production of free oxygen radicals.</div>
+<div class = "choice">J. decreases the rate of metabolism and decreases the production of free oxygen radicals.</div>
+<br>
+</div>
+###################

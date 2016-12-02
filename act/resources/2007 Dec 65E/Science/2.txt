@@ -1,77 +1,77 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿High concentrations of fecal coliforms in the water of a lake are a hazard to humans swimming in the lake. Fecal coliforms are bacteria found in the intestines of all endothermic animals. Two studies in 2001 examined fecal coliform concentrations in surface water samples from a large freshwater lake and its tributary streams.</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7v0hpZ2ggY29uY2VudHJhdGlvbnMgb2YgZmVjYWwgY29saWZvcm1zIGluIHRoZSB3YXRlciBvZiBhIGxha2UgYXJlIGEgaGF6YXJkIHRvIGh1bWFucyBzd2ltbWluZyBpbiB0aGUgbGFrZS4gRmVjYWwgY29saWZvcm1zIGFyZSBiYWN0ZXJpYSBmb3VuZCBpbiB0aGUgaW50ZXN0aW5lcyBvZiBhbGwgZW5kb3RoZXJtaWMgYW5pbWFscy4gVHdvIHN0dWRpZXMgaW4gMjAwMSBleGFtaW5lZCBmZWNhbCBjb2xpZm9ybSBjb25jZW50cmF0aW9ucyBpbiBzdXJmYWNlIHdhdGVyIHNhbXBsZXMgZnJvbSBhIGxhcmdlIGZyZXNod2F0ZXIgbGFrZSBhbmQgaXRzIHRyaWJ1dGFyeSBzdHJlYW1zLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDE8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Around 10 A.M. on Monday of every week in June, July, and August, 100 mL water samples were collected from 3 separate locations within the area of the lake designated for swimming. The samples were analyzed to determine. the average fecal coliform concentration, in colony-forming units (CFU) per 100 mL (see Figure 1). A CFU value is the number of distinct colonies formed on a growth plate by the bacteria in a sample after the sample has been placed on the growth plate and incubated for 24 hr.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFyb3VuZCAxMCBBLk0uIG9uIE1vbmRheSBvZiBldmVyeSB3ZWVrIGluIEp1bmUsIEp1bHksIGFuZCBBdWd1c3QsIDEwMCBtTCB3YXRlciBzYW1wbGVzIHdlcmUgY29sbGVjdGVkIGZyb20gMyBzZXBhcmF0ZSBsb2NhdGlvbnMgd2l0aGluIHRoZSBhcmVhIG9mIHRoZSBsYWtlIGRlc2lnbmF0ZWQgZm9yIHN3aW1taW5nLiBUaGUgc2FtcGxlcyB3ZXJlIGFuYWx5emVkIHRvIGRldGVybWluZS4gdGhlIGF2ZXJhZ2UgZmVjYWwgY29saWZvcm0gY29uY2VudHJhdGlvbiwgaW4gY29sb255LWZvcm1pbmcgdW5pdHMgKENGVSkgcGVyIDEwMCBtTCAoc2VlIEZpZ3VyZSAxKS4gQSBDRlUgdmFsdWUgaXMgdGhlIG51bWJlciBvZiBkaXN0aW5jdCBjb2xvbmllcyBmb3JtZWQgb24gYSBncm93dGggcGxhdGUgYnkgdGhlIGJhY3RlcmlhIGluIGEgc2FtcGxlIGFmdGVyIHRoZSBzYW1wbGUgaGFzIGJlZW4gcGxhY2VkIG9uIHRoZSBncm93dGggcGxhdGUgYW5kIGluY3ViYXRlZCBmb3IgMjQgaHIuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\172.png' width = '603'height = '345'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3Mi5wbmcnIHdpZHRoID0gJzYwMydoZWlnaHQgPSAnMzQ1Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">dare samples were collected</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPmRhcmUgc2FtcGxlcyB3ZXJlIGNvbGxlY3RlZDwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In July, on the last of 14 consecutive days of fair weather, 100 mL water samples were collected from each of the following sites—the designated swimming area, 6 lake sites that were outside the designated swimming area, and each of the lake's 5 tributary streams. Several 100 g samples of sand from the beach at the designated swimming area were also collected. A second set of samples was collected at the same sites on a rainy July day, the last of 7 consecutive days of rain. The samples were analyzed to determine the average fecal coliform concentration (see Figure 2). The heavy, dashed, horizontal line in Figure 2 represents the fecal coliform water quality standard for the lake. If the average fecal coliform concentration for water samples collected from the lake on a particular day exceeds this level, all swimming in the lake is prohibited for that day.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIEp1bHksIG9uIHRoZSBsYXN0IG9mIDE0IGNvbnNlY3V0aXZlIGRheXMgb2YgZmFpciB3ZWF0aGVyLCAxMDAgbUwgd2F0ZXIgc2FtcGxlcyB3ZXJlIGNvbGxlY3RlZCBmcm9tIGVhY2ggb2YgdGhlIGZvbGxvd2luZyBzaXRlc+KAlHRoZSBkZXNpZ25hdGVkIHN3aW1taW5nIGFyZWEsIDYgbGFrZSBzaXRlcyB0aGF0IHdlcmUgb3V0c2lkZSB0aGUgZGVzaWduYXRlZCBzd2ltbWluZyBhcmVhLCBhbmQgZWFjaCBvZiB0aGUgbGFrZSdzIDUgdHJpYnV0YXJ5IHN0cmVhbXMuIFNldmVyYWwgMTAwIGcgc2FtcGxlcyBvZiBzYW5kIGZyb20gdGhlIGJlYWNoIGF0IHRoZSBkZXNpZ25hdGVkIHN3aW1taW5nIGFyZWEgd2VyZSBhbHNvIGNvbGxlY3RlZC4gQSBzZWNvbmQgc2V0IG9mIHNhbXBsZXMgd2FzIGNvbGxlY3RlZCBhdCB0aGUgc2FtZSBzaXRlcyBvbiBhIHJhaW55IEp1bHkgZGF5LCB0aGUgbGFzdCBvZiA3IGNvbnNlY3V0aXZlIGRheXMgb2YgcmFpbi4gVGhlIHNhbXBsZXMgd2VyZSBhbmFseXplZCB0byBkZXRlcm1pbmUgdGhlIGF2ZXJhZ2UgZmVjYWwgY29saWZvcm0gY29uY2VudHJhdGlvbiAoc2VlIEZpZ3VyZSAyKS4gVGhlIGhlYXZ5LCBkYXNoZWQsIGhvcml6b250YWwgbGluZSBpbiBGaWd1cmUgMiByZXByZXNlbnRzIHRoZSBmZWNhbCBjb2xpZm9ybSB3YXRlciBxdWFsaXR5IHN0YW5kYXJkIGZvciB0aGUgbGFrZS4gSWYgdGhlIGF2ZXJhZ2UgZmVjYWwgY29saWZvcm0gY29uY2VudHJhdGlvbiBmb3Igd2F0ZXIgc2FtcGxlcyBjb2xsZWN0ZWQgZnJvbSB0aGUgbGFrZSBvbiBhIHBhcnRpY3VsYXIgZGF5IGV4Y2VlZHMgdGhpcyBsZXZlbCwgYWxsIHN3aW1taW5nIGluIHRoZSBsYWtlIGlzIHByb2hpYml0ZWQgZm9yIHRoYXQgZGF5LjwvZGl2Pg==
 
-<br>
-<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:324.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p align="center"  style="text-align:center"><span lang="EN-US">Key</span></p><p align="center"  style="text-align:center"><span lang="EN-US">samplescollected on a day of:</span></p><p align="center"  style="text-align:center"><span lang="EN-US"><img src='file:\$$$\resources\2007 Dec 65E\imgs\260.png' width = '42'height = '34'/>fair weather</span></p><p align="center"  style="text-align:center"><span lang="EN-US"><img src='file:\$$$\resources\2007 Dec 65E\imgs\261.png' width = '42'height = '34'/>rainy weather</span></p></td></tr></table></div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\173.png' width = '520'height = '486'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiA+PHRhYmxlIGJvcmRlcj0iMSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBjbGFzcz0iTXNvTm9ybWFsVGFibGUiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6Y29sbGFwc2U7Ym9yZGVyOm5vbmU7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby15ZnRpLXRibGxvb2s6NDgwO21zby1wYWRkaW5nLWFsdDowY20gNS40cHQgMGNtIDUuNHB0O21zby1ib3JkZXItaW5zaWRlaDouNXB0IHNvbGlkIHdpbmRvd3RleHQ7bXNvLWJvcmRlci1pbnNpZGV2Oi41cHQgc29saWQgd2luZG93dGV4dCI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjA7bXNvLXlmdGktZmlyc3Ryb3c6eWVzO21zby15ZnRpLWxhc3Ryb3c6eWVzIj48dGQgc3R5bGU9IndpZHRoOjMyNC4xcHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgdmFsaWduPSJ0b3AiIHdpZHRoPSIyMTYiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIj5LZXk8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIj5zYW1wbGVzY29sbGVjdGVkIG9uIGEgZGF5IG9mOjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI2MC5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczNCcvPmZhaXIgd2VhdGhlcjwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDI2MS5wbmcnIHdpZHRoID0gJzQyJ2hlaWdodCA9ICczNCcvPnJhaW55IHdlYXRoZXI8L3NwYW4+PC9wPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3My5wbmcnIHdpZHRoID0gJzUyMCdoZWlnaHQgPSAnNDg2Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 adapted from Michele Zimmerman, "Occurrence of Bacteria in Blue Marsh Lake and Selected Tributaries, Berks County, Pennsylvania: September-October 2001." ⓒ2002 by the United States Geological Survey.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMSBhbmQgMiBhZGFwdGVkIGZyb20gTWljaGVsZSBaaW1tZXJtYW4sICJPY2N1cnJlbmNlIG9mIEJhY3RlcmlhIGluIEJsdWUgTWFyc2ggTGFrZSBhbmQgU2VsZWN0ZWQgVHJpYnV0YXJpZXMsIEJlcmtzIENvdW50eSwgUGVubnN5bHZhbmlhOiBTZXB0ZW1iZXItT2N0b2JlciAyMDAxLiIg4pM/MjAwMiBieSB0aGUgVW5pdGVkIFN0YXRlcyBHZW9sb2dpY2FsIFN1cnZleS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">7. According to the results of Study 1. the increase in the average fecal coliform concentration for water samples from the designated swimming area was greatest between which of the following dates?
-<div class = "choice">A. June 11 and June 18</div>
-<div class = "choice">B. June 25 and July 2</div>
-<div class = "choice">C. July 30 and August 6</div>
-<div class = "choice">D. August 20 and August 27</div>
-</div>
-###################
-<div class = "quiz">8. Assume that each fecal coliform bacterium forms a single. distinct colony on a growth plate during the sample analysis. Given the results of Study 1, to produce the results shown for the June 18 samples, those 100 mL water samples had to contain, on average, approximately how many fecal coliform bacteria?
-<div class = "choice">F. 50</div>
-<div class = "choice">G. 100</div>
-<div class = "choice">H. 150</div>
-<div class = "choice">J. 200</div>
-</div>
-###################
-<div class = "quiz">9. Given the information about Study 2, which of the following statements best explains why the dashed, horizontal line in Figure 2 does not extend across the bars for the samples from the beach at the designated swimming area?
-<div class = "choice">A. The standard applies to both endothermic and ectothermic animals.</div>
-<div class = "choice">B. The standard was established for both sand and water samples.</div>
-<div class = "choice">C. The standard was established for water samples only.</div>
-<div class = "choice">D. The standard applies only during the winter.</div>
-</div>
-###################
-<div class = "quiz">10. Which of the following hypotheses was most likely being tested in Study 2?
-<div class = "choice">F. The fecal coliform concentration varies with the depth of the lake water.</div>
-<div class = "choice">G. The fecal coliform concentration varies with the pH of the lake water.</div>
-<div class = "choice">H. More fecal coliforms enter the lake during rainy weather than during fair weather.</div>
-<div class = "choice">J. More fecal coliforms enter the lake during July than during August.</div>
-</div>
-###################
-<div class = "quiz">11. Would the presence of large numbers of geese in and around the designated swimming area throughout the summer of 2001 likely have had any effect on the fecal coliform concentrations measured in the studies?
-<div class = "choice">A. No. because geese are not endothermic and are not a source of fecal coliforms.</div>
-<div class = "choice">B. No, because geese are endothermic and are not a source of fecal coliforms.</div>
-<div class = "choice">C. Yes, because geese are not endothermic and are a source of fecal coliforms.</div>
-<div class = "choice">D. Yes, because geese are endothermic and are a source of fecal coliforms.</div>
-</div>
-###################
-<div class = "quiz">12. A comparison of the average fecal coliform concentrations given in Figure 2 for the fair-weather samples shows that, relative to the concentration for the tributary streams, the concentration for the lake sites outside the designated swimming area was approximately:
-<div class = "choice">F. <img src='file:\$$$\resources\2007 Dec 65E\imgs\174.png' width = '45'height = '65'/>as high.</div>
-<div class = "choice">G. <img src='file:\$$$\resources\2007 Dec 65E\imgs\175.png' width = '32'height = '65'/>as high.</div>
-<div class = "choice">H. 10 times as high.</div>
-<div class = "choice">J. 100 times as high.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43LiBBY2NvcmRpbmcgdG8gdGhlIHJlc3VsdHMgb2YgU3R1ZHkgMS4gdGhlIGluY3JlYXNlIGluIHRoZSBhdmVyYWdlIGZlY2FsIGNvbGlmb3JtIGNvbmNlbnRyYXRpb24gZm9yIHdhdGVyIHNhbXBsZXMgZnJvbSB0aGUgZGVzaWduYXRlZCBzd2ltbWluZyBhcmVhIHdhcyBncmVhdGVzdCBiZXR3ZWVuIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZGF0ZXM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEp1bmUgMTEgYW5kIEp1bmUgMTg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEp1bmUgMjUgYW5kIEp1bHkgMjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEp1bHkgMzAgYW5kIEF1Z3VzdCA2PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEF1Z3VzdCAyMCBhbmQgQXVndXN0IDI3PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij44LiBBc3N1bWUgdGhhdCBlYWNoIGZlY2FsIGNvbGlmb3JtIGJhY3Rlcml1bSBmb3JtcyBhIHNpbmdsZS4gZGlzdGluY3QgY29sb255IG9uIGEgZ3Jvd3RoIHBsYXRlIGR1cmluZyB0aGUgc2FtcGxlIGFuYWx5c2lzLiBHaXZlbiB0aGUgcmVzdWx0cyBvZiBTdHVkeSAxLCB0byBwcm9kdWNlIHRoZSByZXN1bHRzIHNob3duIGZvciB0aGUgSnVuZSAxOCBzYW1wbGVzLCB0aG9zZSAxMDAgbUwgd2F0ZXIgc2FtcGxlcyBoYWQgdG8gY29udGFpbiwgb24gYXZlcmFnZSwgYXBwcm94aW1hdGVseSBob3cgbWFueSBmZWNhbCBjb2xpZm9ybSBiYWN0ZXJpYT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDUwPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDEwMDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDE1MDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDIwMDwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij45LiBHaXZlbiB0aGUgaW5mb3JtYXRpb24gYWJvdXQgU3R1ZHkgMiwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgZXhwbGFpbnMgd2h5IHRoZSBkYXNoZWQsIGhvcml6b250YWwgbGluZSBpbiBGaWd1cmUgMiBkb2VzIG5vdCBleHRlbmQgYWNyb3NzIHRoZSBiYXJzIGZvciB0aGUgc2FtcGxlcyBmcm9tIHRoZSBiZWFjaCBhdCB0aGUgZGVzaWduYXRlZCBzd2ltbWluZyBhcmVhPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBzdGFuZGFyZCBhcHBsaWVzIHRvIGJvdGggZW5kb3RoZXJtaWMgYW5kIGVjdG90aGVybWljIGFuaW1hbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBzdGFuZGFyZCB3YXMgZXN0YWJsaXNoZWQgZm9yIGJvdGggc2FuZCBhbmQgd2F0ZXIgc2FtcGxlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBzdGFuZGFyZCB3YXMgZXN0YWJsaXNoZWQgZm9yIHdhdGVyIHNhbXBsZXMgb25seS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRoZSBzdGFuZGFyZCBhcHBsaWVzIG9ubHkgZHVyaW5nIHRoZSB3aW50ZXIuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBoeXBvdGhlc2VzIHdhcyBtb3N0IGxpa2VseSBiZWluZyB0ZXN0ZWQgaW4gU3R1ZHkgMj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBmZWNhbCBjb2xpZm9ybSBjb25jZW50cmF0aW9uIHZhcmllcyB3aXRoIHRoZSBkZXB0aCBvZiB0aGUgbGFrZSB3YXRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSBmZWNhbCBjb2xpZm9ybSBjb25jZW50cmF0aW9uIHZhcmllcyB3aXRoIHRoZSBwSCBvZiB0aGUgbGFrZSB3YXRlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1vcmUgZmVjYWwgY29saWZvcm1zIGVudGVyIHRoZSBsYWtlIGR1cmluZyByYWlueSB3ZWF0aGVyIHRoYW4gZHVyaW5nIGZhaXIgd2VhdGhlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1vcmUgZmVjYWwgY29saWZvcm1zIGVudGVyIHRoZSBsYWtlIGR1cmluZyBKdWx5IHRoYW4gZHVyaW5nIEF1Z3VzdC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gV291bGQgdGhlIHByZXNlbmNlIG9mIGxhcmdlIG51bWJlcnMgb2YgZ2Vlc2UgaW4gYW5kIGFyb3VuZCB0aGUgZGVzaWduYXRlZCBzd2ltbWluZyBhcmVhIHRocm91Z2hvdXQgdGhlIHN1bW1lciBvZiAyMDAxIGxpa2VseSBoYXZlIGhhZCBhbnkgZWZmZWN0IG9uIHRoZSBmZWNhbCBjb2xpZm9ybSBjb25jZW50cmF0aW9ucyBtZWFzdXJlZCBpbiB0aGUgc3R1ZGllcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5vLiBiZWNhdXNlIGdlZXNlIGFyZSBub3QgZW5kb3RoZXJtaWMgYW5kIGFyZSBub3QgYSBzb3VyY2Ugb2YgZmVjYWwgY29saWZvcm1zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5vLCBiZWNhdXNlIGdlZXNlIGFyZSBlbmRvdGhlcm1pYyBhbmQgYXJlIG5vdCBhIHNvdXJjZSBvZiBmZWNhbCBjb2xpZm9ybXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFllcywgYmVjYXVzZSBnZWVzZSBhcmUgbm90IGVuZG90aGVybWljIGFuZCBhcmUgYSBzb3VyY2Ugb2YgZmVjYWwgY29saWZvcm1zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFllcywgYmVjYXVzZSBnZWVzZSBhcmUgZW5kb3RoZXJtaWMgYW5kIGFyZSBhIHNvdXJjZSBvZiBmZWNhbCBjb2xpZm9ybXMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQSBjb21wYXJpc29uIG9mIHRoZSBhdmVyYWdlIGZlY2FsIGNvbGlmb3JtIGNvbmNlbnRyYXRpb25zIGdpdmVuIGluIEZpZ3VyZSAyIGZvciB0aGUgZmFpci13ZWF0aGVyIHNhbXBsZXMgc2hvd3MgdGhhdCwgcmVsYXRpdmUgdG8gdGhlIGNvbmNlbnRyYXRpb24gZm9yIHRoZSB0cmlidXRhcnkgc3RyZWFtcywgdGhlIGNvbmNlbnRyYXRpb24gZm9yIHRoZSBsYWtlIHNpdGVzIG91dHNpZGUgdGhlIGRlc2lnbmF0ZWQgc3dpbW1pbmcgYXJlYSB3YXMgYXBwcm94aW1hdGVseTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3NC5wbmcnIHdpZHRoID0gJzQ1J2hlaWdodCA9ICc2NScvPmFzIGhpZ2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDcgRGVjIDY1RVxpbWdzXDE3NS5wbmcnIHdpZHRoID0gJzMyJ2hlaWdodCA9ICc2NScvPmFzIGhpZ2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEwIHRpbWVzIGFzIGhpZ2guPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEwMCB0aW1lcyBhcyBoaWdoLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,0 +1,98 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the revised second edition of Demystifying Economics by Allen W. Smith (?2000 by Allen W. Smith). Gross Domestic Product (GDP) is the total dollar value of all goods and services produced in a year’s time within a country’s borders.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Economists usually define fiscal policy as the deliberate use of government's spending and taxing powers to influence economic activity. When the government raises or lowers taxes, or changes its spending levels, in order to bring about a desired change in the level of total spending, and thus the performance of the economy, it is <font id=18>practicing</font> fiscal policy. Fiscal policy can also be defined more generally as simply the government's taxing and spending policies regardless of whether or not it is trying to bring about changes in the level of total spending in the economy.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The origin of fiscal policy as a tool to bring about deliberate changes in the performance of the economy dates back to. 1936 when a British economist, John Maynard Keynes, published a monumental book, The General Theory of Employment, Interest, and Money. Keynesian economics soon became the predominant body of economic theory in the Western world. Although his theories have undergone substantial refinement and revision, much of modern Keynesian economics is still rooted in the ideas set forth by Keynes. Keynes argued that government should play an active role in maintaining the proper level of total spending in the economy in order to minimize both unemployment and inflation. He believed that, with the proper use of the government's spending and taxing powers, the extremes of the business cycle could be avoided.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The extremes of the business cycle, which result in high unemployment or high inflation, can be very costly. During a severe recession, millions of workers become unemployed, and billions of dollars worth of potential production are permanently lost. In addition, prolonged periods of high inflation can have a devastating effect on both the economy and the people.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=14>The objectives of deliberate fiscal policy are to minimize unemployment and inflation by using the government's taxing' and spending powers to assure the correct level of total spending, and thus the proper level of Gross Domestic Product. The principal determinant of the level of the Gross Domestic Product (GDP) is the level of total spending in the economy. If the GDP is too high, the economy will experience inflation, and if it is too low, the economy will suffer from unemployment. Therefore, in order to have a healthy economy, it is important to have the proper amount of total spending so the GDP will be neither too high nor too low. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fiscal policy can be used to regulate the level of total spending. If total spending is too high, the government can lower its own spending and/or increase taxes so consumers will have less after-tax money to spend. If total spending is too low, the government can increase its own spending and/or reduce taxes, so consumers will have more after-tax money to spend. At least in theory, fiscal policy can be used to regulate the level of total spending, and thus the level of production. If GDP could be maintained at the appropriate level, it would be possible to avoid both high inflation and serious unemployment.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One example of successful use of fiscal-policy is the long period of economic expansion during the 1960s. When President John F. Kennedy took office in 1961, the economy was suffering from a recession that had begun in 1958, Kennedy brought into his administration economic advisers who were determined to use fiscal policy to bring the economy out of the recession. The first fiscal-policy measures included increased federal spending on highways, and legislation that allowed businesses to subtract from their taxes a part of the cost of new investment in factories and machines.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When these measures proved insufficient, the President proposed a major tax cut. Although President Kennedy was assassinated before the tax cut was enacted, his successor, Lyndon Johnson, signed an $11 billion tax cut into law in February 1964. This large tax cut, along with substantial increases in spending for the Vietnam War, fueled an economic expansion that lasted 106 consecutive months.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Fiscal policy does not have such a good track record in combating inflation, however. The problem is not that proper fiscal policies cannot successfully control inflation. The problem is the political feasibility of getting the President and Congress to supp ort the proper fiscal policies during periods of inflation. Higher taxes and cuts in government programs are never popular with the public, and m any politicians do not have the guts to do what is right for the economy because such unpopular actions might cost them votes in the next election.</div>
+
+<br>
+###################
+<div class = "quiz">11. The passage's main idea is that:
+<div class = "choice">A. fiscal policy theory first recommended by Keynes ought to be the foundation of fiscal policy in the entire Western world.</div>
+<div class = "choice">B. the diligent application of fiscal policy that is based on the ideas of Keynes can be effective at regulating the economy.</div>
+<div class = "choice">C. the unwillingness of many politicians to recognize sound fiscal policy is the main reason Keynesian economics has become increasingly unpopular.</div>
+<div class = "choice">D. government should play as little role as possible in manipulating the economy with fiscal policy.</div>
+</div>
+###################
+<div class = "quiz">12. It can reasonably be inferred from the passage that the advisors President Kennedy brought into his administration were:
+<div class = "choice">F. skeptical of using tax cuts to spur the economy.</div>
+<div class = "choice">G. focused on successfully controlling inflation.</div>
+<div class = "choice">H. committed to Keynesian economics.</div>
+<div class = "choice">J. not at first popular with the public.</div>
+</div>
+###################
+<div class = "quiz">13. The main purpose of the first paragraph is to:
+<div class = "choice">A. define fiscal policy in both specific and general terms.</div>
+<div class = "choice">B. portray fiscal policy as a vague concept.</div>
+<div class = "choice">C. argue for the adoption of an unconventional definition of fiscal policy.</div>
+<div class = "choice">D. present two contradictory definitions of fiscal policy.</div>
+</div>
+###################
+<div class = "quiz">14. The main idea of the fourth paragraph (lines 36-47) is that:
+<div class = "choice">F. the total amount of spending in an economy is determined entirely by its GDP.</div>
+<div class = "choice">G. deliberate fiscal policy ought to focus more on unemployment than on inflation.</div>
+<div class = "choice">H. inflation and unemployment are both caused by a GDP that is too high.</div>
+<div class = "choice">J. the GDP of a healthy economy results from a proper amount of total spending.</div>
+</div>
+###################
+<div class = "quiz">15. The passage indicates that which of the following is true of the fiscal-policy measures introduced by President Kennedy after 1961?
+<div class = "choice">A. They were the first instances of the deliberate use of fiscal policy by a U.S. president.</div>
+<div class = "choice">B. They were designed to decrease the nation's total spending.</div>
+<div class = "choice">C. The inflation preceding them was the result of flawed fiscal policy.</div>
+<div class = "choice">D. The first of them were not effective at bringing the nation out of recession.</div>
+</div>
+###################
+<div class = "quiz">16. The last paragraph contains which of the following?
+<div class = "choice">F. A conclusion that-Keynesian economics is ineffective at controlling inflation</div>
+<div class = "choice">G. An example of a successful implementation of fiscal policy.</div>
+<div class = "choice">H. A complaint concerning the implementation of fiscal policy</div>
+<div class = "choice">J. A fact that undermines the feasibility of fiscal policy to affect unemployment</div>
+</div>
+###################
+<div class = "quiz">17. The passage's author would most likely agree with which of the following statements about fiscal policy?
+<div class = "choice">A. The extremes of the business cycle are inevitable, regardless of what fiscal policy is used.</div>
+<div class = "choice">B. Politicians should endorse good fiscal policy even at the risk of alienating voters.</div>
+<div class = "choice">C. Fiscal policy is a sound theory even while there are no examples of it being successfully implemented.</div>
+<div class = "choice">D. Fiscal policy is most effective when it is designed to bring about only small changes in the economy.</div>
+</div>
+###################
+<div class = "quiz">18. As it is used in line 7, the word practicing most nearly means:
+<div class = "choice">F. training.</div>
+<div class = "choice">G. preparing.</div>
+<div class = "choice">H. unleashing.</div>
+<div class = "choice">J. implementing.</div>
+</div>
+###################
+<div class = "quiz">19. It can reasonably be inferred from the passage that a main contribution of Keynes to economic theory was the idea that:
+<div class = "choice">A. the extremes of the business cycle are inevitable.</div>
+<div class = "choice">B. high inflation is not always bad for the economy.</div>
+<div class = "choice">C. fiscal policy can be used to change the economy's performance.</div>
+<div class = "choice">D. good fiscal policy is often hindered by politicians' personal motives.</div>
+</div>
+###################
+<div class = "quiz">20. The passage. states that if a nation's total spending is too high, the government can act to regulate this by:
+<div class = "choice">F. lowering its own sp-ending.</div>
+<div class = "choice">G. lowering taxes .on individuals.</div>
+<div class = "choice">H. encouraging businesses to invest in new factories and machines.</div>
+<div class = "choice">J. encouraging businesses to hire unemployed workers.</div>
+<br>
+</div>
+###################

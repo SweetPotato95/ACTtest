@@ -1,56 +1,56 @@
-﻿
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When a substance dissolves in<img src='file:\$$$\resources\2008 Dec 67A\imgs\156.png' width = '52'height = '40'/>, heat is either absorbed from or given off to the solution. Experiments were done in which a known mass of a solute was added to a known mass of <img src='file:\$$$\resources\2008 Dec 67A\imgs\157.png' width = '52'height = '40'/> at a known initial temperature (<img src='file:\$$$\resources\2008 Dec 67A\imgs\158.png' width = '22'height = '36'/>) in a closed, insulated container. When the maximum temperature change of the solution had occurred, the final temperature (<img src='file:\$$$\resources\2008 Dec 67A\imgs\159.png' width = '24'height = '36'/>) was recorded. The maximum temperature change ((T) was then calculated as follows:</div>
+77s/
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gYSBzdWJzdGFuY2UgZGlzc29sdmVzIGluPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBEZWMgNjdBXGltZ3NcMTU2LnBuZycgd2lkdGggPSAnNTInaGVpZ2h0ID0gJzQwJy8+LCBoZWF0IGlzIGVpdGhlciBhYnNvcmJlZCBmcm9tIG9yIGdpdmVuIG9mZiB0byB0aGUgc29sdXRpb24uIEV4cGVyaW1lbnRzIHdlcmUgZG9uZSBpbiB3aGljaCBhIGtub3duIG1hc3Mgb2YgYSBzb2x1dGUgd2FzIGFkZGVkIHRvIGEga25vd24gbWFzcyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNTcucG5nJyB3aWR0aCA9ICc1MidoZWlnaHQgPSAnNDAnLz4gYXQgYSBrbm93biBpbml0aWFsIHRlbXBlcmF0dXJlICg8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNTgucG5nJyB3aWR0aCA9ICcyMidoZWlnaHQgPSAnMzYnLz4pIGluIGEgY2xvc2VkLCBpbnN1bGF0ZWQgY29udGFpbmVyLiBXaGVuIHRoZSBtYXhpbXVtIHRlbXBlcmF0dXJlIGNoYW5nZSBvZiB0aGUgc29sdXRpb24gaGFkIG9jY3VycmVkLCB0aGUgZmluYWwgdGVtcGVyYXR1cmUgKDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE1OS5wbmcnIHdpZHRoID0gJzI0J2hlaWdodCA9ICczNicvPikgd2FzIHJlY29yZGVkLiBUaGUgbWF4aW11bSB0ZW1wZXJhdHVyZSBjaGFuZ2UgKChUKSB3YXMgdGhlbiBjYWxjdWxhdGVkIGFzIGZvbGxvd3M6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\160.png' width = '120'height = '46'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE2MC5wbmcnIHdpZHRoID0gJzEyMCdoZWlnaHQgPSAnNDYnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1 and 2 show the results for lithium chloride (LiCl) and ammonium nitrate (<img src='file:\$$$\resources\2008 Dec 67A\imgs\161.png' width = '95'height = '42'/>), respectively. In each trial, all of the solute completely dissolved.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMSBhbmQgMiBzaG93IHRoZSByZXN1bHRzIGZvciBsaXRoaXVtIGNobG9yaWRlIChMaUNsKSBhbmQgYW1tb25pdW0gbml0cmF0ZSAoPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBEZWMgNjdBXGltZ3NcMTYxLnBuZycgd2lkdGggPSAnOTUnaGVpZ2h0ID0gJzQyJy8+KSwgcmVzcGVjdGl2ZWx5LiBJbiBlYWNoIHRyaWFsLCBhbGwgb2YgdGhlIHNvbHV0ZSBjb21wbGV0ZWx5IGRpc3NvbHZlZC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\162.png' width = '647'height = '615'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE2Mi5wbmcnIHdpZHRoID0gJzY0NydoZWlnaHQgPSAnNjE1Jy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\163.png' width = '690'height = '630'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE2My5wbmcnIHdpZHRoID0gJzY5MCdoZWlnaHQgPSAnNjMwJy8+PC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">1. Based on Figure 1, when 5 g of LiCl was added to 50 g of<img src='file:\$$$\resources\2008 Dec 67A\imgs\164.png' width = '52'height = '40'/>, the temperature:
-<div class = "choice">A. decreased, because heat was removed from the solution.</div>
-<div class = "choice">B. decreased, because heat was added to the solution.</div>
-<div class = "choice">C. increased, because heat was removed from the solution.</div>
-<div class = "choice">D. increased, because heat was added to the solution.</div>
-</div>
-###################
-<div class = "quiz">2. Consider the trials represented in Figure 1 involving 20 g of LiCl. From trial to trial, as the LiCl concentration in the resulting solutions increased, the (T that was observed:
-<div class = "choice">F. increased only.</div>
-<div class = "choice">G. increased, then decreased.</div>
-<div class = "choice">H. decreased only.</div>
-<div class = "choice">J. decreased, then increased.</div>
-</div>
-###################
-<div class = "quiz">3. If an additional trial had been done in which 25 g of LiCl had been added to 75 g of<img src='file:\$$$\resources\2008 Dec 67A\imgs\165.png' width = '52'height = '40'/>, (T would most likely have been:
-<div class = "choice">A. less than 20°C.</div>
-<div class = "choice">B. between 20°C arid 30°C.</div>
-<div class = "choice">C. between 30°C and 40°C.</div>
-<div class = "choice">D. greater than 40°C.</div>
-</div>
-###################
-<div class = "quiz">4. According to Figure 2, when 5 of <img src='file:\$$$\resources\2008 Dec 67A\imgs\166.png' width = '95'height = '42'/> was added to 100 g of<img src='file:\$$$\resources\2008 Dec 67A\imgs\167.png' width = '52'height = '40'/>, the temperature of the solution:
-<div class = "choice">F. decreased, because <img src='file:\$$$\resources\2008 Dec 67A\imgs\168.png' width = '36'height = '36'/> was positive.</div>
-<div class = "choice">G. decreased, because <img src='file:\$$$\resources\2008 Dec 67A\imgs\169.png' width = '36'height = '36'/> was negative.</div>
-<div class = "choice">H. increased, because <img src='file:\$$$\resources\2008 Dec 67A\imgs\170.png' width = '36'height = '36'/> was positive.</div>
-<div class = "choice">J. increased, because <img src='file:\$$$\resources\2008 Dec 67A\imgs\171.png' width = '36'height = '36'/> was negative.</div>
-</div>
-###################
-<div class = "quiz">5. Based on Figures 1 and 2, which of the following combinations of a solute and <img src='file:\$$$\resources\2008 Dec 67A\imgs\172.png' width = '52'height = '40'/> at a known <img src='file:\$$$\resources\2008 Dec 67A\imgs\173.png' width = '22'height = '36'/> would produce the greatest increase in temperature?
-<div class = "choice">A. 2 g of LiCl added to 5 g of<img src='file:\$$$\resources\2008 Dec 67A\imgs\174.png' width = '52'height = '40'/></div>
-<div class = "choice">B. 2 g of LiCl added to 10 g of <img src='file:\$$$\resources\2008 Dec 67A\imgs\175.png' width = '52'height = '40'/></div>
-<div class = "choice">C. 2 g of <img src='file:\$$$\resources\2008 Dec 67A\imgs\176.png' width = '95'height = '42'/> added to5 g of<img src='file:\$$$\resources\2008 Dec 67A\imgs\177.png' width = '52'height = '40'/></div>
-<div class = "choice">D. 2 g of <img src='file:\$$$\resources\2008 Dec 67A\imgs\178.png' width = '95'height = '42'/> added to 10 g of <img src='file:\$$$\resources\2008 Dec 67A\imgs\179.png' width = '52'height = '40'/></div>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBCYXNlZCBvbiBGaWd1cmUgMSwgd2hlbiA1IGcgb2YgTGlDbCB3YXMgYWRkZWQgdG8gNTAgZyBvZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE2NC5wbmcnIHdpZHRoID0gJzUyJ2hlaWdodCA9ICc0MCcvPiwgdGhlIHRlbXBlcmF0dXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRlY3JlYXNlZCwgYmVjYXVzZSBoZWF0IHdhcyByZW1vdmVkIGZyb20gdGhlIHNvbHV0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlY3JlYXNlZCwgYmVjYXVzZSBoZWF0IHdhcyBhZGRlZCB0byB0aGUgc29sdXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGluY3JlYXNlZCwgYmVjYXVzZSBoZWF0IHdhcyByZW1vdmVkIGZyb20gdGhlIHNvbHV0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluY3JlYXNlZCwgYmVjYXVzZSBoZWF0IHdhcyBhZGRlZCB0byB0aGUgc29sdXRpb24uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBDb25zaWRlciB0aGUgdHJpYWxzIHJlcHJlc2VudGVkIGluIEZpZ3VyZSAxIGludm9sdmluZyAyMCBnIG9mIExpQ2wuIEZyb20gdHJpYWwgdG8gdHJpYWwsIGFzIHRoZSBMaUNsIGNvbmNlbnRyYXRpb24gaW4gdGhlIHJlc3VsdGluZyBzb2x1dGlvbnMgaW5jcmVhc2VkLCB0aGUgKFQgdGhhdCB3YXMgb2JzZXJ2ZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluY3JlYXNlZCwgdGhlbiBkZWNyZWFzZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlY3JlYXNlZCBvbmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlY3JlYXNlZCwgdGhlbiBpbmNyZWFzZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBJZiBhbiBhZGRpdGlvbmFsIHRyaWFsIGhhZCBiZWVuIGRvbmUgaW4gd2hpY2ggMjUgZyBvZiBMaUNsIGhhZCBiZWVuIGFkZGVkIHRvIDc1IGcgb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNjUucG5nJyB3aWR0aCA9ICc1MidoZWlnaHQgPSAnNDAnLz4sIChUIHdvdWxkIG1vc3QgbGlrZWx5IGhhdmUgYmVlbjo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxlc3MgdGhhbiAyMMKwQy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGJldHdlZW4gMjDCsEMgYXJpZCAzMMKwQy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGJldHdlZW4gMzDCsEMgYW5kIDQwwrBDLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdyZWF0ZXIgdGhhbiA0MMKwQy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBBY2NvcmRpbmcgdG8gRmlndXJlIDIsIHdoZW4gNSBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNjYucG5nJyB3aWR0aCA9ICc5NSdoZWlnaHQgPSAnNDInLz4gd2FzIGFkZGVkIHRvIDEwMCBnIG9mPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBEZWMgNjdBXGltZ3NcMTY3LnBuZycgd2lkdGggPSAnNTInaGVpZ2h0ID0gJzQwJy8+LCB0aGUgdGVtcGVyYXR1cmUgb2YgdGhlIHNvbHV0aW9uOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGRlY3JlYXNlZCwgYmVjYXVzZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNjgucG5nJyB3aWR0aCA9ICczNidoZWlnaHQgPSAnMzYnLz4gd2FzIHBvc2l0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGRlY3JlYXNlZCwgYmVjYXVzZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNjkucG5nJyB3aWR0aCA9ICczNidoZWlnaHQgPSAnMzYnLz4gd2FzIG5lZ2F0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlZCwgYmVjYXVzZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzAucG5nJyB3aWR0aCA9ICczNidoZWlnaHQgPSAnMzYnLz4gd2FzIHBvc2l0aXZlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluY3JlYXNlZCwgYmVjYXVzZSA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzEucG5nJyB3aWR0aCA9ICczNidoZWlnaHQgPSAnMzYnLz4gd2FzIG5lZ2F0aXZlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBCYXNlZCBvbiBGaWd1cmVzIDEgYW5kIDIsIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgY29tYmluYXRpb25zIG9mIGEgc29sdXRlIGFuZCA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzIucG5nJyB3aWR0aCA9ICc1MidoZWlnaHQgPSAnNDAnLz4gYXQgYSBrbm93biA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzMucG5nJyB3aWR0aCA9ICcyMidoZWlnaHQgPSAnMzYnLz4gd291bGQgcHJvZHVjZSB0aGUgZ3JlYXRlc3QgaW5jcmVhc2UgaW4gdGVtcGVyYXR1cmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIgZyBvZiBMaUNsIGFkZGVkIHRvIDUgZyBvZjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDggRGVjIDY3QVxpbWdzXDE3NC5wbmcnIHdpZHRoID0gJzUyJ2hlaWdodCA9ICc0MCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDIgZyBvZiBMaUNsIGFkZGVkIHRvIDEwIGcgb2YgPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwOCBEZWMgNjdBXGltZ3NcMTc1LnBuZycgd2lkdGggPSAnNTInaGVpZ2h0ID0gJzQwJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDIgZyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzYucG5nJyB3aWR0aCA9ICc5NSdoZWlnaHQgPSAnNDInLz4gYWRkZWQgdG81IGcgb2Y8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzcucG5nJyB3aWR0aCA9ICc1MidoZWlnaHQgPSAnNDAnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDIgZyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzgucG5nJyB3aWR0aCA9ICc5NSdoZWlnaHQgPSAnNDInLz4gYWRkZWQgdG8gMTAgZyBvZiA8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDA4IERlYyA2N0FcaW1nc1wxNzkucG5nJyB3aWR0aCA9ICc1MidoZWlnaHQgPSAnNDAnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

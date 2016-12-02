@@ -1,110 +1,110 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “High Over Kitty Hawk, Looking for a Profit” by Paul Hoffman (?2003 by The New York Times Company).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The foggy lens of history has been kind to Wilbur and Orville Wright. We regard the boys from Dayton, Ohio, as American heroes who flew the first airplane and ushered in the age of air travel. At the time, though, the brothers' achievement was barely recognized—and their motives were fart from visionary.</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlIOKAnEhpZ2ggT3ZlciBLaXR0eSBIYXdrLCBMb29raW5nIGZvciBhIFByb2ZpdOKAPyBieSBQYXVsIEhvZmZtYW4gKD8yMDAzIGJ5IFRoZSBOZXcgWW9yayBUaW1lcyBDb21wYW55KS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmb2dneSBsZW5zIG9mIGhpc3RvcnkgaGFzIGJlZW4ga2luZCB0byBXaWxidXIgYW5kIE9ydmlsbGUgV3JpZ2h0LiBXZSByZWdhcmQgdGhlIGJveXMgZnJvbSBEYXl0b24sIE9oaW8sIGFzIEFtZXJpY2FuIGhlcm9lcyB3aG8gZmxldyB0aGUgZmlyc3QgYWlycGxhbmUgYW5kIHVzaGVyZWQgaW4gdGhlIGFnZSBvZiBhaXIgdHJhdmVsLiBBdCB0aGUgdGltZSwgdGhvdWdoLCB0aGUgYnJvdGhlcnMnIGFjaGlldmVtZW50IHdhcyBiYXJlbHkgcmVjb2duaXplZOKAlGFuZCB0aGVpciBtb3RpdmVzIHdlcmUgZmFydCBmcm9tIHZpc2lvbmFyeS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=15>On Dec. 17, 1903, the Wrights took turns making short ascents over the dunes of Kill Devil Hills, four miles south of Kitty Hawk, N.C., in a propeller-driven biplane powered by an internal combustion engine. They each got airborne twice—with Wilbur going the farthest, 852 feet in 59 seconds—before a gust flipped the plane while it was on the ground. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE1Pk9uIERlYy4gMTcsIDE5MDMsIHRoZSBXcmlnaHRzIHRvb2sgdHVybnMgbWFraW5nIHNob3J0IGFzY2VudHMgb3ZlciB0aGUgZHVuZXMgb2YgS2lsbCBEZXZpbCBIaWxscywgZm91ciBtaWxlcyBzb3V0aCBvZiBLaXR0eSBIYXdrLCBOLkMuLCBpbiBhIHByb3BlbGxlci1kcml2ZW4gYmlwbGFuZSBwb3dlcmVkIGJ5IGFuIGludGVybmFsIGNvbWJ1c3Rpb24gZW5naW5lLiBUaGV5IGVhY2ggZ290IGFpcmJvcm5lIHR3aWNl4oCUd2l0aCBXaWxidXIgZ29pbmcgdGhlIGZhcnRoZXN0LCA4NTIgZmVldCBpbiA1OSBzZWNvbmRz4oCUYmVmb3JlIGEgZ3VzdCBmbGlwcGVkIHRoZSBwbGFuZSB3aGlsZSBpdCB3YXMgb24gdGhlIGdyb3VuZC4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But what was really so historic about the flight? The Wrights were certainly not the first people to rise above the Earth. Balloonists had been doing that for more than a century. In June 1783, Joseph and Etienne Montgolfier, paper makers from Annonay, France, demonstrated in a public square the first hot-air balloon capable of carrying a load as heavy as a human being.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCB3aGF0IHdhcyByZWFsbHkgc28gaGlzdG9yaWMgYWJvdXQgdGhlIGZsaWdodD8gVGhlIFdyaWdodHMgd2VyZSBjZXJ0YWlubHkgbm90IHRoZSBmaXJzdCBwZW9wbGUgdG8gcmlzZSBhYm92ZSB0aGUgRWFydGguIEJhbGxvb25pc3RzIGhhZCBiZWVuIGRvaW5nIHRoYXQgZm9yIG1vcmUgdGhhbiBhIGNlbnR1cnkuIEluIEp1bmUgMTc4MywgSm9zZXBoIGFuZCBFdGllbm5lIE1vbnRnb2xmaWVyLCBwYXBlciBtYWtlcnMgZnJvbSBBbm5vbmF5LCBGcmFuY2UsIGRlbW9uc3RyYXRlZCBpbiBhIHB1YmxpYyBzcXVhcmUgdGhlIGZpcnN0IGhvdC1haXIgYmFsbG9vbiBjYXBhYmxlIG9mIGNhcnJ5aW5nIGEgbG9hZCBhcyBoZWF2eSBhcyBhIGh1bWFuIGJlaW5nLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Wrights were also not the first to pilot a heavier-than-air craft. In 1849, Sir George Cayley, a British physicist, constructed a three-winged glider that lifted a 10-year-old child a few feet. After four years of further experimentation, Cayley enlarged his "boy glider" into an adult-size craft and sent a grown man through the air for several hundred feet.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBXcmlnaHRzIHdlcmUgYWxzbyBub3QgdGhlIGZpcnN0IHRvIHBpbG90IGEgaGVhdmllci10aGFuLWFpciBjcmFmdC4gSW4gMTg0OSwgU2lyIEdlb3JnZSBDYXlsZXksIGEgQnJpdGlzaCBwaHlzaWNpc3QsIGNvbnN0cnVjdGVkIGEgdGhyZWUtd2luZ2VkIGdsaWRlciB0aGF0IGxpZnRlZCBhIDEwLXllYXItb2xkIGNoaWxkIGEgZmV3IGZlZXQuIEFmdGVyIGZvdXIgeWVhcnMgb2YgZnVydGhlciBleHBlcmltZW50YXRpb24sIENheWxleSBlbmxhcmdlZCBoaXMgImJveSBnbGlkZXIiIGludG8gYW4gYWR1bHQtc2l6ZSBjcmFmdCBhbmQgc2VudCBhIGdyb3duIG1hbiB0aHJvdWdoIHRoZSBhaXIgZm9yIHNldmVyYWwgaHVuZHJlZCBmZWV0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nor were the Wright brothers the first to achieve powered flight. In 1901, a Brazilian named Alberto Santos-Dumont entertained all of Paris by making a 14-mile trip over the city, including a <font id=16>revolution</font> of the Eiffel Tower, in a cigar-shaped balloon powered by a car engine.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5vciB3ZXJlIHRoZSBXcmlnaHQgYnJvdGhlcnMgdGhlIGZpcnN0IHRvIGFjaGlldmUgcG93ZXJlZCBmbGlnaHQuIEluIDE5MDEsIGEgQnJhemlsaWFuIG5hbWVkIEFsYmVydG8gU2FudG9zLUR1bW9udCBlbnRlcnRhaW5lZCBhbGwgb2YgUGFyaXMgYnkgbWFraW5nIGEgMTQtbWlsZSB0cmlwIG92ZXIgdGhlIGNpdHksIGluY2x1ZGluZyBhIDxmb250IGlkPTE2PnJldm9sdXRpb248L2ZvbnQ+IG9mIHRoZSBFaWZmZWwgVG93ZXIsIGluIGEgY2lnYXItc2hhcGVkIGJhbGxvb24gcG93ZXJlZCBieSBhIGNhciBlbmdpbmUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Wrights were not even the first to leave the ground in a powered plane. In 1874, Félix du Temple, a French naval officer, watched the steam-powered plane he devised speed down a ski-jump-like ramp and sputter through the air with a young sailor at the helm.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBXcmlnaHRzIHdlcmUgbm90IGV2ZW4gdGhlIGZpcnN0IHRvIGxlYXZlIHRoZSBncm91bmQgaW4gYSBwb3dlcmVkIHBsYW5lLiBJbiAxODc0LCBGw6lsaXggZHUgVGVtcGxlLCBhIEZyZW5jaCBuYXZhbCBvZmZpY2VyLCB3YXRjaGVkIHRoZSBzdGVhbS1wb3dlcmVkIHBsYW5lIGhlIGRldmlzZWQgc3BlZWQgZG93biBhIHNraS1qdW1wLWxpa2UgcmFtcCBhbmQgc3B1dHRlciB0aHJvdWdoIHRoZSBhaXIgd2l0aCBhIHlvdW5nIHNhaWxvciBhdCB0aGUgaGVsbS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Of course, it is one thing to be hurled through the air for a few fleeting moments—what aviation historians call a "hop" —and quite another to make a controlled flight under one's own power. Control is what the Wright brothers so ably and singularly demonstrated. While other aviation pioneers concentrated on how to power a plane—not a difficult task by the time automobile engines had come into their own—the Wrights focused on how to stabilize it.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk9mIGNvdXJzZSwgaXQgaXMgb25lIHRoaW5nIHRvIGJlIGh1cmxlZCB0aHJvdWdoIHRoZSBhaXIgZm9yIGEgZmV3IGZsZWV0aW5nIG1vbWVudHPigJR3aGF0IGF2aWF0aW9uIGhpc3RvcmlhbnMgY2FsbCBhICJob3AiIOKAlGFuZCBxdWl0ZSBhbm90aGVyIHRvIG1ha2UgYSBjb250cm9sbGVkIGZsaWdodCB1bmRlciBvbmUncyBvd24gcG93ZXIuIENvbnRyb2wgaXMgd2hhdCB0aGUgV3JpZ2h0IGJyb3RoZXJzIHNvIGFibHkgYW5kIHNpbmd1bGFybHkgZGVtb25zdHJhdGVkLiBXaGlsZSBvdGhlciBhdmlhdGlvbiBwaW9uZWVycyBjb25jZW50cmF0ZWQgb24gaG93IHRvIHBvd2VyIGEgcGxhbmXigJRub3QgYSBkaWZmaWN1bHQgdGFzayBieSB0aGUgdGltZSBhdXRvbW9iaWxlIGVuZ2luZXMgaGFkIGNvbWUgaW50byB0aGVpciBvd27igJR0aGUgV3JpZ2h0cyBmb2N1c2VkIG9uIGhvdyB0byBzdGFiaWxpemUgaXQuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many early aviation pioneers employed horizontal and vertical rudders to keep their experimental aircraft from veering right or left or unintentionally diving or rising. But only the Wrights appreciated another necessity: preventing the plane from suddenly rolling because of a difference in wind on the left and right wings. They ingeniously countered roll by "wing-warping" —using flexible wing tips with wire controls so that the pilot can bring the right wing into the wind at a different inclination from the left one, creating lift.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk1hbnkgZWFybHkgYXZpYXRpb24gcGlvbmVlcnMgZW1wbG95ZWQgaG9yaXpvbnRhbCBhbmQgdmVydGljYWwgcnVkZGVycyB0byBrZWVwIHRoZWlyIGV4cGVyaW1lbnRhbCBhaXJjcmFmdCBmcm9tIHZlZXJpbmcgcmlnaHQgb3IgbGVmdCBvciB1bmludGVudGlvbmFsbHkgZGl2aW5nIG9yIHJpc2luZy4gQnV0IG9ubHkgdGhlIFdyaWdodHMgYXBwcmVjaWF0ZWQgYW5vdGhlciBuZWNlc3NpdHk6IHByZXZlbnRpbmcgdGhlIHBsYW5lIGZyb20gc3VkZGVubHkgcm9sbGluZyBiZWNhdXNlIG9mIGEgZGlmZmVyZW5jZSBpbiB3aW5kIG9uIHRoZSBsZWZ0IGFuZCByaWdodCB3aW5ncy4gVGhleSBpbmdlbmlvdXNseSBjb3VudGVyZWQgcm9sbCBieSAid2luZy13YXJwaW5nIiDigJR1c2luZyBmbGV4aWJsZSB3aW5nIHRpcHMgd2l0aCB3aXJlIGNvbnRyb2xzIHNvIHRoYXQgdGhlIHBpbG90IGNhbiBicmluZyB0aGUgcmlnaHQgd2luZyBpbnRvIHRoZSB3aW5kIGF0IGEgZGlmZmVyZW50IGluY2xpbmF0aW9uIGZyb20gdGhlIGxlZnQgb25lLCBjcmVhdGluZyBsaWZ0LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus while the brothers' flights were remarkable, they were hardly bolts from the <font id=18>blue</font>. Rather, their achievement was a vital step in a long progression toward controlled flight. And by no means did their success make them overnight celebrities: in 1903 hardly anyone heard about their flights, and those who did were not inclined to believe the tale.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRodXMgd2hpbGUgdGhlIGJyb3RoZXJzJyBmbGlnaHRzIHdlcmUgcmVtYXJrYWJsZSwgdGhleSB3ZXJlIGhhcmRseSBib2x0cyBmcm9tIHRoZSA8Zm9udCBpZD0xOD5ibHVlPC9mb250Pi4gUmF0aGVyLCB0aGVpciBhY2hpZXZlbWVudCB3YXMgYSB2aXRhbCBzdGVwIGluIGEgbG9uZyBwcm9ncmVzc2lvbiB0b3dhcmQgY29udHJvbGxlZCBmbGlnaHQuIEFuZCBieSBubyBtZWFucyBkaWQgdGhlaXIgc3VjY2VzcyBtYWtlIHRoZW0gb3Zlcm5pZ2h0IGNlbGVicml0aWVzOiBpbiAxOTAzIGhhcmRseSBhbnlvbmUgaGVhcmQgYWJvdXQgdGhlaXIgZmxpZ2h0cywgYW5kIHRob3NlIHdobyBkaWQgd2VyZSBub3QgaW5jbGluZWQgdG8gYmVsaWV2ZSB0aGUgdGFsZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=20>The Wright brothers chose the Outer Banks of North Carolina not just for the favorable winds, but also for the remoteness. They wanted to fly in near secrecy because they weren't sure they could patent their plane, and wanted to profit from it before others knocked off the design. Yet, they expected the press to bail them as the conquerors of the air. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTIwPlRoZSBXcmlnaHQgYnJvdGhlcnMgY2hvc2UgdGhlIE91dGVyIEJhbmtzIG9mIE5vcnRoIENhcm9saW5hIG5vdCBqdXN0IGZvciB0aGUgZmF2b3JhYmxlIHdpbmRzLCBidXQgYWxzbyBmb3IgdGhlIHJlbW90ZW5lc3MuIFRoZXkgd2FudGVkIHRvIGZseSBpbiBuZWFyIHNlY3JlY3kgYmVjYXVzZSB0aGV5IHdlcmVuJ3Qgc3VyZSB0aGV5IGNvdWxkIHBhdGVudCB0aGVpciBwbGFuZSwgYW5kIHdhbnRlZCB0byBwcm9maXQgZnJvbSBpdCBiZWZvcmUgb3RoZXJzIGtub2NrZWQgb2ZmIHRoZSBkZXNpZ24uIFlldCwgdGhleSBleHBlY3RlZCB0aGUgcHJlc3MgdG8gYmFpbCB0aGVtIGFzIHRoZSBjb25xdWVyb3JzIG9mIHRoZSBhaXIuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But reporters were skeptical. Six days before Kitty Hawk, a crowd of official witnesses and Washington bigwigs had gathered to watch what was supposed to be the maiden flight of the giant Aerodrome designed by Samuel Langley, the head of the Smithsonian Institution. The plane was catapulted from a houseboat in the Potomac but instead of rising into the air plunged into the frigid waters. News reporters could not accept that two bicycle mechanics with little money had succeeded while the dean of American science, financed with government money, had failed.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCByZXBvcnRlcnMgd2VyZSBza2VwdGljYWwuIFNpeCBkYXlzIGJlZm9yZSBLaXR0eSBIYXdrLCBhIGNyb3dkIG9mIG9mZmljaWFsIHdpdG5lc3NlcyBhbmQgV2FzaGluZ3RvbiBiaWd3aWdzIGhhZCBnYXRoZXJlZCB0byB3YXRjaCB3aGF0IHdhcyBzdXBwb3NlZCB0byBiZSB0aGUgbWFpZGVuIGZsaWdodCBvZiB0aGUgZ2lhbnQgQWVyb2Ryb21lIGRlc2lnbmVkIGJ5IFNhbXVlbCBMYW5nbGV5LCB0aGUgaGVhZCBvZiB0aGUgU21pdGhzb25pYW4gSW5zdGl0dXRpb24uIFRoZSBwbGFuZSB3YXMgY2F0YXB1bHRlZCBmcm9tIGEgaG91c2Vib2F0IGluIHRoZSBQb3RvbWFjIGJ1dCBpbnN0ZWFkIG9mIHJpc2luZyBpbnRvIHRoZSBhaXIgcGx1bmdlZCBpbnRvIHRoZSBmcmlnaWQgd2F0ZXJzLiBOZXdzIHJlcG9ydGVycyBjb3VsZCBub3QgYWNjZXB0IHRoYXQgdHdvIGJpY3ljbGUgbWVjaGFuaWNzIHdpdGggbGl0dGxlIG1vbmV5IGhhZCBzdWNjZWVkZWQgd2hpbGUgdGhlIGRlYW4gb2YgQW1lcmljYW4gc2NpZW5jZSwgZmluYW5jZWQgd2l0aCBnb3Zlcm5tZW50IG1vbmV5LCBoYWQgZmFpbGVkLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The few newspapers that wrote about Kitty Hawk got everything wrong. The Dayton Daily News described the Wrights' aircraft as a dirigible and planted the story under the headline "Dayton Boys Emulate Great Santos-Dumont." The first eyewitness account of their subsequent flights was published more than two years after Kitty Hawk, in an obscure magazine called Gleanings in Bee Culture.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBmZXcgbmV3c3BhcGVycyB0aGF0IHdyb3RlIGFib3V0IEtpdHR5IEhhd2sgZ290IGV2ZXJ5dGhpbmcgd3JvbmcuIFRoZSBEYXl0b24gRGFpbHkgTmV3cyBkZXNjcmliZWQgdGhlIFdyaWdodHMnIGFpcmNyYWZ0IGFzIGEgZGlyaWdpYmxlIGFuZCBwbGFudGVkIHRoZSBzdG9yeSB1bmRlciB0aGUgaGVhZGxpbmUgIkRheXRvbiBCb3lzIEVtdWxhdGUgR3JlYXQgU2FudG9zLUR1bW9udC4iIFRoZSBmaXJzdCBleWV3aXRuZXNzIGFjY291bnQgb2YgdGhlaXIgc3Vic2VxdWVudCBmbGlnaHRzIHdhcyBwdWJsaXNoZWQgbW9yZSB0aGFuIHR3byB5ZWFycyBhZnRlciBLaXR0eSBIYXdrLCBpbiBhbiBvYnNjdXJlIG1hZ2F6aW5lIGNhbGxlZCBHbGVhbmluZ3MgaW4gQmVlIEN1bHR1cmUuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. The point of view from which the passage is told is best described as that of:
-<div class = "choice">A. a writer with a historical perspective who wants to correct misconceptions about early flight.</div>
-<div class = "choice">B. a relative of the Wright brothers who wants to build a monument in their honor.</div>
-<div class = "choice">C. an inventor who wants to illustrate how difficult it is to invent something important.</div>
-<div class = "choice">D. an observer of the initial Kitty Hawk flight who is critical of how it was reported, both then and later.</div>
-</div>
-###################
-<div class = "quiz">12. What does the passage indicate was the main difference between the Wright brothers' aircraft and the works of other inventors?
-<div class = "choice">F. The Wright brothers succeeded in flying when other inventors had failed.</div>
-<div class = "choice">G. Other inventors used balloons, not heavier-than-air craft.</div>
-<div class = "choice">H. No other inventors had used both horizontal and vertical rudders.</div>
-<div class = "choice">J. The Wright brothers prevented the rolling of a plane while other inventors had concentrated on powering a plane.</div>
-</div>
-###################
-<div class = "quiz">13. According to the passage, what was one reason reporters were skeptical that the Wright brothers had successfully flown?
-<div class = "choice">A. The first story of the Wright brothers' flight was not published for two years.</div>
-<div class = "choice">B. It was widely assumed that the Wright brothers wanted to profit from their ideas.</div>
-<div class = "choice">C. A leader in science with government funding had failed to have his own plane fly.</div>
-<div class = "choice">D. Balloonists had already been flying for more than a century.</div>
-</div>
-###################
-<div class = "quiz">14. The main purpose of the last paragraph is to show that the Wright brothers:
-<div class = "choice">F. were successful in their attempt to fly.</div>
-<div class = "choice">G. had merely duplicated what Alberto Santos-Dumont had done earlier.</div>
-<div class = "choice">H. were originally from Dayton, Ohio.</div>
-<div class = "choice">J. were initially poorly covered by the media.</div>
-</div>
-###################
-<div class = "quiz">15. The main purpose of the second paragraph (lines 7-13) is to:
-<div class = "choice">A. argue that more people should admire the Wright brothers for their accomplishments.</div>
-<div class = "choice">B. explain why it took two years for the first eyewitness account of the Wright brothers' initial flight to be published.</div>
-<div class = "choice">C. detail the first successful flights of the Wright brothers near Kitty Hawk.</div>
-<div class = "choice">D. clarify that it took many more years before the airplane was perfected.</div>
-</div>
-###################
-<div class = "quiz">16. As it is used in line 31, the word revolution most nearly means:
-<div class = "choice">F. political rebellion.  </div>
-<div class = "choice">G. radical change.  </div>
-<div class = "choice">H. circular course. </div> 
-<div class = "choice">J. pivotal invention.</div>
-</div>
-###################
-<div class = "quiz">17. The passage makes clear that it became easier for inventors to power their aircraft after:
-<div class = "choice">A. the Wright brothers flew near Kitty Hawk.</div>
-<div class = "choice">B. automobile engines had been developed.</div>
-<div class = "choice">C. they started adding horizontal and vertical rudders.</div>
-<div class = "choice">D. Sir George Cayley perfected his "boy glider."</div>
-</div>
-###################
-<div class = "quiz">18. The statement "they were hardly bolts from the blue" (line 59) most strongly suggests that flights like the Wright brothers' were:
-<div class = "choice">F. unsurprising.</div>
-<div class = "choice">G. improbable.</div>
-<div class = "choice">H. unusual.</div>
-<div class = "choice">J. remarkable.</div>
-</div>
-###################
-<div class = "quiz">19. The passage makes clear that one personal reason the Wright brothers had for testing their aircraft where they did was to:
-<div class = "choice">A. avoid the negative publicity that would come if their plane failed to fly.</div>
-<div class = "choice">B. keep away anyone who couldn't help if something went wrong during the test flight.</div>
-<div class = "choice">C. maintain confidentiality despite the many interviews they had previously given.</div>
-<div class = "choice">D. make money from their invention by isolating it from potential imitators.</div>
-</div>
-###################
-<div class = "quiz">20. It can most reasonably be inferred from the tenth paragraph (lines 65-71) that the author believes:
-<div class = "choice">F. the Wright brothers shouldn't have expected to be praised by the press.</div>
-<div class = "choice">G. North Carolina was too windy for flying experimental aircraft safely.</div>
-<div class = "choice">H. secrecy is necessary for inventors.</div>
-<div class = "choice">J. reporters can't be trusted to get their information correct.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gVGhlIHBvaW50IG9mIHZpZXcgZnJvbSB3aGljaCB0aGUgcGFzc2FnZSBpcyB0b2xkIGlzIGJlc3QgZGVzY3JpYmVkIGFzIHRoYXQgb2Y6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGEgd3JpdGVyIHdpdGggYSBoaXN0b3JpY2FsIHBlcnNwZWN0aXZlIHdobyB3YW50cyB0byBjb3JyZWN0IG1pc2NvbmNlcHRpb25zIGFib3V0IGVhcmx5IGZsaWdodC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgcmVsYXRpdmUgb2YgdGhlIFdyaWdodCBicm90aGVycyB3aG8gd2FudHMgdG8gYnVpbGQgYSBtb251bWVudCBpbiB0aGVpciBob25vci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGludmVudG9yIHdobyB3YW50cyB0byBpbGx1c3RyYXRlIGhvdyBkaWZmaWN1bHQgaXQgaXMgdG8gaW52ZW50IHNvbWV0aGluZyBpbXBvcnRhbnQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIG9ic2VydmVyIG9mIHRoZSBpbml0aWFsIEtpdHR5IEhhd2sgZmxpZ2h0IHdobyBpcyBjcml0aWNhbCBvZiBob3cgaXQgd2FzIHJlcG9ydGVkLCBib3RoIHRoZW4gYW5kIGxhdGVyLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gV2hhdCBkb2VzIHRoZSBwYXNzYWdlIGluZGljYXRlIHdhcyB0aGUgbWFpbiBkaWZmZXJlbmNlIGJldHdlZW4gdGhlIFdyaWdodCBicm90aGVycycgYWlyY3JhZnQgYW5kIHRoZSB3b3JrcyBvZiBvdGhlciBpbnZlbnRvcnM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRoZSBXcmlnaHQgYnJvdGhlcnMgc3VjY2VlZGVkIGluIGZseWluZyB3aGVuIG90aGVyIGludmVudG9ycyBoYWQgZmFpbGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE90aGVyIGludmVudG9ycyB1c2VkIGJhbGxvb25zLCBub3QgaGVhdmllci10aGFuLWFpciBjcmFmdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vIG90aGVyIGludmVudG9ycyBoYWQgdXNlZCBib3RoIGhvcml6b250YWwgYW5kIHZlcnRpY2FsIHJ1ZGRlcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFRoZSBXcmlnaHQgYnJvdGhlcnMgcHJldmVudGVkIHRoZSByb2xsaW5nIG9mIGEgcGxhbmUgd2hpbGUgb3RoZXIgaW52ZW50b3JzIGhhZCBjb25jZW50cmF0ZWQgb24gcG93ZXJpbmcgYSBwbGFuZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGF0IHdhcyBvbmUgcmVhc29uIHJlcG9ydGVycyB3ZXJlIHNrZXB0aWNhbCB0aGF0IHRoZSBXcmlnaHQgYnJvdGhlcnMgaGFkIHN1Y2Nlc3NmdWxseSBmbG93bj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBmaXJzdCBzdG9yeSBvZiB0aGUgV3JpZ2h0IGJyb3RoZXJzJyBmbGlnaHQgd2FzIG5vdCBwdWJsaXNoZWQgZm9yIHR3byB5ZWFycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEl0IHdhcyB3aWRlbHkgYXNzdW1lZCB0aGF0IHRoZSBXcmlnaHQgYnJvdGhlcnMgd2FudGVkIHRvIHByb2ZpdCBmcm9tIHRoZWlyIGlkZWFzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEEgbGVhZGVyIGluIHNjaWVuY2Ugd2l0aCBnb3Zlcm5tZW50IGZ1bmRpbmcgaGFkIGZhaWxlZCB0byBoYXZlIGhpcyBvd24gcGxhbmUgZmx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJhbGxvb25pc3RzIGhhZCBhbHJlYWR5IGJlZW4gZmx5aW5nIGZvciBtb3JlIHRoYW4gYSBjZW50dXJ5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgbGFzdCBwYXJhZ3JhcGggaXMgdG8gc2hvdyB0aGF0IHRoZSBXcmlnaHQgYnJvdGhlcnM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdlcmUgc3VjY2Vzc2Z1bCBpbiB0aGVpciBhdHRlbXB0IHRvIGZseS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGhhZCBtZXJlbHkgZHVwbGljYXRlZCB3aGF0IEFsYmVydG8gU2FudG9zLUR1bW9udCBoYWQgZG9uZSBlYXJsaWVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdlcmUgb3JpZ2luYWxseSBmcm9tIERheXRvbiwgT2hpby48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdlcmUgaW5pdGlhbGx5IHBvb3JseSBjb3ZlcmVkIGJ5IHRoZSBtZWRpYS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgc2Vjb25kIHBhcmFncmFwaCAobGluZXMgNy0xMykgaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFyZ3VlIHRoYXQgbW9yZSBwZW9wbGUgc2hvdWxkIGFkbWlyZSB0aGUgV3JpZ2h0IGJyb3RoZXJzIGZvciB0aGVpciBhY2NvbXBsaXNobWVudHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGV4cGxhaW4gd2h5IGl0IHRvb2sgdHdvIHllYXJzIGZvciB0aGUgZmlyc3QgZXlld2l0bmVzcyBhY2NvdW50IG9mIHRoZSBXcmlnaHQgYnJvdGhlcnMnIGluaXRpYWwgZmxpZ2h0IHRvIGJlIHB1Ymxpc2hlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRldGFpbCB0aGUgZmlyc3Qgc3VjY2Vzc2Z1bCBmbGlnaHRzIG9mIHRoZSBXcmlnaHQgYnJvdGhlcnMgbmVhciBLaXR0eSBIYXdrLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNsYXJpZnkgdGhhdCBpdCB0b29rIG1hbnkgbW9yZSB5ZWFycyBiZWZvcmUgdGhlIGFpcnBsYW5lIHdhcyBwZXJmZWN0ZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDMxLCB0aGUgd29yZCByZXZvbHV0aW9uIG1vc3QgbmVhcmx5IG1lYW5zOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHBvbGl0aWNhbCByZWJlbGxpb24uICA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHJhZGljYWwgY2hhbmdlLiAgPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNpcmN1bGFyIGNvdXJzZS4gPC9kaXY+IA==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHBpdm90YWwgaW52ZW50aW9uLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gVGhlIHBhc3NhZ2UgbWFrZXMgY2xlYXIgdGhhdCBpdCBiZWNhbWUgZWFzaWVyIGZvciBpbnZlbnRvcnMgdG8gcG93ZXIgdGhlaXIgYWlyY3JhZnQgYWZ0ZXI6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRoZSBXcmlnaHQgYnJvdGhlcnMgZmxldyBuZWFyIEtpdHR5IEhhd2suPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGF1dG9tb2JpbGUgZW5naW5lcyBoYWQgYmVlbiBkZXZlbG9wZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZXkgc3RhcnRlZCBhZGRpbmcgaG9yaXpvbnRhbCBhbmQgdmVydGljYWwgcnVkZGVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNpciBHZW9yZ2UgQ2F5bGV5IHBlcmZlY3RlZCBoaXMgImJveSBnbGlkZXIuIjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIHN0YXRlbWVudCAidGhleSB3ZXJlIGhhcmRseSBib2x0cyBmcm9tIHRoZSBibHVlIiAobGluZSA1OSkgbW9zdCBzdHJvbmdseSBzdWdnZXN0cyB0aGF0IGZsaWdodHMgbGlrZSB0aGUgV3JpZ2h0IGJyb3RoZXJzJyB3ZXJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHVuc3VycHJpc2luZy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGltcHJvYmFibGUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHVudXN1YWwuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlbWFya2FibGUuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gVGhlIHBhc3NhZ2UgbWFrZXMgY2xlYXIgdGhhdCBvbmUgcGVyc29uYWwgcmVhc29uIHRoZSBXcmlnaHQgYnJvdGhlcnMgaGFkIGZvciB0ZXN0aW5nIHRoZWlyIGFpcmNyYWZ0IHdoZXJlIHRoZXkgZGlkIHdhcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGF2b2lkIHRoZSBuZWdhdGl2ZSBwdWJsaWNpdHkgdGhhdCB3b3VsZCBjb21lIGlmIHRoZWlyIHBsYW5lIGZhaWxlZCB0byBmbHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGtlZXAgYXdheSBhbnlvbmUgd2hvIGNvdWxkbid0IGhlbHAgaWYgc29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB0ZXN0IGZsaWdodC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1haW50YWluIGNvbmZpZGVudGlhbGl0eSBkZXNwaXRlIHRoZSBtYW55IGludGVydmlld3MgdGhleSBoYWQgcHJldmlvdXNseSBnaXZlbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1ha2UgbW9uZXkgZnJvbSB0aGVpciBpbnZlbnRpb24gYnkgaXNvbGF0aW5nIGl0IGZyb20gcG90ZW50aWFsIGltaXRhdG9ycy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gSXQgY2FuIG1vc3QgcmVhc29uYWJseSBiZSBpbmZlcnJlZCBmcm9tIHRoZSB0ZW50aCBwYXJhZ3JhcGggKGxpbmVzIDY1LTcxKSB0aGF0IHRoZSBhdXRob3IgYmVsaWV2ZXM6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBXcmlnaHQgYnJvdGhlcnMgc2hvdWxkbid0IGhhdmUgZXhwZWN0ZWQgdG8gYmUgcHJhaXNlZCBieSB0aGUgcHJlc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIE5vcnRoIENhcm9saW5hIHdhcyB0b28gd2luZHkgZm9yIGZseWluZyBleHBlcmltZW50YWwgYWlyY3JhZnQgc2FmZWx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNlY3JlY3kgaXMgbmVjZXNzYXJ5IGZvciBpbnZlbnRvcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHJlcG9ydGVycyBjYW4ndCBiZSB0cnVzdGVkIHRvIGdldCB0aGVpciBpbmZvcm1hdGlvbiBjb3JyZWN0LjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

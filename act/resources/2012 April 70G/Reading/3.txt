@@ -1,97 +1,97 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from the article “The Image Culture” by Christine Rosen (○C2005 by Ethics and Public Policy Center).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The creator of one of the earliest technologies of the image named his invention, appropriately enough, for himself. Louis-Jacques-Mandé Daguerre, a French-man known for his elaborate and whimsical stage design in the. Paris theater, began building on the work of Joseph Nicéphore Niepce to try to produce a fixed image. Daguerre called the image he created in 1837 the "daguerreotype." He made extravagant claims for his device. It is "not merely an instrument which serves to draw nature," he wrote in 1838, it "gives her the power to reproduce herself.'</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkhVTUFOSVRJRVM6IFRoaXMgcGFzc2FnZSBpcyBhZGFwdGVkIGZyb20gdGhlIGFydGljbGUg4oCcVGhlIEltYWdlIEN1bHR1cmXigD8gYnkgQ2hyaXN0aW5lIFJvc2VuICjil4tDMjAwNSBieSBFdGhpY3MgYW5kIFB1YmxpYyBQb2xpY3kgQ2VudGVyKS48L2Rpdj4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBjcmVhdG9yIG9mIG9uZSBvZiB0aGUgZWFybGllc3QgdGVjaG5vbG9naWVzIG9mIHRoZSBpbWFnZSBuYW1lZCBoaXMgaW52ZW50aW9uLCBhcHByb3ByaWF0ZWx5IGVub3VnaCwgZm9yIGhpbXNlbGYuIExvdWlzLUphY3F1ZXMtTWFuZMOpIERhZ3VlcnJlLCBhIEZyZW5jaC1tYW4ga25vd24gZm9yIGhpcyBlbGFib3JhdGUgYW5kIHdoaW1zaWNhbCBzdGFnZSBkZXNpZ24gaW4gdGhlLiBQYXJpcyB0aGVhdGVyLCBiZWdhbiBidWlsZGluZyBvbiB0aGUgd29yayBvZiBKb3NlcGggTmljw6lwaG9yZSBOaWVwY2UgdG8gdHJ5IHRvIHByb2R1Y2UgYSBmaXhlZCBpbWFnZS4gRGFndWVycmUgY2FsbGVkIHRoZSBpbWFnZSBoZSBjcmVhdGVkIGluIDE4MzcgdGhlICJkYWd1ZXJyZW90eXBlLiIgSGUgbWFkZSBleHRyYXZhZ2FudCBjbGFpbXMgZm9yIGhpcyBkZXZpY2UuIEl0IGlzICJub3QgbWVyZWx5IGFuIGluc3RydW1lbnQgd2hpY2ggc2VydmVzIHRvIGRyYXcgbmF0dXJlLCIgaGUgd3JvdGUgaW4gMTgzOCwgaXQgImdpdmVzIGhlciB0aGUgcG93ZXIgdG8gcmVwcm9kdWNlIGhlcnNlbGYuJzwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Despite its technological crudeness and often-spectral images, the daguerreotype was eerily effective at capturing glimmers of personality in its fixed portraits. The extant daguerreotypes of well-known Americans in the nineteenth century include: a young and serious Abraham Lincoln, sans beard: an affable Horace Greeley in stovepipe hat; and a dour picture of the suffragist Lucy Stone. A daguerreotype of Edgar Allan Poe, taken in 1848, depicts the writer with a baleful expression and crossed arms, and was taken not long before Poe was found delirious and near death on the streets of Baltimore.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkRlc3BpdGUgaXRzIHRlY2hub2xvZ2ljYWwgY3J1ZGVuZXNzIGFuZCBvZnRlbi1zcGVjdHJhbCBpbWFnZXMsIHRoZSBkYWd1ZXJyZW90eXBlIHdhcyBlZXJpbHkgZWZmZWN0aXZlIGF0IGNhcHR1cmluZyBnbGltbWVycyBvZiBwZXJzb25hbGl0eSBpbiBpdHMgZml4ZWQgcG9ydHJhaXRzLiBUaGUgZXh0YW50IGRhZ3VlcnJlb3R5cGVzIG9mIHdlbGwta25vd24gQW1lcmljYW5zIGluIHRoZSBuaW5ldGVlbnRoIGNlbnR1cnkgaW5jbHVkZTogYSB5b3VuZyBhbmQgc2VyaW91cyBBYnJhaGFtIExpbmNvbG4sIHNhbnMgYmVhcmQ6IGFuIGFmZmFibGUgSG9yYWNlIEdyZWVsZXkgaW4gc3RvdmVwaXBlIGhhdDsgYW5kIGEgZG91ciBwaWN0dXJlIG9mIHRoZSBzdWZmcmFnaXN0IEx1Y3kgU3RvbmUuIEEgZGFndWVycmVvdHlwZSBvZiBFZGdhciBBbGxhbiBQb2UsIHRha2VuIGluIDE4NDgsIGRlcGljdHMgdGhlIHdyaXRlciB3aXRoIGEgYmFsZWZ1bCBleHByZXNzaW9uIGFuZCBjcm9zc2VkIGFybXMsIGFuZCB3YXMgdGFrZW4gbm90IGxvbmcgYmVmb3JlIFBvZSB3YXMgZm91bmQgZGVsaXJpb3VzIGFuZCBuZWFyIGRlYXRoIG9uIHRoZSBzdHJlZXRzIG9mIEJhbHRpbW9yZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But the daguerreotype did more than capture the posture of a poised citizenry. It also changed artists' perceptions of human nature. Nathaniel Hawthorne's 1851 Gothic romance, The House of the Seven Gables, has an ancient moral ("the wrong-doing of one generation lives into the successive ones") but made use of a modern technology, daguerreotyping, to unspool its story about the unmasking of festering, latent evil. In the story, Holgrave, the strange lodger living in the gabled house, is a daguerreotypist (as well as a political radical) who says of his art: "While we give it credit only for depicting the merest surface, it actually brings out the secret character with a truth no painter would ever venture upon, even could he detect it." It is Holgrave's silvery daguerreotypes that eventually reveal the nefarious motives of Judge Pyncheon－and in so doing suggest that the camera could expose human character more acutely than the eye.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCB0aGUgZGFndWVycmVvdHlwZSBkaWQgbW9yZSB0aGFuIGNhcHR1cmUgdGhlIHBvc3R1cmUgb2YgYSBwb2lzZWQgY2l0aXplbnJ5LiBJdCBhbHNvIGNoYW5nZWQgYXJ0aXN0cycgcGVyY2VwdGlvbnMgb2YgaHVtYW4gbmF0dXJlLiBOYXRoYW5pZWwgSGF3dGhvcm5lJ3MgMTg1MSBHb3RoaWMgcm9tYW5jZSwgVGhlIEhvdXNlIG9mIHRoZSBTZXZlbiBHYWJsZXMsIGhhcyBhbiBhbmNpZW50IG1vcmFsICgidGhlIHdyb25nLWRvaW5nIG9mIG9uZSBnZW5lcmF0aW9uIGxpdmVzIGludG8gdGhlIHN1Y2Nlc3NpdmUgb25lcyIpIGJ1dCBtYWRlIHVzZSBvZiBhIG1vZGVybiB0ZWNobm9sb2d5LCBkYWd1ZXJyZW90eXBpbmcsIHRvIHVuc3Bvb2wgaXRzIHN0b3J5IGFib3V0IHRoZSB1bm1hc2tpbmcgb2YgZmVzdGVyaW5nLCBsYXRlbnQgZXZpbC4gSW4gdGhlIHN0b3J5LCBIb2xncmF2ZSwgdGhlIHN0cmFuZ2UgbG9kZ2VyIGxpdmluZyBpbiB0aGUgZ2FibGVkIGhvdXNlLCBpcyBhIGRhZ3VlcnJlb3R5cGlzdCAoYXMgd2VsbCBhcyBhIHBvbGl0aWNhbCByYWRpY2FsKSB3aG8gc2F5cyBvZiBoaXMgYXJ0OiAiV2hpbGUgd2UgZ2l2ZSBpdCBjcmVkaXQgb25seSBmb3IgZGVwaWN0aW5nIHRoZSBtZXJlc3Qgc3VyZmFjZSwgaXQgYWN0dWFsbHkgYnJpbmdzIG91dCB0aGUgc2VjcmV0IGNoYXJhY3RlciB3aXRoIGEgdHJ1dGggbm8gcGFpbnRlciB3b3VsZCBldmVyIHZlbnR1cmUgdXBvbiwgZXZlbiBjb3VsZCBoZSBkZXRlY3QgaXQuIiBJdCBpcyBIb2xncmF2ZSdzIHNpbHZlcnkgZGFndWVycmVvdHlwZXMgdGhhdCBldmVudHVhbGx5IHJldmVhbCB0aGUgbmVmYXJpb3VzIG1vdGl2ZXMgb2YgSnVkZ2UgUHluY2hlb27vvI1hbmQgaW4gc28gZG9pbmcgc3VnZ2VzdCB0aGF0IHRoZSBjYW1lcmEgY291bGQgZXhwb3NlIGh1bWFuIGNoYXJhY3RlciBtb3JlIGFjdXRlbHkgdGhhbiB0aGUgZXllLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Author Oliver Wendell Holmes called the photo the <font id=29> "mirror with a memory," </font> and in 1859 predicted that the "image would become more important than the object itself and would in fact make the object disposable." But praise for the photograph was not universal.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkF1dGhvciBPbGl2ZXIgV2VuZGVsbCBIb2xtZXMgY2FsbGVkIHRoZSBwaG90byB0aGUgPGZvbnQgaWQ9Mjk+ICJtaXJyb3Igd2l0aCBhIG1lbW9yeSwiIDwvZm9udD4gYW5kIGluIDE4NTkgcHJlZGljdGVkIHRoYXQgdGhlICJpbWFnZSB3b3VsZCBiZWNvbWUgbW9yZSBpbXBvcnRhbnQgdGhhbiB0aGUgb2JqZWN0IGl0c2VsZiBhbmQgd291bGQgaW4gZmFjdCBtYWtlIHRoZSBvYmplY3QgZGlzcG9zYWJsZS4iIEJ1dCBwcmFpc2UgZm9yIHRoZSBwaG90b2dyYXBoIHdhcyBub3QgdW5pdmVyc2FsLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>In her elegant extended essay On Photography, the late Susan Sontag argues that images－particularly photographs－carry the risk of undermining true things so and genuine experiences, as well as the danger of upending our understanding of art, "Knowing a great deal about what is in the world (art, catastrophe, the beauties of nature) through photographic images," Sontag notes, "people are frequently disappointed. surprised, unmoved when they see the real thing." This is not a new problem, of course; it plagued the art world when the printing process allowed the mass reproduction of great works of art, and its effects can still be seen whenever one overhears a museum-goer express disappointment that the Van Gogh he sees hanging on the wall is nowhere near as vibrant as the one on his coffee mug. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI1PkluIGhlciBlbGVnYW50IGV4dGVuZGVkIGVzc2F5IE9uIFBob3RvZ3JhcGh5LCB0aGUgbGF0ZSBTdXNhbiBTb250YWcgYXJndWVzIHRoYXQgaW1hZ2Vz77yNcGFydGljdWxhcmx5IHBob3RvZ3JhcGhz77yNY2FycnkgdGhlIHJpc2sgb2YgdW5kZXJtaW5pbmcgdHJ1ZSB0aGluZ3Mgc28gYW5kIGdlbnVpbmUgZXhwZXJpZW5jZXMsIGFzIHdlbGwgYXMgdGhlIGRhbmdlciBvZiB1cGVuZGluZyBvdXIgdW5kZXJzdGFuZGluZyBvZiBhcnQsICJLbm93aW5nIGEgZ3JlYXQgZGVhbCBhYm91dCB3aGF0IGlzIGluIHRoZSB3b3JsZCAoYXJ0LCBjYXRhc3Ryb3BoZSwgdGhlIGJlYXV0aWVzIG9mIG5hdHVyZSkgdGhyb3VnaCBwaG90b2dyYXBoaWMgaW1hZ2VzLCIgU29udGFnIG5vdGVzLCAicGVvcGxlIGFyZSBmcmVxdWVudGx5IGRpc2FwcG9pbnRlZC4gc3VycHJpc2VkLCB1bm1vdmVkIHdoZW4gdGhleSBzZWUgdGhlIHJlYWwgdGhpbmcuIiBUaGlzIGlzIG5vdCBhIG5ldyBwcm9ibGVtLCBvZiBjb3Vyc2U7IGl0IHBsYWd1ZWQgdGhlIGFydCB3b3JsZCB3aGVuIHRoZSBwcmludGluZyBwcm9jZXNzIGFsbG93ZWQgdGhlIG1hc3MgcmVwcm9kdWN0aW9uIG9mIGdyZWF0IHdvcmtzIG9mIGFydCwgYW5kIGl0cyBlZmZlY3RzIGNhbiBzdGlsbCBiZSBzZWVuIHdoZW5ldmVyIG9uZSBvdmVyaGVhcnMgYSBtdXNldW0tZ29lciBleHByZXNzIGRpc2FwcG9pbnRtZW50IHRoYXQgdGhlIFZhbiBHb2doIGhlIHNlZXMgaGFuZ2luZyBvbiB0aGUgd2FsbCBpcyBub3doZXJlIG5lYXIgYXMgdmlicmFudCBhcyB0aGUgb25lIG9uIGhpcyBjb2ZmZWUgbXVnLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But Sontag's point is broader, and suggests that photography has forced us to consider that exposure to images does not necessarily create understanding of the things themselves. Images do not necessarily lead to meaning; the information they convey does not always lead to knowledge. This is due in part to the fact that photographic images must constantly be refreshed if one's attention is to continue to be drawn to them. "Photographs shock insofar as they show something novel," Sontag argues. "Unfortunately, the ante keeps getting raised-partly through the very proliferation of such images of horror." Images, Sontag concludes, have turned the world "into a department store or museum-without-walls," a place where people "become customers or tourists of reality."</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBTb250YWcncyBwb2ludCBpcyBicm9hZGVyLCBhbmQgc3VnZ2VzdHMgdGhhdCBwaG90b2dyYXBoeSBoYXMgZm9yY2VkIHVzIHRvIGNvbnNpZGVyIHRoYXQgZXhwb3N1cmUgdG8gaW1hZ2VzIGRvZXMgbm90IG5lY2Vzc2FyaWx5IGNyZWF0ZSB1bmRlcnN0YW5kaW5nIG9mIHRoZSB0aGluZ3MgdGhlbXNlbHZlcy4gSW1hZ2VzIGRvIG5vdCBuZWNlc3NhcmlseSBsZWFkIHRvIG1lYW5pbmc7IHRoZSBpbmZvcm1hdGlvbiB0aGV5IGNvbnZleSBkb2VzIG5vdCBhbHdheXMgbGVhZCB0byBrbm93bGVkZ2UuIFRoaXMgaXMgZHVlIGluIHBhcnQgdG8gdGhlIGZhY3QgdGhhdCBwaG90b2dyYXBoaWMgaW1hZ2VzIG11c3QgY29uc3RhbnRseSBiZSByZWZyZXNoZWQgaWYgb25lJ3MgYXR0ZW50aW9uIGlzIHRvIGNvbnRpbnVlIHRvIGJlIGRyYXduIHRvIHRoZW0uICJQaG90b2dyYXBocyBzaG9jayBpbnNvZmFyIGFzIHRoZXkgc2hvdyBzb21ldGhpbmcgbm92ZWwsIiBTb250YWcgYXJndWVzLiAiVW5mb3J0dW5hdGVseSwgdGhlIGFudGUga2VlcHMgZ2V0dGluZyByYWlzZWQtcGFydGx5IHRocm91Z2ggdGhlIHZlcnkgcHJvbGlmZXJhdGlvbiBvZiBzdWNoIGltYWdlcyBvZiBob3Jyb3IuIiBJbWFnZXMsIFNvbnRhZyBjb25jbHVkZXMsIGhhdmUgdHVybmVkIHRoZSB3b3JsZCAiaW50byBhIGRlcGFydG1lbnQgc3RvcmUgb3IgbXVzZXVtLXdpdGhvdXQtd2FsbHMsIiBhIHBsYWNlIHdoZXJlIHBlb3BsZSAiYmVjb21lIGN1c3RvbWVycyBvciB0b3VyaXN0cyBvZiByZWFsaXR5LiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nevertheless, photographs still retain some of the magical allure that the earliest daguerreotypes inspired. As W. J. T. Mitchell observes in What Do Pictures Want? "When students scoff at the idea of a magical relation between a picture and what it represents, ask them to take a photograph of their mother and blank out the eyes." Photographs remain powerful because they are reminders of the people and things we care about. They are surrogates carried into battle by a soldier or by a traveler on holiday. They exist to remind us of the absent, the beloved, and the dead.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk5ldmVydGhlbGVzcywgcGhvdG9ncmFwaHMgc3RpbGwgcmV0YWluIHNvbWUgb2YgdGhlIG1hZ2ljYWwgYWxsdXJlIHRoYXQgdGhlIGVhcmxpZXN0IGRhZ3VlcnJlb3R5cGVzIGluc3BpcmVkLiBBcyBXLiBKLiBULiBNaXRjaGVsbCBvYnNlcnZlcyBpbiBXaGF0IERvIFBpY3R1cmVzIFdhbnQ/ICJXaGVuIHN0dWRlbnRzIHNjb2ZmIGF0IHRoZSBpZGVhIG9mIGEgbWFnaWNhbCByZWxhdGlvbiBiZXR3ZWVuIGEgcGljdHVyZSBhbmQgd2hhdCBpdCByZXByZXNlbnRzLCBhc2sgdGhlbSB0byB0YWtlIGEgcGhvdG9ncmFwaCBvZiB0aGVpciBtb3RoZXIgYW5kIGJsYW5rIG91dCB0aGUgZXllcy4iIFBob3RvZ3JhcGhzIHJlbWFpbiBwb3dlcmZ1bCBiZWNhdXNlIHRoZXkgYXJlIHJlbWluZGVycyBvZiB0aGUgcGVvcGxlIGFuZCB0aGluZ3Mgd2UgY2FyZSBhYm91dC4gVGhleSBhcmUgc3Vycm9nYXRlcyBjYXJyaWVkIGludG8gYmF0dGxlIGJ5IGEgc29sZGllciBvciBieSBhIHRyYXZlbGVyIG9uIGhvbGlkYXkuIFRoZXkgZXhpc3QgdG8gcmVtaW5kIHVzIG9mIHRoZSBhYnNlbnQsIHRoZSBiZWxvdmVkLCBhbmQgdGhlIGRlYWQuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">21. The main idea of the passage is that:
-<div class = "choice">A. photographs frequently disappoint viewers used to seeing the real objects photos depict.</div>
-<div class = "choice">B. photography is a powerful and sometimes controversial form of image making.</div>
-<div class = "choice">C. daguerreotypes produced stilted portraits that were crude and ineffective.</div>
-<div class = "choice">D. daguerreotypes replaced other art forms because they provided more realistic images.</div>
-</div>
-###################
-<div class = "quiz">22. Based on the passage, with which of the following statements would Sontag most likely agree?
-<div class = "choice">F. Photographs force us to examine more closely the subjects they depict.</div>
-<div class = "choice">G. Photographs provide the best way to know about the world.</div>
-<div class = "choice">H. The numerous images people see every day can desensitize them to real experiences.</div>
-<div class = "choice">J. Museumgoers are disappointed by the quality of reproductions of original works of art.</div>
-</div>
-###################
-<div class = "quiz">23. How does the passage's author directly support her claim that the daguerreotype was more than a simple portrait?
-<div class = "choice">A. By portraying the whimsical nature of Daguerre</div>
-<div class = "choice">B. By describing how Daguerre's work was built on the technology invented by someone else</div>
-<div class = "choice">C. By giving examples of well-known Americans whose personalities were captured in daguerreotypes</div>
-<div class = "choice">D. By mentioning famous authors who studied the history of the technological developments in photography</div>
-</div>
-###################
-<div class = "quiz">24. The passage's author most likely relates the plot of The House of the Seven Gables to:
-<div class = "choice">F. provide an entertaining interruption in an otherwise technical passage.</div>
-<div class = "choice">G. suggest some artists' belief in the ability of daguerreotypes to expose truth.</div>
-<div class = "choice">H. point out Hawthorne's doubts about the usefulness of new technology.</div>
-<div class = "choice">J. encourage the reader to study the classic novels of the 1800s.</div>
-</div>
-###################
-<div class = "quiz">25. Which of the following people think or act in a way that is most similar to that of the museumgoers described in the fifth paragraph (lines 47-62)?
-<div class = "choice">A. Athletes who participate in more sporting events than they watch on television</div>
-<div class = "choice">B. Readers who prefer current novels to chose written prior to the 1900s</div>
-<div class = "choice">C. Visitors to a zoo who enjoy viewing real animals rather than watching a documentary about them</div>
-<div class = "choice">D. Music fans who would rather listen to recorded music than see a live performance</div>
-</div>
-###################
-<div class = "quiz">26. According to the passage, of the following, who was the earliest contributor to the technological development of fixed images'?
-<div class = "choice">F. Hawthorne</div>
-<div class = "choice">G. Daguerre</div>
-<div class = "choice">H. Holmes</div>
-<div class = "choice">J. Niepce</div>
-</div>
-###################
-<div class = "quiz">27. A journalist in 1839 had this to say about the daguerreotype:
-Talk no more of "holding the mirror up to nature" －she will hold it up to herself. And present you with a copy of her countenance for a penny.
-Based on the passage, would Daguerre agree or disagree with this statement?
-<div class = "choice">A. Agree, because he felt that daguerreotypes should mostly be used to take pictures of the outdoors.</div>
-<div class = "choice">B. Agree, because he believed daguerreotypes gave the power of reproduction to nature.</div>
-<div class = "choice">C. Disagree, because his early daguerreotypes were technologically crude and ineffective.</div>
-<div class = "choice">D. Disagree, because he recognized that photography was inferior to paintings in providing realistic reproductions.</div>
-</div>
-###################
-<div class = "quiz">28. Based on the passage, why might The House of the Seven Gables have been considered a modern story for its time?
-<div class = "choice">F. It revised an old theme to better suit readers of that era.</div>
-<div class = "choice">G. Its two main characters had jobs that were just then becoming vital to the society of that era.</div>
-<div class = "choice">H. It made a then-new technology* daguerreotyping, central to the plot.</div>
-<div class = "choice">J. Its plot changed the way writers thought about daguerreotyping and in so doing created a new genre.</div>
-</div>
-###################
-<div class = "quiz">29. Based on the passage, when Holmes called the photo-graph a "mirror with a memory" (line 43), he most likely meant that a photograph:
-<div class = "choice">A. is an effective way to visualize and save a moment in time.</div>
-<div class = "choice">B. portrays the subject from the photographer's point of view.</div>
-<div class = "choice">C. makes the world around us seem unimportant to explore and remember.</div>
-<div class = "choice">D. glosses over the ugly parts of life so people don't have to be reminded of them.</div>
-</div>
-###################
-<div class = "quiz">30. Based on the passage, Mitchell suggests asking students to blank out the eyes of a photograph of their mother in order to:
-<div class = "choice">F. show how physically fragile a picture can be.</div>
-<div class = "choice">G. point out that they shouldn't take their parents for granted.</div>
-<div class = "choice">H. force them to examine their family histories through photography.</div>
-<div class = "choice">J. demonstrate the magical associations a picture can have.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gVGhlIG1haW4gaWRlYSBvZiB0aGUgcGFzc2FnZSBpcyB0aGF0Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHBob3RvZ3JhcGhzIGZyZXF1ZW50bHkgZGlzYXBwb2ludCB2aWV3ZXJzIHVzZWQgdG8gc2VlaW5nIHRoZSByZWFsIG9iamVjdHMgcGhvdG9zIGRlcGljdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBob3RvZ3JhcGh5IGlzIGEgcG93ZXJmdWwgYW5kIHNvbWV0aW1lcyBjb250cm92ZXJzaWFsIGZvcm0gb2YgaW1hZ2UgbWFraW5nLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGRhZ3VlcnJlb3R5cGVzIHByb2R1Y2VkIHN0aWx0ZWQgcG9ydHJhaXRzIHRoYXQgd2VyZSBjcnVkZSBhbmQgaW5lZmZlY3RpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGRhZ3VlcnJlb3R5cGVzIHJlcGxhY2VkIG90aGVyIGFydCBmb3JtcyBiZWNhdXNlIHRoZXkgcHJvdmlkZWQgbW9yZSByZWFsaXN0aWMgaW1hZ2VzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdpdGggd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIHdvdWxkIFNvbnRhZyBtb3N0IGxpa2VseSBhZ3JlZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFBob3RvZ3JhcGhzIGZvcmNlIHVzIHRvIGV4YW1pbmUgbW9yZSBjbG9zZWx5IHRoZSBzdWJqZWN0cyB0aGV5IGRlcGljdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFBob3RvZ3JhcGhzIHByb3ZpZGUgdGhlIGJlc3Qgd2F5IHRvIGtub3cgYWJvdXQgdGhlIHdvcmxkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFRoZSBudW1lcm91cyBpbWFnZXMgcGVvcGxlIHNlZSBldmVyeSBkYXkgY2FuIGRlc2Vuc2l0aXplIHRoZW0gdG8gcmVhbCBleHBlcmllbmNlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE11c2V1bWdvZXJzIGFyZSBkaXNhcHBvaW50ZWQgYnkgdGhlIHF1YWxpdHkgb2YgcmVwcm9kdWN0aW9ucyBvZiBvcmlnaW5hbCB3b3JrcyBvZiBhcnQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gSG93IGRvZXMgdGhlIHBhc3NhZ2UncyBhdXRob3IgZGlyZWN0bHkgc3VwcG9ydCBoZXIgY2xhaW0gdGhhdCB0aGUgZGFndWVycmVvdHlwZSB3YXMgbW9yZSB0aGFuIGEgc2ltcGxlIHBvcnRyYWl0Pw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEJ5IHBvcnRyYXlpbmcgdGhlIHdoaW1zaWNhbCBuYXR1cmUgb2YgRGFndWVycmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEJ5IGRlc2NyaWJpbmcgaG93IERhZ3VlcnJlJ3Mgd29yayB3YXMgYnVpbHQgb24gdGhlIHRlY2hub2xvZ3kgaW52ZW50ZWQgYnkgc29tZW9uZSBlbHNlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEJ5IGdpdmluZyBleGFtcGxlcyBvZiB3ZWxsLWtub3duIEFtZXJpY2FucyB3aG9zZSBwZXJzb25hbGl0aWVzIHdlcmUgY2FwdHVyZWQgaW4gZGFndWVycmVvdHlwZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEJ5IG1lbnRpb25pbmcgZmFtb3VzIGF1dGhvcnMgd2hvIHN0dWRpZWQgdGhlIGhpc3Rvcnkgb2YgdGhlIHRlY2hub2xvZ2ljYWwgZGV2ZWxvcG1lbnRzIGluIHBob3RvZ3JhcGh5PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gVGhlIHBhc3NhZ2UncyBhdXRob3IgbW9zdCBsaWtlbHkgcmVsYXRlcyB0aGUgcGxvdCBvZiBUaGUgSG91c2Ugb2YgdGhlIFNldmVuIEdhYmxlcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHByb3ZpZGUgYW4gZW50ZXJ0YWluaW5nIGludGVycnVwdGlvbiBpbiBhbiBvdGhlcndpc2UgdGVjaG5pY2FsIHBhc3NhZ2UuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN1Z2dlc3Qgc29tZSBhcnRpc3RzJyBiZWxpZWYgaW4gdGhlIGFiaWxpdHkgb2YgZGFndWVycmVvdHlwZXMgdG8gZXhwb3NlIHRydXRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHBvaW50IG91dCBIYXd0aG9ybmUncyBkb3VidHMgYWJvdXQgdGhlIHVzZWZ1bG5lc3Mgb2YgbmV3IHRlY2hub2xvZ3kuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGVuY291cmFnZSB0aGUgcmVhZGVyIHRvIHN0dWR5IHRoZSBjbGFzc2ljIG5vdmVscyBvZiB0aGUgMTgwMHMuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBwZW9wbGUgdGhpbmsgb3IgYWN0IGluIGEgd2F5IHRoYXQgaXMgbW9zdCBzaW1pbGFyIHRvIHRoYXQgb2YgdGhlIG11c2V1bWdvZXJzIGRlc2NyaWJlZCBpbiB0aGUgZmlmdGggcGFyYWdyYXBoIChsaW5lcyA0Ny02Mik/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEF0aGxldGVzIHdobyBwYXJ0aWNpcGF0ZSBpbiBtb3JlIHNwb3J0aW5nIGV2ZW50cyB0aGFuIHRoZXkgd2F0Y2ggb24gdGVsZXZpc2lvbjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFJlYWRlcnMgd2hvIHByZWZlciBjdXJyZW50IG5vdmVscyB0byBjaG9zZSB3cml0dGVuIHByaW9yIHRvIHRoZSAxOTAwczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFZpc2l0b3JzIHRvIGEgem9vIHdobyBlbmpveSB2aWV3aW5nIHJlYWwgYW5pbWFscyByYXRoZXIgdGhhbiB3YXRjaGluZyBhIGRvY3VtZW50YXJ5IGFib3V0IHRoZW08L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE11c2ljIGZhbnMgd2hvIHdvdWxkIHJhdGhlciBsaXN0ZW4gdG8gcmVjb3JkZWQgbXVzaWMgdGhhbiBzZWUgYSBsaXZlIHBlcmZvcm1hbmNlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBvZiB0aGUgZm9sbG93aW5nLCB3aG8gd2FzIHRoZSBlYXJsaWVzdCBjb250cmlidXRvciB0byB0aGUgdGVjaG5vbG9naWNhbCBkZXZlbG9wbWVudCBvZiBmaXhlZCBpbWFnZXMnPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEhhd3Rob3JuZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIERhZ3VlcnJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEhvbG1lczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5pZXBjZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQSBqb3VybmFsaXN0IGluIDE4MzkgaGFkIHRoaXMgdG8gc2F5IGFib3V0IHRoZSBkYWd1ZXJyZW90eXBlOg==
+VGFsayBubyBtb3JlIG9mICJob2xkaW5nIHRoZSBtaXJyb3IgdXAgdG8gbmF0dXJlIiDvvI1zaGUgd2lsbCBob2xkIGl0IHVwIHRvIGhlcnNlbGYuIEFuZCBwcmVzZW50IHlvdSB3aXRoIGEgY29weSBvZiBoZXIgY291bnRlbmFuY2UgZm9yIGEgcGVubnku
+QmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdvdWxkIERhZ3VlcnJlIGFncmVlIG9yIGRpc2FncmVlIHdpdGggdGhpcyBzdGF0ZW1lbnQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEFncmVlLCBiZWNhdXNlIGhlIGZlbHQgdGhhdCBkYWd1ZXJyZW90eXBlcyBzaG91bGQgbW9zdGx5IGJlIHVzZWQgdG8gdGFrZSBwaWN0dXJlcyBvZiB0aGUgb3V0ZG9vcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFncmVlLCBiZWNhdXNlIGhlIGJlbGlldmVkIGRhZ3VlcnJlb3R5cGVzIGdhdmUgdGhlIHBvd2VyIG9mIHJlcHJvZHVjdGlvbiB0byBuYXR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIERpc2FncmVlLCBiZWNhdXNlIGhpcyBlYXJseSBkYWd1ZXJyZW90eXBlcyB3ZXJlIHRlY2hub2xvZ2ljYWxseSBjcnVkZSBhbmQgaW5lZmZlY3RpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIERpc2FncmVlLCBiZWNhdXNlIGhlIHJlY29nbml6ZWQgdGhhdCBwaG90b2dyYXBoeSB3YXMgaW5mZXJpb3IgdG8gcGFpbnRpbmdzIGluIHByb3ZpZGluZyByZWFsaXN0aWMgcmVwcm9kdWN0aW9ucy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdoeSBtaWdodCBUaGUgSG91c2Ugb2YgdGhlIFNldmVuIEdhYmxlcyBoYXZlIGJlZW4gY29uc2lkZXJlZCBhIG1vZGVybiBzdG9yeSBmb3IgaXRzIHRpbWU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IHJldmlzZWQgYW4gb2xkIHRoZW1lIHRvIGJldHRlciBzdWl0IHJlYWRlcnMgb2YgdGhhdCBlcmEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0cyB0d28gbWFpbiBjaGFyYWN0ZXJzIGhhZCBqb2JzIHRoYXQgd2VyZSBqdXN0IHRoZW4gYmVjb21pbmcgdml0YWwgdG8gdGhlIHNvY2lldHkgb2YgdGhhdCBlcmEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0IG1hZGUgYSB0aGVuLW5ldyB0ZWNobm9sb2d5KiBkYWd1ZXJyZW90eXBpbmcsIGNlbnRyYWwgdG8gdGhlIHBsb3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0cyBwbG90IGNoYW5nZWQgdGhlIHdheSB3cml0ZXJzIHRob3VnaHQgYWJvdXQgZGFndWVycmVvdHlwaW5nIGFuZCBpbiBzbyBkb2luZyBjcmVhdGVkIGEgbmV3IGdlbnJlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdoZW4gSG9sbWVzIGNhbGxlZCB0aGUgcGhvdG8tZ3JhcGggYSAibWlycm9yIHdpdGggYSBtZW1vcnkiIChsaW5lIDQzKSwgaGUgbW9zdCBsaWtlbHkgbWVhbnQgdGhhdCBhIHBob3RvZ3JhcGg6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGlzIGFuIGVmZmVjdGl2ZSB3YXkgdG8gdmlzdWFsaXplIGFuZCBzYXZlIGEgbW9tZW50IGluIHRpbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBvcnRyYXlzIHRoZSBzdWJqZWN0IGZyb20gdGhlIHBob3RvZ3JhcGhlcidzIHBvaW50IG9mIHZpZXcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1ha2VzIHRoZSB3b3JsZCBhcm91bmQgdXMgc2VlbSB1bmltcG9ydGFudCB0byBleHBsb3JlIGFuZCByZW1lbWJlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGdsb3NzZXMgb3ZlciB0aGUgdWdseSBwYXJ0cyBvZiBsaWZlIHNvIHBlb3BsZSBkb24ndCBoYXZlIHRvIGJlIHJlbWluZGVkIG9mIHRoZW0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIE1pdGNoZWxsIHN1Z2dlc3RzIGFza2luZyBzdHVkZW50cyB0byBibGFuayBvdXQgdGhlIGV5ZXMgb2YgYSBwaG90b2dyYXBoIG9mIHRoZWlyIG1vdGhlciBpbiBvcmRlciB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNob3cgaG93IHBoeXNpY2FsbHkgZnJhZ2lsZSBhIHBpY3R1cmUgY2FuIGJlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHBvaW50IG91dCB0aGF0IHRoZXkgc2hvdWxkbid0IHRha2UgdGhlaXIgcGFyZW50cyBmb3IgZ3JhbnRlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGZvcmNlIHRoZW0gdG8gZXhhbWluZSB0aGVpciBmYW1pbHkgaGlzdG9yaWVzIHRocm91Z2ggcGhvdG9ncmFwaHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlbW9uc3RyYXRlIHRoZSBtYWdpY2FsIGFzc29jaWF0aW9ucyBhIHBpY3R1cmUgY2FuIGhhdmUuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

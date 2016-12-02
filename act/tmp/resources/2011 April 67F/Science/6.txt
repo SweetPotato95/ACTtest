@@ -1,0 +1,83 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Students studied the rates at which various heated, solid aluminum spheres cooled in air.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students tested 3 solid aluminum spheres, A, B, and C, having different radii. The volume, V, in<img src='file:\$$$\resources\2011 April 67F\imgs\248.png' width = '45'height = '34'/>, and the ratio of surface area to volume, <img src='file:\$$$\resources\2011 April 67F\imgs\249.png' width = '28'height = '65'/>, in<img src='file:\$$$\resources\2011 April 67F\imgs\250.png' width = '50'height = '34'/>, for each sphere are shown in Table 1.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;font-size:52.6pt"><td colspan="3" style="width:324.5pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:52.6pt" valign="top" width="216"><p align="left" class="MsoBodyText" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:57.0pt;margin-bottom:.0001pt;text-align:left;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-language:EN-US">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1;font-size:48.2pt"><td rowspan="2" style="width:97.9pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:48.2pt" width="65"><p align="center"  style="text-align:center;mso-pagination:widow-orphan"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-language:EN-US">Sphere</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt"></span></p></td><td style="width:95.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:48.2pt" valign="top" width="64"><p align="right" class="90" style="margin-right:18.0pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-language:EN-US">V</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td><td style="width:130.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:48.2pt" valign="top" width="87"><p class="3110" style="margin-right:19.0pt;line-height:normal;background:transparent"><span lang="zh-CN" style='font-size:21.0pt;font-family:"Times New Roman",serif'>S/V</span></p></td></tr><tr style="mso-yfti-irow:2;font-size:29.5pt"><td style="width:95.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:29.5pt" valign="top" width="64"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-language:EN-US">(cm<sup>3</sup>)</span></p></td><td style="width:130.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:29.5pt" valign="top" width="87"><p class="3110" style="margin-right:19.0pt;line-height:normal;background:transparent"><span class="312"><span lang="zh-CN" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-language:EN-US;font-style:normal'>(cm<sup>-1<sup>)</span></span><span lang="zh-CN" style='font-size:21.0pt;font-family:"Times New Roman",serif'></span></p></td></tr><tr style="mso-yfti-irow:3;font-size:31.0pt"><td style="width:97.9pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="65"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN">A</span></p></td><td style="width:95.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="64"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">3.9</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td><td style="width:130.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="87"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:19.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">3.1</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td></tr><tr style="mso-yfti-irow:4;font-size:31.0pt"><td style="width:97.9pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="65"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN">B</span></p></td><td style="width:95.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="64"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">31</span></p></td><td style="width:130.8pt;border:none;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="87"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:19.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">1.5</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;font-size:31.0pt"><td style="width:97.9pt;border:solid windowtext 1.0pt;border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="65"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span lang="zh-CN" style="font-size:21.0pt;mso-fareast-language:EN-US">C</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td><td style="width:95.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="64"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:18.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">490</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td><td style="width:130.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:white;padding:0cm 0cm 0cm 0cm;font-size:31.0pt" valign="top" width="87"><p align="right" class="MsoBodyText" style="margin-top:0cm;margin-right:19.0pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;text-indent:0cm;line-height:normal;background:transparent"><span style="font-size:21.0pt;mso-ansi-language:ZH-CN">0.6</span><span lang="zh-CN" style="font-size:21.0pt"></span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each of the spheres was fitted with a thermocouple to measure the central temperature (the temperature at the center) of the sphere. Then the 3 spheres were simultaneously heated. Once the temperature throughout each sphere was 100°C, the 3 spheres were immediately suspended at <img src='file:\$$$\resources\2011 April 67F\imgs\251.png' width = '88'height = '29'/> min in air that was at a temperature of 20°C (see Figure 1).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\252.png' width = '428'height = '270'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The spheres were allowed to cool over the next 30 min while the temperature of the air was kept constant at 20°C. A graph of the central temperature of each sphere versus time over the 30 min cooling period is shown in Figure 2. For each sphere, the cooling rate at a given time equals the graph's slope at that time.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\253.png' width = '401'height = '238'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The students tested 2 solid aluminum spheres, X and Y, that were identical in size. Sphere X was painted with Coating X, and Sphere Y was painted with Coating Y. Each of the spheres was fitted with a thermocouple as in Experiment 1, and then the 2 spheres were simultaneously heated. Once the temperature throughout each sphere was 120°C, the 2 spheres were immediately suspended at <img src='file:\$$$\resources\2011 April 67F\imgs\254.png' width = '88'height = '29'/> min in air that was at a temperature of 20°C. The spheres were allowed to cool over the next 55 min while the temperature of the air was kept constant at 20°C. A plot of the central temperature of each sphere versus time over the 55 min cooling period is shown in Figure 3.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\255.png' width = '524'height = '498'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+###################
+<div class = "quiz">30. A student stated that spheres that are the same in size bat that are made of different metals will cool at different rates. Do the results of Experiment 1 verify this statement?
+<div class = "choice">F. Yes, because all the spheres tested in Experiment 1 were made of the same metal.</div>
+<div class = "choice">G. Yes, because all the spheres tested in Experiment 1 were made of different metals.</div>
+<div class = "choice">H. No, because all the spheres tested in Experiment 1 were made of the same metal.</div>
+<div class = "choice">J. No, because all the spheres tested in Experiment 1 were made of different metals.</div>
+</div>
+###################
+<div class = "quiz">31. Based on Figures 2 and 3, the unit of measurement for the cooling rats was which of the following?
+<div class = "choice">A. °C/min</div>
+<div class = "choice">B. °C/<img src='file:\$$$\resources\2011 April 67F\imgs\256.png' width = '45'height = '34'/></div>
+<div class = "choice">C. min/°C</div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\257.png' width = '45'height = '34'/>/°C</div>
+</div>
+###################
+<div class = "quiz">32. Suppose that Sphere A had been allowed to continue cooling until the central temperature of the sphere stopped decreasing with the passage of time. Based on the information given, once the temperature stopped decreasing, the central temperature of the sphere would most likely have been:
+<div class = "choice">F. 15°C</div>
+<div class = "choice">G. 20°C</div>
+<div class = "choice">H. 22°C</div>
+<div class = "choice">J. 30°C</div>
+</div>
+###################
+<div class = "quiz">33. Based on the results of Experiment 1, a solid aluminum cylinder having which of the following values for <img src='file:\$$$\resources\2011 April 67F\imgs\258.png' width = '28'height = '65'/> will cool the fastest?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\259.png' width = '87'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\260.png' width = '84'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\261.png' width = '84'height = '34'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\262.png' width = '87'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">34. In Experiment 1, to adjust the temperature throughout each sphere before the 3 spheres were suspended and allowed to begin cooling, the students most likely immersed the spheres in:
+<div class = "choice">F. air at 20°C.</div>
+<div class = "choice">G. boiling water.</div>
+<div class = "choice">H. dry ice.</div>
+<div class = "choice">J. molten aluminum.</div>
+</div>
+###################
+<div class = "quiz">35. During the 55 min cooling period of Experiment 2, the central temperature of Sphere Y reached 40°C how much sooner or later than the central temperature of Sphere X reached 40°C?
+<div class = "choice">A. 13 min sooner</div>
+<div class = "choice">B. 13 min later</div>
+<div class = "choice">C. 17 min sooner</div>
+<div class = "choice">D. 17 min later</div>
+<br>
+</div>
+###################

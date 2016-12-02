@@ -1,80 +1,80 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 depicts some of the steps of protein synthesis in eukaryotes.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxIGRlcGljdHMgc29tZSBvZiB0aGUgc3RlcHMgb2YgcHJvdGVpbiBzeW50aGVzaXMgaW4gZXVrYXJ5b3Rlcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\187.png' width = '473'height = '378'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTg3LnBuZycgd2lkdGggPSAnNDczJ2hlaWdodCA9ICczNzgnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In yeast, the genes that are expressed at a given time depend on environmental conditions, such as the glucose concentration in the environment.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHllYXN0LCB0aGUgZ2VuZXMgdGhhdCBhcmUgZXhwcmVzc2VkIGF0IGEgZ2l2ZW4gdGltZSBkZXBlbmQgb24gZW52aXJvbm1lbnRhbCBjb25kaXRpb25zLCBzdWNoIGFzIHRoZSBnbHVjb3NlIGNvbmNlbnRyYXRpb24gaW4gdGhlIGVudmlyb25tZW50LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Saccharomyces cerevisiae, a type of yeast, was grown for 12 hours on a growth medium containing glucose. The transcription rates of 4 genes (Genes 1-4) were determined. The relative transcription rate (RTR) of each gene was then calculated using the following formula:</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNhY2NoYXJvbXljZXMgY2VyZXZpc2lhZSwgYSB0eXBlIG9mIHllYXN0LCB3YXMgZ3Jvd24gZm9yIDEyIGhvdXJzIG9uIGEgZ3Jvd3RoIG1lZGl1bSBjb250YWluaW5nIGdsdWNvc2UuIFRoZSB0cmFuc2NyaXB0aW9uIHJhdGVzIG9mIDQgZ2VuZXMgKEdlbmVzIDEtNCkgd2VyZSBkZXRlch9taW5lZC4gVGhlIHJlbGF0aXZlIHRyYW5zY3JpcHRpb24gcmF0ZSAoUlRSKSBvZiBlYWNoIGdlbmUgd2FzIHRoZW4gY2FsY3VsYXRlZCB1c2luZyB0aGUgZm9sbG93aW5nIGZvcm11bGE6PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\188.png' width = '507'height = '69'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTg4LnBuZycgd2lkdGggPSAnNTA3J2hlaWdodCA9ICc2OScvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results appear in Figure 2.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByZXN1bHRzIGFwcGVhciBpbiBGaWd1cmUgMi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\189.png' width = '154'height = '149'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTg5LnBuZycgd2lkdGggPSAnMTU0J2hlaWdodCA9ICcxNDknLz48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\190.png' width = '419'height = '469'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTkwLnBuZycgd2lkdGggPSAnNDE5J2hlaWdodCA9ICc0NjknLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3  shows the glucose concentration of the medium during the experiment.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzICBzaG93cyB0aGUgZ2x1Y29zZSBjb25jZW50cmF0aW9uIG9mIHRoZSBtZWRpdW0gZHVyaW5nIHRoZSBleHBlcmltZW50LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\191.png' width = '440'height = '448'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTkxLnBuZycgd2lkdGggPSAnNDQwJ2hlaWdodCA9ICc0NDgnLz48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from Joseph L. DeRisi, Vishwanath R. lyer, and Patrick O. Brown, "Exploring the Metabolic and Genetic Control of Gene Expression on a Genomic Scale." ©1997 by the American Association for the Advancement of Science.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgMiBhbmQgMyBhZGFwdGVkIGZyb20gSm9zZXBoIEwuIERlUmlzaSwgVmlzaHdhbmF0aCBSLiBseWVyLCBhbmQgUGF0cmljayBPLiBCcm93biwgIkV4cGxvcmluZyB0aGUgTWV0YWJvbGljIGFuZCBHZW5ldGljIENvbnRyb2wgb2YgR2VuZSBFeHByZXNzaW9uIG9uIGEgR2Vub21pYyBTY2FsZS4iIMKpMTk5NyBieSB0aGUgQW1lcmljYW4gQXNzb2NpYXRpb24gZm9yIHRoZSBBZHZhbmNlbWVudCBvZiBTY2llbmNlLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">1. At which of the following times was the transcription rate of Gene 2 the greatest?
-<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\192.png' width = '124'height = '29'/></div>
-<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\193.png' width = '126'height = '29'/></div>
-<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\194.png' width = '126'height = '29'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\195.png' width = '126'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">2. At which of the following times was the transcription rate of Gene 2 closest to 2 times the transcription rate of Gene 2 at<img src='file:\$$$\resources\2011 April 67F\imgs\196.png' width = '117'height = '29'/>?
-<div class = "choice">F.<img src='file:\$$$\resources\2011 April 67F\imgs\197.png' width = '124'height = '29'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2011 April 67F\imgs\198.png' width = '126'height = '29'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2011 April 67F\imgs\199.png' width = '126'height = '29'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2011 April 67F\imgs\200.png' width = '136'height = '29'/></div>
-</div>
-###################
-<div class = "quiz">3. Which of the following cellular components is most directly involved in Step 3 in Figure 1?
-<div class = "choice">A. Cell membrane</div>
-<div class = "choice">B. Chloroplasts</div>
-<div class = "choice">C. Lysosomes</div>
-<div class = "choice">D. Ribosomes</div>
-</div>
-###################
-<div class = "quiz">4. Based on Figure 1, which of the following best describes what happens to introns during gene expression?
-<div class = "choice">F. Introns are transcribed and then translated.</div>
-<div class = "choice">G. Introns are translated and then transcribed.</div>
-<div class = "choice">H. Introns are transcribed, but not translated.</div>
-<div class = "choice">J. Introns are translated, but not transcribed.</div>
-</div>
-###################
-<div class = "quiz">5. According to Figures 2 and 3, when the glucose concentration of the medium was 12 g/L, the RTR of Gene 4 was closest to winch of the following
-<div class = "choice">A. 0.1</div>
-<div class = "choice">B. 0.5</div>
-<div class = "choice">C. 0.9</div>
-<div class = "choice">D. 1.3</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBBdCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHRpbWVzIHdhcyB0aGUgdHJhbnNjcmlwdGlvbiByYXRlIG9mIEdlbmUgMiB0aGUgZ3JlYXRlc3Q/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTIucG5nJyB3aWR0aCA9ICcxMjQnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTMucG5nJyB3aWR0aCA9ICcxMjYnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTQucG5nJyB3aWR0aCA9ICcxMjYnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMTk1LnBuZycgd2lkdGggPSAnMTI2J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBBdCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHRpbWVzIHdhcyB0aGUgdHJhbnNjcmlwdGlvbiByYXRlIG9mIEdlbmUgMiBjbG9zZXN0IHRvIDIgdGltZXMgdGhlIHRyYW5zY3JpcHRpb24gcmF0ZSBvZiBHZW5lIDIgYXQ8aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEFwcmlsIDY3RlxpbWdzXDE5Ni5wbmcnIHdpZHRoID0gJzExNydoZWlnaHQgPSAnMjknLz4/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTcucG5nJyB3aWR0aCA9ICcxMjQnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTgucG5nJyB3aWR0aCA9ICcxMjYnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAxMSBBcHJpbCA2N0ZcaW1nc1wxOTkucG5nJyB3aWR0aCA9ICcxMjYnaGVpZ2h0ID0gJzI5Jy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgQXByaWwgNjdGXGltZ3NcMjAwLnBuZycgd2lkdGggPSAnMTM2J2hlaWdodCA9ICcyOScvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIGNlbGx1bGFyIGNvbXBvbmVudHMgaXMgbW9zdCBkaXJlY3RseSBpbnZvbHZlZCBpbiBTdGVwIDMgaW4gRmlndXJlIDE/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIENlbGwgbWVtYnJhbmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIENobG9yb3BsYXN0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEx5c29zb21lczwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFJpYm9zb21lczwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBCYXNlZCBvbiBGaWd1cmUgMSwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBiZXN0IGRlc2NyaWJlcyB3aGF0IGhhcHBlbnMgdG8gaW50cm9ucyBkdXJpbmcgZ2VuZSBleHByZXNzaW9uPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEludHJvbnMgYXJlIHRyYW5zY3JpYmVkIGFuZCB0aGVuIHRyYW5zbGF0ZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEludHJvbnMgYXJlIHRyYW5zbGF0ZWQgYW5kIHRoZW4gdHJhbnNjcmliZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEludHJvbnMgYXJlIHRyYW5zY3JpYmVkLCBidXQgbm90IHRyYW5zbGF0ZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEludHJvbnMgYXJlIHRyYW5zbGF0ZWQsIGJ1dCBub3QgdHJhbnNjcmliZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBBY2NvcmRpbmcgdG8gRmlndXJlcyAyIGFuZCAzLCB3aGVuIHRoZSBnbHVjb3NlIGNvbmNlbnRyYXRpb24gb2YgdGhlIG1lZGl1bSB3YXMgMTIgZy9MLCB0aGUgUlRSIG9mIEdlbmUgNCB3YXMgY2xvc2VzdCB0byB3aW5jaCBvZiB0aGUgZm9sbG93aW5n
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuMTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDAuNTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDAuOTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEuMzwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

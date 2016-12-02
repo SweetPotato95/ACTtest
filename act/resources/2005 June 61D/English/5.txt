@@ -1,125 +1,125 @@
-<h1>A Night at the Vanguard</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My friend Stacia and I recently took a class in jazz music, so one night we went down to the Village Vanguard to hear a <font id=61>performance, by saxophonist, </font> Jackie McLean. <font id=62>The Vanguard is a New York City nightclub located underground in a room crowded with tables. </font> Photos of Billie Holiday, Thelonious Monk, John Coltrane, and other jazz greats <font id=63>on</font> the walls.</div>
+PGgxPkEgTmlnaHQgYXQgdGhlIFZhbmd1YXJkPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IGZyaWVuZCBTdGFjaWEgYW5kIEkgcmVjZW50bHkgdG9vayBhIGNsYXNzIGluIGphenogbXVzaWMsIHNvIG9uZSBuaWdodCB3ZSB3ZW50IGRvd24gdG8gdGhlIFZpbGxhZ2UgVmFuZ3VhcmQgdG8gaGVhciBhIDxmb250IGlkPTYxPnBlcmZvcm1hbmNlLCBieSBzYXhvcGhvbmlzdCwgPC9mb250PiBKYWNraWUgTWNMZWFuLiA8Zm9udCBpZD02Mj5UaGUgVmFuZ3VhcmQgaXMgYSBOZXcgWW9yayBDaXR5IG5pZ2h0Y2x1YiBsb2NhdGVkIHVuZGVyZ3JvdW5kIGluIGEgcm9vbSBjcm93ZGVkIHdpdGggdGFibGVzLiA8L2ZvbnQ+IFBob3RvcyBvZiBCaWxsaWUgSG9saWRheSwgVGhlbG9uaW91cyBNb25rLCBKb2huIENvbHRyYW5lLCBhbmQgb3RoZXIgamF6eiBncmVhdHMgPGZvbnQgaWQ9NjM+b248L2ZvbnQ+IHRoZSB3YWxscy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To our surprise, Stacia and I found empty seats near the stage. The backup band of a pianist, a bass player, and the <font id=64>talented</font> Billy Higgins started with a piece Stacia and I immediately recognized—"Seven Minds." My attention focused <font id=65>first with</font> Higgins, who played with his head tipped back, smiling and nodding. Soon McLean stepped onstage with his <font id=66>sax</font> I wasn't <font id=67>prepared for the impact. </font> Into every corner of the room, he blew wild, sweet, almost disjointed notes <font id=68>that seemed to leave many listeners amazed. </font> He didn't play according to the rules of the popular music <font id=69>I had grown up listening to</font> on the radio. McLean has been likened to the sax genius Charlie Parker, and that night I could hear why.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvIG91ciBzdXJwcmlzZSwgU3RhY2lhIGFuZCBJIGZvdW5kIGVtcHR5IHNlYXRzIG5lYXIgdGhlIHN0YWdlLiBUaGUgYmFja3VwIGJhbmQgb2YgYSBwaWFuaXN0LCBhIGJhc3MgcGxheWVyLCBhbmQgdGhlIDxmb250IGlkPTY0PnRhbGVudGVkPC9mb250PiBCaWxseSBIaWdnaW5zIHN0YXJ0ZWQgd2l0aCBhIHBpZWNlIFN0YWNpYSBhbmQgSSBpbW1lZGlhdGVseSByZWNvZ25pemVk4oA/IlNldmVuIE1pbmRzLiIgTXkgYXR0ZW50aW9uIGZvY3VzZWQgPGZvbnQgaWQ9NjU+Zmlyc3Qgd2l0aDwvZm9udD4gSGlnZ2lucywgd2hvIHBsYXllZCB3aXRoIGhpcyBoZWFkIHRpcHBlZCBiYWNrLCBzbWlsaW5nIGFuZCBub2RkaW5nLiBTb29uIE1jTGVhbiBzdGVwcGVkIG9uc3RhZ2Ugd2l0aCBoaXMgPGZvbnQgaWQ9NjY+c2F4PC9mb250PiBJIHdhc24ndCA8Zm9udCBpZD02Nz5wcmVwYXJlZCBmb3IgdGhlIGltcGFjdC4gPC9mb250PiBJbnRvIGV2ZXJ5IGNvcm5lciBvZiB0aGUgcm9vbSwgaGUgYmxldyB3aWxkLCBzd2VldCwgYWxtb3N0IGRpc2pvaW50ZWQgbm90ZXMgPGZvbnQgaWQ9Njg+dGhhdCBzZWVtZWQgdG8gbGVhdmUgbWFueSBsaXN0ZW5lcnMgYW1hemVkLiA8L2ZvbnQ+IEhlIGRpZG4ndCBwbGF5IGFjY29yZGluZyB0byB0aGUgcnVsZXMgb2YgdGhlIHBvcHVsYXIgbXVzaWMgPGZvbnQgaWQ9Njk+SSBoYWQgZ3Jvd24gdXAgbGlzdGVuaW5nIHRvPC9mb250PiBvbiB0aGUgcmFkaW8uIE1jTGVhbiBoYXMgYmVlbiBsaWtlbmVkIHRvIHRoZSBzYXggZ2VuaXVzIENoYXJsaWUgUGFya2VyLCBhbmQgdGhhdCBuaWdodCBJIGNvdWxkIGhlYXIgd2h5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=73> [1] Occasionally McLean would stroll offstage. [2]Then one of the other musicians <font id=70>taking the lead, pulling</font> strange patterns from his instrument, <font id=71>the equivalent in sound of someone dancing under a blinking strobe light. </font> [3] Once during a drum solo, a man near us started laughing, as if Higgins had just told a mischievous joke. [4] Now and then, one member of the audience or another would bend forward <font id=72>as if you were</font> intently following an argument that is both complicated and fascinating. [5] When he played, something happy happened inside me. [6] I closed my eyes and just listened. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTczPiBbMV0gT2NjYXNpb25hbGx5IE1jTGVhbiB3b3VsZCBzdHJvbGwgb2Zmc3RhZ2UuIFsyXVRoZW4gb25lIG9mIHRoZSBvdGhlciBtdXNpY2lhbnMgPGZvbnQgaWQ9NzA+dGFraW5nIHRoZSBsZWFkLCBwdWxsaW5nPC9mb250PiBzdHJhbmdlIHBhdHRlcm5zIGZyb20gaGlzIGluc3RydW1lbnQsIDxmb250IGlkPTcxPnRoZSBlcXVpdmFsZW50IGluIHNvdW5kIG9mIHNvbWVvbmUgZGFuY2luZyB1bmRlciBhIGJsaW5raW5nIHN0cm9iZSBsaWdodC4gPC9mb250PiBbM10gT25jZSBkdXJpbmcgYSBkcnVtIHNvbG8sIGEgbWFuIG5lYXIgdXMgc3RhcnRlZCBsYXVnaGluZywgYXMgaWYgSGlnZ2lucyBoYWQganVzdCB0b2xkIGEgbWlzY2hpZXZvdXMgam9rZS4gWzRdIE5vdyBhbmQgdGhlbiwgb25lIG1lbWJlciBvZiB0aGUgYXVkaWVuY2Ugb3IgYW5vdGhlciB3b3VsZCBiZW5kIGZvcndhcmQgPGZvbnQgaWQ9NzI+YXMgaWYgeW91IHdlcmU8L2ZvbnQ+IGludGVudGx5IGZvbGxvd2luZyBhbiBhcmd1bWVudCB0aGF0IGlzIGJvdGggY29tcGxpY2F0ZWQgYW5kIGZhc2NpbmF0aW5nLiBbNV0gV2hlbiBoZSBwbGF5ZWQsIHNvbWV0aGluZyBoYXBweSBoYXBwZW5lZCBpbnNpZGUgbWUuIFs2XSBJIGNsb3NlZCBteSBleWVzIGFuZCBqdXN0IGxpc3RlbmVkLiA8L2ZvbnQ+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Suddenly the show was over. The musicians walked <font id=74>offstage. The</font> room filled with applause. Moments later, we were outside where the whole city—cabs, couples, neon lights—seemed to be moving to that bright, hectic, spontaneous music.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN1ZGRlbmx5IHRoZSBzaG93IHdhcyBvdmVyLiBUaGUgbXVzaWNpYW5zIHdhbGtlZCA8Zm9udCBpZD03ND5vZmZzdGFnZS4gVGhlPC9mb250PiByb29tIGZpbGxlZCB3aXRoIGFwcGxhdXNlLiBNb21lbnRzIGxhdGVyLCB3ZSB3ZXJlIG91dHNpZGUgd2hlcmUgdGhlIHdob2xlIGNpdHnigJRjYWJzLCBjb3VwbGVzLCBuZW9uIGxpZ2h0c+KAlHNlZW1lZCB0byBiZSBtb3ZpbmcgdG8gdGhhdCBicmlnaHQsIGhlY3RpYywgc3BvbnRhbmVvdXMgbXVzaWMuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">61.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. performance by saxophonist,</div>
-<div class = "choice">C. performance, by saxophonist</div>
-<div class = "choice">D. performance by saxophonist</div>
-</div>
-###################
-<div class = "quiz">62. The writer is considering deleting the preceding sentence. Should the writer make this deletion?
-<div class = "choice">F. Yes, because the sentence detracts from the essay's focus on music.</div>
-<div class = "choice">G. Yes, because the sentence sets up the expectation that the essay will be about New York City night-clubs.</div>
-<div class = "choice">H. No, because the sentence is informative and contributes to the essay's description of the narrator's experience.</div>
-<div class = "choice">J. No, because the sentence suggests that the narrator was unable to enjoy listening to jazz in a club where the seating was uncomfortable.</div>
-</div>
-###################
-<div class = "quiz">63.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. line</div>
-<div class = "choice">C. along</div>
-<div class = "choice">D. hanging on</div>
-</div>
-###################
-<div class = "quiz">64. Given that all of the choices are true, which one most clearly adds new information about the mixture of sounds in the music being played the night the narrator visited the Village Vanguard?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. famous drummer</div>
-<div class = "choice">H. musician</div>
-<div class = "choice">J. jazz artist</div>
-</div>
-###################
-<div class = "quiz">65.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. initially with</div>
-<div class = "choice">C. first on</div>
-<div class = "choice">D. initially to</div>
-</div>
-###################
-<div class = "quiz">66.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. sax.</div>
-<div class = "choice">H. sax that</div>
-<div class = "choice">J. sax, which</div>
-</div>
-###################
-<div class = "quiz">67.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. ready for the unexpected impact.</div>
-<div class = "choice">C. prepared, regarding the impact, for what happened.</div>
-<div class = "choice">D. expecting the impact, which I didn't see coming.</div>
-</div>
-###################
-<div class = "quiz">68. At this point, the writer wants to provide an image to help give a sense of the sound of the music being played by McLean. Which choice best accomplishes the writer's purpose?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. that words cannot hardly describe</div>
-<div class = "choice">H. before we knew what was happening to us as lucky members of the audience that night.</div>
-<div class = "choice">J. that seemed snatched from a dozen different places at once.</div>
-</div>
-###################
-<div class = "quiz">69.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. that was listened to growing up</div>
-<div class = "choice">C. I listened to growing up</div>
-<div class = "choice">D. I listen to when I grew up</div>
-</div>
-###################
-<div class = "quiz">70.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. took the lead, pulling</div>
-<div class = "choice">H. took the lead, he pulled</div>
-<div class = "choice">J. taking the lead by pulling</div>
-</div>
-###################
-<div class = "quiz">71. The writer would like to describe the sound of the music in visual terms to help the reader imagine the jazz played that night. Which choice best accomplishes the writer's purpose?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. the highlight of the evening for some audience members.</div>
-<div class = "choice">C. the sound making me see why so many people like jazz.</div>
-<div class = "choice">D. the notes having a visible effect.</div>
-</div>
-###################
-<div class = "quiz">72.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. when it was</div>
-<div class = "choice">H. in the posture that is</div>
-<div class = "choice">J. in the position of someone</div>
-</div>
-###################
-<div class = "quiz">73. Upon reviewing this paragraph and realizing that a detail has been left out, the writer composes the following sentence incorporating that detail:
-The most intense moment for me came when McLean let loose
-For the sake of the logic and coherence of this paragraph, this sentence should be added after Sentence:
-<div class = "choice">A. 3.</div>
-<div class = "choice">B. 4.</div>
-<div class = "choice">C. 5.</div>
-<div class = "choice">D. 6.</div>
-</div>
-###################
-<div class = "quiz">74. Which of the-following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">F. offstage, and the</div>
-<div class = "choice">G. offstage; the</div>
-<div class = "choice">H. offstage. Then the</div>
-<div class = "choice">J. offstage as if the</div>
-</div>
-###################
-<div class = "quiz">75. The writer is considering adding the following sentence to the essay, placing it before the essay's first sentence as an introduction:
-Someday I hope to introduce my family to jazz music.
-Should the writer make this addition?
-Question 75 asks about the preceding passage as a whole.
-<div class = "choice">A. Yes, because the sentence establishes the narrator's enthusiasm for jazz.</div>
-<div class = "choice">B. Yes, because the sentence clarifies what the essay is about.</div>
-<div class = "choice">C. No, because the sentence does not add anything significant to the essay.</div>
-<div class = "choice">D. No, because the sentence contradicts information contained in the essay.</div>
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHBlcmZvcm1hbmNlIGJ5IHNheG9waG9uaXN0LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHBlcmZvcm1hbmNlLCBieSBzYXhvcGhvbmlzdDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHBlcmZvcm1hbmNlIGJ5IHNheG9waG9uaXN0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Mi4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBkZWxldGluZyB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlLiBTaG91bGQgdGhlIHdyaXRlciBtYWtlIHRoaXMgZGVsZXRpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSB0aGUgc2VudGVuY2UgZGV0cmFjdHMgZnJvbSB0aGUgZXNzYXkncyBmb2N1cyBvbiBtdXNpYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSB0aGUgc2VudGVuY2Ugc2V0cyB1cCB0aGUgZXhwZWN0YXRpb24gdGhhdCB0aGUgZXNzYXkgd2lsbCBiZSBhYm91dCBOZXcgWW9yayBDaXR5IG5pZ2h0LWNsdWJzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIHRoZSBzZW50ZW5jZSBpcyBpbmZvcm1hdGl2ZSBhbmQgY29udHJpYnV0ZXMgdG8gdGhlIGVzc2F5J3MgZGVzY3JpcHRpb24gb2YgdGhlIG5hcnJhdG9yJ3MgZXhwZXJpZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIHRoZSBzZW50ZW5jZSBzdWdnZXN0cyB0aGF0IHRoZSBuYXJyYXRvciB3YXMgdW5hYmxlIHRvIGVuam95IGxpc3RlbmluZyB0byBqYXp6IGluIGEgY2x1YiB3aGVyZSB0aGUgc2VhdGluZyB3YXMgdW5jb21mb3J0YWJsZS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxpbmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFsb25nPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGhhbmdpbmcgb248L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NC4gR2l2ZW4gdGhhdCBhbGwgb2YgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBtb3N0IGNsZWFybHkgYWRkcyBuZXcgaW5mb3JtYXRpb24gYWJvdXQgdGhlIG1peHR1cmUgb2Ygc291bmRzIGluIHRoZSBtdXNpYyBiZWluZyBwbGF5ZWQgdGhlIG5pZ2h0IHRoZSBuYXJyYXRvciB2aXNpdGVkIHRoZSBWaWxsYWdlIFZhbmd1YXJkPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGZhbW91cyBkcnVtbWVyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG11c2ljaWFuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGphenogYXJ0aXN0PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGluaXRpYWxseSB3aXRoPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZpcnN0IG9uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGluaXRpYWxseSB0bzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHNheC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNheCB0aGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHNheCwgd2hpY2g8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHJlYWR5IGZvciB0aGUgdW5leHBlY3RlZCBpbXBhY3QuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByZXBhcmVkLCByZWdhcmRpbmcgdGhlIGltcGFjdCwgZm9yIHdoYXQgaGFwcGVuZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGV4cGVjdGluZyB0aGUgaW1wYWN0LCB3aGljaCBJIGRpZG4ndCBzZWUgY29taW5nLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OC4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciB3YW50cyB0byBwcm92aWRlIGFuIGltYWdlIHRvIGhlbHAgZ2l2ZSBhIHNlbnNlIG9mIHRoZSBzb3VuZCBvZiB0aGUgbXVzaWMgYmVpbmcgcGxheWVkIGJ5IE1jTGVhbi4gV2hpY2ggY2hvaWNlIGJlc3QgYWNjb21wbGlzaGVzIHRoZSB3cml0ZXIncyBwdXJwb3NlPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoYXQgd29yZHMgY2Fubm90IGhhcmRseSBkZXNjcmliZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJlZm9yZSB3ZSBrbmV3IHdoYXQgd2FzIGhhcHBlbmluZyB0byB1cyBhcyBsdWNreSBtZW1iZXJzIG9mIHRoZSBhdWRpZW5jZSB0aGF0IG5pZ2h0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoYXQgc2VlbWVkIHNuYXRjaGVkIGZyb20gYSBkb3plbiBkaWZmZXJlbnQgcGxhY2VzIGF0IG9uY2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoYXQgd2FzIGxpc3RlbmVkIHRvIGdyb3dpbmcgdXA8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEkgbGlzdGVuZWQgdG8gZ3Jvd2luZyB1cDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEkgbGlzdGVuIHRvIHdoZW4gSSBncmV3IHVwPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRvb2sgdGhlIGxlYWQsIHB1bGxpbmc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRvb2sgdGhlIGxlYWQsIGhlIHB1bGxlZDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRha2luZyB0aGUgbGVhZCBieSBwdWxsaW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43MS4gVGhlIHdyaXRlciB3b3VsZCBsaWtlIHRvIGRlc2NyaWJlIHRoZSBzb3VuZCBvZiB0aGUgbXVzaWMgaW4gdmlzdWFsIHRlcm1zIHRvIGhlbHAgdGhlIHJlYWRlciBpbWFnaW5lIHRoZSBqYXp6IHBsYXllZCB0aGF0IG5pZ2h0LiBXaGljaCBjaG9pY2UgYmVzdCBhY2NvbXBsaXNoZXMgdGhlIHdyaXRlcidzIHB1cnBvc2U/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHRoZSBoaWdobGlnaHQgb2YgdGhlIGV2ZW5pbmcgZm9yIHNvbWUgYXVkaWVuY2UgbWVtYmVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBzb3VuZCBtYWtpbmcgbWUgc2VlIHdoeSBzbyBtYW55IHBlb3BsZSBsaWtlIGphenouPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRoZSBub3RlcyBoYXZpbmcgYSB2aXNpYmxlIGVmZmVjdC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoZW4gaXQgd2FzPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluIHRoZSBwb3N0dXJlIHRoYXQgaXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGluIHRoZSBwb3NpdGlvbiBvZiBzb21lb25lPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43My4gVXBvbiByZXZpZXdpbmcgdGhpcyBwYXJhZ3JhcGggYW5kIHJlYWxpemluZyB0aGF0IGEgZGV0YWlsIGhhcyBiZWVuIGxlZnQgb3V0LCB0aGUgd3JpdGVyIGNvbXBvc2VzIHRoZSBmb2xsb3dpbmcgc2VudGVuY2UgaW5jb3Jwb3JhdGluZyB0aGF0IGRldGFpbDo=
+VGhlIG1vc3QgaW50ZW5zZSBtb21lbnQgZm9yIG1lIGNhbWUgd2hlbiBNY0xlYW4gbGV0IGxvb3Nl
+Rm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBhbmQgY29oZXJlbmNlIG9mIHRoaXMgcGFyYWdyYXBoLCB0aGlzIHNlbnRlbmNlIHNob3VsZCBiZSBhZGRlZCBhZnRlciBTZW50ZW5jZTo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDYuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NC4gV2hpY2ggb2YgdGhlLWZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIG9mZnN0YWdlLCBhbmQgdGhlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG9mZnN0YWdlOyB0aGU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIG9mZnN0YWdlLiBUaGVuIHRoZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG9mZnN0YWdlIGFzIGlmIHRoZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij43NS4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyBzZW50ZW5jZSB0byB0aGUgZXNzYXksIHBsYWNpbmcgaXQgYmVmb3JlIHRoZSBlc3NheSdzIGZpcnN0IHNlbnRlbmNlIGFzIGFuIGludHJvZHVjdGlvbjo=
+U29tZWRheSBJIGhvcGUgdG8gaW50cm9kdWNlIG15IGZhbWlseSB0byBqYXp6IG11c2ljLg==
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGlzIGFkZGl0aW9uPw==
+UXVlc3Rpb24gNzUgYXNrcyBhYm91dCB0aGUgcHJlY2VkaW5nIHBhc3NhZ2UgYXMgYSB3aG9sZS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSB0aGUgc2VudGVuY2UgZXN0YWJsaXNoZXMgdGhlIG5hcnJhdG9yJ3MgZW50aHVzaWFzbSBmb3IgamF6ei48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSB0aGUgc2VudGVuY2UgY2xhcmlmaWVzIHdoYXQgdGhlIGVzc2F5IGlzIGFib3V0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIHRoZSBzZW50ZW5jZSBkb2VzIG5vdCBhZGQgYW55dGhpbmcgc2lnbmlmaWNhbnQgdG8gdGhlIGVzc2F5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIHRoZSBzZW50ZW5jZSBjb250cmFkaWN0cyBpbmZvcm1hdGlvbiBjb250YWluZWQgaW4gdGhlIGVzc2F5LjwvZGl2Pg==
 
-###################
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

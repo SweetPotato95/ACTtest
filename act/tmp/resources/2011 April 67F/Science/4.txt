@@ -1,0 +1,90 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A river's discharge is the volume of river water flowing past a location in the river in a given amount of time. Discharge is affected by several factors, including the area of the river's drainage basin (the land surface that delivers the rainwater that falls on it into the river) and the spatial relationship of the river to other rivers.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two studies examined the discharge in 3 rivers—the North River, the Jones River, and the Calm River—following a rainfall event. As shown in Figure 1, the drainage basin of the North River and the drainage basin of the Jones River are within the drainage basin of the Calm River. The area of each river's drainage basin is given in<img src='file:\$$$\resources\2011 April 67F\imgs\223.png' width = '120'height = '34'/>.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\224.png' width = '410'height = '344'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The rainfall event produced 25 mm of rain. As rainwater drained into the 3 rivers, the discharges of the rivers increased. The maximum discharge measured immediately after a rainfall event is called a flood.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over the 12 days following the rainfall event, as the flood caused by the rainfall moved downstream, the discharge was continuously measured, in<img src='file:\$$$\resources\2011 April 67F\imgs\225.png' width = '74'height = '34'/>, at the 3 sites shown in Figure 1. The results are shown in Figure 2. (Note: No rainfall event occurred in the Calm River drainage basin during those 12 days.)</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The normalized discharge over the 12 days following the rainfall event was calculated for each of the 3 rivers. The normalized discharge values allowed the flood to be studied as if the 3 rivers had identical drainage basin areas of 1<img src='file:\$$$\resources\2011 April 67F\imgs\226.png' width = '46'height = '32'/>. Each normalized discharge value was calculated using the following equation:</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\227.png' width = '560'height = '73'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The value of the numerator, the river discharge, was obtained from Figure 2. The results are shown in Figure 3.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\228.png' width = '778'height = '398'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 April 67F\imgs\229.png' width = '742'height = '269'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from George Hornberger et al., Elements of physical Hydrology. ©1998 by the Johns Hopkins University Press.</div>
+
+<br>
+###################
+<div class = "quiz">19. According to Figure 2, the maximum discharge in the Jones River after the rainfall event was closest to which of the following?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\230.png' width = '117'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 April 67F\imgs\231.png' width = '134'height = '38'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\232.png' width = '134'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\233.png' width = '136'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">20. According to Study 1, the Jones River and Calm River discharges were closest to the same value at which of the following times after the rainfall event?
+<div class = "choice">F. 0.5 day</div>
+<div class = "choice">G. 2 days</div>
+<div class = "choice">H. 3.5 days</div>
+<div class = "choice">J. 5 days</div>
+</div>
+###################
+<div class = "quiz">21. The tributary (a smaller stream flowing into a larger stream) of the North River shown in Figure1 would most likely have a drainage basin area of:
+<div class = "choice">A. less than 1,710<img src='file:\$$$\resources\2011 April 67F\imgs\234.png' width = '46'height = '32'/>.</div>
+<div class = "choice">B. between 1,710 <img src='file:\$$$\resources\2011 April 67F\imgs\235.png' width = '46'height = '32'/> and 5,700<img src='file:\$$$\resources\2011 April 67F\imgs\236.png' width = '46'height = '32'/>.</div>
+<div class = "choice">C. between 5,700 <img src='file:\$$$\resources\2011 April 67F\imgs\237.png' width = '46'height = '32'/> and 28,400<img src='file:\$$$\resources\2011 April 67F\imgs\238.png' width = '46'height = '32'/>.</div>
+<div class = "choice">D. greater than 28,400<img src='file:\$$$\resources\2011 April 67F\imgs\239.png' width = '46'height = '32'/>.</div>
+</div>
+###################
+<div class = "quiz">22. A student predicted that the river with the greatest maximum discharge would also have the greatest maximum normalized discharge. Based on Figures 2 and 3, is the student's prediction correct?
+<div class = "choice">F. Yes, because the North River had both the greatest maximum discharge and the greatest maximum normalized discharge.</div>
+<div class = "choice">G. Yes, because the Calm River had both the greatest maximum discharge and the greatest maximum normalized discharge.</div>
+<div class = "choice">H. No, because the North River had the greatest maximum discharge but the Calm River had the greatest maximum normalized discharge.</div>
+<div class = "choice">J. No, because the Calm River had the greatest maximum discharge but the North River had the greatest maximum normalized discharge.</div>
+</div>
+###################
+<div class = "quiz">23. Based on Figures 1 and 2 and the description of Study 2, the normalized discharge of the Calm River 5 days after the rainfall event was most likely calculated using which of the following expressions?
+<div class = "choice">A.<img src='file:\$$$\resources\2011 April 67F\imgs\240.png' width = '263'height = '38'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 April 67F\imgs\241.png' width = '260'height = '38'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 April 67F\imgs\242.png' width = '262'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 April 67F\imgs\243.png' width = '262'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">24. Suppose that discharge in the Jones River had been measured at a site north of the area where the rainfall event occurred, instead of at the site indicated in Figure 1. How would the discharge data recorded after the rainfall event have differed from that shown in Figure 2?
+<div class = "choice">F. No flood would have been recorded in the data for the North River.</div>
+<div class = "choice">G. No flood would have been recorded in the data for the Jones River.</div>
+<div class = "choice">H. The flood recorded in the data for the North River would have been greater than<img src='file:\$$$\resources\2011 April 67F\imgs\244.png' width = '117'height = '34'/>.</div>
+<div class = "choice">J. The flood recorded in the data for the Jones River would have been greater than<img src='file:\$$$\resources\2011 April 67F\imgs\245.png' width = '134'height = '38'/>.</div>
+<br>
+</div>
+###################

@@ -1,58 +1,58 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When DNA is heated to its melting temperature (T<sub>m</sub>) it denatures (breaks apart) into 2 strands. When cooled, the strands can relink to form. Less stable DNA, indicated by a lower T<sub>m</sub> (see Figure l).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoZW4gRE5BIGlzIGhlYXRlZCB0byBpdHMgbWVsdGluZyB0ZW1wZXJhdHVyZSAoVDxzdWI+bTwvc3ViPikgaXQgZGVuYXR1cmVzIChicmVha3MgYXBhcnQpIGludG8gMiBzdHJhbmRzLiBXaGVuIGNvb2xlZCwgdGhlIHN0cmFuZHMgY2FuIHJlbGluayB0byBmb3JtLiBMZXNzIHN0YWJsZSBETkEsIGluZGljYXRlZCBieSBhIGxvd2VyIFQ8c3ViPm08L3N1Yj4gKHNlZSBGaWd1cmUgbCkuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\183.png' width = '534'height = '330'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE4My5wbmcnIHdpZHRoID0gJzUzNCdoZWlnaHQgPSAnMzMwJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how the absorbance of light by a solution of DNA molecules, each initially composed of 2 completely linked strands, varied as it was heated and then cooled. When the DNA began to denature, the absorbance increased sharply. When the DNA began to renature, the absorbance decreased sharply.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAyIHNob3dzIGhvdyB0aGUgYWJzb3JiYW5jZSBvZiBsaWdodCBieSBhIHNvbHV0aW9uIG9mIEROQSBtb2xlY3VsZXMsIGVhY2ggaW5pdGlhbGx5IGNvbXBvc2VkIG9mIDIgY29tcGxldGVseSBsaW5rZWQgc3RyYW5kcywgdmFyaWVkIGFzIGl0IHdhcyBoZWF0ZWQgYW5kIHRoZW4gY29vbGVkLiBXaGVuIHRoZSBETkEgYmVnYW4gdG8gZGVuYXR1cmUsIHRoZSBhYnNvcmJhbmNlIGluY3JlYXNlZCBzaGFycGx5LiBXaGVuIHRoZSBETkEgYmVnYW4gdG8gcmVuYXR1cmUsIHRoZSBhYnNvcmJhbmNlIGRlY3JlYXNlZCBzaGFycGx5LjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\184.png' width = '396'height = '408'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE4NC5wbmcnIHdpZHRoID0gJzM5NidoZWlnaHQgPSAnNDA4Jy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3 shows how Tm for heating varied for identical solutions of DNA previously exposed to UV light for different amounts of time.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSAzIHNob3dzIGhvdyBUbSBmb3IgaGVhdGluZyB2YXJpZWQgZm9yIGlkZW50aWNhbCBzb2x1dGlvbnMgb2YgRE5BIHByZXZpb3VzbHkgZXhwb3NlZCB0byBVViBsaWdodCBmb3IgZGlmZmVyZW50IGFtb3VudHMgb2YgdGltZS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\185.png' width = '327'height = '372'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE4NS5wbmcnIHdpZHRoID0gJzMyNydoZWlnaHQgPSAnMzcyJy8+PC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l-3 adapted from Charles M.. Lovett, Jr., Thomas N. Fitzgibbon, and Raymond Chang, "Effect of UV Irradiation on DNA as Studied by Its Thermal Denaturation." ©1989 by Division of Chemical Education, Inc., American Chemical Society.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgbC0zIGFkYXB0ZWQgZnJvbSBDaGFybGVzIE0uLiBMb3ZldHQsIEpyLiwgVGhvbWFzIE4uIEZpdHpnaWJib24sIGFuZCBSYXltb25kIENoYW5nLCAiRWZmZWN0IG9mIFVWIElycmFkaWF0aW9uIG9uIEROQSBhcyBTdHVkaWVkIGJ5IEl0cyBUaGVybWFsIERlbmF0dXJhdGlvbi4iIMKpMTk4OSBieSBEaXZpc2lvbiBvZiBDaGVtaWNhbCBFZHVjYXRpb24sIEluYy4sIEFtZXJpY2FuIENoZW1pY2FsIFNvY2lldHkuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">23. According to Figure 2, as the heated DNA solution was cooled from 90℃ to 30℃, the absorbance:
-<div class = "choice">A. increased sharply, then leveled off, then decreased sharply.</div>
-<div class = "choice">B. decreased sharply, then. leveled off, then increased sharply.</div>
-<div class = "choice">C. stayed level, then increased sharply, then began to level off.</div>
-<div class = "choice">D. stayed level, then decreased sharply, then began to level off.</div>
-</div>
-###################
-<div class = "quiz">24. The following DNA molecules each consist of 2 identical strands. Based on Figure l, a solution of which DNA would most likely have the lowest melting temperature?
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\186.png' width = '160'height = '33'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2005 Dec 63C\imgs\187.png' width = '212'height = '33'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\188.png' width = '365'height = '52'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\189.png' width = '262'height = '33'/></div>
-</div>
-###################
-<div class = "quiz">25. A chemist claimed that for DNA molecules composed of 2 completely linked strands, the longer the DNA is exposed to UV light, the greater the number of links that are broken. Does Figure 3 support her claim?
-<div class = "choice">A. No; as exposure time increased, T<sub>m</sub> only increased.</div>
-<div class = "choice">B. No; as exposure time increased, T<sub>m</sub> only decreased.</div>
-<div class = "choice">C. Yes; as exposure time increased, T<sub>m</sub> only increased.</div>
-<div class = "choice">D. Yes; as exposure time increased, T<sub>m</sub> only decreased.</div>
-</div>
-###################
-<div class = "quiz">26. A heating/cooling curve was determined for a new solution containing only completely linked, double-stranded DNA molecules. The Tm for heating this solution was found to be l0℃ tower than the Tm for heating the solution represented in Figure 2. Which of the following best shows the heating/cooling curve of the new solution?
-<img src='file:\$$$\resources\2005 Dec 63C\imgs\190.png' width = '100'height = '60'/>
-<div class = "choice">F.<img src='file:\$$$\resources\2005 Dec 63C\imgs\191.png' width = '137'height = '105'/></div>
-<div class = "choice">H.<img src='file:\$$$\resources\2005 Dec 63C\imgs\192.png' width = '125'height = '105'/></div>
-<div class = "choice">G.<img src='file:\$$$\resources\2005 Dec 63C\imgs\193.png' width = '130'height = '105'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 Dec 63C\imgs\194.png' width = '109'height = '105'/></div>
-</div>
-###################
-<div class = "quiz">27. Based on Figure 1, how did the DNA molecules in the solution that was heated and cooled to produce Figure 2 compare with the DNA molecules in the solution prior to heating? Prior to  heating, each DNA molecule was
-<div class = "choice">A. 2 completely linked strands only; after heating and cooling, each DNA molecule was composed of more than 2 linked strands.</div>
-<div class = "choice">B. 2 completely linked strands only; after heating and cooling, only single strands of DNA remained.</div>
-<div class = "choice">C. more than 2 linked strands; after heating and cooling, each DNA molecule was composed of 2 completely linked strands only.</div>
-<div class = "choice">D. more than 2 linked strands; after heating and cooling, only single strands of DNA remained.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4gQWNjb3JkaW5nIHRvIEZpZ3VyZSAyLCBhcyB0aGUgaGVhdGVkIEROQSBzb2x1dGlvbiB3YXMgY29vbGVkIGZyb20gOTDihD8gdG8gMzDihD8sIHRoZSBhYnNvcmJhbmNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGluY3JlYXNlZCBzaGFycGx5LCB0aGVuIGxldmVsZWQgb2ZmLCB0aGVuIGRlY3JlYXNlZCBzaGFycGx5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGRlY3JlYXNlZCBzaGFycGx5LCB0aGVuLiBsZXZlbGVkIG9mZiwgdGhlbiBpbmNyZWFzZWQgc2hhcnBseS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHN0YXllZCBsZXZlbCwgdGhlbiBpbmNyZWFzZWQgc2hhcnBseSwgdGhlbiBiZWdhbiB0byBsZXZlbCBvZmYuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHN0YXllZCBsZXZlbCwgdGhlbiBkZWNyZWFzZWQgc2hhcnBseSwgdGhlbiBiZWdhbiB0byBsZXZlbCBvZmYuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4gVGhlIGZvbGxvd2luZyBETkEgbW9sZWN1bGVzIGVhY2ggY29uc2lzdCBvZiAyIGlkZW50aWNhbCBzdHJhbmRzLiBCYXNlZCBvbiBGaWd1cmUgbCwgYSBzb2x1dGlvbiBvZiB3aGljaCBETkEgd291bGQgbW9zdCBsaWtlbHkgaGF2ZSB0aGUgbG93ZXN0IG1lbHRpbmcgdGVtcGVyYXR1cmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTg2LnBuZycgd2lkdGggPSAnMTYwJ2hlaWdodCA9ICczMycvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE4Ny5wbmcnIHdpZHRoID0gJzIxMidoZWlnaHQgPSAnMzMnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTg4LnBuZycgd2lkdGggPSAnMzY1J2hlaWdodCA9ICc1MicvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE4OS5wbmcnIHdpZHRoID0gJzI2MidoZWlnaHQgPSAnMzMnLz48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gQSBjaGVtaXN0IGNsYWltZWQgdGhhdCBmb3IgRE5BIG1vbGVjdWxlcyBjb21wb3NlZCBvZiAyIGNvbXBsZXRlbHkgbGlua2VkIHN0cmFuZHMsIHRoZSBsb25nZXIgdGhlIEROQSBpcyBleHBvc2VkIHRvIFVWIGxpZ2h0LCB0aGUgZ3JlYXRlciB0aGUgbnVtYmVyIG9mIGxpbmtzIHRoYXQgYXJlIGJyb2tlbi4gRG9lcyBGaWd1cmUgMyBzdXBwb3J0IGhlciBjbGFpbT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5vOyBhcyBleHBvc3VyZSB0aW1lIGluY3JlYXNlZCwgVDxzdWI+bTwvc3ViPiBvbmx5IGluY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE5vOyBhcyBleHBvc3VyZSB0aW1lIGluY3JlYXNlZCwgVDxzdWI+bTwvc3ViPiBvbmx5IGRlY3JlYXNlZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFllczsgYXMgZXhwb3N1cmUgdGltZSBpbmNyZWFzZWQsIFQ8c3ViPm08L3N1Yj4gb25seSBpbmNyZWFzZWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFllczsgYXMgZXhwb3N1cmUgdGltZSBpbmNyZWFzZWQsIFQ8c3ViPm08L3N1Yj4gb25seSBkZWNyZWFzZWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQSBoZWF0aW5nL2Nvb2xpbmcgY3VydmUgd2FzIGRldGVybWluZWQgZm9yIGEgbmV3IHNvbHV0aW9uIGNvbnRhaW5pbmcgb25seSBjb21wbGV0ZWx5IGxpbmtlZCwgZG91YmxlLXN0cmFuZGVkIEROQSBtb2xlY3VsZXMuIFRoZSBUbSBmb3IgaGVhdGluZyB0aGlzIHNvbHV0aW9uIHdhcyBmb3VuZCB0byBiZSBsMOKEPyB0b3dlciB0aGFuIHRoZSBUbSBmb3IgaGVhdGluZyB0aGUgc29sdXRpb24gcmVwcmVzZW50ZWQgaW4gRmlndXJlIDIuIFdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgYmVzdCBzaG93cyB0aGUgaGVhdGluZy9jb29saW5nIGN1cnZlIG9mIHRoZSBuZXcgc29sdXRpb24/
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTkwLnBuZycgd2lkdGggPSAnMTAwJ2hlaWdodCA9ICc2MCcvPg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTkxLnBuZycgd2lkdGggPSAnMTM3J2hlaWdodCA9ICcxMDUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTkyLnBuZycgd2lkdGggPSAnMTI1J2hlaWdodCA9ICcxMDUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuPGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBEZWMgNjNDXGltZ3NcMTkzLnBuZycgd2lkdGggPSAnMTMwJ2hlaWdodCA9ICcxMDUnLz48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgRGVjIDYzQ1xpbWdzXDE5NC5wbmcnIHdpZHRoID0gJzEwOSdoZWlnaHQgPSAnMTA1Jy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gQmFzZWQgb24gRmlndXJlIDEsIGhvdyBkaWQgdGhlIEROQSBtb2xlY3VsZXMgaW4gdGhlIHNvbHV0aW9uIHRoYXQgd2FzIGhlYXRlZCBhbmQgY29vbGVkIHRvIHByb2R1Y2UgRmlndXJlIDIgY29tcGFyZSB3aXRoIHRoZSBETkEgbW9sZWN1bGVzIGluIHRoZSBzb2x1dGlvbiBwcmlvciB0byBoZWF0aW5nPyBQcmlvciB0byAgaGVhdGluZywgZWFjaCBETkEgbW9sZWN1bGUgd2Fz
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDIgY29tcGxldGVseSBsaW5rZWQgc3RyYW5kcyBvbmx5OyBhZnRlciBoZWF0aW5nIGFuZCBjb29saW5nLCBlYWNoIEROQSBtb2xlY3VsZSB3YXMgY29tcG9zZWQgb2YgbW9yZSB0aGFuIDIgbGlua2VkIHN0cmFuZHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDIgY29tcGxldGVseSBsaW5rZWQgc3RyYW5kcyBvbmx5OyBhZnRlciBoZWF0aW5nIGFuZCBjb29saW5nLCBvbmx5IHNpbmdsZSBzdHJhbmRzIG9mIEROQSByZW1haW5lZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1vcmUgdGhhbiAyIGxpbmtlZCBzdHJhbmRzOyBhZnRlciBoZWF0aW5nIGFuZCBjb29saW5nLCBlYWNoIEROQSBtb2xlY3VsZSB3YXMgY29tcG9zZWQgb2YgMiBjb21wbGV0ZWx5IGxpbmtlZCBzdHJhbmRzIG9ubHkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1vcmUgdGhhbiAyIGxpbmtlZCBzdHJhbmRzOyBhZnRlciBoZWF0aW5nIGFuZCBjb29saW5nLCBvbmx5IHNpbmdsZSBzdHJhbmRzIG9mIEROQSByZW1haW5lZC48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

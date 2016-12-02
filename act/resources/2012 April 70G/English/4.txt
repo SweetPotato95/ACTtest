@@ -1,127 +1,127 @@
-﻿
-<h1>Wild West, White Linens</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the late 1800s, <font id=46>people who traveled</font> west of the Mississippi River by train meant heading into a region still rough around the edges: The terrain was rugged. The weather was harsh. <font id=47>Rigid were the train's seats. </font> Food was scarce.</div>
+77s/
+PGgxPldpbGQgV2VzdCwgV2hpdGUgTGluZW5zPC9oMT4=
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHRoZSBsYXRlIDE4MDBzLCA8Zm9udCBpZD00Nj5wZW9wbGUgd2hvIHRyYXZlbGVkPC9mb250PiB3ZXN0IG9mIHRoZSBNaXNzaXNzaXBwaSBSaXZlciBieSB0cmFpbiBtZWFudCBoZWFkaW5nIGludG8gYSByZWdpb24gc3RpbGwgcm91Z2ggYXJvdW5kIHRoZSBlZGdlczogVGhlIHRlcnJhaW4gd2FzIHJ1Z2dlZC4gVGhlIHdlYXRoZXIgd2FzIGhhcnNoLiA8Zm9udCBpZD00Nz5SaWdpZCB3ZXJlIHRoZSB0cmFpbidzIHNlYXRzLiA8L2ZvbnQ+IEZvb2Qgd2FzIHNjYXJjZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=48>Then suddenly one day, </font> "eating houses" appeared anywhere trains took a twenty-minute stop to replenish <font id=49>an engines' water supply. </font> These eateries were often <font id=50>a little more then</font> ramshackle sheds or hastily erected tents. The use of campfire cooking and a lack of refrigeration meant passengers were likely to be served a concoction of spoiled produce and half-cooked meat impersonating stew.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTQ4PlRoZW4gc3VkZGVubHkgb25lIGRheSwgPC9mb250PiAiZWF0aW5nIGhvdXNlcyIgYXBwZWFyZWQgYW55d2hlcmUgdHJhaW5zIHRvb2sgYSB0d2VudHktbWludXRlIHN0b3AgdG8gcmVwbGVuaXNoIDxmb250IGlkPTQ5PmFuIGVuZ2luZXMnIHdhdGVyIHN1cHBseS4gPC9mb250PiBUaGVzZSBlYXRlcmllcyB3ZXJlIG9mdGVuIDxmb250IGlkPTUwPmEgbGl0dGxlIG1vcmUgdGhlbjwvZm9udD4gcmFtc2hhY2tsZSBzaGVkcyBvciBoYXN0aWx5IGVyZWN0ZWQgdGVudHMuIFRoZSB1c2Ugb2YgY2FtcGZpcmUgY29va2luZyBhbmQgYSBsYWNrIG9mIHJlZnJpZ2VyYXRpb24gbWVhbnQgcGFzc2VuZ2VycyB3ZXJlIGxpa2VseSB0byBiZSBzZXJ2ZWQgYSBjb25jb2N0aW9uIG9mIHNwb2lsZWQgcHJvZHVjZSBhbmQgaGFsZi1jb29rZWQgbWVhdCBpbXBlcnNvbmF0aW5nIHN0ZXcuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=51>In 1901, Fred Harvey's sons took over the company. </font> Out of Harvey's talent and ambition <font id=52>to grow</font> the Harvey. House chain of restaurants. Harvey struck a deal with a major railroad line, the Atchison, Topeka and Santa Fe Railway. In return for Santa Fe trains delivering fresh produce, meat, and dairy products to his kitchens daily, Harvey promised not to open any restaurants along competitors' routes. <font id=53>Which resulted in that only</font> the Santa Fe railroad would offer passengers hot, savory meals served in elegant style.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTUxPkluIDE5MDEsIEZyZWQgSGFydmV5J3Mgc29ucyB0b29rIG92ZXIgdGhlIGNvbXBhbnkuIDwvZm9udD4gT3V0IG9mIEhhcnZleSdzIHRhbGVudCBhbmQgYW1iaXRpb24gPGZvbnQgaWQ9NTI+dG8gZ3JvdzwvZm9udD4gdGhlIEhhcnZleS4gSG91c2UgY2hhaW4gb2YgcmVzdGF1cmFudHMuIEhhcnZleSBzdHJ1Y2sgYSBkZWFsIHdpdGggYSBtYWpvciByYWlscm9hZCBsaW5lLCB0aGUgQXRjaGlzb24sIFRvcGVrYSBhbmQgU2FudGEgRmUgUmFpbHdheS4gSW4gcmV0dXJuIGZvciBTYW50YSBGZSB0cmFpbnMgZGVsaXZlcmluZyBmcmVzaCBwcm9kdWNlLCBtZWF0LCBhbmQgZGFpcnkgcHJvZHVjdHMgdG8gaGlzIGtpdGNoZW5zIGRhaWx5LCBIYXJ2ZXkgcHJvbWlzZWQgbm90IHRvIG9wZW4gYW55IHJlc3RhdXJhbnRzIGFsb25nIGNvbXBldGl0b3JzJyByb3V0ZXMuIDxmb250IGlkPTUzPldoaWNoIHJlc3VsdGVkIGluIHRoYXQgb25seTwvZm9udD4gdGhlIFNhbnRhIEZlIHJhaWxyb2FkIHdvdWxkIG9mZmVyIHBhc3NlbmdlcnMgaG90LCBzYXZvcnkgbWVhbHMgc2VydmVkIGluIGVsZWdhbnQgc3R5bGUuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=59> [1] Instead of food-stained planks, Harvey House tables were draped in white linen. [2] Tin plates were replaced by fine china and silverware. [3] A cadre of young <font id=54>women-dubbed "the Harvey Girls" </font> served guests quickly and cordially. [4] Harvey believed the term "waitress" implied <font id=55>servitude not</font> his staff would offer gracious hospitality. [5] And incredible food. [6] Rather than suffering days-old stew, customers at Harvey House were served meals such as <font id=56>meat, vegetables, and dessert, </font> all for about seventy-five cents. [7] In fact, the first known use of the expression "blue plate special," indicating <font id=57>a bargain-cost, </font> complete, inexpensive meal <font id=58> (served on an actual blue plate), </font> was on an 1892 Harvey House menu. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTU5PiBbMV0gSW5zdGVhZCBvZiBmb29kLXN0YWluZWQgcGxhbmtzLCBIYXJ2ZXkgSG91c2UgdGFibGVzIHdlcmUgZHJhcGVkIGluIHdoaXRlIGxpbmVuLiBbMl0gVGluIHBsYXRlcyB3ZXJlIHJlcGxhY2VkIGJ5IGZpbmUgY2hpbmEgYW5kIHNpbHZlcndhcmUuIFszXSBBIGNhZHJlIG9mIHlvdW5nIDxmb250IGlkPTU0PndvbWVuLWR1YmJlZCAidGhlIEhhcnZleSBHaXJscyIgPC9mb250PiBzZXJ2ZWQgZ3Vlc3RzIHF1aWNrbHkgYW5kIGNvcmRpYWxseS4gWzRdIEhhcnZleSBiZWxpZXZlZCB0aGUgdGVybSAid2FpdHJlc3MiIGltcGxpZWQgPGZvbnQgaWQ9NTU+c2Vydml0dWRlIG5vdDwvZm9udD4gaGlzIHN0YWZmIHdvdWxkIG9mZmVyIGdyYWNpb3VzIGhvc3BpdGFsaXR5LiBbNV0gQW5kIGluY3JlZGlibGUgZm9vZC4gWzZdIFJhdGhlciB0aGFuIHN1ZmZlcmluZyBkYXlzLW9sZCBzdGV3LCBjdXN0b21lcnMgYXQgSGFydmV5IEhvdXNlIHdlcmUgc2VydmVkIG1lYWxzIHN1Y2ggYXMgPGZvbnQgaWQ9NTY+bWVhdCwgdmVnZXRhYmxlcywgYW5kIGRlc3NlcnQsIDwvZm9udD4gYWxsIGZvciBhYm91dCBzZXZlbnR5LWZpdmUgY2VudHMuIFs3XSBJbiBmYWN0LCB0aGUgZmlyc3Qga25vd24gdXNlIG9mIHRoZSBleHByZXNzaW9uICJibHVlIHBsYXRlIHNwZWNpYWwsIiBpbmRpY2F0aW5nIDxmb250IGlkPTU3PmEgYmFyZ2Fpbi1jb3N0LCA8L2ZvbnQ+IGNvbXBsZXRlLCBpbmV4cGVuc2l2ZSBtZWFsIDxmb250IGlkPTU4PiAoc2VydmVkIG9uIGFuIGFjdHVhbCBibHVlIHBsYXRlKSwgPC9mb250PiB3YXMgb24gYW4gMTg5MiBIYXJ2ZXkgSG91c2UgbWVudS4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Today, only a few Harvey Houses remain. Still, whenever a roadside diner advertises a blue plate special-irrespective of the actual color of the plate-<font id=60>its</font> invoking Harvey's dining philosophy: good food at a reasonable price.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvZGF5LCBvbmx5IGEgZmV3IEhhcnZleSBIb3VzZXMgcmVtYWluLiBTdGlsbCwgd2hlbmV2ZXIgYSByb2Fkc2lkZSBkaW5lciBhZHZlcnRpc2VzIGEgYmx1ZSBwbGF0ZSBzcGVjaWFsLWlycmVzcGVjdGl2ZSBvZiB0aGUgYWN0dWFsIGNvbG9yIG9mIHRoZSBwbGF0ZS08Zm9udCBpZD02MD5pdHM8L2ZvbnQ+IGludm9raW5nIEhhcnZleSdzIGRpbmluZyBwaGlsb3NvcGh5OiBnb29kIGZvb2QgYXQgYSByZWFzb25hYmxlIHByaWNlLjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">46.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. when people traveled</div>
-<div class = "choice">H. by traveling</div>
-<div class = "choice">J. traveling</div>
-</div>
-###################
-<div class = "quiz">47. Which choice most closely maintains the sentence pattern the writer is attempting to establish in the specific examples following the colon?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Train seats were well known for being rigid.</div>
-<div class = "choice">C. Rigid train seats were the norm.</div>
-<div class = "choice">D. Train seats were rigid.</div>
-</div>
-###################
-<div class = "quiz">48. Which choice most effectively gives one possible explanation for the fact that "eating houses" began to appear wherever trains stopped?
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. In spite of the discomfort,</div>
-<div class = "choice">H. As rail travel increased,</div>
-<div class = "choice">J. Within a short time,</div>
-</div>
-###################
-<div class = "quiz">49.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. a water supply for the engines'</div>
-<div class = "choice">C. an engines supply of water.</div>
-<div class = "choice">D. an engine's water supply.</div>
-</div>
-###################
-<div class = "quiz">50.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. much more then</div>
-<div class = "choice">H. little more than</div>
-<div class = "choice">J. least than</div>
-</div>
-###################
-<div class = "quiz">51. Given that all the choices are true, which one offers the most effective transition from the preceding two paragraphs to the rest of the essay?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Then entrepreneur Fred Harvey stepped onto the scene.</div>
-<div class = "choice">C. There were forty-seven Harvey House restaurants open in 1902 due to Fred Harvey.</div>
-<div class = "choice">D. In 1835, Fred Harvey was born in London.</div>
-</div>
-###################
-<div class = "quiz">52.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. could have grown</div>
-<div class = "choice">H. would grow</div>
-<div class = "choice">J. growing</div>
-</div>
-###################
-<div class = "quiz">53.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. Resulting in only</div>
-<div class = "choice">C. To result only</div>
-<div class = "choice">D. Only</div>
-</div>
-###################
-<div class = "quiz">54.
-<div class = "choice">F. NO CHANG</div>
-<div class = "choice">G. women－dubbed "the Harvey Girls"－</div>
-<div class = "choice">H. women dubbed－"the Harvey Girls"－</div>
-<div class = "choice">J. women dubbed "the Harvey Girls"－</div>
-</div>
-###################
-<div class = "quiz">55.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. servitude;</div>
-<div class = "choice">C. servitude,</div>
-<div class = "choice">D. servitude</div>
-</div>
-###################
-<div class = "quiz">56. The writer is considering revising the underlined portion to the following:
-roast pork with applesauce, asparagus, mashed potatoes, and peach pie,
-Should the writer make the revision?
-<div class = "choice">F. Yes, because it makes the comparison in the sentence more vivid.</div>
-<div class = "choice">G. Yes, because it helps explain why the meal cost so little.</div>
-<div class = "choice">H. No, because it contains details that are only loosely related to the paragraph's topic.</div>
-<div class = "choice">J. No, because it makes the sentence redundant and wordy.</div>
-</div>
-###################
-<div class = "quiz">57.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. a low-priced,</div>
-<div class = "choice">C. an affordable,</div>
-<div class = "choice">D. a</div>
-</div>
-###################
-<div class = "quiz">58. When 'revising the essay, the writer considers whether the parenthetical phrase should be deleted. Which of the following sentences best explains the function of the underlined portion?
-<div class = "choice">F. It provides a comparison between the Harvey House menu in 1892 and the food being served at Harvey House restaurants today.</div>
-<div class = "choice">G. It offers a partial explanation for an expression used earlier in the sentence.</div>
-<div class = "choice">H. It supplies a link that connects the main topic of this paragraph back to the essay's introduction.</div>
-<div class = "choice">J. It helps to establish the approximate time period in which events in the essay take place.</div>
-</div>
-###################
-<div class = "quiz">59. The writer wants to divide this paragraph into two in order to separate the description' of the Harvey House decor and service from the description of the type of meals offered. The best place to begin the new paragraph would be at the beginning of Sentence:
-<div class = "choice">A. 3.</div>
-<div class = "choice">B. 4.</div>
-<div class = "choice">C. 6.</div>
-<div class = "choice">D. 7.</div>
-</div>
-###################
-<div class = "quiz">60.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. there</div>
-<div class = "choice">H. their</div>
-<div class = "choice">J. it's</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ni4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdoZW4gcGVvcGxlIHRyYXZlbGVkPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJ5IHRyYXZlbGluZzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRyYXZlbGluZzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40Ny4gV2hpY2ggY2hvaWNlIG1vc3QgY2xvc2VseSBtYWludGFpbnMgdGhlIHNlbnRlbmNlIHBhdHRlcm4gdGhlIHdyaXRlciBpcyBhdHRlbXB0aW5nIHRvIGVzdGFibGlzaCBpbiB0aGUgc3BlY2lmaWMgZXhhbXBsZXMgZm9sbG93aW5nIHRoZSBjb2xvbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRyYWluIHNlYXRzIHdlcmUgd2VsbCBrbm93biBmb3IgYmVpbmcgcmlnaWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFJpZ2lkIHRyYWluIHNlYXRzIHdlcmUgdGhlIG5vcm0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRyYWluIHNlYXRzIHdlcmUgcmlnaWQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OC4gV2hpY2ggY2hvaWNlIG1vc3QgZWZmZWN0aXZlbHkgZ2l2ZXMgb25lIHBvc3NpYmxlIGV4cGxhbmF0aW9uIGZvciB0aGUgZmFjdCB0aGF0ICJlYXRpbmcgaG91c2VzIiBiZWdhbiB0byBhcHBlYXIgd2hlcmV2ZXIgdHJhaW5zIHN0b3BwZWQ/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEluIHNwaXRlIG9mIHRoZSBkaXNjb21mb3J0LDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEFzIHJhaWwgdHJhdmVsIGluY3JlYXNlZCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdpdGhpbiBhIHNob3J0IHRpbWUsPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40OS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgd2F0ZXIgc3VwcGx5IGZvciB0aGUgZW5naW5lcyc8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGVuZ2luZXMgc3VwcGx5IG9mIHdhdGVyLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFuIGVuZ2luZSdzIHdhdGVyIHN1cHBseS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIG11Y2ggbW9yZSB0aGVuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGxpdHRsZSBtb3JlIHRoYW48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGxlYXN0IHRoYW48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41MS4gR2l2ZW4gdGhhdCBhbGwgdGhlIGNob2ljZXMgYXJlIHRydWUsIHdoaWNoIG9uZSBvZmZlcnMgdGhlIG1vc3QgZWZmZWN0aXZlIHRyYW5zaXRpb24gZnJvbSB0aGUgcHJlY2VkaW5nIHR3byBwYXJhZ3JhcGhzIHRvIHRoZSByZXN0IG9mIHRoZSBlc3NheT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZW4gZW50cmVwcmVuZXVyIEZyZWQgSGFydmV5IHN0ZXBwZWQgb250byB0aGUgc2NlbmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZXJlIHdlcmUgZm9ydHktc2V2ZW4gSGFydmV5IEhvdXNlIHJlc3RhdXJhbnRzIG9wZW4gaW4gMTkwMiBkdWUgdG8gRnJlZCBIYXJ2ZXkuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEluIDE4MzUsIEZyZWQgSGFydmV5IHdhcyBib3JuIGluIExvbmRvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Mi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGNvdWxkIGhhdmUgZ3Jvd248L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvdWxkIGdyb3c8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyb3dpbmc8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41My4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFJlc3VsdGluZyBpbiBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRvIHJlc3VsdCBvbmx5PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE9ubHk8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdvbWVu77yNZHViYmVkICJ0aGUgSGFydmV5IEdpcmxzIu+8PzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHdvbWVuIGR1YmJlZO+8PyJ0aGUgSGFydmV5IEdpcmxzIu+8PzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHdvbWVuIGR1YmJlZCAidGhlIEhhcnZleSBHaXJscyLvvD88L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41NS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNlcnZpdHVkZTs8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNlcnZpdHVkZSw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNlcnZpdHVkZTwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ni4gVGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyByZXZpc2luZyB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHRvIHRoZSBmb2xsb3dpbmc6
+cm9hc3QgcG9yayB3aXRoIGFwcGxlc2F1Y2UsIGFzcGFyYWd1cywgbWFzaGVkIHBvdGF0b2VzLCBhbmQgcGVhY2ggcGllLA==
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGUgcmV2aXNpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFllcywgYmVjYXVzZSBpdCBtYWtlcyB0aGUgY29tcGFyaXNvbiBpbiB0aGUgc2VudGVuY2UgbW9yZSB2aXZpZC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFllcywgYmVjYXVzZSBpdCBoZWxwcyBleHBsYWluIHdoeSB0aGUgbWVhbCBjb3N0IHNvIGxpdHRsZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE5vLCBiZWNhdXNlIGl0IGNvbnRhaW5zIGRldGFpbHMgdGhhdCBhcmUgb25seSBsb29zZWx5IHJlbGF0ZWQgdG8gdGhlIHBhcmFncmFwaCdzIHRvcGljLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE5vLCBiZWNhdXNlIGl0IG1ha2VzIHRoZSBzZW50ZW5jZSByZWR1bmRhbnQgYW5kIHdvcmR5LjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41Ny4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGEgbG93LXByaWNlZCw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFuIGFmZm9yZGFibGUsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGE8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OC4gV2hlbiAncmV2aXNpbmcgdGhlIGVzc2F5LCB0aGUgd3JpdGVyIGNvbnNpZGVycyB3aGV0aGVyIHRoZSBwYXJlbnRoZXRpY2FsIHBocmFzZSBzaG91bGQgYmUgZGVsZXRlZC4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzZW50ZW5jZXMgYmVzdCBleHBsYWlucyB0aGUgZnVuY3Rpb24gb2YgdGhlIHVuZGVybGluZWQgcG9ydGlvbj8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEl0IHByb3ZpZGVzIGEgY29tcGFyaXNvbiBiZXR3ZWVuIHRoZSBIYXJ2ZXkgSG91c2UgbWVudSBpbiAxODkyIGFuZCB0aGUgZm9vZCBiZWluZyBzZXJ2ZWQgYXQgSGFydmV5IEhvdXNlIHJlc3RhdXJhbnRzIHRvZGF5LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEl0IG9mZmVycyBhIHBhcnRpYWwgZXhwbGFuYXRpb24gZm9yIGFuIGV4cHJlc3Npb24gdXNlZCBlYXJsaWVyIGluIHRoZSBzZW50ZW5jZS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEl0IHN1cHBsaWVzIGEgbGluayB0aGF0IGNvbm5lY3RzIHRoZSBtYWluIHRvcGljIG9mIHRoaXMgcGFyYWdyYXBoIGJhY2sgdG8gdGhlIGVzc2F5J3MgaW50cm9kdWN0aW9uLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEl0IGhlbHBzIHRvIGVzdGFibGlzaCB0aGUgYXBwcm94aW1hdGUgdGltZSBwZXJpb2QgaW4gd2hpY2ggZXZlbnRzIGluIHRoZSBlc3NheSB0YWtlIHBsYWNlLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41OS4gVGhlIHdyaXRlciB3YW50cyB0byBkaXZpZGUgdGhpcyBwYXJhZ3JhcGggaW50byB0d28gaW4gb3JkZXIgdG8gc2VwYXJhdGUgdGhlIGRlc2NyaXB0aW9uJyBvZiB0aGUgSGFydmV5IEhvdXNlIGRlY29yIGFuZCBzZXJ2aWNlIGZyb20gdGhlIGRlc2NyaXB0aW9uIG9mIHRoZSB0eXBlIG9mIG1lYWxzIG9mZmVyZWQuIFRoZSBiZXN0IHBsYWNlIHRvIGJlZ2luIHRoZSBuZXcgcGFyYWdyYXBoIHdvdWxkIGJlIGF0IHRoZSBiZWdpbm5pbmcgb2YgU2VudGVuY2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDYuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDcuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42MC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZXJlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZWlyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGl0J3M8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,0 +1,12 @@
+﻿<h1>Bad Laws</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Laws sometimes are harmful and unfair, so should people break the law？</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perpective1:</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">People should follow laws because doing so maintains order and avoids chaos.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective2:</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">People should break the law in order to make it more fair to people.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective3:</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Breaking laws will bring lots of personal cost. There are more productive ways to improve the law. It is better to change laws through protesting and dissemination.</div>

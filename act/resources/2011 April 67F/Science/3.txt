@@ -1,71 +1,71 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As human life expectancy increases, people are becoming more familiar with the complex signs of aging; however, scientists still do not completely understand what causes aging at the molecular level.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIGh1bWFuIGxpZmUgZXhwZWN0YW5jeSBpbmNyZWFzZXMsIHBlb3BsZSBhcmUgYmVjb21pbmcgbW9yZSBmYW1pbGlhciB3aXRoIHRoZSBjb21wbGV4IHNpZ25zIG9mIGFnaW5nOyBob3dldmVyLCBzY2llbnRpc3RzIHN0aWxsIGRvIG5vdCBjb21wbGV0ZWx5IHVuZGVyc3RhbmQgd2hhdCBjYXVzZXMgYWdpbmcgYXQgdGhlIG1vbGVjdWxhciBsZXZlbC48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three scientists propose models to explain the human aging process.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRocmVlIHNjaWVudGlzdHMgcHJvcG9zZSBtb2RlbHMgdG8gZXhwbGFpbiB0aGUgaHVtYW4gYWdpbmcgcHJvY2Vzcy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAxPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aging is caused by the shortening of telomeres, specialized DNA sequences at the ends of chromosomes. Telomeres play an important role in protecting and replicating chromosome ends. Each time a cell replicates its DNA and divides, its telomeres become shorter. Eventually, the telomeres become too short to perform their necessary roles, and the cell is no longer able to divide, ultimately causing defects in cell structure and function that result in aging.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFnaW5nIGlzIGNhdXNlZCBieSB0aGUgc2hvcnRlbmluZyBvZiB0ZWxvbWVyZXMsIHNwZR9jaWFsaXplZCBETkEgc2VxdWVuY2VzIGF0IHRoZSBlbmRzIG9mIGNocm9tb3NvbWVzLiBUZWxvbWVyZXMgcGxheSBhbiBpbXBvcnRhbnQgcm9sZSBpbiBwcm90ZWN0aW5nIGFuZCByZXBsaR9jYXRpbmcgY2hyb21vc29tZSBlbmRzLiBFYWNoIHRpbWUgYSBjZWxsIHJlcGxpY2F0ZXMgaXRzIEROQSBhbmQgZGl2aWRlcywgaXRzIHRlbG9tZXJlcyBiZWNvbWUgc2hvcnRlci4gRXZlbnR1H2FsbHksIHRoZSB0ZWxvbWVyZXMgYmVjb21lIHRvbyBzaG9ydCB0byBwZXJmb3JtIHRoZWlyIG5lY2VzH3Nhcnkgcm9sZXMsIGFuZCB0aGUgY2VsbCBpcyBubyBsb25nZXIgYWJsZSB0byBkaXZpZGUsIHVsdGltYXRlbHkgY2F1c2luZyBkZWZlY3RzIGluIGNlbGwgc3RydWN0dXJlIGFuZCBmdW5jdGlvbiB0aGF0IHJlc3VsdCBpbiBhZ2luZy48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdCAyPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Aging is caused by random DNA damage that accumulates over the lifetime of somatic (nonreproductive) cells. As humans age, the DNA in their somatic cells accumulates damage that is not repaired. This results in mutations that cause defects in proteins and in gene expression, leading to aging. Most DNA damage is caused by free oxygen radicals (oxygen species containing oxygen atoms with unpaired electrons) formed during metabolic processes. Thus, the accumulation of DNA damage can be slowed by decreasing the rate of metabolism. Although telomeres do become shorter each time a cell divides, this occurs too slowly to affect the aging process.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFnaW5nIGlzIGNhdXNlZCBieSByYW5kb20gRE5BIGRhbWFnZSB0aGF0IGFjY3UfbXVsYXRlcyBvdmVyIHRoZSBsaWZldGltZSBvZiBzb21hdGljIChub25yZXByb2R1Y3RpdmUpIGNlbGxzLiBBcyBodW1hbnMgYWdlLCB0aGUgRE5BIGluIHRoZWlyIHNvbWF0aWMgY2VsbHMgYWNjdR9tdWxhdGVzIGRhbWFnZSB0aGF0IGlzIG5vdCByZXBhaXJlZC4gVGhpcyByZXN1bHRzIGluIG11dGEfdGlvbnMgdGhhdCBjYXVzZSBkZWZlY3RzIGluIHByb3RlaW5zIGFuZCBpbiBnZW5lIGV4cHJlc3Npb24sIGxlYWRpbmcgdG8gYWdpbmcuIE1vc3QgRE5BIGRhbWFnZSBpcyBjYXVzZWQgYnkgZnJlZSBveHlnZW4gcmFkaWNhbHMgKG94eWdlbiBzcGVjaWVzIGNvbnRhaW5pbmcgb3h5Z2VuIGF0b21zIHdpdGggdW5wYWlyZWQgZWxlY3Ryb25zKSBmb3JtZWQgZHVyaW5nIG1ldGFib2xpYyBwcm9jZXNzZXMuIFRodXMsIHRoZSBhY2N1bXVsYXRpb24gb2YgRE5BIGRhbWFnZSBjYW4gYmUgc2xvd2VkIGJ5IGRlY3JlYXNpbmcgdGhlIHJhdGUgb2YgbWV0YWJvbGlzbS4gQWx0aG91Z2ggdGVsb21lcmVzIGRvIGJlY29tZSBzaG9ydGVyIGVhY2ggdGltZSBhIGNlbGwgZGl2aWRlcywgdGhpcyBvY2N1cnMgdG9vIHNsb3dseSB0byBhZmZlY3QgdGhlIGFnaW5nIHByb2Nlc3MuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">12. Based on the passage, would Scientist 1 or Scientist 3 be more likely to argue that the process of cell, division contributes directly to aging, and why?
-<div class = "choice">F. Scientist 1, because according to Scientist 1, telomeres become shorter each time a cell divides.</div>
-<div class = "choice">G. Scientist 1, because according to Scientist 1, telomeres become longer each time a cell divides.</div>
-<div class = "choice">H. Scientist 3, because according to Scientist 3, telomeres become shorter each time a cell divides.</div>
-<div class = "choice">J. Scientist 3, because according to Scientist 3, telomeres become longer each time a cell divides.</div>
-</div>
-###################
-<div class = "quiz">13. How does Scientist 2's model differ from Scientist 3's model? Scientist 2 claims that the mutations that cause aging:
-<div class = "choice">A. are due to telomere shortening, whereas Scientist 3 claims that the mutations that cause aging are present at birth.</div>
-<div class = "choice">B. accumulate throughout a human's life span, whereas Scientist 3 claims that the mutations that cause aging are due to telomere shortening.</div>
-<div class = "choice">C. accumulate throughout a human's life span, whereas Scientist 3 claims that the mutations that cause aging are present at birth.</div>
-<div class = "choice">D. are present at birth, whereas Scientist 3 claims that the mutations that cause aging accumulate throughout a human's life span.</div>
-</div>
-###################
-<div class = "quiz">14. Scientist l's model would be most weakened if which of the following observations were made?
-<div class = "choice">F. Telomeres are the same length in both young cells and old cells.</div>
-<div class = "choice">G. The telomeres in a baby's cells are longer than the telomeres in an adult's cells.</div>
-<div class = "choice">H. More free oxygen radicals are produced by young cells than by old cells.</div>
-<div class = "choice">J. More free oxygen radicals are produced by old cells than by young cells.</div>
-</div>
-###################
-<div class = "quiz">15. All 3 scientists would most likely agree with which of the following statements about telomeres?
-<div class = "choice">A. Telomeres become shorter as a human ages.</div>
-<div class = "choice">B. Telomeres remain the same length throughout a human's life span.</div>
-<div class = "choice">C. Telomeres become longer as a human ages.</div>
-<div class = "choice">D. Changes in telomere length are responsible for aging.</div>
-</div>
-###################
-<div class = "quiz">16. Scientist 3 proposes that the mutations that eventually cause aging are:
-<div class = "choice">F. produced when telomeres shorten.</div>
-<div class = "choice">G. produced by metabolic products.</div>
-<div class = "choice">H. present only in old cells.</div>
-<div class = "choice">J. present in both young cells and old cells.</div>
-</div>
-###################
-<div class = "quiz">17. Scientist 2's model would be best supported by which of the following observations?
-<div class = "choice">A. There are fewer mutations in old cells than in young cells.</div>
-<div class = "choice">B. The are fewer mutations in young cells than in old cells.</div>
-<div class = "choice">C. Free oxygen radicals do not cause DNA damage.</div>
-<div class = "choice">D. Telomere shortening influences the aging process.</div>
-</div>
-###################
-<div class = "quiz">18. Suppose studies show that consummg fewer calories can slow the aging process. How would Scientist 2 explain this result? Scientist 2 would most likely argue that consuming fewer calories:
-<div class = "choice">F. increases the rate of metabolism and increases the production of free oxygen radicals.</div>
-<div class = "choice">G. increases the rate of metabolism and decreases the production of free oxygen radicals.</div>
-<div class = "choice">H. decreases the rate of metabolism and increases the production of free oxygen radicals.</div>
-<div class = "choice">J. decreases the rate of metabolism and decreases the production of free oxygen radicals.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQmFzZWQgb24gdGhlIHBhc3NhZ2UsIHdvdWxkIFNjaWVudGlzdCAxIG9yIFNjaWVudGlzdCAzIGJlIG1vcmUgbGlrZWx5IHRvIGFyZ3VlIHRoYXQgdGhlIHByb2Nlc3Mgb2YgY2VsbCwgZGl2aXNpb24gY29udHJpYnV0ZXMgZGlyZWN0bHkgdG8gYWdpbmcsIGFuZCB3aHk/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFNjaWVudGlzdCAxLCBiZWNhdXNlIGFjY29yZGluZyB0byBTY2llbnRpc3QgMSwgdGVsb21lcmVzIGJlY29tZSBzaG9ydGVyIGVhY2ggdGltZSBhIGNlbGwgZGl2aWRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFNjaWVudGlzdCAxLCBiZWNhdXNlIGFjY29yZGluZyB0byBTY2llbnRpc3QgMSwgdGVsb21lcmVzIGJlY29tZSBsb25nZXIgZWFjaCB0aW1lIGEgY2VsbCBkaXZpZGVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNjaWVudGlzdCAzLCBiZWNhdXNlIGFjY29yZGluZyB0byBTY2llbnRpc3QgMywgdGVsb21lcmVzIGJlY29tZSBzaG9ydGVyIGVhY2ggdGltZSBhIGNlbGwgZGl2aWRlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFNjaWVudGlzdCAzLCBiZWNhdXNlIGFjY29yZGluZyB0byBTY2llbnRpc3QgMywgdGVsb21lcmVzIGJlY29tZSBsb25nZXIgZWFjaCB0aW1lIGEgY2VsbCBkaXZpZGVzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gSG93IGRvZXMgU2NpZW50aXN0IDIncyBtb2RlbCBkaWZmZXIgZnJvbSBTY2llbnRpc3QgMydzIG1vZGVsPyBTY2llbnRpc3QgMiBjbGFpbXMgdGhhdCB0aGUgbXV0YXRpb25zIHRoYXQgY2F1c2UgYWdpbmc6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGFyZSBkdWUgdG8gdGVsb21lcmUgc2hvcnRlbmluZywgd2hlcmVhcyBTY2llbnRpc3QgMyBjbGFpbXMgdGhhdCB0aGUgbXV0YXRpb25zIHRoYXQgY2F1c2UgYWdpbmcgYXJlIHByZXNlbnQgYXQgYmlydGguPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGFjY3VtdWxhdGUgdGhyb3VnaG91dCBhIGh1bWFuJ3MgbGlmZSBzcGFuLCB3aGVyZWFzIFNjaWVudGlzdCAzIGNsYWltcyB0aGF0IHRoZSBtdXRhdGlvbnMgdGhhdCBjYXVzZSBhZ2luZyBhcmUgZHVlIHRvIHRlbG9tZXJlIHNob3J0ZW5pbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGFjY3VtdWxhdGUgdGhyb3VnaG91dCBhIGh1bWFuJ3MgbGlmZSBzcGFuLCB3aGVyZWFzIFNjaWVudGlzdCAzIGNsYWltcyB0aGF0IHRoZSBtdXRhdGlvbnMgdGhhdCBjYXVzZSBhZ2luZyBhcmUgcHJlc2VudCBhdCBiaXJ0aC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGFyZSBwcmVzZW50IGF0IGJpcnRoLCB3aGVyZWFzIFNjaWVudGlzdCAzIGNsYWltcyB0aGF0IHRoZSBtdXRhdGlvbnMgdGhhdCBjYXVzZSBhZ2luZyBhY2N1bXVsYXRlIHRocm91Z2hvdXQgYSBodW1hbidzIGxpZmUgc3Bhbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gU2NpZW50aXN0IGwncyBtb2RlbCB3b3VsZCBiZSBtb3N0IHdlYWtlbmVkIGlmIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgb2JzZXJ2YXRpb25zIHdlcmUgbWFkZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIFRlbG9tZXJlcyBhcmUgdGhlIHNhbWUgbGVuZ3RoIGluIGJvdGggeW91bmcgY2VsbHMgYW5kIG9sZCBjZWxscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFRoZSB0ZWxvbWVyZXMgaW4gYSBiYWJ5J3MgY2VsbHMgYXJlIGxvbmdlciB0aGFuIHRoZSB0ZWxvbWVyZXMgaW4gYW4gYWR1bHQncyBjZWxscy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIE1vcmUgZnJlZSBveHlnZW4gcmFkaWNhbHMgYXJlIHByb2R1Y2VkIGJ5IHlvdW5nIGNlbGxzIHRoYW4gYnkgb2xkIGNlbGxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE1vcmUgZnJlZSBveHlnZW4gcmFkaWNhbHMgYXJlIHByb2R1Y2VkIGJ5IG9sZCBjZWxscyB0aGFuIGJ5IHlvdW5nIGNlbGxzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gQWxsIDMgc2NpZW50aXN0cyB3b3VsZCBtb3N0IGxpa2VseSBhZ3JlZSB3aXRoIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgc3RhdGVtZW50cyBhYm91dCB0ZWxvbWVyZXM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRlbG9tZXJlcyBiZWNvbWUgc2hvcnRlciBhcyBhIGh1bWFuIGFnZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRlbG9tZXJlcyByZW1haW4gdGhlIHNhbWUgbGVuZ3RoIHRocm91Z2hvdXQgYSBodW1hbidzIGxpZmUgc3Bhbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRlbG9tZXJlcyBiZWNvbWUgbG9uZ2VyIGFzIGEgaHVtYW4gYWdlcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENoYW5nZXMgaW4gdGVsb21lcmUgbGVuZ3RoIGFyZSByZXNwb25zaWJsZSBmb3IgYWdpbmcuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gU2NpZW50aXN0IDMgcHJvcG9zZXMgdGhhdCB0aGUgbXV0YXRpb25zIHRoYXQgZXZlbnR1YWxseSBjYXVzZSBhZ2luZyBhcmU6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHByb2R1Y2VkIHdoZW4gdGVsb21lcmVzIHNob3J0ZW4uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHByb2R1Y2VkIGJ5IG1ldGFib2xpYyBwcm9kdWN0cy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHByZXNlbnQgb25seSBpbiBvbGQgY2VsbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHByZXNlbnQgaW4gYm90aCB5b3VuZyBjZWxscyBhbmQgb2xkIGNlbGxzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gU2NpZW50aXN0IDIncyBtb2RlbCB3b3VsZCBiZSBiZXN0IHN1cHBvcnRlZCBieSB3aGljaCBvZiB0aGUgZm9sbG93aW5nIG9ic2VydmF0aW9ucz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZXJlIGFyZSBmZXdlciBtdXRhdGlvbnMgaW4gb2xkIGNlbGxzIHRoYW4gaW4geW91bmcgY2VsbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBhcmUgZmV3ZXIgbXV0YXRpb25zIGluIHlvdW5nIGNlbGxzIHRoYW4gaW4gb2xkIGNlbGxzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEZyZWUgb3h5Z2VuIHJhZGljYWxzIGRvIG5vdCBjYXVzZSBETkEgZGFtYWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRlbG9tZXJlIHNob3J0ZW5pbmcgaW5mbHVlbmNlcyB0aGUgYWdpbmcgcHJvY2Vzcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gU3VwcG9zZSBzdHVkaWVzIHNob3cgdGhhdCBjb25zdW1tZyBmZXdlciBjYWxvcmllcyBjYW4gc2xvdyB0aGUgYWdpbmcgcHJvY2Vzcy4gSG93IHdvdWxkIFNjaWVudGlzdCAyIGV4cGxhaW4gdGhpcyByZXN1bHQ/IFNjaWVudGlzdCAyIHdvdWxkIG1vc3QgbGlrZWx5IGFyZ3VlIHRoYXQgY29uc3VtaW5nIGZld2VyIGNhbG9yaWVzOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGluY3JlYXNlcyB0aGUgcmF0ZSBvZiBtZXRhYm9saXNtIGFuZCBpbmNyZWFzZXMgdGhlIHByb2R1Y3Rpb24gb2YgZnJlZSBveHlnZW4gcmFkaWNhbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGluY3JlYXNlcyB0aGUgcmF0ZSBvZiBtZXRhYm9saXNtIGFuZCBkZWNyZWFzZXMgdGhlIHByb2R1Y3Rpb24gb2YgZnJlZSBveHlnZW4gcmFkaWNhbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGRlY3JlYXNlcyB0aGUgcmF0ZSBvZiBtZXRhYm9saXNtIGFuZCBpbmNyZWFzZXMgdGhlIHByb2R1Y3Rpb24gb2YgZnJlZSBveHlnZW4gcmFkaWNhbHMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRlY3JlYXNlcyB0aGUgcmF0ZSBvZiBtZXRhYm9saXNtIGFuZCBkZWNyZWFzZXMgdGhlIHByb2R1Y3Rpb24gb2YgZnJlZSBveHlnZW4gcmFkaWNhbHMuPC9kaXY+
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

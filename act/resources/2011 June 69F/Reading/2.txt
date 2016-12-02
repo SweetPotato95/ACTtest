@@ -1,112 +1,112 @@
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article “Good Gone Wild” by Eric Jaffe (? 2006 by Science Service).</div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The island of Damas is a half-hour boat ride from the Chilean coast. On the island, it's dry and rocky. The Humboldt penguins that live there have no ice slopes to slide down in their black-tie apparel. Instead, these desert penguins seek out caves to shade their eggs from the sun.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNPQ0lBTCBTQ0lFTkNFOiBUaGlzIHBhc3NhZ2UgaXMgYWRhcHRlZCBmcm9tIHRoZSBhcnRpY2xlIOKAnEdvb2QgR29uZSBXaWxk4oA/IGJ5IEVyaWMgSmFmZmUgKD8gMjAwNiBieSBTY2llbmNlIFNlcnZpY2UpLjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBpc2xhbmQgb2YgRGFtYXMgaXMgYSBoYWxmLWhvdXIgYm9hdCByaWRlIGZyb20gdGhlIENoaWxlYW4gY29hc3QuIE9uIHRoZSBpc2xhbmQsIGl0J3MgZHJ5IGFuZCByb2NreS4gVGhlIEh1bWJvbGR0IHBlbmd1aW5zIHRoYXQgbGl2ZSB0aGVyZSBoYXZlIG5vIGljZSBzbG9wZXMgdG8gc2xpZGUgZG93biBpbiB0aGVpciBibGFjay10aWUgYXBwYXJlbC4gSW5zdGVhZCwgdGhlc2UgZGVzZXJ0IHBlbmd1aW5zIHNlZWsgb3V0IGNhdmVzIHRvIHNoYWRlIHRoZWlyIGVnZ3MgZnJvbSB0aGUgc3VuLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To see these penguins, visitors usually begin in La Serena, Chile. They drive 40 miles north on a main highway and then cut toward the coast on a gravel road that leads to the fishing village of Punta de Choros. Local fishermen there charge a fee to guide the tourists to Damas by boat. On the island, people are free to walk into the caves where the penguins live. Anyone can watch a mother brooding an egg and snap a picture.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvIHNlZSB0aGVzZSBwZW5ndWlucywgdmlzaXRvcnMgdXN1YWxseSBiZWdpbiBpbiBMYSBTZXJlbmEsIENoaWxlLiBUaGV5IGRyaXZlIDQwIG1pbGVzIG5vcnRoIG9uIGEgbWFpbiBoaWdod2F5IGFuZCB0aGVuIGN1dCB0b3dhcmQgdGhlIGNvYXN0IG9uIGEgZ3JhdmVsIHJvYWQgdGhhdCBsZWFkcyB0byB0aGUgZmlzaGluZyB2aWxsYWdlIG9mIFB1bnRhIGRlIENob3Jvcy4gTG9jYWwgZmlzaGVybWVuIHRoZXJlIGNoYXJnZSBhIGZlZSB0byBndWlkZSB0aGUgdG91cmlzdHMgdG8gRGFtYXMgYnkgYm9hdC4gT24gdGhlIGlzbGFuZCwgcGVvcGxlIGFyZSBmcmVlIHRvIHdhbGsgaW50byB0aGUgY2F2ZXMgd2hlcmUgdGhlIHBlbmd1aW5zIGxpdmUuIEFueW9uZSBjYW4gd2F0Y2ggYSBtb3RoZXIgYnJvb2RpbmcgYW4gZWdnIGFuZCBzbmFwIGEgcGljdHVyZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">What began in the early 1990s as a place with a few hundred curious visitors has now become a tourism destination that attracts 10,000 penguin peepers a year. Damas provides an example of ecotourism, defined as the practice of visiting sites where exotic landscapes and rare animals are the main attractions. Ideally, ecotourists learn about the habitats that they visit, provide donations to conserve them, and generate income for host communities.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPldoYXQgYmVnYW4gaW4gdGhlIGVhcmx5IDE5OTBzIGFzIGEgcGxhY2Ugd2l0aCBhIGZldyBodW5kcmVkIGN1cmlvdXMgdmlzaXRvcnMgaGFzIG5vdyBiZWNvbWUgYSB0b3VyaXNtIGRlc3RpbmF0aW9uIHRoYXQgYXR0cmFjdHMgMTAsMDAwIHBlbmd1aW4gcGVlcGVycyBhIHllYXIuIERhbWFzIHByb3ZpZGVzIGFuIGV4YW1wbGUgb2YgZWNvdG91cmlzbSwgZGVmaW5lZCBhcyB0aGUgcHJhY3RpY2Ugb2YgdmlzaXRpbmcgc2l0ZXMgd2hlcmUgZXhvdGljIGxhbmRzY2FwZXMgYW5kIHJhcmUgYW5pbWFscyBhcmUgdGhlIG1haW4gYXR0cmFjdGlvbnMuIElkZWFsbHksIGVjb3RvdXJpc3RzIGxlYXJuIGFib3V0IHRoZSBoYWJpdGF0cyB0aGF0IHRoZXkgdmlzaXQsIHByb3ZpZGUgZG9uYXRpb25zIHRvIGNvbnNlcnZlIHRoZW0sIGFuZCBnZW5lcmF0ZSBpbmNvbWUgZm9yIGhvc3QgY29tbXVuaXRpZXMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since this <font id=12>model</font> of tourism emerged some 25 years ago, many special-interest sites, like Damas, have experienced hikes in visitation.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNpbmNlIHRoaXMgPGZvbnQgaWQ9MTI+bW9kZWw8L2ZvbnQ+IG9mIHRvdXJpc20gZW1lcmdlZCBzb21lIDI1IHllYXJzIGFnbywgbWFueSBzcGVjaWFsLWludGVyZXN0IHNpdGVzLCBsaWtlIERhbWFzLCBoYXZlIGV4cGVyaWVuY2VkIGhpa2VzIGluIHZpc2l0YXRpb24uPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=13>But several recent studies show a more complicated picture of the impact of ecotourism, a practice that remains largely unregulated. The increased crowds lead to population changes in some animals, such as the Humboldt penguin and, some 4,000 miles away in the Bahamas, the Allen Cays rock iguana. A mounting garbage problem caused by over-visitation by turtle viewers threatens the beaches of Tortuguero in Costa Rica People who live near Ghana's Kakum National Park have lost access to the forest's resources and now suffer high rates of unemployment. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTEzPkJ1dCBzZXZlcmFsIHJlY2VudCBzdHVkaWVzIHNob3cgYSBtb3JlIGNvbXBsaWNhdGVkIHBpY3R1cmUgb2YgdGhlIGltcGFjdCBvZiBlY290b3VyaXNtLCBhIHByYWN0aWNlIHRoYXQgcmVtYWlucyBsYXJnZWx5IHVucmVndWxhdGVkLiBUaGUgaW5jcmVhc2VkIGNyb3dkcyBsZWFkIHRvIHBvcHVsYXRpb24gY2hhbmdlcyBpbiBzb21lIGFuaW1hbHMsIHN1Y2ggYXMgdGhlIEh1bWJvbGR0IHBlbmd1aW4gYW5kLCBzb21lIDQsMDAwIG1pbGVzIGF3YXkgaW4gdGhlIEJhaGFtYXMsIHRoZSBBbGxlbiBDYXlzIHJvY2sgaWd1YW5hLiBBIG1vdW50aW5nIGdhcmJhZ2UgcHJvYmxlbSBjYXVzZWQgYnkgb3Zlci12aXNpdGF0aW9uIGJ5IHR1cnRsZSB2aWV3ZXJzIHRocmVhdGVucyB0aGUgYmVhY2hlcyBvZiBUb3J0dWd1ZXJvIGluIENvc3RhIFJpY2EgUGVvcGxlIHdobyBsaXZlIG5lYXIgR2hhbmEncyBLYWt1bSBOYXRpb25hbCBQYXJrIGhhdmUgbG9zdCBhY2Nlc3MgdG8gdGhlIGZvcmVzdCdzIHJlc291cmNlcyBhbmQgbm93IHN1ZmZlciBoaWdoIHJhdGVzIG9mIHVuZW1wbG95bWVudC4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"I think there's been a glib ... championing of ecotourism, that it's a win-win situation," says Martha Honey, executive director of the Center on Ecotourism and Sustainable Development in Washington, D.C. But by studying how animals, environments, and cultures respond to ecotourism, "we can set up systems that aren't having adverse impacts," she says.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJIHRoaW5rIHRoZXJlJ3MgYmVlbiBhIGdsaWIgLi4uIGNoYW1waW9uaW5nIG9mIGVjb3RvdXJpc20sIHRoYXQgaXQncyBhIHdpbi13aW4gc2l0dWF0aW9uLCIgc2F5cyBNYXJ0aGEgSG9uZXksIGV4ZWN1dGl2ZSBkaXJlY3RvciBvZiB0aGUgQ2VudGVyIG9uIEVjb3RvdXJpc20gYW5kIFN1c3RhaW5hYmxlIERldmVsb3BtZW50IGluIFdhc2hpbmd0b24sIEQuQy4gQnV0IGJ5IHN0dWR5aW5nIGhvdyBhbmltYWxzLCBlbnZpcm9ubWVudHMsIGFuZCBjdWx0dXJlcyByZXNwb25kIHRvIGVjb3RvdXJpc20sICJ3ZSBjYW4gc2V0IHVwIHN5c3RlbXMgdGhhdCBhcmVuJ3QgaGF2aW5nIGFkdmVyc2UgaW1wYWN0cywiIHNoZSBzYXlzLjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ursula Ellenberg, a biologist at the University of Otago in New Zealand, decided to study how human disturbance affects the Humboldt penguins when she was quietly counting their population, but not quietly enough. While she was looking through binoculars from a cliff about 150 meters away, the penguins began racing in all directions. If a cautious researcher can spark such a reaction, she thought, how would the penguins react to <font id=15>a gaggle of shutter-happy tourists</font>?</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlVyc3VsYSBFbGxlbmJlcmcsIGEgYmlvbG9naXN0IGF0IHRoZSBVbml2ZXJzaXR5IG9mIE90YWdvIGluIE5ldyBaZWFsYW5kLCBkZWNpZGVkIHRvIHN0dWR5IGhvdyBodW1hbiBkaXN0dXJiYW5jZSBhZmZlY3RzIHRoZSBIdW1ib2xkdCBwZW5ndWlucyB3aGVuIHNoZSB3YXMgcXVpZXRseSBjb3VudGluZyB0aGVpciBwb3B1bGF0aW9uLCBidXQgbm90IHF1aWV0bHkgZW5vdWdoLiBXaGlsZSBzaGUgd2FzIGxvb2tpbmcgdGhyb3VnaCBiaW5vY3VsYXJzIGZyb20gYSBjbGlmZiBhYm91dCAxNTAgbWV0ZXJzIGF3YXksIHRoZSBwZW5ndWlucyBiZWdhbiByYWNpbmcgaW4gYWxsIGRpcmVjdGlvbnMuIElmIGEgY2F1dGlvdXMgcmVzZWFyY2hlciBjYW4gc3Bhcmsgc3VjaCBhIHJlYWN0aW9uLCBzaGUgdGhvdWdodCwgaG93IHdvdWxkIHRoZSBwZW5ndWlucyByZWFjdCB0byA8Zm9udCBpZD0xNT5hIGdhZ2dsZSBvZiBzaHV0dGVyLWhhcHB5IHRvdXJpc3RzPC9mb250Pj88L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">To study the effects of human-Humboldt interaction, Ellenberg and her colleagues measured the breeding success of penguins on the islands of Damas, Choros, and Chanaral, which together make up the Humboldt Penguin National Reserve. The island cluster serves as a good point of comparison: Damas receives 10,000 annual visitors, but Choros and Chanaral are much less accessible from the mainland and attract only 1,000 and 100 tourists a year, respectively.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRvIHN0dWR5IHRoZSBlZmZlY3RzIG9mIGh1bWFuLUh1bWJvbGR0IGludGVyYWN0aW9uLCBFbGxlbmJlcmcgYW5kIGhlciBjb2xsZWFndWVzIG1lYXN1cmVkIHRoZSBicmVlZGluZyBzdWNjZXNzIG9mIHBlbmd1aW5zIG9uIHRoZSBpc2xhbmRzIG9mIERhbWFzLCBDaG9yb3MsIGFuZCBDaGFuYXJhbCwgd2hpY2ggdG9nZXRoZXIgbWFrZSB1cCB0aGUgSHVtYm9sZHQgUGVuZ3VpbiBOYXRpb25hbCBSZXNlcnZlLiBUaGUgaXNsYW5kIGNsdXN0ZXIgc2VydmVzIGFzIGEgZ29vZCBwb2ludCBvZiBjb21wYXJpc29uOiBEYW1hcyByZWNlaXZlcyAxMCwwMDAgYW5udWFsIHZpc2l0b3JzLCBidXQgQ2hvcm9zIGFuZCBDaGFuYXJhbCBhcmUgbXVjaCBsZXNzIGFjY2Vzc2libGUgZnJvbSB0aGUgbWFpbmxhbmQgYW5kIGF0dHJhY3Qgb25seSAxLDAwMCBhbmQgMTAwIHRvdXJpc3RzIGEgeWVhciwgcmVzcGVjdGl2ZWx5LjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ellenberg's team was the first to study these penguin populations. The researchers monitored eggs and chicks on each island for 5 months after the penguin mothers laid the eggs. If a nest is abandoned during this period, the chicks usually die. Penguins have many chances to breed during their 20-year life spans, and they would sooner abandon a nest than risk personal harm-say, from an approaching human.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVsbGVuYmVyZydzIHRlYW0gd2FzIHRoZSBmaXJzdCB0byBzdHVkeSB0aGVzZSBwZW5ndWluIHBvcHVsYXRpb25zLiBUaGUgcmVzZWFyY2hlcnMgbW9uaXRvcmVkIGVnZ3MgYW5kIGNoaWNrcyBvbiBlYWNoIGlzbGFuZCBmb3IgNSBtb250aHMgYWZ0ZXIgdGhlIHBlbmd1aW4gbW90aGVycyBsYWlkIHRoZSBlZ2dzLiBJZiBhIG5lc3QgaXMgYWJhbmRvbmVkIGR1cmluZyB0aGlzIHBlcmlvZCwgdGhlIGNoaWNrcyB1c3VhbGx5IGRpZS4gUGVuZ3VpbnMgaGF2ZSBtYW55IGNoYW5jZXMgdG8gYnJlZWQgZHVyaW5nIHRoZWlyIDIwLXllYXIgbGlmZSBzcGFucywgYW5kIHRoZXkgd291bGQgc29vbmVyIGFiYW5kb24gYSBuZXN0IHRoYW4gcmlzayBwZXJzb25hbCBoYXJtLXNheSwgZnJvbSBhbiBhcHByb2FjaGluZyBodW1hbi48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In 2003, the only year that Ellenberg's group studied Chanaral, the penguins there bred an average of L34 chicks. On Choros, the average was just below one chick in both 2002 and 2003. But on Damas, female penguins produced, on average, a little less than half a chick in 2002, and the birthrate dipped well below a quarter of a chick in 2003, Ellenberg's team reports.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIDIwMDMsIHRoZSBvbmx5IHllYXIgdGhhdCBFbGxlbmJlcmcncyBncm91cCBzdHVkaWVkIENoYW5hcmFsLCB0aGUgcGVuZ3VpbnMgdGhlcmUgYnJlZCBhbiBhdmVyYWdlIG9mIEwzNCBjaGlja3MuIE9uIENob3JvcywgdGhlIGF2ZXJhZ2Ugd2FzIGp1c3QgYmVsb3cgb25lIGNoaWNrIGluIGJvdGggMjAwMiBhbmQgMjAwMy4gQnV0IG9uIERhbWFzLCBmZW1hbGUgcGVuZ3VpbnMgcHJvZHVjZWQsIG9uIGF2ZXJhZ2UsIGEgbGl0dGxlIGxlc3MgdGhhbiBoYWxmIGEgY2hpY2sgaW4gMjAwMiwgYW5kIHRoZSBiaXJ0aHJhdGUgZGlwcGVkIHdlbGwgYmVsb3cgYSBxdWFydGVyIG9mIGEgY2hpY2sgaW4gMjAwMywgRWxsZW5iZXJnJ3MgdGVhbSByZXBvcnRzLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">"It's surprising, when you have islands at such close proximity, that you'd already get a difference," says Ellenberg. "They should do similarly well."</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPiJJdCdzIHN1cnByaXNpbmcsIHdoZW4geW91IGhhdmUgaXNsYW5kcyBhdCBzdWNoIGNsb3NlIHByb3hpbWl0eSwgdGhhdCB5b3UnZCBhbHJlYWR5IGdldCBhIGRpZmZlcmVuY2UsIiBzYXlzIEVsbGVuYmVyZy4gIlRoZXkgc2hvdWxkIGRvIHNpbWlsYXJseSB3ZWxsLiI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As scientists study ecotourism's impacts, new understandings "need to be fed back into the industry, to educate what is acceptable behavior," says Honey. <font id=20> "There needs to be a closer alliance between hard science and the tourism industry." </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFzIHNjaWVudGlzdHMgc3R1ZHkgZWNvdG91cmlzbSdzIGltcGFjdHMsIG5ldyB1bmRlcnN0YW5kaW5ncyAibmVlZCB0byBiZSBmZWQgYmFjayBpbnRvIHRoZSBpbmR1c3RyeSwgdG8gZWR1Y2F0ZSB3aGF0IGlzIGFjY2VwdGFibGUgYmVoYXZpb3IsIiBzYXlzIEhvbmV5LiA8Zm9udCBpZD0yMD4gIlRoZXJlIG5lZWRzIHRvIGJlIGEgY2xvc2VyIGFsbGlhbmNlIGJldHdlZW4gaGFyZCBzY2llbmNlIGFuZCB0aGUgdG91cmlzbSBpbmR1c3RyeS4iIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the case of the Humboldt penguins, a lack of research led to improper viewing guidelines, says Ellenberg. The Humboldt reserve based its rules for approaching penguins on a related South American species called the Magellanic penguin, which is far less sensitive to human disturbance.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIHRoZSBjYXNlIG9mIHRoZSBIdW1ib2xkdCBwZW5ndWlucywgYSBsYWNrIG9mIHJlc2VhcmNoIGxlZCB0byBpbXByb3BlciB2aWV3aW5nIGd1aWRlbGluZXMsIHNheXMgRWxsZW5iZXJnLiBUaGUgSHVtYm9sZHQgcmVzZXJ2ZSBiYXNlZCBpdHMgcnVsZXMgZm9yIGFwcHJvYWNoaW5nIHBlbmd1aW5zIG9uIGEgcmVsYXRlZCBTb3V0aCBBbWVyaWNhbiBzcGVjaWVzIGNhbGxlZCB0aGUgTWFnZWxsYW5pYyBwZW5ndWluLCB3aGljaCBpcyBmYXIgbGVzcyBzZW5zaXRpdmUgdG8gaHVtYW4gZGlzdHVyYmFuY2UuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">11. According to the passage, one reason the three islands of the Humboldt Penguin National Reserve were attractive for Ellenberg's study of the interaction between humans and Humboldt penguins is that each island:
-<div class = "choice">A. is easily accessible from the mainland.</div>
-<div class = "choice">B. has the same number of penguins living on it.</div>
-<div class = "choice">C. had been studied extensively before ecotourism came to it.</div>
-<div class = "choice">D. receives a different number of visitors annually.</div>
-</div>
-###################
-<div class = "quiz">12. As it is used in line 24, the word model most nearly means:
-<div class = "choice">F. reproduction.</div>
-<div class = "choice">G. symbol.</div>
-<div class = "choice">H. gauge.</div>
-<div class = "choice">J. form.</div>
-</div>
-###################
-<div class = "quiz">13. The main purpose of the fifth paragraph (lines 27-37) is to:
-<div class = "choice">A. describe a recent study of the effects of ecotourism on the Allen Cays rock iguana.</div>
-<div class = "choice">B. present data about Humboldt penguin population changes on Damas.</div>
-<div class = "choice">C. provide several examples of some of the damaging effects of ecotourism.</div>
-<div class = "choice">D. lise several popular ecotourism destinations, which are each described later in the passage.</div>
-</div>
-###################
-<div class = "quiz">14. According to the passage, which of the following events triggered Ellenberg's interest in studying how human disturbance affects the Humboldt penguins?
-<div class = "choice">F. Discovering a penguin population decline</div>
-<div class = "choice">G. Learning of Honey's concerns about ecotourism</div>
-<div class = "choice">H. Scattering the penguins as the tried to count them</div>
-<div class = "choice">J. noticing a tourism increase in the Humboldt Penguin National Reserve</div>
-</div>
-###################
-<div class = "quiz">15. The passage refers to "a gaggle of shutter-happy tourists" (line 53) mainly to help make the point that:
-<div class = "choice">A. tourists likely bring a great deal of disruption to the Humboldt penguins habitat.</div>
-<div class = "choice">B. scientists believe tourists should rarely be allowed into the Humboldt penguins' habitat.</div>
-<div class = "choice">C. the Humboldt penguins act playfully in response to tourists' behavior.</div>
-<div class = "choice">D. tourists help protect the Humboldt penguins by increasing other people's awareness of them.</div>
-</div>
-###################
-<div class = "quiz">16. It can reasonably be inferred from the passage that human disturbance of the Humboldt penguins' habitat leads to:
-<div class = "choice">F. the penguins fleeing deep into caves with their chicks.</div>
-<div class = "choice">G. the penguins making nests in cactuses.</div>
-<div class = "choice">H. increased aggressiveness in mature penguins.</div>
-<div class = "choice">J. the death of many penguin chicks.</div>
-</div>
-###################
-<div class = "quiz">17. According to the passage, which of the following statements about the breeding success of Humboldt penguins is accurate?
-<div class = "choice">A. In 2003, females on Chanaral on average produced more chicks than did the fermales on Choros.</div>
-<div class = "choice">B. Females on Choros on average produced many more chicks in 2002l than they did in 2003.</div>
-<div class = "choice">C. In 2002, females on Choros and Damas on average produced nearly the same number of chicks.</div>
-<div class = "choice">D. In 2003, females on Damas on average produced twice as many chicks as did the females on Chanaral.</div>
-</div>
-###################
-<div class = "quiz">18. The passage states that visitors to Damas have been free to:
-<div class = "choice">F. pick up Humboldt penguin chicks to get a closer lock.</div>
-<div class = "choice">G. walk into the caves where the Humboldt penguins live.</div>
-<div class = "choice">H. camp overnight on the island.</div>
-<div class = "choice">J. dock their rented boats on the island.</div>
-</div>
-###################
-<div class = "quiz">19. According to the passage, how many teams of researchers had studied the Humboldt penguins on Damas, Choros, and Chanaral before Ellenberg's team did so?
-<div class = "choice">A. Zero</div>
-<div class = "choice">B. One</div>
-<div class = "choice">C. Two</div>
-<div class = "choice">D. Three</div>
-</div>
-###################
-<div class = "quiz">20. In the context of the twelfth paragraph (lines 81-85), the statement in lines 84-85 most nearly means that:
-<div class = "choice">F. scientific studies benefit from getting feedback from tourists.</div>
-<div class = "choice">G. the tourism industry must adapt hased on findings from scientific studies.</div>
-<div class = "choice">H. scientists must not disturb environments when they study the effects of tourism.</div>
-<div class = "choice">J. the tourism industry and scientists usually agree on wildlife viewing guidelines.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBvbmUgcmVhc29uIHRoZSB0aHJlZSBpc2xhbmRzIG9mIHRoZSBIdW1ib2xkdCBQZW5ndWluIE5hdGlvbmFsIFJlc2VydmUgd2VyZSBhdHRyYWN0aXZlIGZvciBFbGxlbmJlcmcncyBzdHVkeSBvZiB0aGUgaW50ZXJhY3Rpb24gYmV0d2VlbiBodW1hbnMgYW5kIEh1bWJvbGR0IHBlbmd1aW5zIGlzIHRoYXQgZWFjaCBpc2xhbmQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGlzIGVhc2lseSBhY2Nlc3NpYmxlIGZyb20gdGhlIG1haW5sYW5kLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGhhcyB0aGUgc2FtZSBudW1iZXIgb2YgcGVuZ3VpbnMgbGl2aW5nIG9uIGl0LjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhZCBiZWVuIHN0dWRpZWQgZXh0ZW5zaXZlbHkgYmVmb3JlIGVjb3RvdXJpc20gY2FtZSB0byBpdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHJlY2VpdmVzIGEgZGlmZmVyZW50IG51bWJlciBvZiB2aXNpdG9ycyBhbm51YWxseS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMi4gQXMgaXQgaXMgdXNlZCBpbiBsaW5lIDI0LCB0aGUgd29yZCBtb2RlbCBtb3N0IG5lYXJseSBtZWFuczo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHJlcHJvZHVjdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHN5bWJvbC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGdhdWdlLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGZvcm0uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xMy4gVGhlIG1haW4gcHVycG9zZSBvZiB0aGUgZmlmdGggcGFyYWdyYXBoIChsaW5lcyAyNy0zNykgaXMgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGRlc2NyaWJlIGEgcmVjZW50IHN0dWR5IG9mIHRoZSBlZmZlY3RzIG9mIGVjb3RvdXJpc20gb24gdGhlIEFsbGVuIENheXMgcm9jayBpZ3VhbmEuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHByZXNlbnQgZGF0YSBhYm91dCBIdW1ib2xkdCBwZW5ndWluIHBvcHVsYXRpb24gY2hhbmdlcyBvbiBEYW1hcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHByb3ZpZGUgc2V2ZXJhbCBleGFtcGxlcyBvZiBzb21lIG9mIHRoZSBkYW1hZ2luZyBlZmZlY3RzIG9mIGVjb3RvdXJpc20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxpc2Ugc2V2ZXJhbCBwb3B1bGFyIGVjb3RvdXJpc20gZGVzdGluYXRpb25zLCB3aGljaCBhcmUgZWFjaCBkZXNjcmliZWQgbGF0ZXIgaW4gdGhlIHBhc3NhZ2UuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNC4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGV2ZW50cyB0cmlnZ2VyZWQgRWxsZW5iZXJnJ3MgaW50ZXJlc3QgaW4gc3R1ZHlpbmcgaG93IGh1bWFuIGRpc3R1cmJhbmNlIGFmZmVjdHMgdGhlIEh1bWJvbGR0IHBlbmd1aW5zPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIERpc2NvdmVyaW5nIGEgcGVuZ3VpbiBwb3B1bGF0aW9uIGRlY2xpbmU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIExlYXJuaW5nIG9mIEhvbmV5J3MgY29uY2VybnMgYWJvdXQgZWNvdG91cmlzbTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFNjYXR0ZXJpbmcgdGhlIHBlbmd1aW5zIGFzIHRoZSB0cmllZCB0byBjb3VudCB0aGVtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vdGljaW5nIGEgdG91cmlzbSBpbmNyZWFzZSBpbiB0aGUgSHVtYm9sZHQgUGVuZ3VpbiBOYXRpb25hbCBSZXNlcnZlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNS4gVGhlIHBhc3NhZ2UgcmVmZXJzIHRvICJhIGdhZ2dsZSBvZiBzaHV0dGVyLWhhcHB5IHRvdXJpc3RzIiAobGluZSA1MykgbWFpbmx5IHRvIGhlbHAgbWFrZSB0aGUgcG9pbnQgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIHRvdXJpc3RzIGxpa2VseSBicmluZyBhIGdyZWF0IGRlYWwgb2YgZGlzcnVwdGlvbiB0byB0aGUgSHVtYm9sZHQgcGVuZ3VpbnMgaGFiaXRhdC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHNjaWVudGlzdHMgYmVsaWV2ZSB0b3VyaXN0cyBzaG91bGQgcmFyZWx5IGJlIGFsbG93ZWQgaW50byB0aGUgSHVtYm9sZHQgcGVuZ3VpbnMnIGhhYml0YXQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHRoZSBIdW1ib2xkdCBwZW5ndWlucyBhY3QgcGxheWZ1bGx5IGluIHJlc3BvbnNlIHRvIHRvdXJpc3RzJyBiZWhhdmlvci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHRvdXJpc3RzIGhlbHAgcHJvdGVjdCB0aGUgSHVtYm9sZHQgcGVuZ3VpbnMgYnkgaW5jcmVhc2luZyBvdGhlciBwZW9wbGUncyBhd2FyZW5lc3Mgb2YgdGhlbS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4gSXQgY2FuIHJlYXNvbmFibHkgYmUgaW5mZXJyZWQgZnJvbSB0aGUgcGFzc2FnZSB0aGF0IGh1bWFuIGRpc3R1cmJhbmNlIG9mIHRoZSBIdW1ib2xkdCBwZW5ndWlucycgaGFiaXRhdCBsZWFkcyB0bzo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHRoZSBwZW5ndWlucyBmbGVlaW5nIGRlZXAgaW50byBjYXZlcyB3aXRoIHRoZWlyIGNoaWNrcy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSBwZW5ndWlucyBtYWtpbmcgbmVzdHMgaW4gY2FjdHVzZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGluY3JlYXNlZCBhZ2dyZXNzaXZlbmVzcyBpbiBtYXR1cmUgcGVuZ3VpbnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSBkZWF0aCBvZiBtYW55IHBlbmd1aW4gY2hpY2tzLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHN0YXRlbWVudHMgYWJvdXQgdGhlIGJyZWVkaW5nIHN1Y2Nlc3Mgb2YgSHVtYm9sZHQgcGVuZ3VpbnMgaXMgYWNjdXJhdGU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIEluIDIwMDMsIGZlbWFsZXMgb24gQ2hhbmFyYWwgb24gYXZlcmFnZSBwcm9kdWNlZCBtb3JlIGNoaWNrcyB0aGFuIGRpZCB0aGUgZmVybWFsZXMgb24gQ2hvcm9zLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEZlbWFsZXMgb24gQ2hvcm9zIG9uIGF2ZXJhZ2UgcHJvZHVjZWQgbWFueSBtb3JlIGNoaWNrcyBpbiAyMDAybCB0aGFuIHRoZXkgZGlkIGluIDIwMDMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEluIDIwMDIsIGZlbWFsZXMgb24gQ2hvcm9zIGFuZCBEYW1hcyBvbiBhdmVyYWdlIHByb2R1Y2VkIG5lYXJseSB0aGUgc2FtZSBudW1iZXIgb2YgY2hpY2tzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEluIDIwMDMsIGZlbWFsZXMgb24gRGFtYXMgb24gYXZlcmFnZSBwcm9kdWNlZCB0d2ljZSBhcyBtYW55IGNoaWNrcyBhcyBkaWQgdGhlIGZlbWFsZXMgb24gQ2hhbmFyYWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIHBhc3NhZ2Ugc3RhdGVzIHRoYXQgdmlzaXRvcnMgdG8gRGFtYXMgaGF2ZSBiZWVuIGZyZWUgdG86
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHBpY2sgdXAgSHVtYm9sZHQgcGVuZ3VpbiBjaGlja3MgdG8gZ2V0IGEgY2xvc2VyIGxvY2suPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHdhbGsgaW50byB0aGUgY2F2ZXMgd2hlcmUgdGhlIEh1bWJvbGR0IHBlbmd1aW5zIGxpdmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGNhbXAgb3Zlcm5pZ2h0IG9uIHRoZSBpc2xhbmQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGRvY2sgdGhlaXIgcmVudGVkIGJvYXRzIG9uIHRoZSBpc2xhbmQuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gQWNjb3JkaW5nIHRvIHRoZSBwYXNzYWdlLCBob3cgbWFueSB0ZWFtcyBvZiByZXNlYXJjaGVycyBoYWQgc3R1ZGllZCB0aGUgSHVtYm9sZHQgcGVuZ3VpbnMgb24gRGFtYXMsIENob3JvcywgYW5kIENoYW5hcmFsIGJlZm9yZSBFbGxlbmJlcmcncyB0ZWFtIGRpZCBzbz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFplcm88L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIE9uZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFR3bzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFRocmVlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gSW4gdGhlIGNvbnRleHQgb2YgdGhlIHR3ZWxmdGggcGFyYWdyYXBoIChsaW5lcyA4MS04NSksIHRoZSBzdGF0ZW1lbnQgaW4gbGluZXMgODQtODUgbW9zdCBuZWFybHkgbWVhbnMgdGhhdDo=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHNjaWVudGlmaWMgc3R1ZGllcyBiZW5lZml0IGZyb20gZ2V0dGluZyBmZWVkYmFjayBmcm9tIHRvdXJpc3RzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIHRoZSB0b3VyaXNtIGluZHVzdHJ5IG11c3QgYWRhcHQgaGFzZWQgb24gZmluZGluZ3MgZnJvbSBzY2llbnRpZmljIHN0dWRpZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHNjaWVudGlzdHMgbXVzdCBub3QgZGlzdHVyYiBlbnZpcm9ubWVudHMgd2hlbiB0aGV5IHN0dWR5IHRoZSBlZmZlY3RzIG9mIHRvdXJpc20uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIHRoZSB0b3VyaXNtIGluZHVzdHJ5IGFuZCBzY2llbnRpc3RzIHVzdWFsbHkgYWdyZWUgb24gd2lsZGxpZmUgdmlld2luZyBndWlkZWxpbmVzLjwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

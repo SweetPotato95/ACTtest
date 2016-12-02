@@ -1,128 +1,128 @@
-<h1>Two Countries, Two Homes</h1>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=19> [1]It was a routine Saturday <font id=16>evening. </font> [2] The clattering of pots and pans echoed through the house. [3] <font id=17>As my mother and I prepared dinner, </font> we had our usual conversation about school and life. [4] She grew quiet as I shared my hopes of going away to college. [5] College applications should be completed as early as possible. [6] She looked at me sadly <font id=18>at the age of eighteen</font> and said that I was abandoning our traditions by leaving home. [7] I talked with her about the benefits gained from being independent. [8] She abruptly changed the subject. </font></div>
+PGgxPlR3byBDb3VudHJpZXMsIFR3byBIb21lczwvaDE+
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTE5PiBbMV1JdCB3YXMgYSByb3V0aW5lIFNhdHVyZGF5IDxmb250IGlkPTE2PmV2ZW5pbmcuIDwvZm9udD4gWzJdIFRoZSBjbGF0dGVyaW5nIG9mIHBvdHMgYW5kIHBhbnMgZWNob2VkIHRocm91Z2ggdGhlIGhvdXNlLiBbM10gPGZvbnQgaWQ9MTc+QXMgbXkgbW90aGVyIGFuZCBJIHByZXBhcmVkIGRpbm5lciwgPC9mb250PiB3ZSBoYWQgb3VyIHVzdWFsIGNvbnZlcnNhdGlvbiBhYm91dCBzY2hvb2wgYW5kIGxpZmUuIFs0XSBTaGUgZ3JldyBxdWlldCBhcyBJIHNoYXJlZCBteSBob3BlcyBvZiBnb2luZyBhd2F5IHRvIGNvbGxlZ2UuIFs1XSBDb2xsZWdlIGFwcGxpY2F0aW9ucyBzaG91bGQgYmUgY29tcGxldGVkIGFzIGVhcmx5IGFzIHBvc3NpYmxlLiBbNl0gU2hlIGxvb2tlZCBhdCBtZSBzYWRseSA8Zm9udCBpZD0xOD5hdCB0aGUgYWdlIG9mIGVpZ2h0ZWVuPC9mb250PiBhbmQgc2FpZCB0aGF0IEkgd2FzIGFiYW5kb25pbmcgb3VyIHRyYWRpdGlvbnMgYnkgbGVhdmluZyBob21lLiBbN10gSSB0YWxrZWQgd2l0aCBoZXIgYWJvdXQgdGhlIGJlbmVmaXRzIGdhaW5lZCBmcm9tIGJlaW5nIGluZGVwZW5kZW50LiBbOF0gU2hlIGFicnVwdGx5IGNoYW5nZWQgdGhlIHN1YmplY3QuIDwvZm9udD48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=26> [1] I have <font id=20>as</font> many happy memories of my childhood in Vietnam. [2] I loved our traditional New Year celebrations. <font id=21>21</font>  [3] <font id=22>One</font> would burn paper money for good luck and go from house to house wishing our relatives health and happiness. [4] During the Moon Festival, I would show off the <font id=23>lanterns, </font> my mother had made, <font id=24>eat mooncake, and drink</font> tea with my grandparents. [5] I looked forward to the ocean air and the sound of the waves. [6] My mother <font id=25>walks</font> with me on the wet sand, often buying me something from one of the shops along the beach. </font></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxmb250IGlkPTI2PiBbMV0gSSBoYXZlIDxmb250IGlkPTIwPmFzPC9mb250PiBtYW55IGhhcHB5IG1lbW9yaWVzIG9mIG15IGNoaWxkaG9vZCBpbiBWaWV0bmFtLiBbMl0gSSBsb3ZlZCBvdXIgdHJhZGl0aW9uYWwgTmV3IFllYXIgY2VsZWJyYXRpb25zLiA8Zm9udCBpZD0yMT4yMTwvZm9udD4gIFszXSA8Zm9udCBpZD0yMj5PbmU8L2ZvbnQ+IHdvdWxkIGJ1cm4gcGFwZXIgbW9uZXkgZm9yIGdvb2QgbHVjayBhbmQgZ28gZnJvbSBob3VzZSB0byBob3VzZSB3aXNoaW5nIG91ciByZWxhdGl2ZXMgaGVhbHRoIGFuZCBoYXBwaW5lc3MuIFs0XSBEdXJpbmcgdGhlIE1vb24gRmVzdGl2YWwsIEkgd291bGQgc2hvdyBvZmYgdGhlIDxmb250IGlkPTIzPmxhbnRlcm5zLCA8L2ZvbnQ+IG15IG1vdGhlciBoYWQgbWFkZSwgPGZvbnQgaWQ9MjQ+ZWF0IG1vb25jYWtlLCBhbmQgZHJpbms8L2ZvbnQ+IHRlYSB3aXRoIG15IGdyYW5kcGFyZW50cy4gWzVdIEkgbG9va2VkIGZvcndhcmQgdG8gdGhlIG9jZWFuIGFpciBhbmQgdGhlIHNvdW5kIG9mIHRoZSB3YXZlcy4gWzZdIE15IG1vdGhlciA8Zm9udCBpZD0yNT53YWxrczwvZm9udD4gd2l0aCBtZSBvbiB0aGUgd2V0IHNhbmQsIG9mdGVuIGJ1eWluZyBtZSBzb21ldGhpbmcgZnJvbSBvbmUgb2YgdGhlIHNob3BzIGFsb25nIHRoZSBiZWFjaC4gPC9mb250PjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But my mother's work as an art dealer has taken us far from home. <font id=27>When we immigrated to Houston, Texas, </font> I learned about the different groups and cultures that make up my high school. <font id=28>Through my friends, I have developed a love for ribs and tacos, alternative rock and hip-hop, mocha cappuccino and skateboarding. </font> I enjoy spending evenings at a local cafe with my classmates, talking and studying together.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkJ1dCBteSBtb3RoZXIncyB3b3JrIGFzIGFuIGFydCBkZWFsZXIgaGFzIHRha2VuIHVzIGZhciBmcm9tIGhvbWUuIDxmb250IGlkPTI3PldoZW4gd2UgaW1taWdyYXRlZCB0byBIb3VzdG9uLCBUZXhhcywgPC9mb250PiBJIGxlYXJuZWQgYWJvdXQgdGhlIGRpZmZlcmVudCBncm91cHMgYW5kIGN1bHR1cmVzIHRoYXQgbWFrZSB1cCBteSBoaWdoIHNjaG9vbC4gPGZvbnQgaWQ9Mjg+VGhyb3VnaCBteSBmcmllbmRzLCBJIGhhdmUgZGV2ZWxvcGVkIGEgbG92ZSBmb3IgcmlicyBhbmQgdGFjb3MsIGFsdGVybmF0aXZlIHJvY2sgYW5kIGhpcC1ob3AsIG1vY2hhIGNhcHB1Y2Npbm8gYW5kIHNrYXRlYm9hcmRpbmcuIDwvZm9udD4gSSBlbmpveSBzcGVuZGluZyBldmVuaW5ncyBhdCBhIGxvY2FsIGNhZmUgd2l0aCBteSBjbGFzc21hdGVzLCB0YWxraW5nIGFuZCBzdHVkeWluZyB0b2dldGhlci48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">My mother has often asked <font id=29>me; </font> why I don't like to do the things or eat the foods that I did when I was younger. For a long time I could not understand why she was so protective of our Vietnamese traditions. Eventually, I began to understand that her reason for reminding me of our birthplace is to preserve in me a respect for <font id=30>it's</font> culture.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPk15IG1vdGhlciBoYXMgb2Z0ZW4gYXNrZWQgPGZvbnQgaWQ9Mjk+bWU7IDwvZm9udD4gd2h5IEkgZG9uJ3QgbGlrZSB0byBkbyB0aGUgdGhpbmdzIG9yIGVhdCB0aGUgZm9vZHMgdGhhdCBJIGRpZCB3aGVuIEkgd2FzIHlvdW5nZXIuIEZvciBhIGxvbmcgdGltZSBJIGNvdWxkIG5vdCB1bmRlcnN0YW5kIHdoeSBzaGUgd2FzIHNvIHByb3RlY3RpdmUgb2Ygb3VyIFZpZXRuYW1lc2UgdHJhZGl0aW9ucy4gRXZlbnR1YWxseSwgSSBiZWdhbiB0byB1bmRlcnN0YW5kIHRoYXQgaGVyIHJlYXNvbiBmb3IgcmVtaW5kaW5nIG1lIG9mIG91ciBiaXJ0aHBsYWNlIGlzIHRvIHByZXNlcnZlIGluIG1lIGEgcmVzcGVjdCBmb3IgPGZvbnQgaWQ9MzA+aXQnczwvZm9udD4gY3VsdHVyZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I still hope to go away to college next year. I also hope my mother is beginning to realize that I will take with me a part of the culture or our family and our home.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkkgc3RpbGwgaG9wZSB0byBnbyBhd2F5IHRvIGNvbGxlZ2UgbmV4dCB5ZWFyLiBJIGFsc28gaG9wZSBteSBtb3RoZXIgaXMgYmVnaW5uaW5nIHRvIHJlYWxpemUgdGhhdCBJIHdpbGwgdGFrZSB3aXRoIG1lIGEgcGFydCBvZiB0aGUgY3VsdHVyZSBvciBvdXIgZmFtaWx5IGFuZCBvdXIgaG9tZS48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">16.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. evening and like many others.</div>
-<div class = "choice">H. evening, typical for us.</div>
-<div class = "choice">J. evening, just as usual.</div>
-</div>
-###################
-<div class = "quiz">17. Which of the following alternatives to the underlined portion would NOT be acceptable?
-<div class = "choice">A. My mother and I prepared dinner meanwhile</div>
-<div class = "choice">B. As my mother and I were preparing dinner,</div>
-<div class = "choice">C. While my mother and I prepared dinner,</div>
-<div class = "choice">D. My mother and I prepared dinner while</div>
-</div>
-###################
-<div class = "quiz">18. The best placement for the underlined portion would be:
-<div class = "choice">F. where it is now.</div>
-<div class = "choice">G. after the word said.</div>
-<div class = "choice">H. after the word abandoning.</div>
-<div class = "choice">J. after the word home (ending the sentence with a period).</div>
-</div>
-###################
-<div class = "quiz">19. Which of the following sentences is LEAST relevant to the development of this opening paragraph and therefore could be deleted?
-<div class = "choice">A. Sentence 2</div>
-<div class = "choice">B. Sentence 4</div>
-<div class = "choice">C. Sentence 5</div>
-<div class = "choice">D. Sentence 6</div>
-</div>
-###################
-<div class = "quiz">20.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. just as</div>
-<div class = "choice">H. that</div>
-<div class = "choice">J. OMIT the underlined portion.</div>
-</div>
-###################
-<div class = "quiz">21. At this point, the writer is considering adding the following true statement:
-The New Year's holiday is celebrated on different days of the year in different cultures.
-Should the writer make this addition here?
-<div class = "choice">A. Yes, because it supports the essay's focus on celebrations among different cultures.</div>
-<div class = "choice">B. Yes, because it adds specific information about the narrator's culture.</div>
-<div class = "choice">C. No, because it provides .detail .that is inconsistent with the focus of this paragraph.</div>
-<div class = "choice">D. No, because it repeats information provided earlier in the essay.</div>
-</div>
-###################
-<div class = "quiz">22.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. People</div>
-<div class = "choice">H. You</div>
-<div class = "choice">J. We</div>
-</div>
-###################
-<div class = "quiz">23.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. lanterns, that</div>
-<div class = "choice">C. lanterns;</div>
-<div class = "choice">D. lanterns</div>
-</div>
-###################
-<div class = "quiz">24.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. eaten mooncake, and drank</div>
-<div class = "choice">H. eaten mooncake, and drunk</div>
-<div class = "choice">J. ate mooncake, and drank</div>
-</div>
-###################
-<div class = "quiz">25.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. would walk</div>
-<div class = "choice">C. has walked</div>
-<div class = "choice">D. was walking</div>
-</div>
-###################
-<div class = "quiz">26. Upon reviewing this paragraph and noticing that some information has been left out, the writer composes the following sentence, incorporating that information:
-In the summer we would make trips to the beach to get away from the heat of the city.
-For the sake of the logic of this paragraph, this sentence should be placed after Sentence:
-<div class = "choice">H. 3</div>
-<div class = "choice">G. 4</div>
-<div class = "choice">H. 5</div>
-<div class = "choice">J. 6</div>
-</div>
-###################
-<div class = "quiz">27. Given that all of the choices are accurate, which one provides the most effective and logical transition from the preceding sentence to this one?
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. She knows a lot about the art business, and</div>
-<div class = "choice">C. Houston being the largest city in Texas,</div>
-<div class = "choice">D. I really like Houston, Texas, where</div>
-</div>
-###################
-<div class = "quiz">28. If the writer were to delete the phrase "Through my Friends" (and the comma) from the preceding sentence, the paragraph would primarily lose:
-<div class = "choice">F. a key point in support of the logical argument being presented.</div>
-<div class = "choice">G. an indication that the narrator has been influenced by peers.</div>
-<div class = "choice">H. a specific description of how popular the narrator has become.</div>
-<div class = "choice">J. nothing at all, since this detail is stated elsewhere in the paragraph.</div>
-</div>
-###################
-<div class = "quiz">29.
-<div class = "choice">A. NO CHANGE</div>
-<div class = "choice">B. me;</div>
-<div class = "choice">C. me,</div>
-<div class = "choice">D. me</div>
-</div>
-###################
-<div class = "quiz">30.
-<div class = "choice">F. NO CHANGE</div>
-<div class = "choice">G. its</div>
-<div class = "choice">H. their</div>
-<div class = "choice">J. its'</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGV2ZW5pbmcgYW5kIGxpa2UgbWFueSBvdGhlcnMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGV2ZW5pbmcsIHR5cGljYWwgZm9yIHVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGV2ZW5pbmcsIGp1c3QgYXMgdXN1YWwuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xNy4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBhbHRlcm5hdGl2ZXMgdG8gdGhlIHVuZGVybGluZWQgcG9ydGlvbiB3b3VsZCBOT1QgYmUgYWNjZXB0YWJsZT8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE15IG1vdGhlciBhbmQgSSBwcmVwYXJlZCBkaW5uZXIgbWVhbndoaWxlPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIEFzIG15IG1vdGhlciBhbmQgSSB3ZXJlIHByZXBhcmluZyBkaW5uZXIsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFdoaWxlIG15IG1vdGhlciBhbmQgSSBwcmVwYXJlZCBkaW5uZXIsPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE15IG1vdGhlciBhbmQgSSBwcmVwYXJlZCBkaW5uZXIgd2hpbGU8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gVGhlIGJlc3QgcGxhY2VtZW50IGZvciB0aGUgdW5kZXJsaW5lZCBwb3J0aW9uIHdvdWxkIGJlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIHdoZXJlIGl0IGlzIG5vdy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFmdGVyIHRoZSB3b3JkIHNhaWQuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGFmdGVyIHRoZSB3b3JkIGFiYW5kb25pbmcuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGFmdGVyIHRoZSB3b3JkIGhvbWUgKGVuZGluZyB0aGUgc2VudGVuY2Ugd2l0aCBhIHBlcmlvZCkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gV2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzZW50ZW5jZXMgaXMgTEVBU1QgcmVsZXZhbnQgdG8gdGhlIGRldmVsb3BtZW50IG9mIHRoaXMgb3BlbmluZyBwYXJhZ3JhcGggYW5kIHRoZXJlZm9yZSBjb3VsZCBiZSBkZWxldGVkPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFNlbnRlbmNlIDI8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNlbnRlbmNlIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFNlbnRlbmNlIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFNlbnRlbmNlIDY8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGp1c3QgYXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoYXQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIE9NSVQgdGhlIHVuZGVybGluZWQgcG9ydGlvbi48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gQXQgdGhpcyBwb2ludCwgdGhlIHdyaXRlciBpcyBjb25zaWRlcmluZyBhZGRpbmcgdGhlIGZvbGxvd2luZyB0cnVlIHN0YXRlbWVudDo=
+VGhlIE5ldyBZZWFyJ3MgaG9saWRheSBpcyBjZWxlYnJhdGVkIG9uIGRpZmZlcmVudCBkYXlzIG9mIHRoZSB5ZWFyIGluIGRpZmZlcmVudCBjdWx0dXJlcy4=
+U2hvdWxkIHRoZSB3cml0ZXIgbWFrZSB0aGlzIGFkZGl0aW9uIGhlcmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFllcywgYmVjYXVzZSBpdCBzdXBwb3J0cyB0aGUgZXNzYXkncyBmb2N1cyBvbiBjZWxlYnJhdGlvbnMgYW1vbmcgZGlmZmVyZW50IGN1bHR1cmVzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFllcywgYmVjYXVzZSBpdCBhZGRzIHNwZWNpZmljIGluZm9ybWF0aW9uIGFib3V0IHRoZSBuYXJyYXRvcidzIGN1bHR1cmUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIE5vLCBiZWNhdXNlIGl0IHByb3ZpZGVzIC5kZXRhaWwgLnRoYXQgaXMgaW5jb25zaXN0ZW50IHdpdGggdGhlIGZvY3VzIG9mIHRoaXMgcGFyYWdyYXBoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIE5vLCBiZWNhdXNlIGl0IHJlcGVhdHMgaW5mb3JtYXRpb24gcHJvdmlkZWQgZWFybGllciBpbiB0aGUgZXNzYXkuPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIFBlb3BsZTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIFlvdTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIFdlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMy4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxhbnRlcm5zLCB0aGF0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGxhbnRlcm5zOzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGxhbnRlcm5zPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVhdGVuIG1vb25jYWtlLCBhbmQgZHJhbms8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGVhdGVuIG1vb25jYWtlLCBhbmQgZHJ1bms8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGF0ZSBtb29uY2FrZSwgYW5kIGRyYW5rPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIHdvdWxkIHdhbGs8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGhhcyB3YWxrZWQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHdhcyB3YWxraW5nPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gVXBvbiByZXZpZXdpbmcgdGhpcyBwYXJhZ3JhcGggYW5kIG5vdGljaW5nIHRoYXQgc29tZSBpbmZvcm1hdGlvbiBoYXMgYmVlbiBsZWZ0IG91dCwgdGhlIHdyaXRlciBjb21wb3NlcyB0aGUgZm9sbG93aW5nIHNlbnRlbmNlLCBpbmNvcnBvcmF0aW5nIHRoYXQgaW5mb3JtYXRpb246
+SW4gdGhlIHN1bW1lciB3ZSB3b3VsZCBtYWtlIHRyaXBzIHRvIHRoZSBiZWFjaCB0byBnZXQgYXdheSBmcm9tIHRoZSBoZWF0IG9mIHRoZSBjaXR5Lg==
+Rm9yIHRoZSBzYWtlIG9mIHRoZSBsb2dpYyBvZiB0aGlzIHBhcmFncmFwaCwgdGhpcyBzZW50ZW5jZSBzaG91bGQgYmUgcGxhY2VkIGFmdGVyIFNlbnRlbmNlOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDY8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gR2l2ZW4gdGhhdCBhbGwgb2YgdGhlIGNob2ljZXMgYXJlIGFjY3VyYXRlLCB3aGljaCBvbmUgcHJvdmlkZXMgdGhlIG1vc3QgZWZmZWN0aXZlIGFuZCBsb2dpY2FsIHRyYW5zaXRpb24gZnJvbSB0aGUgcHJlY2VkaW5nIHNlbnRlbmNlIHRvIHRoaXMgb25lPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFNoZSBrbm93cyBhIGxvdCBhYm91dCB0aGUgYXJ0IGJ1c2luZXNzLCBhbmQ8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIEhvdXN0b24gYmVpbmcgdGhlIGxhcmdlc3QgY2l0eSBpbiBUZXhhcyw8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIEkgcmVhbGx5IGxpa2UgSG91c3RvbiwgVGV4YXMsIHdoZXJlPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gSWYgdGhlIHdyaXRlciB3ZXJlIHRvIGRlbGV0ZSB0aGUgcGhyYXNlICJUaHJvdWdoIG15IEZyaWVuZHMiIChhbmQgdGhlIGNvbW1hKSBmcm9tIHRoZSBwcmVjZWRpbmcgc2VudGVuY2UsIHRoZSBwYXJhZ3JhcGggd291bGQgcHJpbWFyaWx5IGxvc2U6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGEga2V5IHBvaW50IGluIHN1cHBvcnQgb2YgdGhlIGxvZ2ljYWwgYXJndW1lbnQgYmVpbmcgcHJlc2VudGVkLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGFuIGluZGljYXRpb24gdGhhdCB0aGUgbmFycmF0b3IgaGFzIGJlZW4gaW5mbHVlbmNlZCBieSBwZWVycy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGEgc3BlY2lmaWMgZGVzY3JpcHRpb24gb2YgaG93IHBvcHVsYXIgdGhlIG5hcnJhdG9yIGhhcyBiZWNvbWUuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIG5vdGhpbmcgYXQgYWxsLCBzaW5jZSB0aGlzIGRldGFpbCBpcyBzdGF0ZWQgZWxzZXdoZXJlIGluIHRoZSBwYXJhZ3JhcGguPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIG1lOzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIG1lLDwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIG1lPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIE5PIENIQU5HRTwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGl0czwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIHRoZWlyPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGl0cyc8L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

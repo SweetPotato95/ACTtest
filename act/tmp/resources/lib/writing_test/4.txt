@@ -1,0 +1,12 @@
+﻿<h1>The role of creativity</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Creativity can be defined by some as the act of turning new and imaginative ideas into reality. It is characterized by the ability to perceive the world in new ways, to find hidden patterns, to make connections between seemingly unrelated phenomena, and to generate solutions. However, the practicality and usefulness of all things described as creative is certainly debatable in today’s world that is filled with an endless stream of newly created information. Do individuals need to be creative and is it important for living well? Should young people today be encouraged to learn creativity?</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective1</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Creativity is overrated. Creative ideas usually defy traditions or history. Truly great ideas built upon proven methods.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective2</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Can one make progress without creativity? Yes. But to make real progress in this rapidly changing world, creativity is essential.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective3</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Creativity has no clear definition. People should focus on abilities that can be accurately quantified or measured. </div>

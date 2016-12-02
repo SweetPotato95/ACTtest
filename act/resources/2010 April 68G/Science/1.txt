@@ -1,73 +1,73 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two species of aquatic plants, Species A and Species B, are often found in the same freshwater lakes. Both species can grow in water up to 2 m deep. However, typically, Species A is found closer to the lake's edge in shallower water whereas Species B grows farther out in deeper water. Both species spread by means of underground stems called rhizomes and by means of seeds. A scientist conducted 2 studies to examine the effect of water depth on the growth of Species A and Species B plants from seeds.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlR3byBzcGVjaWVzIG9mIGFxdWF0aWMgcGxhbnRzLCBTcGVjaWVzIEEgYW5kIFNwZWNpZXMgQiwgYXJlIG9mdGVuIGZvdW5kIGluIHRoZSBzYW1lIGZyZXNod2F0ZXIgbGFrZXMuIEJvdGggc3BlY2llcyBjYW4gZ3JvdyBpbiB3YXRlciB1cCB0byAyIG0gZGVlcC4gSG93ZXZlciwgdHlwaWNhbGx5LCBTcGVjaWVzIEEgaXMgZm91bmQgY2xvc2VyIHRvIHRoZSBsYWtlJ3MgZWRnZSBpbiBzaGFsbG93ZXIgd2F0ZXIgd2hlcmVhcyBTcGVjaWVzIEIgZ3Jvd3MgZmFydGhlciBvdXQgaW4gZGVlcGVyIHdhdGVyLiBCb3RoIHNwZWNpZXMgc3ByZWFkIGJ5IG1lYW5zIG9mIHVuZGVyZ3JvdW5kIHN0ZW1zIGNhbGxlZCByaGl6b21lcyBhbmQgYnkgbWVhbnMgb2Ygc2VlZHMuIEEgc2NpZW50aXN0IGNvbmR1Y3RlZCAyIHN0dWRpZXMgdG8gZXhhbWluZSB0aGUgZWZmZWN0IG9mIHdhdGVyIGRlcHRoIG9uIHRoZSBncm93dGggb2YgU3BlY2llcyBBIGFuZCBTcGVjaWVzIEIgcGxhbnRzIGZyb20gc2VlZHMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDE8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In early Jun e, seeds from Species A and Species B were germinated. In mid-June, 24 seedlings of each species, all having shoot lengths of 3 cm to 5 cm, were transferred to identical pots (1 seedling per pot). The pots were suspended beneath the water in large outdoor tanks that were located in full Sun. Eight seedlings of each species were submerged to each of 3 water depths-0.2 m, 0.4 m, and 0.8 m. In late September, the average shoot length for surviving Species A seedlings and Species B seedlings at each of the 3 water depths was determined. The results are shown in Figure l.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkluIGVhcmx5IEp1biBlLCBzZWVkcyBmcm9tIFNwZWNpZXMgQSBhbmQgU3BlY2llcyBCIHdlcmUgZ2VybWluYXRlZC4gSW4gbWlkLUp1bmUsIDI0IHNlZWRsaW5ncyBvZiBlYWNoIHNwZWNpZXMsIGFsbCBoYXZpbmcgc2hvb3QgbGVuZ3RocyBvZiAzIGNtIHRvIDUgY20sIHdlcmUgdHJhbnNmZXJyZWQgdG8gaWRlbnRpY2FsIHBvdHMgKDEgc2VlZGxpbmcgcGVyIHBvdCkuIFRoZSBwb3RzIHdlcmUgc3VzcGVuZGVkIGJlbmVhdGggdGhlIHdhdGVyIGluIGxhcmdlIG91dGRvb3IgdGFua3MgdGhhdCB3ZXJlIGxvY2F0ZWQgaW4gZnVsbCBTdW4uIEVpZ2h0IHNlZWRsaW5ncyBvZiBlYWNoIHNwZWNpZXMgd2VyZSBzdWJtZXJnZWQgdG8gZWFjaCBvZiAzIHdhdGVyIGRlcHRocy0wLjIgbSwgMC40IG0sIGFuZCAwLjggbS4gSW4gbGF0ZSBTZXB0ZW1iZXIsIHRoZSBhdmVyYWdlIHNob290IGxlbmd0aCBmb3Igc3Vydml2aW5nIFNwZWNpZXMgQSBzZWVkbGluZ3MgYW5kIFNwZWNpZXMgQiBzZWVkbGluZ3MgYXQgZWFjaCBvZiB0aGUgMyB3YXRlciBkZXB0aHMgd2FzIGRldGVybWluZWQuIFRoZSByZXN1bHRzIGFyZSBzaG93biBpbiBGaWd1cmUgbC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\81.png' width = '449'height = '266'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODEucG5nJyB3aWR0aCA9ICc0NDknaGVpZ2h0ID0gJzI2NicvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlN0dWR5IDI8L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Immediately after Study l, the surviving seedlings of Species A and B were removed from the tanks, dried, and then weighed. The average dry mass of the surviving Species A seedlings from each water depth was 2.3 mg. The average dry mass of the surviving Species B seedlings from each water depth is shown in Figure 2.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkltbWVkaWF0ZWx5IGFmdGVyIFN0dWR5IGwsIHRoZSBzdXJ2aXZpbmcgc2VlZGxpbmdzIG9mIFNwZWNpZXMgQSBhbmQgQiB3ZXJlIHJlbW92ZWQgZnJvbSB0aGUgdGFua3MsIGRyaWVkLCBhbmQgdGhlbiB3ZWlnaGVkLiBUaGUgYXZlcmFnZSBkcnkgbWFzcyBvZiB0aGUgc3Vydml2aW5nIFNwZWNpZXMgQSBzZWVkbGluZ3MgZnJvbSBlYWNoIHdhdGVyIGRlcHRoIHdhcyAyLjMgbWcuIFRoZSBhdmVyYWdlIGRyeSBtYXNzIG9mIHRoZSBzdXJ2aXZpbmcgU3BlY2llcyBCIHNlZWRsaW5ncyBmcm9tIGVhY2ggd2F0ZXIgZGVwdGggaXMgc2hvd24gaW4gRmlndXJlIDIuPC9kaXY+
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\82.png' width = '376'height = '250'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODIucG5nJyB3aWR0aCA9ICczNzYnaGVpZ2h0ID0gJzI1MCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For each water depth, the shoot length and dry mass of each surviving Species B seedling were plotted, The best-fit curve for each set of data points is shown in Figure 3.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZvciBlYWNoIHdhdGVyIGRlcHRoLCB0aGUgc2hvb3QgbGVuZ3RoIGFuZCBkcnkgbWFzcyBvZiBlYWNoIHN1cnZpdmluZyBTcGVjaWVzIEIgc2VlZGxpbmcgd2VyZSBwbG90dGVkLCBUaGUgYmVzdC1maXQgY3VydmUgZm9yIGVhY2ggc2V0IG9mIGRhdGEgcG9pbnRzIGlzIHNob3duIGluIEZpZ3VyZSAzLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\83.png' width = '455'height = '250'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODMucG5nJyB3aWR0aCA9ICc0NTUnaGVpZ2h0ID0gJzI1MCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Stefan E. B. Weisner et al, "influence of Submergence on Growth of Seedlings of Scirpus lacustris and Phragmites australis."1993 by Blackwell Publishing.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZXMgYWRhcHRlZCBmcm9tIFN0ZWZhbiBFLiBCLiBXZWlzbmVyIGV0IGFsLCAiaW5mbHVlbmNlIG9mIFN1Ym1lcmdlbmNlIG9uIEdyb3d0aCBvZiBTZWVkbGluZ3Mgb2YgU2NpcnB1cyBsYWN1c3RyaXMgYW5kIFBocmFnbWl0ZXMgYXVzdHJhbGlzLiIVMTk5MyBieSBCbGFja3dlbGwgUHVibGlzaGluZy48L2Rpdj4=
 
-<br>
-###################
-<div class = "quiz">1. Based on Figure 3, for a water depth of 0.8 m, the shoot length and dry mass of how many Species B seedlings were plotted?
-<div class = "choice">A. 5</div>
-<div class = "choice">B. 8</div>
-<div class = "choice">C. 24</div>
-<div class = "choice">D. Cannot be determined from the given information</div>
-</div>
-###################
-<div class = "quiz">2. Suppose that a fourth group of pots containing Species B seedlings had been suspended at a water depth of 0.3 m. The average shoot length of these seedlings in late September would most likely have been:
-<div class = "choice">F. less than 34 cm.</div>
-<div class = "choice">G. between 34 cm and 42 cm.</div>
-<div class = "choice">H. between 42 cm and 50 cm.</div>
-<div class = "choice">J. greater than 50 cm.</div>
-</div>
-###################
-<div class = "quiz">3. At the conclusion of Study 2, a seedling of Species B length of 33 cm. Based on Figure 3, this seedling most likely had been submerged at which of the following water depths?
-<div class = "choice">A. 0.2 m</div>
-<div class = "choice">B. 0.4 m</div>
-<div class = "choice">C. 0.8 m</div>
-<div class = "choice">D. 1.0 m</div>
-</div>
-###################
-<div class = "quiz">4. Which of the following sets of data points most likely yielded the best-fit curve for surviving Species B seedlings grown at a depth of 0.4 m ?
-<div class = "choice">F. <img src='file:\$$$\resources\2010 April 68G\imgs\84.png' width = '224'height = '130'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2010 April 68G\imgs\85.png' width = '200'height = '130'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2010 April 68G\imgs\86.png' width = '208'height = '130'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2010 April 68G\imgs\87.png' width = '216'height = '130'/></div>
-</div>
-###################
-<div class = "quiz">5. According to the results of Studies l and 2, for a given water depth，how did surviving seedlings of Species A compare to surviving seedlings of Species B ? On average, seedlings of Species A had:
-<div class = "choice">A. longer shoot lengths and greater dry mass.</div>
-<div class = "choice">B. longer shoot lengths but lesser dry mass.</div>
-<div class = "choice">C. shorter shoot lengths and lesser dry mass.</div>
-<div class = "choice">D. shorter shoot lengths but greater dry mass.</div>
-</div>
-###################
-<div class = "quiz">6. Of the 8 Species A seedlings grown at a water depth of 0.2 m, 6 survived. The total dry mass of these surviving seedlings can be calculated using which of the following expressions?
-<div class = "choice">F. 2.3 mg×6</div>
-<div class = "choice">G. 2.3 mg÷6</div>
-<div class = "choice">H. 2.3 mg×8</div>
-<div class = "choice">J. 2.3 mg÷8</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xLiBCYXNlZCBvbiBGaWd1cmUgMywgZm9yIGEgd2F0ZXIgZGVwdGggb2YgMC44IG0sIHRoZSBzaG9vdCBsZW5ndGggYW5kIGRyeSBtYXNzIG9mIGhvdyBtYW55IFNwZWNpZXMgQiBzZWVkbGluZ3Mgd2VyZSBwbG90dGVkPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDU8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDg8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDI0PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENhbm5vdCBiZSBkZXRlcm1pbmVkIGZyb20gdGhlIGdpdmVuIGluZm9ybWF0aW9uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yLiBTdXBwb3NlIHRoYXQgYSBmb3VydGggZ3JvdXAgb2YgcG90cyBjb250YWluaW5nIFNwZWNpZXMgQiBzZWVkbGluZ3MgaGFkIGJlZW4gc3VzcGVuZGVkIGF0IGEgd2F0ZXIgZGVwdGggb2YgMC4zIG0uIFRoZSBhdmVyYWdlIHNob290IGxlbmd0aCBvZiB0aGVzZSBzZWVkbGluZ3MgaW4gbGF0ZSBTZXB0ZW1iZXIgd291bGQgbW9zdCBsaWtlbHkgaGF2ZSBiZWVuOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGxlc3MgdGhhbiAzNCBjbS48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGJldHdlZW4gMzQgY20gYW5kIDQyIGNtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGJldHdlZW4gNDIgY20gYW5kIDUwIGNtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGdyZWF0ZXIgdGhhbiA1MCBjbS48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zLiBBdCB0aGUgY29uY2x1c2lvbiBvZiBTdHVkeSAyLCBhIHNlZWRsaW5nIG9mIFNwZWNpZXMgQiBsZW5ndGggb2YgMzMgY20uIEJhc2VkIG9uIEZpZ3VyZSAzLCB0aGlzIHNlZWRsaW5nIG1vc3QgbGlrZWx5IGhhZCBiZWVuIHN1Ym1lcmdlZCBhdCB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHdhdGVyIGRlcHRocz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDAuMiBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDAuNCBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDAuOCBtPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDEuMCBtPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij40LiBXaGljaCBvZiB0aGUgZm9sbG93aW5nIHNldHMgb2YgZGF0YSBwb2ludHMgbW9zdCBsaWtlbHkgeWllbGRlZCB0aGUgYmVzdC1maXQgY3VydmUgZm9yIHN1cnZpdmluZyBTcGVjaWVzIEIgc2VlZGxpbmdzIGdyb3duIGF0IGEgZGVwdGggb2YgMC40IG0gPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODQucG5nJyB3aWR0aCA9ICcyMjQnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODUucG5nJyB3aWR0aCA9ICcyMDAnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODYucG5nJyB3aWR0aCA9ICcyMDgnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTAgQXByaWwgNjhHXGltZ3NcODcucG5nJyB3aWR0aCA9ICcyMTYnaGVpZ2h0ID0gJzEzMCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij41LiBBY2NvcmRpbmcgdG8gdGhlIHJlc3VsdHMgb2YgU3R1ZGllcyBsIGFuZCAyLCBmb3IgYSBnaXZlbiB3YXRlciBkZXB0aO+8jGhvdyBkaWQgc3Vydml2aW5nIHNlZWRsaW5ncyBvZiBTcGVjaWVzIEEgY29tcGFyZSB0byBzdXJ2aXZpbmcgc2VlZGxpbmdzIG9mIFNwZWNpZXMgQiA/IE9uIGF2ZXJhZ2UsIHNlZWRsaW5ncyBvZiBTcGVjaWVzIEEgaGFkOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGxvbmdlciBzaG9vdCBsZW5ndGhzIGFuZCBncmVhdGVyIGRyeSBtYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGxvbmdlciBzaG9vdCBsZW5ndGhzIGJ1dCBsZXNzZXIgZHJ5IG1hc3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIHNob3J0ZXIgc2hvb3QgbGVuZ3RocyBhbmQgbGVzc2VyIGRyeSBtYXNzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIHNob3J0ZXIgc2hvb3QgbGVuZ3RocyBidXQgZ3JlYXRlciBkcnkgbWFzcy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij42LiBPZiB0aGUgOCBTcGVjaWVzIEEgc2VlZGxpbmdzIGdyb3duIGF0IGEgd2F0ZXIgZGVwdGggb2YgMC4yIG0sIDYgc3Vydml2ZWQuIFRoZSB0b3RhbCBkcnkgbWFzcyBvZiB0aGVzZSBzdXJ2aXZpbmcgc2VlZGxpbmdzIGNhbiBiZSBjYWxjdWxhdGVkIHVzaW5nIHdoaWNoIG9mIHRoZSBmb2xsb3dpbmcgZXhwcmVzc2lvbnM/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDIuMyBtZ8OXNjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIuMyBtZ8O3NjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDIuMyBtZ8OXODwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDIuMyBtZ8O3ODwvZGl2Pg==
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

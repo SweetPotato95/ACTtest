@@ -1,50 +1,50 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The respiratory cycle for resting humans who are breathing normally has been studied by physiologists. The figure shows 4 average measures of the cycle: lung volume, air flow (the rate at which air flows into or out of the lungs), pleural pressure (the pressure in the area between the Jungs and the chest wall), and alveolar pressure (the pressure in the alveoli, small sacs in the lungs where air exchange takes place). Pleural pressure and alveolar pressure are represented as values above or below atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\192.png' width = '60'height = '42'/>). The nex inspiration begins at the end of the pause.</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByZXNwaXJhdG9yeSBjeWNsZSBmb3IgcmVzdGluZyBodW1hbnMgd2hvIGFyZSBicmVhdGhpbmcgbm9ybWFsbHkgaGFzIGJlZW4gc3R1ZGllZCBieSBwaHlzaW9sb2dpc3RzLiBUaGUgZmlndXJlIHNob3dzIDQgYXZlcmFnZSBtZWFzdXJlcyBvZiB0aGUgY3ljbGU6IGx1bmcgdm9sdW1lLCBhaXIgZmxvdyAodGhlIHJhdGUgYXQgd2hpY2ggYWlyIGZsb3dzIGludG8gb3Igb3V0IG9mIHRoZSBsdW5ncyksIHBsZXVyYWwgcHJlc3N1cmUgKHRoZSBwcmVzc3VyZSBpbiB0aGUgYXJlYSBiZXR3ZWVuIHRoZSBKdW5ncyBhbmQgdGhlIGNoZXN0IHdhbGwpLCBhbmQgYWx2ZW9sYXIgcHJlc3N1cmUgKHRoZSBwcmVzc3VyZSBpbiB0aGUgYWx2ZW9saSwgc21hbGwgc2FjcyBpbiB0aGUgbHVuZ3Mgd2hlcmUgYWlyIGV4Y2hhbmdlIHRha2VzIHBsYWNlKS4gUGxldXJhbCBwcmVzc3VyZSBhbmQgYWx2ZW9sYXIgcHJlc3N1cmUgYXJlIHJlcHJlc2VudGVkIGFzIHZhbHVlcyBhYm92ZSBvciBiZWxvdyBhdG1vc3BoZXJpYyBwcmVzc3VyZSAoMSwwMzMgY208aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEp1bmUgNjlGXGltZ3NcMTkyLnBuZycgd2lkdGggPSAnNjAnaGVpZ2h0ID0gJzQyJy8+KS4gVGhlIG5leCBpbnNwaXJhdGlvbiBiZWdpbnMgYXQgdGhlIGVuZCBvZiB0aGUgcGF1c2UuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2011 June 69F\imgs\238.png' width = '400'height = '500'/></div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMTEgSnVuZSA2OUZcaW1nc1wyMzgucG5nJyB3aWR0aCA9ICc0MDAnaGVpZ2h0ID0gJzUwMCcvPjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">*corresponds to atmospheric pressure (1,033 cm<img src='file:\$$$\resources\2011 June 69F\imgs\193.png' width = '60'height = '42'/>)</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPipjb3JyZXNwb25kcyB0byBhdG1vc3BoZXJpYyBwcmVzc3VyZSAoMSwwMzMgY208aW1nIHNyYz0nZmlsZTpcJCQkXHJlc291cmNlc1wyMDExIEp1bmUgNjlGXGltZ3NcMTkzLnBuZycgd2lkdGggPSAnNjAnaGVpZ2h0ID0gJzQyJy8+KTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Robert M. Berne and Matthew N. Levy, eds., Principles of Physiology. © 1990 by C.V. Mosby Company.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkZpZ3VyZSBhZGFwdGVkIGZyb20gUm9iZXJ0IE0uIEJlcm5lIGFuZCBNYXR0aGV3IE4uIExldnksIGVkcy4sIFByaW5jaXBsZXMgb2YgUGh5c2lvbG9neS4gwqkgMTk5MCBieSBDLlYuIE1vc2J5IENvbXBhbnkuPC9kaXY+
 
-<br>
-###################
-<div class = "quiz">18. Functional residual capacity (FRC) refers to average lung volume during the pause portion of the respiratory cycle. Based on the figure, FRC is closest to which of the following values?
-<div class = "choice">F. 0.5 L</div>
-<div class = "choice">G. 2.4 L</div>
-<div class = "choice">H. 2.9 L</div>
-<div class = "choice">J. 5.3 L</div>
-</div>
-###################
-<div class = "quiz">19. For a resting human who is breathing normally, how does the duration of inspiration compare with the duration of expiration?
-<div class = "choice">A. The duration of inspiration is longer than the duration of expiration.</div>
-<div class = "choice">B. The duration of inspiration is shorter than the duration of expiration.</div>
-<div class = "choice">C. The duration of inspiration and the duration of expiration do not differ.</div>
-<div class = "choice">D. Cannot be determined from the given information</div>
-</div>
-###################
-<div class = "quiz">20. The figure shows that when pleural pressure is lowest, air flow is closest to which of the following?
-<div class = "choice">F. -0.5 L/sec</div>
-<div class = "choice">G. 0 L/sec</div>
-<div class = "choice">H. 0.5 L/sec</div>
-<div class = "choice">J. 1.0 L/sec</div>
-</div>
-###################
-<div class = "quiz">21. When tire diaphragm contracts during the first 0.5 sec of inspiration, the chest wall expands away from the lungs, which causes the lungs to expand. Based on the figure, what is the effect of the contraction of the diaphragm on pleural pressure and alveolar pressure?
-<div class = "choice">A. Pleural pressure increases        alveolar pressure increases</div>
-<div class = "choice">B. Pleural pressure increases        alveolar pressure decreases</div>
-<div class = "choice">C. Pleural pressure decreases        alveolar pressure increases</div>
-<div class = "choice">D. Pleural pressure decreases        alveolar pressure decreases</div>
-</div>
-###################
-<div class = "quiz">22. According to the information provided, which of the following statements best describes the relationship between alveolar pressure, atmospheric pressure, and the direction of air flow during most of expiration?
-<div class = "choice">F. Because alveolar pressure is less than atmospheric pressure during most of expiration, air flows into the lungs.</div>
-<div class = "choice">G. Because alveolar pressure is less than atmospheric pressure during most of expiration, air flows out of the lungs.</div>
-<div class = "choice">H. Because alveolar pressure exceeds atmospheric pressure during most of expiration, air flows into the lungs.</div>
-<div class = "choice">J. Because alveolar pressure exceeds atmospheric pressure during most of expiration, air flows out of the lungs.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOC4gRnVuY3Rpb25hbCByZXNpZHVhbCBjYXBhY2l0eSAoRlJDKSByZWZlcnMgdG8gYXZlcmFnZSBsdW5nIHZvbHVtZSBkdXJpbmcgdGhlIHBhdXNlIHBvcnRpb24gb2YgdGhlIHJlc3BpcmF0b3J5IGN5Y2xlLiBCYXNlZCBvbiB0aGUgZmlndXJlLCBGUkMgaXMgY2xvc2VzdCB0byB3aGljaCBvZiB0aGUgZm9sbG93aW5nIHZhbHVlcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuNSBMPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDIuNCBMPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDIuOSBMPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDUuMyBMPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4xOS4gRm9yIGEgcmVzdGluZyBodW1hbiB3aG8gaXMgYnJlYXRoaW5nIG5vcm1hbGx5LCBob3cgZG9lcyB0aGUgZHVyYXRpb24gb2YgaW5zcGlyYXRpb24gY29tcGFyZSB3aXRoIHRoZSBkdXJhdGlvbiBvZiBleHBpcmF0aW9uPw==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFRoZSBkdXJhdGlvbiBvZiBpbnNwaXJhdGlvbiBpcyBsb25nZXIgdGhhbiB0aGUgZHVyYXRpb24gb2YgZXhwaXJhdGlvbi48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFRoZSBkdXJhdGlvbiBvZiBpbnNwaXJhdGlvbiBpcyBzaG9ydGVyIHRoYW4gdGhlIGR1cmF0aW9uIG9mIGV4cGlyYXRpb24uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFRoZSBkdXJhdGlvbiBvZiBpbnNwaXJhdGlvbiBhbmQgdGhlIGR1cmF0aW9uIG9mIGV4cGlyYXRpb24gZG8gbm90IGRpZmZlci48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIENhbm5vdCBiZSBkZXRlcm1pbmVkIGZyb20gdGhlIGdpdmVuIGluZm9ybWF0aW9uPC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMC4gVGhlIGZpZ3VyZSBzaG93cyB0aGF0IHdoZW4gcGxldXJhbCBwcmVzc3VyZSBpcyBsb3dlc3QsIGFpciBmbG93IGlzIGNsb3Nlc3QgdG8gd2hpY2ggb2YgdGhlIGZvbGxvd2luZz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIC0wLjUgTC9zZWM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAgTC9zZWM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDAuNSBML3NlYzwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEuMCBML3NlYzwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMS4gV2hlbiB0aXJlIGRpYXBocmFnbSBjb250cmFjdHMgZHVyaW5nIHRoZSBmaXJzdCAwLjUgc2VjIG9mIGluc3BpcmF0aW9uLCB0aGUgY2hlc3Qgd2FsbCBleHBhbmRzIGF3YXkgZnJvbSB0aGUgbHVuZ3MsIHdoaWNoIGNhdXNlcyB0aGUgbHVuZ3MgdG8gZXhwYW5kLiBCYXNlZCBvbiB0aGUgZmlndXJlLCB3aGF0IGlzIHRoZSBlZmZlY3Qgb2YgdGhlIGNvbnRyYWN0aW9uIG9mIHRoZSBkaWFwaHJhZ20gb24gcGxldXJhbCBwcmVzc3VyZSBhbmQgYWx2ZW9sYXIgcHJlc3N1cmU/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIFBsZXVyYWwgcHJlc3N1cmUgaW5jcmVhc2VzICAgICAgICBhbHZlb2xhciBwcmVzc3VyZSBpbmNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIFBsZXVyYWwgcHJlc3N1cmUgaW5jcmVhc2VzICAgICAgICBhbHZlb2xhciBwcmVzc3VyZSBkZWNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIFBsZXVyYWwgcHJlc3N1cmUgZGVjcmVhc2VzICAgICAgICBhbHZlb2xhciBwcmVzc3VyZSBpbmNyZWFzZXM8L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIFBsZXVyYWwgcHJlc3N1cmUgZGVjcmVhc2VzICAgICAgICBhbHZlb2xhciBwcmVzc3VyZSBkZWNyZWFzZXM8L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yMi4gQWNjb3JkaW5nIHRvIHRoZSBpbmZvcm1hdGlvbiBwcm92aWRlZCwgd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBzdGF0ZW1lbnRzIGJlc3QgZGVzY3JpYmVzIHRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiBhbHZlb2xhciBwcmVzc3VyZSwgYXRtb3NwaGVyaWMgcHJlc3N1cmUsIGFuZCB0aGUgZGlyZWN0aW9uIG9mIGFpciBmbG93IGR1cmluZyBtb3N0IG9mIGV4cGlyYXRpb24/
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIEJlY2F1c2UgYWx2ZW9sYXIgcHJlc3N1cmUgaXMgbGVzcyB0aGFuIGF0bW9zcGhlcmljIHByZXNzdXJlIGR1cmluZyBtb3N0IG9mIGV4cGlyYXRpb24sIGFpciBmbG93cyBpbnRvIHRoZSBsdW5ncy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIEJlY2F1c2UgYWx2ZW9sYXIgcHJlc3N1cmUgaXMgbGVzcyB0aGFuIGF0bW9zcGhlcmljIHByZXNzdXJlIGR1cmluZyBtb3N0IG9mIGV4cGlyYXRpb24sIGFpciBmbG93cyBvdXQgb2YgdGhlIGx1bmdzLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIEJlY2F1c2UgYWx2ZW9sYXIgcHJlc3N1cmUgZXhjZWVkcyBhdG1vc3BoZXJpYyBwcmVzc3VyZSBkdXJpbmcgbW9zdCBvZiBleHBpcmF0aW9uLCBhaXIgZmxvd3MgaW50byB0aGUgbHVuZ3MuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIEJlY2F1c2UgYWx2ZW9sYXIgcHJlc3N1cmUgZXhjZWVkcyBhdG1vc3BoZXJpYyBwcmVzc3VyZSBkdXJpbmcgbW9zdCBvZiBleHBpcmF0aW9uLCBhaXIgZmxvd3Mgb3V0IG9mIHRoZSBsdW5ncy48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

@@ -1,79 +1,79 @@
-﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+77s/PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPu+7PzwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Albert Einstein predicted that light passing by a massive object would be deflected of motion (Angle θ in Figure 1).</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkFsYmVydCBFaW5zdGVpbiBwcmVkaWN0ZWQgdGhhdCBsaWdodCBwYXNzaW5nIGJ5IGEgbWFzc2l2ZSBvYmplY3Qgd291bGQgYmUgZGVmbGVjdGVkIG9mIG1vdGlvbiAoQW5nbGUgzrggaW4gRmlndXJlIDEpLjwvZGl2Pg==
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\174.png' width = '410'height = '298'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzQucG5nJyB3aWR0aCA9ICc0MTAnaGVpZ2h0ID0gJzI5OCcvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Einstein also predicted that light's travel time between certain planets would be increased by the Sun's gravity. Experiments 1 and 2 tested Einstein's predictions.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVpbnN0ZWluIGFsc28gcHJlZGljdGVkIHRoYXQgbGlnaHQncyB0cmF2ZWwgdGltZSBiZXR3ZWVuIGNlcnRhaW4gcGxhbmV0cyB3b3VsZCBiZSBpbmNyZWFzZWQgYnkgdGhlIFN1bidzIGdyYXZpdHkuIEV4cGVyaW1lbnRzIDEgYW5kIDIgdGVzdGVkIEVpbnN0ZWluJ3MgcHJlZGljdGlvbnMuPC9kaXY+
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 1</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMTwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Einstein predicted that for light of any wavelength skimming the visible edge of the Sun, θ=1.75 arcsec. To measure θ in visible light (wavelength=0.00005 cm), scientists observed the stars appearing at the Sun's edge during a total solar eclipse, and they plotted the stars' positions in the sky. Next, they plotted the positions of the same stars when the stars did not appear close to the Sun; θ equaled the angle between the 2 positions of each star. An average of θ was found for all the stars tested. Then, scientists measured and found average values of θ for light at radio wavelengths (3.1 cm and 11.6 cm) skimming the Sun's visible edge.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkVpbnN0ZWluIHByZWRpY3RlZCB0aGF0IGZvciBsaWdodCBvZiBhbnkgd2F2ZWxlbmd0aCBza2ltbWluZyB0aGUgdmlzaWJsZSBlZGdlIG9mIHRoZSBTdW4sIM64PTEuNzUgYXJjc2VjLiBUbyBtZWFzdXJlIM64IGluIHZpc2libGUgbGlnaHQgKHdhdmVsZW5ndGg9MC4wMDAwNSBjbSksIHNjaWVudGlzdHMgb2JzZXJ2ZWQgdGhlIHN0YXJzIGFwcGVhcmluZyBhdCB0aGUgU3VuJ3MgZWRnZSBkdXJpbmcgYSB0b3RhbCBzb2xhciBlY2xpcHNlLCBhbmQgdGhleSBwbG90dGVkIHRoZSBzdGFycycgcG9zaXRpb25zIGluIHRoZSBza3kuIE5leHQsIHRoZXkgcGxvdHRlZCB0aGUgcG9zaXRpb25zIG9mIHRoZSBzYW1lIHN0YXJzIHdoZW4gdGhlIHN0YXJzIGRpZCBub3QgYXBwZWFyIGNsb3NlIHRvIHRoZSBTdW47IM64IGVxdWFsZWQgdGhlIGFuZ2xlIGJldHdlZW4gdGhlIDIgcG9zaXRpb25zIG9mIGVhY2ggc3Rhci4gQW4gYXZlcmFnZSBvZiDOuCB3YXMgZm91bmQgZm9yIGFsbCB0aGUgc3RhcnMgdGVzdGVkLiBUaGVuLCBzY2llbnRpc3RzIG1lYXN1cmVkIGFuZCBmb3VuZCBhdmVyYWdlIHZhbHVlcyBvZiDOuCBmb3IgbGlnaHQgYXQgcmFkaW8gd2F2ZWxlbmd0aHMgKDMuMSBjbSBhbmQgMTEuNiBjbSkgc2tpbW1pbmcgdGhlIFN1bidzIHZpc2libGUgZWRnZS48L2Rpdj4=
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results are given in Table 1. (Note: ±signifies the uncertainty in a measurement. For example, at 0.00005 cm, the true value of θ was most likely between 1.57 and 1.87 arcsec.)</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSByZXN1bHRzIGFyZSBnaXZlbiBpbiBUYWJsZSAxLiAoTm90ZTogwrFzaWduaWZpZXMgdGhlIHVuY2VydGFpbnR5IGluIGEgbWVhc3VyZW1lbnQuIEZvciBleGFtcGxlLCBhdCAwLjAwMDA1IGNtLCB0aGUgdHJ1ZSB2YWx1ZSBvZiDOuCB3YXMgbW9zdCBsaWtlbHkgYmV0d2VlbiAxLjU3IGFuZCAxLjg3IGFyY3NlYy4pPC9kaXY+
 
-<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:449.7pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="300"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:224.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Wavelength</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">(cm)</span></p></td><td style="width:224.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Average θ</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">(arcsec)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:224.8pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0.00005</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">3.1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">11.6</span></p></td><td style="width:224.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="150"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1.72±0.15</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1.77±0.20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1.87±0.30</span></p></td></tr></table></div>
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiA+PHRhYmxlIGJvcmRlcj0iMSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBjbGFzcz0iTXNvTm9ybWFsVGFibGUiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6Y29sbGFwc2U7Ym9yZGVyOm5vbmU7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby15ZnRpLXRibGxvb2s6NDgwO21zby1wYWRkaW5nLWFsdDowY20gNS40cHQgMGNtIDUuNHB0O21zby1ib3JkZXItaW5zaWRlaDouNXB0IHNvbGlkIHdpbmRvd3RleHQ7bXNvLWJvcmRlci1pbnNpZGV2Oi41cHQgc29saWQgd2luZG93dGV4dCI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjA7bXNvLXlmdGktZmlyc3Ryb3c6eWVzIj48dGQgY29sc3Bhbj0iMiIgc3R5bGU9IndpZHRoOjQ0OS43cHQ7Ym9yZGVyOnNvbGlkIHdpbmRvd3RleHQgMS4wcHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgd2lkdGg9IjMwMCI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij5UYWJsZSAxPC9zcGFuPjwvcD48L3RkPjwvdHI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjEiPjx0ZCBzdHlsZT0id2lkdGg6MjI0LjhwdDtib3JkZXI6c29saWQgd2luZG93dGV4dCAxLjBwdDtib3JkZXItdG9wOm5vbmU7bXNvLWJvcmRlci10b3AtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7cGFkZGluZzowY20gNS40cHQgMGNtIDUuNHB0IiB3aWR0aD0iMTUwIj48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPldhdmVsZW5ndGg8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+KGNtKTwvc3Bhbj48L3A+PC90ZD48dGQgc3R5bGU9IndpZHRoOjIyNC45cHQ7Ym9yZGVyLXRvcDpub25lO2JvcmRlci1sZWZ0Om5vbmU7Ym9yZGVyLWJvdHRvbTpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O2JvcmRlci1yaWdodDpzb2xpZCB3aW5kb3d0ZXh0IDEuMHB0O21zby1ib3JkZXItdG9wLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1sZWZ0LWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7bXNvLWJvcmRlci1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O3BhZGRpbmc6MGNtIDUuNHB0IDBjbSA1LjRwdCIgd2lkdGg9IjE1MCI+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij5BdmVyYWdlIM64PC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPihhcmNzZWMpPC9zcGFuPjwvcD48L3RkPjwvdHI+PHRyIHN0eWxlPSJtc28teWZ0aS1pcm93OjI7bXNvLXlmdGktbGFzdHJvdzp5ZXMiPjx0ZCBzdHlsZT0id2lkdGg6MjI0LjhwdDtib3JkZXI6c29saWQgd2luZG93dGV4dCAxLjBwdDtib3JkZXItdG9wOm5vbmU7bXNvLWJvcmRlci10b3AtYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDttc28tYm9yZGVyLWFsdDpzb2xpZCB3aW5kb3d0ZXh0IC41cHQ7cGFkZGluZzowY20gNS40cHQgMGNtIDUuNHB0IiB3aWR0aD0iMTUwIj48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjAuMDAwMDU8L3NwYW4+PC9wPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+My4xPC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjExLjY8L3NwYW4+PC9wPjwvdGQ+PHRkIHN0eWxlPSJ3aWR0aDoyMjQuOXB0O2JvcmRlci10b3A6bm9uZTtib3JkZXItbGVmdDpub25lO2JvcmRlci1ib3R0b206c29saWQgd2luZG93dGV4dCAxLjBwdDtib3JkZXItcmlnaHQ6c29saWQgd2luZG93dGV4dCAxLjBwdDttc28tYm9yZGVyLXRvcC1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby1ib3JkZXItbGVmdC1hbHQ6c29saWQgd2luZG93dGV4dCAuNXB0O21zby1ib3JkZXItYWx0OnNvbGlkIHdpbmRvd3RleHQgLjVwdDtwYWRkaW5nOjBjbSA1LjRwdCAwY20gNS40cHQiIHdpZHRoPSIxNTAiPjxwIGFsaWduPSJjZW50ZXIiICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0ibXNvLWJpZGktZm9udC1zaXplOjIxLjBwdCI+MS43MsKxMC4xNTwvc3Bhbj48L3A+PHAgYWxpZ249ImNlbnRlciIgIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PHNwYW4gbGFuZz0iRU4tVVMiIHN0eWxlPSJtc28tYmlkaS1mb250LXNpemU6MjEuMHB0Ij4xLjc3wrEwLjIwPC9zcGFuPjwvcD48cCBhbGlnbj0iY2VudGVyIiAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBsYW5nPSJFTi1VUyIgc3R5bGU9Im1zby1iaWRpLWZvbnQtc2l6ZToyMS4wcHQiPjEuODfCsTAuMzA8L3NwYW4+PC9wPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2Pg==
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPkV4cGVyaW1lbnQgMjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists bounced radio waves off the surface of Venus as Venus moved around the Sun. Figure 2 shows the approximate positions of Venus (V) relative to the Sun (S) and Earth (E) on Days 0, 150, 300, and 450.</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlNjaWVudGlzdHMgYm91bmNlZCByYWRpbyB3YXZlcyBvZmYgdGhlIHN1cmZhY2Ugb2YgVmVudXMgYXMgVmVudXMgbW92ZWQgYXJvdW5kIHRoZSBTdW4uIEZpZ3VyZSAyIHNob3dzIHRoZSBhcHByb3hpbWF0ZSBwb3NpdGlvbnMgb2YgVmVudXMgKFYpIHJlbGF0aXZlIHRvIHRoZSBTdW4gKFMpIGFuZCBFYXJ0aCAoRSkgb24gRGF5cyAwLCAxNTAsIDMwMCwgYW5kIDQ1MC48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\175.png' width = '350'height = '226'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzUucG5nJyB3aWR0aCA9ICczNTAnaGVpZ2h0ID0gJzIyNicvPjwvZGl2Pg==
 
-<br>
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The delay measured by the scientists equaled the extra time the radio waves took to make the round trip between Earth and Venus because of the Sun's gravity (see Figure 3).</div>
+PGJyPg==
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPlRoZSBkZWxheSBtZWFzdXJlZCBieSB0aGUgc2NpZW50aXN0cyBlcXVhbGVkIHRoZSBleHRyYSB0aW1lIHRoZSByYWRpbyB3YXZlcyB0b29rIHRvIG1ha2UgdGhlIHJvdW5kIHRyaXAgYmV0d2VlbiBFYXJ0aCBhbmQgVmVudXMgYmVjYXVzZSBvZiB0aGUgU3VuJ3MgZ3Jhdml0eSAoc2VlIEZpZ3VyZSAzKS48L2Rpdj4=
 
-<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\176.png' width = '273'height = '311'/></div>
+PGRpdiBjbGFzcyA9ICJwYXJhIiBzdHlsZSA9ICJmb250LXNpemU6IDE2O2ZvbnQtZmFtaWx5Ok1pY3Jvc29mdCBZQUhFSTsiPjxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzYucG5nJyB3aWR0aCA9ICcyNzMnaGVpZ2h0ID0gJzMxMScvPjwvZGl2Pg==
 
-<br>
-###################
-<div class = "quiz">25. In Experiment 2 on Day 600, the relative positions of the Sun, Earth, and Venus were closest to those shown in which of the following diagrams?
-<div class = "choice">A. <img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '80'height = '100'/></div>
-<div class = "choice">B. <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '80'height = '100'/></div>
-<div class = "choice">C. <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '80'height = '100'/></div>
-<div class = "choice">D. <img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '80'height = '100'/></div>
-</div>
-###################
-<div class = "quiz">26. According to the uncertainty in the measurement of θ at a wavelength of 3.1 cm, the true value of θ was most likely between:
-<div class = "choice">F. 0.00 arcsec and 0.20 arcsec.</div>
-<div class = "choice">G. 0.20 arcsec and 0.40 arcsec.</div>
-<div class = "choice">H. 1.57 arcsec and 1.97 arcsec.</div>
-<div class = "choice">J. 1.97 arcsec and 2.17 arcsec.</div>
-</div>
-###################
-<div class = "quiz">27. Suppose a spacecraft carrying a radio transmitter landed on Venus. Angle θ was measured on the same days as in Experiment 2 for the radio waves transmited from the spacecraft to Earth. Based on Experiment 1, θ would most likely have been greatest on or about Day:
-<div class = "choice">A. 150.</div>
-<div class = "choice">B. 300.</div>
-<div class = "choice">C. 450.</div>
-<div class = "choice">D. 600.</div>
-</div>
-###################
-<div class = "quiz">28. Suppose, on Day 0 in Experiment 2, the relative positions of the Sun, Earth, and Venus were as shown in the diagram below.
-<img src='file:\$$$\resources\2005 June 61D\imgs\181.png' width = '25'height = '67'/>
-The graph of the delay versus Day would have looked most like which of the following graphs?
-<div class = "choice">F. <img src='file:\$$$\resources\2005 June 61D\imgs\182.png' width = '130'height = '110'/></div>
-<div class = "choice">G. <img src='file:\$$$\resources\2005 June 61D\imgs\183.png' width = '130'height = '110'/></div>
-<div class = "choice">H. <img src='file:\$$$\resources\2005 June 61D\imgs\184.png' width = '130'height = '110'/></div>
-<div class = "choice">J. <img src='file:\$$$\resources\2005 June 61D\imgs\185.png' width = '130'height = '110'/></div>
-</div>
-###################
-<div class = "quiz">29. During Experiment 2, the largest delay in the radio waves was produced when the radio waves passed:
-<div class = "choice">A. farthest from the edge of the Moon both on their way to the Sun and on their return to Earth.</div>
-<div class = "choice">B. closest to the edge of the Moon both on their way to the Sun and on their return to Earth.</div>
-<div class = "choice">C. farthest from the edge of the Sun both on their way to Venus and on their return to Earth.</div>
-<div class = "choice">D. closest to the edge of the Sun both on their way to Venus and on their return to Earth.</div>
-</div>
-###################
-<div class = "quiz">30. The Sun was used in both Experiments 1 and 2 most likely because the Sun:
-<div class = "choice">F. is the brightest object in the solar system.</div>
-<div class = "choice">G. emits both visible light and radio waves.</div>
-<div class = "choice">H. is the most massive body in the solar system.</div>
-<div class = "choice">J. is easily viewed during a solar eclipse.</div>
-<br>
-</div>
-###################
+PGJyPg==
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNS4gSW4gRXhwZXJpbWVudCAyIG9uIERheSA2MDAsIHRoZSByZWxhdGl2ZSBwb3NpdGlvbnMgb2YgdGhlIFN1biwgRWFydGgsIGFuZCBWZW51cyB3ZXJlIGNsb3Nlc3QgdG8gdGhvc2Ugc2hvd24gaW4gd2hpY2ggb2YgdGhlIGZvbGxvd2luZyBkaWFncmFtcz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzcucG5nJyB3aWR0aCA9ICc4MCdoZWlnaHQgPSAnMTAwJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzgucG5nJyB3aWR0aCA9ICc4MCdoZWlnaHQgPSAnMTAwJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxNzkucG5nJyB3aWR0aCA9ICc4MCdoZWlnaHQgPSAnMTAwJy8+PC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxODAucG5nJyB3aWR0aCA9ICc4MCdoZWlnaHQgPSAnMTAwJy8+PC9kaXY+
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNi4gQWNjb3JkaW5nIHRvIHRoZSB1bmNlcnRhaW50eSBpbiB0aGUgbWVhc3VyZW1lbnQgb2YgzrggYXQgYSB3YXZlbGVuZ3RoIG9mIDMuMSBjbSwgdGhlIHRydWUgdmFsdWUgb2Ygzrggd2FzIG1vc3QgbGlrZWx5IGJldHdlZW46
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDAuMDAgYXJjc2VjIGFuZCAwLjIwIGFyY3NlYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDAuMjAgYXJjc2VjIGFuZCAwLjQwIGFyY3NlYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDEuNTcgYXJjc2VjIGFuZCAxLjk3IGFyY3NlYy48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDEuOTcgYXJjc2VjIGFuZCAyLjE3IGFyY3NlYy48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yNy4gU3VwcG9zZSBhIHNwYWNlY3JhZnQgY2FycnlpbmcgYSByYWRpbyB0cmFuc21pdHRlciBsYW5kZWQgb24gVmVudXMuIEFuZ2xlIM64IHdhcyBtZWFzdXJlZCBvbiB0aGUgc2FtZSBkYXlzIGFzIGluIEV4cGVyaW1lbnQgMiBmb3IgdGhlIHJhZGlvIHdhdmVzIHRyYW5zbWl0ZWQgZnJvbSB0aGUgc3BhY2VjcmFmdCB0byBFYXJ0aC4gQmFzZWQgb24gRXhwZXJpbWVudCAxLCDOuCB3b3VsZCBtb3N0IGxpa2VseSBoYXZlIGJlZW4gZ3JlYXRlc3Qgb24gb3IgYWJvdXQgRGF5Og==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIDE1MC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIDMwMC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIDQ1MC48L2Rpdj4=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIDYwMC48L2Rpdj4=
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOC4gU3VwcG9zZSwgb24gRGF5IDAgaW4gRXhwZXJpbWVudCAyLCB0aGUgcmVsYXRpdmUgcG9zaXRpb25zIG9mIHRoZSBTdW4sIEVhcnRoLCBhbmQgVmVudXMgd2VyZSBhcyBzaG93biBpbiB0aGUgZGlhZ3JhbSBiZWxvdy4=
+PGltZyBzcmM9J2ZpbGU6XCQkJFxyZXNvdXJjZXNcMjAwNSBKdW5lIDYxRFxpbWdzXDE4MS5wbmcnIHdpZHRoID0gJzI1J2hlaWdodCA9ICc2NycvPg==
+VGhlIGdyYXBoIG9mIHRoZSBkZWxheSB2ZXJzdXMgRGF5IHdvdWxkIGhhdmUgbG9va2VkIG1vc3QgbGlrZSB3aGljaCBvZiB0aGUgZm9sbG93aW5nIGdyYXBocz8=
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxODIucG5nJyB3aWR0aCA9ICcxMzAnaGVpZ2h0ID0gJzExMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxODMucG5nJyB3aWR0aCA9ICcxMzAnaGVpZ2h0ID0gJzExMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxODQucG5nJyB3aWR0aCA9ICcxMzAnaGVpZ2h0ID0gJzExMCcvPjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIDxpbWcgc3JjPSdmaWxlOlwkJCRccmVzb3VyY2VzXDIwMDUgSnVuZSA2MURcaW1nc1wxODUucG5nJyB3aWR0aCA9ICcxMzAnaGVpZ2h0ID0gJzExMCcvPjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4yOS4gRHVyaW5nIEV4cGVyaW1lbnQgMiwgdGhlIGxhcmdlc3QgZGVsYXkgaW4gdGhlIHJhZGlvIHdhdmVzIHdhcyBwcm9kdWNlZCB3aGVuIHRoZSByYWRpbyB3YXZlcyBwYXNzZWQ6
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkEuIGZhcnRoZXN0IGZyb20gdGhlIGVkZ2Ugb2YgdGhlIE1vb24gYm90aCBvbiB0aGVpciB3YXkgdG8gdGhlIFN1biBhbmQgb24gdGhlaXIgcmV0dXJuIHRvIEVhcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkIuIGNsb3Nlc3QgdG8gdGhlIGVkZ2Ugb2YgdGhlIE1vb24gYm90aCBvbiB0aGVpciB3YXkgdG8gdGhlIFN1biBhbmQgb24gdGhlaXIgcmV0dXJuIHRvIEVhcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkMuIGZhcnRoZXN0IGZyb20gdGhlIGVkZ2Ugb2YgdGhlIFN1biBib3RoIG9uIHRoZWlyIHdheSB0byBWZW51cyBhbmQgb24gdGhlaXIgcmV0dXJuIHRvIEVhcnRoLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkQuIGNsb3Nlc3QgdG8gdGhlIGVkZ2Ugb2YgdGhlIFN1biBib3RoIG9uIHRoZWlyIHdheSB0byBWZW51cyBhbmQgb24gdGhlaXIgcmV0dXJuIHRvIEVhcnRoLjwvZGl2Pg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==
+PGRpdiBjbGFzcyA9ICJxdWl6Ij4zMC4gVGhlIFN1biB3YXMgdXNlZCBpbiBib3RoIEV4cGVyaW1lbnRzIDEgYW5kIDIgbW9zdCBsaWtlbHkgYmVjYXVzZSB0aGUgU3VuOg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkYuIGlzIHRoZSBicmlnaHRlc3Qgb2JqZWN0IGluIHRoZSBzb2xhciBzeXN0ZW0uPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkcuIGVtaXRzIGJvdGggdmlzaWJsZSBsaWdodCBhbmQgcmFkaW8gd2F2ZXMuPC9kaXY+
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkguIGlzIHRoZSBtb3N0IG1hc3NpdmUgYm9keSBpbiB0aGUgc29sYXIgc3lzdGVtLjwvZGl2Pg==
+PGRpdiBjbGFzcyA9ICJjaG9pY2UiPkouIGlzIGVhc2lseSB2aWV3ZWQgZHVyaW5nIGEgc29sYXIgZWNsaXBzZS48L2Rpdj4=
+PGJyPg==
+PC9kaXY+
+IyMjIyMjIyMjIyMjIyMjIyMjIw==

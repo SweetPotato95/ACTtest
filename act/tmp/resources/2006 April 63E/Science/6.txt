@@ -1,0 +1,47 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When compounds dissolve in water, they either give off heat to, or absorb heat from, the solution. The transfer of hear (△H) is negative (exothermic) when heat is given off, or positive (endothermic) when heat is absorbed. Figure 1 shows the △H, in kilojoules per mole (kJ/mole, where 1 mole is 6×10<img src='file:\$$$\resources\2006 April 63E\imgs\129.png' width = '26'height = '42'/> molecules of any compound), when Compounds A or B dissolve in water at 25℃. Solubility is the maximum amount of a compound that will dissolve in a given volume of solvent. Figures 2 and 3 show how temperature affects the solubility (in moles/L) of Compounds A and B, respectively, in water.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\130.png' width = '658'height = '178'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\131.png' width = '640'height = '298'/></div>
+
+<br>
+###################
+<div class = "quiz">31. According to Figures 2 and 3, Compounds A and B have the same solubility at what temperature, if any?
+<div class = "choice">A. 0℃</div>
+<div class = "choice">B. 35℃</div>
+<div class = "choice">C. 55℃</div>
+<div class = "choice">D. The solubilities are not equal at any temperature shown in the figures.</div>
+</div>
+###################
+<div class = "quiz">32. A solution is made that has a concentration of 1 mole/L of Compound A and 0.5 mole/L of Compound B. According to the passage, the number of molecules of Compound A in the solution is:
+<div class = "choice">F. half the number of molecules of Compound B in the solution.</div>
+<div class = "choice">G. equal to the number of molecules of Compound B in the solution.</div>
+<div class = "choice">H. twice the number of molecules of Compound B in the solution.</div>
+<div class = "choice">J. 4 times the number of molecules of Compound B in the solution.</div>
+</div>
+###################
+<div class = "quiz">33. A chemist claimed that compounds that dissolve exothermically in water decrease in solubility as temperature increases. Is her claim supported by the data in Figures 1-3?
+<div class = "choice">A. Yes; the solubility of Compound A decreased as temperature increased.</div>
+<div class = "choice">B. Yes; the solubility of Compound B decreased as temperature increased.</div>
+<div class = "choice">C. No; the solubility of Compound A increased as temperature increased.</div>
+<div class = "choice">D. No; the solubility of Compound B increased as temperature increased.</div>
+</div>
+###################
+<div class = "quiz">34. A chemist added either Compound A or Compound B to water at 25℃. The temperature of the solution decreased until the solution began to freeze. Based on the data in Figure 1, which compound did he most likely add to the water?
+<div class = "choice">F. Compound A, because its △H is positive.</div>
+<div class = "choice">G. Compound A, because its △H is negative.</div>
+<div class = "choice">H. Compound B, because its △H is positive.</div>
+<div class = "choice">J. Compound B, because its △H is negative.</div>
+</div>
+###################
+<div class = "quiz">35. Ammonium nitrate is a compound that has a △H of +25.7 kJ/mole when it dissolves in water at 25℃. Based on the data in Figure 1, if 1 mole each of ammonium nitrate and Compound A are dissolved separately in equal amounts of water at 25℃, how will the transfer of heat compare?
+<div class = "choice">A. Ammonium nitrate will absorb less heat from the solution than will Compound A.</div>
+<div class = "choice">B. Ammonium nitrate will absorb more heat from the solution than will Compound A.</div>
+<div class = "choice">C. Ammonium nitrate will give off less heat from the solution than will Compound A.</div>
+<div class = "choice">D. Ammonium nitrate will give off more heat from the solution than will Compound A.</div>
+<br>
+</div>
+###################
