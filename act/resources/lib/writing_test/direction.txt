@@ -1,0 +1,15 @@
+﻿
+<h1>Essay Task</h1>
+　　
+<br>
+<div>Write a unified, coherent essay in which you evaluate multiple perspectives on the increasing presence of intelligent machines. In your essay, be sure to:
+　</div>
+<ul>
+<li>analyze and evaluate the perspectives given
+</li>
+<li>state and develop your own perspective on the issue</li>
+　　
+<li>explain the relationship between your perspective and those given
+</li>
+</ul>
+<div>Your perspective may be in full agreement with any of the others, in partial agreement, or wholly different. Whatever the case, support your ideas with logical reasoning and detailed, persuasive examples.</div>

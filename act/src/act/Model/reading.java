@@ -10,7 +10,7 @@ public class reading {
 	private String path = null;
 	private static String passage;
 	private ArrayList<choice> quizs;
-	private String[] tests = {"English\\","Math\\","Reading\\","Science\\","Writing\\"};
+	private String[] tests = {"English"+File.separator,"Math"+File.separator,"Reading"+File.separator,"Science"+File.separator,"Writing"+File.separator};
 	public reading(int t, int tn, int index){
 		this.testIndex = t;
 		this.partIndex = tn;
@@ -30,11 +30,12 @@ public class reading {
 		return quizs.get(index);
 	}
 	public String readDirection(int testIndex, int partIndex){
-		if(partIndex >= ModelConstants.WRITING){
-			return "";//This is temporary because there weren't any writing info now/
+		if(partIndex == ModelConstants.WRITING){
+			String res = readText.readDirection("resources"+File.separator+"lib"+File.separator+"writing_test"+File.separator+"direction.txt");
+			return res;//This is temporary because there weren't any writing info now/
 		}
 		String res = readText.readDirection( ModelConstants.TESTPATH[testIndex]
-				+ModelConstants.PARTNAME[partIndex]+"\\Direction.txt");
+				+ModelConstants.PARTNAME[partIndex]+File.separator+"Direction.txt");
 		return res;
 	}
 	public void updateReading(int testIndex,int splitIndex,int partIndex){
@@ -48,7 +49,7 @@ public class reading {
 			String pox = new File(".").getAbsolutePath();
 			int num = (int)(1+Math.random()*(10-1+1));
 			System.out.println(num);
-			this.path = pox.substring(0,pox.length()-1)+"resources\\lib\\writing_test\\"+num+".txt";
+			this.path = pox.substring(0,pox.length()-1)+"resources"+File.separator+"lib"+File.separator+"writing_test"+File.separator+num+".txt";
 			System.out.println(path);
 			this.passage = readText.readPassage(path);
 			this.quizs = null;
@@ -58,7 +59,7 @@ public class reading {
 			//System.out.println("Already newest");
 			return;
 		}
-		System.out.println("DEBUG INFO: reading -- " +testIndex+","+splitIndex);
+//		System.out.println("DEBUG INFO: reading -- " +testIndex+","+splitIndex);
 		
 		this.testIndex = testIndex;
 		this.partIndex = partIndex;

@@ -1,5 +1,6 @@
 package act.Model;
 
+import java.io.File;
 import java.util.ArrayList;
 
 public class math {
@@ -8,7 +9,7 @@ public class math {
 	private ArrayList<choice> quizs;
 	public math(int tn){
 		this.testnum = tn;
-		this.path = ModelConstants.TESTPATH[tn]+"\\Math\\math.txt";
+		this.path = ModelConstants.TESTPATH[tn]+File.separator + "Math" +File.separator + "math.txt";
 		this.quizs = readText.readChoice(ModelConstants.MATH, path);
 	}
 	public int getQuizLength(){
@@ -22,7 +23,7 @@ public class math {
 		}
 		this.testnum = testNum;
 //		System.out.println("--------"+this.testnum);
-		this.path = ModelConstants.TESTPATH[testNum] +"\\Math\\math.txt";
+		this.path = ModelConstants.TESTPATH[testNum] +File.separator + "Math" +File.separator + "math.txt";
 		System.out.print(path);
 		this.quizs = readText.readChoice(ModelConstants.MATH, path);
 		

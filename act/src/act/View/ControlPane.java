@@ -8,6 +8,7 @@ import act.Model.ModelConstants;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
 
 public class ControlPane extends JPanel{
@@ -54,7 +55,21 @@ public class ControlPane extends JPanel{
 		submitButton.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e){
-				MainController.handleScore();
+				JFrame tmp = new JFrame();
+				tmp.setAlwaysOnTop(true);
+				int option = JOptionPane.showConfirmDialog(tmp,
+					       "确定提交至成绩单界面？", "Submit", JOptionPane.YES_NO_OPTION);
+					     switch (option) {
+					     	case JOptionPane.YES_NO_OPTION: {
+					     		MainController.handleScore();
+					      	break;
+					     }
+					     case JOptionPane.NO_OPTION:
+					    	 return;
+
+					     }
+				
+				
 			}
 		});
 		
@@ -88,7 +103,7 @@ public class ControlPane extends JPanel{
 		this.revalidate();
 		JLabel jl1 = new JLabel();
 		
-		ImageIcon image = new ImageIcon("resources\\lib\\icon.png");
+		ImageIcon image = new ImageIcon("resources"+File.separator+"lib"+File.separator+"wlogo.png");
 		image.setImage(image.getImage().getScaledInstance((int) (ViewConstants.NAV_WIDTH*0.2),(int)(ViewConstants.NAV_HEIGHT*1.2),Image.SCALE_DEFAULT)); 
 		this.setLayout(new BoxLayout(this,BoxLayout.X_AXIS));
 //		this.add(Box.createHorizontalGlue());
@@ -103,7 +118,8 @@ public class ControlPane extends JPanel{
 		this.add(pauseButton);
 		this.add(befButton);
 		this.add(nextButton);
-		this.add(submitButton);
+//		if (MainController.getPartMode())
+			this.add(submitButton);
 		this.setPreferredSize(new Dimension(ViewConstants.NAV_WIDTH,ViewConstants.NAV_HEIGHT));
 		this.setBackground(new Color(0,74,128));
 		this.revalidate();
@@ -135,8 +151,9 @@ public class ControlPane extends JPanel{
 		this.remove(befButton);
 		this.remove(submitButton);
 		this.add(resumeButton);
-		this.add(befButton);
-		this.add(nextButton);
+//		this.add(befButton);
+//		this.add(nextButton);
+//		if (MainController.getPartMode())
 		this.add(submitButton);
 		this.revalidate();
 		this.repaint();
@@ -146,6 +163,7 @@ public class ControlPane extends JPanel{
 		this.add(pauseButton);
 		this.add(befButton);
 		this.add(nextButton);
+//		if (MainController.getPartMode())
 		this.add(submitButton);
 		this.revalidate();
 		this.repaint();

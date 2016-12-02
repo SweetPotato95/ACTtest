@@ -56,7 +56,6 @@ public class Login extends JFrame implements ActionListener
                         address = line.substring(index);  
                         break;  
                     }else  if (mark && line.indexOf("ÎïÀíµØÖ·") > 0) { 
-                    	System.out.println("ddd");
                         int index = line.indexOf(":");  
                         index += 2;  
                         address = line.substring(index);  
@@ -84,23 +83,43 @@ public class Login extends JFrame implements ActionListener
                         break;  
                     }  
                 }  
+                address = address.trim().replace("-", ""); 
                 br.close();  
             } catch (IOException e) {  
             }  
         }  
-        address = address.trim().replace("-", "");  
+        else if (os.startsWith("Mac")) {  
+            String command = "/bin/sh -c ifconfig -a";  
+            Process p;  
+            try {  
+                p = Runtime.getRuntime().exec(command);  
+                BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));  
+                String line;  
+                while ((line = br.readLine()) != null) {  
+                    if (line.indexOf("ether") > 0) {  
+                        int index = line.indexOf("ether") + "ether".length();  
+                        address = line.substring(index);  
+                        break;  
+                    }  
+                }  
+                address = address.trim().replace(":", ""); 
+                br.close();  
+            } catch (IOException e) {  
+            }  
+        }  
+         
         Matcher m = pat.matcher(address);
         String result = m.replaceAll("");
         return result;  
     }
 	public void init(){
-		System.out.println("now in login");
+//		System.out.println("now in login");
 		this.setTitle("ACT Practice");
 		this.setSize(500, 340);
 		this.setLayout(new FlowLayout());
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		ImageIcon image = new ImageIcon("resources\\lib\\erweima.jpg");
+		ImageIcon image = new ImageIcon("resources"+File.separator+"lib"+File.separator+"erweima.jpg");
 		image.setImage(image.getImage().getScaledInstance(300,300,Image.SCALE_DEFAULT)); 
 		
 		JLabel jl1 = new JLabel();
@@ -155,7 +174,7 @@ public class Login extends JFrame implements ActionListener
 				return;
 			}
 			this.dispose();
-			welcome wl = new welcome("resources\\lib\\ad.png",8000);
+			welcome wl = new welcome("resources"+File.separator+"lib"+File.separator+"ad.png",5000);
 			new centerShow(wl);
 			wl.setVisible(true);
 			wl.addWindowListener(new WindowAdapter(){
@@ -184,6 +203,7 @@ public class Login extends JFrame implements ActionListener
 		return String.valueOf(sum);
 	}
 	public static void main(String[] args){
+		System.out.println(File.separator);
 		Login lg = new Login();
 		new centerShow(lg);
 		lg.setVisible(true);

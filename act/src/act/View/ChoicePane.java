@@ -64,7 +64,7 @@ public class ChoicePane extends JPanel{
 	}
 	
 	public void init(int questionIndex,int splitIndex,int partIndex){
-		System.out.println("DEBUG INFO: choicepane --" + questionIndex);
+//		System.out.println("DEBUG INFO: choicepane --" + questionIndex);
 		this.removeAll();
 		this.setBackground(Color.WHITE);
 		curIndex = questionIndex;

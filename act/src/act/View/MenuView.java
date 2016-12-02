@@ -70,6 +70,11 @@ public class MenuView extends JPanel{
 		
 		buttonColumn1.setMenuView(this);
 		buttonColumn2.setMenuView(this);
+		buttonColumn3.setMenuView(this);
+		buttonColumn4.setMenuView(this);
+		buttonColumn5.setMenuView(this);
+		buttonColumn6.setMenuView(this);
+		buttonColumn7.setMenuView(this);
 //		table.setEnabled(false);
 		table.setShowVerticalLines(false);
 		table.getColumn("Test").setPreferredWidth(300);
@@ -102,8 +107,9 @@ public class MenuView extends JPanel{
 		System.out.println(i);
 		mainActivity.initMainView(i);
 	}
-	public void enterSplit(int i, int j){
+	public void enterPart(int i, int j){
 		System.out.println(i+ "," +j);
+		mainActivity.initMainView(i,j-2);
 	}
 }
 
@@ -176,7 +182,7 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
     private JTable table;
     private String text1="Start";
     private String text2="Report";
-    private ImageIcon icon = new ImageIcon("resources\\lib\\button.gif");
+    private ImageIcon icon = new ImageIcon("resources"+File.separator+"lib"+File.separator+"button.gif");
     private MenuView menuView;
     
     public ButtonColumn(){}
@@ -225,7 +231,11 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 				String path = new File(".").getAbsolutePath();
 //				path = path.substring(0,path.length()-1) + "reports";
 				path = "reports";
-				Runtime.getRuntime().exec("cmd /c start " + path);
+				String os = System.getProperty("os.name"); 
+				if (os.startsWith("Windows"))
+					Runtime.getRuntime().exec("cmd /c start " + path);
+				else if (os.startsWith("Mac"))
+					Runtime.getRuntime().exec("open " + path);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -234,7 +244,10 @@ class ButtonColumn extends AbstractCellEditor implements TableCellEditor, TableC
 		}
 		//System.out.println(row +" "+column);
 		if (column == 1)menuView.enterTest(row);
-		else menuView.enterSplit(row, column);
+		else {
+			System.out.println(row+","+column);
+			menuView.enterPart(row, column);
+		}
 		
 	}
 	@Override

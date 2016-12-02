@@ -14,6 +14,7 @@ import java.awt.event.AWTEventListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.io.File;
 import java.util.StringTokenizer;
 
 
@@ -107,7 +108,7 @@ public class WritingInputPane extends JPanel{
 	}
 	public void getCount(){
 		String text = editorPane.getText();
-		String[] sp = text.split("\\r\\n| ");
+		String[] sp = text.split(File.separator+"r"+File.separator+"n| ");
 		int count = 0;
 		for(int i=0;i<sp.length;i++){
 			

@@ -64,23 +64,23 @@ public class MainActivity extends JFrame{
 		mainView.setMathBrain(mathBrain);
 		mathBrain.updateMath(testIndex);
 		mainView.init();
-	
+		
 		this.remove(menuView);
 		this.revalidate();
 		this.add(mainView);
 		this.revalidate();
 	}
 	// 直接进入part
-	public void initMainView(int testIndex, int splitIndex){
+	public void initMainView(int testIndex, int partIndex){
 		initMainController(testIndex);
 		mainView = new MainView();
 		
 		mainView.setReadingBrain(readingBrain);
-		readingBrain.updateReading(testIndex, splitIndex, 0);
+		readingBrain.updateReading(testIndex, 0, partIndex);
 		
 		mainView.setMathBrain(mathBrain);
 		mathBrain.updateMath(testIndex);
-		mainView.init();
+		mainView.init(partIndex);
 	
 		this.remove(menuView);
 		this.revalidate();

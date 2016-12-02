@@ -25,6 +25,7 @@ public class welcome extends JFrame implements MouseListener
 		String path = new File(".").getAbsolutePath();
 		path = path.substring(0,path.length()-1);
 		path = path.replace('\\', '/');
+		path = path.replace(" ", "%20");
 		pdfpath = "file:///"+path+"resources/lib/xch.pdf";
 		JLabel hint = new JLabel("点击下方图片有惊喜");
 		hint.setFont(new Font("Microsoft Yahei",Font.PLAIN,15));
@@ -37,7 +38,7 @@ public class welcome extends JFrame implements MouseListener
 			setVisible(false); 
 		    dispose();
 		    MainActivity mainActivity = new MainActivity();
-			mainActivity.setSize(Toolkit.getDefaultToolkit().getScreenSize());
+			mainActivity.setSize((int)(Toolkit.getDefaultToolkit().getScreenSize().width), (int)(Toolkit.getDefaultToolkit().getScreenSize().height));
 			mainActivity.addWindowListener(new WindowAdapter(){
 					@Override
 					public void windowClosing(WindowEvent we){

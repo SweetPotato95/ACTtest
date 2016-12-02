@@ -32,6 +32,8 @@ public class MainView extends JPanel{
 	}
 	
 	public void init(){
+		MainController.setMainContent(this);
+		MainController.setPartMode(false);
 		this.removeAll();
 		this.revalidate();
 		passageView.init();
@@ -42,7 +44,7 @@ public class MainView extends JPanel{
 	    initTimer(0);
 		mainContentInit();
 		mainContent.setBackground(Color.WHITE);
-		MainController.setMainContent(this);
+		
 		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
 		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT));
 		this.setVisible(true);
@@ -75,7 +77,52 @@ public class MainView extends JPanel{
         //showPassageView();
         
 	}
-	
+	public void init(int partIndex){
+		MainController.setPartIndex(partIndex);
+		MainController.setPartMode(true);
+		this.removeAll();
+		this.revalidate();
+		passageView.init();
+	    choiceView.init();
+	    writingView.init();
+	    instructionView.init();
+	    navBar.init();
+	    initTimer(partIndex);
+		mainContentInit();
+		mainContent.setBackground(Color.WHITE);
+		MainController.setMainContent(this);
+		
+		this.setSize(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT);
+		this.setPreferredSize(new Dimension(ViewConstants.MAINPANEL_WIDTH, ViewConstants.MAINPANEL_HEIGHT));
+		this.setVisible(true);
+		this.setLayout(new BorderLayout());
+		this.add(navBar,BorderLayout.PAGE_START);
+        this.add(mainContent,BorderLayout.CENTER);
+        this.setVisible(true);
+        this.revalidate();
+        Toolkit.getDefaultToolkit().addAWTEventListener(new AWTEventListener() {  
+            
+          @Override  
+          public void eventDispatched(AWTEvent event) {  
+              // TODO Auto-generated method stub  
+              if(((KeyEvent)event).getID()==KeyEvent.KEY_PRESSED && MainController.notThisPartWriting()){  
+                  switch (((KeyEvent)event).getKeyCode()) {  
+                  case KeyEvent.VK_ENTER:  
+                      break;  
+                  case KeyEvent.VK_RIGHT:
+                	  MainController.handleNext();
+                	  break;
+                  case KeyEvent.VK_LEFT:
+                	  MainController.handleBef();
+                	  break;
+                  }  
+              }  
+          }  
+      }, AWTEvent.KEY_EVENT_MASK);
+        showInstructionView(MainController.getTestIndex(),partIndex);
+        //showPassageView();
+        
+	}
 	public void mainContentInit(){
 		mainContent.removeAll();
 		mainContent.setSize(ViewConstants.MAINCONTENT_WIDTH, ViewConstants.MAINCONTENT_HEIGHT);

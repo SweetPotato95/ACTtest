@@ -29,7 +29,7 @@ public class PrintScore {
 		Calendar c = Calendar.getInstance();
 		System.out.println(c.getTime());
 		String path = new File(".").getAbsolutePath();
-		path = path.substring(0,path.length()-1) + "reports\\";
+		path = path.substring(0,path.length()-1) + "reports"+File.separator;
 		path += name + ".pdf";
 		try {
 			PdfWriter.getInstance(doc, new FileOutputStream(path));
