@@ -1,0 +1,52 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In a study of human sleep cycles, subjects in 4 different age groups performed a brief mental task at a scheduled time. Immediately following the task, their oral temperatures were taken and then the time for each subject to fall asleep was measured.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The results were averaged for each group. Figure 1 shows how the average time to fall asleep for the 4 groups varied with the time of day that the task was performed. Figure 2 shows how the average oral temperature .of 2 of the groups varied with the .time of day that the task was performed.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\158.png' width = '698'height = '350'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 June 63F\imgs\159.png' width = '608'height = '315'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l and 2 are adapted from G. S. Richardson et al., "Circadian Variation of Sleep Tendency in Elderly and Young Adult Subjects." ⓒ1982 by Raven Press, Figure l is also adapted from M. A. Carskadon & W. Dement, "Daytime Sleepiness Quantification of a Behavioral State" ⓒ1987 by Pergamon Journals Ltd.</div>
+
+<br>
+###################
+<div class = "quiz">23. Based on Figure l, at which of the following times was the average time to fall asleep most similar for the 4 age groups?
+<div class = "choice">A. 11:30 A.M.</div>
+<div class = "choice">B. 1:30 P.M.</div>
+<div class = "choice">C. 9:30 P.M.</div>
+<div class = "choice">D. 1:30 A.M.</div>
+</div>
+###################
+<div class = "quiz">24. A scientist claimed that the average oral temperature of the subjects in the older-aged group was always lower than that of the subjects in the adolescent group. The data for which of the following times shown in Figure 2 are inconsistent with this claim?
+<div class = "choice">F. 9:30 A.M.</div>
+<div class = "choice">G. 5:30 P.M.</div>
+<div class = "choice">H. 1:30 A.M.</div>
+<div class = "choice">J. 5:30 A.M.</div>
+</div>
+###################
+<div class = "quiz">25. According to Figure l, for the adolescent group, the average time to fall asleep was greatest at which time of day?
+<div class = "choice">A. 1:30 P.M.</div>
+<div class = "choice">B. 5:30 P.M.</div>
+<div class = "choice">C. 9:30 P.M.</div>
+<div class = "choice">D. 1:30 A.M.</div>
+</div>
+###################
+<div class = "quiz">26. According to Figure l, the average time to fall asleep at 3:30 A.M. was least for which age group?
+<div class = "choice">F. Youth:</div>
+<div class = "choice">G. Adolescent</div>
+<div class = "choice">H. Middle-aged</div>
+<div class = "choice">J. Older-aged</div>
+</div>
+###################
+<div class = "quiz">27. Suppose that there were 4 subjects in each age group, and that in l age group the time to fall asleep at 3:30 P.M. for the 4 subjects was 14 min, 11 min, 16 min, and 17 min, Based on Figure l, these 4 subjects were most likely:
+<div class = "choice">A. 9-13 yrs old.</div>
+<div class = "choice">B. 16-20 yrs old.</div>
+<div class = "choice">C. 35-58 yrs old.</div>
+<div class = "choice">D. 61-78 yrs old.</div>
+<br>
+</div>
+###################

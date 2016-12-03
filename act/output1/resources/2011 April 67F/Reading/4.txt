@@ -1,0 +1,86 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from The Blind Watchmaker by Richard Dawkins (?1988 by Richard Dawkins).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The South American and the African weakly elec?tric fish are quite unrelated to each other, but both live in the same kinds of waters in their respective conti?nents, waters that are too muddy for vision to be effective. The physical principle that they exploit-electric fields in water-is even more alien to our conscious?ness than that of bats and dolphins. We at least have a subjective idea of what an echo is, but we have almost no subjective idea of what it might be like to perceive an electric field. We didn't even know of the existence of electricity until a couple of centuries ago.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=32>It is easy to see on the dinner plate that the mus?cles down each side of any fish are arranged as a row of segments, a <font id=37>battery</font> of muscle units. In most fish they contract successively to throw the body into sinuous waves, which propel it forward. In electric fish, both strongly and weakly electric ones, they have become a battery in the electric sense. Each segment (cell) of the battery generates a voltage. These voltages are connected up in series along the length of the fish so that, in a strongly electric fish such as an electric eel, the whole battery generates as much as 1 amp at 650 volts. An electric eel is powerful enough to knock a man out. Weakly electric fish don't need high voltages or currents for their purposes, which are purely information-gathering ones. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The principle of electrolocation, as it has been called, is fairly well understood at the level of physics though not, of course, at the level of what it feels like to be an electric fish. The following account applies equally to African and South American weakly electric fish: the convergence is that thorough. Current flows from the front half of the fish, out into the water in lines that curve back and return to the tail end of the fish. There are not really discrete 'lines' but a continu?ous 'field,' an invisible cocoon of electricity surround?ing the fis's body. However, for human visualization it is easiest to think in terms of a <font id=39>family of curved lines</font> leaving the fish through a series of portholes spaced along the front half of the body, all curving round in the water and diving into the fish again at the tip of its tail. The fish has what amounts to a tiny voltmeter monitor?ing the voltage at each 'porthole.' If the fish is sus?pended in open water with no obstacles around, the lines are smooth curves. The tiny voltmeters at each porthole all register the voltage as 'normal' for their porthole. But if some obstacle appears in the vicinity, say a rock or an item of food, the lines of current that happen to hit the obstacle will be changed. This will change the voltage at any porthole whose current line is affected, and the appropriate voltmeter will register the fact. So in theory a computer, by comparing the pattern of voltages registered by the voltmeters at all the port?holes, could calculate the pattern of obstacles around the fish. This is apparently what the fish brain does. Once again, this doesn't have to mean that the fish are clever mathematicians. They have an apparatus that solves the necessary equations, just as our brains unconsciously solve equations every time we catch a ball.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It is very important that the fish's own body is kept absolutely rigid. The computer in the head couldn't cope with the extra distortions that would be introduced if the fish's body were bending and twisting like an ordinary fish. Electric fish have, at least twice independently, hit upon this ingenious method of navi?gation, but they have had to pay a price: they have had to give up the normal, highly efficient, fish method of swimming, throwing the whole body into serpentine waves. They have solved the problem by keeping the body stiff as a poker, but they have a single long fin all the way along the length of the body. Then instead of the whole body being thrown into waves, just the long fin is. The fish's progress through the water is rather slow, but it does move, and apparently the sacrifice of fast movement is worth it: the gains in navigation seem to outweigh the losses in speed of swimming. Fascinat?ingly, the South American electric fish have hit upon almost exactly the same solution as the African ones, but not quite. Both groups have developed a single long fin that runs the whole length of the body, but in the African fish it runs along the back whereas in the South American fish it runs along the belly.</div>
+
+<br>
+###################
+<div class = "quiz">31. Which of the following questions about the South American and African weakly electric fish does the passage NOT directly answer?
+<div class = "choice">A. What do they use electrolocation for?</div>
+<div class = "choice">B. What effect does their differing fin location have?</div>
+<div class = "choice">C. What do the voltmeters on the fish do?</div>
+<div class = "choice">D. Why do they swim more slowly than ordinary fish?</div>
+</div>
+###################
+<div class = "quiz">32. The author does all of the following in the second paragraph (lines 12-26) EXCEPT:
+<div class = "choice">F. contrast electric fish to other types of fish.</div>
+<div class = "choice">G. compare strongly electric fish to weakly electric fish.</div>
+<div class = "choice">H. begin to explain electrolocation.</div>
+<div class = "choice">J. give an example of a weakly electric fish.</div>
+</div>
+###################
+<div class = "quiz">33. According to the author's simplified description in the passage, the flow of electric current generated by the weakly electric fish enters the water from the:
+<div class = "choice">A. tip of the tail and is reabsorbed into the head.</div>
+<div class = "choice">B. head and is reabsorbed into the portholes.</div>
+<div class = "choice">C. portholes and is reabsorbed into the portholes.</div>
+<br>
+<div class = "choice">D. portholes and is reabsorbed into the tip of the tail.</div>
+</div>
+###################
+<div class = "quiz">34. According to the passage, a weakly electric fish would know if there were a rock in its path because the:
+<div class = "choice">F. lines of current the fish generates would be in a smooth curve around the fish.</div>
+<div class = "choice">G. fish would receive a small shock when the current it generates contacted the rock.</div>
+<div class = "choice">H. current the fish generates would create a sound when it contacted objects.</div>
+<div class = "choice">J. affected lines of current generated by the fish would produce detectable changes in voltage.</div>
+</div>
+###################
+<div class = "quiz">35. The main focus of the last paragraph is on the way weakly electric fish differ from ordinary fish in terms of:
+<div class = "choice">A. the length of their bodies.</div>
+<div class = "choice">B. how they swim.</div>
+<div class = "choice">C. how they use sight.</div>
+<div class = "choice">D. the complexity of their brains.</div>
+</div>
+###################
+<div class = "quiz">36. The passage indicates that weakly electric fish have developed a system of navigation using electric fields because:
+<div class = "choice">F. as predators, it gives them an advantage over other fish.</div>
+<div class = "choice">G. it helps keep them on course during lengthy migrations.</div>
+<div class = "choice">H. they are nocturnal creatures and swim only in the dark.</div>
+<div class = "choice">J. their habitats are muddy and therefore visibility is limited.</div>
+</div>
+###################
+<div class = "quiz">37. As it is used in line 14, the word battery most nearly refers to the:
+<div class = "choice">A. arrangement of fish muscles.</div>
+<div class = "choice">B. electric field produced by fish muscles.</div>
+<div class = "choice">C. energy that propels fish forward.</div>
+<div class = "choice">D. different kinds of muscles contained in fish.</div>
+</div>
+###################
+<div class = "quiz">38. According to the passage, an electric eel is a type of:
+<div class = "choice">F. South American weakly electric fish.</div>
+<div class = "choice">G. African weakly electric fish.</div>
+<div class = "choice">H. strongly electric fish.</div>
+<div class = "choice">J. dangerous water snake.</div>
+</div>
+###################
+<div class = "quiz">39. The author indicates that he chooses to describe the electric field emitted by the weakly electric fish as a "family of curved lines" (line 38) because:
+<div class = "choice">A. that is the precise scientific terminology for the phenomenon.</div>
+<div class = "choice">B. this image is relatively easy for people to visualize.</div>
+<div class = "choice">C. cocoons are made from curved lines.</div>
+<div class = "choice">D. each line supports the others, like family members support each other.</div>
+</div>
+###################
+<div class = "quiz">40. According to the passage, successful navigation for weakly electric fish requires:
+<div class = "choice">F. frequent breaks in motion.</div>
+<div class = "choice">G. an unobstructed swimming area.</div>
+<div class = "choice">H. a rigid body.</div>
+<div class = "choice">J. rapid water currents.</div>
+
+###################

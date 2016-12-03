@@ -1,0 +1,12 @@
+﻿<h1>Mastery</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Researchers claim that it takes 10,000 hours of practice to truly master a complex skill. That's the equivalent of practicing something - a musical instrument，a second language，a sport - for eight hours a day，every day，for about three and a half years. Given the required level of commitment and effort，it is worth considering the value of mastering a complex skill.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Dedication to a goal gives purpose and order to life. The determination and persistence required for mastery shape us into strong people and are rewards in themselves.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Mastering a skill may be worth the effort for some，but most people need more variety and fun in their lives. It's important to be a well rounded and relaxed person.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Find something you're good at and stick with it；by default， you'll achieve mastery. This requires no special character or effort.</div>

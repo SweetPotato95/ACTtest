@@ -1,0 +1,107 @@
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A student performed 4 computer simulation studies to model the change at a gene in a population. For each study, the following rules applied:</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The gene has 2 alleles (possible forms): A and a.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Each organism has 2 copies of the gene.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus, there ate 3 possible genotypes (allele combinations for the gene): AA, Aa, and aa.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Different genotypes may have different fitnesses (the relative number of alleles per individual a genotype contributes to the next generation).</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The fitnesses of Genotypes AA, Aa, and aa are represented by W(AA), W(Aa), and W(aa), respectively.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">p = the proportion of the alleles that are in Form A.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Changes in p are due to differences in the fitnesses of the genotypes.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Time is measured in generations.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study l</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three simulations were done. In each, W(AA) = W(Aa)>W(aa), and the initial p = 0.1. See Figure l.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\195.png' width = '534'height = '180'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\196.png' width = '444'height = '330'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Three simulations were done. In each, W(AA) = W(Aa)< W(aa), and the initial p = 0.9. See Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\197.png' width = '444'height = '435'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Five simulations were performed. In each, W(AA) = 0.8; W(Aa) = 1.0; and W(aa) = 0.6. The initial p varied. See Figure 3.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\198.png' width = '444'height = '414'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 4</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Five simulations were performed. In each, W(AA) = 0.625; W(Aa) = 0.5; and W(aa) = 1.0. The initial p varied. See Figure 4.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 Dec 63C\imgs\199.png' width = '444'height = '339'/></div>
+
+<br>
+###################
+<div class = "quiz">28. In Study 4, the initial values of p were:
+<div class = "choice">F. 0.1, 0.25, 0.5, 0.75, and l.0.</div>
+<div class = "choice">G. 0.4, 0.45, 0.5; 0.95, and l.0.</div>
+<div class = "choice">H. 0.7, 0.75, 0.8, 0.85, and 0.9.</div>
+<div class = "choice">J. 0.8, 0.85, 0.9, 0.95, and l.0.</div>
+</div>
+###################
+<div class = "quiz">29. For the simulation in Study 1 in which W(aa) = 0.4, the greatest change in p occurred during which of the following time frames?
+<div class = "choice">A. Between Generation 0 and Generation 10</div>
+<div class = "choice">B. Between Generation 10 and Generation 20</div>
+<div class = "choice">C. Between Generation 20 and Generation 30</div>
+<div class = "choice">D. Between Generation 30 and Generation 40</div>
+</div>
+###################
+<div class = "quiz">30. Based on the information provided, which of the following shows the possible range for p?
+<div class = "choice">F. 0-0.5</div>
+<div class = "choice">G. 0-1.0</div>
+<div class = "choice">H. 0.5-1.0</div>
+<div class = "choice">J. 0.5-2.0</div>
+</div>
+###################
+<div class = "quiz">31. In all 3 simulations in Study l, W(Aa) equaled:
+<div class = "choice">A. 0.8.</div>
+<div class = "choice">B. 1.0.</div>
+<div class = "choice">C. 1.2.</div>
+<div class = "choice">D. 2.0.</div>
+</div>
+###################
+<div class = "quiz">32. Which studies included at least l simulation in which the fitness of Genotype AA was greater than the fitness of Genotype aa?
+<div class = "choice">F. Studies l and 3</div>
+<div class = "choice">G. Studies l and 4</div>
+<div class = "choice">H. Studies 2 and 3</div>
+<div class = "choice">J. Studies 2 and 4</div>
+</div>
+###################
+<div class = "quiz">33. If the student wanted to run an additional simulation in Study l in which the initial p = 0.1 and p at Generation 10 was between 0.7 and 0.8, the student should set W(AA) = 1.0; W(Aa) = 1.0; and:
+<div class = "choice">A. W(aa)=0.3.</div>
+<div class = "choice">B. W(aa)=0.5.</div>
+<div class = "choice">C. W(aa)=0.7.</div>
+<div class = "choice">D. W(aa)=0.9.</div>
+<br>
+</div>
+###################

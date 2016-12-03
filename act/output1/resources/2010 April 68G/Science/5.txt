@@ -1,0 +1,56 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Ethylene oxide, a widely used industrial chemical, has the structure shown below:</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\98.png' width = '149'height = '83'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l-3 each show how a property of solutions of, ethylene oxide in H<sub>2</sub>O varies as the concentration of ethylene oxide increases at 1 atmosphere (atm) of pressure. Concentration is given as the percent ethylene oxide by mass in H<sub>2</sub>O (% EO). Figure l shows how density at l0℃ varies with % EO. Figure 2 shows how freezing point varies with % EO. The bubble point is the lowest temperature at which bubbles of gas (in this case, ethylene oxide) form in a solution. Figure 3 shows how bubble point varies with % EO.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\99.png' width = '424'height = '320'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\100.png' width = '477'height = '365'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\101.png' width = '476'height = '404'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Old Word Industries, The Dow Chemical Company, Shell Chemical Company, Sunoco, Inc, and Equistar Chemicals, LP, Ethyleneoxide (2nd ed.).  1999.</div>
+
+<br>
+###################
+<div class = "quiz">25. According to Figure 3, the lowest temperature at which bubbles will form in a 30% EO solution at l atm is closest to which of the following?
+<div class = "choice">A. 1l℃</div>
+<div class = "choice">B. 25℃</div>
+<div class = "choice">C. 50℃</div>
+<div class = "choice">D. 97℃</div>
+</div>
+###################
+<div class = "quiz">26. At l0℃ and l atm, as % EO increases from 0% to 100%, the mass per unit volume:
+<div class = "choice">F. increases only.</div>
+<div class = "choice">G. decreases only.</div>
+<div class = "choice">H. increases, then decreases.</div>
+<div class = "choice">J. decreases, then increases.</div>
+</div>
+###################
+<div class = "quiz">27. At l atm, which of the following solutions will have the lowest melting point?
+<div class = "choice">A. 20% EO</div>
+<div class = "choice">B. 40% EO</div>
+<div class = "choice">C. 60% EO</div>
+<div class = "choice">D. 80% EO</div>
+</div>
+###################
+<div class = "quiz">28. According to Figures 2 and 3, at l atm, a solution of ethylene oxide in H<sub>2</sub>O that has a bubble point of 15℃ will have a freezing point closest to which of the following?
+<div class = "choice">F. 0℃</div>
+<div class = "choice">G. 3℃</div>
+<div class = "choice">H. 7℃</div>
+<div class = "choice">J. 10℃</div>
+</div>
+###################
+<div class = "quiz">29. Based on Figure 2, at 1 atm, which of the following solutions has a freezing point closest to the freezing  point of pure H<sub>2</sub>O ?
+<div class = "choice">A. 11% EO</div>
+<div class = "choice">B. 39% EO</div>
+<div class = "choice">C. 61% EO</div>
+<div class = "choice">D. 89% EO</div>
+<br>
+</div>
+###################

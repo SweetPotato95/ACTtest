@@ -1,0 +1,73 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Two species of aquatic plants, Species A and Species B, are often found in the same freshwater lakes. Both species can grow in water up to 2 m deep. However, typically, Species A is found closer to the lake's edge in shallower water whereas Species B grows farther out in deeper water. Both species spread by means of underground stems called rhizomes and by means of seeds. A scientist conducted 2 studies to examine the effect of water depth on the growth of Species A and Species B plants from seeds.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In early Jun e, seeds from Species A and Species B were germinated. In mid-June, 24 seedlings of each species, all having shoot lengths of 3 cm to 5 cm, were transferred to identical pots (1 seedling per pot). The pots were suspended beneath the water in large outdoor tanks that were located in full Sun. Eight seedlings of each species were submerged to each of 3 water depths-0.2 m, 0.4 m, and 0.8 m. In late September, the average shoot length for surviving Species A seedlings and Species B seedlings at each of the 3 water depths was determined. The results are shown in Figure l.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\81.png' width = '449'height = '266'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Immediately after Study l, the surviving seedlings of Species A and B were removed from the tanks, dried, and then weighed. The average dry mass of the surviving Species A seedlings from each water depth was 2.3 mg. The average dry mass of the surviving Species B seedlings from each water depth is shown in Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\82.png' width = '376'height = '250'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For each water depth, the shoot length and dry mass of each surviving Species B seedling were plotted, The best-fit curve for each set of data points is shown in Figure 3.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2010 April 68G\imgs\83.png' width = '455'height = '250'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Stefan E. B. Weisner et al, "influence of Submergence on Growth of Seedlings of Scirpus lacustris and Phragmites australis."1993 by Blackwell Publishing.</div>
+
+<br>
+###################
+<div class = "quiz">1. Based on Figure 3, for a water depth of 0.8 m, the shoot length and dry mass of how many Species B seedlings were plotted?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 8</div>
+<div class = "choice">C. 24</div>
+<div class = "choice">D. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">2. Suppose that a fourth group of pots containing Species B seedlings had been suspended at a water depth of 0.3 m. The average shoot length of these seedlings in late September would most likely have been:
+<div class = "choice">F. less than 34 cm.</div>
+<div class = "choice">G. between 34 cm and 42 cm.</div>
+<div class = "choice">H. between 42 cm and 50 cm.</div>
+<div class = "choice">J. greater than 50 cm.</div>
+</div>
+###################
+<div class = "quiz">3. At the conclusion of Study 2, a seedling of Species B length of 33 cm. Based on Figure 3, this seedling most likely had been submerged at which of the following water depths?
+<div class = "choice">A. 0.2 m</div>
+<div class = "choice">B. 0.4 m</div>
+<div class = "choice">C. 0.8 m</div>
+<div class = "choice">D. 1.0 m</div>
+</div>
+###################
+<div class = "quiz">4. Which of the following sets of data points most likely yielded the best-fit curve for surviving Species B seedlings grown at a depth of 0.4 m ?
+<div class = "choice">F. <img src='file:\$$$\resources\2010 April 68G\imgs\84.png' width = '224'height = '130'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2010 April 68G\imgs\85.png' width = '200'height = '130'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2010 April 68G\imgs\86.png' width = '208'height = '130'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2010 April 68G\imgs\87.png' width = '216'height = '130'/></div>
+</div>
+###################
+<div class = "quiz">5. According to the results of Studies l and 2, for a given water depth,how did surviving seedlings of Species A compare to surviving seedlings of Species B ? On average, seedlings of Species A had:
+<div class = "choice">A. longer shoot lengths and greater dry mass.</div>
+<div class = "choice">B. longer shoot lengths but lesser dry mass.</div>
+<div class = "choice">C. shorter shoot lengths and lesser dry mass.</div>
+<div class = "choice">D. shorter shoot lengths but greater dry mass.</div>
+</div>
+###################
+<div class = "quiz">6. Of the 8 Species A seedlings grown at a water depth of 0.2 m, 6 survived. The total dry mass of these surviving seedlings can be calculated using which of the following expressions?
+<div class = "choice">F. 2.3 mg×6</div>
+<div class = "choice">G. 2.3 mg÷6</div>
+<div class = "choice">H. 2.3 mg×8</div>
+<div class = "choice">J. 2.3 mg÷8</div>
+<br>
+</div>
+###################

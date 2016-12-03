@@ -1,0 +1,62 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Lyme disease is caused by bacteria that are transmitted to humans by the bite of infected deer ticks. The first sign of Lyme disease is often a bull's-eye rash on the skin. Figure 1 shows the 2-year deer tick life cycle.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\92.png' width = '421'height = '409'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from "Deer Tick Ecology." © 1998 by the American Lyme Disease Foundation, Inc.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A study area adjacent to a forest was divided into 5 zones (A-E). People living in the study area were tested monthly for Lyme disease. The results are shown in Figure 2. For each zone, Table 1 shows the number of houses, mice, deer tick larvae per mouse, households that sighted deer daily, and the percent of households inhabited by at least 1 person infected with Lyme disease.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\93.png' width = '430'height = '409'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Bars on the graph are stacked.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="6" style="width:823.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="549"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td rowspan="2" style="width:108.0pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Zone</span></p></td><td colspan="4" style="width:504.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="336"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Number of:</span></p></td><td rowspan="2" style="width:211.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="141"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">Percent of households</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">inhabited by at least</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">1 infected person</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">houses</span></p></td><td style="width:108.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">mice</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="84"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">larvae/mouse</span></p></td><td style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">households that</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">sighted deer daily</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:108.0pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">A</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">B</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">C</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">D</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">E</span></p></td><td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">12</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">13</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">13</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">13</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">14</span></p></td><td style="width:108.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">300</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">203</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">128</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">108</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">93</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="84"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">50</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">19</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">23</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">67</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">20</span></p></td><td style="width:180.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">12</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">10</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">8</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">4</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">6</span></p></td><td style="width:211.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="141"><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">75</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">62</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">54</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">38</span></p><p align="center"  style="text-align:center;tab-stops:32.25pt"><span lang="EN-US">36</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 and Table 1 adapted from Catherine C. Latavica et al., "Rapid Emergence of a Focal Epidemic of Lyme Disease in Coastal Massachusetts." © 1989 by The Massachusetts Medical Society.</div>
+
+<br>
+###################
+<div class = "quiz">1. Based on Table 1, as the number of mice found in a given zone increased, the number of larvae per mouse:
+<div class = "choice">A. increased only.</div>
+<div class = "choice">B. decreased only.</div>
+<div class = "choice">C. decreased, then remained the same.</div>
+<div class = "choice">D. varied with no general trend.</div>
+</div>
+###################
+<div class = "quiz">2. Based on Figure 1, which organism is essential in maintaining the Lyme disease bacteria in the deer tick population?
+<div class = "choice">F. Deer</div>
+<div class = "choice">G. Mice</div>
+<div class = "choice">H. Humans</div>
+<div class = "choice">J. Domestic animals</div>
+</div>
+###################
+<div class = "quiz">3. Based on Table 1, the average percent of households inhabited by at least 1 infected person in Zones A-E of the study area was closest to:
+<div class = "choice">A. 30%.</div>
+<div class = "choice">B. 40%.</div>
+<div class = "choice">C. 50%.</div>
+<div class = "choice">D. 60%.</div>
+</div>
+###################
+<div class = "quiz">4. Suppose additional data had been obtained about the total number of infected deer  tick larvae in each of the zones. Given Table 1, one would predict that the largest total of infected deer tick larvae would have been found in which zone?
+<div class = "choice">F. Zone A</div>
+<div class = "choice">G. Zone B</div>
+<div class = "choice">H. Zone D</div>
+<div class = "choice">J. Zone E</div>
+</div>
+###################
+<div class = "quiz">5. According to Figure 2, the total number of new cases of Lyme disease was the same for both months in each of the following pairs of months EXCEPT:
+<div class = "choice">A. March and September.</div>
+<div class = "choice">B. April and December.</div>
+<div class = "choice">C. May and October.</div>
+<div class = "choice">D. August and November.</div>
+<br>
+</div>
+###################

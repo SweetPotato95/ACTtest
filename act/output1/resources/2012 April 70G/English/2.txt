@@ -1,0 +1,119 @@
+
+<h1>Polaris: Not Always the North Star</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Polaris, the star now almost directly over the North Pole, has played <font id=16>a significant</font> role in many mythologies and in the history of navigation. For centuries, sailors and leaders of desert caravans used the North Star to chart their courses. <font id=17>Polaris has been called the Lodestar, the Steering Star, and Stella Maris (the Star of the Sea). </font> <font id=18>Finally, people</font> in ancient India believed it was the Golden Peg that held the universe together. <font id=19>In Scandinavian mythology, Polaris was thought to be the jeweled head of the World Spike-an enormous nail the Norse gods had hammered into the sky so the stars could revolve around it. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=23>[1] However, as the Greek astronomer Hipparchus discovered around 129 BC, the North Star, or polestar is not eternally fixed over the North Pole, as the mythmakers had supposed. [2] In the process of compiling an astronomical catalog, Hipparchus noticed that the stars had seemingly shifted from positions <font id=20>noted</font> in Babylonian records from many centuries earlier. [3] He concluded that it was not the stars that were moving but rather the position from which they were being observed that varied. [4] Precession, in turn, is caused by the gravitational pull of the Sun and the Moon on the bulge at Earth's equator. [5] A wobbling in Earth's axis of <font id=21>rotation, called</font> precession, <font id=22>cause</font> this variation in position. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As Earth rotates <font id=24>round and round and round</font> like a spinning top, its axis traces a huge circle that takes 26,000 years to <font id=25>complete. As a result, </font> the North Pole's position in relation to the stars <font id=26>change. </font> Astronomers <font id=27>now, know, that, </font> around 3000 BC, Thuban, a star in the tail of the constellation Draco (the Dragon), was directly above the pole. Three thousand years from now, Alderamin, in the constellation Cepheus, <font id=28>is</font> the polestar. Over the 26,000-year cycle, numerous stars will take <font id=29>its' </font> turn as the North Star for a few thousand years each. But the Babylonian records should not be discarded. <font id=30>30</font></div>
+
+<br>
+###################
+<div class = "quiz">16. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">F. an important</div>
+<div class = "choice">G. a prominent</div>
+<div class = "choice">H. an abundant</div>
+<div class = "choice">J. a major</div>
+</div>
+###################
+<div class = "quiz">17. If the writer were to delete the phrase "the Star of the Sea" (and the parentheses) from the preceding sentence, the sentence would primarily lose:
+<div class = "choice">A. an explanation of the importance of Polaris to sailors and caravan leaders.</div>
+<div class = "choice">B. a translation of a phrase from a language other than English.</div>
+<div class = "choice">C. a clarification of the exact location of Polaris.</div>
+<div class = "choice">D. the name of a specific caravan.</div>
+</div>
+###################
+<div class = "quiz">18.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Nevertheless, people</div>
+<div class = "choice">H. Anyway, people</div>
+<div class = "choice">J. People</div>
+</div>
+###################
+<div class = "quiz">19. If the writer were to delete the words "so the stars could revolve around it" from the preceding sentence, the sentence would primarily lose:
+<div class = "choice">A. the method used to secure the World Spike in the sky, according to Scandinavian mythology.</div>
+<div class = "choice">B. an explanation of why the World Spike exists, according to Scandinavian mythology.</div>
+<div class = "choice">C. a description of the jeweled head of the World Spike.</div>
+<div class = "choice">D. a suggestion of a breakthrough in astronomy.</div>
+</div>
+###################
+<div class = "quiz">20.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. having noted</div>
+<div class = "choice">H. were noted</div>
+<div class = "choice">J. noting</div>
+</div>
+###################
+<div class = "quiz">21.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. rotation: called</div>
+<div class = "choice">C. rotation (called)</div>
+<div class = "choice">D. rotation called</div>
+</div>
+###################
+<div class = "quiz">22.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. causes</div>
+<div class = "choice">H. are causing</div>
+<div class = "choice">J. are caused</div>
+</div>
+###################
+<div class = "quiz">23. For the sake of the logic and coherence of this paragraph, Sentence 5 should be placed:
+<div class = "choice">A. where it is now.</div>
+<div class = "choice">B. after Sentence l.</div>
+<div class = "choice">C. after Sentence 2.</div>
+<div class = "choice">D. after Sentence 3.</div>
+</div>
+###################
+<div class = "quiz">24.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. and twirls about</div>
+<div class = "choice">H. on its spinning axis</div>
+<div class = "choice">J. DELETE the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">25.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. complete, as a result,</div>
+<div class = "choice">C. complete as a result,</div>
+<div class = "choice">D. complete as a result</div>
+</div>
+###################
+<div class = "quiz">26.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. would of changed.</div>
+<div class = "choice">H. changed.</div>
+<div class = "choice">J. changes.</div>
+</div>
+###################
+<div class = "quiz">27.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. now know that</div>
+<div class = "choice">C. now know, that</div>
+<div class = "choice">D. now, know that</div>
+</div>
+###################
+<div class = "quiz">28.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. has been</div>
+<div class = "choice">H. will be</div>
+<div class = "choice">J. was</div>
+</div>
+###################
+<div class = "quiz">29.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. they're</div>
+<div class = "choice">C. their</div>
+<div class = "choice">D. it's</div>
+</div>
+###################
+<div class = "quiz">30. Which of the following true statements, if added here, would best conclude the paragraph and the essay by explaining the statement in the preceding sentence?
+<div class = "choice">F. Twenty-six thousand years after they were created, they will again be accurate.</div>
+<div class = "choice">G. The Babylonian records were not necessarily complete, as Hipparchus had discovered.</div>
+<div class = "choice">H. Many of these records were compiled by Kidinnu, who served as the director of an astronomical school in the Babylonian city of Sippar.</div>
+<div class = "choice">J. Babylonian astronomers not only kept records pertaining to the motion of stars and planets, but they also developed a detailed system of rules for a calendar.</div>
+<br>
+</div>
+###################

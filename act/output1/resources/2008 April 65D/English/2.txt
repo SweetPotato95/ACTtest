@@ -1,0 +1,125 @@
+﻿
+<h1>The Amazing Monarch Migration</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The orange and black monarch <font id=16>butterfly, which</font> is the <font id=17>most easiest</font> recognized and striking butterfly species in North America. Monarchs are particularly fascinating because they are one of the few migratory butterfly species in North America.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=25>[1] In the fall, as daylight and temperatures decrease, migrating monarchs begin their long journey <font id=18>south, an extended flight.</font> [2] Many <font id=19>monarchs, west of the Rocky Mountains</font> migrate to the southern California coast, <font id=20>where</font> they overwinter in eucalyptus groves. [3] <font id=21>Besides,</font> most <font id=22>monarchs</font>, millions of them across the United States and Canada-migrate as many as three thousand miles to Oyamel fir forests near Mexico City. [4] Monarchs have smaller bodies and <font id=23>insufficiently</font> developed nervous systems than migratory birds. [5] The features of birds that help them accomplish their, long migrations are aerodynamic design, acute vision, <font id=24>and the ability to regulate their body temperature and maintain energy.</font> [6] Monarchs lack these features, and yet, in a way that defies explanation, they travel up to eighty miles in a day.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For decades, scientists have studied this phenomenon, hoping to learn how monarchs are able to fly such distances. Researchers have tagged migrating monarchs to study their flight patterns; and they've hiked to the overwintering <font id=26>sites</font> on the Mexican Plateau, where twenty thousand monarchs are sometimes found clustered on a single Oyamel fir bough.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists' are starting to learn more about the monarch's life cycle. <font id=27>When</font> monarchs that don't migrate to Mexico live only four to six <font id=28>weeks;</font> the migrating generations live at least eight months. After becoming reproductively active in the spring, monarchs that have' migrated begin their return journey. They lay their eggs on milkweed plants along the way and then die. Their offspring hatch, feed on the milkweed, and <font id=29>the migration is eventually continued.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Researchers know they have much to learn, but with the help of new tracking devices and Internet technology that makes data available worldwide, <font id=30>they are .ready to move ahead.</font></div>
+
+<br>
+###################
+<div class = "quiz">16.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. butterfly</div>
+<div class = "choice">H. butterfly</div>
+<div class = "choice">J. that butterfly,</div>
+</div>
+###################
+<div class = "quiz">17.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. most easy</div>
+<div class = "choice">C. easiest</div>
+<div class = "choice">D. most easily</div>
+</div>
+###################
+<div class = "quiz">18.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. south, which is far-reaching.</div>
+<div class = "choice">H. south.</div>
+<div class = "choice">J. south, which encompasses many miles.</div>
+</div>
+###################
+<div class = "quiz">19.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. monarchs west of the Rocky Mountains,</div>
+<div class = "choice">C. monarchs west, of the Rocky Mountains,</div>
+<div class = "choice">D. monarchs west of the Rocky Mountains</div>
+</div>
+###################
+<div class = "quiz">20.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. there</div>
+<div class = "choice">H. while</div>
+<div class = "choice">J. DELETE the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">21.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. However,</div>
+<div class = "choice">C. Finally,</div>
+<div class = "choice">D. Therefore,</div>
+</div>
+###################
+<div class = "quiz">22.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. monarchs-</div>
+<div class = "choice">H. monarchs,</div>
+<div class = "choice">J. monarchs</div>
+</div>
+###################
+<div class = "quiz">23.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. less</div>
+<div class = "choice">C. more insufficient</div>
+<div class = "choice">D. inadequate</div>
+</div>
+###################
+<div class = "quiz">24.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. and regulating body temperature and maintaining energy with their ability.</div>
+<div class = "choice">H. with their body temperature regulation and energy maintenance ability.</div>
+<div class = "choice">J. and the regulation of body temperature and their ability to maintain energy.</div>
+</div>
+###################
+<div class = "quiz">25. The writer would like to divide this paragraph into two in order to signal the shift in focus from monarchs' migrating habits to the differences between monarchs and migratory birds. To accomplish this goal, the best place to start the new paragraph would be at the beginning of Sentence:
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 5</div>
+</div>
+###################
+<div class = "quiz">26.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. site's</div>
+<div class = "choice">H. sites'</div>
+<div class = "choice">J. sites,</div>
+</div>
+###################
+<div class = "quiz">27.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. If</div>
+<div class = "choice">C. While</div>
+<div class = "choice">D. So that</div>
+</div>
+###################
+<div class = "quiz">28.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. weeks and</div>
+<div class = "choice">H. weeks, and while</div>
+<div class = "choice">J. weeks,</div>
+</div>
+###################
+<div class = "quiz">29.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. continuing the migration is eventual.</div>
+<div class = "choice">C. eventually continue the migration.</div>
+<div class = "choice">D. continuing eventually the migration.</div>
+</div>
+###################
+<div class = "quiz">30. Which choice would best conclude the sentence and support one of the main points of the essay?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. they are excited about learning how to use these new research tools.</div>
+<div class = "choice">H. they hope to solve the mysteries of the monarch migration.</div>
+<div class = "choice">J. they look forward to collaborating with, other researchers who are more knowledgeable in the mysteries of monarch migration.</div>
+<br>
+</div>
+###################

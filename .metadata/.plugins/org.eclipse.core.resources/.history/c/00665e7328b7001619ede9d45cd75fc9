@@ -1,0 +1,23 @@
+package EnDecrypt;
+
+import java.io.IOException;
+
+import sun.misc.BASE64Decoder;
+import sun.misc.BASE64Encoder;
+public class EnDecrypt{
+	public static void main(String[] args){
+		BASE64Encoder base64en = new BASE64Encoder();
+		BASE64Decoder base64de = new BASE64Decoder();
+		String s = "Hahasadaskhdkjsahfkjhaskjhdkjhkjshakfjhasjkhdkjhsakjhdkjhsakjhdkjsahdkfjhakjhdddddddddddddddddddddddasdsadasddddddddddddddddddddsadsadsadsadsadasd";
+		
+		String es = base64en.encode(s.getBytes());
+		try {
+			String des = new String(base64de.decodeBuffer(es));
+			System.out.println(des);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println(es);
+	}
+}

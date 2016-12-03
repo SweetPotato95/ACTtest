@@ -1,0 +1,48 @@
+<h1>Passage VII</h1>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The male-to-female body mass ratio (MFMR) of a species can be calculated as follows:</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">MFMR=<img src='file:\$$$\resources\2005 June 61D\imgs\177.png' width = '106'height = '42'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In this equation, <img src='file:\$$$\resources\2005 June 61D\imgs\178.png' width = '49'height = '42'/>is the average body mass of adult males and <img src='file:\$$$\resources\2005 June 61D\imgs\179.png' width = '35'height = '42'/> is the average body mass of adult females.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The figure shows the MFMR of some species within 4 primate groups: apes and humans; Old World monkeys; New World monkeys; and prosimians. A species with an MFMR of 1 is monomorphic with respect to body mass. A species with an MFMR different than 1 is dimorphic with respect to body mass. (Note: In the figure, MFMR values are calculated to the nearest tenth.)</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 June 61D\imgs\180.png' width = '1381'height = '875'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure adapted from Steve Jones, Robert Martin, and David Pilbeam, eds. The Cambridge Encyclopedia of Human Evolution. © 1992 by Cambridge University Press.</div>
+###################
+<div class = "quiz">36. According to the figure, the body mass of the average adult male orangutan is how many times greater than the body mass of the average adult female orangutan?
+
+<div class = "choice">F.1.1</div>
+<div class = "choice">G.1.4</div>
+<div class = "choice">H.1.6</div>
+<div class = "choice">J.1.9</div>
+</div>
+###################
+<div class = "quiz">37. Which of the following statements about the relative size of male and female chimpanzees and aye-ayes is consistent with the information provided?
+
+<div class = "choice">A.Both chimpanzees and aye-ayes are dimorphic with respect to body mass.</div>
+<div class = "choice">B.Both chimpanzees and aye-ayes are monomorphic with respect to body mass.</div>
+<div class = "choice">C.Chimpanzees are dimorphic with respect to body mass, and aye-ayes are monomorphic with respect to body mass.</div>
+<div class = "choice">D.Chimpanzees are monomorphic with respect to body mass, and aye-ayes are dimorphic with respect to body mass.</div>
+</div>
+###################
+<div class = "quiz">38. According to the figure, which of the following primate groups has the largest proportion of monomorphic species?
+
+<div class = "choice">F.Apes</div>
+<div class = "choice">G.Old World monkeys</div>
+<div class = "choice">H.New World monkeys</div>
+<div class = "choice">J.Prosimians</div>
+</div>
+###################
+<div class = "quiz">39. On average, which of the following types of apes shown in the figure has the greates MFMR?
+
+<div class = "choice">A.Gibbons</div>
+<div class = "choice">B.Chimpanzees</div>
+<div class = "choice">C.Orangutans</div>
+<div class = "choice">D.Gorillas</div>
+</div>
+###################
+<div class = "quiz">40. Which of the following best explains the units of measure that are associated with the MFMR?
+
+<div class = "choice">F.The numerator is in units of mass and the denominator is in units of mass, so the ratio has no units.</div>
+<div class = "choice">G.The numerator is in units of mass and the denominator is in units of mass, so the ratio is in units of mass.</div>
+<div class = "choice">H.The numerator is in units of volume and the denominator is in units of volume, so the ratio has no units.</div>
+<div class = "choice">J.The numerator is in units of volume and the denominator is in units of volume, so the ratio is in units of volume.</div></div>
+
+###################

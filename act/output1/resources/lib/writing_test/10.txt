@@ -1,0 +1,14 @@
+﻿<h1>Casual Dress</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At one time, it was the norm for people in the United States to dress well whenever they went out in public. Those who could wore suits or dresses even for everyday occasion, such as shopping or visiting neighbors. However, our standards for appropriate dress have changed over time. T-shirts, sandals, sweatpants, and ball caps are now standard public attire, even in places once considered much more formal, such as restaurants or the workplace. Given how prevalent casual dress is today, it is worth considering what this trend might indicates about our shifting cultural values.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Read and carefully consider these perspective. Each suggests a particular way of thinking about the trend toward more casual dress as a reflection of shifting cultural values.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One </div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This trend reflects the fact that Americans value equality. Formal dress tends to separate people; casual dress says, “We’re all the same.”</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>	
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The trend toward more casual dress shows a growing lack of respect for self and others. Dressing nicely in public signals that you care about the rules and manners that hold society together.</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">These days, it’s more important to be comfortable than “correct. ” this trend shows that people today care more about who you are inside than what you look like on the outside.</div>

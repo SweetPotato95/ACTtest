@@ -1,0 +1,48 @@
+﻿<h1>Passage VI</h1>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air at its dew point temperature (or dew point) is saturated with water vapor. Air temperature usually decreases with increasing altitude. When air cools to its dew point, the water vapor in the air can begin to condense and form clouds.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Air temperatures and dew points were measured every 600 m from the surface (0 m) to an altitude of 3,000 m at 4 cities (A-D). Data, including the altitude of the cloud base over each city, were taken at 2 P.M. on every summer day that clouds were present. Figures l-4 show the average air temperatures, the average dew points, and the average cloud-base altitudes at each city.</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2005 April 60E\imgs\233.png' width = '103'height = '115'/>         
+<img src='file:\$$$\resources\2005 April 60E\imgs\234.png' width = '148'height = '106'/> 
+<img src='file:\$$$\resources\2005 April 60E\imgs\235.png' width = '118'height = '86'/>   <img src='file:\$$$\resources\2005 April 60E\imgs\236.png' width = '148'height = '111'/></div>
+###################
+<div class = "quiz">31. A pilot flying a plane at 1,200 m altitude notices that there are cloud layers both above and below her, but none at her current altitude. Which of the following statements about the weather conditions at or near her altitude is supported by the information provided?
+
+<div class = "choice">A.The base of the upper cloud layer is at 660 m altitude and extends l,200 m upward.</div>
+<div class = "choice">B.The top of the lower cloud1ayer is at l,202 m altitude.</div>
+<div class = "choice">C.The air temperature is higher than the dew point at 1,200 m altitude.</div>
+<div class = "choice">D.The dew point is above 80°F in both the upper and the lower cloud layers.</div>
+</div>
+###################
+<div class = "quiz">32. A ceilometer bounces a light .beam off the base of a cloud layer and measures how long it takes the light to make the trip up and back. The scientists who made the measurements plotted in Figures l-4 most likely used the ceilometer to determine which of the following data?
+
+<div class = "choice">F.The average air temperature at the top of the cloud layers at Cities A-D</div>
+<div class = "choice">G.The average dew point of the air at the top of the cloud layers at Cities A-D</div>
+<div class = "choice">H.The average altitude of the bottom of the cloud layers at Cities A-D</div>
+<div class = "choice">J.The average thickness of the cloud layers at Cities A-D</div>
+</div>
+###################
+<div class = "quiz">33. Assume that the cloud layer at City C extends from an altitude of 3,000 m up to an altitude of 4,000 m. Based on this assumption and the observed trends within cloud layers for the 4 cities, which of the following would be the best approximation of the air temperature and dew point in the cloud layer at an altitude of 3,600 m over City C?
+     <u>Air temperature</u>           <u>Dew point</u>
+<div class = "choice">A.26°F                  36°F</div>
+<div class = "choice">B.36°F                  36°F</div>
+<div class = "choice">C.38°F                  45°F</div>
+<div class = "choice">D.45°F                  45°F</div>
+</div>
+###################
+<div class = "quiz">34. The table below shows the average July air temperatures and dew points at o m altitude for Miami, Florida, and for Phoenix, Arizona.
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:169.7pt;border:solid windowtext 1.0pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="113"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>City</span></p></td><td style="width:283.0pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="189"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Average  air temperature (°F)</span></p></td><td style="width:238.7pt;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="159"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Average  dew point (°F)</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:169.7pt;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="113"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Miami  Phoenix</span></p></td><td style="width:283.0pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>85</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>95</span></p></td><td style="width:238.7pt;border-top:none;border-left:none;  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="159"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>70</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>36</span></p></td></tr></table></div>
+Based on this information and the data in Figures 1-4, which of these 2 cities, on average, would have lower cloud based in July?
+<div class = "choice">F.Phoenix, because it has a higher average air temperature than Miami.</div>
+<div class = "choice">G.Phoenix, because the difference between the average air temperature and the average dew point is larger than in Miami.</div>
+<div class = "choice">H.Miami, because it has a lower average air temperature than Phoenix.</div>
+<div class = "choice">J.Miami, because the difference between the average air temperature and the average dew point is smaller than in Phoenix.</div>
+</div>
+###################
+<div class = "quiz">35. A certain city reported that the air temperature and the dew point at o m altitude measured at 8 A.M. on a given day were both 40°F.Given this information and the data provided, one could be most certain that clouds were present at which of the following altitudes at that city at 8 A.M. on that day?
+</div>
+<div class = "choice">A.0 m</div>
+<div class = "choice">B.600 m</div>
+<div class = "choice">C.1,200m</div>
+<div class = "choice">D.2,400 m</div></div>
+
+###################

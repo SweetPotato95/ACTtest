@@ -1,0 +1,49 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In August, the ozone (<img src='file:\$$$\resources\2012 April 70G\imgs\142.png' width = '32'height = '38'/>) content of the stratosphere above Antarctica begins to decrease, reaching a minimum around October 15. Over this period, winds surrounding this ozone hole keep it isolated from adjacent areas where the air has greater <img src='file:\$$$\resources\2012 April 70G\imgs\143.png' width = '32'height = '38'/> content. In late October, the winds weaken, causing the <img src='file:\$$$\resources\2012 April 70G\imgs\144.png' width = '32'height = '38'/> content of the air in the ozone hole to increase again as this air mixes with the air from adjacent areas. Figures I and 2 show how the air temperature and <img src='file:\$$$\resources\2012 April 70G\imgs\145.png' width = '31'height = '38'/> partial pressure (a measure of <img src='file:\$$$\resources\2012 April 70G\imgs\146.png' width = '32'height = '38'/> content), respectively, changed with altitude in a portion of the stratosphere above a location in Antarctica on September 15, October 15, and November 15,2000.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\147.png' width = '566'height = '733'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\148.png' width = '608'height = '794'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from O. Troshichev and I. Gabis, "Effects of Solar UV Irradiation on Dynamics of Ozone Hole in Antarctica." 2005 by Elsevier, Ltd.</div>
+
+<br>
+###################
+<div class = "quiz">6. According to Figure 2, on October 15,2000, the <img src='file:\$$$\resources\2012 April 70G\imgs\149.png' width = '32'height = '38'/> partial pressure was zero for all altitudes in which of the following ranges'?
+<div class = "choice">F. 18km-20km</div>
+<div class = "choice">G. 19km-21km</div>
+<div class = "choice">H. 20km-22km</div>
+<div class = "choice">J. 21km-23km</div>
+</div>
+###################
+<div class = "quiz">7. According to Figure 2, over the altitude range from 16km to 26km, what was the approximate maximum value of the <img src='file:\$$$\resources\2012 April 70G\imgs\150.png' width = '32'height = '38'/> partial pressure on September 15,2000, and November 15,2000, respectively?
+<div class = "choice">A. September 15:2 mPa            November 15:7 mPa</div>
+<div class = "choice">B. September 15:7 mPa            November 15:20 mPa</div>
+<div class = "choice">C. September 15:20 mPa           November 15:2 mPa</div>
+<div class = "choice">D. September 15:20 mPa           November 15:7 mPa</div>
+</div>
+###################
+<div class = "quiz">8. According to Figure l, of the following altitudes, at which one did the air temperature vary the least from October 15,2000, to November 15,2000?
+<div class = "choice">F. 22 km</div>
+<div class = "choice">G. 23 km</div>
+<div class = "choice">H. 24 km</div>
+<div class = "choice">J. 25 km</div>
+</div>
+###################
+<div class = "quiz">9. Consider the information in the passage about the annual changes in <img src='file:\$$$\resources\2012 April 70G\imgs\151.png' width = '32'height = '38'/> content in the stratosphere above Antarctica. Based on this information and Figure 2, on October l,2000, at an altitude of 18km above the location in Antarctica, the <img src='file:\$$$\resources\2012 April 70G\imgs\152.png' width = '32'height = '38'/> partial pressure would most likely have been:
+<div class = "choice">A. less than 4mPa.</div>
+<div class = "choice">B. between 4mPa and 5mPa.</div>
+<div class = "choice">C. between 6mPa and 7mPa.</div>
+<div class = "choice">D. greater than 7mPa.</div>
+</div>
+###################
+<div class = "quiz">10. Consider the ultraviolet radiation that reached the location in Antarctica on September 15,2000, on October 15,2000, and on November 15,2000, after having passed through the stratosphere. Based on Figure 2, on which of the 3 dates was the intensity of the radiation greatest?
+<div class = "choice">F. September 15, because the <img src='file:\$$$\resources\2012 April 70G\imgs\153.png' width = '32'height = '38'/> partial pressure averaged over the altitudes from 16 km to 26km was the least on that date.</div>
+<div class = "choice">G. October 15, because the <img src='file:\$$$\resources\2012 April 70G\imgs\154.png' width = '32'height = '38'/> partial pressure averaged over the altitudes from 16 km to 26km was the greatest on that date.</div>
+<div class = "choice">H. October 15, because the <img src='file:\$$$\resources\2012 April 70G\imgs\155.png' width = '32'height = '38'/> partial pressure averaged over the altitudes from 16 km to 26km was the least on that date.</div>
+<div class = "choice">J. November 15, because the <img src='file:\$$$\resources\2012 April 70G\imgs\156.png' width = '32'height = '38'/> partial pressure averaged over the altitudes from 16 km to 26km was the greatest on that date.</div>
+<br>
+</div>
+###################

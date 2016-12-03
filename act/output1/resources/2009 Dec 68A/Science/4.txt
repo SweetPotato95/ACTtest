@@ -1,0 +1,86 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">If a metal oxide sample at high temperature is exposed to a stream of H<sub>2</sub> gas, it may be converted to a pure metal. Reactions 1-3 are examples of this process for a cobalt oxide and 2 different iron oxides, respectively.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 1: <img src='file:\$$$\resources\2009 Dec 68A\imgs\187.png' width = '204'height = '36'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 2: <img src='file:\$$$\resources\2009 Dec 68A\imgs\188.png' width = '195'height = '36'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reaction 3: <img src='file:\$$$\resources\2009 Dec 68A\imgs\189.png' width = '247'height = '36'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">During the reaction, the <img src='file:\$$$\resources\2009 Dec 68A\imgs\190.png' width = '32'height = '36'/> stream carries away<img src='file:\$$$\resources\2009 Dec 68A\imgs\191.png' width = '50'height = '36'/>, so the resulting sample is composed of metal oxide and pure metal only.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 1-3 show how the percent of pure metal, % PM, in metal oxide samples changed over time as they underwent Reactions 1-3, respectively, with and without a magnetic field present.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\192.png' width = '464'height = '61'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\193.png' width = '488'height = '460'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\194.png' width = '534'height = '502'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\195.png' width = '532'height = '489'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1 adapted from M. W. Rowe et al., "Effect of Magnetic Field on Reduction of Cobalt Oxides." ©1979 by Chapman and Hall Ltd.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2 and 3 adapted from M. W. Rowe, S. M. Lake, and R. Fanick, "Effect of Magnetic Field on Reduction of Iron Oxides: Magnetite and Wüstite." ©1977 by Macmillan Magazines Ltd.</div>
+
+<br>
+###################
+<div class = "quiz">19. According to Figure 2, during Reaction 2 without a magnetic field, the % PM at 10 min was approximately:
+<div class = "choice">A. 25%</div>
+<div class = "choice">B. 35%</div>
+<div class = "choice">C. 45%</div>
+<div class = "choice">D. 55%</div>
+</div>
+###################
+<div class = "quiz">20. Suppose that during Reaction 2 with a magnetic field, the magnetic field had been removed at time = 10 min. Five minutes later, at time = 15 min, the % PM would most likely have been:
+<div class = "choice">F. less than 30%.</div>
+<div class = "choice">G. between 30% and 60%.</div>
+<div class = "choice">H. between 60% and 90%.</div>
+<div class = "choice">J. greater than 90%.</div>
+</div>
+###################
+<div class = "quiz">21. According to Figure 3, in Reaction 3, how did the addition of a magnetic field affect the yield of pure Fe petal? At 20 min, the yield obtained with a magnetic field was about:
+<div class = "choice">A. <img src='file:\$$$\resources\2009 Dec 68A\imgs\196.png' width = '22'height = '61'/>the yield obtained without a magnetic field.</div>
+<div class = "choice">B. <img src='file:\$$$\resources\2009 Dec 68A\imgs\197.png' width = '22'height = '61'/>the yield obtained without a magnetic field.</div>
+<div class = "choice">C. the same as the yield obtained without a magnetic field.</div>
+<div class = "choice">D. 2 times the yield obtained without a magnetic field.</div>
+</div>
+###################
+<div class = "quiz">22. A chemist claimed that the conversion of a metal oxide to a pure metal using H<sub>2</sub> gas will always occur faster with a magnetic field than without a magnetic field. Do Figures 1-3 confirm this claim?
+<div class = "choice">F. Yes; the % PM reached 0% sooner with a magnetic field than it did without a magnetic field in all 3 reactions.</div>
+<div class = "choice">G. Yes; the % PM reached 100% sooner with a magnetic field than it did without a magnetic field in all 3 reactions.</div>
+<div class = "choice">H. No; the % PM reached 0% sooner without, a magnetic field than it did with a magnetic field in Reaction 2.</div>
+<div class = "choice">J. No; the % PM reached 100% sooner without a magnetic field than it did with a magnetic field in Reaction 2.</div>
+</div>
+###################
+<div class = "quiz">23. Suppose that Figure 1 had instead been plotted as percent of metal oxide (% MO) versus time:
+<img src='file:\$$$\resources\2009 Dec 68A\imgs\198.png' width = '366'height = '41'/>
+Which of the following graphs best shows how Figure 1 would have appeared?
+---- without magnetic field <sup>____</sup> with magnetic field
+<div class = "choice">A.<img src='file:\$$$\resources\2009 Dec 68A\imgs\200.png' width = '140'height = '120'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 Dec 68A\imgs\201.png' width = '134'height = '120'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2009 Dec 68A\imgs\202.png' width = '134'height = '111'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2009 Dec 68A\imgs\203.png' width = '149'height = '110'/></div>
+<br>
+</div>
+###################

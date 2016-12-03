@@ -1,0 +1,12 @@
+﻿<h1>Tech-Free Time</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">People today are almost never free from their electronic devices. They constantly monitor their phones, exchange texts and photos, mind their social media pages, work on their laptops and tablets, watch videos, play online games, and engage in countless other plugged-in pursuits. But a growing number of people are beginning to question this practice. They believe that an overdependence on electronic devices is harmful to their health, their relationships, and perhaps their humanity. Accordingly, they adopt and recommend deliberate “tech-free time” during which they avoid the use of the technologies so prevalent in the world around them. Given the predominance of digital technologies in our daily lives, it is worth considering whether some self-imposed tech-free time might have value. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective One</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Being connected to technology is what defines us as modern people. There’s no point in pretending that we do not depend on and enjoy our digital world. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Two</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Some tech-free time is essential for restoring us to our true selves. Our devices keep us from experiencing and appreciating the real world around us. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective Three</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Most people cannot stay away from their digital devices even if they want to. Either their livelihoods or family relationships depend on being constantly connected, or else they are simply addicted to their devices and cannot break free. </div>

@@ -1,0 +1,39 @@
+package act.View;
+
+import java.awt.Dimension;
+
+import javax.swing.JLabel;
+import javax.swing.JScrollPane;
+
+class SLVWpane{
+	JTextPane textPane = new JTextPane();
+	JScrollPane scrollPane;
+	JLabel scoreLabel = new JLabel();
+	public SLVWpane(){
+		textPane.setContentType("text/html");
+		 textPane.setText("<html><body>hahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasd</body></html>");
+		 //textPane.setMaximumSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),1000));
+		 textPane.setSize(50,1000);
+		 //textPane.setPreferredSize(new Dimension((int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+				 //(int)Math.floor(0.3*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+		 scrollPane = new JScrollPane(textPane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+		 scrollPane.setSize(50,50);
+		 scrollPane.setPreferredSize(new Dimension(50,50));
+		 System.out.println(textPane.getWidth()+"\n"+scrollPane.getWidth()+"\n"+this.getWidth());
+		 scrollPane.setVisible(true);
+		 scoreLabel.setText("Writing Score:0.you stupid!");
+		 scoreLabel.setPreferredSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+				 (int)Math.floor(0.1*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+		 pa.setText("Fuckydddddddddddddou");
+		 //maincontent.add(scoreLabel,BorderLayout.PAGE_START);
+		 //maincontent.add(scrollPane,BorderLayout.CENTER);
+		 
+		 JLabel label = new JLabel();
+		 label.setText("<html><body>asdasdsadsakydkjashdasdsahsadkjhaskjdhjkashdkjshakjdhjksahdjkashdkjhsajkhdfkjsahdjkashjkdhkjashdkjsahdjkshajdkhsaduiasgtduyasgudy</body></html>");
+		 label.setPreferredSize(new Dimension(50,50));
+		 label.setSize(50, 50);
+		 maincontent.add(scoreLabel);
+		 maincontent.add(scrollPane);
+		
+	}
+}

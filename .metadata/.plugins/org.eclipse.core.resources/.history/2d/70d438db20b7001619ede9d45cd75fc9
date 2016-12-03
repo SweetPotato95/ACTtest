@@ -1,0 +1,13 @@
+package EnDecrypt;
+
+import sun.misc.BASE64Decoder;
+import sun.misc.BASE64Encoder;
+public class EnDecrypt{
+	public static void main(String[] args){
+		BASE64Encoder base64en = new BASE64Encoder();
+		BASE64Decoder base64de = new BASE64Decoder();
+		String s = "Haha";
+		
+		String es = base64en.encode(s.getBytes()); 
+	}
+}

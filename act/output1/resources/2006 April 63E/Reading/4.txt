@@ -1,0 +1,88 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from Just Six Numbers: The Deep Forces That Shape the Universe by Martin Rees (? 2000 by Martin Rees).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Sun is fuelled by conversion of hydrogen (the simplest atom, whose nucleus consists of one proton) into helium (the second-simplest nucleus, consisting of two protons and two neutrons). Attempts to harness fusion as a power source ('controlled fusion') have so far been stymied by the difficulty of achieving the requisite temperatures of many millions of degrees. It is even more of a problem to confine this ultra-hot gas physically in a laboratory-it would obviously melt any solid container-and it has instead to be trapped by magnetic forces. But the Sun is so massive that gravity holds down the overlying cooler layers, and thereby 'keeps the lid on' the high-pressure core. The Sun has adjusted its structure so that nuclear power is generated in the core, and diffuses outward, at just the rate needed to balance the heat lost from the surface-heat that is the basis for life on Earth.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">This fuel has kept the Sun shining for nearly five billion years. But when it stars to run out, in another five billion years or so, the Sun's core will contract, and the outer layers expand. For a hundred million years-a brief interval relative to its overall lifetime-the Sun will brighten up and expand into the kind of star known as a 'red giant', engulfing the inner planets and vaporizing any life that remains on Earth. Some of its outer layers will be blown off, but the core will then settle down as a white dwarf, shining with a dull blue glow, no brighter than a full moon today, on the parched remains of the Solar System.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=35>Astrophysicists have computed what the inside of our Sun should be like, and have achieved a gratifying fit with its observed radius, brightness, temperature and so forth. They can tell us confidently what conditions prevail in its deep interior; they can also calculate how it will evolve over the next few billion years. Obviously these calculations can't be checked directly. We can, however, observe other stars like the Sun that are at different stages in their evolution. Having a single 'snapshot' of each star's life is not a fatal handicap if we have a large sample, born at different times, available for study. In the same way, a newly landed Martian wouldn't take long to infer the life-cycle of humans (or of trees), by observing large numbers at different stages. Even among the nearby stars, we can discern some that are still youngsters, no more that a million years old, and others in a near-terminal state, which may already have swallowed up any retinue of planets that they once possessed. Such inferences are based on the assumption that atoms and their nuclei are the same everywhere. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Astrophysicists can compute, just as easily as the Sun's evolution, the life-cycle of a star that is (say) half, twice, or ten times the mass of the Sun. Smaller stars burn their fuel more slowly. In contrast, stars ten times as heavy as the Sun-the four blue Trapezium stars in the constellation of Orion, for instance-shine thousands of times more brightly, and consume their fuel more quickly. Their lifetimes are much shorter than the Sun's, and they expire in a more violent way, by exploding as supernovae. They become, for a few weeks, as bright as several billion suns. Their outer layers, blown off at 20,000 kilometres per second, form a blast wave that ploughs into the surrounding interstellar gas.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Supernovae represent cataclysmic events in the life of the stars, involving some 'extreme' physical processes; so supernovae naturally fascinate astronomers. But only one person in ten thousand is an astronomer. What possible relevance could these stellar explosions thousands of light-years away have to <font id=38>all the others</font>, whose business lies purely on or near the Earth's surface? The surprising answer is that they are fundamental to everyone's environment. Without them, we would never have existed. Supernovae have created the 'mix' of atoms that the Earth is made of and that are the building blocks for the intricate chemistry of life. Ever since Darwin, we've been aware of the evolution and selection that preceded our emergence, and of our links with the rest of the biosphere. Astronomers now trace our Earth's origins back to stars that died before the Solar System formed. These ancient stars made the atoms of which we and our planet are composed.</div>
+
+<br>
+###################
+<div class = "quiz">31. The primary purpose of the passage is to:
+<div class = "choice">A. encourage readers to become aware of specific stars and constellations in other solar systems.</div>
+<div class = "choice">B. showcase new information astrophysicists have learned through direct observation of the Sun's core.</div>
+<div class = "choice">C. convince readers that the work of astrophysicists is inconclusive with respect to the origin of Earth and its inhabitants.</div>
+<div class = "choice">D. describe the evolution and demise of stars and the effects their deaths have for the planets and life.</div>
+</div>
+###################
+<div class = "quiz">32. The passage mentions astrophysicists calculating all of the following about stars EXCEPT:
+<div class = "choice">F. what the inside of the Sun should be like.</div>
+<div class = "choice">G. how the Sun will evolve over the next few billion years.</div>
+<div class = "choice">H. what the life cycle of a star bigger or smaller than the Sun is.</div>
+<div class = "choice">J. how long the Sun will emit a dull blue glow.</div>
+</div>
+###################
+<div class = "quiz">33. Information in the first paragraph indicates that "controlled fusion" requires all of the following EXCEPT:
+<div class = "choice">A. the transformation of atomic nuclei.</div>
+<div class = "choice">B. ultra-hot temperatures.</div>
+<div class = "choice">C. the Sun as the fuel source.</div>
+<div class = "choice">D. magnetic containment of helium.</div>
+</div>
+###################
+<div class = "quiz">34. According to the passage, what is the last described event in the Sun's life cycle?
+<div class = "choice">F. It will shine thousands of times more brightly.</div>
+<div class = "choice">G. Its core will become a white dwarf.</div>
+<div class = "choice">H. Its outer layers will be ejected from the Solar System.</div>
+<div class = "choice">J. It will explode as a supernova.</div>
+</div>
+###################
+<div class = "quiz">35. In the context of the third paragraph (lines 30-50), lines 38-41 primarily serve to emphasize the:
+<div class = "choice">A. ability of astrophysicists to locate stars that have the same features and birth date as the Sun.</div>
+<div class = "choice">B. difficulty of getting clear photographs of the Sun as it undergoes changes in its structure.</div>
+<div class = "choice">C. method used by astrophysicists to verify computations about the Sun.</div>
+<div class = "choice">D. fatal mistakes astrophysicists make when observing large sample sets over an extended period of time.</div>
+</div>
+###################
+<div class = "quiz">36. Which of the following questions is NOT answered by information given in the passage?
+<div class = "choice">F. What is one characteristic of a white dwarf?</div>
+<div class = "choice">G. What assumption do astrophysicists make in order to compute the evolution of the Sun?</div>
+<div class = "choice">H. Why is the Sun so massive in comparison to Earth?</div>
+<div class = "choice">J. Why are astronomers fascinated by supernovae?</div>
+</div>
+###################
+<div class = "quiz">37. The main purpose of the last paragraph is to:
+<div class = "choice">A. stress the significance of supernovae to humans and to the formation of Earth.</div>
+<div class = "choice">B. present a detailed account of cataclysmic events in the Solar System.</div>
+<div class = "choice">C. expose the flaws of Darwin's theories of evolution and selection.</div>
+<div class = "choice">D. persuade readers to become amateur astronomers.</div>
+</div>
+###################
+<div class = "quiz">38. As it is used in lines 70-71, the phrase all the others most likely refers to:
+<div class = "choice">F. the stellar explosions near Earth.</div>
+<div class = "choice">G. the planets in the Solar System.</div>
+<div class = "choice">H. astrophysicists and astronomers.</div>
+<div class = "choice">J. most people on Earth.</div>
+</div>
+###################
+<div class = "quiz">39. The author would most likely agree with which of the following statements?
+<div class = "choice">A. Fusion will not be used as a power source in the future because of opposition by industrial leaders.</div>
+<div class = "choice">B. The age of stars is inferred by calculating their proximity to the Sun.</div>
+<div class = "choice">C. The Trapezium stars in the constellation Orion will have a longer life span than the Sun.</div>
+<div class = "choice">D. Earth and its inhabitants are made up of particles from primordial stars.</div>
+</div>
+###################
+<div class = "quiz">40. The passage most nearly indicates that attempts to harness fusion as a power source have been:
+<div class = "choice">F. remarkably successful.</div>
+<div class = "choice">G. unsuccessful to date.</div>
+<div class = "choice">H. hindered by financial issues.</div>
+<div class = "choice">J. inconsistent across trails.</div>
+
+###################

@@ -1,0 +1,61 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">An elevated inclined plane makes, an angle, θ, with a floor. Points A and B on the inclined plane are 0.50 m apart. Point B is at a height H above the floor (see Figure 1).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\159.png' width = '628'height = '358'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A solid metal sphere is released from rest at Point A and travels down the inclined plane to Point B. The sphere is in free fall between Points B and C and first hits the floor at Point C, a horizontal distance X from the bottom of the inclined plane.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2 shows how X varies with θ for different H if the sphere rolls from Point A to Point B. Figure 3 shows how X varies with θ for different H if the sphere slides from Point A to Point B.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\161.png' width = '672'height = '380'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\160.png' width = '124'height = '122'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\163.png' width = '679'height = '441'/></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 April 65D\imgs\162.png' width = '139'height = '136'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+###################
+<div class = "quiz">12. Based on Figures 2 and 3, for the sphere either sliding or rolling down the inclined plane and for H=1.5 m, as θ increases from 5° to 45°, X:
+<div class = "choice">F. increases only.</div>
+<div class = "choice">G. decreases only.</div>
+<div class = "choice">C. increases, then decreases.</div>
+<div class = "choice">D. decreases, then increases.</div>
+</div>
+###################
+<div class = "quiz">13. For the sliding sphere at θ=10°, if H=0.5 m, X would most likely be:
+<div class = "choice">A. less than 0.56 m.</div>
+<div class = "choice">B. between 0.56 m and 0.68 m.</div>
+<div class = "choice">C. between 0.68 m and 0.79 m.</div>
+<div class = "choice">D. greater than 0.79 m.</div>
+</div>
+###################
+<div class = "quiz">14. For the sphere sliding down the inclined plane and H=2.0 m, if X had been plotted every 2.5° instead of every 5° between θ= 5° and θ= 45°, X would most likely have been greatest at which of the following θ?
+<div class = "choice">F. 17.5°</div>
+<div class = "choice">G. 22.5°</div>
+<div class = "choice">H. 27.5°</div>
+<div class = "choice">J. 32.5°</div>
+</div>
+###################
+<div class = "quiz">15. If H= 2.0 m for the rolling sphere and θ= 50°, X will most likely be closest to which of the following?
+<div class = "choice">A. 0.50 m</div>
+<div class = "choice">B. 0.65 m</div>
+<div class = "choice">C. 0.80 m</div>
+<div class = "choice">D. 0.95 m</div>
+</div>
+###################
+<div class = "quiz">16. Which of the following figures best shows how the sphere's kinetic energy varies with time as the sphere travels down the incline?
+<div class = "choice">F.<img src='file:\$$$\resources\2008 April 65D\imgs\164.png' width = '184'height = '135'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2008 April 65D\imgs\166.png' width = '176'height = '132'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2008 April 65D\imgs\165.png' width = '182'height = '134'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2008 April 65D\imgs\167.png' width = '184'height = '133'/></div>
+</div>
+###################

@@ -1,0 +1,122 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Ozone (<img src='file:\$$$\resources\2007 Dec 65E\imgs\193.png' width = '32'height = '38'/>) is concentrated in a part of Earth's atmosphere called the ozone layer. <img src='file:\$$$\resources\2007 Dec 65E\imgs\194.png' width = '32'height = '38'/>absorbs harmful high-energy solar radiation. Unusually low amounts of <img src='file:\$$$\resources\2007 Dec 65E\imgs\195.png' width = '32'height = '38'/> have been detected over Antarctica each spring since 1978 in an area of the ozone Jayer called the ozone hole. Two scientists hypothesize about the cause of the ozone hole.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Chemicals known as chlorofluorocarbons (CFCs),</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">such as <img src='file:\$$$\resources\2007 Dec 65E\imgs\196.png' width = '74'height = '38'/>and<img src='file:\$$$\resources\2007 Dec 65E\imgs\197.png' width = '68'height = '38'/>, are responsible for the formation of the ozone hole. CFCs have been widely used as refrigerants and aerosol propellants since their introduction in the 1930s. CFCs accumulate in the atmosphere, where solar radiation (light) breaks them down to produce chlorine atoms (Reaction 1):</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(1) <img src='file:\$$$\resources\2007 Dec 65E\imgs\198.png' width = '286'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The unstable Cl atoms react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\199.png' width = '32'height = '38'/> to produce chlorinemonoxide and <img src='file:\$$$\resources\2007 Dec 65E\imgs\200.png' width = '32'height = '38'/> (Reaction 2):</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(2) <img src='file:\$$$\resources\2007 Dec 65E\imgs\201.png' width = '205'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The <img src='file:\$$$\resources\2007 Dec 65E\imgs\202.png' width = '32'height = '38'/> is then broken clown into O atoms (Reaction 3):</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(3) <img src='file:\$$$\resources\2007 Dec 65E\imgs\203.png' width = '169'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The unstable O atoms then react with ClO to produce more Cl atoms (Reaction 4):</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(4) <img src='file:\$$$\resources\2007 Dec 65E\imgs\204.png' width = '186'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Reactions 2-4 make up a chain reaction, because the Cl atoms produced in Reaction 4 can then react with more <img src='file:\$$$\resources\2007 Dec 65E\imgs\205.png' width = '32'height = '38'/> in Reaction 2:</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(2) <img src='file:\$$$\resources\2007 Dec 65E\imgs\206.png' width = '205'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(3) <img src='file:\$$$\resources\2007 Dec 65E\imgs\207.png' width = '169'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(4) <img src='file:\$$$\resources\2007 Dec 65E\imgs\208.png' width = '186'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus, the Cl atom produced by 1 CFC molecule can break clown large amounts of<img src='file:\$$$\resources\2007 Dec 65E\imgs\209.png' width = '32'height = '38'/>. Due to competing reactions, this chain reaction does gradually stop if the number of Cl atoms produced decreases, but this slowdown takes many years.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\210.png' width = '32'height = '38'/> in Earth's atmosphere is constant. <img src='file:\$$$\resources\2007 Dec 65E\imgs\211.png' width = '32'height = '38'/>concentrations vary over Antarctica periodically because wind currents cause local changes in the amounts of all the chemicals in the atmosphere. Though CFCs can break down <img src='file:\$$$\resources\2007 Dec 65E\imgs\212.png' width = '32'height = '38'/> by Reactions 1-4, the ClO produced in Reaction 2 mostly reacts with the abundant nitrogen oxides in the atmosphere. Reactions 5-7 -show how ClO reacts with NO to regenerate<img src='file:\$$$\resources\2007 Dec 65E\imgs\213.png' width = '32'height = '38'/>:</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(5) <img src='file:\$$$\resources\2007 Dec 65E\imgs\214.png' width = '234'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(6) <img src='file:\$$$\resources\2007 Dec 65E\imgs\215.png' width = '237'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(7) <img src='file:\$$$\resources\2007 Dec 65E\imgs\216.png' width = '136'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">ClO can also react with nitrogen dioxide to form chlorine nitrate (Reaction 8):</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">(8) <img src='file:\$$$\resources\2007 Dec 65E\imgs\217.png' width = '220'height = '38'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\218.png' width = '74'height = '38'/>does not react with<img src='file:\$$$\resources\2007 Dec 65E\imgs\219.png' width = '32'height = '38'/>, so it stops the chain reaction shown in Reactions 2-4 from breaking down large amounts of<img src='file:\$$$\resources\2007 Dec 65E\imgs\220.png' width = '32'height = '38'/>.</div>
+
+<br>
+###################
+<div class = "quiz">29. According to both Scientists 1 and 2, which of the following substances must initially be present for ClO to be produced by CFCs in Earth's atmosphere?
+<div class = "choice">A. <img src='file:\$$$\resources\2007 Dec 65E\imgs\221.png' width = '74'height = '38'/></div>
+<div class = "choice">B. NO</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\222.png' width = '54'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\223.png' width = '32'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">30. Which of the following graphs would Scientist 1 most likely use to show how the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\224.png' width = '32'height = '38'/> in Earth's atmosphere would change as the amount of CFCs introduced into Earth's atmosphere increases?
+<div class = "choice">F. <img src='file:\$$$\resources\2007 Dec 65E\imgs\225.png' width = '152'height = '122'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2007 Dec 65E\imgs\226.png' width = '135'height = '122'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2007 Dec 65E\imgs\227.png' width = '152'height = '120'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2007 Dec 65E\imgs\228.png' width = '154'height = '120'/></div>
+</div>
+###################
+<div class = "quiz">31. A chemist claimed that a molecule of the product in Reaction 8 will have a greater mass than a molecule of either reactant in Reaction 8. Is her claim correct?
+<div class = "choice">A. No; ClO is composed of atoms, not molecules.</div>
+<div class = "choice">B. No; a molecule of <img src='file:\$$$\resources\2007 Dec 65E\imgs\229.png' width = '74'height = '38'/> has a greater mass than does a molecule of either product.</div>
+<div class = "choice">C. Yes; a molecule of <img src='file:\$$$\resources\2007 Dec 65E\imgs\230.png' width = '74'height = '38'/> has a greater mass than does a molecule of either reactant.</div>
+<div class = "choice">D. Yes; a molecule of ClO has a greater mass than does a molecule of<img src='file:\$$$\resources\2007 Dec 65E\imgs\231.png' width = '54'height = '38'/>.</div>
+</div>
+###################
+<div class = "quiz">32. If all use of CFCs were stopped, Scientist 1 would most likely predict that which of the following changes would occur in the total amount of Cl-containing compounds and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\232.png' width = '32'height = '38'/> in Earth's atmosphere?
+<div class = "choice">F. The total amounts of both Cl-containing compounds and <img src='file:\$$$\resources\2007 Dec 65E\imgs\233.png' width = '32'height = '38'/> would eventually increase.</div>
+<div class = "choice">G. The total amounts of both Cl-containing compounds and <img src='file:\$$$\resources\2007 Dec 65E\imgs\234.png' width = '32'height = '38'/> would eventually decrease.</div>
+<div class = "choice">H. The total amount of Cl-containing compounds would eventually increase and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\235.png' width = '32'height = '38'/> would stop increasing.</div>
+<div class = "choice">J. The total amount of Cl-containing compounds would eventually decrease and the total amount of <img src='file:\$$$\resources\2007 Dec 65E\imgs\236.png' width = '32'height = '38'/> would stop decreasing.</div>
+</div>
+###################
+<div class = "quiz">33. Scientist 2 would most strongly disagree with which of the following statements about <img src='file:\$$$\resources\2007 Dec 65E\imgs\237.png' width = '32'height = '38'/> in Earth's atmosphere?
+<div class = "choice">A. Solar radiation plays a role in the decomposition of <img src='file:\$$$\resources\2007 Dec 65E\imgs\238.png' width = '32'height = '38'/> in Earth's atmosphere.</div>
+<div class = "choice">B. The concentration of <img src='file:\$$$\resources\2007 Dec 65E\imgs\239.png' width = '32'height = '38'/> over Antarctica varies from season to season.</div>
+<div class = "choice">C. CFCs can react to break down<img src='file:\$$$\resources\2007 Dec 65E\imgs\240.png' width = '32'height = '38'/>.</div>
+<div class = "choice">D. The average concentration of <img src='file:\$$$\resources\2007 Dec 65E\imgs\241.png' width = '32'height = '38'/> in Earth's atmosphere is decreasing.</div>
+</div>
+###################
+<div class = "quiz">34. After examining Scientist 2's hypothesis, Scientist 1 claimed that Reaction 5 would cause further <img src='file:\$$$\resources\2007 Dec 65E\imgs\242.png' width = '32'height = '38'/> depletion. How would Scientist 1 most likely defend this claim?
+<div class = "choice">F. Reaction 5 produces Cl atoms, which can then react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\243.png' width = '32'height = '38'/> in Reaction 2.</div>
+<div class = "choice">G. Reaction 5 produces Cl atoms, which can then react with <img src='file:\$$$\resources\2007 Dec 65E\imgs\244.png' width = '65'height = '38'/> to produce<img src='file:\$$$\resources\2007 Dec 65E\imgs\245.png' width = '74'height = '38'/>.</div>
+<div class = "choice">H. Reaction 5 causes the amount of ClO to decrease, so little <img src='file:\$$$\resources\2007 Dec 65E\imgs\246.png' width = '32'height = '38'/> can be regenerated.</div>
+<div class = "choice">J. Reaction 5 causes the amount of NO to decrease, so not enough <img src='file:\$$$\resources\2007 Dec 65E\imgs\247.png' width = '54'height = '38'/> can be produced for Reaction 6.</div>
+</div>
+###################
+<div class = "quiz">35. In which of the following ways could Reaction 8 in Scientist 2's hypothesis contradict Scientist l's hypothesis? The chain reaction shown in Reactions 2-4 will not occur if all of the:
+<div class = "choice">A. ClO produced in Reaction 2 reacts with<img src='file:\$$$\resources\2007 Dec 65E\imgs\248.png' width = '54'height = '38'/>.</div>
+<div class = "choice">B. ClO produced in Reaction 4 reacts with NO.</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2007 Dec 65E\imgs\249.png' width = '54'height = '38'/>produced in Reaction 5 reacts with light:</div>
+<div class = "choice">D. <img src='file:\$$$\resources\2007 Dec 65E\imgs\250.png' width = '54'height = '38'/>produced in Reaction 8 reacts with ClO.</div>
+<br>
+</div>
+###################

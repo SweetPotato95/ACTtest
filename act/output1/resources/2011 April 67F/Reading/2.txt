@@ -1,0 +1,110 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">SOCIAL SCIENCE: This passage is adapted from the article "High Over Kitty Hawk, Looking for a Profit" by Paul Hoffman (?2003 by The New York Times Company).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The foggy lens of history has been kind to Wilbur and Orville Wright. We regard the boys from Dayton, Ohio, as American heroes who flew the first airplane and ushered in the age of air travel. At the time, though, the brothers' achievement was barely recognized-and their motives were fart from visionary.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=15>On Dec. 17, 1903, the Wrights took turns making short ascents over the dunes of Kill Devil Hills, four miles south of Kitty Hawk, N.C., in a propeller-driven biplane powered by an internal combustion engine. They each got airborne twice-with Wilbur going the farthest, 852 feet in 59 seconds-before a gust flipped the plane while it was on the ground. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But what was really so historic about the flight? The Wrights were certainly not the first people to rise above the Earth. Balloonists had been doing that for more than a century. In June 1783, Joseph and Etienne Montgolfier, paper makers from Annonay, France, demonstrated in a public square the first hot-air balloon capable of carrying a load as heavy as a human being.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Wrights were also not the first to pilot a heavier-than-air craft. In 1849, Sir George Cayley, a British physicist, constructed a three-winged glider that lifted a 10-year-old child a few feet. After four years of further experimentation, Cayley enlarged his "boy glider" into an adult-size craft and sent a grown man through the air for several hundred feet.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Nor were the Wright brothers the first to achieve powered flight. In 1901, a Brazilian named Alberto Santos-Dumont entertained all of Paris by making a 14-mile trip over the city, including a <font id=16>revolution</font> of the Eiffel Tower, in a cigar-shaped balloon powered by a car engine.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The Wrights were not even the first to leave the ground in a powered plane. In 1874, Félix du Temple, a French naval officer, watched the steam-powered plane he devised speed down a ski-jump-like ramp and sputter through the air with a young sailor at the helm.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Of course, it is one thing to be hurled through the air for a few fleeting moments-what aviation historians call a "hop" -and quite another to make a controlled flight under one's own power. Control is what the Wright brothers so ably and singularly demonstrated. While other aviation pioneers concentrated on how to power a plane-not a difficult task by the time automobile engines had come into their own-the Wrights focused on how to stabilize it.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Many early aviation pioneers employed horizontal and vertical rudders to keep their experimental aircraft from veering right or left or unintentionally diving or rising. But only the Wrights appreciated another necessity: preventing the plane from suddenly rolling because of a difference in wind on the left and right wings. They ingeniously countered roll by "wing-warping" -using flexible wing tips with wire controls so that the pilot can bring the right wing into the wind at a different inclination from the left one, creating lift.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Thus while the brothers' flights were remarkable, they were hardly bolts from the <font id=18>blue</font>. Rather, their achievement was a vital step in a long progression toward controlled flight. And by no means did their success make them overnight celebrities: in 1903 hardly anyone heard about their flights, and those who did were not inclined to believe the tale.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=20>The Wright brothers chose the Outer Banks of North Carolina not just for the favorable winds, but also for the remoteness. They wanted to fly in near secrecy because they weren't sure they could patent their plane, and wanted to profit from it before others knocked off the design. Yet, they expected the press to bail them as the conquerors of the air. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But reporters were skeptical. Six days before Kitty Hawk, a crowd of official witnesses and Washington bigwigs had gathered to watch what was supposed to be the maiden flight of the giant Aerodrome designed by Samuel Langley, the head of the Smithsonian Institution. The plane was catapulted from a houseboat in the Potomac but instead of rising into the air plunged into the frigid waters. News reporters could not accept that two bicycle mechanics with little money had succeeded while the dean of American science, financed with government money, had failed.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The few newspapers that wrote about Kitty Hawk got everything wrong. The Dayton Daily News described the Wrights' aircraft as a dirigible and planted the story under the headline "Dayton Boys Emulate Great Santos-Dumont." The first eyewitness account of their subsequent flights was published more than two years after Kitty Hawk, in an obscure magazine called Gleanings in Bee Culture.</div>
+
+<br>
+###################
+<div class = "quiz">11. The point of view from which the passage is told is best described as that of:
+<div class = "choice">A. a writer with a historical perspective who wants to correct misconceptions about early flight.</div>
+<div class = "choice">B. a relative of the Wright brothers who wants to build a monument in their honor.</div>
+<div class = "choice">C. an inventor who wants to illustrate how difficult it is to invent something important.</div>
+<div class = "choice">D. an observer of the initial Kitty Hawk flight who is critical of how it was reported, both then and later.</div>
+</div>
+###################
+<div class = "quiz">12. What does the passage indicate was the main difference between the Wright brothers' aircraft and the works of other inventors?
+<div class = "choice">F. The Wright brothers succeeded in flying when other inventors had failed.</div>
+<div class = "choice">G. Other inventors used balloons, not heavier-than-air craft.</div>
+<div class = "choice">H. No other inventors had used both horizontal and vertical rudders.</div>
+<div class = "choice">J. The Wright brothers prevented the rolling of a plane while other inventors had concentrated on powering a plane.</div>
+</div>
+###################
+<div class = "quiz">13. According to the passage, what was one reason reporters were skeptical that the Wright brothers had successfully flown?
+<div class = "choice">A. The first story of the Wright brothers' flight was not published for two years.</div>
+<div class = "choice">B. It was widely assumed that the Wright brothers wanted to profit from their ideas.</div>
+<div class = "choice">C. A leader in science with government funding had failed to have his own plane fly.</div>
+<div class = "choice">D. Balloonists had already been flying for more than a century.</div>
+</div>
+###################
+<div class = "quiz">14. The main purpose of the last paragraph is to show that the Wright brothers:
+<div class = "choice">F. were successful in their attempt to fly.</div>
+<div class = "choice">G. had merely duplicated what Alberto Santos-Dumont had done earlier.</div>
+<div class = "choice">H. were originally from Dayton, Ohio.</div>
+<div class = "choice">J. were initially poorly covered by the media.</div>
+</div>
+###################
+<div class = "quiz">15. The main purpose of the second paragraph (lines 7-13) is to:
+<div class = "choice">A. argue that more people should admire the Wright brothers for their accomplishments.</div>
+<div class = "choice">B. explain why it took two years for the first eyewitness account of the Wright brothers' initial flight to be published.</div>
+<div class = "choice">C. detail the first successful flights of the Wright brothers near Kitty Hawk.</div>
+<div class = "choice">D. clarify that it took many more years before the airplane was perfected.</div>
+</div>
+###################
+<div class = "quiz">16. As it is used in line 31, the word revolution most nearly means:
+<div class = "choice">F. political rebellion.  </div>
+<div class = "choice">G. radical change.  </div>
+<div class = "choice">H. circular course. </div> 
+<div class = "choice">J. pivotal invention.</div>
+</div>
+###################
+<div class = "quiz">17. The passage makes clear that it became easier for inventors to power their aircraft after:
+<div class = "choice">A. the Wright brothers flew near Kitty Hawk.</div>
+<div class = "choice">B. automobile engines had been developed.</div>
+<div class = "choice">C. they started adding horizontal and vertical rudders.</div>
+<div class = "choice">D. Sir George Cayley perfected his "boy glider."</div>
+</div>
+###################
+<div class = "quiz">18. The statement "they were hardly bolts from the blue" (line 59) most strongly suggests that flights like the Wright brothers' were:
+<div class = "choice">F. unsurprising.</div>
+<div class = "choice">G. improbable.</div>
+<div class = "choice">H. unusual.</div>
+<div class = "choice">J. remarkable.</div>
+</div>
+###################
+<div class = "quiz">19. The passage makes clear that one personal reason the Wright brothers had for testing their aircraft where they did was to:
+<div class = "choice">A. avoid the negative publicity that would come if their plane failed to fly.</div>
+<div class = "choice">B. keep away anyone who couldn't help if something went wrong during the test flight.</div>
+<div class = "choice">C. maintain confidentiality despite the many interviews they had previously given.</div>
+<div class = "choice">D. make money from their invention by isolating it from potential imitators.</div>
+</div>
+###################
+<div class = "quiz">20. It can most reasonably be inferred from the tenth paragraph (lines 65-71) that the author believes:
+<div class = "choice">F. the Wright brothers shouldn't have expected to be praised by the press.</div>
+<div class = "choice">G. North Carolina was too windy for flying experimental aircraft safely.</div>
+<div class = "choice">H. secrecy is necessary for inventors.</div>
+<div class = "choice">J. reporters can't be trusted to get their information correct.</div>
+<br>
+</div>
+###################

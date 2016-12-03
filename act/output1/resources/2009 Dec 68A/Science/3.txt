@@ -1,0 +1,80 @@
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Petroleum (crude oil) is brought to Earth's surface from large underground. deposits that are mostly 0.5-0.7 km below Earth's surface. Two scientists discuss the origin of petroleum.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">All of Earth's current supply of petroleum formed within the last 600 million years from once-living matter. Petroleum formation began when the remains of microscopic marine organisms accumulated on the seafloor over a long period. Fine-grained ocean sediments buried the remains. Beneath the ocean floor, at depths of less than 10 km below Earth's surface, heat and pressure over millions of years changed the remains into petroleum.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">After forming, the petroleum migrated upward to depths where it accumulated in large deposits at specific locations in Earth's crust. Petroleum contains biomarkers, compounds that can be produced only through the breakdown of once-living matter. Fossils of the marine organisms that provided the raw material for petroleum are found in rocks brought to the surface from locations where petroleum is known to have formed.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Because of the unique conditions and time necessary for petroleum formation, there is a limited supply available in Earth's crust.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientist 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">All of Earth's petroleum has formed from simple, inorganic carbon compounds at depths from 100 km to 200 km below Earth's surface. Petroleum formation has been occurring constantly since shortly after Earth's formation. The process begins as water reacts with simple, inorganic carbon compounds to form simple hydrocarbons such as methane. Those simple hydrocarbons then combine under pressure to produce petroleum.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">After forming, the petroleum migrates upward to much shallower depths where it accumulates in large deposits at specific locations in Earth's crust. Most petroleum deposits exist along tectonic plate boundaries, where the petroleum can rise from depths greater than 100 km through deep fractures in Earth's crust. A helium isotope, commonly found associated with petroleum, originates only at depths greater than 100 km and is brought up from those depths by the rising petroleum.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Since petroleum is constantly forming and rising toward the surface, there is an unlimited supply available.</div>
+
+<br>
+###################
+<div class = "quiz">12. Based on Scientist l's discussion, petroleum deposits would most likely be found at or near locations where:
+<div class = "choice">F. 2 tectonic plates are beginning to collide.</div>
+<div class = "choice">G. 2 tectonic plates are beginning to move apart.</div>
+<div class = "choice">H. an ocean recently formed where none had existed in the past.</div>
+<div class = "choice">J. an ocean had existed at some time in the past.</div>
+</div>
+###################
+<div class = "quiz">13. Several petroleum deposits have been found at a depth of 5 km below Earth's surface. Is this information consistent with the viewpoint of Scientist 1?
+<div class = "choice">A. Yes, because Scientist 1 indicates that petroleum deposits exist at depths of greater than 100 km below Earth's surface.</div>
+<div class = "choice">B. Yes, because Scientist 1 indicates that petroleum deposits exist at depths of less than 10 km below Earth's surface.</div>
+<div class = "choice">C. No, because Scientist 1 indicates that petroleum deposits exist at depths of greater than 100 km below Earth's surface.</div>
+<div class = "choice">D. No, because Scientist 1 indicates that petroleum deposits exist at depths of less than 10 km below Earth's surface.</div>
+</div>
+###################
+<div class = "quiz">14. Which scientist indicates that petroleum has formed in the higher pressure environment?
+<div class = "choice">F. Scientist 1, because that scientist states that petroleum has formed at depths of less than 10 km below Earth's surface.</div>
+<div class = "choice">G. Scientist 1, because that scientist states that petroleum has formed at depths of greater than 100 km below Earth's surface.</div>
+<div class = "choice">H. Scientist 2, because that scientist states that petroleum has formed at depths of less than 10 km below Earth's surface.</div>
+<div class = "choice">J. Scientist 2, because that scientist states that petroleum has formed at depths of greater than 100 km below Earth's surface.</div>
+</div>
+###################
+<div class = "quiz">15. An experiment demonstrated that petroleum can be formed through a reaction of carbon dioxide and water. Which scientist would most likely use this demonstration to support his/her viewpoint?
+<div class = "choice">A. Scientist 1, because it would demonstrate how marine organisms can be changed into petroleum.</div>
+<div class = "choice">B. Scientist 1, because it would demonstrate how . simple carbon compounds can be changed into petroleum.</div>
+<div class = "choice">C. Scientist 2, because it would demonstrate how marine organisms can be changed into petroleum.</div>
+<div class = "choice">D. Scientist 2, because it would demonstrate how simple carbon compounds can be changed into petroleum.</div>
+</div>
+###################
+<div class = "quiz">16. Which of the following diagrams is most consistent with Scientist 2's description of the formation and migration of petroleum? (Note: Diagrams are not to scale.)
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\181.png' width = '234'height = '103'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\182.png' width = '233'height = '116'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\183.png' width = '225'height = '100'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2009 Dec 68A\imgs\184.png' width = '234'height = '100'/></div>
+</div>
+###################
+<div class = "quiz">17. Based on the scientists' discussions, which of the following statements describes the 2 physical properties of petroleum that are most important in facilitating its movement from the location at which it forms to the location at which it accumulates in a large deposit? Petroleum is a:
+<div class = "choice">A. fluid that is more dense than the material that it moves through.</div>
+<div class = "choice">B. fluid that is less dense than the material that it moves through.</div>
+<div class = "choice">C. solid that is more dense than the material that it moves through.</div>
+<div class = "choice">D. solid that is less dense than the material that it moves through.</div>
+</div>
+###################
+<div class = "quiz">18. Based on Scientist 2's discussion, which of the following compounds is involved in the formation of petroleum?
+I.<img src='file:\$$$\resources\2009 Dec 68A\imgs\185.png' width = '46'height = '40'/>		II.<img src='file:\$$$\resources\2009 Dec 68A\imgs\186.png' width = '32'height = '36'/>		III. NaCl
+<div class = "choice">F. I only</div>
+<div class = "choice">G. III only</div>
+<div class = "choice">H. I and II only</div>
+<div class = "choice">J. II and III only</div>
+<br>
+</div>
+###################

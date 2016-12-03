@@ -1,0 +1,96 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the book Life's Matrix: A Biography of Water by Philip Ball (?1999 by Philip Ball).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Every day, every passing second, water is on the move. The rivers flow, the oceans perform their slow and elegant gyrations, the clouds congeal and weep. Each 3,100 years, a volume of water equivalent to all the oceans passes through the atmosphere, carried there by evaporation and removed by precipitation. Yet only a thousandth of 1 percent of the planet's total water resides in the atmosphere at any moment, enough to deposit just one inch of rain if it all fell <font id=37>uniformly</font> throughout the world. This constant overturn of water between the reservoirs on land, in sea, and in sky is called the hydrological cycle, and it is as crucial for life on Earth as is the presence of liquid water in the first place.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Most of the water that falls as rain has found its way into the sky from the sea surface: the Sun's heat removes from the oceans the equivalent of three feet in depth each year-208 cubic miles in total every day. A further 38 cubic miles evaporates each day from the land surface. Of course, this rate of evaporation varies widely with the seasons and with geographical location: because the tropics are warmer, the rate of evaporation there is at least four times greater than at the poles.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Evaporation from the ground and from plants (a process called transpiration) removes water to the atmosphere, while precipitation, generally as rain and snow, supplies it to the land. The difference between precipitation and evaporation defines the amount of fresh water available for lakes, streams, and other reserves on land. This "runoff," which is mostly returned to the oceans through rivers, adds up to about 24 cubic miles globally per day.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The various cogs of the hydrological cycle turn at a wide range of speeds. Rainfall in a river's upland source region can take weeks to reach the sea, while water vapor evaporated from the sea surface typically- takes about ten days to fall again as rain. For water locked up as ice (in the so-called cryosphere), the cogs may grind slowly indeed. The water at the base of the polar ice sheets has typically been frozen for hundreds of thousands of years. Most mountain glaciers melt and recede by several miles every decade under present-day conditions, while the sea ice in the polar seas expands and retreats seasonally.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The very existence of a hydrological cycle is a consequence of water's unique ability to exist in more than one physical state-solid, liquid, or gas-under the conditions that prevail at the surface of the planet. Volcanic areas excepted, the Earth's surface never gets hot enough to boil water; but it evaporates readily nonetheless, since the amount of water vapor in the air is generally well below the "saturation vapor pressure," which indicates the maximum humidity of air before water droplets start to condense. That's why the oceans are, to a greater or lesser degree, always "steaming." When moist air cools, the water vapor may condense back to the liquid state, producing the pearly billows of clouds or the dank blankets of mountain mist.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The freezing of water, meanwhile, can send it on a millennia-long detour from the cycle of evaporation and precipitation. Yet the ability of water to enter the solid state is also a crucial aspect of the overall cycle. When water is frozen during the ice ages, the world's seas recede, the climate becomes drier, deserts expand, and ecosystems may be utterly transformed.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The hydrological cycle emphasizes the dynamic nature of the Earth's environment: it is constantly repeating and renewing itself. Substances other than water are cycled by geological and biological processes too. These cyclic sequences of chemical and biological transformation of the elements are called biogeochemical cycles.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Water is the lubricant for biogeochemical cycling. Because it is such a superb solvent, and because it is itself in constant flux, it helps to convey other substances hither and thither, between different ecosystems and different climates. Carbon dioxide in the atmosphere dissolves in the surface waters of the sea to provide a carbon source for marine photosynthesis, and in turn this biological growth in the ocean's upper layer drives the rest of the ocean's carbon cycle. Essential nutrients pervade the seas in soluble form: nitrate, phosphate, sulfate, and metals such as iron. The swift churning of the hydrological cycle helps to drive the cycling of these other substances: rain and rivers flush inorganic nutrients out of the minerals of the rocky Earth and carry them to the sea. There is little exaggeration in saying that it is water, in the end, that makes the world go round.</div>
+
+<br>
+###################
+<div class = "quiz">31. The main idea of the passage is not only that the presence of water on Earth is crucial for life, but also that water is:
+<div class = "choice">A. supplied to land through precipitation.</div>		
+<div class = "choice">B. abundant in a liquid state.</div>
+<div class = "choice">C. constantly in motion.</div>			
+<div class = "choice">D. a superb solvent.</div>
+</div>
+###################
+<div class = "quiz">32. Which of the following phrases most accurately describes how the hydrological cycle is portrayed in the passage?
+<div class = "choice">F. Intricate and vital</div>	
+<div class = "choice">G. Unpredictable and elusive</div>
+<div class = "choice">H. Crucial but undependable</div>
+<div class = "choice">J. Simple but mysterious</div>
+</div>
+###################
+<div class = "quiz">33. The passage most strongly supports which of the following inferences about the hydrological cycle?
+<div class = "choice">A. It tends to progress more slowly in colder climates than in warmer climates.</div>
+<div class = "choice">B. It depends on a greater volume of water being evaporated than being returned to land as rain or snow.</div>
+<div class = "choice">C. It tends to make the deserts drier and the sea levels higher.</div>
+<div class = "choice">D. It is mainly a function of the land surface being heated by the Sun.</div>
+</div>
+###################
+<div class = "quiz">34. Which of the following is NOT mentioned in the passage as directly resulting from evaporation or condensation?
+<div class = "choice">F. Billows of clouds </div>		
+<div class = "choice">G."Steaming" oceans</div>
+<div class = "choice">H. Blankets of mountain mist</div>		、
+<div class = "choice">J. Sea ice in the polar seas</div>
+</div>
+###################
+<div class = "quiz">35. The main purpose of the last paragraph is to:
+<div class = "choice">A. raise questions about basic assumptions concerning the hydrological cycle.</div>
+<div class = "choice">B. introduce new theories regarding the hydrological cycle.</div>
+<div class = "choice">C. illustrate a primary function of the hydrological cycle.</div>
+<div class = "choice">D. speculate about unknown functions of the hydrological cycle.</div>
+</div>
+###################
+<div class = "quiz">36. According to the passage, what percent of Earth's total water is present in the atmosphere at any particular moment?
+<div class = "choice">F. Between 1 and 5 percent</div>	
+<div class = "choice">G. About 1 percent</div>
+<div class = "choice">H. A tenth of 1 percent</div>	
+<div class = "choice">J. A thousandth of 1 percent</div>
+</div>
+###################
+<div class = "quiz">37. As it is used in line 9, the word uniformly most nearly means:
+<div class = "choice">A. recurrently.</div>	
+<div class = "choice">B. evenly.</div>	
+<div class = "choice">C. simply.</div>		
+<div class = "choice">D. inconspicuously.</div>
+</div>
+###################
+<div class = "quiz">38. According to the passage, the atmosphere acquires most of the water that later falls as rain from which of the following sources?
+<div class = "choice">F. Polar ice sheets</div>	
+<div class = "choice">G. The sea surface</div>
+<div class = "choice">H. Land surfaces in the tropics</div>
+<div class = "choice">J. Freshwater lakes and rivers</div>
+</div>
+###################
+<div class = "quiz">39. Based on the passage, which of the following can most reasonably be inferred about air whose humidity has reached the saturation vapor pressure?
+<div class = "choice">A. It will no longer absorb additional water.</div>
+<div class = "choice">B. It will cause the oceans to stop absorbing carbon dioxide.</div>
+<div class = "choice">C. It will begin to absorb nutrients such as nitrates and phosphates.</div>
+<div class = "choice">D. It will not produce clouds or mist.</div>
+</div>
+###################
+<div class = "quiz">40. Based on the passage, the role of water in biogeochemical cycling can best be described as:
+<div class = "choice">F. competitive.</div>	
+<div class = "choice">G. peripheral.</div>	
+<div class = "choice">H. facilitative.</div>	
+<div class = "choice">J. illustrative.</div>
+###################

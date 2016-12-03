@@ -1,0 +1,1222 @@
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:40.8pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p>
+</td>
+<td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">Winner</span></p>
+</td>
+<td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">Number
+  of games</span></p>
+</td>
+<td style="width:71.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">Year</span></p>
+</td>
+<td style="width:71.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">Winner</span></p>
+</td>
+<td style="width:71.05pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">Number
+  of games</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:40.8pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="54">
+<p align="center"  style="text-align:center"><span lang="EN-US">1980</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1981</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1982</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1983</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1984</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1985</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1986</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1987</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1988</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1989</span></p>
+</td>
+<td style="width:71.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+</td>
+<td style="width:71.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+</td>
+<td style="width:71.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">1990</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1991</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1992</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1993</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1995</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1996</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1997</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1998</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">1999</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">2000</span></p>
+</td>
+<td style="width:71.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">N</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">A</span></p>
+</td>
+<td style="width:71.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="95">
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:317.55pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="423">
+<p align="center"  style="text-align:center"><span lang="EN-US">Schedule
+  for the Local</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:60.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center"><span lang="EN-US">City</span></p>
+</td>
+<td style="width:114.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="153">
+<p align="center"  style="text-align:center"><span lang="EN-US">Scheduled
+  arrival time</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center"><span lang="EN-US">Distance
+  (to the nearest kilometer) from <st1:city w:st="on"><st1:place w:st="on">Toronto</st1:place></st1:city></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:60.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center"><st1:city w:st="on"><st1:place w:st="on"><span lang="EN-US">Toronto</span></st1:place></st1:city></p>
+<p align="center"  style="text-align:center"><st1:city w:st="on"><st1:place w:st="on"><span lang="EN-US">Oshawa</span></st1:place></st1:city></p>
+<p align="center"  style="text-align:center"><st1:city w:st="on"><st1:place w:st="on"><span lang="EN-US">Kingston</span></st1:place></st1:city></p>
+<p align="center"  style="text-align:center"><st1:city w:st="on"><st1:place w:st="on"><span lang="EN-US">Lancaster</span></st1:place></st1:city></p>
+<p align="center"  style="text-align:center"><st1:city w:st="on"><st1:place w:st="on"><span lang="EN-US">Montreal</span></st1:place></st1:city></p>
+</td>
+<td style="width:114.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="153">
+<p align="center"  style="text-align:center"><span lang="EN-US">10:<st1:chmetcnv hasspace="True" negative="False" numbertype="1" sourcevalue="45" tcsc="0" unitname="a" w:st="on">45 A</st1:chmetcnv>.M.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">12:30
+  P.M.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">3:30
+  P.M.</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">5:30
+  P.M.</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center"><span lang="EN-US">0</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">51</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">252</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">451</span></p>
+<p align="center"  style="text-align:center"><span lang="EN-US">550</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:166.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="222">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Highest level of education
+  attained</span></p>
+</td>
+<td style="width:139.1pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="185">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Percent of adults 25 or older</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:166.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="222">
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">8th grade or less</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Some high school</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">High school diploma</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Some college, no degree</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Associate degree</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Bachelor’s degree</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">Graduate or professional degree</span></p>
+</td>
+<td style="width:139.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="185">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">10.4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">14.4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">30.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">18.7</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">6.2</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">13.1</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US" style="mso-bidi-font-size:10.5pt">7.2</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="4" style="width:266.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="356">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Trial</span></p>
+</td>
+<td style="width:91.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="123">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Temperature(</span><span lang="EN-US" style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman"'>℃</span><span lang="EN-US">)</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Time(min)</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Absorbance</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">3</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">7</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">9</span></p>
+</td>
+<td style="width:91.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="123">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">25</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">25</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">25</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">75</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">75</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">75</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.12</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.14</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.16</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.31</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.37</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.43</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.62</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.71</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.82</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="4" style="width:281.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="375">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Trial</span></p>
+</td>
+<td style="width:106.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="142">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Acetone concentration</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">(% by volume)</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Time(min)</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Absorbance</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">11</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">12</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">13</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">14</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">15</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">16</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">17</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">18</span></p>
+</td>
+<td style="width:106.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="142">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.31</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.38</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.45</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.69</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.76</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.86</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.82</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.90</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.96</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="4" style="width:294.6pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="393">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 3</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Trial</span></p>
+</td>
+<td style="width:119.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="160">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Methanol concentration</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">(% by volume)</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Time(min)</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Absorbance</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:39.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="53">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">19</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">21</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">22</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">23</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">24</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">25</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">26</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">27</span></p>
+</td>
+<td style="width:119.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="160">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+</td>
+<td style="width:64.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="87">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+</td>
+<td style="width:69.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="93">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.15</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.18</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.21</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.24</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.26</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.29</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.33</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.36</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-row-margin-right:101.65pt">
+<td colspan="3" style="width:235.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="315">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 1</span></p>
+</td>
+<td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="136"><p > </p></td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-row-margin-right:101.65pt">
+<td style="width:112.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Distance(light years*)</span></p>
+</td>
+<td colspan="2" style="width:123.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="164">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">θ of Sun(10</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">-2</span></sup><span lang="EN-US"> arcsecond)</span></p>
+</td>
+<td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="136"><p > </p></td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-row-margin-right:101.65pt">
+<td style="width:112.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="150">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8</span></p>
+</td>
+<td colspan="2" style="width:123.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="164">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.8</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.4</span></p>
+</td>
+<td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="136"><p > </p></td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-row-margin-right:101.65pt">
+<td colspan="3" style="width:235.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="315">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">*1 light year = 9.</span><span lang="EN-US" style="font-family:宋体">5</span><span style="font-family:宋体">×<st1:chmetcnv hasspace="True" negative="False" numbertype="1" sourcevalue="1012" tcsc="0" unitname="km" w:st="on"><span lang="EN-US">10</span><sup><span lang="EN-US" style="mso-bidi-font-size:10.5pt">12</span></sup><span lang="EN-US"> km</span></st1:chmetcnv></span></p>
+</td>
+<td style="mso-cell-special:placeholder;border:none;border-bottom:solid windowtext 1.0pt" width="136"><p > </p></td>
+</tr>
+<tr style="mso-yfti-irow:4">
+<td colspan="4" style="width:337.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="450">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:5">
+<td colspan="2" style="width:158.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="211">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Diameter of star (<st1:chmetcnv hasspace="True" negative="False" numbertype="1" sourcevalue="106" tcsc="0" unitname="km" w:st="on">10<sup><span style="mso-bidi-font-size:10.5pt">6</span></sup> km</st1:chmetcnv>)</span></p>
+</td>
+<td colspan="2" style="width:179.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="239">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">θ of star (10</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">-2</span></sup><span lang="EN-US"> arcsecond)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes">
+<td colspan="2" style="width:158.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="211">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">7.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">15.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">22.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30.0</span></p>
+</td>
+<td colspan="2" style="width:179.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="239">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4.1</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6.1</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8.2</span></p>
+</td>
+</tr>
+<?if !supportMisalignedColumns?>
+<tr height="0">
+<td style="border:none" width="150"></td>
+<td style="border:none" width="61"></td>
+<td style="border:none" width="103"></td>
+<td style="border:none" width="136"></td>
+</tr>
+<?endif?>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="2" style="width:284.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="379">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 3</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:142.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Diameter of telescope (m)</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">R (10</span><sup><span lang="EN-US" style="mso-bidi-font-size:10.5pt">-2</span></sup><span lang="EN-US"> arcsecond )</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:142.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">7.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">3.8</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.9</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.5</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="3" style="width:316.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="422">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 4</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:77.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="103">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Color of light</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Wavelength of light (10</span><st1:chmetcnv hasspace="True" negative="True" numbertype="1" sourcevalue="7" tcsc="0" unitname="m" w:st="on"><sup><span lang="EN-US" style="mso-bidi-font-size:10.5pt">-7</span></sup><span lang="EN-US"> m</span></st1:chmetcnv><span lang="EN-US">)</span></p>
+</td>
+<td style="width:97.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="130">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">R (10</span><sup><span lang="EN-US" style="mso-bidi-font-size:10.5pt">-2</span></sup><span lang="EN-US"> arcsecond)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:77.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="103">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Violet</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Blue-green</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Yellow</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Red</span></p>
+</td>
+<td style="width:142.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="189">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">7</span></p>
+</td>
+<td style="width:97.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="130">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.3</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.8</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:312.1pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="416">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Mass (kg)</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Radius (m)</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Force (N)</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">τ (N m)</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">α (rad/sec</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">2</span></sup><span lang="EN-US">)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8.0</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.10</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">40<br>
+  20</br></span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">13</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:312.1pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="416">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Mass (kg)</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Radius (m)</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Force (N)</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">τ (N m)</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">α (rad/sec</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">2</span></sup><span lang="EN-US">)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.075</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.100</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.125</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.15</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.25</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8.0<br>
+  5.3</br></span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">3.2</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:312.1pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="416">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 3</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Mass (kg)</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Radius (m)</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Force (N)</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">τ (N m)</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">α (rad/sec</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">2</span></sup><span lang="EN-US">)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">8.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10.0</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.40</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.50</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">16</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">24</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">32</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">40</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:312.1pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="416">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 4</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Mass (kg)</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Radius (m)</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Force (N)</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">τ (N m)</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">α (rad/sec</span><sup><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt">2</span></sup><span lang="EN-US">)</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:62.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+</td>
+<td style="width:66.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="89">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.050</span></p>
+</td>
+<td style="width:60.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="81">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+</td>
+<td style="width:54.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="72">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">3.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">4.0</span></p>
+</td>
+<td style="width:68.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.40</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.80</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.60</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:315.1pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="420">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="5" style="width:315.1pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="420">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 1</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td rowspan="2" style="width:97.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Compost type</span></p>
+</td>
+<td rowspan="2" style="width:32.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="44">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">pH</span></p>
+</td>
+<td colspan="3" style="width:185.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="247">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Percent by dry weight of:</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">nitrogen</span></p>
+</td>
+<td style="width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">phosphorus</span></p>
+</td>
+<td style="width:62.4pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">potassium</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+<td style="width:97.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="129">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Coffee grounds Pine needles Crushed eggshells Alfalfa</span></p>
+</td>
+<td style="width:32.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="44">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">5.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">7.2</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">6.5</span></p>
+</td>
+<td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="73">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.3</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">2.1</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">3.5</span></p>
+</td>
+<td style="width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="91">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.3</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.8</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.7</span></p>
+</td>
+<td style="width:62.4pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.6</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0.5</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">1.2</span></p>
+</td>
+</tr>
+</table>
+***********************
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:473.3pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="631">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td colspan="2" style="width:473.3pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="631">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Table 2</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:243.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="324">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Mixture of soil and:</span></p>
+</td>
+<td style="width:230.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="307">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">Percent of seeds that produced mature bean plants</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+<td style="width:243.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="324">
+<p  style="tab-stops:243.0pt"><span lang="EN-US">20% coffee
+  grounds</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">50% coffee
+  grounds</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">20% pine
+  needles</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">50% pine
+  needles</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">20% crushed
+  eggshells</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">50% crushed
+  eggshells</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">20% alfalfa</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">50% alfalfa</span></p>
+<p  style="tab-stops:243.0pt"><span lang="EN-US">10% pine
+  needles, 50% crushed eggshells, 20% alfalfa</span></p>
+</td>
+<td style="width:230.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="307">
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">10</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">20</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">30</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">60</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">80</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">50</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">0</span></p>
+<p align="center"  style="text-align:center;tab-stops:243.0pt"><span lang="EN-US">80</span></p>
+</td>
+</tr>
+</table>
+***********************

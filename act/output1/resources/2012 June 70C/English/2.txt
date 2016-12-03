@@ -1,0 +1,124 @@
+﻿
+<h1>Hawaii's Haleakala Ahinahina Plant</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of Earth's most spectacular plants grows on the slopes of Haleakala <font id=16>16</font>. As a species, the Haleakala ahinahina thrived for thousands of years in this sometimes-harsh environment of high winds and subfreezing temperatures where almost no other <font id=17>plants would of been</font> able to survive.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=26> [1] The <font id=18>dagger-shaped, lime green leaves</font> of the plant <font id=19>with a covering of</font> a dense layer of silvery hairs. [2] The plant lives from fifteen to fifty years and at the end of <font id=20> it's</font> life sprouts a dazzling stalk of maroon, sunflower-like blossoms. [3] The stalk may <font id=21>reach</font> a height of eight feet and bear up to six hundred flower heads. [4] By the 1920s, tourism and the introduction of cattle, goats, and other nonnative grazing <font id=22>animals</font> drove this plant to the brink of extinction. [5] <font id=23>Tourist's</font> decreased the plant population by taking home specimens as souvenirs. [6] They also inflicted harm <font id=24>which</font> unintentionally crushing the fragile roots when walking on the soil near the plant. [7] Even gently touching the Haleakala ahinahina can mean death for the plant, whose delicate silver hairs protect <font id=25>itself from</font> solar radiation and dehydration. [8] Moreover, the plant has none of the natural defenses-such as thorns, bitter-tasting foliage, or poisonous chemicals-that might otherwise protect it from grazing animals. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">In the 1920s, <font id=27>alarmed about being endangered, </font> the Maui Chamber of Commerce petitioned Congress, asking that a <font id=28>serious effort be made, </font> to save the plant. The first <font id=29>reliable count</font> of Haleakala ahinahina was made in the summer of 1935. At that time, 1,470 plants were tallied.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Over the past sixty years, the species has been protected by the National Park Service and has <font id=30>been written about. </font> Previous threats from animal grazing and human activities have been eliminated in large part because of fencing and rules prohibiting hikers from leaving established walking paths. As a result, today there are more than 40,000 Haleakala ahinahina growing in or around the volcano.</div>
+
+<br>
+###################
+<div class = "quiz">16. At this point, the writer is considering adding the following accurate information (adjusting the punctuation as needed):
+a 10,023-foot volcano on the Hawaiian island of Maui
+Should the writer make this addition here?
+<div class = "choice">F. Yes, because it sets up a contrast with the height of other volcanoes described in the essay.</div>
+<div class = "choice">G. Yes, because it is relevant to the essay's focus on a particular plant and its habitat.</div>
+<div class = "choice">H. No, because it shifts the essay-s focus from a plant to a volcano.</div>
+<div class = "choice">J. No, because the essay doesn't reveal whether there are other volcanoes on Maui.</div>
+</div>
+###################
+<div class = "quiz">17.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. could of been</div>
+<div class = "choice">C. were</div>
+<div class = "choice">D. was</div>
+</div>
+###################
+<div class = "quiz">18.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. dagger-shaped, lime green, leaves</div>
+<div class = "choice">H. dagger-shaped, lime, green leaves</div>
+<div class = "choice">J. dagger-shaped lime green leaves,</div>
+</div>
+###################
+<div class = "quiz">19.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. being covered with</div>
+<div class = "choice">C. having a cover of</div>
+<div class = "choice">D. are covered with</div>
+</div>
+###################
+<div class = "quiz">20.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. their</div>
+<div class = "choice">H. its'</div>
+<div class = "choice">J. its</div>
+</div>
+###################
+<div class = "quiz">21.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. in terms of height reach</div>
+<div class = "choice">C. achieve to reach</div>
+<div class = "choice">D. reach and attain</div>
+</div>
+###################
+<div class = "quiz">22.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. animals, various factors</div>
+<div class = "choice">H. animals, in other words many forces</div>
+<div class = "choice">J. animals; they</div>
+</div>
+###################
+<div class = "quiz">23.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Tourists of the time's</div>
+<div class = "choice">C. Tourists'</div>
+<div class = "choice">D. Tourists</div>
+</div>
+###################
+<div class = "quiz">24.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. by which</div>
+<div class = "choice">H. by</div>
+<div class = "choice">J. on</div>
+</div>
+###################
+<div class = "quiz">25.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. the plant under</div>
+<div class = "choice">C. oneself with</div>
+<div class = "choice">D. it from</div>
+</div>
+###################
+<div class = "quiz">26. The writer wants to divide this paragraph into two in order to separate description of the plant itself from information about harm that has been done to the plant population. The best place to begin the new paragraph would be at the beginning of Sentence:
+<div class = "choice">F. 3.</div>
+<div class = "choice">G. 4.</div>
+<div class = "choice">H. 5.</div>
+<div class = "choice">J. 6.</div>
+</div>
+###################
+<div class = "quiz">27.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. alarmed that the Haleakala ahinahina was endangered,</div>
+<div class = "choice">C. in the face of being endangered,</div>
+<div class = "choice">D. alarmed and endangered,</div>
+</div>
+###################
+<div class = "quiz">28.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. serious, effort be made</div>
+<div class = "choice">H. serious effort, be made</div>
+<div class = "choice">J. serious effort be made</div>
+</div>
+###################
+<div class = "quiz">29.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. worthy numbering</div>
+<div class = "choice">C. steadfast number</div>
+<div class = "choice">D. loyal count</div>
+</div>
+###################
+<div class = "quiz">30. Given that all the choices are true, which one best indicates that the conservation effort referred to in the preceding paragraph was successful?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. been photographed by preservationists.</div>
+<div class = "choice">H. received considerable attention.</div>
+<div class = "choice">J. steadily recovered.</div>
+<br>
+</div>
+###################

@@ -1,0 +1,121 @@
+<h1>At Home in a Language</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When I was a child growing up in Delhi, <font id=30>India My</font> parents and I <font id=31>will have spent</font> our summers in Calcutta, India, visiting my grandparents, aunts, uncles, and cousins. We took the train over eight hundred miles from Delhi to Calcutta, which I considered a treat <font id=32> as</font> itself. I loved the dining car, the cozy sleeping berth in our cabin, <font id=33>and</font> the gentle rocking motion of the train that would <font id=34>lull</font> me to sleep at night. <font id=35>As an adult, I prefer to travel by car. </font> When we arrived at the Calcutta station the next morning, we were welcomed announcing train arrivals and departures over the intercom <font id=36>by the sound of the Bengali language. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Back in Delhi, the language most people commonly spoke was Hindi. Though I spoke Hindi fluently, it wasn't my first language. My parents were born in Calcutta, where most people spoke Bengali. They had lived there for years before they got married and moved to <font id=37>Delhi, where Hindi was widely spoken. </font> Because my parents had grown up speaking Bengali, we spoke Bengali, not Hindi, in our house. It was not surprising, then, that hearing Bengali on the streets of Calcutta made me feel right at home.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Being in Calcutta was a comfort to me because <font id=38>I could speak</font> almost exclusively in my first language. Store clerks, cab drivers, bus drivers, schoolchildren, families picnicking in the parks: it seemed like everybody in Calcutta spoke Bengali. It only took me a day or two to adjust to not having to manage two languages. Communicating with such ease was a <font id=39>relief; </font> in Delhi I felt split in half, but in Calcutta I <font id=40>really felt like two people. </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I also <font id=41>found life in my grandparents' house</font> easy to get used to. Their house was always <font id=42>overflowing with</font> members of my father's family. Being an only child, I <font id=43> savored</font> this time spent with relatives. My aunts and uncles loved to tease me and tell me jokes and stories. I would skip through the rooms of my grandparents' sprawling house with my cousins, <font id=44>thrilled to have all that extra space in which to play games and have fun. </font></div>
+
+<br>
+###################
+<div class = "quiz">30.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. India, So my</div>
+<div class = "choice">H. India; my</div>
+<div class = "choice">J. India, my</div>
+</div>
+###################
+<div class = "quiz">31.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. would spend</div>
+<div class = "choice">C. have spent</div>
+<div class = "choice">D. will be spending</div>
+</div>
+###################
+<div class = "quiz">32.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. to</div>
+<div class = "choice">H. for</div>
+<div class = "choice">J. in</div>
+</div>
+###################
+<div class = "quiz">33.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. which</div>
+<div class = "choice">C. since</div>
+<div class = "choice">D. whereas</div>
+</div>
+###################
+<div class = "quiz">34.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. lulled</div>
+<div class = "choice">H. of lulled</div>
+<div class = "choice">J. have lulled</div>
+</div>
+###################
+<div class = "quiz">35. The writer is considering deleting the preceding sentence. Should the sentence be kept or deleted?
+<div class = "choice">A. Kept, because it gives the reader further insight into the narrator's personality.</div>
+<div class = "choice">B. Kept, because it sharpens the essay's focus on favorite modes of transportation.</div>
+<div class = "choice">C. Deleted, because it disrupts the narration of past events in the paragraph.</div>
+<div class = "choice">D. Deleted, because it inserts a personal element into an otherwise impersonal essay.</div>
+</div>
+###################
+<div class = "quiz">36. The best placement for the underlined portion would be:
+<div class = "choice">F. where it is now.</div>
+<div class = "choice">G. after the word arrived.</div>
+<div class = "choice">H. after the word welcomed.</div>
+<div class = "choice">J. after the word arrivals.</div>
+</div>
+###################
+<div class = "quiz">37.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Delhi, where most people speak Hindi.</div>
+<div class = "choice">C. Delhi, a city in India.</div>
+<div class = "choice">D. Delhi.</div>
+</div>
+###################
+<div class = "quiz">38.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. could communicate and discourse</div>
+<div class = "choice">H. could shoot the breeze</div>
+<div class = "choice">J. could, you know, speak</div>
+</div>
+###################
+<div class = "quiz">39.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. relief,</div>
+<div class = "choice">C. relief</div>
+<div class = "choice">D. relief and</div>
+</div>
+###################
+<div class = "quiz">40. Which choice most logically completes the contrast between the way the narrator felt in Calcutta and in Delhi?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. remembered how this felt.</div>
+<div class = "choice">H. felt like I was split in fourths.</div>
+<div class = "choice">J. felt confident and whole.</div>
+</div>
+###################
+<div class = "quiz">41.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. found, life in my grandparents' house</div>
+<div class = "choice">C. found, life in my grandparents' house,</div>
+<div class = "choice">D. found life in my grandparents' house,</div>
+</div>
+###################
+<div class = "quiz">42. Which choice most effectively emphasizes the fact that the narrator's father has a large family?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. comfortably accommodating</div>
+<div class = "choice">H. visited by</div>
+<div class = "choice">J. a familiar haunt of</div>
+</div>
+###################
+<div class = "quiz">43. Which of the following alternatives to the underlined portion would NOT be acceptable?
+<div class = "choice">A. relished</div>
+<div class = "choice">B. tasted</div>
+<div class = "choice">C. reveled in</div>
+<div class = "choice">D. delighted in</div>
+</div>
+###################
+<div class = "quiz">44. Given that all the choices are true, which one best concludes the sentence and the essay while reinforcing the essay's main idea?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. all of us shouting, screaming, and laughing in Bengali.</div>
+<div class = "choice">H. all of us making memories that will be with us our entire lives.</div>
+<div class = "choice">J. investigating the many things my grandparents had collected.</div>
+<br>
+</div>
+###################

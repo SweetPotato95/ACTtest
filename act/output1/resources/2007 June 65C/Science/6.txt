@@ -1,0 +1,76 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Water flowing over the sediment in a river channel creates bedforms (3-dimensional structures formed in the sediment). The processes that produce bedforms in present-day river channels produced the same types of bedforms in ancient river channels. Ancient bedforms are often found preserved in sedimentary rock layers. Figure l shows a longitudinal cross section of 3 types of bedforms: ripples, dunes, and flat beds.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\242.png' width = '714'height = '488'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A geologist conducted 3 studies using 'an artificial river channel 15 m long. 1 m wide, and 0.6 m deep. Water velocity through the channel and water flow depth could be controlled. At the start of each study, a .flat, 15 cm thick layer of sand particles of uniform diameter was placed in the bottom of the channel. Various combinations of water velocity, from 0.2 m/sec to 2.0 m/sec, and of water flow depth: from 0.1 m to 0.4 m, were tested in each of the 3 studies.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study l</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The bottom of the channel was covered with fine sand particles, all having a diameter of 0.19 mm. Water was passed over the sediment bed. The resulting bedform stability fields (water velocities and water flow depths at which various types of bedforms were present) are shown in Figure 2.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\243.png' width = '665'height = '616'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 2</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 1 was repeated using medium sand particles, all having a diameter of 0.45 mm. The resulting bedform stability fields are shown in Figure 3.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\244.png' width = '674'height = '596'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study 3</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Study .1 was repeated using coarse sand particles, all having a diameter of 0.93 mm. The resulting bedform stability fields are shown in Figure 4.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\245.png' width = '688'height = '606'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures 2-4 adapted from Gerald Middleton and John Southard, Mechanics of Sediment Movement. ©1984 by the Society of Economic Paleontologists and Mineralogists.</div>
+
+<br>
+###################
+<div class = "quiz">28. Which of the following factors was NOT directly controlled by the geologist during the studies?
+<div class = "choice">F. Water velocity</div>
+<div class = "choice">G. Water flow depth</div>
+<div class = "choice">H. Bedform type</div>
+<div class = "choice">J. Sediment panicle diameter</div>
+<br>
+###################
+<div class = "quiz">29. Suppose Study l were repeated using sand particles all having a. diameter of 0.30 mm. The resulting bedform stability fields would include which of the 3 types of bedforms referred to in the passage?
+<div class = "choice">A. Ripples only</div>
+<div class = "choice">B. Flat beds only</div>
+<div class = "choice">C. Ripples and dunes only</div>
+<div class = "choice">D. Dunes and flat beds only</div>
+</div>
+###################
+<div class = "quiz">30. A sedimentary rock layer containing preserved, ripples was composed entirely of sediment particles with diameters between 0.4 mm and 0.5 mm. The water flow depth in the river at the time the .ripples were forming was between 0.1 m and 0.4 m. Based on the information presented, the velocity of the river water was most likely:
+<div class = "choice">F. less than 0.5 m/sec.</div>
+<div class = "choice">G. between 0.5 m/sec and 0.6 m/sec.</div>
+<div class = "choice">H. between 0.6 m/sec and 0.7 m/sec.</div>
+<div class = "choice">J. greater than 0.7 m/sec.</div>
+</div>
+###################
+<div class = "quiz">31. According to the results of Studies l and 2, which of the following statements comparing the maximum water velocity at which ripples were present and the maximum water velocity at which dunes were present is true?
+<div class = "choice">A. For all water flow depths, the maximum water velocity at which ripples were present was higher than the corresponding maximum water velocity at which dunes were present.</div>
+<div class = "choice">B. For all water flow depths, the maximum water velocity at which ripples were present was lower than the corresponding maximum water velocity at which dunes were present.</div>
+<div class = "choice">C. For only some of the water flow depths, the maximum water velocity at which ripples were present was higher than the corresponding maximum water velocity at which dunes were present.</div>
+<div class = "choice">D. For only some of the water flow depths, the maximum water velocity at which ripples were present was lower than' the corresponding maximum water velocity at which dunes were present.</div>
+</div>
+###################
+<div class = "quiz">32. According to the results of Study 3, for a given water velocity, as the water flow depth increased, the type of bedform present:
+<div class = "choice">F. changed from ripples to dunes.</div>
+<div class = "choice">G. changed from dune to flat beds.</div>
+<div class = "choice">H. changed from flat beds to dunes.</div>
+<div class = "choice">J. did not change.</div>
+</div>
+###################
+<div class = "quiz">33. Consider the average wavelength of a ripple bedform and the average wavelength of a dune bedform, as shown in Figure 1. Which, if either, is(are) greater than 10 cm?
+<div class = "choice">A. The average wavelength of a ripple bedform only</div>
+<div class = "choice">B. The average wavelength of a dune bedform only</div>
+<div class = "choice">C. Both the average .wavelength of a ripple bedform and the average wavelength of a dune bedform</div>
+<div class = "choice">D. Neither the average wavelength of a ripple bedform nor the average wavelength of a dune bedform</div>
+</div>
+###################

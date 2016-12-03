@@ -1,0 +1,526 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"></div>
+
+###################
+<div class = "quiz">1. Which of the following expressions is equivalent to 3x+6y+9z?
+<div class = "choice">A. 3(x+2y+3z)</div>
+<div class = "choice">B. 3(x+2y+9z)</div>
+<div class = "choice">C. 3(x+6y+9z)</div>
+<div class = "choice">D. 3(x+2y)+3z</div>
+<div class = "choice">E. 18(x+y+z)</div>
+</div>
+###################
+<div class = "quiz">2. When written in symbols, "The square of the sum of x and y" is represented as:
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\0.png' width = '103'height = '38'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\1.png' width = '75'height = '38'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\2.png' width = '68'height = '38'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\3.png' width = '65'height = '38'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 June 63F\imgs\4.png' width = '82'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">3. The odometer in DaNae's car read 18,790 miles when she left on a trip and 19,168 miles when she returned. DaNae drove the car for 7 hours on the trip. Based on the odometer readings, what was her average driving speed on the trip, to the nearest mile per hour?
+<div class = "choice">A. 68</div>
+<div class = "choice">B. 65</div>
+<div class = "choice">C. 55</div>
+<div class = "choice">D. 54</div>
+<div class = "choice">E. 40</div>
+</div>
+###################
+<div class = "quiz">4. The interior dimensions of a rectangular aquarium are 3 feet by 2 feet by 2 feet. What is the volume, in cubic feet, of the interior of the aquarium?
+<div class = "choice">F. 7</div>
+<div class = "choice">G. 12</div>
+<div class = "choice">H. 24</div>
+<div class = "choice">J. 32</div>
+<div class = "choice">K. 36</div>
+</div>
+###################
+<div class = "quiz">5. If a is a real number and<img src='file:\$$$\resources\2006 June 63F\imgs\5.png' width = '80'height = '34'/>, then 2 <img src='file:\$$$\resources\2006 June 63F\imgs\6.png' width = '41'height = '32'/>= ?
+<div class = "choice">A. 4</div>
+<div class = "choice">B. 8</div>
+<div class = "choice">C. 16</div>
+<div class = "choice">D. 32</div>
+<div class = "choice">E. 64</div>
+</div>
+###################
+<div class = "quiz">6. For the students enrolled at Sunnyside College, the ratio of male students to female students is 5:7. Which of the following statements about the students enrolled is (are) true?
+Ⅰ. For every 7 females, there are 5 males.
+Ⅱ. There are more males than females.
+Ⅲ. Males comprise <img src='file:\$$$\resources\2006 June 63F\imgs\7.png' width = '24'height = '65'/> of the students enrolled
+<div class = "choice">F. Ⅰ only</div>
+<div class = "choice">G. Ⅱ only</div>
+<div class = "choice">H. Ⅲ only</div>
+<div class = "choice">J. Ⅱ and Ⅲ only</div>
+<div class = "choice">K. Ⅰ, Ⅱ, and Ⅲ</div>
+</div>
+###################
+<div class = "quiz">7. Camille needs <img src='file:\$$$\resources\2006 June 63F\imgs\8.png' width = '36'height = '65'/> yards of fabric for a craft project. She has <img src='file:\$$$\resources\2006 June 63F\imgs\9.png' width = '38'height = '65'/> yards of fabric. How many more yards does she need?
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\10.png' width = '32'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\11.png' width = '35'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\12.png' width = '38'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\13.png' width = '38'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\14.png' width = '38'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">8. As shown below, the diagonals of rectangle ABCD intersect at the point (2,5) in the standard (x,y) coordinate plane, Point A is at (-1,3). Which of the following are the coordinates of C?
+<img src='file:\$$$\resources\2006 June 63F\imgs\15.png' width = '365'height = '395'/>
+<div class = "choice">F. (-l,7)</div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\16.png' width = '50'height = '50'/></div>
+<div class = "choice">H. (3,7)</div>
+<div class = "choice">J. (5,3)</div>
+<div class = "choice">K. (5,7)</div>
+</div>
+###################
+<div class = "quiz">9. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2006 June 63F\imgs\17.png' width = '88'height = '65'/>?
+<div class = "choice">A. 70 m</div>
+<div class = "choice">B. 11 m</div>
+<div class = "choice">C. 7 m+10</div>
+<div class = "choice">D. m+70</div>
+<div class = "choice">E. m+10</div>
+</div>
+###################
+<div class = "quiz">10. The expression <img src='file:\$$$\resources\2006 June 63F\imgs\18.png' width = '172'height = '34'/> is equivalent to:
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\19.png' width = '93'height = '34'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\20.png' width = '87'height = '29'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\21.png' width = '103'height = '34'/></div>
+<div class = "choice">J. -<img src='file:\$$$\resources\2006 June 63F\imgs\22.png' width = '46'height = '29'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 June 63F\imgs\23.png' width = '42'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">11. On recent test, some questions were worth 2 points each and the rest were worth 3 points each. Tuan answered correctly the same number of 2-point questions as 3-point questions and earned a score of 60 points. How many 3-point questions did he answer correctly?
+<div class = "choice">A. 36</div>
+<div class = "choice">B. 30</div>
+<div class = "choice">C. 20</div>
+<div class = "choice">D. 12</div>
+<div class = "choice">E. 10</div>
+</div>
+###################
+<div class = "quiz">12. A postage stamp measures 2 centimeters by 2.5 centimeters. Angelina estimates that the area is 4 square centimeters. Her estimate is what percent less than the actual area?
+<div class = "choice">F. 80%</div>
+<div class = "choice">G. 50%</div>
+<div class = "choice">H. 40%</div>
+<div class = "choice">J. 25%</div>
+<div class = "choice">K. 20%</div>
+</div>
+###################
+<div class = "quiz">13. The geometric mean of 2 positive numbers is the square root of the product of the 2 numbers. What is the geometric mean of 12 and 48?
+<div class = "choice">A. 24</div>
+<div class = "choice">B. 30</div>
+<div class = "choice">C. 36</div>
+<div class = "choice">D. 288</div>
+<div class = "choice">E. 576</div>
+</div>
+###################
+<div class = "quiz">14. A model for the braking distance, d feet, required to stop a certain car when it is traveling x miles per hour is<img src='file:\$$$\resources\2006 June 63F\imgs\24.png' width = '75'height = '69'/>. According to this model, what is the braking distance, in feet, required to stop this car when it is traveling 70 miles per hour?
+<div class = "choice">F. 13</div>
+<div class = "choice">G. 25</div>
+<div class = "choice">H. 70</div>
+<div class = "choice">J. 123</div>
+<div class = "choice">K. 245</div>
+</div>
+###################
+<div class = "quiz">15. The expression <img src='file:\$$$\resources\2006 June 63F\imgs\25.png' width = '112'height = '34'/>can be written as the product of 2 binomials with integer coefficients. One of the binomials is (x - 6). Which of the following is the other binomial?
+<div class = "choice">A.<img src='file:\$$$\resources\2006 June 63F\imgs\26.png' width = '64'height = '34'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 June 63F\imgs\27.png' width = '64'height = '34'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2006 June 63F\imgs\28.png' width = '64'height = '34'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2006 June 63F\imgs\29.png' width = '54'height = '29'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\30.png' width = '54'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">16. The cost for a company to produce x televisions in 1 year is $150x+$250,000. How many televisions can the company produce in l year at a cost of $550,000?
+<div class = "choice">F. 1,500</div>
+<div class = "choice">G. l,666</div>
+<div class = "choice">H. 2,000</div>
+<div class = "choice">J. 3,666</div>
+<div class = "choice">K. 5,333</div>
+</div>
+###################
+<div class = "quiz">17. Given<img src='file:\$$$\resources\2006 June 63F\imgs\31.png' width = '145'height = '125'/>, what is<img src='file:\$$$\resources\2006 June 63F\imgs\32.png' width = '68'height = '71'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\33.png' width = '35'height = '65'/></div>
+<div class = "choice">B. 1</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\34.png' width = '36'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\35.png' width = '36'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\36.png' width = '24'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">18. Teri has $6 less than does her sister, Jennie, who has x dollars. Teri does not spend any money and earns $4. Which of the following is an expression for the amount of money, in dollars, Teri has?
+<div class = "choice">F. 2</div>
+<div class = "choice">G. x+2</div>
+<div class = "choice">H. x+10</div>
+<div class = "choice">J. 2x-2</div>
+<div class = "choice">K. x-2</div>
+</div>
+###################
+<div class = "quiz">19. A rectangle is 3 times as long as it is wide. The perimeter of the rectangle is 160 meters. What is the area of the rectangle, in square meters?
+<div class = "choice">A. 400</div>
+<div class = "choice">B. 1,200</div>
+<div class = "choice">C. 1,600</div>
+<div class = "choice">D. 3,600</div>
+<div class = "choice">E. 6,400</div>
+</div>
+###################
+<div class = "quiz">20. In the figure below, B is on<img src='file:\$$$\resources\2006 June 63F\imgs\37.png' width = '41'height = '34'/>, D is on<img src='file:\$$$\resources\2006 June 63F\imgs\38.png' width = '42'height = '36'/>, F is on<img src='file:\$$$\resources\2006 June 63F\imgs\39.png' width = '42'height = '36'/>, C is on both <img src='file:\$$$\resources\2006 June 63F\imgs\40.png' width = '42'height = '34'/> and<img src='file:\$$$\resources\2006 June 63F\imgs\41.png' width = '41'height = '34'/>, <img src='file:\$$$\resources\2006 June 63F\imgs\42.png' width = '169'height = '29'/>LBAC and <img src='file:\$$$\resources\2006 June 63F\imgs\43.png' width = '169'height = '29'/> Which of the following statements must be true?
+(Note: The symbol <img src='file:\$$$\resources\2006 June 63F\imgs\44.png' width = '22'height = '24'/> means "is congruent to.")
+<img src='file:\$$$\resources\2006 June 63F\imgs\45.png' width = '400'height = '320'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\46.png' width = '101'height = '36'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\47.png' width = '174'height = '29'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\48.png' width = '41'height = '34'/>is parallel to <img src='file:\$$$\resources\2006 June 63F\imgs\49.png' width = '42'height = '36'/></div>
+<div class = "choice">J. △ABC is similar to △ACD</div>
+<div class = "choice">K. The areas of quadrilaterals BCFE and CDGF are equal.</div>
+</div>
+###################
+<div class = "quiz">21. Which of the following is equivalent to<img src='file:\$$$\resources\2006 June 63F\imgs\50.png' width = '38'height = '50'/>?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\51.png' width = '42'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\52.png' width = '38'height = '36'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\53.png' width = '46'height = '38'/></div>
+<div class = "choice">E. -1×<img src='file:\$$$\resources\2006 June 63F\imgs\54.png' width = '36'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">22. Admission to the school fair is $5, and each ride is the same price as any other ride. The graph below shows the total cost for a person, for admission and rides, as a function of the number of rides paid for. One of the following is the price of a single ride. Which one is it?
+<img src='file:\$$$\resources\2006 June 63F\imgs\55.png' width = '649'height = '250'/>
+<div class = "choice">F. $1</div>
+<div class = "choice">G. $2</div>
+<div class = "choice">H. $3</div>
+<div class = "choice">J. $4</div>
+<div class = "choice">K. $5</div>
+</div>
+###################
+<div class = "quiz">23. The figure below shows a right triangle whose hypotenuse is 20 inches long. How many inches long is the longer leg of this triangle?
+<img src='file:\$$$\resources\2006 June 63F\imgs\56.png' width = '398'height = '232'/>
+<div class = "choice">A. 10</div>
+<div class = "choice">B. 40</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\57.png' width = '60'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\58.png' width = '64'height = '71'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\59.png' width = '65'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">24. If you add up 6 consecutive even integers that are each greater than 25, what is the smallest possible sum?
+<div class = "choice">F. 210</div>
+<div class = "choice">G. 186</div>
+<div class = "choice">H. 174</div>
+<div class = "choice">J. 165</div>
+<div class = "choice">K. 150</div>
+</div>
+###################
+<div class = "quiz">25. As shown below, an 18-foot Tamp forms an angle of 12°with the ground, which is horizontal. Which of the following is an expression for the vertical rise, in feet, of the ramp?
+<img src='file:\$$$\resources\2006 June 63F\imgs\168.png' width = '300'height = '100'/>
+<div class = "choice">A. 18 sin 12°</div>
+<div class = "choice">B. 18 cos 12°</div>
+<div class = "choice">C. 18 tan 12°</div>
+<div class = "choice">D. 18 cot 12°</div>
+<div class = "choice">E. 18 sec 12°</div>
+</div>
+###################
+<div class = "quiz">26. If<img src='file:\$$$\resources\2006 June 63F\imgs\60.png' width = '136'height = '42'/>, then x=?
+<div class = "choice">F. -33</div>
+<div class = "choice">G. -11</div>
+<div class = "choice">H.<img src='file:\$$$\resources\2006 June 63F\imgs\61.png' width = '24'height = '65'/></div>
+<div class = "choice">J. 11</div>
+<div class = "choice">K. 33</div>
+</div>
+###################
+<div class = "quiz">27. On the way to a family camping weekend, the Estradas stopped at a roadside stand to purchase firewood. The stand sold bundles of pine firewood for $2 per bundle and bundles of hickory firewood for $4 per bundle. The Estradas purchased a total of 25 bundles of pine firewood and hickory firewood for $66. How many bundles of pine firewood did the Estradas purchase?
+<div class = "choice">A. 8</div>
+<div class = "choice">B. 11</div>
+<div class = "choice">C. 17</div>
+<div class = "choice">D. 21</div>
+<div class = "choice">E. 22</div>
+</div>
+###################
+<div class = "quiz">28. In △ADE below, B lies on<img src='file:\$$$\resources\2006 June 63F\imgs\62.png' width = '41'height = '34'/>; C lies on<img src='file:\$$$\resources\2006 June 63F\imgs\63.png' width = '42'height = '34'/>; and r, s, t, and v are angle measures, in degrees. The measure of ∠A is 40°. What is r+s+t+v ?
+<img src='file:\$$$\resources\2006 June 63F\imgs\64.png' width = '481'height = '253'/>
+<div class = "choice">F. 100°</div>
+<div class = "choice">G. 140°</div>
+<div class = "choice">H. 240°</div>
+<div class = "choice">J. 280°</div>
+<div class = "choice">K. 320°</div>
+</div>
+###################
+<div class = "quiz">29. Triangles △ABC and △DBC, shown below, are isosceles with base<img src='file:\$$$\resources\2006 June 63F\imgs\65.png' width = '41'height = '36'/>. Segments <img src='file:\$$$\resources\2006 June 63F\imgs\66.png' width = '41'height = '34'/> and <img src='file:\$$$\resources\2006 June 63F\imgs\67.png' width = '41'height = '36'/> bisect ∠ABC and ∠ACB, respectively. Which of the following angle congruences is necessarily true?
+<img src='file:\$$$\resources\2006 June 63F\imgs\68.png' width = '190'height = '247'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\69.png' width = '169'height = '29'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\70.png' width = '168'height = '29'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\71.png' width = '169'height = '29'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\72.png' width = '169'height = '29'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\73.png' width = '169'height = '29'/></div>
+</div>
+###################
+<div class = "quiz">30. What is the area, in square feet, of a trapezoid with a height of 4 feet and parallel bases of 7 feet and 5 feet, respectively?
+<div class = "choice">F. 16</div>
+<div class = "choice">G. 24</div>
+<div class = "choice">H. 27<img src='file:\$$$\resources\2006 June 63F\imgs\74.png' width = '24'height = '65'/></div>
+<div class = "choice">J. 48</div>
+<div class = "choice">K. 55</div>
+</div>
+###################
+<div class = "quiz">31. The table below lists the number (to the nearest l,000) of Boy Scout units (packs, troops, posts, and groups) in the United States for 1994 through 1997. Of the following expressions with x representing the number of years after 1994, which best models the number of Boy Scout units (in thousands) in the United States?
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:120.4pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:192.9pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Boy Scout units (in thousands)</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:120.4pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1994</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1995</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1996</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1997</span></p></td><td style="width:192.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">129</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">132</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">135</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">139</span></p></td></tr></table></div>
+Table adapted from U.S. Census Bureau, Statistical Abstract of the United States: 1998. 1998.
+<div class = "choice">A.<img src='file:\$$$\resources\2006 June 63F\imgs\75.png' width = '50'height = '65'/>+1,994</div>
+<div class = "choice">B.<img src='file:\$$$\resources\2006 June 63F\imgs\76.png' width = '50'height = '65'/>+129</div>
+<div class = "choice">C. 129x+1,994</div>
+<div class = "choice">D. 139x+1 997</div>
+<div class = "choice">E. 1,994x+129</div>
+</div>
+###################
+<div class = "quiz">32. The table below shows the percents of U.S. households with cable television out of all U.S. households with TVs, for each year from 1977 through 1997.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1977</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1978</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1979</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1980</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1981</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1982</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1983</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">16.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">17.9</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">19.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">22.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">28.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">35.0</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">40.5</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1984</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1985</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1986</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1987</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1988</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1989</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1990</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">43.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">46.2</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">48.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">50.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">53.8</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">57.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">59.0</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1991</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1992</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1993</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1994</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1995</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1996</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1997</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">60.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">61.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">62.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">63.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">65.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">66.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">67.3</span></p></td></tr></table></div>
+Table adapted from The World Almanac and Book of Facts 1999. ⓒ1998 by World Almanac Books.
+Which of the following years had the greatest increase in the percent of U.S. households with cable television over the previous year?
+<div class = "choice">F. 1981</div>
+<div class = "choice">G. 1982</div>
+<div class = "choice">H. 1983</div>
+<div class = "choice">J. 1989</div>
+<div class = "choice">K. 1990</div>
+</div>
+###################
+<div class = "quiz">33. The table below shows the percents of U.S. households with cable television out of all U.S. households with TVs, for each year from 1977 through 1997.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1977</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1978</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1979</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1980</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1981</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1982</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1983</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">16.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">17.9</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">19.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">22.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">28.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">35.0</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">40.5</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1984</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1985</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1986</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1987</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1988</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1989</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1990</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">43.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">46.2</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">48.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">50.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">53.8</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">57.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">59.0</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1991</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1992</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1993</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1994</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1995</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1996</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1997</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">60.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">61.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">62.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">63.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">65.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">66.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">67.3</span></p></td></tr></table></div>
+Table adapted from The World Almanac and Book of Facts 1999. ⓒ1998 by World Almanac Books.
+The figure below shows a scatterplot for the data points in the table and 5 solid-line graphs that represent possible models for this data set. Among the 5 lines, which appears to be the best model for the data set?
+<img src='file:\$$$\resources\2006 June 63F\imgs\77.png' width = '260'height = '210'/>
+<div class = "choice">A. A</div>
+<div class = "choice">B. B</div>
+<div class = "choice">C. C</div>
+<div class = "choice">D. D</div>
+<div class = "choice">E. E</div>
+</div>
+###################
+<div class = "quiz">34. The table below shows the percents of U.S. households with cable television out of all U.S. households with TVs, for each year from 1977 through 1997.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Year</span></p></td><td style="width:96.4pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">percent</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1977</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1978</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1979</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1980</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1981</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1982</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1983</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">16.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">17.9</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">19.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">22.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">28.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">35.0</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">40.5</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1984</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1985</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1986</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1987</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1988</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1989</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1990</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">43.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">46.2</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">48.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">50.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">53.8</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">57.1</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">59.0</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1991</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1992</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1993</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1994</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1995</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1996</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1997</span></p></td><td style="width:96.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="64"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">60.6</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">61.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">62.5</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">63.4</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">65.3</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">66.7</span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt">67.3</span></p></td></tr></table></div>
+Table adapted from The World Almanac and Book of Facts 1999. ⓒ1998 by World Almanac Books.
+The almanac stales there .were 64,654,160 U.S. households with cable television in 1996, According to this information, approximately how many U.S. households had TVs, with or without cable, in 1996?
+<div class = "choice">F. 32,000</div>
+<div class = "choice">G. 43,000,000</div>
+<div class = "choice">H. 97,000,000</div>
+<div class = "choice">J. 110,000,000</div>
+<div class = "choice">K. 4,300,000,000</div>
+</div>
+###################
+<div class = "quiz">35. For all nonzero b and c,<img src='file:\$$$\resources\2006 June 63F\imgs\78.png' width = '237'height = '80'/>?
+<div class = "choice">A. 1</div>
+<div class = "choice">B. 10</div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\79.png' width = '36'height = '34'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\80.png' width = '22'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\81.png' width = '35'height = '69'/></div>
+</div>
+###################
+<div class = "quiz">36. The function <img src='file:\$$$\resources\2006 June 63F\imgs\82.png' width = '241'height = '38'/> and line t are shown in the standard (x,y) coordinate plane below. Which of the following is an equation of line t, which passes through (3,4) and is tangent to f (x) at (1,0)?
+<img src='file:\$$$\resources\2006 June 63F\imgs\83.png' width = '157'height = '246'/>
+<div class = "choice">F.<img src='file:\$$$\resources\2006 June 63F\imgs\84.png' width = '117'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\85.png' width = '117'height = '65'/></div>
+<div class = "choice">H. y=3x+4</div>
+<div class = "choice">J. y=2x+l</div>
+<div class = "choice">K. y=2x-2</div>
+</div>
+###################
+<div class = "quiz">37. Which of the following degree measures is equivalent to 3.75<img src='file:\$$$\resources\2006 June 63F\imgs\86.png' width = '22'height = '24'/> radians?
+<div class = "choice">A. 225°</div>
+<div class = "choice">B. 337.5°</div>
+<div class = "choice">C. 675°</div>
+<div class = "choice">D. 1,350°</div>
+<div class = "choice">E. 2,700°</div>
+</div>
+###################
+<div class = "quiz">38. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
+A bag of fertilizer costs $7.99 and will cover approximately 500 square feet. Which of the following is closest to the cost, in dollars, of fertilizing the flower bed?
+<div class = "choice">F. $ 25.00</div>
+<div class = "choice">G. $ 95.00</div>
+<div class = "choice">H. $110.00</div>
+<div class = "choice">J. $150.00</div>
+<div class = "choice">K. $190.00</div>
+</div>
+###################
+<div class = "quiz">39. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
+To determine how much fencing to buy to enclose their flower bed, Hasan and Parvani calculated the flower bed's perimeter. What is its perimeter, in feet?
+<div class = "choice">A. 230</div>
+<div class = "choice">B. 310</div>
+<div class = "choice">C. 380</div>
+<div class = "choice">D. 400</div>
+<div class = "choice">E. 460</div>
+</div>
+###################
+<div class = "quiz">40. Hasan and Parvani have a flower bed that is shaped like a right triangle, as shown below.
+<img src='file:\$$$\resources\2006 June 63F\imgs\87.png' width = '278'height = '391'/>
+The angle opposite the 80-foot side measures about 28.1°. Hasan and Parvani are considering changing the shape of their flower bed. It will still be a right triangle with the 150-foot side as l leg, but they will extend the 80-foot side until the angle opposite that side is about 40°. By about how many feet would they need to extend the 80-foot side?
+(Note: sin 40°≈0.64, cos 40°≈0.77, tan 4.0°≈0.84)
+<div class = "choice">F. 12</div>
+<div class = "choice">G. 16</div>
+<div class = "choice">H. 36</div>
+<div class = "choice">J. 46</div>
+<div class = "choice">K. 51</div>
+</div>
+###################
+<div class = "quiz">41. Rectangle ABCD consists of 3 congruent rectangles as shown in the figure below. Which of the following is the ratio of the length of <img src='file:\$$$\resources\2006 June 63F\imgs\88.png' width = '41'height = '34'/> to the length of<img src='file:\$$$\resources\2006 June 63F\imgs\89.png' width = '41'height = '36'/>?
+<img src='file:\$$$\resources\2006 June 63F\imgs\90.png' width = '400'height = '312'/>
+<div class = "choice">A. 1:1</div>
+<div class = "choice">B. 2:1</div>
+<div class = "choice">C. 2:3</div>
+<div class = "choice">D. 3:1</div>
+<div class = "choice">E. 3:2</div>
+</div>
+###################
+<div class = "quiz">42. Melinda's test average after 6 tests was 73. Her score on the 7th test was 87. If all 7 tests were equally weighted, which of the following is closest to her test average after 7 tests?
+<div class = "choice">F. 87</div>
+<div class = "choice">G. 85</div>
+<div class = "choice">H. 80</div>
+<div class = "choice">J. 75</div>
+<div class = "choice">K. 73</div>
+</div>
+###################
+<div class = "quiz">43. A ball is thrown upward toward a vertical brick wall. The ball hits the wall and bounces back down to the ground. Among the following graphs, which one best represents the relationship between the height, in meters, of the ball and the time, in seconds, from when the ball is thrown until it hits the ground?
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\91.png' width = '162'height = '164'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\92.png' width = '152'height = '158'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\93.png' width = '154'height = '144'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\94.png' width = '154'height = '140'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\95.png' width = '158'height = '150'/></div>
+</div>
+###################
+<div class = "quiz">44. The .sides of a right triangle measure 20 cm, 21 cm, and 29 cm. What is the tangent of the angle opposite the side that measures 20 cm?
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\96.png' width = '36'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\97.png' width = '36'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\98.png' width = '36'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\99.png' width = '36'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2006 June 63F\imgs\100.png' width = '36'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">45. The noncommon rays of 2 adjacent angles form a straight angle. The measure of one angle is 3 times the measure of the other angle. What is the measure of the larger angle?
+<div class = "choice">A. 45°</div>
+<div class = "choice">B. 60°</div>
+<div class = "choice">C. 90°</div>
+<div class = "choice">D. 135°</div>
+<div class = "choice">E. 145°</div>
+</div>
+###################
+<div class = "quiz">46. A cube consisting of 8 smaller cubes that are identical is positioned in the standard (x,y,z) coordinate system, as shown below. Vertex A has coordinates (2,0,0), and 3 other vertices are at the origin, on the positive y-axis, and on the positive z-axis, respectively What are the coordinates of vertex B?
+<img src='file:\$$$\resources\2006 June 63F\imgs\101.png' width = '358'height = '358'/>
+<div class = "choice">F. (0,0,2)</div>
+<div class = "choice">G. (0,2,0)</div>
+<div class = "choice">H. (0,2,2)</div>
+<div class = "choice">J. (2,0,2)</div>
+<div class = "choice">K. (2,2,2)</div>
+</div>
+###################
+<div class = "quiz">47. What is the median of the data given below?
+17, 25, 18, 15, 20, 27, 28, 18
+<div class = "choice">A. 17.5</div>
+<div class = "choice">B. 18</div>
+<div class = "choice">C. 19</div>
+<div class = "choice">D. 20</div>
+<div class = "choice">E. 21.5</div>
+</div>
+###################
+<div class = "quiz">48. Let <img src='file:\$$$\resources\2006 June 63F\imgs\102.png' width = '159'height = '38'/> for all integers x and y. Which of the following is the value of<img src='file:\$$$\resources\2006 June 63F\imgs\103.png' width = '88'height = '34'/>?
+<div class = "choice">F. 1</div>
+<div class = "choice">G. 19</div>
+<div class = "choice">H. 35</div>
+<div class = "choice">J. 125</div>
+<div class = "choice">K. 216</div>
+</div>
+###################
+<div class = "quiz">49. For all positive integers n, which of the following is a correct ordering of the terms<img src='file:\$$$\resources\2006 June 63F\imgs\104.png' width = '28'height = '34'/>, <img src='file:\$$$\resources\2006 June 63F\imgs\105.png' width = '54'height = '38'/>, and<img src='file:\$$$\resources\2006 June 63F\imgs\106.png' width = '56'height = '38'/>?
+(Note: n!=(n)(n-1)(n-2)…(2)(1))
+<div class = "choice">A. <img src='file:\$$$\resources\2006 June 63F\imgs\107.png' width = '178'height = '38'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2006 June 63F\imgs\108.png' width = '178'height = '38'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2006 June 63F\imgs\109.png' width = '178'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2006 June 63F\imgs\110.png' width = '178'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2006 June 63F\imgs\111.png' width = '178'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">50. What is the perimeter of quadrilateral ABCD if it has vertices with (x,y) coordinates A(0,0), B(l,3), C(4,4), D(3,1)
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\112.png' width = '61'height = '38'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\113.png' width = '61'height = '38'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2006 June 63F\imgs\114.png' width = '126'height = '38'/></div>
+<div class = "choice">J. 40</div>
+<div class = "choice">K. 100</div>
+</div>
+###################
+<div class = "quiz">51. The graph of the line with equation 3x-4y=24 does NOT have points in what quadrant(s) of the standard (x,y) coordinate plane below?
+<img src='file:\$$$\resources\2006 June 63F\imgs\115.png' width = '601'height = '359'/>
+<div class = "choice">A. Quadrant Ⅰ only</div>
+<div class = "choice">B. Quadrant Ⅱ only</div>
+<div class = "choice">C. Quadrant Ⅲ only</div>
+<div class = "choice">D. Quadrant Ⅳ only</div>
+<div class = "choice">E. Quadrants Ⅰ and Ⅱ only</div>
+</div>
+###################
+<div class = "quiz">52. The figure below shows representations of the first 5 triangular numbers, <img src='file:\$$$\resources\2006 June 63F\imgs\116.png' width = '22'height = '38'/>through<img src='file:\$$$\resources\2006 June 63F\imgs\117.png' width = '24'height = '38'/>. What is the value of<img src='file:\$$$\resources\2006 June 63F\imgs\118.png' width = '32'height = '38'/>?
+<img src='file:\$$$\resources\2006 June 63F\imgs\119.png' width = '559'height = '186'/>
+<img src='file:\$$$\resources\2006 June 63F\imgs\120.png' width = '520'height = '268'/>
+<div class = "choice">F. 96</div>
+<div class = "choice">G. 496</div>
+<div class = "choice">H. 528</div>
+<div class = "choice">J. 960</div>
+<div class = "choice">K. 1,056</div>
+</div>
+###################
+<div class = "quiz">53. Four distinct points are chosen at random on a circle. Line segments are then drawn connecting every possible pair of these points. These line segments divide the interior of the circle into how many individual, nonoverlapping regions of nonzero area?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 4</div>
+<div class = "choice">C. 6</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. 24</div>
+</div>
+###################
+<div class = "quiz">54. The radius of a circle is <img src='file:\$$$\resources\2006 June 63F\imgs\121.png' width = '36'height = '65'/> inches. How many inches long is its circumference?
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\122.png' width = '36'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2006 June 63F\imgs\123.png' width = '50'height = '65'/></div>
+<div class = "choice">H. 20</div>
+<div class = "choice">J. 40</div>
+<div class = "choice">K. 80</div>
+</div>
+###################
+<div class = "quiz">55. In the (x,y) coordinate plane, what is the radius of the circle having the points (0,-2) and (-6,6) as endpoints of a diameter?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 10</div>
+<div class = "choice">C. 14</div>
+<div class = "choice">D. 25</div>
+<div class = "choice">E. 100</div>
+</div>
+###################
+<div class = "quiz">56. The graph of the function <img src='file:\$$$\resources\2006 June 63F\imgs\124.png' width = '188'height = '69'/>is shown in the standard (x,y) coordinate plane below. Which of the following, if any, is a list of each of the vertical asymptotes of f (x)?
+<img src='file:\$$$\resources\2006 June 63F\imgs\125.png' width = '478'height = '360'/>
+<div class = "choice">F. x=0</div>
+<div class = "choice">G. x=-1 and x=-2</div>
+<div class = "choice">H. y=x+3</div>
+<div class = "choice">J. y=3x+2</div>
+<div class = "choice">K. This function has no vertical asymptote.</div>
+</div>
+###################
+<div class = "quiz">57. The sum of 2 positive prime numbers is a prime number, and 3 times that sum is an odd number. Which of the .following prime numbers must be one of the original prime numbers?
+<div class = "choice">A. 2</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 5</div>
+<div class = "choice">D. 7</div>
+<div class = "choice">E. 11</div>
+</div>
+###################
+<div class = "quiz">58. The set of points created by the midpoints of all chords of length 4 centimeters in a circle of radius 8 centimeters is a:
+<div class = "choice">F. point.</div>
+<div class = "choice">G. line segment.</div>
+<div class = "choice">H. line.</div>
+<div class = "choice">J. semicircle.</div>
+<div class = "choice">K. circle.</div>
+</div>
+###################
+<div class = "quiz">59. If <img src='file:\$$$\resources\2006 June 63F\imgs\126.png' width = '191'height = '34'/> where <img src='file:\$$$\resources\2006 June 63F\imgs\127.png' width = '220'height = '38'/> and<img src='file:\$$$\resources\2006 June 63F\imgs\128.png' width = '204'height = '38'/>, then h(x) is always divisible by which of the following?
+<div class = "choice">A. 3</div>
+<div class = "choice">B. 5</div>
+<div class = "choice">C. 7</div>
+<div class = "choice">D. 9</div>
+<div class = "choice">E. 17</div>
+</div>
+###################
+<div class = "quiz">60. A square, <img src='file:\$$$\resources\2006 June 63F\imgs\129.png' width = '26'height = '38'/>, has a perimeter of 40 inches. The vertices of a second square, <img src='file:\$$$\resources\2006 June 63F\imgs\130.png' width = '28'height = '38'/>, are the midpoints of the sides of<img src='file:\$$$\resources\2006 June 63F\imgs\131.png' width = '26'height = '38'/>. The vertices of a third square, <img src='file:\$$$\resources\2006 June 63F\imgs\132.png' width = '28'height = '38'/>, are the midpoints of the sides of.<img src='file:\$$$\resources\2006 June 63F\imgs\133.png' width = '28'height = '38'/>. Assume the process continues indefinitely, with the vertices of <img src='file:\$$$\resources\2006 June 63F\imgs\134.png' width = '42'height = '38'/> being the midpoints of the sides of <img src='file:\$$$\resources\2006 June 63F\imgs\135.png' width = '28'height = '38'/> for every positive integer k, What is the sum of the areas, in square inches, of<img src='file:\$$$\resources\2006 June 63F\imgs\136.png' width = '26'height = '38'/>, <img src='file:\$$$\resources\2006 June 63F\imgs\137.png' width = '28'height = '38'/>, <img src='file:\$$$\resources\2006 June 63F\imgs\138.png' width = '28'height = '38'/>, …?
+<div class = "choice">F. <img src='file:\$$$\resources\2006 June 63F\imgs\139.png' width = '36'height = '65'/></div>
+<div class = "choice">G. 20</div>
+<div class = "choice">H. 70</div>
+<div class = "choice">J. <img src='file:\$$$\resources\2006 June 63F\imgs\140.png' width = '50'height = '65'/></div>
+<div class = "choice">K. 200</div>
+
+</div>
+###################

@@ -1,0 +1,128 @@
+<h1>Barbara McClintock and the Genetics of Maize</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">As a leader in the field of genetics, Barbara McClintock <font id=60>of human genes</font> made significant steps in unraveling the mysteries. <font id=62>When she began studies in the 1920s, scientists <font id=61>had only recently began</font> to consider genetics a field of study and accept the research of Gregor Mendel (1822-1884).</font> His theory stated that plants resembled their "parents" in a predictable <font id=63>manner based</font> on laws of inheritance. <font id=64>However, McClintock's research pushed the field of genetics beyond Mendel's principles.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock believed maize (corn) was <font id=65>idealistically a</font> plant to study because each ear had hundreds of <font id=66>kernels for</font> each with a different set of chromosomes. The first to perfect a staining technique for distinguishing the individual chromosomes of <font id=67>maize.</font> McClintock studied the way genes were arranged on these chromosomes. By 1951, she had studied many generations of maize, noting the locations of groups of genes as the plants reproduced.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock found that some of the maize kernels were striped or <font id=68>spotted rather, then</font> the uniform color found in the parent plants. <font id=69>For example, these</font> findings were in marked contrast to Mendel's work, which had concluded that the kernel color of offspring could be predicted from the combination of genes inherited from the parent plants. In the multicolored kernels, McClintock discovered that specialized genes, later called transposons, were changing positions on and between the chromosomes. These changes caused a deviation from the <font id=70>kernel color of the maize that would have been anticipated by scientists.</font> McClintock named this genetic phenomenon transposition.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">McClintock's work was far ahead of the other genetic research of her time. It took the scientific community over thirty years to <font id=71>understand</font> and publicly recognize her discoveries. In other scientific fields, the concept of transposition <font id=72>may</font> had wide-ranging applications, <font id=73>and</font> in the development of medical treatments for bacterial infections and cancer. After the importance of her research <font id=74>gained appreciation for its value,</font> she <font id=75>was awarded the Nobel Prize in Physiology or Medicine in 1983.</font></div>
+
+<br>
+###################
+<div class = "quiz">60. The best placement for the underlined portion would be:
+<div class = "choice">F. where it is now.</div>
+<div class = "choice">G. after the word steps.</div>
+<div class = "choice">H. after the word unraveling.</div>
+<div class = "choice">J. after the word mysteries (and before the period).</div>
+</div>
+###################
+<div class = "quiz">61.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. had only recently begun</div>
+<div class = "choice">C. have only recently began</div>
+<div class = "choice">D. have only recently begun</div>
+</div>
+###################
+<div class = "quiz">62. The writer is considering deleting the parenthetical information (and the parentheses) from the preceding sentence. If the writer were to make this deletion, the paragraph would primarily lose:
+<div class = "choice">F. information needed to understand why McClintock was motivated to continue researching Mendel's theories.</div>
+<div class = "choice">G. information that helps put Mendel's life and work into historical context.</div>
+<div class = "choice">H. the approximate amount of time that Mendel spent in school.</div>
+<div class = "choice">J. a time frame during which Mendel's discoveries were considered valid.</div>
+</div>
+###################
+<div class = "quiz">63.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. manner. Based</div>
+<div class = "choice">C. manner; based</div>
+<div class = "choice">D. manner that based</div>
+</div>
+###################
+<div class = "quiz">64. Given that all the choices are true, which one most effectively leads the reader from this paragraph into the remainder of the essay?
+<div class = "choice">F. NO CHANCE</div>
+<div class = "choice">G. Mendel generated his theory while living in a monastery and conducting his experiments in the</div>
+garden there.
+<div class = "choice">H. Therefore, Mendel laid the groundwork for future studies about genetics.</div>
+<div class = "choice">J. McClintock was elected as a member to the prestigious National Academy of Sciences in l944.</div>
+</div>
+###################
+<div class = "quiz">65.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. an ideal</div>
+<div class = "choice">C. an ideally</div>
+<div class = "choice">D. an idealistic</div>
+</div>
+###################
+<div class = "quiz">66.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. kernels;</div>
+<div class = "choice">H. kernels,</div>
+<div class = "choice">J. kernels having</div>
+</div>
+###################
+<div class = "quiz">67.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. maize</div>
+<div class = "choice">C. maize,</div>
+<div class = "choice">D. maize;</div>
+</div>
+###################
+<div class = "quiz">68.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. spotted, rather then</div>
+<div class = "choice">H. spotted rather than</div>
+<div class = "choice">J. spotted rather, than</div>
+</div>
+###################
+<div class = "quiz">69.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Next, these</div>
+<div class = "choice">C. Nonetheless, these</div>
+<div class = "choice">D. These</div>
+</div>
+###################
+<div class = "quiz">70.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. scientific anticipation of the expected kernel color.</div>
+<div class = "choice">H. color that people in science had thought would be in the kernels.</div>
+<div class = "choice">J. expected color of the kernels.</div>
+</div>
+###################
+<div class = "quiz">71.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. understand,</div>
+<div class = "choice">C. understand;</div>
+<div class = "choice">D. understand them</div>
+</div>
+###################
+<div class = "quiz">72.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. could of</div>
+<div class = "choice">H. have</div>
+<div class = "choice">J. has</div>
+</div>
+###################
+<div class = "quiz">73.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. that are seen</div>
+<div class = "choice">C. such as</div>
+<div class = "choice">D. DELETE the underlined portion.</div>
+</div>
+###################
+<div class = "quiz">74.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. won appreciation given that it was worthwhile,</div>
+<div class = "choice">H. was considered important enough lo be appreciated,</div>
+<div class = "choice">J. gained appreciation,</div>
+</div>
+###################
+<div class = "quiz">75. Given that all the choices are true, which one most effectively concludes the sentence by giving a specific example of the acknowledgment McClintock finally received for her achievements?
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. could attribute her success to her early research experiences at Cornell University.</div>
+<div class = "choice">C. continued to work at the Cold Spring Harbor Lab-oratory in a position she'd held since 1941.</div>
+<div class = "choice">D. was thankful for all of the people who helped her reach her goals.</div>
+
+###################

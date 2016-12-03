@@ -1,0 +1,9 @@
+package EnDecrypt;
+
+import sun.misc.BASE64Decoder;
+import sun.misc.BASE64Encoder;
+public class EnDecrypt{
+	public static void main(String[] args){
+		System.out.println("haha");
+	}
+}
