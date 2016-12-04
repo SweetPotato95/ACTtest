@@ -1,0 +1,10 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">STEM Education Many people believe a background in STEM- science, technology, engineering, math - is needed to succeed in 21 century. As technological advancements continue to reshape social development, people with STEM training are likely to be in increasing demand as they apply to universities or seek a job. However, some students don't share the same enthusiasm in stem education. Research shows that student interest and participation in these fields are in decline. Given that students are losing interest in stem despite its importance, it is worth considering the value of stem education. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective 1</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The purpose of education is to prepare students to get a good job. The highest-paying jobs require knowledge in STEM. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective2 </div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It takes much more than just a high-paying job to be fulfilled. The happiest people work at what they love. </div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perspective 3</div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">No one can predict what the job of tomorrow will require. A basic, well-rounded education will be best for most people.</div>

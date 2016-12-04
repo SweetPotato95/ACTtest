@@ -1,0 +1,95 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">HUMANITIES: This passage is adapted from The Professor and the Madman by Simon Winchester (?1998 by Simon Winchester).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The "English dictionary," in the sense that we commonly use the phrase today, is a relatively new invention. Four hundred years ago there was no such convenience available on any English bookshelf.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">There was none available, for instance, when William Shakespeare was writing his plays. Whenever he came to use an unusual word, or to set a word in what seemed an unusual context-and his plays are extraordinarily rich with examples-he had almost no way of checking the propriety of what he was about to do, He could not, as the saying goes, "look something up." Indeed, the very phrase-when it is used in the sense of "searching for something in a dictionary or encyclopedia or other book of reference"-simply did not exist. It does not appear in the English language, in fact, until as late as 1692, when an Oxford historian named Anthony Wood used it.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One might think Shakespeare would want to look things up all the time. "Am not I consanguineous?" he writes in Twelfth Night. A few lines on he talks of "thy doublet of changeable taffeta." He then declares: "Now is the woodcock near the gin." Shakespeare's vocabulary was evidently prodigious: But how could he be certain that in all the cases where he employed unfamiliar words, he was grammatically and factually right?</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">At the time he was writing there were atlases aplenty, there were prayer books, missals, histories, biographies, romances, and books of science and art. Shakespeare is thought to have drawn many of his classical allusions from a specialized Thesaurus that had been compiled by a man named Thomas Cooper-its many errors are replicated far too exactly in the plays for it to be coincidence-and be is thought also to have drawn from Thomas Wilson's Arte of Rhetorique. It is perhaps difficult to imagine so creative a mind working without a single work of lexicographical reference beside him, other than Mr. Cooper's crib (which Mrs. Cooper once threw into the fire, prompting the great man to begin all over again) and Mr. Wilson's little manual, but that was the condition under which his particular genius was compelled to flourish. The English language was spoken and written-but at the time of Shakespeare it was not defined, not fixed. It. was like the air-it was taken for granted, the medium that enveloped and defined all Britons. <font id=27>But as to exactly what it was, what its components were-who knew? </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">That is not to say there were no dictionaries at all. There had been a collection of Latin words published as a Dictionarius as early as 1225, and a little more than a century later another, also Latin-only, as a helpmeet for students of Saint Jerome's difficult translation of the Scriptures known as the Vulgate. In 1538 the first of a series of Latin-English dictionaries appeared in London-Thomas Elyot's alphabetically arranged list, which happened to be the first book to employ the English word dictionary in its title. Twenty years later a man named Withals put out A Shorte Dictionarie for Yonge Beginners in both languages, <font id=30>but with words arranged not alphabetically, but by subject, such as "the names of the Byrdes, Byrdes of the Water, Byrdes about the house, as cockes, hennes, etc., of Bees, Flies, and others." </font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But what was still lacking was a proper English dictionary, a full statement of the extent of the English tongue. With one single exception, of which Shakespeare probably did not know when he died in 1616, this need remained stubbornly unfulfilled. Others were to remark on the apparent lack as well. In the very same year as Shakespeare's death, his friend John Webster wrote his play The Duchess of Malfi, incorporating a scene in which the duchess's brother Ferdinand imagines that he is turning into a wolf, "a pestilent disease they call licanthropia." "What is that?" cries one of the cast. "I need a dictionary to't!"</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But in fact someone, a Rutland schoolmaster named Robert Cawdrey, who later moved to teach in Coventry, had evidently been listening to this drumbeat of demand. He read and took copious notes from all the reference books of the day and eventually produced his first halfhearted attempt at what was wanted by publishing such a list in 1604. It was a small octavo book of 120 pages, which Cawdrey titled A Table Alphabeti-call... of hard unusual English Words. It had about 2,500 word entries. It had many shortcomings; but it was without doubt the very first true monolingual English dictionary, and its publication remains a pivotal moment in the history of English lexicography.</div>
+
+<br>
+###################
+<div class = "quiz">21. The main purpose of the passage is to:
+<div class = "choice">A. identify the linguistic references Shakespeare drew on while writing his plays.</div>
+<div class = "choice">B. trace in chronological order the key events and works in the history of the English dictionary.</div>
+<div class = "choice">C. discuss the development of the English dictionary and the need that prompted such a book.</div>
+<div class = "choice">D. show how playwrights were hurt by the slow evolution of the English dictionary.</div>
+</div>
+###################
+<div class = "quiz">22. The passage's author uses quotations from Shakespeare mainly to help make the point that Shakespeare:
+<div class = "choice">F. intentionally misused some obscure words and phrases in his plays.</div>
+<div class = "choice">G. avoided consulting dictionaries for fear of stifling his creativity.</div>
+<div class = "choice">H. saved his most innovative and memorable expressions for Twelfth Night.</div>
+<div class = "choice">J. had few language references available to guide how he used words in his plays.</div>
+</div>
+###################
+<div class = "quiz">23. It can reasonably be inferred that in terms of the main topic under discussion, the passage's author views which of the following works as the most important?
+<div class = "choice">A. The Dictionarius published in 1225</div>
+<div class = "choice">B. Wilson's Arte of Rhetorique</div>
+<div class = "choice">C. Withals's A Shorte Dictionarie for Yonge Beginners</div>
+<div class = "choice">D. Cawdrey's A Table Alphabeticall ... of hard unusual English Words</div>
+</div>
+###################
+<div class = "quiz">24. According to the passage's author, who first used the phrase look something up in the sense of consulting a reference work?
+<div class = "choice">F. Shakespeare</div>
+<div class = "choice">G. Wood</div>
+<div class = "choice">H. Webster</div>
+<div class = "choice">J. Cooper</div>
+</div>
+###################
+<div class = "quiz">25. To support his assertion about Shakespeare's use of Cooper's Thesaurus, the passage's author points to:
+<div class = "choice">A. evidence from Shakespeare's plays.</div>
+<div class = "choice">B. Shakespeare's own admission.</div>
+<div class = "choice">C. scholarly articles.</div>
+<div class = "choice">D. Wilson's Arte of Rhetorique.</div>
+</div>
+###################
+<div class = "quiz">26. The passage quotes dialogue from the play The Duchess of Malfi primarily to:
+<div class = "choice">F. point out that Webster and Shakespeare were friends.</div>
+<div class = "choice">G. indicate that some people in the early 1600s recognized the need for an English dictionary.</div>
+<div class = "choice">H. claim that the word licanthropia lacked an adequate definition in Shakespeare's time.</div>
+<div class = "choice">J. document Webster's role in expanding the English language through his plays.</div>
+</div>
+###################
+<div class = "quiz">27. The passage's author most likely intends the question in lines 45-46 to be read in what manner?
+<div class = "choice">A. Rhetorically; he asks the question for effect and doesn't expect anyone to answer it.</div>
+<div class = "choice">B. Genuinely; he hopes to learn the components of the English language in Shakespeare's day.</div>
+<div class = "choice">C. Critically; he's scolding Shakespeare scholars for not knowing the answer to the question.</div>
+<div class = "choice">D. Ironically; he believes people of Shakespeare's day knew precisely what the English language was.</div>
+</div>
+###################
+<div class = "quiz">28. The passage makes clear that one purpose of the early Latin-only word collections was as an aid to the study of:
+<div class = "choice">F. religious writings.</div>
+<div class = "choice">G. natural science.</div>
+<div class = "choice">H. agriculture.</div>
+<div class = "choice">J. plays.</div>
+</div>
+###################
+<div class = "quiz">29. According to the passage, all of the following are true about Elyot's word list EXCEPT that it:
+<div class = "choice">A. debuted in London in 1538.</div>
+<div class = "choice">B. was the first of a series of Latin-English dictionaries.</div>
+<div class = "choice">C. was the first to use the English word dictionary in its title.</div>
+<div class = "choice">D. was organized by subject rather than alphabetically.</div>
+</div>
+###################
+<div class = "quiz">30. The primary purpose of the words in quotation marks in lines 59-62 is to:
+<div class = "choice">F. indicate that the focus of Withals's dictionary was on waterfowl and domesticated birds.</div>
+<div class = "choice">G. provide examples of the categories Withals used to organize his dictionary.</div>
+<div class = "choice">H. prove that Withals's dictionary was inspired by Elyot's earlier work.</div>
+<div class = "choice">J. suggest that Withals's dictionary was too advanced for "young beginners."</div>
+<br>
+</div>
+###################

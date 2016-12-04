@@ -1,0 +1,167 @@
+﻿
+1. A formula that gives m, the recommended maximum heart rate, in beats per minute, while exercising, for a person a years old is m = 0.8(220 - a); What is the recommended maximum heart rate, in beats per minute, while exercising for a person 20 years old?
+A. 156           B. 160        C. 176       D. 192          E. 196
+2. The cost of renting a video game is $4.10 for the first day plus $1.50 for each day after the first day. Which of the following is a description of the relationship between c, the cost, in dollars, of renting a video game, and d, the number of days after the first day the video game is rented?
+F. c = 1:50d + 4.10      G. d = 1.50c + 4.10       H. c = (1.50 + 4.10)
+J. c = 4. l0d + 1.5.0      K. d = 4.10c + 1.50
+3. As shown in the diagram below, parallel, lines n and m are intersected by<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\0.png' width = '49.2'height = '40.2'/>: What is the value of x ? 
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\1.png' width = '111'height = '81.3'/>
+A. 130      B. 70       C. 60      D. 50       E. 40
+4. What is the solution for x of the equation<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\2.png' width = '178.5'height = '35.1'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\3.png' width = '58.5'height = '77.7'/>       G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\4.png' width = '49.2'height = '77.7'/>         H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\5.png' width = '28.5'height = '77.7'/>        J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\6.png' width = '28.5'height = '77.7'/>          K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\7.png' width = '37.8'height = '77.7'/>
+5. The function h of the 2 variables a and b is defined by<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\8.png' width = '278.1'height = '50.4'/>. What is<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\9.png' width = '105.3'height = '50.4'/>?
+A. -25        B. -6       C. 4       D. 11      E. 16
+6. An isosceles trapezoid is graphed in the standard <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\10.png' width = '73.5'height = '50.4'/> coordinate plane below. Which of the following are the coordinates of vertex P?
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\11.png' width = '133.5'height = '72.6'/>
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\12.png' width = '86.7'height = '50.4'/>        G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\13.png' width = '105.3'height = '50.4'/>        H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\14.png' width = '88.5'height = '50.4'/>        J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\15.png' width = '86.7'height = '50.4'/>      K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\16.png' width = '67.8'height = '50.4'/>
+7. Each edge of a cube measures 3 inches. What is the volume, in cubic inches, of the cube?
+A. 9       B. 27       C. 36        D. 54           E. 162
+8. Today’s newspaper reported that the price of a gallon of milk 10 years ago was 70% of today’s price for a gallon of milk. Today’s price for a gallon of milk is $2.50. Which of the following is closest to the price of a gallon of milk 10 years ago?
+F. $0.70        G. $0.75       H. $1.75        J. $1.80        K. $2.43
+9. A certain forklift can carry a maximum weight of 3,000 pounds. This forklift will be used to carry boxes that weight 65 pounds each. Which of the following inequalities is true if and only if the forklift does not exceed its maximum weight limit when it carries b boxes, where b is a whole number?
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\17.png' width = '150.3'height = '40.2'/>           B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\18.png' width = '150.3'height = '40.2'/>           C. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\19.png' width = '176.7'height = '40.2'/>
+D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\20.png' width = '176.7'height = '40.2'/>         E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\21.png' width = '141'height = '77.7'/>
+10. A rectangle has an area of 48 square meters and a width of 6 meters. What is the perimeter, in meters, of the rectangle?
+F. 8        G. 14          H. 24          J. 28           K. 32
+11. When <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\22.png' width = '418.5'height = '50.4'/> is multiplied out and all like terms are combined, the resulting expression is written so that powers of x are ordered from greatest to least. What are the first term and the last term of the expression?
+<u>first term</u>       <u>last term</u>
+A. 5x             -720           B. 5x        20             C.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\23.png' width = '34.2'height = '40.2'/>      -720   
+D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\24.png' width = '34.2'height = '40.2'/>             -20           E.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\25.png' width = '34.2'height = '40.2'/>             720
+12. Juan needed 2 cables of different lengths for his home audio speakers. He purchased a total of 39 feet of cable. The longer piece of cable is 9 feet longer than the shorter piece. What is the length, in feet, of the longer piece of cable?
+F. 6        G. 13           H. 15          J. 24            K. 26
+13. Mark is paid $20 per hour for typing manuscripts. If the types a 15,000-word manuscript at the rate of 50 words per minute, how much will he be paid?
+A. $15          B. $100        C. $150           D. $300           E. $6,000
+14. To the nearest foot, what is the length of a diagonal of the top of a rectangular cement slab 12 feet wide and 14 feet long?
+F. 13       G. 18         H. 19            J. 20           K. 26
+15. A plumber’s total charge includes a fixed service charge plus an hourly rate for the job. If the total charge is $140 for a 3-hour job and $200 for a 5-hour job, what is the total charge for an 8-hour job?
+A. $430        B. $290         C. $260          D. $250         E. $240
+16. If<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\26.png' width = '217.8'height = '92.7'/>, then<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\27.png' width = '45.3'height = '29.1'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\28.png' width = '58.5'height = '77.7'/>        G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\29.png' width = '37.8'height = '77.7'/>          H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\30.png' width = '43.5'height = '77.7'/>          J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\31.png' width = '43.5'height = '77.7'/>          K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\32.png' width = '43.5'height = '77.7'/>
+17. In quadrilateral ABCD shown below, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\33.png' width = '49.2'height = '40.2'/>is parallel to<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\34.png' width = '49.2'height = '42.9'/>, and <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\35.png' width = '45.3'height = '42.9'/> is perpendicular to<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\36.png' width = '49.2'height = '40.2'/>. What is the measure of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\37.png' width = '53.1'height = '32.7'/>?
+A. 80°       B. 90°        C. 100°       D. 120°        E. 130°
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\38.png' width = '133.5'height = '67.8'/>
+18. The figure below shows 2 similar right triangles such that A corresponds to D. The given dimensions are in feet. What is the length, in feet, of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\39.png' width = '49.2'height = '40.2'/>?
+E. 8        G. 12        H. 15         J. 16          K. 18
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\40.png' width = '111'height = '69.6'/>
+Use the following information to answer questions 19-21.
+In the baseball World Series, the American League champions play the National League champions. The first team to win 4 games wins the Series. The table below gives the year of the Series, the winning team’s league (A for American and N for National), and the number of games that Series lasted. For example, the 1980 World Series was won by the National League team and lasted 6 games. The table includes the World Series from 1980 through 2000, except for 1994. In 1994, the World Series was not played due to a players’ strike.
+#####1
+19. The National League won about what percent of the 20 World Series listed in the table?
+A. 8%        B. 25%         C. 40%           D. 45%        E. 67%
+20. The table includes data for 6 World Series that were played after the 1994 strike. In these Series, a total of 34 games were played. How many of these games did the American League team win?
+F. 16        G. 20        H. 22         J. 26          K. 28
+21. The first 10 World Series listed in the table (1980 through 1989) had a median length of how many games?
+A. 5           B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\41.png' width = '45.3'height = '77.7'/>          C. 6           D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\42.png' width = '45.3'height = '77.7'/>         E. 7
+22. For all nonzero values of a, b, and c, which of the following is the solution for x of the equation<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\43.png' width = '120.3'height = '35.1'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\44.png' width = '43.5'height = '77.7'/>      G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\45.png' width = '67.8'height = '77.7'/>          H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\46.png' width = '66'height = '77.7'/>         J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\47.png' width = '67.8'height = '77.7'/>         K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\48.png' width = '66'height = '77.7'/>
+23. What is the midpoint of the line segment with endpoints (3,5) and (-1,3) in the standard (x,y) coordinate plane?
+A. (0,6)     B. (1,4)         C. (2,1)         D. (2,8)            E. (4,2)
+24. For all x,<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\49.png' width = '120.3'height = '82.8'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\50.png' width = '49.2'height = '40.2'/>        G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\51.png' width = '88.5'height = '40.2'/>          H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\52.png' width = '94.2'height = '40.2'/>         J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\53.png' width = '49.2'height = '40.2'/>          K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\54.png' width = '88.5'height = '40.2'/>
+25. As a fund-raiser, a local youth group sold boxes of regular popcorn for $5 each and boxes of caramel popcorn for $8 each. Altogether, they sold 160 boxes for $1,100. How many boxes of caramel popcorn did they sell?
+A. 20          B. 32           C. 60         D. 80           E. 100
+Use the following information to answer questions 26-28.
+Two trains travel the same route from Toronto to Montreal, a distance of 550 km. The Local leaves Toronto earlier than the Express, makes 3 stops at stations along the way, and arrives in Montreal later than the Express. Assume that the Local travels at a constant speed on each of the 4 parts of the route, but not necessarily at the same speed of for all 4 parts, and that the Express travels at a constant speed. The schedule for the Local and a graph for the Local and the Express are shown below.
+#####2
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\55.png' width = '156'height = '73.5'/>
+26. At about how many kilometers from the Toronto station does the Express pass the Local?
+F. 0        G. 50        H. 250         J. 450          K. 550
+27. Over which of the following time intervals is the Local going faster than the Express?
+Ⅰ. 12:00 P.M.-12:30 P.M.
+Ⅱ. 1:30 P.M.-3:30 P.M.
+Ⅲ. 4:00 P.M.-5:00 P.M.
+A. Ⅰ only   B. Ⅲ only    C. Ⅰ and Ⅱ only     D. Ⅱ and Ⅲ only      E. Ⅰ, Ⅱ, and Ⅲ
+28. One of the following gives the total amount of time that the Local spends at stops along the way. Which one is it?
+F. 1 hour 45 minutes         G. 2 hours 30 minutes         H. 2 hours 45 minutes
+J. 3 hours                  K. 3 hours 15 minutes
+29. In <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\56.png' width = '82.8'height = '35.1'/> below, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\57.png' width = '49.2'height = '32.7'/>is a right angle, the measure of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\58.png' width = '53.1'height = '35.1'/> is 30°, and <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\59.png' width = '51'height = '42.9'/> is 4 inches long. What is the length, in inches, of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\60.png' width = '49.2'height = '40.2'/>?
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\61.png' width = '49.2'height = '82.8'/>       B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\62.png' width = '43.5'height = '45.3'/>        C. 2          D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\63.png' width = '49.2'height = '82.8'/>        E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\64.png' width = '58.5'height = '45.3'/>
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\65.png' width = '111'height = '70.5'/>
+30. What is the slope of a line that is parallel to the line graphed below in the standard (x,y) coordinate plane?
+F. -4          G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\66.png' width = '49.2'height = '77.7'/>         H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\67.png' width = '28.5'height = '77.7'/>         J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\68.png' width = '28.5'height = '77.7'/>          K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\69.png' width = '28.5'height = '77.7'/>
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\70.png' width = '84.9'height = '132.9'/>
+31. The operation  is defined as “cube the number that is to the left of   and add the result to the number that is to the right of  .” What is the value of 2  (4  5)?
+A. 40       B. 77       C. 160       D. 640          E. 1,733
+32. For which of the following values of a will <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\71.png' width = '88.5'height = '92.7'/>represent a real number between -1 and 0?
+F. -2      G. -1         H. 0        J. 1        K. 2
+33. A surveyor wants to approximate a river’s width. As shown in the figure below, points A and C are located on the west bank of a river and point B is located on the east bank of the river such that <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\72.png' width = '88.5'height = '35.1'/> is a right angle. She measures and finds that the length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\73.png' width = '51'height = '42.9'/> is 54 meters and the measure of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\74.png' width = '88.5'height = '35.1'/> is 68°.
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\75.png' width = '133.5'height = '69.6'/>
+Given the trigonometric approximations in the tables below, which of the following is closest to the river’s width, in meters, represented by the length of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\76.png' width = '49.2'height = '42.9'/>?
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\77.png' width = '291'height = '67.2'/>
+A. 58       B. 108         C. 134          D. 136          E. 144
+34. The first term of an arithmetic sequence is 1. The common difference of the sequence is 2. What is the sum of the first 15 terms of this sequence?
+F. 29       G. 64         H. 210          J. 225       K. 450
+35. A cookbook recommends cooking a certain type of roast at 325°F for 50 minutes per pound of the roast’s weight. According to this recommendation, how long should a 5-pound roast of this type be cooked at 325°F.
+A. 2 hours 30 minutes         B. 2 hours 50 minutes           C. 4 hours 10 minutes
+D. 4 hours 17 minutes         F. 6 hours 0 minutes
+36. The integer a is 4 more than the positive integer b. The integer c is 4 less than b. The product of a and c is 84. What is the value of b?
+F. 6        G. 8          H. 10          J. 14          K. 42
+37. For what values of x is it true that<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\78.png' width = '112.8'height = '77.7'/>?
+A. No values         B. Only values between 0 and 2        C. Only values between 2 and 4
+D. Only values greater than 4                              E. All values
+38. For all<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\79.png' width = '67.8'height = '35.1'/>, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\80.png' width = '210.3'height = '65.4'/>
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\81.png' width = '75.3'height = '40.2'/>       G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\82.png' width = '75.3'height = '40.2'/>         H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\83.png' width = '75.3'height = '40.2'/>       J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\84.png' width = '94.2'height = '40.2'/>       K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\85.png' width = '94.2'height = '40.2'/>
+39. If x and y are positive integers and<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\86.png' width = '111'height = '40.2'/>, what is the least possible value of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\87.png' width = '67.8'height = '35.1'/>?
+A. 10      B. 9       C. 8           D. 7          E. 6
+40. The midpoints of the sides of the outer square shown below are the vertices of the inner square. Thus, the outer square is divided into 5 regions (the inner square and 4 right triangles). What is the ratio of the area of the inner square to the total area of the 4 right triangles?
+F. 1:1      G. 1:2          H. 2:1       J. 3:2           K. 4:1
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\88.png' width = '88.5'height = '84.6'/>
+41. The hexagon shown below has 6 sides of equal length. What is the sum of the measures of the interior angles in this hexagon?
+A. 900°      B. 720°       C. 540°      D. 360°         E. 120°
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\89.png' width = '111'height = '64.5'/>
+42. What is the least common multiple of 4, 6, and 8?
+F. 2        G. 8         H. 24          J. 48          K. 192
+43. What is the distance, in coordinate units, from (3,4) to (6,9) in the standard (x,y) coordinate plane?
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\90.png' width = '45.3'height = '42.9'/>        B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\91.png' width = '43.5'height = '45.3'/>         C.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\92.png' width = '56.7'height = '45.3'/>         D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\93.png' width = '58.5'height = '45.3'/>           E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\94.png' width = '60.3'height = '45.3'/>
+44. Jim makes the statement “If you have visited the White House, then you have been to Washington, D.C.” Which of the following statements is logically equivalent to Jim’s statement?
+F. You have visited the White House, or you have been to Washington, D.C.
+G. You have visited the White House, and you have been to Washington, D.C.
+H. If you have been to Washington, D.C., then you have visited the White House.
+J. If you have not visited the White House, then you have not been to Washington, D.C.
+K. If you have not been to Washington, D.C., then you have not visited the White House.
+45. In <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\95.png' width = '82.8'height = '35.1'/> below, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\96.png' width = '49.2'height = '32.7'/>measures 101°, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\97.png' width = '49.2'height = '32.7'/>measures 25°, and the length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\98.png' width = '49.2'height = '42.9'/> is 165 meters. To the nearest meter, what is the length of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\99.png' width = '51'height = '42.9'/>?
+(Note: The law of sines states that the lengths of the sides of a triangle are proportional to the sines of the opposite angels. Note also that sin101°=0.982 and sin25°=0.423.)
+A. 41      B. 54         C. 64        D. 71         E. 81
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\100.png' width = '111'height = '72.9'/>
+46. Which of the following expressions is equivalent to<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\101.png' width = '172.8'height = '40.2'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\102.png' width = '199.2'height = '50.4'/>        G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\103.png' width = '199.2'height = '50.4'/>          H. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\104.png' width = '193.5'height = '50.4'/>
+J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\105.png' width = '201'height = '50.4'/>        K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\106.png' width = '201'height = '50.4'/>
+47. When 2 chords of a circle intersect inside the circle, the product of the lengths of the 2 segments of one chord is equal to the product of the lengths of the 2 segments of the other chord. In the figure below, chords <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\107.png' width = '49.2'height = '40.2'/> and <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\108.png' width = '53.1'height = '42.9'/> intersect at I. The length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\109.png' width = '53.1'height = '42.9'/> is 12 inches. The length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\110.png' width = '41.7'height = '40.2'/> is 5 inches. The length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\111.png' width = '41.7'height = '40.2'/> is 4 inches. The length of <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\112.png' width = '43.5'height = '40.2'/> is less than the length of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\113.png' width = '41.7'height = '42.9'/>. What is the length, in inches, of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\114.png' width = '41.7'height = '42.9'/>?
+A. 3        B. 5          C. 7           D. 8            E. 10
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\115.png' width = '88.5'height = '81.9'/>
+48. Which of the following gives the range of numbers that are within 1.5 of the number<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\116.png' width = '28.5'height = '77.7'/>?
+F. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\117.png' width = '58.5'height = '77.7'/>to <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\118.png' width = '26.7'height = '77.7'/>    G. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\119.png' width = '58.5'height = '77.7'/>to <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\120.png' width = '37.8'height = '77.7'/>    H. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\121.png' width = '49.2'height = '77.7'/>to <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\122.png' width = '26.7'height = '77.7'/>     J. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\123.png' width = '49.2'height = '77.7'/>to <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\124.png' width = '37.8'height = '77.7'/>     K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\125.png' width = '22.8'height = '29.1'/>1 to 1
+49. In the standard (x,y) coordinate plane, <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\126.png' width = '82.8'height = '35.1'/>is isosceles with <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\127.png' width = '49.2'height = '40.2'/> congruent to<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\128.png' width = '51'height = '42.9'/>. Vertex B has coordinates (-3,0) and vertex C has coordinates (0,0). What is the x-coordinate of vertex A?
+A. -3      B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\129.png' width = '49.2'height = '77.7'/>      C. 0        D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\130.png' width = '28.5'height = '77.7'/>        E. 3
+50. A flowerpot fell from a windowsill. The graph below shows the distance, d feet, the flowerpot was above the ground t seconds after it fell. The graph shows that the flowerpot fell 16 feet (from d=256 to d=240) during the 1st second its fall and 48 feet (from d=240 to d=192) during the 2nd second of its fall. During which second of its fall, if any, was the average speed of the flowerpot, in feet per second, the greatest?
+(Note: The average speed of an object over a given interval of time is the distance it traveled during the interval divided by the length of the interval.)
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\131.png' width = '81'height = '127.5'/>
+F. 4th  G. 3rd  H. 2nd  J. 1st  K. None; the speed of the flowerpot was constant during its fall.
+51. Each of 6 historical events occurred in a different year. You are asked to arrange the 6 events in ascending order by the years they occurred. You know the earliest and the latest. You randomly order the other events. What is the probability that you order the 6 events correctly?
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\132.png' width = '56.7'height = '77.7'/>           B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\133.png' width = '53.1'height = '77.7'/>           C.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\134.png' width = '43.5'height = '77.7'/>          D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\135.png' width = '26.7'height = '77.7'/>           E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\136.png' width = '28.5'height = '77.7'/>
+52. Which of the following number line graphs shows the solution set for x of<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\137.png' width = '96'height = '40.2'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\138.png' width = '191.7'height = '39.3'/>       G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\139.png' width = '240.3'height = '41.4'/>        H. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\140.png' width = '223.5'height = '39.6'/>
+J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\141.png' width = '216'height = '38.1'/>      K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\142.png' width = '217.8'height = '39.3'/>
+53. Rectangle ABCD, shown below, is reflected over <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\143.png' width = '53.1'height = '42.9'/> and then rotated 180° clockwise around C. Which of the following shows the final orientation of ABCD?
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\144.png' width = '79.2'height = '90.6'/>
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\145.png' width = '71.7'height = '91.8'/>     B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\146.png' width = '73.5'height = '93.3'/>     C.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\147.png' width = '79.2'height = '97.8'/>      D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\148.png' width = '98.1'height = '72'/>     E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\149.png' width = '88.5'height = '64.2'/>
+54. The table below shows data from the 1990 U.S. Census.
+#####3
+If this information were presented as a circle graph, what would be the measure of the central angle of the sector representing those for whom the highest level of education attained is a high school diploma?
+F. 120°      G. 108°      H. 60°       J. 54°        K. 30°
+55. How many <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\150.png' width = '73.5'height = '50.4'/> pairs of real numbers satisfy <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\151.png' width = '81'height = '40.2'/> and<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\152.png' width = '161.7'height = '55.2'/>?
+A. 0       B. 1        C. 2        D. 4        E. Infinitely many
+56. In the standard <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\153.png' width = '73.5'height = '50.4'/> coordinate plane, what is the range of the function defined by the equation<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\154.png' width = '165.3'height = '50.4'/>?
+F.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\155.png' width = '141'height = '37.8'/>  G.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\156.png' width = '171'height = '40.2'/>  H.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\157.png' width = '131.7'height = '40.2'/>   J.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\158.png' width = '127.8'height = '40.2'/>    K. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\159.png' width = '131.7'height = '40.2'/>
+57. The Leaning Tower of Proville creates an 85° angle between itself and the level ground around the tower. The tower’s shadow is 100 feet long. If it can be determined, which of the following expressions gives the distance, in feet, from the top of the tower to the ground?
+A. 100 cos85°     B. 100 sin85°      C. 100 tan85°      D. 100 cot85°       
+E. Cannot be determined from the given information
+58. The 7 congruent circles shown in the figure below are centered at points A through G, and each circle has a circumference of 24π cm. Points A through F are equally spaced on the circumference of the circle centered at G. What is the sum of the lengths, in centimeters, of the 6 thicker arcs<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\160.png' width = '506.7'height = '65.4'/>?
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\161.png' width = '88.5'height = '81.6'/>
+F. 48π       G. 72π       H. 96π       J. 144π        K. 288π
+59. Which of the following is an equation of the ellipse graphed below?
+A.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\162.png' width = '154.2'height = '45.3'/>  B.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\163.png' width = '146.7'height = '82.8'/>  C.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\164.png' width = '141'height = '82.8'/>  D.<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\165.png' width = '146.7'height = '82.8'/>  E. <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\166.png' width = '141'height = '82.8'/>
+<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\167.png' width = '88.5'height = '90.3'/>
+60. If x and y are real numbers such that <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\168.png' width = '124.2'height = '35.1'/> and<img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\169.png' width = '112.8'height = '35.1'/>, then the minimum value for <img src='file:\$$$\resources\2005 Dec 63C.doc\imgs\170.png' width = '30.3'height = '82.8'/> is:
+F. 0      G. 1         H. 2         J. 3        K. 6
+

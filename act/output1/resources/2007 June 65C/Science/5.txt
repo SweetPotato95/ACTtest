@@ -1,0 +1,62 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿Students studied the photodecomposition (breakdown by light) of p-nitrophenol (a toxic pollutant) in wastewater. They measured the concentration of p-nitrophenol (in parts per million. ppm) in wastewater samples during exposure to various lighting conditions. Titanium dioxide (<img src='file:\$$$\resources\2007 June 65C\imgs\228.png' width = '55'height = '38'/>) and/or hydrogen peroxide (<img src='file:\$$$\resources\2007 June 65C\imgs\229.png' width = '61'height = '38'/>) were added to some samples at the start of exposure (time = 0 min). <img src='file:\$$$\resources\2007 June 65C\imgs\230.png' width = '55'height = '38'/>and <img src='file:\$$$\resources\2007 June 65C\imgs\231.png' width = '61'height = '38'/> composition reactions. The results of 3sets of experiments are shown in Figures l-3.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\232.png' width = '649'height = '496'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: For the 2 samples exposed to sunlight, the intensity of the sunlight was the same.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure l</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\233.png' width = '630'height = '515'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 June 65C\imgs\234.png' width = '614'height = '496'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: All 3 samples were exposed to the same intensity of sunlight.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from J. A. Herrera-Melian et al., *Solar Photocatalytic Destruction of p-Nitrophenol: A Pedagogical Use of Lab Wastes." ©2001 by Division of Chemical Education, Inc., American Chemical Society.</div>
+
+<br>
+###################
+<div class = "quiz">23. According to Figure l,60 min after <img src='file:\$$$\resources\2007 June 65C\imgs\235.png' width = '55'height = '38'/> was added to the wastewater sample that was NOT exposed to sunlight, the concentration of p-nitrophenol was closest to which of the following?
+<div class = "choice">A. 0.00 ppm</div>
+<div class = "choice">B. 0.20 ppm</div>
+<div class = "choice">C. 2.50 ppm</div>
+<div class = "choice">D. 2.70 ppm</div>
+</div>
+###################
+<div class = "quiz">24. According to Figure l, for the sample that contained <img src='file:\$$$\resources\2007 June 65C\imgs\236.png' width = '55'height = '38'/> and was exposed to sunlight, the greatest amount of p-nitrophenol decomposed during which of the following time intervals?
+<div class = "choice">F. From 0 min to 30 min</div>
+<div class = "choice">G. From 30 min to 90 min</div>
+<div class = "choice">H. From 90 min to 150 min</div>
+<div class = "choice">J. From 150 min to 180 min</div>
+</div>
+###################
+<div class = "quiz">25. For which of the 3 figures did all of the wastewater samples studied have the same initial p-nitrophenol concentration?
+<div class = "choice">A. Figure l only</div>
+<div class = "choice">B. Figure 2 only</div>
+<div class = "choice">C. Figure 3 only</div>
+<div class = "choice">D. Figures l, 2, and 3</div>
+</div>
+###################
+<div class = "quiz">26. Based on the information in the passage, which of the following best describes and explains the results shown in Figure 2? As time increased from 0 min to 180 min. the concentration of p-nitrophenol in the 3 samples:
+<div class = "choice">F. decreased, because the p-nitrophenol changed from a liquid to a gas.</div>
+<div class = "choice">G. decreased, because the p-nitrophenol molecules broke down to form other substances.</div>
+<div class = "choice">H. increased, because the p-nitrophenol changed from a liquid to a gas:</div>
+<div class = "choice">J. increased, because .the p-nitrophenol molecules broke down to form other substances.</div>
+</div>
+###################
+<div class = "quiz">27. A chemist claimed that adding <img src='file:\$$$\resources\2007 June 65C\imgs\237.png' width = '61'height = '38'/> to wastewater containing p-nitrophenol will cause the p-nitrophenol to decompose in the absence of light. Do the results from any of the figures confirm her claim?
+<div class = "choice">A. Yes; according to Figure l, the p-nitrophenol concentration only decreased in the sample containing <img src='file:\$$$\resources\2007 June 65C\imgs\238.png' width = '61'height = '38'/> tested in the absence of light.</div>
+<div class = "choice">B. Yes; according to Figure 3, the p-nitrophenol concentration only decreased in the sample containing<img src='file:\$$$\resources\2007 June 65C\imgs\239.png' width = '61'height = '38'/>.</div>
+<div class = "choice">C. No; according to Figure l, the p-nitrophenol concentration only decreased in the sample containing <img src='file:\$$$\resources\2007 June 65C\imgs\240.png' width = '61'height = '38'/> tested in the absence of light.</div>
+<div class = "choice">D. No; according to Figures l-3, no samples containing <img src='file:\$$$\resources\2007 June 65C\imgs\241.png' width = '61'height = '38'/> were tested in the absence of light.</div>
+</div>
+###################

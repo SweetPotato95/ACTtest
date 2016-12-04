@@ -1,0 +1,124 @@
+﻿
+<h1>Fragile Contents</h1>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The book arrived in a disappointing package. It was small and narrow, wrapped in plain brown paper. My mother's faint <font id=1>handwriting</font> covered the outside. Fragile, she <font id=2>writes</font> next to my address and along each of the <font id=3>sides</font>, I wasn't sure, for a moment. whether she meant to warn the postal workers or me. We had waited years for the publication of this <font id=4>book</font> there were very few copies. It had taken months for me to convince my mother to send me hers. The contents of this package were indeed <font id=5>fragile, I thought,</font> but not in any of the expected ways.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">It was a handbook of the Miami <font id=6>language. Published</font> by the Miami Nation of Oklahoma.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=7>It seemed too small, too light, to contain the building blocks of an entire language, one that had lain dormant for me for over thirty years.</font> In fact, only a few of the oldest members of the tribe remember speaking the language at all. I had expected something larger and heavier, as substantial as my webster's Dictionary. <font id=8>A folded note from my mother was tucked between the pages.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">I <font id=9>glanced and looked</font> through the pages. Then I read about the different parts of speech, about Miami vowels and consonants. However, it was when I began pronouncing the words to <font id=10>myself;</font> that I felt the true weight of the book. As I spoke, I was immediately overwhelmed with images of my great-grandfather. I remembered the way he <font id=11>is used to</font> read to me when I was very young. He would point to the pictures in my <font id=12>storybooks, and</font> giving things their Miami names. I remembered him pointing to a tree. a cloud, a dog. and naming them in the Miami language. giving them back to me in the <font id=13>language of his own childhood.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">After he died, it was a language I never heard again-<font id=14>nonetheless</font>, until I heard myself struggling with the words he <font id=15>would use</font> so easily all those years ago, his voice coming back as vividly as if he were next to me once again, pointing to the page, guiding me.</div>
+
+<br>
+###################
+<div class = "quiz">1.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. handwriting, which she did right-handed,</div>
+<div class = "choice">C. right-handed handwriting,</div>
+<div class = "choice">D. writing, using her right hand,</div>
+</div>
+###################
+<div class = "quiz">2.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. were to write</div>
+<div class = "choice">H. had it written</div>
+<div class = "choice">J. had written</div>
+</div>
+###################
+<div class = "quiz">3.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. sides</div>
+<div class = "choice">C. sides as</div>
+<div class = "choice">D. sides.</div>
+</div>
+###################
+<div class = "quiz">4.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. book, and</div>
+<div class = "choice">H. book, which</div>
+<div class = "choice">J. book, of that</div>
+</div>
+###################
+<div class = "quiz">5.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. fragile, I thought</div>
+<div class = "choice">C. fragile, I thought</div>
+<div class = "choice">D. fragile, I thought,</div>
+</div>
+###################
+<div class = "quiz">6.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. language; published</div>
+<div class = "choice">H. language, published</div>
+<div class = "choice">J. language that they published</div>
+</div>
+###################
+<div class = "quiz">7.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. Too small, too light, it seemed to have lain dormant for me for over thirty years, one that contained the building blocks of an entire language.</div>
+<div class = "choice">C. Containing the building blocks of an entire language that for me seemed too small, too light, it had lain dormant for over thirty years.</div>
+<div class = "choice">D. Seemingly lying dormant for me for over thirty years, the building blocks, too light, too small, were of an entire language.</div>
+</div>
+###################
+<div class = "quiz">8. Given that all the choices are true, which one would most effectively illustrate the difference between the writer's expectations of the book and its actual appearance?
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. Instead, the Miami handbook rested comfortably in the palm of my hand.</div>
+<div class = "choice">H. In fact. it lacked a paper jacket to protect the cover.</div>
+<div class = "choice">J. These pages contained important cultural history.</div>
+</div>
+###################
+<div class = "quiz">9.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. was looking and glancing.</div>
+<div class = "choice">C. glanced</div>
+<div class = "choice">D. glanced. looking</div>
+</div>
+###################
+<div class = "quiz">10.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. myself</div>
+<div class = "choice">H. myself-</div>
+<div class = "choice">J. myself.</div>
+</div>
+###################
+<div class = "quiz">11.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. used to</div>
+<div class = "choice">C. use to</div>
+<div class = "choice">D. used a</div>
+</div>
+###################
+<div class = "quiz">12.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. storybooks and</div>
+<div class = "choice">H. storybooks, then</div>
+<div class = "choice">J. storybooks.</div>
+</div>
+###################
+<div class = "quiz">13. At this point in the essay, the writer wants to suggest the significance that the Miami language held for her great-grandfather. Given that all the choices are true, which one would best accomplish that purpose?
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. voice I remembered.</div>
+<div class = "choice">C. Miami language.</div>
+<div class = "choice">D. words chat were so hard for me to understand.</div>
+</div>
+###################
+<div class = "quiz">14.
+<div class = "choice">F. NO CHANGE</div>
+<div class = "choice">G. furthermore,</div>
+<div class = "choice">H. because,</div>
+<div class = "choice">J. that is,</div>
+</div>
+###################
+<div class = "quiz">15.
+<div class = "choice">A. NO CHANGE</div>
+<div class = "choice">B. would</div>
+<div class = "choice">C. would of used</div>
+<div class = "choice">D. had used</div>
+<br>
+</div>
+###################

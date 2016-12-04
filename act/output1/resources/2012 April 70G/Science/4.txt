@@ -1,0 +1,81 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists investigated the effect of ultraviolet-B radiation (UV-B) on the eggs of 3 species of amphibians: Hyla regilla, Rana cascadae, and Bufo boreas. H. regilla populations are stable, but R. cascadae and B. boreas populations are declining.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment I</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">First, 1,800 newly laid eggs of H. regilla were collected from a high mountain lake. Next, 150 of the eggs were placed in each of 12 artificial enclosures: 4 that were covered with a filter, FB, that blocked UV-B; 4 that were covered with a filter, FT. that transmitted UV-B; and 4 that were not covered with any filter. Then, a set of these 3 types of enclosures was placed in the lake at each of 4 sites. All of the above procedures were repeated for the other 2 species. The enclosures were monitored until all the eggs had either hatched or died. The percent of total eggs that hatched for each species and type of enclosure is shown in Figure l.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\158.png' width = '661'height = '714'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Additional B. boreas eggs were collected and divided into 8 groups (Groups l-8), each containing 30 eggs. Group 1 was not exposed to UV-B. Groups 2-8 were each exposed to a sing/e dose of UV-B between 820 joules per square meter (<img src='file:\$$$\resources\2012 April 70G\imgs\159.png' width = '68'height = '44'/>) and 4,100<img src='file:\$$$\resources\2012 April 70G\imgs\160.png' width = '68'height = '44'/> (see Table l). The percent of eggs that were surviving in each group was recorded each day for l0 days (see Figure 2).</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:420.5pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:227.7pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">Group</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">UV-B dose(J/m<sup>2</sup>)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:227.7pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">8</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">0</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">820</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1,368</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">1,915</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">2,460</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">2,730</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">3,550</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt">4,100</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\161.png' width = '661'height = '642'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table l and Figure 2 adapted from J. Herkovits, J. L. D'Eramo, and O. Fridman, "The Effect of UV-B Radiation on Bufo arenarum Embryos Survival and Superoxide Dismutase Activity." 2006 by MDPI.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Experiment 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">UV-B damages cells by causing cyclobutane pyrimidine dimers (CBPDs) to be produced in their DNA. Photolyase is an enzyme found in some cells that repairs DNA by removing CBPDs. The photolyase activity (the rate at which CBPDs are removed from DNA) present in the eggs of each of the 3 species was recorded (see Figure 3).</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2012 April 70G\imgs\162.png' width = '661'height = '634'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures l and 3 adapted from Andrew R. Blaustein et al., "UV Repair and Resistance to Solar UV-B in Amphibian Eggs: A Link to Population Declines?" 1994 by the National Academy of Sciences of the United States of America.</div>
+
+<br>
+###################
+<div class = "quiz">18. According to the results of Experiment 2, for which of the following groups did the percent of eggs surviving decrease more over the first day after exposure than over any subsequent day after exposure?
+<div class = "choice">F. Group 2</div>
+<div class = "choice">G. Group 4</div>
+<div class = "choice">H. Group 5</div>
+<div class = "choice">J. Group 7</div>
+</div>
+###################
+<div class = "quiz">19. According to the results of Experiment 2, as the dose of UV-B increased from 820 <img src='file:\$$$\resources\2012 April 70G\imgs\163.png' width = '65'height = '40'/> to 4,100<img src='file:\$$$\resources\2012 April 70G\imgs\164.png' width = '65'height = '40'/>, how did the percent of B. boreas eggs that were surviving 10 days after UV-B exposure vary with dose?
+<div class = "choice">A. Increased only</div>
+<div class = "choice">B. Decreased only</div>
+<div class = "choice">C. Increased, then decreased</div>
+<div class = "choice">D. Decreased, then increased</div>
+</div>
+###################
+<div class = "quiz">20. According to the results of Experiment l, eggs of which of the 3 species suffered less than 5% mortality when exposed to UV-B ?
+<div class = "choice">F. H. regilla only</div>
+<div class = "choice">G. H. regilla and B. boreas only</div>
+<div class = "choice">H. R. cascadae and B. boreas only</div>
+<div class = "choice">J. H. regilla, R. cascadae, and B. boreas</div>
+</div>
+###################
+<div class = "quiz">21. Based on the results of Experiment 3, did H. regilla or B. boreas exhibit a greater rate of removal of CBPDs ?
+<div class = "choice">A. H. regilla, because the photolyase activity was lower for H. regitla than for B. boreas.</div>
+<div class = "choice">B. H. regilla, because the photolyase activity was higher for H. regilla than for B. boreas.</div>
+<div class = "choice">C. B. boreas, because the photolyase activity was lower for B. boreas than for H. regilla.</div>
+<div class = "choice">D. B. boreas, because the photolyase activity was higher for B. boreas than for H. regitla.</div>
+</div>
+###################
+<div class = "quiz">22. Following the experiment, the scientists wanted to calculate how many more B. boreas eggs hatched in enclosures with FBs than in enclosures with no filters. Based on the results of Experiment l, which of the following expressions gives this number?
+<div class = "choice">F. (0.90÷600)+(0.60÷600)</div>
+<div class = "choice">G. (0.90×600)-(0.60×600)</div>
+<div class = "choice">H. (0.90-600)×(0.60-600)</div>
+<div class = "choice">J. (0.90+600)÷(0.60+600)</div>
+</div>
+###################
+<div class = "quiz">23. A scientist suggested that the decline in some amphibian populations Js caused by an increase in UV-B exposure. Experiment l provided which of the following pieces of evidence in support of this hypothesis? F or R. cascadae and B. boreas the percent hatched was:
+<div class = "choice">A. greater for enclosures with FBs than for enclosures with FTs, whereas for H. regilla the percent hatched for enclosures with FBs was the same as for enclosures with FTs.</div>
+<div class = "choice">B. less for enclosures with FBs than for enclosures with FTs. whereas for H. regilla the percent hatched for enclosures with FBs was the same as for enclosures with FTs.</div>
+<div class = "choice">C. the same for enclosures with FBs as for enclosures with FTs, whereas for H. regilla the percent hatched was greater for enclosures with FBs than for enclosures with FTs.</div>
+<div class = "choice">D. the same for enclosures with FBs as for enclosures with FTs, whereas for H. regilla the percent hatched was Jess for enclosures with FBs than for enclosures with FTs.</div>
+<br>
+</div>
+###################

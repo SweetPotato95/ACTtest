@@ -1,0 +1,78 @@
+package act.View;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
+
+import javax.swing.BoxLayout;
+import javax.swing.JDialog;
+import javax.swing.JEditorPane;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+import javax.swing.JTextPane;
+import javax.swing.border.LineBorder;
+import javax.swing.table.DefaultTableModel;
+
+import act.Model.AnswerModel;
+import act.Model.ModelConstants;
+
+public class ScoreListViewCellDetailWriting extends JDialog{
+ /**
+	 * 
+	 */
+ private static final long serialVersionUID = -6275845889135880243L;
+ JPanel maincontent = new JPanel();
+ JPanel mainPanel = new JPanel(); 
+ PassagePane pa = new PassagePane();
+ JScrollPane scrollPane;
+ //JPanel centerPanel = new JPanel();
+ JTextPane textPane = new JTextPane();
+ JLabel scoreLabel = new JLabel();
+ public ScoreListViewCellDetailWriting(int x,int y){
+	 maincontent.setSize(ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH,ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT);
+	 maincontent.setPreferredSize(new Dimension((int)Math.floor(0.7*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 (int)Math.floor(0.7*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+	 maincontent.setBorder(new LineBorder(Color.black));
+  setBounds(x,y,ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH,ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT);
+  this.setVisible(true);
+  this.setLayout(new BorderLayout());
+  this.add(mainPanel,BorderLayout.CENTER);
+  BoxLayout thislayout = new BoxLayout(maincontent,BoxLayout.Y_AXIS);
+  maincontent.setLayout(thislayout);
+  mainPanel.setLayout(new FlowLayout());
+  mainPanel.add(maincontent);
+ }
+ 
+ public void init(){
+	 //pa.init((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 //(int)Math.floor(0.7d*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT));
+	 textPane.setContentType("text/html");
+	 textPane.setText("<html><body>hahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasdhahaasdasd</body></html>");
+	 //textPane.setMaximumSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),1000));
+	 /*textPane.setSize(new Dimension((int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 (int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+	 textPane.setPreferredSize(new Dimension((int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 (int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));*/
+	 scrollPane = new JScrollPane(textPane,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+	 //scrollPane.setSize(new Dimension((int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 //(int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+	 scrollPane.setPreferredSize(new Dimension((int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 (int)Math.floor(0.5*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+	 
+	 scrollPane.setVisible(true);
+	 scoreLabel.setText("Writing Score:0.you stupid!");
+	 scoreLabel.setPreferredSize(new Dimension((int)Math.floor(0.9*ViewConstants.SCORE_LIST_VIEW_DETAIL_WIDTH),
+			 (int)Math.floor(0.1*ViewConstants.SCORE_LIST_VIEW_DETAIL_HEIGHT)));
+	 pa.setText("Fuckydddddddddddddou");
+	 maincontent.add(scoreLabel);
+	 maincontent.add(scrollPane);
+	 
+	 
+ }
+  
+ 
+}
+
+

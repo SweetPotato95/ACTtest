@@ -1,0 +1,106 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article "How Cicadas Make Their Noise" by Henry C. Bennet-Clark (?1998 by Scientific American, Inc.).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The early dusk of late spring can be quite a noisy time, Every year some of the several thousand species of cicada emerge from underground, and the males begin to sing their raucous, almost deafening, song. Among these virtuosos of the insect realm, the males of one species of Australian cicada are distinguished for having the loudest insect call measured so far.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>Cicadas are plant-sucking bugs. related most closely to aphids and leafhoppers. They are large-and noisy-for insects that feast on sap: the smallest are 10 millimeters (just under half an inch) long, the largest 100 millimeters (four inches). Female cicadas lay their eggs in the stems of plants or in trees. Later, the newly hatched young drop to the ground and burrow in search of plant roots to tap. They remain underground throughout their larval life, which can last many years; the 13-and 17-year life cycles of the American periodic cicadas are among the longest. When the larvae emerge, they molt into winged adults and then live for only a few weeks. During this time, the males sing to attract mates.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Why the insects' calling song is so loud is not entirely understood. One possibility is that the sound may saturate the ears of predators, making it hard to locate the cicada precisely. Or it may be that larger cicadas have a larger home range and need to call louder to attract a mate. We do know that the females are not hard of hearing: they hear just fine with thresholds of 30 to 40 decibels. And it is quite likely that female cicadas can discriminate between males on the basis of song quantity and quality. just as female crickets do.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The key to understanding how the males make their powerful noise lies in isolating the different aspects of the sound-production mechanism. The primary equipment is a pair of domed tymbals, or drum-like structures, that sit on either side of the abdomen. Each of these elastic, <font id=39>resonant organs</font> has a row of four convex ribs that runs longitudinally up and clown its surface. These ribs are flexibly connected to one another as well as to a large oval plate at the rear of the tymbal.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Attached to each oval tymbal plate, in turn, is a large, fast muscle. The contraction of these muscles distorts the domed tymbals, creating a pulse of sound.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Because they contract so rapidly. the muscles produce enough energy in the first three milliseconds of each contraction to cause two or three of the curved ribs on each tymbal to buckle in sequence. This motion causes two or three stepwise inward movements of the oval plate. The scored elastic energy released during these stepwise movements produces a brief, loud click as the individual ribs buckle. This series of clicks merges to form a train of vibrations at the cicada's song frequency.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=31>A click from the rib of a tymbal produces high sound pressures within the cicada's abdomen. In most species of cicada, this region is filled largely by an air sac. The abdomen contains a pair of thin eardrums that extend the full width of the ventral surface and serve as acoustic windows, connecting the air sac to the outside world.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The high-pressure sound pulses produced by the tymbals and ribs create a sympathetic resonance in the abdominal air sac. Because the eardrums are larger than the tymbals, they serve as an effective means of radiating the sound beyond the body-causing it to be about 20 rimes louder than if the sound were to emanate simply from the tiny tymbals. Thus, the insect manages to broadcast over a far greater range.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although sound is <font id=35>radiated via the eardrums, the sensory part of the male ear is in a separate capsule, connected to the eardrum by way of a small canal. This separation may protect the males, preventing them from going deaf.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The abdomen and eardrums do more, though. Than simply throw the sound into the world. They serve to maintain the quality of the all-important mating song. By extending the abdomen and by opening the opercula that cover the eardrums, the cicada can tune the abdominal resonator to the frequency of the sound pulses produced by the tymbals. The abdominal structures can therefore increase the purity or the loudness of the song. They act as what is called in musical terminology a resonant acoustic load to the tymbals-that is, they correct and balance the sound system.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">A similar mechanism seems to occur in many other species of cicada, and related sound-production systems have been described in other loud insects as well. Yet to the best of our knowledge, the males of this Australian cicada species remain the noisiest insects around.</div>
+
+<br>
+###################
+<div class = "quiz">31. Compared to the language of the first paragraph, the language of the seventh paragraph (lines 56-62) is more:
+<div class = "choice">A. informal.</div>
+<div class = "choice">B. technical.</div>
+<div class = "choice">C. vague.</div>
+<div class = "choice">D. judgmental.</div>
+</div>
+###################
+<div class = "quiz">32. Which of the following questions is NOT answered by the passage?
+<div class = "choice">F. How much time passes between the moment a female cicada lays an egg and when the egg hatches?</div>
+<div class = "choice">G. Where do cicadas spend the larval phase of their lives?</div>
+<div class = "choice">H. Where in relation to a cicada's abdomen are its domed tymbals and oval place?</div>
+<div class = "choice">J. What causes the ribs on a cicada's tymbal to buckle?</div>
+</div>
+###################
+<div class = "quiz">33. It is most reasonable to infer from the passage that cicadas in their larval stage obtain nourishment in the form of:
+<div class = "choice">A. sap from plant roots.</div>
+<div class = "choice">B. nutrients from the stems of plants.</div>
+<div class = "choice">C. protein from ocher insects.</div>
+<div class = "choice">D. berries and nectar from plants.</div>
+</div>
+###################
+<div class = "quiz">34. The primary purpose of the second paragraph (lines 8-21) is to:
+<div class = "choice">F. compare the sound-producing mechanism of cicadas to that of leafhoppers.</div>
+<div class = "choice">G. establish what distinguishes American cicadas from Australian cicadas.</div>
+<div class = "choice">H. provide an overview of the characteristics and life cycle of cicadas.</div>
+<div class = "choice">J. explain the role cicadas play in maintaining the various ecosystems they inhabit around the globe.</div>
+</div>
+###################
+<div class = "quiz">35. As it is used in line 71, the word radiated most nearly means:
+<div class = "choice">A. purified.</div>
+<div class = "choice">B. broadcast.</div>
+<div class = "choice">C. rounded.</div>
+<div class = "choice">D. detected.</div>
+</div>
+###################
+<div class = "quiz">36. Which of the following statements about the noise levels produced by cicadas is supported by the passage?
+<div class = "choice">F. The longer a cicada stays underground to develop, the more complex its sound-producing mechanism is.</div>
+<div class = "choice">G. Compared to Australian cicadas, American cicadas are louder in the spring and quieter in the summer.</div>
+<div class = "choice">H. The males of one species of Australian cicada are believed to be the loudest of all insects.</div>
+<div class = "choice">J. Female cicadas adjust the volume of their sound to the same level as chat of their maces.</div>
+</div>
+###################
+<div class = "quiz">37. The passage states that cicadas are most closely related to:
+<div class = "choice">A. aphids and leafhoppers.</div>
+<div class = "choice">B. crickets and leafhoppers.</div>
+<div class = "choice">C. crickets and dragonflies.</div>
+<div class = "choice">D. dragonflies and aphids.</div>
+</div>
+###################
+<div class = "quiz">38. Which of the following ideas is clearly presented in the passage as theory and not fact?
+<div class = "choice">F. The high-pressure sound pulses produced by the tymbals and ribs create a sympathetic resonance in the abdominal air sac.</div>
+<div class = "choice">G. The cicada's abdominal structures can increase the purity or the loudness of the cicada's song.</div>
+<div class = "choice">H. The female is not hard of hearing, so it is not because of any deafness on her part that the male sings loudly.</div>
+<div class = "choice">J. The calling song of the cicada is so loud that it saturates the ears of predators, making it difficult for the predators to locate the cicada.</div>
+</div>
+###################
+<div class = "quiz">39. The term resonant organs (line 38) refers to what part of a cicada?
+<div class = "choice">A. Eardrums</div>
+<div class = "choice">B. Tymbals</div>
+<div class = "choice">C. Oval plates</div>
+<div class = "choice">D. Air sacs</div>
+</div>
+###################
+<div class = "quiz">40. Which of the following statements best reflects the information provided in the passage about the size of the cicada's eardrums and tymbals and the effect this has on the sound of a cicada?
+<div class = "choice">F. The eardrums and the tymbals are the same size, which allows their sounds to be in tune.</div>
+<div class = "choice">G. Larger than the tymbals, the eardrums amplify the sound made by the tymbals by about twenty times.</div>
+<div class = "choice">H. The eardrums and the tymbals both collapse and expand dramatically as sound-producing muscles force air through chem.</div>
+<div class = "choice">J. Species of cicadas whose tymbals are as large as their eardrums are louder than species for whom this is not the case.</div>
+
+###################

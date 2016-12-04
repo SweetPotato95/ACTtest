@@ -180,6 +180,10 @@ public class readText {
 				if (tmpstring.startsWith("<h1>")){
 					passage += tmpstring;
 				}
+				if (tmpstring.startsWith("?<div class = \"para\"")){
+					String s = tmpstring.substring(1);
+					passage += s;
+				}
 				if (tmpstring.startsWith("<div class = \"para\"")){
 					passage += tmpstring;
 				}

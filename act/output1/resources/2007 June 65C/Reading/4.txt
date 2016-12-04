@@ -1,0 +1,97 @@
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">NATURAL SCIENCE: This passage is adapted from the article "Is There Life on Other Planets?' by Victoria Pope (© 2002 by U.S. News and World Report, Inc.).</div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The search for life on other planets is a quest of vast intrinsic interest but of extreme difficulty in practice. Its root logic, though, is simple enough: If life was brewed on the planet Earth in a primordial soup of chemicals 4 billion to 4.5 billion years ago, why shouldn't it have happened on at least one other planet in the universe, too? Astronomers calculate that hundreds of millions of Earth-like planets must exist throughout the universe.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><font id=34>Early space exploration didn't turn up lire. When NASA's Viking landers examined Mars two decades ago, they found a dry, sterile environment. Venus was a blazing inferno. It was only the images from the Galileo spacecraft that raised a slight hope of finding suitable conditions for life elsewhere in our solar system: Jupiter's moon Europa appeared to have an ocean of liquid water covered with pack ice.</font></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Scientists who are skeptical about life's having arisen elsewhere have had a strong case, given the precise conditions that seemed essential for life to develop and survive. Planets that are too small cannot retain an atmosphere at all. Those coo large turn into gas balls, Like Jupiter. Those that are too hot or too cold have no liquid water. And without water, the chemical process of photosynthesis, which converts sunlight into chemical energy, is impossible. Without an atmosphere of oxygen, the chemical reactions that allow a cell to extract energy from other chemicals cannot normally run, either.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">But recent findings from our own plan et have led scientists to wonder if they've taken too <font id=37>parochial</font> a view of life. Microbes have been discovered thriving under circumstances once thought impossible: in volcanic vents, in hot springs, in geysers. Antarctica's rocks, the cold waters deep beneath the surface of its frozen lakes, and the subterranean ground water below the basalt flows of Washington State's Columbia River Basin may harbor terrestrial models for the rise of life on Mars and other planets. And some tantalizing, if still highly controversial, evidence from Mars at least hints that some similar forms of life may indeed have arisen there, even if they subsequently died out. A Martian meteorite found in Antarctica contains microscopic wormlike structures, dating from at least 3.6 billion years ago, that resemble fossilized bacterial forms found on Earth.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The earthly microbes that seem to defy the odds are members of a category loosely called "extremophiles." Among their hardy ranks are the thermophiles, which thrive in searing heat; the halophiles, which love salt; and the barophiles, bacteria often found in the deep sea that live under high pressure.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Evidence of life in inhospitable environments began to pile up in recent years as highly sensitive gene-sequencing techniques made it possible to identify microorganisms that wouldn't grow in petri dishes in the lab. Before these techniques were available, scientists were able to examine only about l percent of the real microbial population. New exploration technologies have helped, too. Deep-diving submarines found "cryptoendolithic" ("hiding within rock") organisms whose metabolism is driven by neat from a geothermal source.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Although the issue is highly contentious, some researchers argue that many of these microbes belong to a distinct and previously unrecognized branch of life. Supporters of this idea say that these one-cell throwbacks, now dubbed "archaea" are genetically different from bacteria and appear to be the oldest life forms on Earth. If that's so, it means that life did not necessarily need some warm, hospitable primordial soup to form but could have originated in a far greater range of environments-including some downright hostile ones.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">One of the first Martian rocks to be analyzed by the rover from NASA's Pathfinder spacecraft appears to be andesite, a type of lava found in the Columbia Basin, an area some view as an apt <font id=39>geological analog</font> to Mars. Scientists are especially on the lookout for any rocks that show signs of water deposits that could have supported life. And microbiologists are hoping to find direct traces of archaealike microbes under the surface of Mars to support the idea that Martian lift could have existed on the surface and then retreated underground-just like earthly microorganisms found in the volcanic vents, salt mines, and other hard-to-take environments. Guided by what they know from our planer, researchers now have their eyes set on a costly and complex mission: drilling into the Martian permafrost, which could yield the firmest answers yet about the origins of life.</div>
+
+<br>
+###################
+<div class = "quiz">31. With regard to the possibility of finding life on other planets, information presented in the passage makes it clear that the author is:
+<div class = "choice">A. intrigued but cynical.</div>
+<div class = "choice">B. frustrated but determined.</div>
+<div class = "choice">C. optimistic but practical.</div>
+<div class = "choice">D. hopeful but impatient.</div>
+</div>
+###################
+<div class = "quiz">32. Which of the following statements most accurately summarizes how the passage characterizes the current state of scientific knowledge about the origins of life?
+<div class = "choice">F. New evidence is misunderstood because today's technology is inadequate.</div>
+<div class = "choice">G. Long-held assumptions are being challenged by new evidence.</div>
+<div class = "choice">H. Once-competing theories are now merging due to conclusive evidence found on other planets.</div>
+<div class = "choice">J. Recent findings are providing concrete support for scientists who are skeptical of the possibility</div>
+</div>
+###################
+<div class = "quiz">33. Based on the passage, recent discoveries made on which two planets have led some scientists to broaden theories about e life could have originated?
+<div class = "choice">A. Jupiter and Venus</div>
+<div class = "choice">B. Venus and Mars</div>
+<div class = "choice">C. Mars and Earth   .</div>
+<div class = "choice">D. Earth and Jupiter</div>
+</div>
+###################
+<div class = "quiz">34. The main point of the second paragraph (lines 10-17) is that:
+<div class = "choice">F. space technology has progressed greatly in two decades.</div>
+<div class = "choice">G. images from space are difficult for scientists to interpret.</div>
+<div class = "choice">H. space exploration for finding life should be expanded beyond our solar system.</div>
+<div class = "choice">J. early exploration of other planets had offered little hope for finding life.</div>
+</div>
+###################
+<div class = "quiz">35. The passage indicates that if scientists can show that archaea are different from all ocher forms of life, it will prove that life:
+<div class = "choice">A. arose when bacteria first developed in a primordial soup.</div>
+<div class = "choice">B. arose when photosynthesis first occurred in microorganisms.</div>
+<div class = "choice">C. could only have emerged under one set of precise conditions.</div>
+<div class = "choice">D. could have emerged under a fairly broad range of conditions.</div>
+</div>
+###################
+<div class = "quiz">36. According to the passage, some early evidence of conditions suitable for life on other planets was found when:
+<div class = "choice">F. Galileo sent back images of Europa.</div>
+<div class = "choice">G. Viking landers examined the surface of Mars.</div>
+<div class = "choice">H. Columbia rook pictures of Jupiter.</div>
+<div class = "choice">J. pathfinder took atmospheric readings of Venus.</div>
+</div>
+###################
+<div class = "quiz">37.As it is used in line 31, the word parochial most nearly means:
+<div class = "choice">A. private.</div>
+<div class = "choice">B. religious.</div>
+<div class = "choice">C. narrow.</div>
+<div class = "choice">D. spiritual.</div>
+</div>
+###################
+<div class = "quiz">38. According to the passage, extremophiles include microbes char:
+<div class = "choice">F. live in very hot, salty, or highly pressurized environments.</div>
+<div class = "choice">G. have life spans twice as long as average microorganisms.</div>
+<div class = "choice">H. live in very dry, sterile environments without oxygen or liquid water.</div>
+<div class = "choice">J. have been thriving recently due to changes in Earth's atmosphere.</div>
+</div>
+###################
+<div class = "quiz">39. It can reasonably be inferred that as it is used in line 77, the term geological analog directly refers to an area on Earth where:
+<div class = "choice">A. fossilized microorganisms are found in rocks, as if frozen in time.</div>
+<div class = "choice">B.NASA installs and tests equipment before moving it to other planets.</div>
+<div class = "choice">C. rock and mineral layers contain bits of meteorites from other planets.</div>
+<div class = "choice">D. rock and mineral layers are similar to those on another planet.</div>
+</div>
+###################
+<div class = "quiz">40. According to the passage, scientists studying Mars to determine the planet's potential for supporting life are especially looking for:
+<div class = "choice">F. signs of water deposits.</div>
+<div class = "choice">G. traces of a geothermal beat source.</div>
+<div class = "choice">H. chemical readings showing high oxygen levels.</div>
+<div class = "choice">J. proof that the planet is between.4.and 4.5 billion years old.</div>
+
+###################

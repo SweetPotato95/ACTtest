@@ -1,0 +1,53 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Planets revolve around the Sun in elliptical orbits, as shown in Figure 1.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\132.png' width = '292'height = '295'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The eccentricity of an ellipse describes its elongation; the more elongated the ellipse, the greater its eccentricity. The semimajor axis is half the length of the ellipse.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Perihelion (Angle θ=0°) is the point on the orbit closest to the Sun; aphelion (θ=180°) is the point on the orbit farthest from the Sun. The speed of a planet varies with θ. The speed of a planet versus θ is shown in Figure 2 for orbits with various eccentricities and semimajor axes.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2006 April 63E\imgs\133.png' width = '458'height = '1053'/></div>
+
+<br>
+###################
+<div class = "quiz">36. Consider a planet as it travels from θ=0° to θ=359° in an orbit with a semimajor axis of 1.5×10<img src='file:\$$$\resources\2006 April 63E\imgs\134.png' width = '16'height = '42'/> km and an eccentricity of 0.10. Based on the data in Figure 2, how many times does the planet have a speed of 30 km/sec as it travels between those 2 angles?
+<div class = "choice">F. One time</div>
+<div class = "choice">G. Two times</div>
+<div class = "choice">H. Three times</div>
+<div class = "choice">J. Four times</div>
+</div>
+###################
+<div class = "quiz">37. Based on the data in Figure 2, how does the speed of a planet change while it moves from perihelion to aphelion and while it moves from aphelion to perihelion?
+<div class = "choice">A. Perihelion to aphelion speed increases         Aphelion to perihelion speed increases</div>
+<div class = "choice">B. Perihelion to aphelion speed increases         Aphelion to perihelion speed decreases</div>
+<div class = "choice">C. Perihelion to aphelion speed decreases         Aphelion to perihelion speed increases</div>
+<div class = "choice">D. Perihelion to aphelion speed decreases         Aphelion to perihelion speed decreases</div>
+</div>
+###################
+<div class = "quiz">38. A planet will escape from the solar system if its orbital speed is greater than the escape velocity. Based on the data in Figure 2, if the semimajor axis is 1.5×10<img src='file:\$$$\resources\2006 April 63E\imgs\135.png' width = '16'height = '42'/> km, the eccentricity is 0.10, and the escape velocity at perihelion is 44.2 km/sec, will the planet escape the solar system?
+<div class = "choice">F. Yes, because the planet's orbital speed at perihelion is greater than the escape velocity.</div>
+<div class = "choice">G. Yes, because the planet's orbital speed at perihelion is less than the escape velocity.</div>
+<div class = "choice">H. No, because the planet's orbital speed at perihelion is greater than the escape velocity.</div>
+<div class = "choice">J. No, because the planet's orbital speed at perihelion is less than the escape velocity.</div>
+</div>
+###################
+<div class = "quiz">39. Based on the data in Figure 2, the orbital speed of a planet will most likely remain constant if the eccentricity of the planet's orbit is:
+<div class = "choice">A. exactly 0.</div>
+<div class = "choice">B. between 0.1 and 0.5.</div>
+<div class = "choice">C. between 0.5 and 0.9.</div>
+<div class = "choice">D. exactly 1.</div>
+</div>
+###################
+<div class = "quiz">40. Based on the data in Figure 2, for a planet in an orbit around the Sun with a semimajor axis of 3.0×10<img src='file:\$$$\resources\2006 April 63E\imgs\136.png' width = '16'height = '42'/> km and an eccentricity of 0.05, the speed at θ=0° will be:
+<div class = "choice">F. less than 23 km/sec.</div>
+<div class = "choice">G. between 23 km/sec and 26 km/sec.</div>
+<div class = "choice">H. between 26 km/sec and 28 km/sec.</div>
+<div class = "choice">J. greater than 28 km/sec.</div>
+<br>
+</div>
+###################

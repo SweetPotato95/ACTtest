@@ -1,0 +1,56 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿A mole is <img src='file:\$$$\resources\2007 Dec 65E\imgs\176.png' width = '75'height = '34'/> molecules or formula units of a compound. Thus, the number of sucrose molecules in 1 mole of sucrose equals the number of NaCl units in 1 mole of NaCl. Molality (m) is a unit of concentration defined as:</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\177.png' width = '206'height = '69'/></div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When a substance is dissolved in a solvent, the freezing and boiling points of the solution will differ from those of the pure solvent. These changes depend on the concentration of solute particles in the solution. Figures 1 and 2 show how the freezing point and the boiling point, respectively, of <img src='file:\$$$\resources\2007 Dec 65E\imgs\178.png' width = '54'height = '38'/> at 1 atm of pressure vary with concentration</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\179.png' width = '460'height = '525'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2007 Dec 65E\imgs\180.png' width = '432'height = '459'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+###################
+<div class = "quiz">13. Based on the trends in Figure 2, which of the following aqueous solutions would have the highest boiling point?
+<div class = "choice">A. 1.20 m <img src='file:\$$$\resources\2007 Dec 65E\imgs\181.png' width = '65'height = '38'/></div>
+<div class = "choice">B. 1.40 m NaCl</div>
+<div class = "choice">C. 1.60 m sucrose</div>
+<div class = "choice">D. 1.80 m sucrose</div>
+</div>
+###################
+<div class = "quiz">14. For sucrose, which of the following values is sufficient to convert the values on the x-axes of Figures 1 and 2 to grams of solute per kg of solvent?
+<div class = "choice">F. Freezing point</div>
+<div class = "choice">G. Boiling point</div>
+<div class = "choice">H. Molar mass</div>
+<div class = "choice">J. Atomic number</div>
+</div>
+###################
+<div class = "quiz">15. Based on Figure 1, the freezing point of a solution composed of 1.20 moles of NaCl dissolved in 1 kg of <img src='file:\$$$\resources\2007 Dec 65E\imgs\182.png' width = '54'height = '38'/> would be closest to which of the following?
+<div class = "choice">A. -5.7℃</div>
+<div class = "choice">B. -4.3℃</div>
+<div class = "choice">C. -3.8℃</div>
+<div class = "choice">D. -2.2℃</div>
+</div>
+###################
+<div class = "quiz">16. Based on Figure 1, as the mass of sucrose dissolved in a given amount of solvent increases, the freezing point of the solution will:
+<div class = "choice">F. increase linearly.</div>
+<div class = "choice">G. increase, but not linearly.</div>
+<div class = "choice">H. decrease linearly.</div>
+<div class = "choice">J. decrease, but not linearly.</div>
+</div>
+###################
+<div class = "quiz">17. A student claimed that, per formula unit, adding NaCl changes the boiling point of <img src='file:\$$$\resources\2007 Dec 65E\imgs\183.png' width = '54'height = '38'/> more than adding<img src='file:\$$$\resources\2007 Dec 65E\imgs\184.png' width = '65'height = '38'/>. Does Figure 2 support this claim?
+<div class = "choice">A. No; at a given concentration, NaCl caused a smaller increase in the boiling point.</div>
+<div class = "choice">B. No; at a given concentration, NaCl caused a smaller decrease in the boiling point.</div>
+<div class = "choice">C. Yes; at a given concentration, NaCl caused a greater increase in the boiling point.</div>
+<div class = "choice">D. Yes; at a given concentration, NaCl caused a greater decrease in the boiling point.</div>
+<br>
+</div>
+###################

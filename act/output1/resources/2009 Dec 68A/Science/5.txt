@@ -1,0 +1,59 @@
+﻿<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">For a photon to free an electron from a metal, the photon's frequency, f, must equal or exceed the threshold frequency, <img src='file:\$$$\resources\2009 Dec 68A\imgs\204.png' width = '28'height = '36'/>, for the metal. If<img src='file:\$$$\resources\2009 Dec 68A\imgs\205.png' width = '65'height = '36'/>, the photon has extra energy that is transferred to the electron as kinetic energy, resulting in the ejection of the electron from the metal. <img src='file:\$$$\resources\2009 Dec 68A\imgs\206.png' width = '46'height = '36'/>is the highest kinetic energy an ejected electron can have for a given f.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Table 1 displays <img src='file:\$$$\resources\2009 Dec 68A\imgs\207.png' width = '28'height = '36'/> for the metals calcium (Ca), magnesium (Mg), mercury (Hg), and platinum (Pt). Figure 1 is a graph of <img src='file:\$$$\resources\2009 Dec 68A\imgs\208.png' width = '46'height = '36'/> versus f for each of the 4 metals. Figure 2 is a graph of a photon's energy versus its f.</div>
+
+<br>
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:280.2pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="187"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:124.2pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Metal</span></p></td><td style="width:156.0pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="104"><p align="center"  style="text-align:center"><span lang="EN-US">fT(10<sup>14</sup>Hz)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:124.2pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="83"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Ca</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Mg</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Hg</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>Pt</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p></td><td style="width:156.0pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="104"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>6.55</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>8.84</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10.9</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>13.0</span></p></td></tr></table></div>
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\209.png' width = '375'height = '265'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 Dec 68A\imgs\210.png' width = '387'height = '288'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+###################
+<div class = "quiz">24. For a photon to free an electron from Ca, the photon's frequency must be at least:
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\211.png' width = '126'height = '40'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\212.png' width = '129'height = '40'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\213.png' width = '129'height = '40'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2009 Dec 68A\imgs\214.png' width = '129'height = '40'/></div>
+</div>
+###################
+<div class = "quiz">25. Based on Figure 1, which of the following correctly ranks Ca, Mg, and Pt in order of increasing <img src='file:\$$$\resources\2009 Dec 68A\imgs\215.png' width = '46'height = '40'/> at<img src='file:\$$$\resources\2009 Dec 68A\imgs\216.png' width = '166'height = '40'/>?
+<div class = "choice">A. Pt, Mg, Ca</div>
+<div class = "choice">B. Pt, Ca, Mg</div>
+<div class = "choice">C. Mg, Pt, Ca</div>
+<div class = "choice">D. Mg, Ca, Pt</div>
+</div>
+###################
+<div class = "quiz">26. Based on Table 1 and Figure 2, the threshold energy, <img src='file:\$$$\resources\2009 Dec 68A\imgs\217.png' width = '31'height = '36'/>, for Hg is closest to which of the following?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\218.png' width = '129'height = '36'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\219.png' width = '129'height = '36'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\220.png' width = '130'height = '36'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2009 Dec 68A\imgs\221.png' width = '129'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">27. Based on Figure 1, for electrons ejected from Pt by photons having<img src='file:\$$$\resources\2009 Dec 68A\imgs\222.png' width = '168'height = '40'/>, <img src='file:\$$$\resources\2009 Dec 68A\imgs\223.png' width = '46'height = '40'/>would be:
+<div class = "choice">A. less than<img src='file:\$$$\resources\2009 Dec 68A\imgs\224.png' width = '145'height = '36'/>.</div>
+<div class = "choice">B. between <img src='file:\$$$\resources\2009 Dec 68A\imgs\225.png' width = '145'height = '36'/> and<img src='file:\$$$\resources\2009 Dec 68A\imgs\226.png' width = '148'height = '36'/>.</div>
+<div class = "choice">C. between <img src='file:\$$$\resources\2009 Dec 68A\imgs\227.png' width = '148'height = '36'/> and<img src='file:\$$$\resources\2009 Dec 68A\imgs\228.png' width = '148'height = '36'/>.</div>
+<div class = "choice">D. greater than<img src='file:\$$$\resources\2009 Dec 68A\imgs\229.png' width = '148'height = '36'/>.</div>
+</div>
+###################
+<div class = "quiz">28. Photons having <img src='file:\$$$\resources\2009 Dec 68A\imgs\230.png' width = '166'height = '40'/> and photons having <img src='file:\$$$\resources\2009 Dec 68A\imgs\231.png' width = '163'height = '40'/> are shone separately upon a new metal, Metal X, resulting in ejected electrons with the following<img src='file:\$$$\resources\2009 Dec 68A\imgs\232.png' width = '46'height = '36'/>:
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US">f(10<sup>14</sup>Hz)</span></p></td><td style="border:solid black 1.0pt;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p  style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US">Kmax(10<sup>-19</sup>joule)</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>11.8</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>13.3</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2.5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>3.5</span></p></td></tr></table></div>
+Based on Figure 1 and Table 1' the <img src='file:\$$$\resources\2009 Dec 68A\imgs\233.png' width = '28'height = '40'/> of Metal X is most likely closest to which of the following?
+<div class = "choice">F.<img src='file:\$$$\resources\2009 Dec 68A\imgs\234.png' width = '127'height = '46'/></div>
+<div class = "choice">G.<img src='file:\$$$\resources\2009 Dec 68A\imgs\235.png' width = '126'height = '46'/></div>
+<div class = "choice">H.<img src='file:\$$$\resources\2009 Dec 68A\imgs\236.png' width = '136'height = '46'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2009 Dec 68A\imgs\237.png' width = '136'height = '46'/></div>
+<br>
+</div>
+###################

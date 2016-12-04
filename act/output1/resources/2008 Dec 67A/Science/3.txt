@@ -1,0 +1,62 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Pore water is water in the pores, of subsurface material. Pore water chemistry in 2 wetlands-a fen and a bog-was studied during a 1990 summer drought and again the next summer, which had normal rainfall. The primary water supplies for fens and bogs are respectively, ground-water and rainfall. Figure 1 shows the methane (CH<sub>4</sub>) gas concentration in the pore water at various depths in the fen and the bog. Figures 2 and 3 show the pore water conductivity (which is directly proportional to the concentration of dissolved ions) and pH at various depths in the fen and the bog, respectively. Also shown are the locations of the water table, the peat (partially decomposed plant material) layer, and the mineral soil layer.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\190.png' width = '582'height = '450'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\191.png' width = '513'height = '316'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2008 Dec 67A\imgs\192.png' width = '588'height = '304'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Note: Mineral soil is composed mainly of mineral matter.</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figures adapted from Edwin Romanowicz, Donald Siegel, and Paul Glaser, "Hydraulic Reversals and Episodic Methane Emissions During Drought Cycles in Mires." ©1993 by the Geological Society of America.</div>
+
+<br>
+###################
+<div class = "quiz">13. According to Figure 2, the conductivity of fen pore water in 1990 at a depth of 2.5 m was closest to which of the following?.
+<div class = "choice">A. 350 μmho/cm</div>
+<div class = "choice">B. 475μmho/cm</div>
+<div class = "choice">C. 600μmho/cm</div>
+<div class = "choice">D. 725μmho/cm</div>
+</div>
+###################
+<div class = "quiz">14. Based on Figure 2, if the pH of pore water in the fen at a depth of 2.7 m had been measured in the summer of 1991, it would most likely have been closest to which of the following?
+<div class = "choice">F. 4.0</div>
+<div class = "choice">G. 5.5</div>
+<div class = "choice">H. 7.0</div>
+<div class = "choice">J. 8.5</div>
+</div>
+###################
+<div class = "quiz">15. Which of the following is the most likely explanation for the difference in the depth of the bog water table in the 2 years?
+<div class = "choice">A. The amount of groundwater discharged to the bog was higher during the drought, and therefore the bog received more water than normal.</div>
+<div class = "choice">B. The amount of groundwater discharged to the bog was higher during the drought, and therefore the bog received less water than normal.</div>
+<div class = "choice">C. The amount of rainfall received by the bog was higher during the drought, and therefore: the bog received more water than, normal.</div>
+<div class = "choice">D. The amount of rainfall received by the bog was lower during the drought, and therefore the bog received less water than normal.</div>
+</div>
+###################
+<div class = "quiz">16. If the data in figures 2 and 3 are typical of fens and bogs in general, one would most likely make which of the following conclusions about the peat layer in a fen and in a bog?
+<div class = "choice">F. The peat layer in both a fen and a bog is completely above the water table at all times.</div>
+<div class = "choice">G. The peat layer in both .a fen and a bog is completely below the water table at all times.</div>
+<div class = "choice">H. The peat layer in a fen is thicker than the peat layer in a bog.</div>
+<div class = "choice">J. The peat layer in a fen is thinner than the peat layer in a bog.</div>
+</div>
+###################
+<div class = "quiz">17. According to Figure 1, the average concentration, of CH<sub>4</sub> over the depths from 0.0 m to 3.0 m was higher during the summer of:
+<div class = "choice">A. normal rainfall than during the summer of drought in both wetlands.</div>
+<div class = "choice">B. normal rainfall than during the summer of drought in the fen only.</div>
+<div class = "choice">C. drought than during the summer of normal rainfall -in both wetlands.</div>
+<div class = "choice">D. drought than during the summer of normal rainfall in. the bog only.</div>
+</div>
+###################

@@ -65,7 +65,7 @@ private static boolean isPartMode = false;	private static boolean isDuringTest =
 		}
 	}
 	public static void handleNext(){
-		
+
 		needUpdatePassage = false;
 		if(partIndex >= basicInfo.getTotalPartNum()){
 			handleScore();
@@ -277,7 +277,7 @@ private static boolean isPartMode = false;	private static boolean isDuringTest =
 		return isDuringTest &&((partIndex != ModelConstants.WRITING) || (partIndex == ModelConstants.WRITING && isInstructionShowing));
 	}
 	public static boolean needUpdatePa(){
-		return needUpdatePassage | (questionIndexinSplit(questionIndex)==0);
+		return needUpdatePassage | (questionIndexinSplit(questionIndex)==0) | partIndex!=ModelConstants.SCIENCE;
 	}
 	
 };

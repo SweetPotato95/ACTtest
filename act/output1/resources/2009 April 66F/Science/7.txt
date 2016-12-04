@@ -1,0 +1,62 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">When a temperature difference (<img src='file:\$$$\resources\2009 April 66F\imgs\161.png' width = '36'height = '26'/>) exists be ween the ends of an insulated-metal rod (see Figure 1), heat flows from one end of the rod to the other. (<img src='file:\$$$\resources\2009 April 66F\imgs\162.png' width = '124'height = '34'/>, where <img src='file:\$$$\resources\2009 April 66F\imgs\163.png' width = '28'height = '34'/> and <img src='file:\$$$\resources\2009 April 66F\imgs\164.png' width = '26'height = '34'/> represent the temperature of the hotter end and the colder end, respectively.)</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\165.png' width = '358'height = '293'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 1</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The rate at which heat flows is called the heat transfer rate, R.</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">The following data apply to insulated copper rods. Table 1 gives R versus <img src='file:\$$$\resources\2009 April 66F\imgs\166.png' width = '36'height = '26'/>for a 5 cm long rod with a cross- sectional area of 3 cm<sup>2</sup>. In Figure 2, R is plotted against length for rods having a <img src='file:\$$$\resources\2009 April 66F\imgs\167.png' width = '36'height = '26'/> of 30°C and a cross-sectional area of 3 cm<sup>2</sup>. In Figure 3, R is plotted against cross- sectional area for 5 cm long rods with a <img src='file:\$$$\resources\2009 April 66F\imgs\168.png' width = '36'height = '26'/> of 30°C.</div>
+
+<div class = "para" ><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td colspan="2" style="width:276.5pt;border:solid black 1.0pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>Table 1</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:127.1pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="85"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif'>VT</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>(ºC)</span><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'></span></p></td><td style="width:149.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="100"><p align="center"  style="text-align:center;mso-pagination:none"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>R</span></i><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>(W*)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:127.1pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="85"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>10</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>20</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>30</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>40</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>50</span></p></td><td style="width:149.4pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="100"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>24</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>48</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>71</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>95</span></p><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>118</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td colspan="2" style="width:276.5pt;border:solid black 1.0pt;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p align="center"  style="text-align:center;mso-pagination:none"><span lang="EN-US" style='font-size:21.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:宋体;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN'>*W=watt = joule/sec</span></p></td></tr></table></div>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\169.png' width = '367'height = '255'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 2</div>
+
+<br>
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"><img src='file:\$$$\resources\2009 April 66F\imgs\170.png' width = '348'height = '242'/></div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">Figure 3</div>
+
+<br>
+###################
+<div class = "quiz">36. The data in the passage best support the hypothesis that the value of R decreases as which of the following properties of insulated copper rods increases?
+<div class = "choice">F. Length</div>
+<div class = "choice">G. Cross-sectional area</div>
+<div class = "choice">H. AT</div>
+<div class = "choice">J. Radius</div>
+</div>
+###################
+<div class = "quiz">37. A and B are both insulated copper rods. Based on Figure 3, if B has the same length and <img src='file:\$$$\resources\2009 April 66F\imgs\171.png' width = '36'height = '26'/> as A, but B has double the cross-sectional area of A, the ratio of R for B to R for A will be:
+<div class = "choice">A. 1:4.</div>
+<div class = "choice">B. 1:2.</div>
+<div class = "choice">C. 2:1.</div>
+<div class = "choice">D. 4:1.</div>
+</div>
+###################
+<div class = "quiz">38. For any of the rods described in the passage, most heat is transferred between the ends; of the rod by which of the following processes?
+I. Radiation 	II. Convection	 III. Conduction
+<div class = "choice">F. I only</div>
+<div class = "choice">G. II only</div>
+<div class = "choice">H. III only</div>
+<div class = "choice">J. I and II only</div>
+</div>
+###################
+<div class = "quiz">39. Which of the following arrangements of identical insulated copper rods, all having the same <img src='file:\$$$\resources\2009 April 66F\imgs\172.png' width = '36'height = '26'/> between the hotter end (H) and the colder end (C), will have the highest value of R?
+<div class = "choice">A.<img src='file:\$$$\resources\2009 April 66F\imgs\173.png' width = '152'height = '42'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2009 April 66F\imgs\174.png' width = '272'height = '47'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2009 April 66F\imgs\175.png' width = '352'height = '48'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2009 April 66F\imgs\176.png' width = '492'height = '47'/></div>
+</div>
+###################
+<div class = "quiz">40. Based on the data in the passage, which of the following pairs of temperatures at the ends of identical insulated copper rods will result in the highest value of R?
+<div class = "choice">F. T<sub>H</sub>(°C): 280, T<sub>C</sub>(°C): 250</div>
+<div class = "choice">G. T<sub>H</sub>(°C): 280, T<sub>C</sub>(°C): 260</div>
+<div class = "choice">H. T<sub>H</sub>(°C): 300, T<sub>C</sub>(°C): 280</div>
+<div class = "choice">J. T<sub>H</sub>(°C): 310, T<sub>C</sub>(°C): 300</div>
+</div>
+###################

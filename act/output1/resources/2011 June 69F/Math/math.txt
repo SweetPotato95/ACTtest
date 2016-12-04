@@ -1,0 +1,528 @@
+﻿
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;">﻿</div>
+
+<div class = "para" style = "font-size: 16;font-family:Microsoft YAHEI;"></div>
+
+###################
+<div class = "quiz">1. What is the perimeter, in centimeters, of a rectangle with length 14 cm and width 9 cm?
+<div class = "choice">A. 23</div>
+<div class = "choice">B. 28</div>
+<div class = "choice">C. 46</div>
+<div class = "choice">D. 126</div>
+<div class = "choice">E. 252</div>
+</div>
+###################
+<div class = "quiz">2. The 1st term in the geometric sequence below is -4. If it can be determined, what is the 6th term?
+-4, 8, -16, 32, -64, …
+<div class = "choice">F. 128</div>
+<div class = "choice">G. 96</div>
+<div class = "choice">H. -96</div>
+<div class = "choice">J. -128</div>
+<div class = "choice">K. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">3. If r=8, b=3, and g=-5, what does (r+b-g)(b+g) equal?
+<div class = "choice">A. -32</div>
+<div class = "choice">B. -12</div>
+<div class = "choice">C. 12</div>
+<div class = "choice">D. 14</div>
+<div class = "choice">E. 32</div>
+</div>
+###################
+<div class = "quiz">4. Every year on Inari's birthday, her uncle gives her $10, plus $2 for each year of her age. How old will Inari be when she receives $34 from her uncle on her birthday?
+<div class = "choice">F. 7</div>
+<div class = "choice">G. 12</div>
+<div class = "choice">H. 14</div>
+<div class = "choice">J. 22</div>
+<div class = "choice">K. 29</div>
+</div>
+###################
+<div class = "quiz">5. For what value of x is the equation -2x+3=-21 trur?
+<div class = "choice">A. -22</div>
+<div class = "choice">B. -12</div>
+<div class = "choice">C. -9</div>
+<div class = "choice">D. 9</div>
+<div class = "choice">E. 12</div>
+</div>
+###################
+<div class = "quiz">6. What is the mean of the list of numbers below?
+62, 100, 93, 62, 72, 78, 50, 85, 62, 36
+<div class = "choice">F. 62</div>
+<div class = "choice">G. 64</div>
+<div class = "choice">H. 67</div>
+<div class = "choice">J. 70</div>
+<div class = "choice">K. 75</div>
+</div>
+###################
+<div class = "quiz">7. Adam is baking a cake for his friend's birthday. The cake requires <img src='file:\$$$\resources\2011 June 69F\imgs\0.png' width = '35'height = '65'/> cups of cocoa, and the frosting requires <img src='file:\$$$\resources\2011 June 69F\imgs\1.png' width = '24'height = '65'/> cup of cocoa. How many caps of cocoa does Adam need?
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\2.png' width = '45'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\3.png' width = '35'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\4.png' width = '35'height = '65'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 June 69F\imgs\5.png' width = '38'height = '65'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 June 69F\imgs\6.png' width = '50'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">8. In a level field, a vertical pole with a height of 6 feet casts a 10-foot shadow. At the same time, a tree growing in this field casts a 90-foot shadow. What is the height; in feet, of the tree?
+<div class = "choice">F. 9</div>
+<div class = "choice">G. 15</div>
+<div class = "choice">H. 54</div>
+<div class = "choice">J. 60</div>
+<div class = "choice">K. 150</div>
+</div>
+###################
+<div class = "quiz">9. The total cost of renting a car is $35.00 for each day the car is rented plus 37.5￠ for each mile the car is driven. What is the total cost of renting the car for 4 days and driving 300 miles?
+(Note: No sales tax is involved.)
+<div class = "choice">A. $ 116.50</div>
+<div class = "choice">B. $ 151.25</div>
+<div class = "choice">C. $ 252.50</div>
+<div class = "choice">D. $ 280.00</div>
+<div class = "choice">E. $1,265.00</div>
+</div>
+###################
+<div class = "quiz">10. The expression <img src='file:\$$$\resources\2011 June 69F\imgs\7.png' width = '176'height = '34'/>is equivalent to:
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\8.png' width = '110'height = '34'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\9.png' width = '178'height = '34'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\10.png' width = '178'height = '34'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\11.png' width = '169'height = '34'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\12.png' width = '169'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">11. When solved for y, what is 3x +5y-13 = 0?
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\13.png' width = '132'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\14.png' width = '132'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\15.png' width = '117'height = '65'/></div>
+<div class = "choice">D. y=-3x-8</div>
+<div class = "choice">E. y =-15x-65</div>
+</div>
+###################
+<div class = "quiz">12. The speed of one bus exceeds 3 times the speed of another bus by 20 mph. The speed of the slower bus is k mph. Which of the following expressions represents the speed of the faster bus, in miles per hour?
+<div class = "choice">F. k+<img src='file:\$$$\resources\2011 June 69F\imgs\16.png' width = '36'height = '65'/></div>
+<div class = "choice">G. k-20</div>
+<div class = "choice">H. k+20</div>
+<div class = "choice">J. 3k-20</div>
+<div class = "choice">K. 3k+20</div>
+</div>
+###################
+<div class = "quiz">13. At 2:00 a.m., the temperature is -15°F. For the next 3 hours, the temperature decreases 2°F per hour. What is the temperature at 5:00 a.m.?
+<div class = "choice">A. -21°F</div>
+<div class = "choice">B. -17°F</div>
+<div class = "choice">C. -15°F</div>
+<div class = "choice">D. -13°F</div>
+<div class = "choice">E. -9°F</div>
+</div>
+###################
+<div class = "quiz">14. Jing took 6 hours to Travel 250 miles by car to Mirror Lake. The graph below shows the distance she traveled versus time: Among the following statements, which one best describes what happened during the interval between 2 hours and 4 hours?
+<img src='file:\$$$\resources\2011 June 69F\imgs\17.png' width = '439'height = '340'/>
+<div class = "choice">F. The car traveled at 50 mph.</div>
+<div class = "choice">G. The car traveled 100 miles.</div>
+<div class = "choice">H. The car traveled 200 miles.</div>
+<div class = "choice">J. The car was stopped, and Jing had approximately 150 miles left to travel to Mirror Lake</div>
+<div class = "choice">K. The car was stopped and Jing had approximately 100 miles left to travel to Mirror Lake</div>
+</div>
+###################
+<div class = "quiz">15. A children's wading pool shown below, is in the shape of a right circular cylinder and has a diameter of 6 feet. The pool is filled to a uniform depth of 1.5 feet. Which of the following values is closest to the volume of water in the pool in cubic feet?
+<img src='file:\$$$\resources\2011 June 69F\imgs\18.png' width = '358'height = '226'/>
+(Note: The volume of a right cylinder is <img src='file:\$$$\resources\2011 June 69F\imgs\19.png' width = '54'height = '34'/> where r is the radius of the cylinder and h is the height of the cylinder.)
+<div class = "choice">A. 28</div>
+<div class = "choice">B. 42.</div>
+<div class = "choice">C. 57</div>
+<div class = "choice">D. 67</div>
+<div class = "choice">E. 133.</div>
+</div>
+###################
+<div class = "quiz">16. For the function<img src='file:\$$$\resources\2011 June 69F\imgs\20.png' width = '140'height = '46'/>, what is the value of f(-l)?
+<div class = "choice">F. 0</div>
+<div class = "choice">G. 1</div>
+<div class = "choice">H. 2</div>
+<div class = "choice">J. -4</div>
+<div class = "choice">K. -2</div>
+</div>
+###################
+<div class = "quiz">17. What is 125% of 332?
+<div class = "choice">A. 41.5</div>
+<div class = "choice">B. 265.6</div>
+<div class = "choice">C. 415</div>
+<div class = "choice">D. 4,150</div>
+<div class = "choice">E. 41,500</div>
+</div>
+###################
+<div class = "quiz">18. <img src='file:\$$$\resources\2011 June 69F\imgs\21.png' width = '300'height = '34'/>is equivalent to
+<div class = "choice">F. 2a+b-6c</div>
+<div class = "choice">G. 2 a+b+2 c</div>
+<div class = "choice">H. 2 a+9 b+6 c</div>
+<div class = "choice">J. 2 a+9 b-2 c</div>
+<div class = "choice">K. 10abe</div>
+</div>
+###################
+<div class = "quiz">19. In the standard (x,y) coordinate plane, the coordinates of the endpoints of <img src='file:\$$$\resources\2011 June 69F\imgs\22.png' width = '42'height = '36'/> are (6,8) and (14,18). What is the x-coordinate of the midpoint of<img src='file:\$$$\resources\2011 June 69F\imgs\23.png' width = '42'height = '36'/>?
+<div class = "choice">A. 7</div>
+<div class = "choice">B. 10</div>
+<div class = "choice">C. 13</div>
+<div class = "choice">D. 16</div>
+<div class = "choice">E. 20.</div>
+</div>
+###################
+<div class = "quiz">20. In the figure shown below, each side of square ABCD is 6 inches long. Point E lies inside the square, forming the equilateral triangle △ECD.
+<img src='file:\$$$\resources\2011 June 69F\imgs\24.png' width = '430'height = '442'/>
+What is the area, in square inches, of square ABCD?
+<div class = "choice">F. 9</div>
+<div class = "choice">G. 12</div>
+<div class = "choice">H. 18</div>
+<div class = "choice">J. 24</div>
+<div class = "choice">K. 36</div>
+</div>
+###################
+<div class = "quiz">21. In the figure shown below, each side of square ABCD is 6 inches long. Point E lies inside the square, forming the equilateral triangle △ECD.
+<img src='file:\$$$\resources\2011 June 69F\imgs\24.png' width = '430'height = '442'/>
+What is the measure of ∠BCE?
+<div class = "choice">A. 15°</div>
+<div class = "choice">B. 20°</div>
+<div class = "choice">C. 30°</div>
+<div class = "choice">D. 35°</div>
+<div class = "choice">E. 45°</div>
+</div>
+###################
+<div class = "quiz">22. In the figure shown below, each side of square ABCD is 6 inches long. Point E lies inside the square, forming the equilateral triangle △ECD.
+<img src='file:\$$$\resources\2011 June 69F\imgs\24.png' width = '430'height = '442'/>
+The entire figure is placed in the standard (x,y) coordinate plane such that the vertices of the square are A (6,6), B(0.6) C(0,0), and D(6,0). The x-coordinate of E is 3. Which of the following is line of symmetry for the figure?
+<div class = "choice">F. y=0</div>
+<div class = "choice">G. x=3</div>
+<div class = "choice">H. y=3</div>
+<div class = "choice">J. x=6</div>
+<div class = "choice">K. y=6</div>
+</div>
+###################
+<div class = "quiz">23. Beverly is using a punch recipe that calls for 2 parts ginger ale to 1 part fruit juice by volume Beverly is planning to make 12 liters of this punch for a party. How many liters of fruit juice does Beverly need in order to make 12 liters of this punch?
+<div class = "choice">A. 1</div>
+<div class = "choice">B. 3</div>
+<div class = "choice">C. 4</div>
+<div class = "choice">D. 6</div>
+<div class = "choice">E. 8</div>
+</div>
+###################
+<div class = "quiz">24. What is the solution to the equation<img src='file:\$$$\resources\2011 June 69F\imgs\25.png' width = '145'height = '65'/>?
+<div class = "choice">F. -15</div>
+<div class = "choice">G. -6</div>
+<div class = "choice">H.-5</div>
+<div class = "choice">J. 6</div>
+<div class = "choice">K. 15</div>
+</div>
+###################
+<div class = "quiz">25. For the line segment below, the ratio of the length of <img src='file:\$$$\resources\2011 June 69F\imgs\26.png' width = '41'height = '34'/> to the length of <img src='file:\$$$\resources\2011 June 69F\imgs\27.png' width = '41'height = '36'/>is 1:4. If it can be determined, what is the ratio of the length of <img src='file:\$$$\resources\2011 June 69F\imgs\28.png' width = '41'height = '34'/> to the length of<img src='file:\$$$\resources\2011 June 69F\imgs\29.png' width = '42'height = '36'/>?
+<img src='file:\$$$\resources\2011 June 69F\imgs\30.png' width = '248'height = '108'/>
+<div class = "choice">A. 1:3</div>
+<div class = "choice">B. 1:5</div>
+<div class = "choice">C. 4:1</div>
+<div class = "choice">D. 5:1</div>
+<div class = "choice">E. Cannot be determined from the given information</div>
+</div>
+###################
+<div class = "quiz">26. The line with equation 8x+3y=5 is graphed in the standard (x,y) coordinate plane. What is the slope of this line?
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\31.png' width = '38'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\32.png' width = '38'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\33.png' width = '22'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\34.png' width = '22'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\35.png' width = '22'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">27. The Kingston High School multimedia room has 108 seats, which are arranged in rows. The number of seats in each row is 3 less than the number of rows. How many rows of seats are in the multimedia room?
+<div class = "choice">A. 6</div>
+<div class = "choice">B. 9</div>
+<div class = "choice">C. 12</div>
+<div class = "choice">D. 18</div>
+<div class = "choice">E. 36</div>
+</div>
+###################
+<div class = "quiz">28. If 90°<0< 180° and sin<img src='file:\$$$\resources\2011 June 69F\imgs\36.png' width = '65'height = '65'/>, then cos<img src='file:\$$$\resources\2011 June 69F\imgs\37.png' width = '32'height = '29'/>?
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\38.png' width = '36'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\39.png' width = '36'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\40.png' width = '54'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\41.png' width = '54'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\42.png' width = '54'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">29. The table below gives the length and number of nails per pound for all types of nails available at Schulberg's Hardware. A 2-penny nail, for example, is represented in the "Nail type" column by the notation "2d." Nails bought at Schulberg's can be bought only in 1-pound packages. Each package contains only 1 type of nail.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Nail type</span></p></td><td style="width:120.5pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Length (inches)</span></p></td><td style="width:192.8pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Number of nails per 1 pound</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">9</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">10</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">12</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">16</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">40</span></p></td><td style="width:120.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5.00</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">876</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">568</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">316</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">271</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">181</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">161</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">106</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">96</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">69</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">64</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">49</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">31</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">24</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">18</span></p></td></tr></table></div>
+For nails with lengths between 1.00 and 3.00 inches, which of the following expressions gives the length, in inches, of an n-penny nail?
+<div class = "choice">A. 0.30n</div>
+<div class = "choice">B. 0.50n</div>
+<div class = "choice">C. 0.25n+0.50</div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 June 69F\imgs\43.png' width = '28'height = '34'/>+0.25</div>
+<div class = "choice">E. 2n-3.00</div>
+</div>
+###################
+<div class = "quiz">30. The table below gives the length and number of nails per pound for all types of nails available at Schulberg's Hardware. A 2-penny nail, for example, is represented in the "Nail type" column by the notation "2d." Nails bought at Schulberg's can be bought only in 1-pound packages. Each package contains only 1 type of nail.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Nail type</span></p></td><td style="width:120.5pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Length (inches)</span></p></td><td style="width:192.8pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Number of nails per 1 pound</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">9</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">10</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">12</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">16</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">40</span></p></td><td style="width:120.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5.00</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">876</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">568</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">316</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">271</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">181</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">161</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">106</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">96</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">69</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">64</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">49</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">31</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">24</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">18</span></p></td></tr></table></div>
+Hadji bought 1 package of 4d nails and packages of 5d nails. These were the only nails he bought. What is the total number of nails that Hadji bought?
+<div class = "choice">F. 587</div>
+<div class = "choice">G. 858</div>
+<div class = "choice">H. 903</div>
+<div class = "choice">J. 2,619</div>
+<div class = "choice">K. 2,664</div>
+</div>
+###################
+<div class = "quiz">31. The table below gives the length and number of nails per pound for all types of nails available at Schulberg's Hardware. A 2-penny nail, for example, is represented in the "Nail type" column by the notation "2d." Nails bought at Schulberg's can be bought only in 1-pound packages. Each package contains only 1 type of nail.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Nail type</span></p></td><td style="width:120.5pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Length (inches)</span></p></td><td style="width:192.8pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Number of nails per 1 pound</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">9</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">10</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">12</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">16</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">40</span></p></td><td style="width:120.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5.00</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">876</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">568</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">316</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">271</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">181</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">161</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">106</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">96</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">69</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">64</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">49</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">31</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">24</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">18</span></p></td></tr></table></div>
+Ty bought an equal number of 12d 30d, and 40d nails. What is the minimum number of nails of each size that Ty could have bought?
+<div class = "choice">A. 72</div>
+<div class = "choice">B. 120</div>
+<div class = "choice">C. 192</div>
+<div class = "choice">D. 432</div>
+<div class = "choice">E. 576</div>
+</div>
+###################
+<div class = "quiz">32. The table below gives the length and number of nails per pound for all types of nails available at Schulberg's Hardware. A 2-penny nail, for example, is represented in the "Nail type" column by the notation "2d." Nails bought at Schulberg's can be bought only in 1-pound packages. Each package contains only 1 type of nail.
+<div class = "para""><table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Nail type</span></p></td><td style="width:120.5pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Length (inches)</span></p></td><td style="width:192.8pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">Number of nails per 1 pound</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:83.1pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="55"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">7</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">9</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">10</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">12</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">16</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">20</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">30</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">40</span></p></td><td style="width:120.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">2.75</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.25</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.00</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">4.50</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5.00</span></p></td><td style="width:192.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="129"><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">876</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">568</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">316</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">271</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">181</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">161</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">106</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">96</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">69</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">64</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">49</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">31</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">24</span></p><p align="center"  style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">18</span></p></td></tr></table>
+A. salesperson gave Miki the following advice to determine the size of nail to use: The length of a nail should be 3 times the thickness of the board being fastened to a wall According to this advice, what nail size should Miki use to fasten a 1.5-inch-thick board to a wall?
+<div class = "choice">F. 4d</div>
+<div class = "choice">G. 8d</div>
+<div class = "choice">H. 10d</div>
+<div class = "choice">J. 12d</div>
+<div class = "choice">K. 30d</div>
+</div>
+###################
+<div class = "quiz">33. In the standard (x,y) coordinate plane, the equation of a circle is<img src='file:\$$$\resources\2011 June 69F\imgs\44.png' width = '136'height = '38'/>. At what 2 points does the circle intersect the, y-axis?
+<div class = "choice">A. (0, 10) and (0,-10)</div>
+<div class = "choice">B. (0, 20) and (0,-20)</div>
+<div class = "choice">C. (0. 50) and (0,-50)</div>
+<div class = "choice">D. (0,100) and (0,-100)</div>
+<div class = "choice">E. (0, 200) and (0,-200)</div>
+</div>
+###################
+<div class = "quiz">34. <img src='file:\$$$\resources\2011 June 69F\imgs\45.png' width = '136'height = '38'/>is equivalent to:
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\46.png' width = '65'height = '38'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\47.png' width = '80'height = '38'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\48.png' width = '80'height = '38'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\49.png' width = '80'height = '38'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\50.png' width = '87'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">35. The fraction <img src='file:\$$$\resources\2011 June 69F\imgs\51.png' width = '46'height = '65'/> is equivalent to the repeating decimal 0.<img src='file:\$$$\resources\2011 June 69F\imgs\52.png' width = '42'height = '36'/>. What is the 85th digit to the right of the decimal point?
+<div class = "choice">A. 5</div>
+<div class = "choice">B. 6</div>
+<div class = "choice">C. 7</div>
+<div class = "choice">D. 8</div>
+<div class = "choice">E. 9</div>
+</div>
+###################
+<div class = "quiz">36. A jar contains exactly 12 gumballs, each of which is a solid color. There are 5 blue and 7 white gumballs. Chris will draw one gumball at random and then, without replacement, will draw another gumball from the jar at random Which of the fallowing expressions gives the probability that Chris will draw 2 blue gumballs?
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\53.png' width = '82'height = '65'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\54.png' width = '70'height = '65'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\55.png' width = '70'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\56.png' width = '68'height = '65'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\57.png' width = '68'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">37. Jonah has 72 solid-colored disks that are either red, blue, or green. He lines them up on the floor and finds that there are 15 more red disks than green and 9 more green disks than blue. How many red disks does he have?
+<div class = "choice">A. 13</div>
+<div class = "choice">B. 16</div>
+<div class = "choice">C. 22</div>
+<div class = "choice">D. 32</div>
+<div class = "choice">F. 37</div>
+</div>
+###################
+<div class = "quiz">38. A contactor charges $1.75 per square foot to waterproof the top surface of a wooden deck. What would be the contractor's charge for waterproofing the top surface of the trapezoid-shaped wooden deck shown below?
+<img src='file:\$$$\resources\2011 June 69F\imgs\58.png' width = '400'height = '209'/>
+<div class = "choice">F. $190.00</div>
+<div class = "choice">G. $297.50</div>
+<div class = "choice">H. $332.50</div>
+<div class = "choice">J. $429.00</div>
+<div class = "choice">K. $665.00</div>
+</div>
+###################
+<div class = "quiz">39. In △OBC shown in the standard (x,y) coordinate plane below, M is the midpoint of<img src='file:\$$$\resources\2011 June 69F\imgs\59.png' width = '41'height = '36'/>, N is the midpoint of<img src='file:\$$$\resources\2011 June 69F\imgs\60.png' width = '41'height = '36'/>, and Q is the midpoint of<img src='file:\$$$\resources\2011 June 69F\imgs\61.png' width = '42'height = '36'/>. Which of the following statements is always true?
+<img src='file:\$$$\resources\2011 June 69F\imgs\62.png' width = '319'height = '259'/>
+<div class = "choice">A. The slope of <img src='file:\$$$\resources\2011 June 69F\imgs\63.png' width = '46'height = '36'/>is equal to the slope of<img src='file:\$$$\resources\2011 June 69F\imgs\64.png' width = '42'height = '36'/>.</div>
+<div class = "choice">B. The product of the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\65.png' width = '46'height = '36'/> and the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\66.png' width = '42'height = '36'/> is -1.</div>
+<div class = "choice">C. The product t of the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\67.png' width = '46'height = '36'/> and the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\68.png' width = '41'height = '36'/> is -1.</div>
+<div class = "choice">D. The product of the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\69.png' width = '46'height = '36'/> and the slope of <img src='file:\$$$\resources\2011 June 69F\imgs\70.png' width = '41'height = '36'/> is 1.</div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 June 69F\imgs\73.png' width = '42'height = '36'/><img src='file:\$$$\resources\2011 June 69F\imgs\72.png' width = '22'height = '24'/><img src='file:\$$$\resources\2011 June 69F\imgs\71.png' width = '46'height = '36'/></div>
+</div>
+###################
+<div class = "quiz">40. The junior class at Silverwood High School sponsored a costume party. Each student wearing a costume paid $2 admission, and each student NOT wearing a costume paid $5 admission. An amount of $489 was collected from the 150 students who paid admission. How much of the amount was collected from students NOT wearing a costume?
+<div class = "choice">F. $245</div>
+<div class = "choice">G. $315</div>
+<div class = "choice">H. $349</div>
+<div class = "choice">J. $375</div>
+<div class = "choice">K. $435</div>
+</div>
+###################
+<div class = "quiz">41. Which of the following complex numbers is a sum of <img src='file:\$$$\resources\2011 June 69F\imgs\74.png' width = '64'height = '38'/> and<img src='file:\$$$\resources\2011 June 69F\imgs\75.png' width = '65'height = '38'/>?
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\76.png' width = '64'height = '38'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\77.png' width = '64'height = '38'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\78.png' width = '55'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 June 69F\imgs\79.png' width = '56'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 June 69F\imgs\80.png' width = '70'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">42. Point P lies on side <img src='file:\$$$\resources\2011 June 69F\imgs\81.png' width = '42'height = '34'/> of rectangle ABCD as shown below. The measure of ∠ABP is 67° and the length of <img src='file:\$$$\resources\2011 June 69F\imgs\82.png' width = '41'height = '34'/> is 7.5 inches. Which of the following expressions is the length, in inches, of<img src='file:\$$$\resources\2011 June 69F\imgs\83.png' width = '41'height = '34'/>?
+<img src='file:\$$$\resources\2011 June 69F\imgs\84.png' width = '439'height = '227'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\85.png' width = '84'height = '40'/></div>
+<div class = "choice">G. 2(7.5)</div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\86.png' width = '78'height = '65'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\87.png' width = '82'height = '65'/></div>
+<div class = "choice">K. 7.5 tan 67°</div>
+</div>
+###################
+<div class = "quiz">43. For any circle with 2 secants drawn from P to the circle, as shown in the figure below, the lengths of the segments of the secants are determined by a(a+b) = c(c+d).
+<img src='file:\$$$\resources\2011 June 69F\imgs\88.png' width = '159'height = '110'/>
+In the figure below, A, B, D, and E are on the circle. Point B is on secant segment<img src='file:\$$$\resources\2011 June 69F\imgs\89.png' width = '42'height = '36'/>, and D is on secant segment . The lengths of<img src='file:\$$$\resources\2011 June 69F\imgs\90.png' width = '82'height = '40'/>, and <img src='file:\$$$\resources\2011 June 69F\imgs\91.png' width = '41'height = '36'/> are given in meters. What is the length in meters, of<img src='file:\$$$\resources\2011 June 69F\imgs\92.png' width = '42'height = '34'/>?
+<img src='file:\$$$\resources\2011 June 69F\imgs\93.png' width = '131'height = '134'/>
+<div class = "choice">A. 6</div>
+<div class = "choice">B. 7</div>
+<div class = "choice">C. 9</div>
+<div class = "choice">D. 10</div>
+<div class = "choice">E. 12</div>
+</div>
+###################
+<div class = "quiz">44. While lifting weights, a person sits on an incline weight bench and pushes the weights straight up, as shown in the figure below on the left. The weight bench is shown below on the right The angle between the horizontal seat and the backrest is 110°. What is the measure of the angle between the backrest and the vertical path of the weights?
+<img src='file:\$$$\resources\2011 June 69F\imgs\94.png' width = '358'height = '263'/>
+<div class = "choice">E. 70°</div>
+<div class = "choice">G. 110°</div>
+<div class = "choice">H. 130°</div>
+<div class = "choice">J. 160°</div>
+<div class = "choice">K. 250°</div>
+</div>
+###################
+<div class = "quiz">45. In the standard (x,y) coordinate plane, the graph of y=<img src='file:\$$$\resources\2011 June 69F\imgs\95.png' width = '28'height = '34'/>is shifted 5 units down and 4 units right. Which of the following is an equation of the translated graph?
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\96.png' width = '155'height = '38'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\97.png' width = '155'height = '38'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\98.png' width = '155'height = '38'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 June 69F\imgs\99.png' width = '155'height = '38'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 June 69F\imgs\100.png' width = '155'height = '38'/></div>
+</div>
+###################
+<div class = "quiz">46. Wheal Kaylee kicked the winning soccer goal she was 10 yards behind the midfield line and 5 yards from the sideline, as shown in the figure below. To the nearest yard, how far was Kaylee from the center of the goal line when she kicked the winning goal?
+<img src='file:\$$$\resources\2011 June 69F\imgs\101.png' width = '400'height = '255'/>
+<div class = "choice">F. 60</div>
+<div class = "choice">G. 65</div>
+<div class = "choice">H. 67</div>
+<div class = "choice">J. 70</div>
+<div class = "choice">K. 72</div>
+</div>
+###################
+<div class = "quiz">47. A sector of a circle has an area equal to <img src='file:\$$$\resources\2011 June 69F\imgs\102.png' width = '32'height = '65'/> of the area of the circle. What is the measure of the sector's central angle?
+<div class = "choice">A. 37.5°</div>
+<div class = "choice">B. 75°</div>
+<div class = "choice">C. 105°</div>
+<div class = "choice">D. 150°</div>
+<div class = "choice">E. 210°</div>
+</div>
+###################
+<div class = "quiz">48. List B consists of all the integers in List A below and also 3 integers a, b, and c, where a<img src='file:\$$$\resources\2011 June 69F\imgs\103.png' width = '19'height = '25'/>17, b = c. and b<img src='file:\$$$\resources\2011 June 69F\imgs\104.png' width = '19'height = '25'/>42. What is the median of the integer in List B?
+List A: 12, 16, 17, 29, 29, 35, 41, 42, 47, 47, 50
+<div class = "choice">F. 29</div>
+<div class = "choice">G. 32</div>
+<div class = "choice">H. 35</div>
+<div class = "choice">J. 38</div>
+<div class = "choice">K. 41</div>
+</div>
+###################
+<div class = "quiz">49. The solution set for the inequality <img src='file:\$$$\resources\2011 June 69F\imgs\105.png' width = '112'height = '42'/> is<img src='file:\$$$\resources\2011 June 69F\imgs\106.png' width = '129'height = '46'/>. What is the value of a?
+<div class = "choice">A. -1</div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\107.png' width = '38'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\108.png' width = '36'height = '65'/></div>
+<div class = "choice">D. 5</div>
+<div class = "choice">E. 11</div>
+</div>
+###################
+<div class = "quiz">50. Which of the following is the least common denominator for the expression below?
+<img src='file:\$$$\resources\2011 June 69F\imgs\109.png' width = '305'height = '65'/>
+<div class = "choice">F. 17·23</div>
+<div class = "choice">G. 17·23·61</div>
+<div class = "choice">H. 17·23·<img src='file:\$$$\resources\2011 June 69F\imgs\110.png' width = '38'height = '34'/></div>
+<div class = "choice">J.<img src='file:\$$$\resources\2011 June 69F\imgs\111.png' width = '38'height = '34'/>·<img src='file:\$$$\resources\2011 June 69F\imgs\112.png' width = '38'height = '34'/>·<img src='file:\$$$\resources\2011 June 69F\imgs\113.png' width = '38'height = '34'/></div>
+<div class = "choice">K.<img src='file:\$$$\resources\2011 June 69F\imgs\114.png' width = '38'height = '34'/>·<img src='file:\$$$\resources\2011 June 69F\imgs\115.png' width = '38'height = '34'/>·<img src='file:\$$$\resources\2011 June 69F\imgs\116.png' width = '38'height = '34'/></div>
+</div>
+###################
+<div class = "quiz">51. As shown in the figure below, the drill holes for Well A and Well B are 300 feet apart ort level ground. Well. A is dug straight dawn and reaches oil at 2,000 feet Well B is dug straight down and reaches oil at 1,500 feet What is the angle of elevation from the point where Well A reaches oil to the point where Well B reaches oil?
+(Note: The figure is NOT drawn to scale.)
+<img src='file:\$$$\resources\2011 June 69F\imgs\117.png' width = '358'height = '232'/>
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\118.png' width = '97'height = '71'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\119.png' width = '101'height = '71'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\120.png' width = '98'height = '71'/></div>
+<div class = "choice">D. <img src='file:\$$$\resources\2011 June 69F\imgs\121.png' width = '101'height = '71'/></div>
+<div class = "choice">E. <img src='file:\$$$\resources\2011 June 69F\imgs\122.png' width = '98'height = '71'/></div>
+</div>
+###################
+<div class = "quiz">52. Tables of values for the 2 functions f and g are shown below. What is the value of g(f (5))?
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:57.8pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p align="right"  style="text-align:right"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">x</span></i></p></td><td style="width:121.7pt;border-bottom:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="81"><p align="right"  style="margin-right:30.0pt;text-align:right"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;color:black">f</span></i><span lang="EN-US" style="mso-bidi-font-size:10.5pt;color:black">(<i style="mso-bidi-font-style:normal">x</i>)<i style="mso-bidi-font-style:normal"></i></span></p></td><td style="width:54.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="37"><p align="right"  style="margin-right:30.0pt;text-align:right"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;color:black"> </span></i></p></td><td style="width:70.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p align="right"  style="margin-right:6.0pt;text-align:right"><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;color:black">x</span></i></p></td><td style="width:61.6pt;border-bottom:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="41"><p ><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">g</span></i><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">(<i style="mso-bidi-font-style:normal">x</i>)</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:57.8pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p align="right"  style="text-align:right"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p align="right"  style="text-align:right"><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p align="right"  style="text-align:right"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1</span></p><p align="right"  style="text-align:right"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p></td><td style="width:121.7pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="81"><p  style="text-indent:5.9pt;mso-char-indent-count:.49"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">8</span></p><p ><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p><p  style="text-indent:5.9pt;mso-char-indent-count:.49"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p  style="text-indent:5.9pt;mso-char-indent-count:.49"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p></td><td style="width:54.9pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="37"><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black"> </span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black"> </span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black"> </span></p><p ><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black"> </span></p></td><td style="width:70.9pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p ><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p  style="text-indent:11.8pt;mso-char-indent-count:.98"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1</span></p><p  style="text-indent:11.8pt;mso-char-indent-count:.98"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">3</span></p><p  style="text-indent:11.8pt;mso-char-indent-count:.98"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p></td><td style="width:61.6pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="41"><p  style="text-indent:11.8pt;mso-char-indent-count:.98"><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p ><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">1</span></p><p ><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">5</span></p><p ><span style='mso-bidi-font-size:21.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:black'>-</span><span lang="EN-US" style="mso-bidi-font-size:21.0pt;color:black">6</span></p></td></tr></table>
+<div class = "choice">F. -6</div>
+<div class = "choice">G. -5</div>
+<div class = "choice">H. 1</div>
+<div class = "choice">J. 3</div>
+<div class = "choice">K. 8</div>
+</div>
+###################
+<div class = "quiz">53. In the figure below, △ACD is a right triangle, B lies on<img src='file:\$$$\resources\2011 June 69F\imgs\123.png' width = '42'height = '36'/>, and tie measures of ∠DAC and ∠DBC are given The length of <img src='file:\$$$\resources\2011 June 69F\imgs\124.png' width = '41'height = '34'/> is 10 yards. What is the approximate length, in yards, of<img src='file:\$$$\resources\2011 June 69F\imgs\125.png' width = '41'height = '36'/>?
+<img src='file:\$$$\resources\2011 June 69F\imgs\126.png' width = '358'height = '301'/>
+<div class = "choice">A. 3.7</div>
+<div class = "choice">B. 4.1</div>
+<div class = "choice">C. 13.7</div>
+<div class = "choice">D. 15.7</div>
+<div class = "choice">E. 24.1</div>
+</div>
+###################
+<div class = "quiz">54. Far positive integers a and b, an operation △can be defined by a △ b =<img src='file:\$$$\resources\2011 June 69F\imgs\127.png' width = '64'height = '65'/>. When the sum of a and b is 5 and the product of a and b is 6, what is the value of a △ b?
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\128.png' width = '22'height = '65'/></div>
+<div class = "choice">G. 1</div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\129.png' width = '22'height = '65'/></div>
+<div class = "choice">J. 2</div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\130.png' width = '32'height = '65'/></div>
+</div>
+###################
+<div class = "quiz">55. Given the matrix equation shown below, what is<img src='file:\$$$\resources\2011 June 69F\imgs\131.png' width = '24'height = '65'/>?
+<img src='file:\$$$\resources\2011 June 69F\imgs\132.png' width = '250'height = '69'/>
+(Note: Whenever n is a positive integer, the notation n! represents the product of the integers from n to 1. For example, 3! = 3·2·1.)
+<div class = "choice">A. <img src='file:\$$$\resources\2011 June 69F\imgs\133.png' width = '32'height = '65'/></div>
+<div class = "choice">B. <img src='file:\$$$\resources\2011 June 69F\imgs\134.png' width = '22'height = '65'/></div>
+<div class = "choice">C. <img src='file:\$$$\resources\2011 June 69F\imgs\135.png' width = '24'height = '65'/></div>
+<div class = "choice">D. 4</div>
+<div class = "choice">E. 6</div>
+</div>
+###################
+<div class = "quiz">56. Graphed in the standard (x,y) coordinate plane below is the solution set for a system of 3 linear inequalities. For vales of x and y that satisfy this system, what is the maximum value of 6x-2y ?
+<img src='file:\$$$\resources\2011 June 69F\imgs\136.png' width = '330'height = '500'/>
+<div class = "choice">F. 2</div>
+<div class = "choice">G. 10</div>
+<div class = "choice">R. 12</div>
+<div class = "choice">J. 14</div>
+<div class = "choice">K. 22</div>
+</div>
+###################
+<div class = "quiz">57. The square base of a regular pyramid has a side length of 4 inches. Each of the other 4 faces of the pyramid is a triangle with a base of 4 inches and a height of 6 inches. The pyramid has a total surface area of 64 square inches. A second regular pyramid has a square base that is 4 inches by 4 inches, but its total surface area is double that of the first pyramid. What is the height, in inches, of each of the triangular faces of the second pyramid?
+<div class = "choice">A. 8</div>
+<div class = "choice">B. 12</div>
+<div class = "choice">C. 14</div>
+<div class = "choice">D. 16</div>
+<div class = "choice">E. 18</div>
+</div>
+###################
+<div class = "quiz">58. As shown in the figure below, a triangle has 2 sides each of length 5 feet and a 3rd side of length x feet The degree measure of the angle between the 2 sides, that are 5 feet long is<img src='file:\$$$\resources\2011 June 69F\imgs\137.png' width = '28'height = '30'/>. In terms of x, cos<img src='file:\$$$\resources\2011 June 69F\imgs\138.png' width = '28'height = '30'/>=?
+(Note: For any triangle, if a, b, and c are the lengths of the sides opposite ∠A, ∠B, and ∠C, respectively, then <img src='file:\$$$\resources\2011 June 69F\imgs\139.png' width = '181'height = '34'/> cos ∠A.)
+<img src='file:\$$$\resources\2011 June 69F\imgs\140.png' width = '183'height = '266'/>
+<div class = "choice">F. <img src='file:\$$$\resources\2011 June 69F\imgs\141.png' width = '80'height = '69'/></div>
+<div class = "choice">G. <img src='file:\$$$\resources\2011 June 69F\imgs\142.png' width = '80'height = '69'/></div>
+<div class = "choice">H. <img src='file:\$$$\resources\2011 June 69F\imgs\143.png' width = '78'height = '69'/></div>
+<div class = "choice">J. <img src='file:\$$$\resources\2011 June 69F\imgs\144.png' width = '80'height = '69'/></div>
+<div class = "choice">K. <img src='file:\$$$\resources\2011 June 69F\imgs\145.png' width = '78'height = '69'/></div>
+</div>
+###################
+<div class = "quiz">59. Which of the following diagrams provides information that is sufficient to prove that △PQR and △STU, shown below, are congruent?
+<img src='file:\$$$\resources\2011 June 69F\imgs\146.png' width = '520'height = '218'/>
+<div class = "choice">A.<img src='file:\$$$\resources\2011 June 69F\imgs\147.png' width = '260'height = '90'/></div>
+<div class = "choice">B.<img src='file:\$$$\resources\2011 June 69F\imgs\148.png' width = '229'height = '98'/></div>
+<div class = "choice">C.<img src='file:\$$$\resources\2011 June 69F\imgs\149.png' width = '229'height = '89'/></div>
+<div class = "choice">D.<img src='file:\$$$\resources\2011 June 69F\imgs\150.png' width = '220'height = '102'/></div>
+<div class = "choice">E.<img src='file:\$$$\resources\2011 June 69F\imgs\151.png' width = '251'height = '103'/></div>
+</div>
+###################
+<div class = "quiz">60. What is the value of c if x+2 is a factor of<img src='file:\$$$\resources\2011 June 69F\imgs\152.png' width = '192'height = '34'/>?
+<div class = "choice">F. -4</div>
+<div class = "choice">G. -2</div>
+<div class = "choice">H. 0</div>
+<div class = "choice">J. 1</div>
+<div class = "choice">K. 7</div>
+
+</div>
+###################
