@@ -65,6 +65,7 @@ private static boolean isPartMode = false;	private static boolean isDuringTest =
 		}
 	}
 	public static void handleNext(){
+		
 		needUpdatePassage = false;
 		if(partIndex >= basicInfo.getTotalPartNum()){
 			handleScore();
